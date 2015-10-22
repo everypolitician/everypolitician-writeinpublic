@@ -6,6 +6,7 @@
   "result": [
     {
       "email": "aaja.larsen@ft.dk",
+      "gender": "female",
       "id": "person/aaja-chemnitz-larsen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Aaja%20Chemnitz%20Larsen/Aaja_Chemnitz_Larsen_133.jpg.ashx",
       "name": "Aaja Chemnitz Larsen",
@@ -31,6 +32,7 @@
     },
     {
       "email": "aleqa.hammond@ft.dk",
+      "gender": "female",
       "id": "person/aleqa-hammond",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Aleqa%20Hammond/Aleqa_Hammond_133.jpg.ashx",
       "name": "Aleqa Hammond",
@@ -56,6 +58,7 @@
     },
     {
       "email": "dfalah@ft.dk",
+      "gender": "male",
       "id": "person/dfalah",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Alex_Ahrendtsen/Alex_AhrendtsenX133.jpg.ashx",
       "name": "Alex Ahrendtsen",
@@ -81,10 +84,23 @@
     },
     {
       "email": "anders.samuelsen@ft.dk",
+      "gender": "male",
       "id": "person/laansa",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/LA_Anders_Samuelsen/Anders_Samuelsenx133.jpg.ashx",
       "name": "Anders Samuelsen",
       "sort_name": "Anders Samuelsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "anderssamuelsen"
+        }
+      ],
+      "links": [
+        {
+          "url": "AndersSamuelsenLA",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/LA_Anders_Samuelsen/Anders_Samuelsenx133.jpg.ashx"
@@ -99,17 +115,21 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "andreas.steenberg@ft.dk",
+      "gender": "male",
       "id": "person/rvanst",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Andreas_Steenberg/Andreas_Steenbergx133.jpg.ashx",
       "name": "Andreas Steenberg",
       "sort_name": "Andreas Steenberg",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "a_steenberg"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Andreas_Steenberg/Andreas_Steenbergx133.jpg.ashx"
@@ -124,13 +144,11 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "ane.halsboe@ft.dk",
+      "gender": "female",
       "id": "person/sanhl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Ane_Halsboe_Joergensen/Ane_Halsboe_Joergensenx133.jpg.ashx",
       "name": "Ane Halsboe-Jørgensen",
@@ -156,6 +174,7 @@
     },
     {
       "email": "annette.lind@ft.dk",
+      "gender": "female",
       "id": "person/sanli",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Annette_Lind/Annette_Lindx133.jpg.ashx",
       "name": "Annette Lind",
@@ -181,6 +200,7 @@
     },
     {
       "email": "anni.matthiesen@ft.dk",
+      "gender": "female",
       "id": "person/vannm",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Anni_Matthiesen/Anni_Matthiesen_133.jpg.ashx",
       "name": "Anni Matthiesen",
@@ -206,10 +226,17 @@
     },
     {
       "email": "astrid.krag@ft.dk",
+      "gender": "female",
       "id": "person/saskr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Astrid_Krag/Astrid_Kragx133.jpg.ashx",
       "name": "Astrid Krag",
       "sort_name": "Astrid Krag",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Astridkrag"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Astrid_Krag/Astrid_Kragx133.jpg.ashx"
@@ -224,13 +251,11 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "benny.engelbrecht@ft.dk",
+      "gender": "male",
       "id": "person/sbeen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Benny_Engelbrecht/Benny_Engelbrechtx133.jpg.ashx",
       "name": "Benny Engelbrecht",
@@ -256,6 +281,7 @@
     },
     {
       "email": "dfbenb@ft.dk",
+      "gender": "male",
       "id": "person/dfbenb",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Bent_Boegsted/Bent_Boegstedx133.jpg.ashx",
       "name": "Bent Bøgsted",
@@ -281,10 +307,17 @@
     },
     {
       "email": "min@kum.dk",
+      "gender": "male",
       "id": "person/vbeha",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Bertel_Haarder/Bertel_Haarderx133.jpg.ashx",
       "name": "Bertel Haarder",
       "sort_name": "Bertel Haarder",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BHaarder"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Bertel_Haarder/Bertel_Haarderx133.jpg.ashx"
@@ -299,17 +332,21 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "bjarne.corydon@ft.dk",
+      "gender": "male",
       "id": "person/sbjfc",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Bjarne_Fog_Corydon/Bjarne_Fog_Corydonx133.jpg.ashx",
       "name": "Bjarne Corydon",
       "sort_name": "Bjarne Corydon",
+      "links": [
+        {
+          "url": "corydonbjarne",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Bjarne_Fog_Corydon/Bjarne_Fog_Corydonx133.jpg.ashx"
@@ -331,6 +368,7 @@
     },
     {
       "email": "bjarne.laustsen@ft.dk",
+      "gender": "male",
       "id": "person/sbjal",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Bjarne_Laustsen/Bjarne_Laustsenx133.jpg.ashx",
       "name": "Bjarne Laustsen",
@@ -356,10 +394,17 @@
     },
     {
       "email": "brian.mikkelsen@ft.dk",
+      "gender": "male",
       "id": "person/kfbrmi",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/KF/Brian_Mikkelsen/Brian_Mikkelsenx133.jpg.ashx",
       "name": "Brian Mikkelsen",
       "sort_name": "Brian Mikkelsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BrianMikkelsenC"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/KF/Brian_Mikkelsen/Brian_Mikkelsenx133.jpg.ashx"
@@ -374,17 +419,27 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "britt.bager@ft.dk",
+      "gender": "female",
       "id": "person/britt-bager",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Britt%20Bager/Britt_Bager_133.jpg.ashx",
       "name": "Britt Bager",
       "sort_name": "Britt Bager",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "brittbager"
+        }
+      ],
+      "links": [
+        {
+          "url": "stembrittbager",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Britt%20Bager/Britt_Bager_133.jpg.ashx"
@@ -399,17 +454,21 @@
           "area_id": "area/east_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "mns@fmn.dk",
+      "gender": "male",
       "id": "person/carl-holst",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Carl%20Holst/Carl_Holst_133.jpg.ashx",
       "name": "Carl Holst",
       "sort_name": "Carl Holst",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CarlHolst"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Carl%20Holst/Carl_Holst_133.jpg.ashx"
@@ -424,13 +483,11 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "carolina.maier@ft.dk",
+      "gender": "female",
       "id": "person/carolina-magdalene-maier",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Carolina%20Magdalene%20Maier/Carolina_Magdalene_Maier_133.jpg.ashx",
       "name": "Carolina Magdalene Maier",
@@ -456,6 +513,7 @@
     },
     {
       "email": "carsten.bach@ft.dk",
+      "gender": "male",
       "id": "person/carsten-bach",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Carsten%20Bach/Carsten_Bach_133.jpg.ashx",
       "name": "Carsten Bach",
@@ -481,6 +539,7 @@
     },
     {
       "email": "christian.juhl@ft.dk",
+      "gender": "male",
       "id": "person/elchju",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Christian_Juhl/Christian_Juhlx133.jpg.ashx",
       "name": "Christian Juhl",
@@ -506,6 +565,7 @@
     },
     {
       "email": "christian.langballe@ft.dk",
+      "gender": "male",
       "id": "person/dfchla",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Christian_Langballe/Christian_Langballex133.jpg.ashx",
       "name": "Christian Langballe",
@@ -531,6 +591,7 @@
     },
     {
       "email": "christian.poll@ft.dk",
+      "gender": "male",
       "id": "person/christian-poll",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Christian%20Poll/Christian_Poll_133.jpg.ashx",
       "name": "Christian Poll",
@@ -556,10 +617,23 @@
     },
     {
       "email": "christian.rabjerg.madsen@ft.dk",
+      "gender": "male",
       "id": "person/christian-rabjerg-madsen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Christian%20Rabjerg%20Madsen/Christian_Rabjerg_Madsen_133.jpg.ashx",
       "name": "Christian Rabjerg Madsen",
       "sort_name": "Christian Rabjerg Madsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RabjergMadsen"
+        }
+      ],
+      "links": [
+        {
+          "url": "christian.rabjerg",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Christian%20Rabjerg%20Madsen/Christian_Rabjerg_Madsen_133.jpg.ashx"
@@ -574,13 +648,11 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "christina.egelund@ft.dk",
+      "gender": "female",
       "id": "person/christina-egelund",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Christina%20Egelund/Christina_Egelund_133.jpg.ashx",
       "name": "Christina Egelund",
@@ -606,10 +678,17 @@
     },
     {
       "email": "Christine.Antorini@ft.dk",
+      "gender": "female",
       "id": "person/schan",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Christine_Antorini/Christine_Antorinix133.jpg.ashx",
       "name": "Christine Antorini",
       "sort_name": "Christine Antorini",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Antorini123"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Christine_Antorini/Christine_Antorinix133.jpg.ashx"
@@ -624,13 +703,11 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "min@fm.dk",
+      "gender": "male",
       "id": "person/vclhfr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Claus_Hjort_Frederiksen/Claus_Hjort_Frederiksenx133.jpg.ashx",
       "name": "Claus Hjort Frederiksen",
@@ -656,6 +733,7 @@
     },
     {
       "email": "claus.kvist.hansen@ft.dk",
+      "gender": "male",
       "id": "person/claus-kvist-hansen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Claus%20Kvist%20Hansen/Claus_Kvist_Hansen_133.jpg.ashx",
       "name": "Claus Kvist Hansen",
@@ -681,6 +759,7 @@
     },
     {
       "email": "dan.jorgensen@ft.dk",
+      "gender": "male",
       "id": "person/sdanj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Dan%20Jorgensen/Dan_Jorgensen_133.jpg.ashx",
       "name": "Dan Jørgensen",
@@ -706,6 +785,7 @@
     },
     {
       "email": "daniel.toft.jakobsen@ft.dk",
+      "gender": "male",
       "id": "person/sdatj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Daniel%20Toft%20Jakobsen/Daniel_Toft_Jakobsen_133.jpg.ashx",
       "name": "Daniel Toft Jakobsen",
@@ -731,10 +811,17 @@
     },
     {
       "email": "dennis.flydtkjaer@ft.dk",
+      "gender": "male",
       "id": "person/dfdefl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Dennis_Flydtkjaer/Dennis_Flydtkjaerx133.jpg.ashx",
       "name": "Dennis Flydtkjær",
       "sort_name": "Dennis Flydtkjær",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "flydtkjaer"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Dennis_Flydtkjaer/Dennis_Flydtkjaerx133.jpg.ashx"
@@ -749,13 +836,11 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "dorthe.ullemose@ft.dk",
+      "gender": "female",
       "id": "person/dorthe-ullemose",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Dorthe%20Ullemose/Dorthe_Ullemose_133.jpg.ashx",
       "name": "Dorthe Ullemose",
@@ -781,10 +866,17 @@
     },
     {
       "email": "minister@uvm.dk",
+      "gender": "female",
       "id": "person/veltn",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Ellen_Trane_Noerby/Ellen_Trane_Norby_133.jpg.ashx",
       "name": "Ellen Trane Nørby",
       "sort_name": "Ellen Trane Nørby",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EllenTraneNorby"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Ellen_Trane_Noerby/Ellen_Trane_Norby_133.jpg.ashx"
@@ -799,13 +891,11 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "erik.christensen@ft.dk",
+      "gender": "male",
       "id": "person/erik-christensen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Erik%20Christensen/Erik_Christensen_133.jpg.ashx",
       "name": "Erik Christensen",
@@ -831,6 +921,7 @@
     },
     {
       "email": "verbo@ft.dk",
+      "gender": "male",
       "id": "person/verbo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Erling_Bonnesen/Erling_Bonnesenx133.jpg.ashx",
       "name": "Erling Bonnesen",
@@ -856,6 +947,7 @@
     },
     {
       "email": "min@ufm.dk",
+      "gender": "male",
       "id": "person/vesll",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Esben_Lunde_Larsen/Esben_Lunde_Larsen1133.jpg.ashx",
       "name": "Esben Lunde Larsen",
@@ -881,6 +973,7 @@
     },
     {
       "email": "eva.flyvholm@ft.dk",
+      "gender": "female",
       "id": "person/eva-flyvholm",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Eva%20Flyvholm/Eva_Flyvholm_133.jpg.ashx",
       "name": "Eva Flyvholm",
@@ -906,6 +999,7 @@
     },
     {
       "email": "ministeren@mim.dk",
+      "gender": "female",
       "id": "person/vevkh",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Eva_Kjer_Hansen/Eva_Kjer_Hansen_x133.jpg.ashx",
       "name": "Eva Kjer Hansen",
@@ -931,6 +1025,7 @@
     },
     {
       "email": "finn.s@ft.dk",
+      "gender": "male",
       "id": "person/elfins",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Finn_Soerensen/Finn_Soerensen_133.jpg.ashx",
       "name": "Finn Sørensen",
@@ -956,10 +1051,23 @@
     },
     {
       "email": "flemming.m.mortensen@ft.dk",
+      "gender": "male",
       "id": "person/sflmm",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Flemming_Moeller_Mortensen/Flemming_Moeller_Mortensenx133.jpg.ashx",
       "name": "Flemming Møller Mortensen",
       "sort_name": "Flemming Møller Mortensen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "flemmingmm"
+        }
+      ],
+      "links": [
+        {
+          "url": "flemmingmoellermortensen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Flemming_Moeller_Mortensen/Flemming_Moeller_Mortensenx133.jpg.ashx"
@@ -974,13 +1082,11 @@
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "hans.andersen@ft.dk",
+      "gender": "male",
       "id": "person/vhaan",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Hans_Andersen/Hans_Andersenx133.jpg.ashx",
       "name": "Hans Andersen",
@@ -1006,6 +1112,7 @@
     },
     {
       "email": "min@trm.dk",
+      "gender": "male",
       "id": "person/vhcsc",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Hans_Chr_Schmidt/Hans_Chr_Schmidtx133.jpg.ashx",
       "name": "Hans Christian Schmidt",
@@ -1031,6 +1138,7 @@
     },
     {
       "email": "hans.skibby@ft.dk",
+      "gender": "male",
       "id": "person/dfhaks",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Hans_Kristian_Skibby/Hans_Kristian_Skibbyx133.jpg.ashx",
       "name": "Hans Kristian Skibby",
@@ -1056,10 +1164,17 @@
     },
     {
       "email": "helle.thorning-schmidt@ft.dk",
+      "gender": "female",
       "id": "person/shets",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Helle_Thorning_Schmidt/Helle_Thorning_Schmidtx133.jpg.ashx",
       "name": "Helle Thorning-Schmidt",
       "sort_name": "Helle Thorning-Schmidt",
+      "links": [
+        {
+          "url": "hellethorningschmidt",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Helle_Thorning_Schmidt/Helle_Thorning_Schmidtx133.jpg.ashx"
@@ -1081,6 +1196,7 @@
     },
     {
       "email": "henning.hyllested@ft.dk",
+      "gender": "male",
       "id": "person/elhehy",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Henning_Hyllested/Henning_Hyllestedx133.jpg.ashx",
       "name": "Henning Hyllested",
@@ -1106,6 +1222,7 @@
     },
     {
       "email": "henrik.brodersen@ft.dk",
+      "gender": "male",
       "id": "person/dfhebr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Henrik%20Brodersen/Henrik_Brodersen_133.jpg.ashx",
       "name": "Henrik Brodersen",
@@ -1131,6 +1248,7 @@
     },
     {
       "email": "henrik.dahl@ft.dk",
+      "gender": "male",
       "id": "person/henrik-dahl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Henrik%20Dahl/Henrik_Dahl_133.jpg.ashx",
       "name": "Henrik Dahl",
@@ -1156,6 +1274,7 @@
     },
     {
       "email": "henrik.kristensen@ft.dk",
+      "gender": "male",
       "id": "person/shekr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Henrik_Dam_Kristensen/Henrik_Dam_Kristensenx133.jpg.ashx",
       "name": "Henrik Dam Kristensen",
@@ -1181,10 +1300,17 @@
     },
     {
       "email": "henrik.sass.larsen@ft.dk",
+      "gender": "male",
       "id": "person/shesl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Henrik_Sass_Larsen/Henrik_Sass_Larsenx133.jpg.ashx",
       "name": "Henrik Sass Larsen",
       "sort_name": "Henrik Sass Larsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SosseSass"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Henrik_Sass_Larsen/Henrik_Sass_Larsenx133.jpg.ashx"
@@ -1199,13 +1325,11 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "Holger.Nielsen@ft.dk",
+      "gender": "male",
       "id": "person/sfhoni",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/SF/Holger_K_Nielsen/Holger_K_Nielsenx133.jpg.ashx",
       "name": "Holger K. Nielsen",
@@ -1231,6 +1355,7 @@
     },
     {
       "email": "hogni.hoydal@ft.dk",
+      "gender": "male",
       "id": "person/nahkah",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2009_1/133x133_CV/HoegniHoydal%20jpg%20jpg.ashx",
       "name": "Høgni Hoydal",
@@ -1256,6 +1381,7 @@
     },
     {
       "email": "ib.poulsen@ft.dk",
+      "gender": "male",
       "id": "person/dfibpo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2009_1/133x133_CV/IbPoulsen%20jpg%20jpg.ashx",
       "name": "Ib Poulsen",
@@ -1281,10 +1407,17 @@
     },
     {
       "email": "ida.auken@ft.dk",
+      "gender": "female",
       "id": "person/rvidau",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Ida_Auken/Ida_Aukenx133.jpg.ashx",
       "name": "Ida Auken",
       "sort_name": "Ida Auken",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "IdaAuken"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Ida_Auken/Ida_Aukenx133.jpg.ashx"
@@ -1299,13 +1432,11 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "uibm@uibm.dk",
+      "gender": "female",
       "id": "person/vinst",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Inger_Beinov_Stoejberg/Inger_Beinov_Stoejbergx133.jpg.ashx",
       "name": "Inger Støjberg",
@@ -1331,6 +1462,7 @@
     },
     {
       "email": "jacob.jensen@ft.dk",
+      "gender": "male",
       "id": "person/vjaje",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Jacob_Jensen/Jacob_Jensenx133.jpg.ashx",
       "name": "Jacob Jensen",
@@ -1356,6 +1488,7 @@
     },
     {
       "email": "jacob.mark@ft.dk",
+      "gender": "male",
       "id": "person/jacob-mark",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Jacob%20Mark/Jacob_Mark_133.jpg.ashx",
       "name": "Jacob Mark",
@@ -1381,6 +1514,7 @@
     },
     {
       "email": "jakob.ellemann-jensen@ft.dk",
+      "gender": "male",
       "id": "person/vjaej",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Jakob_Ellemann_Jensen/Jakob_Ellemann_Jensenx133.jpg.ashx",
       "name": "Jakob Ellemann-Jensen",
@@ -1406,6 +1540,7 @@
     },
     {
       "email": "jakob.solvhoj@ft.dk",
+      "gender": "male",
       "id": "person/jakob-solvhoj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Jakob%20Solvhoj/Jakob_Solvhoj_133.jpg.ashx",
       "name": "Jakob Sølvhøj",
@@ -1431,6 +1566,7 @@
     },
     {
       "email": "jan.e@ft.dk",
+      "gender": "male",
       "id": "person/vjanj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Jan_E_Joergensen/Jan_E_Joergensenx133.jpg.ashx",
       "name": "Jan E. Jørgensen",
@@ -1456,6 +1592,7 @@
     },
     {
       "email": "jan.messmann@ft.dk",
+      "gender": "female",
       "id": "person/jan-erik-messmann",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jan-Erik%20Messmann/Jan-Erik_Messmann_133.jpg.ashx",
       "name": "Jan Erik Messmann",
@@ -1481,10 +1618,17 @@
     },
     {
       "email": "jan.johansen@ft.dk",
+      "gender": "male",
       "id": "person/sjajo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jan_Johansen/Jan_Johansenx133.jpg.ashx",
       "name": "Jan Johansen",
       "sort_name": "Jan Johansen",
+      "links": [
+        {
+          "url": "janjohansensocialdemokrat",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jan_Johansen/Jan_Johansenx133.jpg.ashx"
@@ -1506,6 +1650,7 @@
     },
     {
       "email": "jan.callesen@ft.dk",
+      "gender": "male",
       "id": "person/jan-rytkjaer-callesen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jan%20Rytkjaer%20Callesen/Jan_Rytkjaer_Callesen_133.jpg.ashx",
       "name": "Jan Rytkjær Callesen",
@@ -1531,6 +1676,7 @@
     },
     {
       "email": "jane.heitmann@ft.dk",
+      "gender": "female",
       "id": "person/vjahe",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Jane_Heitmann/Jane_Heitmannx133.jpg.ashx",
       "name": "Jane Heitmann",
@@ -1556,10 +1702,17 @@
     },
     {
       "email": "dfjeht@ft.dk",
+      "gender": "male",
       "id": "person/dfjeht",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Jens_Henrik_Thulesen_Dahl/Jens_Henrik_Thulesen_Dahlx133.jpg.ashx",
       "name": "Jens Henrik Thulesen Dahl",
       "sort_name": "Jens Henrik Thulesen Dahl",
+      "links": [
+        {
+          "url": "jenshenrik.thulesendahl",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Jens_Henrik_Thulesen_Dahl/Jens_Henrik_Thulesen_Dahlx133.jpg.ashx"
@@ -1581,6 +1734,7 @@
     },
     {
       "email": "jens.joel@ft.dk",
+      "gender": "male",
       "id": "person/sjejo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jens_Joel/Jens_Joelx133.jpg.ashx",
       "name": "Jens Joel",
@@ -1631,6 +1785,7 @@
     },
     {
       "email": "jeppe.jakobsen@ft.dk",
+      "gender": "male",
       "id": "person/jeppe-jakobsen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jeppe%20Jakobsen/Jeppe_Jakobsen_133.jpg.ashx",
       "name": "Jeppe Jakobsen",
@@ -1656,10 +1811,23 @@
     },
     {
       "email": "jesper.petersen@ft.dk",
+      "gender": "male",
       "id": "person/sjepe",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jesper_Petersen/Jesper_Petersenx133.jpg.ashx",
       "name": "Jesper Petersen",
       "sort_name": "Jesper Petersen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Jesper_Pet"
+        }
+      ],
+      "links": [
+        {
+          "url": "MFJesper",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jesper_Petersen/Jesper_Petersenx133.jpg.ashx"
@@ -1674,17 +1842,21 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "joachim.olsen@ft.dk",
+      "gender": "male",
       "id": "person/lajobo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Joachim_B_Olsen/Joachim_B_Olsenx133.jpg.ashx",
       "name": "Joachim B. Olsen",
       "sort_name": "Joachim B. Olsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JoachimBOlsen"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Joachim_B_Olsen/Joachim_B_Olsenx133.jpg.ashx"
@@ -1699,13 +1871,11 @@
           "area_id": "area/greater_copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "johanne.schmidt-nielsen@ft.dk",
+      "gender": "female",
       "id": "person/eljosn",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Johanne_Schmidt_Nielsen/Johanne_Schmidt_Nielsenx133.jpg.ashx",
       "name": "Johanne Schmidt-Nielsen",
@@ -1731,6 +1901,7 @@
     },
     {
       "email": "Jonas.Dahl@ft.dk",
+      "gender": "male",
       "id": "person/sfjoda",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/SF/Jonas_Dahl/Jonas_Dahlx133.jpg.ashx",
       "name": "Jonas Dahl",
@@ -1756,6 +1927,7 @@
     },
     {
       "email": "josephine.fock@ft.dk",
+      "gender": "female",
       "id": "person/josephine-fock",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Josephine%20Fock/Josephine_Fock_133.jpg.ashx",
       "name": "Josephine Fock",
@@ -1781,6 +1953,7 @@
     },
     {
       "email": "julie.skovsby@ft.dk",
+      "gender": "female",
       "id": "person/sjuls",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Julie_Skovsby/Julie_Skovsbyx133.jpg.ashx",
       "name": "Julie Skovsby",
@@ -1806,10 +1979,23 @@
     },
     {
       "email": "kaare.dybvad@ft.dk",
+      "gender": "male",
       "id": "person/kaare-dybvad",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kaare%20Dybvad/Kaare_Dybvad_133.jpg.ashx",
       "name": "Kaare Dybvad",
       "sort_name": "Kaare Dybvad",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KaareDybvad"
+        }
+      ],
+      "links": [
+        {
+          "url": "kaaredybvad",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kaare%20Dybvad/Kaare_Dybvad_133.jpg.ashx"
@@ -1824,13 +2010,11 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "min@sm.dk",
+      "gender": "female",
       "id": "person/vkael",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Karen_Ellemann/Karen_Ellemannx133.jpg.ashx",
       "name": "Karen Ellemann",
@@ -1856,6 +2040,7 @@
     },
     {
       "email": "karen.klint@ft.dk",
+      "gender": "female",
       "id": "person/skakl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Karen_Johanne_Klint/Karen_Johanne_Klintx133.jpg.ashx",
       "name": "Karen J. Klint",
@@ -1881,10 +2066,23 @@
     },
     {
       "email": "karin.gaardsted@ft.dk",
+      "gender": "female",
       "id": "person/skaga",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Karin_Gaardsted/Karin_Gaardstedx133.jpg.ashx",
       "name": "Karin Gaardsted",
       "sort_name": "Karin Gaardsted",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KarinGaardsted"
+        }
+      ],
+      "links": [
+        {
+          "url": "karin.gaardsted",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Karin_Gaardsted/Karin_Gaardstedx133.jpg.ashx"
@@ -1899,13 +2097,11 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "dfkarn@ft.dk",
+      "gender": "female",
       "id": "person/dfkarn",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Karin_Noedgaard/Karin_Noedgaardx133.jpg.ashx",
       "name": "Karin Nødgaard",
@@ -1931,10 +2127,17 @@
     },
     {
       "email": "karina.adsbol@ft.dk",
+      "gender": "female",
       "id": "person/dfkaad",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Karina_Adsboel/Karina_Adsboelx133.jpg.ashx",
       "name": "Karina Adsbøl",
       "sort_name": "Karina Adsbøl",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Karinameldgaard"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Karina_Adsboel/Karina_Adsboelx133.jpg.ashx"
@@ -1949,17 +2152,27 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "karina.due@ft.dk",
+      "gender": "female",
       "id": "person/karina-due",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Karina%20Due/Karina_Due_133.jpg.ashx",
       "name": "Karina Due",
       "sort_name": "Karina Due",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KarinaDue1"
+        }
+      ],
+      "links": [
+        {
+          "url": "karina.due.1",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Karina%20Due/Karina_Due_133.jpg.ashx"
@@ -1974,13 +2187,11 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "karsten.honge@ft.dk",
+      "gender": "male",
       "id": "person/sfkarh",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Karsten%20Honge/Karsten_Honge_133.jpg.ashx",
       "name": "Karsten Hønge",
@@ -2006,10 +2217,17 @@
     },
     {
       "email": "min@skm.dk",
+      "gender": "male",
       "id": "person/vkala",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Karsten_Lauritzen/Karsten_Lauritzen_133.jpg.ashx",
       "name": "Karsten Lauritzen",
       "sort_name": "Karsten Lauritzen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "StemLAURITZEN"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Karsten_Lauritzen/Karsten_Lauritzen_133.jpg.ashx"
@@ -2024,13 +2242,11 @@
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "kenneth.kristensen.berth@ft.dk",
+      "gender": "male",
       "id": "person/dfkekr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Kenneth%20Kristensen%20Berth/Kenneth_Kristensen_Berth_133.jpg.ashx",
       "name": "Kenneth Kristensen Berth",
@@ -2056,6 +2272,7 @@
     },
     {
       "email": "kim.christiansen@ft.dk",
+      "gender": "male",
       "id": "person/dfkich",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Kim_Christiansen/Kim_Christiansenx133.jpg.ashx",
       "name": "Kim Christiansen",
@@ -2081,6 +2298,7 @@
     },
     {
       "email": "kirsten.brosbol@ft.dk",
+      "gender": "female",
       "id": "person/skibr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Kirsten_Brosboel/Kirsten_Brosboelx133.jpg.ashx",
       "name": "Kirsten Brosbøl",
@@ -2106,10 +2324,17 @@
     },
     {
       "email": "udenrigsministeren@um.dk",
+      "gender": "male",
       "id": "person/vkrje",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Kristian_Jensen/Kristian_Jensen_133.jpg.ashx",
       "name": "Kristian Jensen",
       "sort_name": "Kristian Jensen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Kristian_Jensen"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Kristian_Jensen/Kristian_Jensen_133.jpg.ashx"
@@ -2124,13 +2349,11 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "kristian.lorentzen@ft.dk",
+      "gender": "male",
       "id": "person/vkrlo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Kristian_Pihl_Lorentzen/Kristian_Pihl_Lorentzenx133.jpg.ashx",
       "name": "Kristian Pihl Lorentzen",
@@ -2156,10 +2379,17 @@
     },
     {
       "email": "dfanbf@ft.dk",
+      "gender": "male",
       "id": "person/dfkrtd",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Kristian_Thulesen_Dahl/Kristian_Thulesen_Dahlx133.jpg.ashx",
       "name": "Kristian Thulesen Dahl",
       "sort_name": "Kristian Thulesen Dahl",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KristianThulsen"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Kristian_Thulesen_Dahl/Kristian_Thulesen_Dahlx133.jpg.ashx"
@@ -2174,13 +2404,11 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "kebmin@kebmin.dk",
+      "gender": "male",
       "id": "person/vlacl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Lars_Christian_Lilleholt/Lars_Christian_Lilleholtx133.jpg.ashx",
       "name": "Lars Christian Lilleholt",
@@ -2206,10 +2434,17 @@
     },
     {
       "email": "stm@stm.dk",
+      "gender": "male",
       "id": "person/vlalr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Lars_Loekke_Rasmussen/Lars_Loekke_Rasmussenx133.jpg.ashx",
       "name": "Lars Løkke Rasmussen",
       "sort_name": "Lars Løkke Rasmussen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "larsloekke"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Lars_Loekke_Rasmussen/Lars_Loekke_Rasmussenx133.jpg.ashx"
@@ -2224,17 +2459,21 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "laura.lindahl@ft.dk",
+      "gender": "female",
       "id": "person/lalatl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Laura%20Lindahl/Laura_Lindahl_133.jpg.ashx",
       "name": "Laura Lindahl",
       "sort_name": "Laura Lindahl",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "lauralindahl"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Laura%20Lindahl/Laura_Lindahl_133.jpg.ashx"
@@ -2249,17 +2488,27 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "lea.wermelin@ft.dk",
+      "gender": "female",
       "id": "person/lea-wermelin",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lea%20Wermelin/Lea_Wermelin_133.jpg.ashx",
       "name": "Lea Wermelin",
       "sort_name": "Lea Wermelin",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "leawermelin"
+        }
+      ],
+      "links": [
+        {
+          "url": "lea.wermelin",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lea%20Wermelin/Lea_Wermelin_133.jpg.ashx"
@@ -2274,13 +2523,11 @@
           "area_id": "area/bornholm",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "leif.jensen@ft.dk",
+      "gender": "male",
       "id": "person/slelj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Leif_Lahn_Jensen/Leif_Lahn_Jensenx133.jpg.ashx",
       "name": "Leif Lahn Jensen",
@@ -2306,10 +2553,23 @@
     },
     {
       "email": "leif.mikkelsen@ft.dk",
+      "gender": "male",
       "id": "person/lalemi",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Leif_Mikkelsen/Leif_Mikkelsenx133.jpg.ashx",
       "name": "Leif Mikkelsen",
       "sort_name": "Leif Mikkelsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mikkelsen_leif"
+        }
+      ],
+      "links": [
+        {
+          "url": "leif.mikkelsen.524",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Leif_Mikkelsen/Leif_Mikkelsenx133.jpg.ashx"
@@ -2324,13 +2584,11 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "lennart.damsbo-andersen@ft.dk",
+      "gender": "male",
       "id": "person/sleda",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Lennart_Damsbo_Andersen/Lennart_Damsbo_Andersenx133.jpg.ashx",
       "name": "Lennart Damsbo-Andersen",
@@ -2356,6 +2614,7 @@
     },
     {
       "email": "lisbeth.poulsen@ft.dk",
+      "gender": "female",
       "id": "person/sflibp",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/SF/Lisbeth_Bech_Poulsen/Lisbeth_Bech_Poulsenx133.jpg.ashx",
       "name": "Lisbeth Bech Poulsen",
@@ -2381,6 +2640,7 @@
     },
     {
       "email": "lise.bech@ft.dk",
+      "gender": "female",
       "id": "person/lise-bech",
       "name": "Lise Bech",
       "sort_name": "Lise Bech",
@@ -2400,10 +2660,17 @@
     },
     {
       "email": "liselott.blixt@ft.dk",
+      "gender": "female",
       "id": "person/dflibl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Liselott_Blixt/Liselott_Blixtx133.jpg.ashx",
       "name": "Liselott Blixt",
       "sort_name": "Liselott Blixt",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Blixt22"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Liselott_Blixt/Liselott_Blixtx133.jpg.ashx"
@@ -2418,17 +2685,27 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "lotte.rod@ft.dk",
+      "gender": "female",
       "id": "person/rvloro",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Lotte_Rod/Lotte_Rodx133.jpg.ashx",
       "name": "Lotte Rod",
       "sort_name": "Lotte Rod",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LotteRod"
+        }
+      ],
+      "links": [
+        {
+          "url": "lotterod",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Lotte_Rod/Lotte_Rodx133.jpg.ashx"
@@ -2443,17 +2720,27 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "louise.elholm@ft.dk",
+      "gender": "female",
       "id": "person/vlose",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Louise_Schack_Elholm/Louise_Schack_Elholmx133.jpg.ashx",
       "name": "Louise Schack Elholm",
       "sort_name": "Louise Schack Elholm",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LouiseElholm"
+        }
+      ],
+      "links": [
+        {
+          "url": "louise.elholm",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Louise_Schack_Elholm/Louise_Schack_Elholmx133.jpg.ashx"
@@ -2468,17 +2755,21 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "magnus.heunicke@ft.dk",
+      "gender": "male",
       "id": "person/smahe",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Magnus_Heunicke/Magnus_Heunickex133.jpg.ashx",
       "name": "Magnus Heunicke",
       "sort_name": "Magnus Heunicke",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Heunicke"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Magnus_Heunicke/Magnus_Heunickex133.jpg.ashx"
@@ -2493,17 +2784,21 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "mai.mercado@ft.dk",
+      "gender": "female",
       "id": "person/kfmahe",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/KF/Mai_Henriksen/Mai_Henriksenx133.jpg.ashx",
       "name": "Mai Mercado",
       "sort_name": "Mai Mercado",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "_MaiMercado"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/KF/Mai_Henriksen/Mai_Henriksenx133.jpg.ashx"
@@ -2518,13 +2813,11 @@
           "area_id": "area/funen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "maja.panduro@ft.dk",
+      "gender": "female",
       "id": "person/smapa",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Maja_Panduro/Maja_Pandurox133.jpg.ashx",
       "name": "Maja Panduro",
@@ -2550,6 +2843,7 @@
     },
     {
       "email": "marcus.knuth@ft.dk",
+      "gender": "male",
       "id": "person/marcus-knuth",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Marcus%20Knuth/Marcus_Knuth_133.jpg.ashx",
       "name": "Marcus Knuth",
@@ -2575,10 +2869,17 @@
     },
     {
       "email": "maria.gjerding@ft.dk",
+      "gender": "female",
       "id": "person/maria-reumert-gjerding",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Maria%20Reumert%20Gjerding/Maria_Reumert_Gjerding_133.jpg.ashx",
       "name": "Maria Reumert Gjerding",
       "sort_name": "Maria Reumert Gjerding",
+      "links": [
+        {
+          "url": "maria.gjerding",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Maria%20Reumert%20Gjerding/Maria_Reumert_Gjerding_133.jpg.ashx"
@@ -2600,10 +2901,17 @@
     },
     {
       "email": "marianne.jelved@ft.dk",
+      "gender": "female",
       "id": "person/rvmaje",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Marianne_Jelved/Marianne_Jelvedx133.jpg.ashx",
       "name": "Marianne Jelved",
       "sort_name": "Marianne Jelved",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mariannejelved"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Marianne_Jelved/Marianne_Jelvedx133.jpg.ashx"
@@ -2618,13 +2926,11 @@
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "marie.krarup@ft.dk",
+      "gender": "female",
       "id": "person/dfmakr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Marie_Krarup/Marie_Krarupx133.jpg.ashx",
       "name": "Marie Krarup",
@@ -2650,6 +2956,7 @@
     },
     {
       "email": "marlene.harpsoe@ft.dk",
+      "gender": "female",
       "id": "person/dfmabh",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2009_1/133x133_CV/MarleneHarpsoe%20jpg%20jpg.ashx",
       "name": "Marlene Harpsøe",
@@ -2675,6 +2982,7 @@
     },
     {
       "email": "martin.henriksen@ft.dk",
+      "gender": "male",
       "id": "person/dfmahr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Martin_Henriksen/Martin_Henriksenx133.jpg.ashx",
       "name": "Martin Henriksen",
@@ -2700,6 +3008,7 @@
     },
     {
       "email": "martin.lidegaard@ft.dk",
+      "gender": "male",
       "id": "person/rvmali",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Martin%20Lidegaard/Martin_Lidegaard_133.jpg.ashx",
       "name": "Martin Lidegaard",
@@ -2725,6 +3034,7 @@
     },
     {
       "email": "mattias.tesfaye@ft.dk",
+      "gender": "male",
       "id": "person/mattias-tesfaye",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Mattias%20Tesfaye/Mattias_Tesfaye_133.jpg.ashx",
       "name": "Mattias Tesfaye",
@@ -2750,6 +3060,7 @@
     },
     {
       "email": "may-britt.kattrup@ft.dk",
+      "gender": "female",
       "id": "person/may-britt-kattrup",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/May-Britt%20Kattrup/May-Britt_Kattrup_133.jpg.ashx",
       "name": "May-Britt Kattrup",
@@ -2775,6 +3086,7 @@
     },
     {
       "email": "merete.larsen@ft.dk",
+      "gender": "female",
       "id": "person/dfmed",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Merete%20Dea%20Larsen/Merete_Dea_Larsen_133.jpg.ashx",
       "name": "Merete Dea Larsen",
@@ -2800,10 +3112,23 @@
     },
     {
       "email": "lameri@ft.dk",
+      "gender": "female",
       "id": "person/lameri",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Merete%20Riisager/Merete_Riisager_133.jpg.ashx",
       "name": "Merete Riisager",
       "sort_name": "Merete Riisager",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MereteRiisager"
+        }
+      ],
+      "links": [
+        {
+          "url": "merete.riisager",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Merete%20Riisager/Merete_Riisager_133.jpg.ashx"
@@ -2818,13 +3143,11 @@
           "area_id": "area/funen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "mette.abildgaard@ft.dk",
+      "gender": "female",
       "id": "person/mette-abildgaard",
       "name": "Mette Abildgaard",
       "sort_name": "Mette Abildgaard",
@@ -2844,10 +3167,23 @@
     },
     {
       "email": "mette.bock@ft.dk",
+      "gender": "female",
       "id": "person/lamebo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Mette_Bock/Mette_Bockx133.jpg.ashx",
       "name": "Mette Bock",
       "sort_name": "Mette Bock",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mettebock"
+        }
+      ],
+      "links": [
+        {
+          "url": "mette.bock.5",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Mette_Bock/Mette_Bockx133.jpg.ashx"
@@ -2862,13 +3198,11 @@
           "area_id": "area/south_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "mette.frederiksen@ft.dk",
+      "gender": "female",
       "id": "person/smefr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mette_Frederiksen/Mette_Frederiksenx133.jpg.ashx",
       "name": "Mette Frederiksen",
@@ -2894,10 +3228,17 @@
     },
     {
       "email": "mette.gjerskov@ft.dk",
+      "gender": "female",
       "id": "person/smegj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mette_Gjerskov/Mette_Gjerskovx133.jpg.ashx",
       "name": "Mette Gjerskov",
       "sort_name": "Mette Gjerskov",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MetteGjerskov"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mette_Gjerskov/Mette_Gjerskovx133.jpg.ashx"
@@ -2912,13 +3253,11 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "dfmehd@ft.dk",
+      "gender": "female",
       "id": "person/dfmehd",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Mette_Hjermind_Dencker/Mette_Hjermind_Denckerx133.jpg.ashx",
       "name": "Mette Hjermind Dencker",
@@ -2944,10 +3283,23 @@
     },
     {
       "email": "mette.reissmann@ft.dk",
+      "gender": "female",
       "id": "person/smere",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mette_Reissmann/Mette_Reissmannx133.jpg.ashx",
       "name": "Mette Reissmann",
       "sort_name": "Mette Reissmann",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mettereissmann"
+        }
+      ],
+      "links": [
+        {
+          "url": "mettereissmann",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mette_Reissmann/Mette_Reissmannx133.jpg.ashx"
@@ -2962,17 +3314,21 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "michael.aastrup@ft.dk",
+      "gender": "male",
       "id": "person/vmije",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Michael_Aastrup_Jensen/Michael_Aastrup_Jensenx133.jpg.ashx",
       "name": "Michael Aastrup Jensen",
       "sort_name": "Michael Aastrup Jensen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "michaelaastrup"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Michael_Aastrup_Jensen/Michael_Aastrup_Jensenx133.jpg.ashx"
@@ -2987,13 +3343,11 @@
           "area_id": "area/east_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "mikkel.dencker@ft.dk",
+      "gender": "male",
       "id": "person/dfmikd",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Mikkel_Dencker/Mikkel_Denckerx133.jpg.ashx",
       "name": "Mikkel Dencker",
@@ -3019,10 +3373,23 @@
     },
     {
       "email": "mogens.jensen@ft.dk",
+      "gender": "male",
       "id": "person/smoje",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Mogen%20Jensen/Mogens_Jensen_133.jpg.ashx",
       "name": "Mogens Jensen",
       "sort_name": "Mogens Jensen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MogensJensenS"
+        }
+      ],
+      "links": [
+        {
+          "url": "mogensjensen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Mogen%20Jensen/Mogens_Jensen_133.jpg.ashx"
@@ -3037,17 +3404,21 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "mogens.lykketoft@ft.dk",
+      "gender": "male",
       "id": "person/smoly",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mogens_Lykketoft/Mogens_Lykketoft_133.jpg.ashx",
       "name": "Mogens Lykketoft",
       "sort_name": "Mogens Lykketoft",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "lykketoft"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Mogens_Lykketoft/Mogens_Lykketoft_133.jpg.ashx"
@@ -3062,13 +3433,11 @@
           "area_id": "area/greater_copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "morten.bodskov@ft.dk",
+      "gender": "male",
       "id": "person/smorb",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Morten_Boedskov/Morten_Boedskovx133.jpg.ashx",
       "name": "Morten Bødskov",
@@ -3094,6 +3463,7 @@
     },
     {
       "email": "morten.lokkegaard@ft.dk",
+      "gender": "male",
       "id": "person/morten-lokkegaard",
       "name": "Morten Løkkegaard",
       "sort_name": "Morten Løkkegaard",
@@ -3113,6 +3483,7 @@
     },
     {
       "email": "morten.marinus@ft.dk",
+      "gender": "male",
       "id": "person/dfmomj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Morten_Marinus_Joergensen/Morten_Marinus_JoergensenX133.jpg.ashx",
       "name": "Morten Marinus",
@@ -3138,10 +3509,17 @@
     },
     {
       "email": "morten.ostergaard@ft.dk",
+      "gender": "male",
       "id": "person/rvmors",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Morten_Oestergaard/Morten_Oestergaardx133.jpg.ashx",
       "name": "Morten Østergaard",
       "sort_name": "Morten Østergaard",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "oestergaard"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Morten_Oestergaard/Morten_Oestergaardx133.jpg.ashx"
@@ -3156,13 +3534,11 @@
           "area_id": "area/east_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "naser.khader@ft.dk",
+      "gender": "male",
       "id": "person/kfnakh",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2009_1/133x133_CV/Naser%20Khader%20jpg.ashx",
       "name": "Naser Khader",
@@ -3188,6 +3564,7 @@
     },
     {
       "email": "nick.haekkerup@ft.dk",
+      "gender": "male",
       "id": "person/snich",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Nick_Haekkerup/Nick_Haekkerupx133.jpg.ashx",
       "name": "Nick Hækkerup",
@@ -3213,6 +3590,7 @@
     },
     {
       "email": "nicolai.wammen@ft.dk",
+      "gender": "male",
       "id": "person/sniwa",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Nicolai_Wammen/Nicolai_Wammenx133.jpg.ashx",
       "name": "Nicolai Wammen",
@@ -3238,6 +3616,7 @@
     },
     {
       "email": "nikolaj.villumsen@ft.dk",
+      "gender": "male",
       "id": "person/elnivi",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Nikolaj_Villumsen/Nikolaj_Villumsenx133.jpg.ashx",
       "name": "Nikolaj Villumsen",
@@ -3263,10 +3642,17 @@
     },
     {
       "email": "ole.birk@ft.dk",
+      "gender": "male",
       "id": "person/laolbo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Ole_Birk_Olesen/Ole_Birk_Olesenx133.jpg.ashx",
       "name": "Ole Birk Olesen",
       "sort_name": "Ole Birk Olesen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "olebirkolesen"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Ole_Birk_Olesen/Ole_Birk_Olesenx133.jpg.ashx"
@@ -3281,13 +3667,11 @@
           "area_id": "area/east_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "orla.hav@ft.dk",
+      "gender": "male",
       "id": "person/sorha",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Orla_Hav/Orla_Havx133.jpg.ashx",
       "name": "Orla Hav",
@@ -3313,6 +3697,7 @@
     },
     {
       "email": "pelle.dragsted@ft.dk",
+      "gender": "male",
       "id": "person/pelle-dragsted",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Pelle%20Dragsted/Pelle_Dragsted_133.jpg.ashx",
       "name": "Pelle Dragsted",
@@ -3338,6 +3723,7 @@
     },
     {
       "email": "pernille.bendixen@ft.dk",
+      "gender": "female",
       "id": "person/pernille-bendixen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Pernille%20Bendixen/Pernille_Bendixen_133.jpg.ashx",
       "name": "Pernille Bendixen",
@@ -3363,6 +3749,7 @@
     },
     {
       "email": "spert@ft.dk",
+      "gender": "female",
       "id": "person/spert",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Pernille_Rosenkrantz_Theil/Pernille_Rosenkrantz_Theilx133.jpg.ashx",
       "name": "Pernille Rosenkrantz-Theil",
@@ -3388,10 +3775,23 @@
     },
     {
       "email": "pernille.schnoor@ft.dk",
+      "gender": "female",
       "id": "person/pernille-schnoor",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Pernille%20Schnoor/Pernille_Schnoor_133.jpg.ashx",
       "name": "Pernille Schnoor",
       "sort_name": "Pernille Schnoor",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "pernilleschnoor"
+        }
+      ],
+      "links": [
+        {
+          "url": "pschnoor",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Pernille%20Schnoor/Pernille_Schnoor_133.jpg.ashx"
@@ -3406,17 +3806,27 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "pernille.skipper@ft.dk",
+      "gender": "female",
       "id": "person/elpesk",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Pernille_Skipper/Pernille_Skipperx133.jpg.ashx",
       "name": "Pernille Skipper",
       "sort_name": "Pernille Skipper",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PSkipperEL"
+        }
+      ],
+      "links": [
+        {
+          "url": "pernille.skipper.5",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Pernille_Skipper/Pernille_Skipperx133.jpg.ashx"
@@ -3431,13 +3841,11 @@
           "area_id": "area/funen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "peter.hummelgaard@ft.dk",
+      "gender": "male",
       "id": "person/peter-hummelgaard-thomsen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Peter%20Hummelgaard%20Thomsen/Peter_Hummelgaard_Thomsen_133.jpg.ashx",
       "name": "Peter Hummelgaard Thomsen",
@@ -3463,6 +3871,7 @@
     },
     {
       "email": "peter.juel.jensen@ft.dk",
+      "gender": "male",
       "id": "person/vpejj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Peter_Juel_Jensen/Peter_Juel_Jensenx133.jpg.ashx",
       "name": "Peter Juel Jensen",
@@ -3488,6 +3897,7 @@
     },
     {
       "email": "peter.kofod.poulsen@ft.dk",
+      "gender": "male",
       "id": "person/peter-kofod-poulsen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Peter%20Kofod%20Poulsen/Peter_Kofod_Poulsen_133.jpg.ashx",
       "name": "Peter Kofod Poulsen",
@@ -3513,6 +3923,7 @@
     },
     {
       "email": "dfgibu@ft.dk",
+      "gender": "male",
       "id": "person/dfpesk",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Peter_Skaarup/Peter_SkaarupX133.jpg.ashx",
       "name": "Peter Skaarup",
@@ -3538,10 +3949,17 @@
     },
     {
       "email": "pia.adelsteen@ft.dk",
+      "gender": "female",
       "id": "person/dfpiad",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Pia_Adelsteen/Pia_AdelsteenX133.jpg.ashx",
       "name": "Pia Adelsteen",
       "sort_name": "Pia Adelsteen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PAdelsteen"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Pia_Adelsteen/Pia_AdelsteenX133.jpg.ashx"
@@ -3556,13 +3974,11 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "dfpksekr@ft.dk",
+      "gender": "female",
       "id": "person/dfpikj",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Pia_Kjaersgaard/Pia_Kjaersgaardx133.jpg.ashx",
       "name": "Pia Kjærsgaard",
@@ -3588,10 +4004,23 @@
     },
     {
       "email": "pia.olsen.dyhr@ft.dk",
+      "gender": "female",
       "id": "person/sfpiod",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/SF/Pia_Olsen_Dyhr/Pia_Olsen_Dyhr_133.jpg.ashx",
       "name": "Pia Olsen Dyhr",
       "sort_name": "Pia Olsen Dyhr",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PiaOlsen"
+        }
+      ],
+      "links": [
+        {
+          "url": "pia.olsen.dyhr",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/SF/Pia_Olsen_Dyhr/Pia_Olsen_Dyhr_133.jpg.ashx"
@@ -3606,17 +4035,21 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "bang.henriksen@ft.dk",
+      "gender": "male",
       "id": "person/vprbh",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Preben_Bang_Henriksen/Preben_Bang_Henriksen_x133.jpg.ashx",
       "name": "Preben Bang Henriksen",
       "sort_name": "Preben Bang Henriksen",
+      "links": [
+        {
+          "url": "PrebenBangHenriksen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Preben_Bang_Henriksen/Preben_Bang_Henriksen_x133.jpg.ashx"
@@ -3638,6 +4071,7 @@
     },
     {
       "email": "rasmus.langhoff@ft.dk",
+      "gender": "male",
       "id": "person/srahl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Rasmus_Horn_Langhoff/Rasmus_Horn_Langhoff_133.jpg.ashx",
       "name": "Rasmus Horn Langhoff",
@@ -3663,6 +4097,7 @@
     },
     {
       "email": "rasmus.jarlov@ft.dk",
+      "gender": "male",
       "id": "person/kfraja",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2010_1/Rasmus_Jarlov/Rasmus_Jarlov_CV.jpg.ashx",
       "name": "Rasmus Jarlov",
@@ -3688,6 +4123,7 @@
     },
     {
       "email": "rasmus.nordqvist@ft.dk",
+      "gender": "female",
       "id": "person/rasmus-nordqvist",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rasmus%20Nordqvist/Rasmus_Nordqvist_133.jpg.ashx",
       "name": "Rasmus Nordqvist",
@@ -3713,6 +4149,7 @@
     },
     {
       "email": "rasmus.prehn@ft.dk",
+      "gender": "male",
       "id": "person/srapr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Rasmus_Prehn/Rasmus_Prehn_133.jpg.ashx",
       "name": "Rasmus Prehn",
@@ -3738,6 +4175,7 @@
     },
     {
       "email": "rene.christensen@ft.dk",
+      "gender": "male",
       "id": "person/dfrech",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Rene_Christensen/Rene_Christensenx133.jpg.ashx",
       "name": "René Christensen",
@@ -3763,10 +4201,17 @@
     },
     {
       "email": "rene.gade@ft.dk",
+      "gender": "male",
       "id": "person/rene-gade",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rene%20Gade/Rene_Gade_133.jpg.ashx",
       "name": "René Gade",
       "sort_name": "René Gade",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "renegadedreng"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rene%20Gade/Rene_Gade_133.jpg.ashx"
@@ -3781,17 +4226,27 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "roger.matthisen@ft.dk",
+      "gender": "male",
       "id": "person/roger-matthisen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Roger%20Matthisen/Roger_Matthisen_133.jpg.ashx",
       "name": "Roger Matthisen",
       "sort_name": "Roger Matthisen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "fightingheart"
+        }
+      ],
+      "links": [
+        {
+          "url": "roger.matthisen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Roger%20Matthisen/Roger_Matthisen_133.jpg.ashx"
@@ -3806,13 +4261,11 @@
           "area_id": "area/funen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "rune.lund@ft.dk",
+      "gender": "male",
       "id": "person/elrulu",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Rune%20Lund/Rune_Lund_133.jpg.ashx",
       "name": "Rune Lund",
@@ -3838,10 +4291,23 @@
     },
     {
       "email": "simon.ammitzboll@ft.dk",
+      "gender": "male",
       "id": "person/lasiea",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Simon_Emil_Ammitzboell/Simon_Emil_Ammitzboellx133.jpg.ashx",
       "name": "Simon Emil Ammitzbøll",
       "sort_name": "Simon Emil Ammitzbøll",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SimonEmilAmmitz"
+        }
+      ],
+      "links": [
+        {
+          "url": "SimonEmil",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Simon_Emil_Ammitzboell/Simon_Emil_Ammitzboellx133.jpg.ashx"
@@ -3856,13 +4322,11 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "simon.kollerup@ft.dk",
+      "gender": "male",
       "id": "person/ssiko",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Simon_Kollerup/Simon_Kollerupx133.jpg.ashx",
       "name": "Simon Kollerup",
@@ -3888,6 +4352,7 @@
     },
     {
       "email": "sjurdur.skaale@ft.dk",
+      "gender": "male",
       "id": "person/ssjsk",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Sjurdur_Skaale/Sjurdur_Skaalex133.jpg.ashx",
       "name": "Sjúrður Skaale",
@@ -3913,10 +4378,17 @@
     },
     {
       "email": "sofie.carsten.nielsen@ft.dk",
+      "gender": "female",
       "id": "person/rvscni",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Sofie_Carsten_Nielsen/Sofie_Carsten_Nielsenx133.jpg.ashx",
       "name": "Sofie Carsten Nielsen",
       "sort_name": "Sofie Carsten Nielsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sofiecn"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Sofie_Carsten_Nielsen/Sofie_Carsten_Nielsenx133.jpg.ashx"
@@ -3931,17 +4403,21 @@
           "area_id": "area/greater_copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "sum@sum.dk",
+      "gender": "female",
       "id": "person/vsopl",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Sophie_Loehde/Sophie_Loehdex133.jpg.ashx",
       "name": "Sophie Løhde",
       "sort_name": "Sophie Løhde",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sophieloehde"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Sophie_Loehde/Sophie_Loehdex133.jpg.ashx"
@@ -3956,17 +4432,21 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "stine.brix@ft.dk",
+      "gender": "female",
       "id": "person/elstmb",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Stine_Maiken_Brix/Stine_Maiken_Brixx133.jpg.ashx",
       "name": "Stine Brix",
       "sort_name": "Stine Brix",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "smbrix"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Stine_Maiken_Brix/Stine_Maiken_Brixx133.jpg.ashx"
@@ -3981,13 +4461,11 @@
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "susanne.eilersen@ft.dk",
+      "gender": "female",
       "id": "person/susanne-eilersen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Susanne%20Eilersen/Susanne_Eilersen_133.jpg.ashx",
       "name": "Susanne Eilersen",
@@ -4013,6 +4491,7 @@
     },
     {
       "email": "soren.egge.rasmussen@ft.dk",
+      "gender": "male",
       "id": "person/soren-egge-rasmussen",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Soren%20Egge%20Rasmussen/Soren_Egge_Rasmussen_133.jpg.ashx",
       "name": "Søren Egge Rasmussen",
@@ -4038,6 +4517,7 @@
     },
     {
       "email": "dfsesp@ft.dk",
+      "gender": "male",
       "id": "person/dfsesp",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/DF/Soeren_Espersen/Soeren_Espersenx133.jpg.ashx",
       "name": "Søren Espersen",
@@ -4063,6 +4543,7 @@
     },
     {
       "email": "soren.gade@ft.dk",
+      "gender": "male",
       "id": "person/vsgade",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2009_1/133x133_CV/SoerenGade%20jpg%20jpg.ashx",
       "name": "Søren Gade",
@@ -4088,6 +4569,7 @@
     },
     {
       "email": "soren.pape.poulsen@ft.dk",
+      "gender": "male",
       "id": "person/soren-pape",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Soren%20Pape/Soren_Pape_133.jpg.ashx",
       "name": "Søren Pape",
@@ -4113,10 +4595,23 @@
     },
     {
       "email": "jm@jm.dk",
+      "gender": "male",
       "id": "person/vspin",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Soeren_Pind/Soeren_Pindx133.jpg.ashx",
       "name": "Søren Pind",
       "sort_name": "Søren Pind",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sorenpind"
+        }
+      ],
+      "links": [
+        {
+          "url": "vsorenpind",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Soeren_Pind/Soeren_Pindx133.jpg.ashx"
@@ -4131,16 +4626,20 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "soren.bo.sondergaard@ft.dk",
+      "gender": "male",
       "id": "person/soren-sondergaard",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sorensondergaard.jpg",
       "name": "Søren Søndergaard",
       "sort_name": "Søren Søndergaard",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sorensondergaard.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/soren-sondergaard",
@@ -4157,6 +4656,7 @@
     },
     {
       "email": "thomas.danielsen@ft.dk",
+      "gender": "male",
       "id": "person/vthda",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Thomas_Danielsen/Thomas_Danielsen_x133.jpg.ashx",
       "name": "Thomas Danielsen",
@@ -4182,6 +4682,7 @@
     },
     {
       "email": "thomas.jensen@ft.dk",
+      "gender": "male",
       "id": "person/sthje",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Thomas_Jensen/Thomas_Jensenx133.jpg.ashx",
       "name": "Thomas Jensen",
@@ -4207,6 +4708,7 @@
     },
     {
       "email": "tilde.bork@ft.dk",
+      "gender": "female",
       "id": "person/tilde-bork",
       "name": "Tilde Bork",
       "sort_name": "Tilde Bork",
@@ -4226,9 +4728,22 @@
     },
     {
       "email": "torsten.gejl@ft.dk",
+      "gender": "male",
       "id": "person/torsten-gejl",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Torsten_Gejl.png",
       "name": "Torsten Gejl",
       "sort_name": "Torsten Gejl",
+      "links": [
+        {
+          "url": "torsten.gejl",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Torsten_Gejl.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/torsten-gejl",
@@ -4245,10 +4760,23 @@
     },
     {
       "email": "torsten.schack.pedersen@ft.dk",
+      "gender": "male",
       "id": "person/vtope",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Torsten_Schack_Pedersen/Torsten_Schack_Pedersenx133.jpg.ashx",
       "name": "Torsten Schack Pedersen",
       "sort_name": "Torsten Schack Pedersen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "torstenschack"
+        }
+      ],
+      "links": [
+        {
+          "url": "tschackpedersen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Torsten_Schack_Pedersen/Torsten_Schack_Pedersenx133.jpg.ashx"
@@ -4263,17 +4791,27 @@
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "trine.bramsen@ft.dk",
+      "gender": "female",
       "id": "person/strbr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Trine_Bramsen/Trine_Bramsenx133.jpg.ashx",
       "name": "Trine Bramsen",
       "sort_name": "Trine Bramsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Trinebramsen"
+        }
+      ],
+      "links": [
+        {
+          "url": "TrineBramsen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Trine_Bramsen/Trine_Bramsenx133.jpg.ashx"
@@ -4288,17 +4826,21 @@
           "area_id": "area/funen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "trine.torp@ft.dk",
+      "gender": "female",
       "id": "person/trine-torp",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Trine%20Torp/Trine_Torp_133.jpg.ashx",
       "name": "Trine Torp",
       "sort_name": "Trine Torp",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TrineTorp"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Trine%20Torp/Trine_Torp_133.jpg.ashx"
@@ -4313,17 +4855,27 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "min@evm.dk",
+      "gender": "male",
       "id": "person/vtlpo",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Troels_Lund_Poulsen/Troels_Lund_Poulsenx133.jpg.ashx",
       "name": "Troels Lund Poulsen",
       "sort_name": "Troels Lund Poulsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "troelslundp"
+        }
+      ],
+      "links": [
+        {
+          "url": "TroelsLundPoulsen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/V/Troels_Lund_Poulsen/Troels_Lund_Poulsenx133.jpg.ashx"
@@ -4338,17 +4890,21 @@
           "area_id": "area/east_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "uffe.elbaek@ft.dk",
+      "gender": "male",
       "id": "person/altufel",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Uffe_Elbaek/Uffe_Elbaekx133.jpg.ashx",
       "name": "Uffe Elbæk",
       "sort_name": "Uffe Elbæk",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "uffeelbaek"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Uffe_Elbaek/Uffe_Elbaekx133.jpg.ashx"
@@ -4363,13 +4919,11 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "ulla.sandbak@ft.dk",
+      "gender": "female",
       "id": "person/ulla-sandbaek",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Ulla%20Sandbaek/Ulla_Sandbaek_133.jpg.ashx",
       "name": "Ulla Sandbæk",
@@ -4395,10 +4949,23 @@
     },
     {
       "email": "villum.christensen@ft.dk",
+      "gender": "male",
       "id": "person/lavich",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Villum_Christensen/Villum_Christensen_x133.jpg.ashx",
       "name": "Villum Christensen",
       "sort_name": "Villum Christensen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "VillumC"
+        }
+      ],
+      "links": [
+        {
+          "url": "villum.christensen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/LA/Villum_Christensen/Villum_Christensen_x133.jpg.ashx"
@@ -4413,17 +4980,21 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "yildiz.akdogan@ft.dk",
+      "gender": "female",
       "id": "person/syiak",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Yildiz_Akdogan/Yildiz_Akdogan_133.jpg.ashx",
       "name": "Yildiz Akdogan",
       "sort_name": "Yildiz Akdogan",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "YildizAkdogan"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Yildiz_Akdogan/Yildiz_Akdogan_133.jpg.ashx"
@@ -4438,17 +5009,21 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "zenia.stampe@ft.dk",
+      "gender": "female",
       "id": "person/rvzest",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Zenia_Stampe/Zenia_Stampex133.jpg.ashx",
       "name": "Zenia Stampe",
       "sort_name": "Zenia Stampe",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "zeniastampe"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Zenia_Stampe/Zenia_Stampex133.jpg.ashx"
@@ -4463,9 +5038,6 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     }
   ]
