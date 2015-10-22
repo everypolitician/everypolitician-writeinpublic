@@ -1760,10 +1760,17 @@
     },
     {
       "email": "jeppe.bruus@ft.dk",
+      "gender": "male",
       "id": "person/sjebr",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jeppe_Bruus/Jeppe_Bruus_133.jpg.ashx",
       "name": "Jeppe Bruus",
       "sort_name": "Jeppe Bruus",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JeppeBruus"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/S/Jeppe_Bruus/Jeppe_Bruus_133.jpg.ashx"
@@ -1778,9 +1785,6 @@
           "area_id": "area/greater_copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
