@@ -718,6 +718,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ali_haydar_konca",
       "name": "Ali Haydar Konca",
       "sort_name": "Ali Haydar Konca",
@@ -1296,7 +1297,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "person/ayşe_gülsün_bilgehan",
       "name": "Ayşe Gülsün Bilgehan",
       "sort_name": "Ayşe Gülsün Bilgehan",
@@ -2654,6 +2654,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/erdoğan_toprak",
       "name": "Erdoğan Toprak",
       "sort_name": "Erdoğan Toprak",
@@ -6388,6 +6389,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/mustafa_Şentop",
       "name": "Mustafa Şentop",
       "sort_name": "Mustafa Şentop",
@@ -6442,6 +6444,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/müslüm_doğan",
       "name": "Müslüm Doğan",
       "sort_name": "Müslüm Doğan",
@@ -7777,6 +7780,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/selin_sayek_böke",
       "name": "Selin Sayek Böke",
       "sort_name": "Selin Sayek Böke",
@@ -7795,6 +7799,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/selina_doğan",
       "name": "Selina Doğan",
       "sort_name": "Selina Doğan",
@@ -8186,6 +8191,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/tacettin_bayır",
       "name": "Tacettin Bayır",
       "sort_name": "Tacettin Bayır",
@@ -8330,6 +8336,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/tekin_bingöl",
       "name": "Tekin Bingöl",
       "sort_name": "Tekin Bingöl",
@@ -8937,7 +8944,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/yıldırım_tuğrul_türkeş",
       "name": "Yıldırım Tuğrul Türkeş",
       "sort_name": "Yıldırım Tuğrul Türkeş",
@@ -8946,7 +8952,7 @@
           "person_id": "person/yıldırım_tuğrul_türkeş",
           "organization_id": "chamber/grand_national_assembly",
           "role": "member",
-          "on_behalf_of_id": "MHP",
+          "on_behalf_of_id": "ind",
           "area_id": "area/ankara",
           "legislative_period_id": "term/25"
         }
@@ -9227,6 +9233,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/zühal_topcu",
       "name": "Zühal Topcu",
       "sort_name": "Zühal Topcu",
@@ -9389,6 +9396,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Özcan_purçu",
       "name": "Özcan Purçu",
       "sort_name": "Özcan Purçu",
@@ -9536,8 +9544,14 @@
     {
       "gender": "male",
       "id": "person/İbrahim_ayhan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/İbrahim_Ayhan_(cropped).jpg",
       "name": "İbrahim Ayhan",
       "sort_name": "İbrahim Ayhan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/İbrahim_Ayhan_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/İbrahim_ayhan",
@@ -9653,7 +9667,7 @@
           "person_id": "person/İhsan_Özkes",
           "organization_id": "chamber/grand_national_assembly",
           "role": "member",
-          "on_behalf_of_id": "CHP",
+          "on_behalf_of_id": "ind",
           "area_id": "area/İstanbul",
           "legislative_period_id": "term/25"
         }
@@ -9701,6 +9715,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/İlhan_kesici",
       "name": "İlhan Kesici",
       "sort_name": "İlhan Kesici",
