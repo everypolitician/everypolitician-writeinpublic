@@ -1,7 +1,7 @@
 {
-  "total": 338,
+  "total": 339,
   "page": 1,
-  "per_page": 338,
+  "per_page": 339,
   "has_more": false,
   "result": [
     {
@@ -221,12 +221,13 @@
       ]
     },
     {
-      "id": "person/alupa_clarke",
+      "gender": "male",
+      "id": "person/Q21158712",
       "name": "Alupa Clarke",
       "sort_name": "Alupa Clarke",
       "memberships": [
         {
-          "person_id": "person/alupa_clarke",
+          "person_id": "person/Q21158712",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "conservative",
@@ -303,12 +304,12 @@
       ]
     },
     {
-      "id": "person/andy_fillmore",
+      "id": "person/Q21174009",
       "name": "Andy Fillmore",
       "sort_name": "Andy Fillmore",
       "memberships": [
         {
-          "person_id": "person/andy_fillmore",
+          "person_id": "person/Q21174009",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "liberal",
@@ -673,12 +674,12 @@
       ]
     },
     {
-      "id": "person/bill_morneau",
+      "id": "person/Q21175197",
       "name": "Bill Morneau",
       "sort_name": "Bill Morneau",
       "memberships": [
         {
-          "person_id": "person/bill_morneau",
+          "person_id": "person/Q21175197",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "liberal",
@@ -2363,6 +2364,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21155044",
       "name": "Francis Drouin",
       "sort_name": "Francis Drouin",
@@ -2454,6 +2456,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21159815",
       "name": "François-Philippe Champagne",
       "sort_name": "François-Philippe Champagne",
@@ -2472,12 +2475,13 @@
       ]
     },
     {
-      "id": "person/gabriel_ste-marie",
+      "gender": "male",
+      "id": "person/Q21177259",
       "name": "Gabriel Ste-Marie",
       "sort_name": "Gabriel Ste-Marie",
       "memberships": [
         {
-          "person_id": "person/gabriel_ste-marie",
+          "person_id": "person/Q21177259",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "bloc_québécois",
@@ -2526,6 +2530,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21160212",
       "name": "Gary Anandasangaree",
       "sort_name": "Gary Anandasangaree",
@@ -3552,12 +3557,13 @@
       ]
     },
     {
-      "id": "person/joël_lightbound",
+      "gender": "male",
+      "id": "person/Q21159821",
       "name": "Joël Lightbound",
       "sort_name": "Joël Lightbound",
       "memberships": [
         {
-          "person_id": "person/joël_lightbound",
+          "person_id": "person/Q21159821",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "liberal",
@@ -4451,6 +4457,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21156165",
       "name": "Majid Jowhari",
       "sort_name": "Majid Jowhari",
@@ -4834,6 +4841,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/Q21162694",
       "name": "Maryam Monsef",
       "sort_name": "Maryam Monsef",
@@ -5761,6 +5769,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/Q21158711",
       "name": "Pierre Paul-Hus",
       "sort_name": "Pierre Paul-Hus",
@@ -6077,12 +6086,13 @@
       ]
     },
     {
-      "id": "person/rhéal_fortin",
+      "gender": "male",
+      "id": "person/Q21159929",
       "name": "Rhéal Fortin",
       "sort_name": "Rhéal Fortin",
       "memberships": [
         {
-          "person_id": "person/rhéal_fortin",
+          "person_id": "person/Q21159929",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "bloc_québécois",
@@ -6928,12 +6938,12 @@
       ]
     },
     {
-      "id": "person/sven_spengemann",
+      "id": "person/Q21175255",
       "name": "Sven Spengemann",
       "sort_name": "Sven Spengemann",
       "memberships": [
         {
-          "person_id": "person/sven_spengemann",
+          "person_id": "person/Q21175255",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
           "on_behalf_of_id": "liberal",
@@ -6957,6 +6967,24 @@
           "role": "member",
           "on_behalf_of_id": "conservative",
           "area_id": "area/quebec_(beauport—côte-de-beaupré—Île_d'orléans—charlevoix)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/t._j._harvey",
+      "name": "T. J. Harvey",
+      "sort_name": "T. J. Harvey",
+      "memberships": [
+        {
+          "person_id": "person/t._j._harvey",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "liberal",
+          "area_id": "area/new_brunswick_(tobique—mactaquac)",
           "legislative_period_id": "term/42"
         }
       ],
