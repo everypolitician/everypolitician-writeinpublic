@@ -1268,8 +1268,14 @@
       "email": "Kalev.Kallo@riigikogu.ee",
       "gender": "male",
       "id": "person/2240eda3-3fe9-457a-ab4f-2c52a4382c3c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/KE_Kalev_Kallo.jpg",
       "name": "Kalev Kallo",
       "sort_name": "Kalev Kallo",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/KE_Kalev_Kallo.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2240eda3-3fe9-457a-ab4f-2c52a4382c3c",
@@ -2051,6 +2057,7 @@
     },
     {
       "email": "Martin.Repinski@riigikogu.ee",
+      "gender": "male",
       "id": "person/ce3f9ed0-083c-4d0f-b45a-096610012b5f",
       "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/8fe5a58a-98e2-497d-8039-d25976bbdb6e.jpg",
       "name": "Martin Repinski",

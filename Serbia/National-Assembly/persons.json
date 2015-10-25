@@ -1,7 +1,7 @@
 {
-  "total": 250,
+  "total": 251,
   "page": 1,
-  "per_page": 250,
+  "per_page": 251,
   "has_more": false,
   "result": [
     {
@@ -2849,6 +2849,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/517",
+      "name": "MIROSLAV MARINKOVIC",
+      "sort_name": "MIROSLAV MARINKOVIC",
+      "memberships": [
+        {
+          "person_id": "person/517",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
+          "start_date": "2015-10-22",
           "legislative_period_id": "term/10"
         }
       ],

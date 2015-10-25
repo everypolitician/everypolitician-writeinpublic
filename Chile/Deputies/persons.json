@@ -1,7 +1,7 @@
 {
-  "total": 120,
+  "total": 121,
   "page": 1,
-  "per_page": 120,
+  "per_page": 121,
   "has_more": false,
   "result": [
     {
@@ -1797,6 +1797,26 @@
           "role": "member",
           "on_behalf_of_id": "PS",
           "area_id": "area/21",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "miguelangel.alvarado",
+      "gender": "male",
+      "id": "person/1007",
+      "name": "Miguel Ángel Alvarado Ramírez",
+      "sort_name": "Alvarado",
+      "memberships": [
+        {
+          "person_id": "person/1007",
+          "organization_id": "chamber/national_congress",
+          "role": "member",
+          "on_behalf_of_id": "PPD",
+          "area_id": "area/9",
           "legislative_period_id": "term/8"
         }
       ],

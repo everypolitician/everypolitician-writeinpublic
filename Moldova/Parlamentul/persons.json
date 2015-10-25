@@ -172,6 +172,7 @@
     },
     {
       "email": "Anatolie.Zagorodnii@parlament.md",
+      "gender": "male",
       "id": "person/15",
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=qiFaZVblok8%3d&tabid=87&mid=476&language=en-US",
       "name": "Anatolie Zagorodnîi",
@@ -1404,6 +1405,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/565",
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=oiTtK4DcivM%3d&tabid=87&mid=476&language=en-US",
       "name": "Marina Radvan",
@@ -1724,6 +1726,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/67",
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=ANJ5g32jEkg%3d&tabid=87&mid=476&language=en-US",
       "name": "Oxana Domenti",
@@ -1965,8 +1968,14 @@
       "email": "Alina.Druta@parlament.md",
       "gender": "male",
       "id": "person/89",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Valeriu_Streleț_(2015).png",
       "name": "Streleţ Valeriu",
       "sort_name": "Streleţ Valeriu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Valeriu_Streleț_(2015).png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/89",
