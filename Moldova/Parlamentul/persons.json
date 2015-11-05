@@ -1,9 +1,32 @@
 {
-  "total": 110,
+  "total": 112,
   "page": 1,
-  "per_page": 110,
+  "per_page": 112,
   "has_more": false,
   "result": [
+    {
+      "id": "person/15676146-0b4a-45f2-a1d3-72ea4d43ad63",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=m00oBW14Q68%3d&tabid=87&mid=476&language=en-US",
+      "name": "Adrian Lebedinschi",
+      "sort_name": "Lebedinschi Adrian",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=m00oBW14Q68%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/15676146-0b4a-45f2-a1d3-72ea4d43ad63",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "12",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "email": "Alexandr.Bannicov@parlament.md",
       "gender": "male",
@@ -409,6 +432,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6a4cb09e-a7f0-4afc-9126-efa4925474b5",
       "name": "Chirinciuc Iurie",
       "sort_name": "Chirinciuc Iurie",
@@ -1153,6 +1177,29 @@
           "organization_id": "chamber/parlament",
           "role": "member",
           "on_behalf_of_id": "12",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5e1d11f2-2bf3-47cc-9b7e-d7631b540624",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=T%2fdD3BTt37g%3d&tabid=87&mid=476&language=en-US",
+      "name": "Iurie Cazacu",
+      "sort_name": "Cazacu Iurie",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=T%2fdD3BTt37g%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5e1d11f2-2bf3-47cc-9b7e-d7631b540624",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "9",
           "legislative_period_id": "term/2014"
         }
       ],

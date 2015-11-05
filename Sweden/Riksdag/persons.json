@@ -1,7 +1,7 @@
 {
-  "total": 352,
+  "total": 353,
   "page": 1,
-  "per_page": 352,
+  "per_page": 353,
   "has_more": false,
   "result": [
     {
@@ -3713,6 +3713,32 @@
       ]
     },
     {
+      "email": "jamal.mouneimne@riksdagen.se",
+      "gender": "male",
+      "id": "person/b51411dc-5e9a-446e-ae25-03403243abd9",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/080633830413_max.jpg",
+      "name": "Jamal Mouneimne",
+      "sort_name": "Jamal Mouneimne",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/080633830413_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b51411dc-5e9a-446e-ae25-03403243abd9",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "ocd-division/country:se/constituency:västerbottens-län",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "jan.bjorklund@riksdagen.se",
       "gender": "male",
       "id": "person/40b36b8c-17f3-4ea4-9dbb-686991630128",
@@ -5929,7 +5955,7 @@
           "person_id": "person/7ef06afd-a927-48e8-9396-b27609eeb560",
           "organization_id": "chamber/riksdag",
           "role": "member",
-          "on_behalf_of_id": "SD",
+          "on_behalf_of_id": "-",
           "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-östra",
           "legislative_period_id": "term/2014"
         }

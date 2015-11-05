@@ -1,7 +1,7 @@
 {
-  "total": 151,
+  "total": 152,
   "page": 1,
-  "per_page": 151,
+  "per_page": 152,
   "has_more": false,
   "result": [
     {
@@ -1768,6 +1768,31 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "CU",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.swinkels@tweedekamer.nl",
+      "gender": "female",
+      "id": "person/8198f136-2587-420a-99eb-4877dba892b1",
+      "image": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8342_0.jpg?itok=47wRcMzs",
+      "name": "Judith C M Swinkels",
+      "sort_name": "Swinkels, J.C.M.",
+      "images": [
+        {
+          "url": "http://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8342_0.jpg?itok=47wRcMzs"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8198f136-2587-420a-99eb-4877dba892b1",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "D66",
           "legislative_period_id": "term/2012"
         }
       ],

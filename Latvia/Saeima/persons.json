@@ -1,7 +1,7 @@
 {
-  "total": 100,
+  "total": 101,
   "page": 1,
-  "per_page": 100,
+  "per_page": 101,
   "has_more": false,
   "result": [
     {
@@ -119,6 +119,30 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "unity",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/56e7a5a7-628b-46b2-8ad9-7ba360e8b7a7",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/14ffbcf326ec49e2c2257d7b0032d83a/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Aleksandrs Jakimovs",
+      "sort_name": "Aleksandrs Jakimovs",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/14ffbcf326ec49e2c2257d7b0032d83a/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/56e7a5a7-628b-46b2-8ad9-7ba360e8b7a7",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "concord",
+          "start_date": "2015-10-29",
           "legislative_period_id": "term/12"
         }
       ],
@@ -798,8 +822,8 @@
       "email": "Guntis.Kalnins@saeima.lv",
       "id": "person/99a62500-15bb-4671-a9a1-386d1787c57d",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/6ba59a8e8d1c33c0c2257d7b0032d938/Foto/0.84?OpenElement&FieldElemFormat=jpg",
-      "name": "Guntis Kalnins",
-      "sort_name": "Guntis Kalnins",
+      "name": "Guntis Kalniņš",
+      "sort_name": "Guntis Kalniņš",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/6ba59a8e8d1c33c0c2257d7b0032d938/Foto/0.84?OpenElement&FieldElemFormat=jpg"

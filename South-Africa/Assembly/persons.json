@@ -1,7 +1,7 @@
 {
-  "total": 391,
+  "total": 392,
   "page": 1,
-  "per_page": 391,
+  "per_page": 392,
   "has_more": false,
   "result": [
     {
@@ -3170,6 +3170,29 @@
       ]
     },
     {
+      "id": "person/ecb29e9d-5fe8-47bf-89e8-7ac6d9098fb5",
+      "image": "http://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg",
+      "name": "Hlengiwe Octavia Hlophe",
+      "sort_name": "Hlengiwe Octavia Hlophe",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ecb29e9d-5fe8-47bf-89e8-7ac6d9098fb5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "EFF",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/aba395e6-be29-4adc-821d-7d4f3c452569",
       "image": "http://www.pa.org.za/media_root/cache/99/64/996489d2aa9502f6f83e9163956d54c3.jpg",
       "name": "Hlengiwe Octavia Maxon",
@@ -5488,6 +5511,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/f30f87a7-9178-408c-a2f5-43218cfd335d",
       "image": "http://www.pa.org.za/media_root/cache/96/77/9677a53043b14f6bd8485b6d1c286c06.jpg",
       "name": "Mildred Oliphant",
