@@ -1,7 +1,7 @@
 {
-  "total": 33,
+  "total": 52,
   "page": 1,
-  "per_page": 33,
+  "per_page": 52,
   "has_more": false,
   "result": [
     {
@@ -29,6 +29,24 @@
       ]
     },
     {
+      "id": "person/3cc0fa7a-d839-476a-9cc5-17b2a7b684d1",
+      "name": "Amos John Vacher",
+      "sort_name": "Amos John Vacher",
+      "memberships": [
+        {
+          "person_id": "person/3cc0fa7a-d839-476a-9cc5-17b2a7b684d1",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ppp",
+          "area_id": "area/tongoa",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/7938edf0-062d-4e7d-bb32-a401ac8364d5",
       "image": "http://parliament.gov.vu/images/bio/bob.jpg",
       "name": "Bob Loughman",
@@ -45,6 +63,24 @@
           "role": "member",
           "on_behalf_of_id": "vp",
           "area_id": "area/tanna",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fdc0fcc2-0af1-4714-a5b8-2d4b3cffa3b6",
+      "name": "Bohn. M. Robert",
+      "sort_name": "Bohn. M. Robert",
+      "memberships": [
+        {
+          "person_id": "person/fdc0fcc2-0af1-4714-a5b8-2d4b3cffa3b6",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "vpdp",
+          "area_id": "area/epi",
           "legislative_period_id": "term/10"
         }
       ],
@@ -101,6 +137,24 @@
       ]
     },
     {
+      "id": "person/8d81949b-cf2e-463f-990e-5641c848e369",
+      "name": "Chabod Jean Yves",
+      "sort_name": "Chabod Jean Yves",
+      "memberships": [
+        {
+          "person_id": "person/8d81949b-cf2e-463f-990e-5641c848e369",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "vpdp",
+          "area_id": "area/port_vila",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/219f9646-8207-443a-be9d-3f1f7f03d94c",
       "image": "http://parliament.gov.vu/images/bio/salwai.jpg",
       "name": "Charlot Salwai",
@@ -117,6 +171,24 @@
           "role": "member",
           "on_behalf_of_id": "rmc",
           "area_id": "area/pentecost",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ff40ed87-6803-4354-9115-c1d315e828b4",
+      "name": "Christopher Emelee",
+      "sort_name": "Christopher Emelee",
+      "memberships": [
+        {
+          "person_id": "person/ff40ed87-6803-4354-9115-c1d315e828b4",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "vnp",
+          "area_id": "area/banks/torres",
           "legislative_period_id": "term/10"
         }
       ],
@@ -245,6 +317,42 @@
       ]
     },
     {
+      "id": "person/8025c794-d17d-4257-a712-5943664bd8e2",
+      "name": "Hamariliu B. Issac",
+      "sort_name": "Hamariliu B. Issac",
+      "memberships": [
+        {
+          "person_id": "person/8025c794-d17d-4257-a712-5943664bd8e2",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ppp",
+          "area_id": "area/epi",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/29f400ba-5f0c-46b6-93fc-3e13bcbd9e0f",
+      "name": "Hosea Nevu",
+      "sort_name": "Hosea Nevu",
+      "memberships": [
+        {
+          "person_id": "person/29f400ba-5f0c-46b6-93fc-3e13bcbd9e0f",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ig",
+          "area_id": "area/santo_rural",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/d24b74ff-d4bb-4d02-839f-b7f00de36d6e",
       "image": "http://parliament.gov.vu/images/bio/morking.jpg",
       "name": "Iatika Morking Stephen",
@@ -285,6 +393,24 @@
           "role": "member",
           "on_behalf_of_id": "nup",
           "area_id": "area/ambae",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4fec7f45-196c-4594-ad1c-88f7d073b485",
+      "name": "James Jonas",
+      "sort_name": "James Jonas",
+      "memberships": [
+        {
+          "person_id": "person/4fec7f45-196c-4594-ad1c-88f7d073b485",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "natatok",
+          "area_id": "area/paama",
           "legislative_period_id": "term/10"
         }
       ],
@@ -357,6 +483,24 @@
           "role": "member",
           "on_behalf_of_id": "nagriamel",
           "area_id": "area/santo_rural",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/34fe2f94-d743-4c72-8833-f179b33c3d5f",
+      "name": "Kalfao Moli",
+      "sort_name": "Kalfao Moli",
+      "memberships": [
+        {
+          "person_id": "person/34fe2f94-d743-4c72-8833-f179b33c3d5f",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ind",
+          "area_id": "area/luganville",
           "legislative_period_id": "term/10"
         }
       ],
@@ -477,6 +621,60 @@
           "role": "member",
           "on_behalf_of_id": "ppp",
           "area_id": "area/malekula",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b3d884b9-7273-4be3-83a3-48626bd069ac",
+      "name": "Molisale Havo",
+      "sort_name": "Molisale Havo",
+      "memberships": [
+        {
+          "person_id": "person/b3d884b9-7273-4be3-83a3-48626bd069ac",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "nagriamel",
+          "area_id": "area/malo/aore",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/eda74799-6aa7-4e16-b548-b0c0873de491",
+      "name": "Nalet Daniel",
+      "sort_name": "Nalet Daniel",
+      "memberships": [
+        {
+          "person_id": "person/eda74799-6aa7-4e16-b548-b0c0873de491",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "gjp",
+          "area_id": "area/malekula",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1849cc10-2619-4e15-9f33-a1c991a29142",
+      "name": "Nawai Tesei John",
+      "sort_name": "Nawai Tesei John",
+      "memberships": [
+        {
+          "person_id": "person/1849cc10-2619-4e15-9f33-a1c991a29142",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "vp",
+          "area_id": "area/tafea_outer_islands",
           "legislative_period_id": "term/10"
         }
       ],
@@ -653,6 +851,60 @@
       ]
     },
     {
+      "id": "person/aadbc2e2-4a5c-485e-9d2f-cfa816c1812c",
+      "name": "Rouard Silas Ratan",
+      "sort_name": "Rouard Silas Ratan",
+      "memberships": [
+        {
+          "person_id": "person/aadbc2e2-4a5c-485e-9d2f-cfa816c1812c",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "gc",
+          "area_id": "area/tanna",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/294b8675-4e27-4b20-b88b-cd227d603b4a",
+      "name": "Ruan Richard Namel",
+      "sort_name": "Ruan Richard Namel",
+      "memberships": [
+        {
+          "person_id": "person/294b8675-4e27-4b20-b88b-cd227d603b4a",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ig",
+          "area_id": "area/tanna",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7f3e4560-ff17-4891-a896-41433c9076ac",
+      "name": "Samson Samsen",
+      "sort_name": "Samson Samsen",
+      "memberships": [
+        {
+          "person_id": "person/7f3e4560-ff17-4891-a896-41433c9076ac",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "nagriamel",
+          "area_id": "area/santo",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/5f2a8636-5d43-4e3c-8539-82eb7b00861d",
       "image": "http://parliament.gov.vu/images/bio/steven.jpg",
       "name": "Steven Kalsakau",
@@ -669,6 +921,24 @@
           "role": "member",
           "on_behalf_of_id": "rmc",
           "area_id": "area/efate_rural",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/76dfa425-e058-487a-95a5-476b26c30815",
+      "name": "Taiwia Nato",
+      "sort_name": "Taiwia Nato",
+      "memberships": [
+        {
+          "person_id": "person/76dfa425-e058-487a-95a5-476b26c30815",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "mpp",
+          "area_id": "area/efate",
           "legislative_period_id": "term/10"
         }
       ],
@@ -749,168 +1019,34 @@
       ]
     },
     {
-      "id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
+      "id": "person/0880d800-49f7-4999-b27b-2e7446f78b8c",
       "name": "Tonny Ngari",
       "sort_name": "Tonny Ngari",
       "memberships": [
         {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "nagriamel",
-          "area_id": "area/malo/aore",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/port_vila",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "gjp",
-          "area_id": "area/malekula",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "vp",
-          "area_id": "area/tafea_outer_islands",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "vnp",
-          "area_id": "area/banks/torres",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ig",
-          "area_id": "area/tanna",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ppp",
-          "area_id": "area/tongoa",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ig",
-          "area_id": "area/santo_rural",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "nagriamel",
-          "area_id": "area/santo",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "vpdp",
-          "area_id": "area/epi",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ig",
-          "area_id": "area/tanna",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "gjp",
-          "area_id": "area/efate",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "natatok",
-          "area_id": "area/paama",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "mpp",
-          "area_id": "area/efate",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ump",
-          "area_id": "area/port_vila",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "vpdp",
-          "area_id": "area/port_vila",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "gc",
-          "area_id": "area/tanna",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ppp",
-          "area_id": "area/epi",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ind",
-          "area_id": "area/luganville",
-          "legislative_period_id": "term/10"
-        },
-        {
-          "person_id": "person/f922af8d-4cf6-4115-818e-727662596cb8",
+          "person_id": "person/0880d800-49f7-4999-b27b-2e7446f78b8c",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "iauko_group",
           "area_id": "area/pentecost",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2a4322f6-8a31-414c-90e0-7f9c5bd3506f",
+      "name": "Vacant",
+      "sort_name": "Vacant",
+      "memberships": [
+        {
+          "person_id": "person/2a4322f6-8a31-414c-90e0-7f9c5bd3506f",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/port_vila",
           "legislative_period_id": "term/10"
         }
       ],
@@ -935,6 +1071,60 @@
           "role": "member",
           "on_behalf_of_id": "ump",
           "area_id": "area/santo_rural",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/512d8681-dfd6-4f8b-b12d-de7490f2cdb8",
+      "name": "William K. Gillion",
+      "sort_name": "William K. Gillion",
+      "memberships": [
+        {
+          "person_id": "person/512d8681-dfd6-4f8b-b12d-de7490f2cdb8",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "gjp",
+          "area_id": "area/efate",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4dc9d1bd-4dca-4643-8b18-e6c276747ab9",
+      "name": "Wright Antoine Tonny",
+      "sort_name": "Wright Antoine Tonny",
+      "memberships": [
+        {
+          "person_id": "person/4dc9d1bd-4dca-4643-8b18-e6c276747ab9",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ump",
+          "area_id": "area/port_vila",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e6c840ca-d8f9-40d0-9b9c-5d5ba9dd22dd",
+      "name": "Yauko Pascal",
+      "sort_name": "Yauko Pascal",
+      "memberships": [
+        {
+          "person_id": "person/e6c840ca-d8f9-40d0-9b9c-5d5ba9dd22dd",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ig",
+          "area_id": "area/tanna",
           "legislative_period_id": "term/10"
         }
       ],
