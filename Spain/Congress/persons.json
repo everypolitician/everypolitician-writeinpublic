@@ -5,6 +5,7 @@
   "has_more": false,
   "result": [
     {
+      "gender": "male",
       "id": "person/0ba4dd24-5b5b-4598-a216-2396a6ee96a7",
       "name": "Agustín Conde",
       "sort_name": "Conde Bajén, Agustín",
@@ -24,6 +25,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b3d6f99d-7a8f-4fde-b299-39e59a6a72bd",
       "name": "Aitor Esteban",
       "sort_name": "Esteban Bravo, Aitor",
@@ -46,6 +48,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/908e2cc1-887c-42a3-b409-f6c9e0c84562",
       "name": "Albert Soler",
       "sort_name": "Soler Sicilia, Albert",
@@ -69,6 +72,7 @@
     },
     {
       "email": "alberto.garzon@congreso.es",
+      "gender": "male",
       "id": "person/65669c5d-db75-4e41-af9b-6a9c531d1611",
       "name": "Alberto Garzón",
       "sort_name": "Garzón Espinosa, Alberto",
@@ -91,9 +95,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e94e8b77-f480-4156-90a9-0dc54603b33a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mayor_Alberto_Ruiz_Gallardon.jpg",
       "name": "Alberto Ruiz-Gallardón",
       "sort_name": "Ruiz-Gallardón Jiménez, Alberto",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mayor_Alberto_Ruiz_Gallardon.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e94e8b77-f480-4156-90a9-0dc54603b33a",
@@ -111,6 +122,7 @@
     },
     {
       "email": "aalonso@congreso.es",
+      "gender": "male",
       "id": "person/07823ee8-c8ae-4704-beb8-700e51bbe3c0",
       "name": "Alejandro Alonso",
       "sort_name": "Alonso Núñez, Alejandro",
@@ -134,6 +146,7 @@
     },
     {
       "email": "alejandro@pptarragona.com",
+      "gender": "male",
       "id": "person/1c78956a-8d1f-4bbd-9409-684d8ad24514",
       "name": "Alejandro Fernández",
       "sort_name": "Fernández Álvarez, Alejandro",
@@ -177,13 +190,20 @@
     },
     {
       "email": "portavoz.gpp@gpp.congreso.es",
+      "gender": "male",
       "id": "person/43e4086c-e80e-4553-a144-7a9214bf5df3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Alfonso_Alonso_2015_(cropped).jpg",
       "name": "Alfonso Alonso",
       "sort_name": "Alonso Aranegui, Alfonso",
       "contact_details": [
         {
           "type": "twitter",
           "value": "AlfonsoAlonsoPP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Alfonso_Alonso_2015_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -221,9 +241,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/9398536b-75fd-4388-bd81-a322ab16d105",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Alfonso_Guerra.jpg",
       "name": "Alfonso Guerra",
       "sort_name": "Guerra González, Alfonso",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Alfonso_Guerra.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/9398536b-75fd-4388-bd81-a322ab16d105",
@@ -240,6 +267,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e36f7095-260a-4bcf-9731-11a08099c130",
       "name": "Alfonso de Senillosa",
       "sort_name": "Senillosa Ramoneda, Alfonso de",
@@ -261,13 +289,20 @@
     },
     {
       "email": "alfred.bosch@congreso.es",
+      "gender": "male",
       "id": "person/d085a6de-673f-4fcb-b8a4-4d9b3d133f1b",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/AlfredBosch2.jpg",
       "name": "Alfred Bosch",
       "sort_name": "Bosch i Pascual, Alfred",
       "contact_details": [
         {
           "type": "twitter",
           "value": "AlfredBosch"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/AlfredBosch2.jpg"
         }
       ],
       "memberships": [
@@ -284,6 +319,7 @@
     },
     {
       "email": "aprada@pprada.es",
+      "gender": "male",
       "id": "person/3758465f-8950-4f8f-87f6-3a77ade17856",
       "name": "Alfredo Prada",
       "sort_name": "Prada Presa, Alfredo",
@@ -307,13 +343,20 @@
     },
     {
       "email": "secretaria.general@psoe.es",
+      "gender": "male",
       "id": "person/ecaf6c50-e5e3-4c13-a32b-99f95080a367",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alfredo_Pérez_Rubalcaba_(diciembre_de_2010).jpg",
       "name": "Alfredo Pérez",
       "sort_name": "Pérez Rubalcaba, Alfredo",
       "contact_details": [
         {
           "type": "twitter",
           "value": "_Rubalcaba_"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Alfredo_Pérez_Rubalcaba_(diciembre_de_2010).jpg"
         }
       ],
       "memberships": [
@@ -396,6 +439,7 @@
     },
     {
       "email": "ana.oramas@congreso.es",
+      "gender": "female",
       "id": "person/5e347415-50a0-487c-8126-5b4ae7bb7c6c",
       "name": "Ana María Oramas",
       "sort_name": "Oramas González-Moro, Ana María",
@@ -436,9 +480,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/5b4f9158-fcb0-4a4b-b604-f1b75b24ba58",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ana_Mato2.jpg",
       "name": "Ana Mato",
       "sort_name": "Mato Adrover, Ana",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ana_Mato2.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5b4f9158-fcb0-4a4b-b604-f1b75b24ba58",
@@ -455,6 +506,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/40eae8ff-9561-468b-b49e-09219963e2ed",
       "name": "Andrea Fabra",
       "sort_name": "Fabra Fernández, Andrea",
@@ -473,6 +525,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/465fa723-25aa-4279-b5cc-1cf7f5209029",
       "name": "Andrés José Ayala",
       "sort_name": "Ayala Sánchez, Andrés José",
@@ -538,13 +591,20 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b2c175ea-afe0-40f8-ab59-ab2479889934",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Antonio_Camacho_Vizcaíno.jpg",
       "name": "Antonio Camacho",
       "sort_name": "Camacho Vizcaíno, Antonio",
       "contact_details": [
         {
           "type": "twitter",
           "value": "HMcamachoV"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Antonio_Camacho_Vizcaíno.jpg"
         }
       ],
       "memberships": [
@@ -561,13 +621,20 @@
     },
     {
       "email": "secretaria.upyd@congreso.es",
+      "gender": "male",
       "id": "person/7e8b8a28-fc9d-4ef5-a5e6-5b75d50da443",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Toni_Cantó_2013_-_Zoquejo_Diario_(cropped).jpg",
       "name": "Antonio Cantó",
       "sort_name": "Cantó García del Moral, Antonio",
       "contact_details": [
         {
           "type": "twitter",
           "value": "ToniCanto1"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Toni_Cantó_2013_-_Zoquejo_Diario_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -584,6 +651,7 @@
     },
     {
       "email": "antonio.erias@congreso.es",
+      "gender": "male",
       "id": "person/9d94e591-756c-440c-a36c-bc72cf16912b",
       "name": "Antonio Erias",
       "sort_name": "Erias Rey, Antonio",
@@ -627,6 +695,7 @@
     },
     {
       "email": "pp@elprat.cat",
+      "gender": "male",
       "id": "person/aae5950c-a649-4b34-9503-b7a62083c1f1",
       "name": "Antonio Gallego",
       "sort_name": "Gallego Burgos, Antonio",
@@ -669,13 +738,20 @@
     },
     {
       "email": "antonio.hernando@congreso.es",
+      "gender": "male",
       "id": "person/3901287a-7301-482e-9c66-c3bedf237a99",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Antonio_Hernando_en_Jerez_de_los_Caballeros.jpg",
       "name": "Antonio Hernando",
       "sort_name": "Hernando Vera, Antonio",
       "contact_details": [
         {
           "type": "twitter",
           "value": "AHernandoVera"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Antonio_Hernando_en_Jerez_de_los_Caballeros.jpg"
         }
       ],
       "memberships": [
@@ -692,6 +768,7 @@
     },
     {
       "email": "antonio.hurtado@congreso.es",
+      "gender": "male",
       "id": "person/fa324641-c573-4c5b-a589-b65cc69220be",
       "name": "Antonio Hurtado",
       "sort_name": "Hurtado Zurera, Antonio",
@@ -734,6 +811,7 @@
     },
     {
       "email": "antoniotrevin@yahoo.es",
+      "gender": "male",
       "id": "person/c77381b6-e981-4d08-b708-503177e2863b",
       "name": "Antonio Ramón María Trevín",
       "sort_name": "Trevín Lombán, Antonio Ramón María",
@@ -757,6 +835,7 @@
     },
     {
       "email": "antonio.roman@congreso.es",
+      "gender": "male",
       "id": "person/b01ea608-42fd-4bfb-95e5-329f7b2d65da",
       "name": "Antonio Román",
       "sort_name": "Román Jasanada, Antonio",
@@ -798,9 +877,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/1c98bbdb-d65b-4e4d-bdee-57792df4761c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Arantza_Tapia.jpg",
       "name": "Arantza Tapia",
       "sort_name": "Tapia Otaegi, Arantza",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Arantza_Tapia.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/1c98bbdb-d65b-4e4d-bdee-57792df4761c",
@@ -859,9 +945,16 @@
     },
     {
       "email": "a.gtizon@congreso.es",
+      "gender": "male",
       "id": "person/582bd026-18f1-4f8e-ae00-4a726058a6d9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Arturo_García-Tizón_2013_(cropped).jpg",
       "name": "Arturo García-Tizón",
       "sort_name": "García-Tizón López, Arturo",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Arturo_García-Tizón_2013_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/582bd026-18f1-4f8e-ae00-4a726058a6d9",
@@ -878,6 +971,7 @@
     },
     {
       "email": "a.delasheras@congreso.es",
+      "gender": "female",
       "id": "person/d509bc83-28fe-4cc9-9a8a-9872a9afd10f",
       "name": "Ascensión De",
       "sort_name": "De las Heras Ladera, Ascensión",
@@ -979,6 +1073,7 @@
     },
     {
       "email": "hoyobelen@gmail.com",
+      "gender": "female",
       "id": "person/f30beea7-3c1c-4202-9f25-7a49386b1578",
       "name": "Belén Hoyo",
       "sort_name": "Hoyo Juliá, Belén",
@@ -1022,6 +1117,7 @@
     },
     {
       "email": "carles.campuzano@gmail.com",
+      "gender": "male",
       "id": "person/ec9c01f7-f35d-4574-9420-6c2e9ef47b32",
       "name": "Carles Campuzano",
       "sort_name": "Campuzano i Canadés, Carles",
@@ -1068,6 +1164,7 @@
     },
     {
       "email": "c.aragones@congreso.es",
+      "gender": "male",
       "id": "person/97460f03-6226-41e8-b533-2adc64910573",
       "name": "Carlos Aragonés",
       "sort_name": "Aragonés Mendiguchía, Carlos",
@@ -1088,6 +1185,7 @@
     },
     {
       "email": "carlos.salvador@congreso.es",
+      "gender": "male",
       "id": "person/88696c67-f08b-4e52-85d2-4cb41192ad00",
       "name": "Carlos Casimiro Salvador",
       "sort_name": "Salvador Armendáriz, Carlos Casimiro",
@@ -1111,6 +1209,7 @@
     },
     {
       "email": "carlos.munozobon@congreso.es",
+      "gender": "male",
       "id": "person/96f05bef-2754-4016-9741-ae3fafbdada5",
       "name": "Carlos Enrique Muñoz",
       "sort_name": "Muñoz Obón, Carlos Enrique",
@@ -1134,13 +1233,20 @@
     },
     {
       "email": "carlos.floriano@congreso.es",
+      "gender": "male",
       "id": "person/736deea4-0c88-4083-8a97-dd91434969ea",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Carlos_Floriano_en_la_2ª_jornada_del_curso_de_Verano_del_PP_en_Gandía_(2).jpg",
       "name": "Carlos Javier Floriano",
       "sort_name": "Floriano Corrales, Carlos Javier",
       "contact_details": [
         {
           "type": "twitter",
           "value": "c_floriano"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Carlos_Floriano_en_la_2ª_jornada_del_curso_de_Verano_del_PP_en_Gandía_(2).jpg"
         }
       ],
       "memberships": [
@@ -1157,6 +1263,7 @@
     },
     {
       "email": "secretaria.upyd@congreso.es",
+      "gender": "male",
       "id": "person/b5712ae0-2a26-4a05-999d-bb9c3b678fac",
       "name": "Carlos Martínez",
       "sort_name": "Martínez Gorriarán, Carlos",
@@ -1179,9 +1286,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/303cc6fa-7fd6-43ec-808c-e2f6d7348b03",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carme_Chacón_at_the_Pentagon_in_Washingon,_DC,_USA_(crop).jpg",
       "name": "Carme Chacón",
       "sort_name": "Chacón Piqueras, Carme",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carme_Chacón_at_the_Pentagon_in_Washingon,_DC,_USA_(crop).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/303cc6fa-7fd6-43ec-808c-e2f6d7348b03",
@@ -1219,6 +1333,7 @@
     },
     {
       "email": "carmen.monton@congreso.es",
+      "gender": "female",
       "id": "person/a900c7d9-3bbe-4bf5-b231-7cdf17149c03",
       "name": "Carmen Montón",
       "sort_name": "Montón Giménez, Carmen",
@@ -1262,9 +1377,16 @@
     },
     {
       "email": "cayetana.alvarez@congreso.es",
+      "gender": "female",
       "id": "person/19c59271-822e-4770-914b-4a0a8e72c455",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cayetana_Álvarez_de_Toledo.jpg",
       "name": "Cayetana Álvarez",
       "sort_name": "Álvarez de Toledo Peralta Ramos, Cayetana",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cayetana_Álvarez_de_Toledo.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/19c59271-822e-4770-914b-4a0a8e72c455",
@@ -1282,13 +1404,20 @@
     },
     {
       "email": "cayo.lara@congreso.es",
+      "gender": "male",
       "id": "person/0eb0717d-e00a-4fff-a142-88776ae88599",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CayoLaraIU2.jpg",
       "name": "Cayo Lara",
       "sort_name": "Lara Moya, Cayo",
       "contact_details": [
         {
           "type": "twitter",
           "value": "cayo_lara"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CayoLaraIU2.jpg"
         }
       ],
       "memberships": [
@@ -1324,9 +1453,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/49ee5e65-8066-41db-ab71-c40270dc945a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Celia_Villalobos.png",
       "name": "Celia Villalobos",
       "sort_name": "Villalobos Talero, Celia",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Celia_Villalobos.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/49ee5e65-8066-41db-ab71-c40270dc945a",
@@ -1383,6 +1519,7 @@
     },
     {
       "email": "chesus.yuste@congreso.es",
+      "gender": "male",
       "id": "person/f40fd0e5-a619-403c-8122-5e1946dc5dcb",
       "name": "Chesús Yuste",
       "sort_name": "Yuste Cabello, Chesús",
@@ -1406,6 +1543,7 @@
     },
     {
       "email": "cipria.ciscar@congreso.es",
+      "gender": "male",
       "id": "person/48906b4d-9e91-4ec9-930e-bb9c4141734b",
       "name": "Ciprià Císcar",
       "sort_name": "Císcar Casabán, Ciprià",
@@ -1468,6 +1606,7 @@
     },
     {
       "email": "conrado.escobar@congreso.es",
+      "gender": "male",
       "id": "person/e8cc256f-ef8d-4a70-ae9b-5f4d82751ccf",
       "name": "Conrado Escobar",
       "sort_name": "Escobar Las Heras, Conrado",
@@ -1490,9 +1629,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/975b12f5-aab1-47b8-b81b-85c2f33f35c8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cristina_Narbona_en_un_mitin_en_Amposta_(Tarragona).jpg",
       "name": "Cristina Narbona",
       "sort_name": "Narbona Ruiz, Cristina",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cristina_Narbona_en_un_mitin_en_Amposta_(Tarragona).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/975b12f5-aab1-47b8-b81b-85c2f33f35c8",
@@ -1511,9 +1657,16 @@
     },
     {
       "email": "cristobal.montoro@congreso.es",
+      "gender": "male",
       "id": "person/ad901179-52ae-43f3-bd8b-3d3a50b138c9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cristóbal_Montoro,_Coordinador_dEconomia_del_Partit_Popular,_als_Dinars_Cambra,_17_doctubre_de_2011_(2).jpg",
       "name": "Cristóbal Ricardo Montoro",
       "sort_name": "Montoro Romero, Cristóbal Ricardo",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cristóbal_Montoro,_Coordinador_dEconomia_del_Partit_Popular,_als_Dinars_Cambra,_17_doctubre_de_2011_(2).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ad901179-52ae-43f3-bd8b-3d3a50b138c9",
@@ -1530,6 +1683,7 @@
     },
     {
       "email": "cesar.luena@congreso.es",
+      "gender": "male",
       "id": "person/5451ee94-11d2-4f08-947e-6fe6cca9855d",
       "name": "César Luena",
       "sort_name": "Luena López, César",
@@ -1552,6 +1706,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7ae1f5de-6ac1-4d8e-8ef9-5d48556965b3",
       "name": "Daniel Fernández",
       "sort_name": "Fernández González, Daniel",
@@ -1573,6 +1728,7 @@
     },
     {
       "email": "daniel.serrano@congreso.es",
+      "gender": "male",
       "id": "person/f05b8146-f9a9-413b-b355-3ad930df6af0",
       "name": "Daniel Serrano",
       "sort_name": "Serrano Coronado, Daniel",
@@ -1593,6 +1749,7 @@
     },
     {
       "email": "diegolgarrido@congreso.es",
+      "gender": "male",
       "id": "person/86bd96a1-84b4-4146-8b32-48bf7539721c",
       "name": "Diego López",
       "sort_name": "López Garrido, Diego",
@@ -1639,6 +1796,7 @@
     },
     {
       "email": "eduardo.fgarcia@congreso.es",
+      "gender": "male",
       "id": "person/94f30c5d-f627-4e5f-a7a1-cb2e770368ac",
       "name": "Eduardo Fernández",
       "sort_name": "Fernández García, Eduardo",
@@ -1659,6 +1817,7 @@
     },
     {
       "email": "eduardo.madina@congreso.es",
+      "gender": "male",
       "id": "person/88c0b2b7-11b9-4a41-b277-0d5c6e14118e",
       "name": "Eduardo Madina",
       "sort_name": "Madina Muñoz, Eduardo",
@@ -1682,9 +1841,16 @@
     },
     {
       "email": "evalenciano@congreso.es",
+      "gender": "female",
       "id": "person/0dff9ed1-d158-47fb-850a-70cdffb99276",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Elena_Valenciano_(2012).jpg",
       "name": "Elena Valenciano",
       "sort_name": "Valenciano Martínez-Orozco, Elena",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Elena_Valenciano_(2012).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0dff9ed1-d158-47fb-850a-70cdffb99276",
@@ -1702,6 +1868,7 @@
     },
     {
       "email": "eloy.suarez@congreso.es",
+      "gender": "male",
       "id": "person/7c017995-fdc6-47cd-abec-02a09269f6de",
       "name": "Eloy Suárez",
       "sort_name": "Suárez Lamata, Eloy",
@@ -1725,6 +1892,7 @@
     },
     {
       "email": "elvira.ramon@psoe",
+      "gender": "female",
       "id": "person/fe28632f-0053-4a4c-92ec-4310c8f59ec6",
       "name": "Elvira Ramón",
       "sort_name": "Ramón Utrabo, Elvira",
@@ -1747,9 +1915,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f1501892-ed4d-4818-86a8-6426d2ea73f5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Emilio_olabarria.jpg",
       "name": "Emilio Olabarría",
       "sort_name": "Olabarría Muñoz, Emilio",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Emilio_olabarria.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f1501892-ed4d-4818-86a8-6426d2ea73f5",
@@ -1825,6 +2000,7 @@
     },
     {
       "email": "enrique.sostres@congreso.es",
+      "gender": "male",
       "id": "person/1b91900c-b509-4ae2-a74f-205af7469fe8",
       "name": "Enrique Álvarez",
       "sort_name": "Álvarez Sostres, Enrique",
@@ -1844,6 +2020,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a8fff8cc-3ba0-45a3-8509-726cb7ebc49c",
       "name": "Ernesto Aguiar",
       "sort_name": "Aguiar Rodríguez, Ernesto",
@@ -1887,13 +2064,20 @@
     },
     {
       "email": "gpons@congreso.es",
+      "gender": "male",
       "id": "person/8461cbdf-41db-44b2-b1bc-5f1ab4894f7c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Esteban_González_Pons.jpg",
       "name": "Esteban González",
       "sort_name": "González Pons, Esteban",
       "contact_details": [
         {
           "type": "twitter",
           "value": "gonzalezpons"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Esteban_González_Pons.jpg"
         }
       ],
       "memberships": [
@@ -1910,6 +2094,7 @@
     },
     {
       "email": "eugenio.nasarre@congreso.es",
+      "gender": "male",
       "id": "person/4416c2c3-d812-4cfd-86c5-1d741128d805",
       "name": "Eugenio Nasarre",
       "sort_name": "Nasarre Goicoechea, Eugenio",
@@ -1992,9 +2177,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6c1cf88e-25ad-4066-a83a-595c9d3c7392",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Federico_Trillo.jpg",
       "name": "Federico Trillo-Figueroa",
       "sort_name": "Trillo-Figueroa Martínez-Conde, Federico",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Federico_Trillo.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/6c1cf88e-25ad-4066-a83a-595c9d3c7392",
@@ -2013,6 +2205,7 @@
     },
     {
       "email": "felipe.sicilia@congreso.es",
+      "gender": "male",
       "id": "person/7491b4eb-3028-41cb-b5a6-28953ea2782f",
       "name": "Felipe Jesús Sicilia",
       "sort_name": "Sicilia Alférez, Felipe Jesús",
@@ -2055,6 +2248,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f9fdc41c-3b84-4e14-9440-774f117ceacb",
       "name": "Fernando López-Amor",
       "sort_name": "López-Amor García, Fernando",
@@ -2119,6 +2313,7 @@
     },
     {
       "email": "francisco.gonzalez@congreso.es",
+      "gender": "male",
       "id": "person/6ea2789a-e2a7-47f8-a583-3e4989b48db2",
       "name": "Francisco González",
       "sort_name": "González Cabaña, Francisco",
@@ -2220,9 +2415,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6b708dc5-e523-4ce5-b8f3-9fc9ecbf0dcd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Francisco_Jorquera.JPG",
       "name": "Francisco Xesús Jorquera",
       "sort_name": "Jorquera Caselas, Francisco Xesús",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jorqueracaselas"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Francisco_Jorquera.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/6b708dc5-e523-4ce5-b8f3-9fc9ecbf0dcd",
@@ -2234,13 +2442,11 @@
           "end_date": "2012-09-30",
           "legislative_period_id": "term/10"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "felix.lavilla@congreso.es",
+      "gender": "male",
       "id": "person/fa52d825-3322-4588-a727-38073d19d4c6",
       "name": "Félix Lavilla",
       "sort_name": "Lavilla Martínez, Félix",
@@ -2284,6 +2490,7 @@
     },
     {
       "email": "gabriel.echavarri@congreso.es",
+      "gender": "male",
       "id": "person/d800b262-3149-4c44-907e-a8e9cdae8aaf",
       "name": "Gabriel Echávarri",
       "sort_name": "Echávarri Fernández, Gabriel",
@@ -2307,13 +2514,20 @@
     },
     {
       "email": "gelorriaga@congreso.es",
+      "gender": "male",
       "id": "person/a1b24623-431a-4c61-8ec4-349f1233a983",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gabriel_Elorriaga_in_the_EPP_Convention_On_Climate_Change_in_Madrid_(6-7_February_2008).jpg",
       "name": "Gabriel Elorriaga",
       "sort_name": "Elorriaga Pisarik, Gabriel",
       "contact_details": [
         {
           "type": "twitter",
           "value": "gabrielorriaga"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gabriel_Elorriaga_in_the_EPP_Convention_On_Climate_Change_in_Madrid_(6-7_February_2008).jpg"
         }
       ],
       "memberships": [
@@ -2329,13 +2543,20 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c35b1287-444b-4bb1-a6ba-79837ee6bb23",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Gaspar_Zarrías.png",
       "name": "Gaspar Carlos Zarrías",
       "sort_name": "Zarrías Arévalo, Gaspar Carlos",
       "contact_details": [
         {
           "type": "twitter",
           "value": "gzarrias"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Gaspar_Zarrías.png"
         }
       ],
       "memberships": [
@@ -2352,13 +2573,20 @@
     },
     {
       "email": "gaspar.llamazares@congreso.es",
+      "gender": "male",
       "id": "person/24054456-868f-468a-a232-a84a2ca92c91",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Llamazares.jpg",
       "name": "Gaspar Llamazares",
       "sort_name": "Llamazares Trigo, Gaspar",
       "contact_details": [
         {
           "type": "twitter",
           "value": "GLlamazares"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Llamazares.jpg"
         }
       ],
       "memberships": [
@@ -2393,9 +2621,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f855143d-6560-440f-b437-c5eb97318323",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gerardo_Camps_PP.jpg",
       "name": "Gerardo Camps",
       "sort_name": "Camps Devesa, Gerardo",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gerardo_Camps_PP.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f855143d-6560-440f-b437-c5eb97318323",
@@ -2608,6 +2843,7 @@
     },
     {
       "email": "hca@congreso.es",
+      "gender": "male",
       "id": "person/53cdb69e-8558-4297-aac4-8d6f4c83fa68",
       "name": "Herick Manuel Campos",
       "sort_name": "Campos Arteseros, Herick Manuel",
@@ -2630,6 +2866,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4da452f4-20d0-4ed7-a223-9e5b8afcab99",
       "name": "Ignacio Astarloa",
       "sort_name": "Astarloa Huarte-Mendicoa, Ignacio",
@@ -2671,6 +2908,7 @@
     },
     {
       "email": "ignacio.gil@congreso.es",
+      "gender": "male",
       "id": "person/a6456afd-69aa-4aad-a122-eb3ab72749b3",
       "name": "Ignacio Gil",
       "sort_name": "Gil Lázaro, Ignacio",
@@ -2713,6 +2951,7 @@
     },
     {
       "email": "iker.urbina@congreso.es",
+      "gender": "male",
       "id": "person/de38af82-0717-4afc-a004-ee810bf2fbea",
       "name": "Iker Urbina",
       "sort_name": "Urbina Fernández, Iker",
@@ -2802,13 +3041,20 @@
     },
     {
       "email": "inma.rodriguezpinero@congreso.es",
+      "gender": "female",
       "id": "person/dc9c71a4-71a4-45fd-a1f0-36ea7c9d3000",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Inmaculada_rodriguez.JPG",
       "name": "Inmaculada Rodríguez-Piñero",
       "sort_name": "Rodríguez-Piñero Fernández, Inmaculada",
       "contact_details": [
         {
           "type": "twitter",
           "value": "RodriguezPinero"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Inmaculada_rodriguez.JPG"
         }
       ],
       "memberships": [
@@ -2844,6 +3090,7 @@
     },
     {
       "email": "secretaria.upyd@congreso.es",
+      "gender": "female",
       "id": "person/6c551f43-5076-4198-b750-086a6364c91e",
       "name": "Irene Lozano",
       "sort_name": "Lozano Domingo, Irene",
@@ -2909,6 +3156,7 @@
     },
     {
       "email": "isabel.rodriguez@congreso.es",
+      "gender": "female",
       "id": "person/dc315c81-844a-472d-a4ad-169ab46be8d2",
       "name": "Isabel Rodríguez",
       "sort_name": "Rodríguez García, Isabel",
@@ -2931,6 +3179,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/747ca547-6f70-4cfd-b5b0-132be061cb54",
       "name": "Isabel Sánchez",
       "sort_name": "Sánchez Robles, Isabel",
@@ -2950,6 +3199,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/54507c56-bc51-4b1a-9292-cf71f5904da8",
       "name": "Iñaki Antigüedad",
       "sort_name": "Antigüedad Auzmendi, Iñaki",
@@ -3010,6 +3260,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/41630e30-78b3-401d-b269-ff93a4976d54",
       "name": "Jaime Javier Barrero",
       "sort_name": "Barrero López, Jaime Javier",
@@ -3067,13 +3318,20 @@
     },
     {
       "email": "jesus.caldera@congreso.es",
+      "gender": "male",
       "id": "person/65a2dfa3-004b-4eba-9189-cec46d64b82c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jesús_Caldera_en_rueda_de_prensa.jpg",
       "name": "Jesús Caldera",
       "sort_name": "Caldera Sánchez-Capitán, Jesús",
       "contact_details": [
         {
           "type": "twitter",
           "value": "jcalderac"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Jesús_Caldera_en_rueda_de_prensa.jpg"
         }
       ],
       "memberships": [
@@ -3090,9 +3348,16 @@
     },
     {
       "email": "jesus.posada@congreso.es",
+      "gender": "male",
       "id": "person/4965348e-1024-4436-9a5d-4546b9d4ce14",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jesús_Posada_2015_(cropped).jpg",
       "name": "Jesús Posada",
       "sort_name": "Posada Moreno, Jesús",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jesús_Posada_2015_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/4965348e-1024-4436-9a5d-4546b9d4ce14",
@@ -3110,6 +3375,7 @@
     },
     {
       "email": "joan.baldovi@congreso.es",
+      "gender": "male",
       "id": "person/b4058bd9-5c6c-433b-bf89-c0cfb90949d3",
       "name": "Joan Baldoví",
       "sort_name": "Baldoví Roda, Joan",
@@ -3156,6 +3422,7 @@
     },
     {
       "email": "icv.congreso@gpiv.congreso.es",
+      "gender": "male",
       "id": "person/af2dc0a2-38f0-4b70-836f-0450255d26bf",
       "name": "Joan Coscubiela",
       "sort_name": "Coscubiela Conesa, Joan",
@@ -3179,13 +3446,20 @@
     },
     {
       "email": "joanj.nuet@congreso.es",
+      "gender": "male",
       "id": "person/f53a4650-21ff-4e7d-b23b-526b018d4c4e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Reunió_de_Josep_M._Àlvarez_amb_Joan_Josep_Nuet_(cropped).jpg",
       "name": "Joan Josep Nuet",
       "sort_name": "Nuet Pujals, Joan Josep",
       "contact_details": [
         {
           "type": "twitter",
           "value": "NUET"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Reunió_de_Josep_M._Àlvarez_amb_Joan_Josep_Nuet_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -3202,6 +3476,7 @@
     },
     {
       "email": "joan.rangel@congreso.es",
+      "gender": "male",
       "id": "person/9243024a-4bd5-4958-8b37-760a24715f48",
       "name": "Joan Rangel",
       "sort_name": "Rangel Tarrés, Joan",
@@ -3248,6 +3523,7 @@
     },
     {
       "email": "jtarda@congreso.es",
+      "gender": "male",
       "id": "person/7e8ac786-fa01-4384-b674-2389dee83d5c",
       "name": "Joan Tardà",
       "sort_name": "Tardà i Coma, Joan",
@@ -3293,6 +3569,7 @@
     },
     {
       "email": "joaquingd@congreso.es",
+      "gender": "male",
       "id": "person/32d6b5c8-c6cb-465c-b866-43f9aeb63feb",
       "name": "Joaquín María García",
       "sort_name": "García Díez, Joaquín María",
@@ -3358,6 +3635,7 @@
     },
     {
       "email": "jordi.jane@congreso.es",
+      "gender": "male",
       "id": "person/00df3786-8701-458e-810e-b05c2ee273c8",
       "name": "Jordi Jané",
       "sort_name": "Jané i Guasch, Jordi",
@@ -3381,6 +3659,7 @@
     },
     {
       "email": "jordi.xucla@congreso.es",
+      "gender": "male",
       "id": "person/b57f060a-4dae-4fb6-8897-c1e2ab1787e4",
       "name": "Jordi Xuclà",
       "sort_name": "Xuclà i Costa, Jordi",
@@ -3403,9 +3682,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5a5937a9-7b44-44d6-acd0-aa0ef698320c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/2_Jorge_Fernández_Diaz_cropped.jpg",
       "name": "Jorge Fernández",
       "sort_name": "Fernández Díaz, Jorge",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/2_Jorge_Fernández_Diaz_cropped.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5a5937a9-7b44-44d6-acd0-aa0ef698320c",
@@ -3422,9 +3708,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bed48ef0-2d6d-4ec1-a6c9-ba2d9dbbd024",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/5_Jorge_Moragas.jpg",
       "name": "Jorge Moragas",
       "sort_name": "Moragas Sánchez, Jorge",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/5_Jorge_Moragas.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/bed48ef0-2d6d-4ec1-a6c9-ba2d9dbbd024",
@@ -3464,13 +3757,20 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/cb107e04-8b58-4d65-8680-92aecc9a3e59",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Josep_Antoni_Duran_i_Lleida_(retrato).png",
       "name": "Josep Antoni Duran",
       "sort_name": "Duran i Lleida, Josep Antoni",
       "contact_details": [
         {
           "type": "twitter",
           "value": "ciuduran"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Josep_Antoni_Duran_i_Lleida_(retrato).png"
         }
       ],
       "memberships": [
@@ -3486,6 +3786,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/81e721ef-0ba3-476f-8355-f05b744f4a22",
       "name": "Josep Sánchez",
       "sort_name": "Sánchez i Llibre, Josep",
@@ -3505,9 +3806,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1ad3bd86-0749-4251-9299-645d0f407f80",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Josu_Erkoreka_telefono.jpg",
       "name": "Josu Iñaki Erkoreka",
       "sort_name": "Erkoreka Gervasio, Josu Iñaki",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Josu_Erkoreka_telefono.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/1ad3bd86-0749-4251-9299-645d0f407f80",
@@ -3571,9 +3879,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a6462a6c-da42-4bb2-bd5f-c89642cf027c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/José_Antonio_Alonso_2006_(cropped).jpg",
       "name": "José Antonio Alonso",
       "sort_name": "Alonso Suárez, José Antonio",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/José_Antonio_Alonso_2006_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a6462a6c-da42-4bb2-bd5f-c89642cf027c",
@@ -3591,6 +3906,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d4f92b35-9e7d-45d4-a461-cdf48476de58",
       "name": "José Antonio Bermúdez",
       "sort_name": "Bermúdez de Castro Fernández, José Antonio",
@@ -3610,6 +3926,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/29946bbb-515c-41aa-9175-74f4e71bdbf7",
       "name": "José Antonio Viera",
       "sort_name": "Viera Chacón, José Antonio",
@@ -3629,9 +3946,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/55ff3e6a-64f7-4a58-856e-a59f5ed708ea",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/José_Blanco_López.jpg",
       "name": "José Blanco",
       "sort_name": "Blanco López, José",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/José_Blanco_López.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/55ff3e6a-64f7-4a58-856e-a59f5ed708ea",
@@ -3667,6 +3991,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b8f5d997-7622-4ad8-ab0a-641a3ab42c08",
       "name": "José Enrique Serrano",
       "sort_name": "Serrano Martínez, José Enrique",
@@ -3686,6 +4011,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/85df2f7a-ec0d-4f52-a461-a8c448c2a94f",
       "name": "José Eugenio Azpiroz",
       "sort_name": "Azpiroz Villar, José Eugenio",
@@ -3706,9 +4032,16 @@
     },
     {
       "email": "ignacio.landaluce@congreso.es",
+      "gender": "male",
       "id": "person/916ab21c-a0d9-498b-ae70-e794bcf6b4d3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jose_Ignacio_Landaluce_Algeciras.jpg",
       "name": "José Ignacio Landaluce",
       "sort_name": "Landaluce Calleja, José Ignacio",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jose_Ignacio_Landaluce_Algeciras.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/916ab21c-a0d9-498b-ae70-e794bcf6b4d3",
@@ -3725,6 +4058,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/2d522c56-736a-4cb8-bb51-9f28cb81e98b",
       "name": "José Ignacio Llorens",
       "sort_name": "Llorens Torres, José Ignacio",
@@ -3748,6 +4082,7 @@
     },
     {
       "email": "nachosamor@congreso.es",
+      "gender": "male",
       "id": "person/a138c3ab-41a2-449d-a7e0-10c016029f14",
       "name": "José Ignacio Sánchez",
       "sort_name": "Sánchez Amor, José Ignacio",
@@ -3789,6 +4124,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d872f25b-ba21-410a-a3ef-aaca796f469f",
       "name": "José Luis Ayllón",
       "sort_name": "Ayllón Manso, José Luis",
@@ -3812,13 +4148,20 @@
     },
     {
       "email": "jlcg2@hotmail.com",
+      "gender": "male",
       "id": "person/ade94e64-d835-494d-8b29-d1b590f6f354",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Centella2.jpg",
       "name": "José Luis Centella",
       "sort_name": "Centella Gómez, José Luis",
       "contact_details": [
         {
           "type": "twitter",
           "value": "1centella"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Centella2.jpg"
         }
       ],
       "memberships": [
@@ -3834,6 +4177,7 @@
     },
     {
       "email": "abalos@congreso.es",
+      "gender": "male",
       "id": "person/a0432c34-56c6-42b3-bb99-eaea83f19976",
       "name": "José Luis Ábalos",
       "sort_name": "Ábalos Meco, José Luis",
@@ -3900,13 +4244,20 @@
     },
     {
       "email": "jose.soria@congreso.es",
+      "gender": "male",
       "id": "person/9a9219b3-4b03-4790-83e1-7acd19795c28",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/José_Manuel_Soria_2015_(cropped).jpg",
       "name": "José Manuel Soria",
       "sort_name": "Soria López, José Manuel",
       "contact_details": [
         {
           "type": "twitter",
           "value": "jmsoria"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/José_Manuel_Soria_2015_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -3969,13 +4320,20 @@
     },
     {
       "email": "jose.barreda@congreso.es",
+      "gender": "male",
       "id": "person/101b7617-ffeb-4c53-ae55-e25e2dbd2c2c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/JoseMariaBarreda.jpg",
       "name": "José María Barreda",
       "sort_name": "Barreda Fontes, José María",
       "contact_details": [
         {
           "type": "twitter",
           "value": "Josebarreda"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/JoseMariaBarreda.jpg"
         }
       ],
       "memberships": [
@@ -4033,9 +4391,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a6b94319-de15-48ff-92e2-fd9aa57a7f2a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/14_Premio_Corral_de_Comedias_a_Julia_Gutiérrez_Caba_(30).jpg",
       "name": "José María Lassalle",
       "sort_name": "Lassalle Ruiz, José María",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/14_Premio_Corral_de_Comedias_a_Julia_Gutiérrez_Caba_(30).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a6b94319-de15-48ff-92e2-fd9aa57a7f2a",
@@ -4053,6 +4418,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/96d3d267-5dd5-4f4c-8a0d-1cbd5fc7f188",
       "name": "José Miguel Castillo",
       "sort_name": "Castillo Calvín, José Miguel",
@@ -4111,6 +4477,7 @@
     },
     {
       "email": "jose.segura@congreso.es",
+      "gender": "male",
       "id": "person/0e623cbc-01b3-4b4e-aa4a-c59f55b9f351",
       "name": "José Segura",
       "sort_name": "Segura Clavell, José",
@@ -4130,6 +4497,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c79a644d-6855-42a2-894f-bd4fee3eb457",
       "name": "José Zaragoza",
       "sort_name": "Zaragoza Alonso, José",
@@ -4149,6 +4517,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/8138522d-d86f-4239-9346-7ab735627a14",
       "name": "Juan Antonio Abad",
       "sort_name": "Abad Pérez, Juan Antonio",
@@ -4168,6 +4537,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d666cdb5-2050-4133-a768-3adec52b940e",
       "name": "Juan Bertomeu",
       "sort_name": "Bertomeu Bertomeu, Juan",
@@ -4187,9 +4557,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/aa370c64-bee8-4d90-bfce-985fd01682bb",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Juan_Carlos_Aparicio.jpg",
       "name": "Juan Carlos Aparicio",
       "sort_name": "Aparicio Pérez, Juan Carlos",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Juan_Carlos_Aparicio.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/aa370c64-bee8-4d90-bfce-985fd01682bb",
@@ -4207,6 +4584,7 @@
     },
     {
       "email": "ccorcuera@congreso.es",
+      "gender": "male",
       "id": "person/47201e9e-e04e-42b4-8765-96b760e7ece0",
       "name": "Juan Carlos Corcuera",
       "sort_name": "Corcuera Plaza, Juan Carlos",
@@ -4335,6 +4713,7 @@
     },
     {
       "email": "juan.albendea@congreso.es",
+      "gender": "male",
       "id": "person/03dff170-95dc-4af7-933d-bee58bf9105d",
       "name": "Juan Manuel Albendea",
       "sort_name": "Albendea Pabón, Juan Manuel",
@@ -4353,6 +4732,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c962566e-cf5d-43d8-bc2f-fe647bd07dcd",
       "name": "Juan Manuel Moreno",
       "sort_name": "Moreno Bonilla, Juan Manuel",
@@ -4374,13 +4754,20 @@
     },
     {
       "email": "jmoscoso@congreso.es",
+      "gender": "male",
       "id": "person/120e7186-a938-492b-a338-144eac6b135e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Moscoso2.jpg",
       "name": "Juan Moscoso",
       "sort_name": "Moscoso del Prado Hernández, Juan",
       "contact_details": [
         {
           "type": "twitter",
           "value": "JuanMoscosodelP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Moscoso2.jpg"
         }
       ],
       "memberships": [
@@ -4397,13 +4784,20 @@
     },
     {
       "email": "juande.ruano@congreso.es",
+      "gender": "male",
       "id": "person/5132d5bd-17fd-42d2-8968-42c2a7002f81",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ruano_en_la_Casa_Consistorial_de_María_Pita_Fotor.jpg",
       "name": "Juan de Dios Ruano",
       "sort_name": "Ruano Gómez, Juan de Dios",
       "contact_details": [
         {
           "type": "twitter",
           "value": "JuandeRuano"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ruano_en_la_Casa_Consistorial_de_María_Pita_Fotor.jpg"
         }
       ],
       "memberships": [
@@ -4439,6 +4833,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3144e6dd-6bda-4ea8-9216-b62412908d84",
       "name": "Julio Villarrubia",
       "sort_name": "Villarrubia Mediavilla, Julio",
@@ -4462,6 +4857,7 @@
     },
     {
       "email": "laia.ortiz@congreso.es",
+      "gender": "female",
       "id": "person/41627d2b-a5ca-4828-8717-91e399b637b1",
       "name": "Laia Ortiz",
       "sort_name": "Ortiz Castellví, Laia",
@@ -4485,6 +4881,7 @@
     },
     {
       "email": "laura.seara@congreso.es",
+      "gender": "female",
       "id": "person/f648d7df-06bf-48d5-8be3-069b1c1faed9",
       "name": "Laura Carmen Seara",
       "sort_name": "Seara Sobrado, Laura Carmen",
@@ -4508,13 +4905,20 @@
     },
     {
       "email": "leire.iglesias@congreso.es",
+      "gender": "female",
       "id": "person/bbe1cb2b-e52b-47f1-b4f3-7231f8328582",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Leire_Iglesias_Santiago.jpg",
       "name": "Leire Iglesias",
       "sort_name": "Iglesias Santiago, Leire",
       "contact_details": [
         {
           "type": "twitter",
           "value": "leireis"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Leire_Iglesias_Santiago.jpg"
         }
       ],
       "memberships": [
@@ -4530,9 +4934,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/83e52595-099b-4e99-9013-c00c6eb283d8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Leire_Pajin2011.jpg",
       "name": "Leire Pajín",
       "sort_name": "Pajín Iraola, Leire",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Leire_Pajin2011.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/83e52595-099b-4e99-9013-c00c6eb283d8",
@@ -4551,6 +4962,7 @@
     },
     {
       "email": "leopoldo.barreda@congreso.es",
+      "gender": "male",
       "id": "person/6b431e2d-709b-4332-a2ed-273a85c91125",
       "name": "Leopoldo Barreda",
       "sort_name": "Barreda de los Ríos, Leopoldo",
@@ -4594,13 +5006,20 @@
     },
     {
       "email": "lourdes.munoz@congreso.es",
+      "gender": "female",
       "id": "person/bbb086f2-9a1f-4dda-adf6-c4bc778de59d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lourdes_Muñoz_Santamaría_en_el_Congreso_de_Diputados_2015_(cropped).JPG",
       "name": "Lourdes Muñoz",
       "sort_name": "Muñoz Santamaría, Lourdes",
       "contact_details": [
         {
           "type": "twitter",
           "value": "lourdesmunoz"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lourdes_Muñoz_Santamaría_en_el_Congreso_de_Diputados_2015_(cropped).JPG"
         }
       ],
       "memberships": [
@@ -4616,6 +5035,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/6e30b380-07e0-4175-8234-dbb1da874f7d",
       "name": "Lourdes Méndez",
       "sort_name": "Méndez Monasterio, Lourdes",
@@ -4636,6 +5056,7 @@
     },
     {
       "email": "lcsahuquillo@congreso.es",
+      "gender": "male",
       "id": "person/944c3b51-125c-4ba5-8555-99d0ac71efc1",
       "name": "Luis Carlos Sahuquillo",
       "sort_name": "Sahuquillo García, Luis Carlos",
@@ -4679,6 +5100,7 @@
     },
     {
       "email": "luis.tudanca@congreso.es",
+      "gender": "male",
       "id": "person/61f606ab-d228-4ba2-a8ba-1ced3b48a0dc",
       "name": "Luis Tudanca",
       "sort_name": "Tudanca Fernández, Luis",
@@ -4702,6 +5124,7 @@
     },
     {
       "email": "mmontesinos@congreso.es",
+      "gender": "female",
       "id": "person/7b1285e4-fc4c-4734-bf3a-36146ee56661",
       "name": "Macarena Montesinos",
       "sort_name": "Montesinos de Miguel, Macarena",
@@ -4722,13 +5145,20 @@
     },
     {
       "email": "magdalena.valerio@congreso.es",
+      "gender": "female",
       "id": "person/a309c69a-4f26-49d9-818c-5cf22cf6acf4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Magdalena_Valerio_2014_(cropped).jpg",
       "name": "Magdalena Valerio",
       "sort_name": "Valerio Cordero, Magdalena",
       "contact_details": [
         {
           "type": "twitter",
           "value": "mvalerio_gu"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Magdalena_Valerio_2014_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -4843,9 +5273,16 @@
     },
     {
       "email": "manuel.chaves@congreso.es",
+      "gender": "male",
       "id": "person/d6d9c1e6-8e07-4fb3-ae10-545982b50744",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Manuel_Chaves.jpg",
       "name": "Manuel María Chaves",
       "sort_name": "Chaves González, Manuel María",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Manuel_Chaves.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/d6d9c1e6-8e07-4fb3-ae10-545982b50744",
@@ -4883,13 +5320,20 @@
     },
     {
       "email": "manuel.pezzi@congreso.es",
+      "gender": "male",
       "id": "person/90707e5c-a309-46e0-8657-16c07d069b82",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pezzi.jpg",
       "name": "Manuel Pezzi",
       "sort_name": "Pezzi Cereto, Manuel",
       "contact_details": [
         {
           "type": "twitter",
           "value": "manolopezzi"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pezzi.jpg"
         }
       ],
       "memberships": [
@@ -4906,6 +5350,7 @@
     },
     {
       "email": "mdelarocha@congreso.es",
+      "gender": "male",
       "id": "person/7da9e214-28a9-4f87-abd5-ec7343f36bdd",
       "name": "Manuel de la Rocha",
       "sort_name": "Rocha Rubí, Manuel de la",
@@ -5079,6 +5524,7 @@
     },
     {
       "email": "mario.bedera@congreso.es",
+      "gender": "male",
       "id": "person/83ba6b8e-5c73-4ab7-b42c-5ab8b82193e8",
       "name": "Mario Bedera",
       "sort_name": "Bedera Bravo, Mario",
@@ -5208,6 +5654,7 @@
     },
     {
       "email": "angelinacosta@congreso.es",
+      "gender": "female",
       "id": "person/240b24eb-8bb4-4f16-a42b-a92841089a50",
       "name": "María Angelina Costa",
       "sort_name": "Costa Palacios, María Angelina",
@@ -5313,6 +5760,7 @@
     },
     {
       "email": "belen.juste@congreso.es",
+      "gender": "female",
       "id": "person/bd1d6858-fa73-46f6-b2a3-10ce993859d2",
       "name": "María Belén Juste",
       "sort_name": "Juste Picón, María Belén",
@@ -5461,6 +5909,7 @@
     },
     {
       "email": "consuelo.rumi@congreso.es",
+      "gender": "female",
       "id": "person/11d43b6c-82c9-4c5a-834d-bba5f37b6042",
       "name": "María Consuelo Rumí",
       "sort_name": "Rumí Ibáñez, María Consuelo",
@@ -5522,9 +5971,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/937f43a1-2e38-4ef8-b88e-2f1a9a8aefb5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Elvira_Rodríguez.jpg",
       "name": "María Elvira Rodríguez",
       "sort_name": "Rodríguez Herrer, María Elvira",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Elvira_Rodríguez.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/937f43a1-2e38-4ef8-b88e-2f1a9a8aefb5",
@@ -5583,9 +6039,16 @@
     },
     {
       "email": "fatima.banez@congreso.es",
+      "gender": "female",
       "id": "person/4463353d-4d25-4d83-8188-da613a4fcb07",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fatima_Bañez.JPG",
       "name": "María Fátima Báñez",
       "sort_name": "Báñez García, María Fátima",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fatima_Bañez.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/4463353d-4d25-4d83-8188-da613a4fcb07",
@@ -5725,6 +6188,7 @@
     },
     {
       "email": "mjsusinos@congreso.es",
+      "gender": "female",
       "id": "person/5d89f8cc-9488-4870-b5d8-96663f6965de",
       "name": "María Jesús Susinos",
       "sort_name": "Susinos Tarrero, María Jesús",
@@ -5793,6 +6257,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/7b3894a9-ee27-4f59-8e13-645273d87f15",
       "name": "María Luisa Carcedo",
       "sort_name": "Carcedo Roces, María Luisa",
@@ -5851,6 +6316,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/3db41230-e956-4249-a1f5-fd110db816b6",
       "name": "María Mercedes Fernández",
       "sort_name": "Fernández González, María Mercedes",
@@ -5978,6 +6444,7 @@
     },
     {
       "email": "pilar.lucio@congreso.es",
+      "gender": "female",
       "id": "person/0211b986-0b33-42e9-aa10-a4780cea39f2",
       "name": "María Pilar Lucio",
       "sort_name": "Lucio Carrasco, María Pilar",
@@ -6000,6 +6467,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d70bc377-8304-4f54-8b22-a2edfcdb3048",
       "name": "María Sandra Moneo",
       "sort_name": "Moneo Díez, María Sandra",
@@ -6020,6 +6488,7 @@
     },
     {
       "email": "maria.perez@congreso.es",
+      "gender": "female",
       "id": "person/42713d0c-cfd6-4c3f-bbb6-6589fadd3cce",
       "name": "María Soledad Pérez",
       "sort_name": "Pérez Domínguez, María Soledad",
@@ -6040,9 +6509,16 @@
     },
     {
       "email": "soraya.rodriguez@congreso.es",
+      "gender": "female",
       "id": "person/850c4c82-54fc-4ab9-99a4-e52d1383e2af",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Soraya_Rodríguez_-_Seminci_2011.jpg",
       "name": "María Soraya Rodríguez",
       "sort_name": "Rodríguez Ramos, María Soraya",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Soraya_Rodríguez_-_Seminci_2011.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/850c4c82-54fc-4ab9-99a4-e52d1383e2af",
@@ -6059,13 +6535,20 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/6d148b88-0bac-4f35-9ad9-f403dc5ed7c7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Soraya_Sáenz_de_Santamaría_en_la_convención_de_autónomos_del_PP_de_Andalucía_(febrero_de_2011).jpg",
       "name": "María Soraya Sáenz",
       "sort_name": "Sáenz de Santamaría Antón, María Soraya",
       "contact_details": [
         {
           "type": "twitter",
           "value": "Sorayapp"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Soraya_Sáenz_de_Santamaría_en_la_convención_de_autónomos_del_PP_de_Andalucía_(febrero_de_2011).jpg"
         }
       ],
       "memberships": [
@@ -6279,6 +6762,7 @@
     },
     {
       "email": "carmen.quintanilla@congreso.es",
+      "gender": "female",
       "id": "person/700bc980-c973-439e-beb5-481a3345d2e8",
       "name": "María del Carmen Quintanilla",
       "sort_name": "Quintanilla Barba, María del Carmen",
@@ -6382,6 +6866,7 @@
     },
     {
       "email": "puerto.gallego@yahoo.es",
+      "gender": "female",
       "id": "person/e6546d78-a0d9-4388-9bfb-44f81b1934dc",
       "name": "María del Puerto Gallego",
       "sort_name": "Gallego Arriola, María del Puerto",
@@ -6424,6 +6909,7 @@
     },
     {
       "email": "meritxell.batet@congreso.es",
+      "gender": "female",
       "id": "person/728aaad2-f0f7-4141-98f0-f261b62422a6",
       "name": "Meritxell Batet",
       "sort_name": "Batet Lamaña, Meritxell",
@@ -6443,9 +6929,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b1c48163-45d4-4cd1-96a4-a62757562073",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Miguel_Arias_Cañete_(cropped).jpg",
       "name": "Miguel Arias",
       "sort_name": "Arias Cañete, Miguel",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Miguel_Arias_Cañete_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b1c48163-45d4-4cd1-96a4-a62757562073",
@@ -6462,6 +6955,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b27bc313-9045-42f3-91df-051ff0d76eda",
       "name": "Miguel Sánchez",
       "sort_name": "Sánchez de Alcázar Ocaña, Miguel",
@@ -6482,6 +6976,7 @@
     },
     {
       "email": "miguel.cortizo@congreso.es",
+      "gender": "male",
       "id": "person/b7830771-28f0-490f-8e95-5078c4b005c3",
       "name": "Miguel Ángel Cortizo",
       "sort_name": "Cortizo Nieto, Miguel Ángel",
@@ -6504,6 +6999,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/05d9fd89-612c-428e-afe7-9e576043e054",
       "name": "Miguel Ángel Cortés",
       "sort_name": "Cortés Martín, Miguel Ángel",
@@ -6546,6 +7042,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1a3d3ecf-8424-4ea0-9428-2170ce10dd8c",
       "name": "Miquel Ramis",
       "sort_name": "Ramis Socias, Miquel",
@@ -6564,6 +7061,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/02ce3eac-ec4b-476e-ac8a-2cfce787a5c3",
       "name": "Miriam Guadalupe Blasco",
       "sort_name": "Blasco Soto, Miriam Guadalupe",
@@ -6648,6 +7146,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/3124cd52-d4d9-40b7-9ac0-d57a52295ad9",
       "name": "Mª Olaia Fernández",
       "sort_name": "Fernández Davila, Mª Olaia",
@@ -6670,6 +7169,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/6c2b3272-6a0d-41a9-979a-cd93cf288341",
       "name": "Mª Ángeles Esteller",
       "sort_name": "Esteller Ruedas, Mª Ángeles",
@@ -6690,6 +7190,7 @@
     },
     {
       "email": "odon.elorza@congreso.es",
+      "gender": "male",
       "id": "person/29685f75-c3cc-4475-b75a-9a097a356363",
       "name": "Odón Elorza",
       "sort_name": "Elorza González, Odón",
@@ -6713,6 +7214,7 @@
     },
     {
       "email": "onintza.enbeita@congreso.es",
+      "gender": "female",
       "id": "person/74eb12ac-c0f2-4268-8b6b-d806be9f13b8",
       "name": "Onintza Enbeita",
       "sort_name": "Enbeita Maguregi, Onintza",
@@ -6733,6 +7235,7 @@
     },
     {
       "email": "ovidio.sanchez@congreso.es",
+      "gender": "male",
       "id": "person/595c0740-2e27-4758-b6b8-4b2096e65be2",
       "name": "Ovidio Sánchez",
       "sort_name": "Sánchez Díaz, Ovidio",
@@ -6753,13 +7256,26 @@
     },
     {
       "email": "pablocasadoblanco@gmail.com",
+      "gender": "male",
       "id": "person/a3fb1857-c27b-4129-bafa-a63b563bcbe2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pablo_Casado_Blanco.jpg",
       "name": "Pablo Casado",
       "sort_name": "Casado Blanco, Pablo",
       "contact_details": [
         {
           "type": "twitter",
           "value": "pablocasado_"
+        }
+      ],
+      "links": [
+        {
+          "url": "pablo.casado.blanco",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pablo_Casado_Blanco.jpg"
         }
       ],
       "memberships": [
@@ -6821,6 +7337,7 @@
     },
     {
       "email": "pmatos@congreso.es",
+      "gender": "male",
       "id": "person/e0914077-0e86-426d-bdcf-b000c5c48bba",
       "name": "Pablo Matos",
       "sort_name": "Matos Mascareño, Pablo",
@@ -6884,6 +7401,7 @@
     },
     {
       "email": "patricia.hernandez@congreso.es",
+      "gender": "female",
       "id": "person/6d11ee85-40ab-475c-a14b-ae28757ff6c0",
       "name": "Patricia Hernández",
       "sort_name": "Hernández Gutiérrez, Patricia",
@@ -6926,6 +7444,7 @@
     },
     {
       "email": "pedro.azpiazu@congreso.es",
+      "gender": "male",
       "id": "person/a6943bc4-969d-46d9-80da-de14232f710b",
       "name": "Pedro María Azpiazu",
       "sort_name": "Azpiazu Uriarte, Pedro María",
@@ -6946,6 +7465,7 @@
     },
     {
       "email": "pedro.quevedo@congreso.es",
+      "gender": "male",
       "id": "person/146ed68f-1ffc-4191-b373-5e763c418150",
       "name": "Pedro Quevedo",
       "sort_name": "Quevedo Iturbe, Pedro",
@@ -6987,6 +7507,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c8e86f72-fa36-452b-bf65-a5357757687a",
       "name": "Pedro Saura",
       "sort_name": "Saura García, Pedro",
@@ -7033,6 +7554,7 @@
     },
     {
       "email": "pere.macias@congreso.es",
+      "gender": "male",
       "id": "person/cdc2c519-b6c6-4720-bee5-3c947633bcde",
       "name": "Pere Macias",
       "sort_name": "Macias i Arau, Pere",
@@ -7055,9 +7577,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/0b106c1e-5250-4b4b-a43d-a6345150aff3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pilar_Barreiro.png",
       "name": "Pilar Barreiro",
       "sort_name": "Barreiro Álvarez, Pilar",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pilar_Barreiro.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0b106c1e-5250-4b4b-a43d-a6345150aff3",
@@ -7094,6 +7623,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/acd025a7-6193-4a0e-a219-4f57b38825ea",
       "name": "Pilar Grande",
       "sort_name": "Grande Pesquero, Pilar",
@@ -7140,6 +7670,7 @@
     },
     {
       "email": "rhernando@congreso.es",
+      "gender": "male",
       "id": "person/a46e6bf3-351d-4a4b-a5b1-df2db6322f11",
       "name": "Rafael Antonio Hernando",
       "sort_name": "Hernando Fraile, Rafael Antonio",
@@ -7163,13 +7694,20 @@
     },
     {
       "email": "rafael.larreina@congreso.es",
+      "gender": "male",
       "id": "person/c515fb1e-83e8-45cd-8208-429b546bdd95",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rafa_Larreina.jpg",
       "name": "Rafael Larreina",
       "sort_name": "Larreina Valderrama, Rafael",
       "contact_details": [
         {
           "type": "twitter",
           "value": "larreina"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rafa_Larreina.jpg"
         }
       ],
       "memberships": [
@@ -7185,6 +7723,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/829d2f38-e913-4e2b-b865-18cc9dc8ea9a",
       "name": "Rafael Merino",
       "sort_name": "Merino López, Rafael",
@@ -7207,6 +7746,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6f92c200-cb90-434a-93f3-e5b1cadf2326",
       "name": "Rafael Rodríguez-Ponga",
       "sort_name": "Rodríguez-Ponga Salamanca, Rafael",
@@ -7228,6 +7768,7 @@
     },
     {
       "email": "rsimancas@congreso.es",
+      "gender": "male",
       "id": "person/c2a72e11-eb25-475e-89d9-566c81454954",
       "name": "Rafael Simancas",
       "sort_name": "Simancas Simancas, Rafael",
@@ -7250,6 +7791,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/184ded2d-f45c-4eaa-b8e5-04af9d21974b",
       "name": "Ramón Aguirre",
       "sort_name": "Aguirre Rodríguez, Ramón",
@@ -7270,9 +7812,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1e2a4415-3a33-4f70-9ec5-b666728a31ba",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ramón_Jáuregui_(2010).jpg",
       "name": "Ramón Jáuregui",
       "sort_name": "Jáuregui Atondo, Ramón",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ramón_Jáuregui_(2010).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/1e2a4415-3a33-4f70-9ec5-b666728a31ba",
@@ -7310,6 +7859,7 @@
     },
     {
       "email": "ricardo.sixto@congreso.es",
+      "gender": "male",
       "id": "person/8fc605d3-616a-4108-be6f-e2a51e5c5bcc",
       "name": "Ricardo Sixto",
       "sort_name": "Sixto Iglesias, Ricardo",
@@ -7333,6 +7883,7 @@
     },
     {
       "email": "rtarno@congreso.es",
+      "gender": "male",
       "id": "person/69b37b7e-a8ef-458f-846e-323b7b74dc59",
       "name": "Ricardo Tarno",
       "sort_name": "Tarno Blanco, Ricardo",
@@ -7414,6 +7965,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5487c4b1-976f-4d40-9b69-85ada95f5a57",
       "name": "Román Ruiz",
       "sort_name": "Ruiz Llamas, Román",
@@ -7436,9 +7988,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/b16c5f96-b0d5-4bb9-81a2-277e8b10ef6a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rosa_Aguilar_en_Zafra.jpg",
       "name": "Rosa Aguilar",
       "sort_name": "Aguilar Rivero, Rosa",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Rosa_Aguilar_en_Zafra.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b16c5f96-b0d5-4bb9-81a2-277e8b10ef6a",
@@ -7456,6 +8015,7 @@
     },
     {
       "email": "delia.blanco@congreso.es",
+      "gender": "female",
       "id": "person/8c2ca6fb-1e1a-44c4-8b6d-02dec3bd337e",
       "name": "Rosa Delia Blanco",
       "sort_name": "Blanco Terán, Rosa Delia",
@@ -7479,9 +8039,16 @@
     },
     {
       "email": "secretaria.upyd@congreso.es",
+      "gender": "female",
       "id": "person/0d3520ca-3ac3-45e1-82f1-4de203816770",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rosa_Díez_(Recortada).jpg",
       "name": "Rosa María Díez",
       "sort_name": "Díez González, Rosa María",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rosa_Díez_(Recortada).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0d3520ca-3ac3-45e1-82f1-4de203816770",
@@ -7563,6 +8130,7 @@
     },
     {
       "email": "sabino.cuadra@congreso.es",
+      "gender": "male",
       "id": "person/36057b1c-d745-4544-9fe6-8e54b61a0b15",
       "name": "Sabino Cuadra",
       "sort_name": "Cuadra Lasarte, Sabino",
@@ -7582,6 +8150,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/06edcce8-543c-4b2c-9a96-642d60b9586d",
       "name": "Santiago Cervera",
       "sort_name": "Cervera Soto, Santiago",
@@ -7602,6 +8171,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4093248c-df54-4c1a-9ddf-a2352e4f7eb7",
       "name": "Santiago Lanzuela",
       "sort_name": "Lanzuela Marina, Santiago",
@@ -7752,6 +8322,7 @@
     },
     {
       "email": "scabezonruiz@congreso.es",
+      "gender": "female",
       "id": "person/960f4676-1133-4005-8c78-a94dfc524580",
       "name": "Soledad Cabezón",
       "sort_name": "Cabezón Ruiz, Soledad",
@@ -7774,6 +8345,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d822d3db-d080-4877-a158-0f43de401ae9",
       "name": "Susana Camarero",
       "sort_name": "Camarero Benítez, Susana",
@@ -7795,6 +8367,7 @@
     },
     {
       "email": "susana.ros@congreso.es",
+      "gender": "female",
       "id": "person/7858a518-da17-4a4b-aa7c-ca5323e4a71d",
       "name": "Susana Ros",
       "sort_name": "Ros Martínez, Susana",
@@ -7815,6 +8388,7 @@
     },
     {
       "email": "susana.sumelzo@congreso.es",
+      "gender": "female",
       "id": "person/be5325f6-9804-4a6a-b308-a0017392e691",
       "name": "Susana Sumelzo",
       "sort_name": "Sumelzo Jordán, Susana",
@@ -7837,6 +8411,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f545ca59-f429-4843-9b51-149b07ee1a96",
       "name": "Telmo Martín",
       "sort_name": "Martín González, Telmo",
@@ -7880,6 +8455,7 @@
     },
     {
       "email": "cunillera@congreso.es",
+      "gender": "female",
       "id": "person/df90579a-75c0-4045-9396-111cf2f78a6c",
       "name": "Teresa Cunillera",
       "sort_name": "Cunillera Mestres, Teresa",
@@ -7946,6 +8522,7 @@
     },
     {
       "email": "teofila.martinez@congreso.es",
+      "gender": "female",
       "id": "person/62b92498-42d3-485d-8b57-f88a9fa02b59",
       "name": "Teófila Martínez",
       "sort_name": "Martínez Saiz, Teófila",
@@ -7983,6 +8560,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3847f9d2-f4ad-4ca8-85c0-c35f1c16004f",
       "name": "Tomás Burgos",
       "sort_name": "Burgos Gallego, Tomás",
@@ -8004,13 +8582,20 @@
     },
     {
       "email": "valeriano.gomez@congreso.es",
+      "gender": "male",
       "id": "person/2da668b5-598f-47d5-879e-c3ca492e27db",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Gomez_2011.jpg",
       "name": "Tomás Valeriano Gómez",
       "sort_name": "Gómez Sánchez, Tomás Valeriano",
       "contact_details": [
         {
           "type": "twitter",
           "value": "valerianogomez"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Gomez_2011.jpg"
         }
       ],
       "memberships": [
@@ -8027,9 +8612,16 @@
     },
     {
       "email": "trinidad.jimenez@congreso.es",
+      "gender": "female",
       "id": "person/ab7dc9a8-8ae8-44f9-95c5-fe3cb3633745",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Trinidad_Jiménez_2.jpg",
       "name": "Trinidad Jiménez",
       "sort_name": "Jiménez García-Herrera, Trinidad",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Trinidad_Jiménez_2.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ab7dc9a8-8ae8-44f9-95c5-fe3cb3633745",
@@ -8069,13 +8661,20 @@
     },
     {
       "email": "uxue.barkos@congreso.es",
+      "gender": "female",
       "id": "person/f241a22a-ef01-4e8d-b2f6-63e2c60fde8d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Uxue_Barkos_2015.jpg",
       "name": "Uxue Barkos",
       "sort_name": "Barkos Berruezo, Uxue",
       "contact_details": [
         {
           "type": "twitter",
           "value": "uxuebarkos"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Uxue_Barkos_2015.jpg"
         }
       ],
       "memberships": [
@@ -8092,6 +8691,7 @@
     },
     {
       "email": "vicente.ferrer@congreso.es",
+      "gender": "male",
       "id": "person/0d131bdf-bd74-4620-8343-48d6792b31b7",
       "name": "Vicente Ferrer",
       "sort_name": "Ferrer Roselló, Vicente",
@@ -8112,6 +8712,7 @@
     },
     {
       "email": "vicente.guillen@congreso.es",
+      "gender": "male",
       "id": "person/6be477ff-f8b8-42b0-aa86-8dd61af70ba6",
       "name": "Vicente Guillén",
       "sort_name": "Guillén Izquierdo, Vicente",
@@ -8133,6 +8734,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/9b2531b1-fb51-450d-9c16-9ec3457e4606",
       "name": "Vicente Martínez-Pujalte",
       "sort_name": "Martínez-Pujalte López, Vicente",
@@ -8152,6 +8754,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/23f46b0f-cdd8-464e-bd45-665b95f55df8",
       "name": "Víctor María Calvo-Sotelo",
       "sort_name": "Calvo-Sotelo Ibáñez-Martín, Víctor María",
@@ -8173,6 +8776,7 @@
     },
     {
       "email": "victor.morlan@congreso.es",
+      "gender": "male",
       "id": "person/e193f322-8347-4f01-8633-e973f91ae5e7",
       "name": "Víctor Morlán",
       "sort_name": "Morlán Gracia, Víctor",
@@ -8196,9 +8800,16 @@
     },
     {
       "email": "xabier.errekondo@congreso.es",
+      "gender": "male",
       "id": "person/b392ed79-65ce-4c76-9e17-71b7072986cd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Xabier_Mikel_Errekondo_en_la_noche_electoral_del_20_de_noviembre_de_2011.jpg",
       "name": "Xabier Mikel Errekondo",
       "sort_name": "Errekondo Saltsamendi, Xabier Mikel",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Xabier_Mikel_Errekondo_en_la_noche_electoral_del_20_de_noviembre_de_2011.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b392ed79-65ce-4c76-9e17-71b7072986cd",
@@ -8258,6 +8869,7 @@
     },
     {
       "email": "secretaria.upyd@congreso.es",
+      "gender": "male",
       "id": "person/b5770864-60ad-431e-8b9d-196d74e31087",
       "name": "Álvaro Anchuelo",
       "sort_name": "Anchuelo Crego, Álvaro",
@@ -8347,13 +8959,20 @@
     },
     {
       "email": "angelesalvarez@congreso.es",
+      "gender": "female",
       "id": "person/046456d0-ccff-4a9a-bdd9-4d804d879d57",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Angeles-alvarez-fotografia--Laura-Jimenez-1.jpg",
       "name": "Ángeles Álvarez",
       "sort_name": "Álvarez Álvarez, Ángeles",
       "contact_details": [
         {
           "type": "twitter",
           "value": "AAlvarezAlvarez"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Angeles-alvarez-fotografia--Laura-Jimenez-1.jpg"
         }
       ],
       "memberships": [
