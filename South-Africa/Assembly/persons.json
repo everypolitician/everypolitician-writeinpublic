@@ -1,7 +1,7 @@
 {
-  "total": 392,
+  "total": 393,
   "page": 1,
-  "per_page": 392,
+  "per_page": 393,
   "has_more": false,
   "result": [
     {
@@ -1479,12 +1479,12 @@
     {
       "email": "zrantho@parliament.gov.za",
       "id": "person/07e1f661-19f6-464d-9386-d2a132b37f17",
-      "image": "http://www.pa.org.za/media_root/cache/d8/19/d8197775ad3e6fbacfa49ab91bff0341.jpg",
+      "image": "http://www.pa.org.za/media_root/cache/94/1b/941bbbfbd624f23a3cf8248dc8f7075b.jpg",
       "name": "Daphne Zukiswa Rantho",
       "sort_name": "Daphne Zukiswa Rantho",
       "images": [
         {
-          "url": "http://www.pa.org.za/media_root/cache/d8/19/d8197775ad3e6fbacfa49ab91bff0341.jpg"
+          "url": "http://www.pa.org.za/media_root/cache/94/1b/941bbbfbd624f23a3cf8248dc8f7075b.jpg"
         }
       ],
       "memberships": [
@@ -6368,6 +6368,7 @@
     },
     {
       "email": "nramatlhodi@parliament.gov.za",
+      "gender": "male",
       "id": "person/9d37aa5d-0a86-4978-ace6-b358115c556c",
       "image": "http://www.pa.org.za/media_root/cache/bf/c1/bfc1a648352ecc542f72e310b09df9a2.jpg",
       "name": "Ngoako Abel Ramatlhodi",
@@ -7840,6 +7841,7 @@
     },
     {
       "email": "sejmotau@mweb.co.za",
+      "gender": "male",
       "id": "person/2eee58c6-652b-48cb-abb8-5768581eb88b",
       "image": "http://www.pa.org.za/media_root/cache/fd/ab/fdabf9049e7f07b7f24f46564b73d9e1.jpg",
       "name": "Sejamotopo Charles Motau",
@@ -8524,31 +8526,6 @@
       ]
     },
     {
-      "email": "tmahambehlala@parliament.gov.za",
-      "id": "person/36331feb-00b9-40cc-bf79-822dbb6086b3",
-      "image": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg",
-      "name": "Tandi Mahambehlala",
-      "sort_name": "Tandi Mahambehlala",
-      "images": [
-        {
-          "url": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/36331feb-00b9-40cc-bf79-822dbb6086b3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ANC",
-          "area_id": "area/western_cape",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "tkenye@parliament.gov.za",
       "id": "person/0ff3ad8e-d9bd-4eae-adb7-689800338e25",
       "image": "http://www.pa.org.za/media_root/cache/c4/c0/c4c04430cdc869cea5627111870125dc.jpg",
@@ -8671,6 +8648,31 @@
       ]
     },
     {
+      "email": "tmahambehlala@parliament.gov.za",
+      "id": "person/36331feb-00b9-40cc-bf79-822dbb6086b3",
+      "image": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg",
+      "name": "Thandi Mahambehlala",
+      "sort_name": "Thandi Mahambehlala",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/f0/43/f043c06b946c2cff1bcf3452229da49a.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36331feb-00b9-40cc-bf79-822dbb6086b3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ANC",
+          "area_id": "area/western_cape",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ttobias-pokolo@parliament.gov.za",
       "id": "person/76288f1a-6284-4e67-b9a4-25a7233ce4bc",
       "image": "http://www.pa.org.za/media_root/cache/d7/cc/d7cc6bcce7d3b97ee5c4e3e518de6f53.jpg",
@@ -8736,6 +8738,29 @@
           "role": "member",
           "on_behalf_of_id": "DA",
           "area_id": "area/western_cape",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ee2d1b87-9276-478f-bc30-9eda165f0884",
+      "image": "http://www.pa.org.za/media_root/cache/d1/65/d1654c39073812ccd32304befa03e02d.jpg",
+      "name": "Thembinkosi Rawula",
+      "sort_name": "Thembinkosi Rawula",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/d1/65/d1654c39073812ccd32304befa03e02d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ee2d1b87-9276-478f-bc30-9eda165f0884",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "EFF",
           "legislative_period_id": "term/26"
         }
       ],
