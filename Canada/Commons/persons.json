@@ -789,6 +789,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7d77d716-5e86-45e6-8480-8fa1acb17e9c",
       "name": "Bob Saroya",
       "sort_name": "Bob Saroya",
@@ -1137,8 +1138,14 @@
     {
       "gender": "female",
       "id": "person/01e8eb2b-c3ad-4a9a-9a25-dcd5e08c6124",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Catherine_McKenna_Crop.jpg",
       "name": "Catherine McKenna",
       "sort_name": "Catherine McKenna",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Catherine_McKenna_Crop.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/01e8eb2b-c3ad-4a9a-9a25-dcd5e08c6124",
@@ -3317,8 +3324,14 @@
     {
       "gender": "female",
       "id": "person/2652a805-2706-4030-b3d2-b045d021ed79",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jody_Wilson-Raybould.jpg",
       "name": "Jody Wilson-Raybould",
       "sort_name": "Jody Wilson-Raybould",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jody_Wilson-Raybould.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2652a805-2706-4030-b3d2-b045d021ed79",
@@ -4823,6 +4836,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bfe8cdc6-eb40-473c-9f0f-d382f1b0c174",
       "name": "Marwan Tabbara",
       "sort_name": "Marwan Tabbara",
@@ -5259,8 +5273,14 @@
     {
       "gender": "female",
       "id": "person/25cd0ef1-cfc9-4f8b-8367-d2b14f9e2775",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/MelanieJoly.jpg",
       "name": "Mélanie Joly",
       "sort_name": "Mélanie Joly",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/MelanieJoly.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/25cd0ef1-cfc9-4f8b-8367-d2b14f9e2775",
