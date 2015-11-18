@@ -1,7 +1,7 @@
 {
-  "total": 101,
+  "total": 102,
   "page": 1,
-  "per_page": 101,
+  "per_page": 102,
   "has_more": false,
   "result": [
     {
@@ -342,6 +342,39 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "union_of_greens_and_farmers",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8a22a30e-cef4-40fb-84d1-70b004b31ad3",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a64fe9db7786c8e0c2257d7b0032d8a7/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Anrijs Matīss",
+      "sort_name": "Anrijs Matīss",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a64fe9db7786c8e0c2257d7b0032d8a7/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8a22a30e-cef4-40fb-84d1-70b004b31ad3",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/8a22a30e-cef4-40fb-84d1-70b004b31ad3",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "start_date": "2015-11-12",
           "legislative_period_id": "term/12"
         }
       ],
