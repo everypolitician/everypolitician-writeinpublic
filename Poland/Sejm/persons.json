@@ -1,7 +1,7 @@
 {
-  "total": 512,
+  "total": 520,
   "page": 1,
-  "per_page": 512,
+  "per_page": 520,
   "has_more": false,
   "result": [
     {
@@ -80,6 +80,7 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "19-7",
+          "end_date": "2015-08-07",
           "legislative_period_id": "term/7"
         }
       ],
@@ -359,7 +360,7 @@
           "person_id": "person/59515d98-da76-47dc-a669-fab55808258c",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "on_behalf_of_id": "klub_poselski_sojusz_lewicy_demokratycznej",
           "area_id": "24-7",
           "legislative_period_id": "term/7"
         }
@@ -565,6 +566,24 @@
       ]
     },
     {
+      "id": "person/5442fd37-6e6d-4d36-8dba-0d5722f2f0b4",
+      "name": "Andrzej Dołecki",
+      "sort_name": "Andrzej Dołecki",
+      "memberships": [
+        {
+          "person_id": "person/5442fd37-6e6d-4d36-8dba-0d5722f2f0b4",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "koło_poselskie_ruch_palikota",
+          "area_id": "19-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/ed0bcc43-9193-4fca-8c9c-bdd0e5c51d08",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Andrzej_Duda_(9851867824)_(cropped).jpg",
@@ -685,6 +704,24 @@
       ]
     },
     {
+      "id": "person/2249f224-58e7-4a6d-b26b-dbdae73616a3",
+      "name": "Andrzej Jaworski",
+      "sort_name": "Andrzej Jaworski",
+      "memberships": [
+        {
+          "person_id": "person/2249f224-58e7-4a6d-b26b-dbdae73616a3",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "25-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/5994ae0a-931b-4ec1-af83-428d1580005b",
       "name": "Andrzej Kania",
@@ -694,7 +731,7 @@
           "person_id": "person/5994ae0a-931b-4ec1-af83-428d1580005b",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "on_behalf_of_id": "klub_parlamentarny_zjednoczona_prawica",
           "area_id": "18-7",
           "legislative_period_id": "term/7"
         }
@@ -2016,7 +2053,7 @@
           "person_id": "person/253f17de-68b7-4c72-86ce-087916a50f5a",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "on_behalf_of_id": "klub_poselski_sojusz_lewicy_demokratycznej",
           "area_id": "27-7",
           "legislative_period_id": "term/7"
         }
@@ -2101,6 +2138,26 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
           "area_id": "24-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/52237c24-50af-4a49-b734-77be5e400232",
+      "name": "Daniela Chrapkiewicz",
+      "sort_name": "Daniela Chrapkiewicz",
+      "memberships": [
+        {
+          "person_id": "person/52237c24-50af-4a49-b734-77be5e400232",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "25-7",
+          "start_date": "2015-09-09",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2891,6 +2948,25 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
           "area_id": "41-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/47eb058b-90e2-418d-8636-d2502fe1a0b4",
+      "name": "Filip Kaczyński",
+      "sort_name": "Filip Kaczyński",
+      "memberships": [
+        {
+          "person_id": "person/47eb058b-90e2-418d-8636-d2502fe1a0b4",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "12-7",
+          "start_date": "2015-09-09",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4240,6 +4316,7 @@
           "role": "member",
           "on_behalf_of_id": "koło_poselskie_ruch_palikota",
           "area_id": "19-7",
+          "end_date": "2015-09-11",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4653,7 +4730,7 @@
           "person_id": "person/a574948b-6f87-465d-8257-c9fe4cafce72",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "on_behalf_of_id": "posłowie_niezrzeszeni",
           "area_id": "26-7",
           "legislative_period_id": "term/7"
         }
@@ -5689,6 +5766,25 @@
       ]
     },
     {
+      "id": "person/53198f9c-c006-4b64-bd50-f93cd18aa047",
+      "name": "Krzysztof Głuchowski",
+      "sort_name": "Krzysztof Głuchowski",
+      "memberships": [
+        {
+          "person_id": "person/53198f9c-c006-4b64-bd50-f93cd18aa047",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "6-7",
+          "start_date": "2015-09-09",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/e56d5bac-242b-427f-95b3-ecf67c466e48",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/K._Hetman.jpg",
@@ -5903,6 +5999,7 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "12-7",
+          "end_date": "2015-08-07",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6153,7 +6250,7 @@
           "person_id": "person/77ee2985-78e2-447b-afb9-40a5defba1cd",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "on_behalf_of_id": "posłowie_niezrzeszeni",
           "area_id": "35-7",
           "legislative_period_id": "term/7"
         }
@@ -6381,6 +6478,7 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "25-7",
+          "end_date": "2015-08-07",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6855,6 +6953,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c321b812-8399-41e9-b9e6-ed139cf42929",
       "name": "Marek Poręba",
       "sort_name": "Marek Poręba",
@@ -7216,25 +7315,6 @@
     },
     {
       "gender": "male",
-      "id": "person/c71d7e36-5bd4-490e-a3c8-1f7832baf0ff",
-      "name": "Mariusz Jędrysek",
-      "sort_name": "Mariusz Jędrysek",
-      "memberships": [
-        {
-          "person_id": "person/c71d7e36-5bd4-490e-a3c8-1f7832baf0ff",
-          "organization_id": "chamber/sejm",
-          "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
-          "area_id": "3-7",
-          "legislative_period_id": "term/7"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/451d5de9-3c9d-4956-b52f-02bda061a045",
       "name": "Mariusz Kamiński",
       "sort_name": "Mariusz Kamiński",
@@ -7245,6 +7325,25 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "19-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c71d7e36-5bd4-490e-a3c8-1f7832baf0ff",
+      "name": "Mariusz Orion Jędrysek",
+      "sort_name": "Mariusz Orion Jędrysek",
+      "memberships": [
+        {
+          "person_id": "person/c71d7e36-5bd4-490e-a3c8-1f7832baf0ff",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "3-7",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7523,6 +7622,7 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "6-7",
+          "end_date": "2015-08-07",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7567,6 +7667,25 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
           "area_id": "17-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/de183e07-eb5e-49d7-9ca9-2031f9b7d2d9",
+      "name": "Michał Dworczyk",
+      "sort_name": "Michał Dworczyk",
+      "memberships": [
+        {
+          "person_id": "person/de183e07-eb5e-49d7-9ca9-2031f9b7d2d9",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "19-7",
+          "start_date": "2015-09-10",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7764,6 +7883,25 @@
     },
     {
       "gender": "male",
+      "id": "person/24885d5b-22a6-428c-a50c-87cbd0008486",
+      "name": "Mieczysław Kasprzak",
+      "sort_name": "Mieczysław Kasprzak",
+      "memberships": [
+        {
+          "person_id": "person/24885d5b-22a6-428c-a50c-87cbd0008486",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_polskiego_stronnictwa_ludowego",
+          "area_id": "22-7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/c0ddd9e6-3b14-4b4f-931b-d5ebd82ef6ec",
       "name": "Mieczysław Łuczak",
       "sort_name": "Mieczysław Łuczak",
@@ -7793,7 +7931,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
-          "area_id": "34-7",
+          "end_date": "2015-11-02",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7991,6 +8129,24 @@
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
           "area_id": "12-7",
           "end_date": "2014-11-14",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4cd7c49b-1216-49ab-8d78-f49b03a2bde4",
+      "name": "Paweł Olszewski",
+      "sort_name": "Paweł Olszewski",
+      "memberships": [
+        {
+          "person_id": "person/4cd7c49b-1216-49ab-8d78-f49b03a2bde4",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "area_id": "4-7",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10021,6 +10177,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/8ecfa207-3bf9-412b-b8a7-d8e7966c357b",
       "name": "Urszula Rusecka",
       "sort_name": "Urszula Rusecka",
