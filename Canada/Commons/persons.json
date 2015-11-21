@@ -102,6 +102,7 @@
       ]
     },
     {
+      "email": "Alex.Nuttall@parl.gc.ca",
       "id": "person/9954282f-ee3c-46af-813b-4c7ab6a72a14",
       "name": "Alex Nuttall",
       "sort_name": "Alex Nuttall",
@@ -718,11 +719,18 @@
       ]
     },
     {
+      "email": "Bill.Blair@parl.gc.ca",
       "gender": "male",
       "id": "person/07b475ae-f247-4f26-9e92-a9160d2c68c4",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bill_Blair.JPG",
       "name": "Bill Blair",
       "sort_name": "Bill Blair",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BillBlair"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bill_Blair.JPG"
@@ -737,9 +745,6 @@
           "area_id": "area/ontario_(scarborough_southwest)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -878,8 +883,20 @@
     {
       "gender": "male",
       "id": "person/fecb5767-d696-422b-831d-6b74237c16ac",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/NaultR.JPG",
       "name": "Bob Nault",
       "sort_name": "Bob Nault",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "VoteBobNault"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/NaultR.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/fecb5767-d696-422b-831d-6b74237c16ac",
@@ -889,9 +906,6 @@
           "area_id": "area/ontario_(kenora)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -947,11 +961,18 @@
       ]
     },
     {
+      "email": "Robert.Morrissey@parl.gc.ca",
       "gender": "male",
       "id": "person/3c5a1553-1fd2-404c-ba2d-f66748cfd190",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bobby_002.jpg",
       "name": "Bobby Morrissey",
       "sort_name": "Bobby Morrissey",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MorrisseyEgmont"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bobby_002.jpg"
@@ -966,9 +987,6 @@
           "area_id": "area/prince_edward_island_(egmont)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1765,11 +1783,18 @@
       ]
     },
     {
+      "email": "DarshanSingh.Kang@parl.gc.ca",
       "gender": "male",
       "id": "person/0ac080f5-ef12-4735-9f72-b2e2a974ed56",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Darshan_Kang_(crop).jpg",
       "name": "Darshan Kang",
       "sort_name": "Darshan Kang",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "darshankang"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Darshan_Kang_(crop).jpg"
@@ -1784,9 +1809,6 @@
           "area_id": "area/alberta_(calgary_skyview)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1903,6 +1925,12 @@
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AndersonDavid_CPC.jpg",
       "name": "David L. Anderson",
       "sort_name": "David L. Anderson",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DavidAndersonSK"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AndersonDavid_CPC.jpg"
@@ -1917,9 +1945,6 @@
           "area_id": "area/saskatchewan_(cypress_hills—grasslands)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2091,9 +2116,16 @@
       ]
     },
     {
+      "email": "Deb.Schulte@parl.gc.ca",
       "id": "person/a48e22ec-ed25-49fb-8840-5536ebccd097",
       "name": "Deb Schulte",
       "sort_name": "Deb Schulte",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "_DebSchulte"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a48e22ec-ed25-49fb-8840-5536ebccd097",
@@ -2103,9 +2135,6 @@
           "area_id": "area/ontario_(king—vaughan)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3021,6 +3050,12 @@
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BrownGordon_CPC.jpg",
       "name": "Gord Brown",
       "sort_name": "Gord Brown",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gordbrown"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BrownGordon_CPC.jpg"
@@ -3035,9 +3070,6 @@
           "area_id": "area/ontario_(leeds—grenville—thousand_islands_and_rideau_lakes)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3192,11 +3224,18 @@
       ]
     },
     {
+      "email": "HarjitS.Sajjan@parl.gc.ca",
       "gender": "male",
       "id": "person/b6b52143-5eae-4b31-a39d-bade3bb7bce8",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Harjit_Sajjan.jpg",
       "name": "Harjit Sajjan",
       "sort_name": "Harjit Sajjan",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "HarjitSajjan"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Harjit_Sajjan.jpg"
@@ -3211,9 +3250,6 @@
           "area_id": "area/british_columbia_(vancouver_south)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4365,6 +4401,12 @@
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LeitchKellie_CPC.jpg",
       "name": "Kellie Leitch",
       "sort_name": "Kellie Leitch",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KellieLeitch"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/LeitchKellie_CPC.jpg"
@@ -4379,9 +4421,6 @@
           "area_id": "area/ontario_(simcoe—grey)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -6193,14 +6232,21 @@
       ]
     },
     {
+      "email": "Pablo.Rodriguez@parl.gc.ca",
       "gender": "male",
       "id": "person/624715ff-91bc-4d9a-ba0c-e352a451b2fe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/IC_Pablo_Rodriguez.JPG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/RodriguezPablo_LIB.jpg",
       "name": "Pablo Rodríguez",
       "sort_name": "Pablo Rodríguez",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Rodriguez_Pab"
+        }
+      ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/IC_Pablo_Rodriguez.JPG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/RodriguezPablo_LIB.jpg"
         }
       ],
       "memberships": [
@@ -6212,9 +6258,6 @@
           "area_id": "area/quebec_(honoré-mercier)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -6240,10 +6283,17 @@
       ]
     },
     {
+      "email": "Pam.Goldsmith-Jones@parl.gc.ca",
       "gender": "female",
       "id": "person/c63802f9-d464-411d-a385-971c2a005408",
       "name": "Pamela Goldsmith-Jones",
       "sort_name": "Pamela Goldsmith-Jones",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "pgoldsmithjones"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c63802f9-d464-411d-a385-971c2a005408",
@@ -6253,9 +6303,6 @@
           "area_id": "area/british_columbia_(west_vancouver—sunshine_coast—sea_to_sky_country)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -6303,9 +6350,16 @@
       ]
     },
     {
+      "email": "Patty.Hajdu@parl.gc.ca",
       "id": "person/2a8ff148-50eb-490c-a67a-242c43dcad13",
       "name": "Patty Hajdu",
       "sort_name": "Patty Hajdu",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PattyHajdu"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2a8ff148-50eb-490c-a67a-242c43dcad13",
@@ -6315,9 +6369,6 @@
           "area_id": "area/ontario_(thunder_bay—superior_north)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -7011,12 +7062,18 @@
     {
       "gender": "male",
       "id": "person/e4e443e3-6cd4-4188-a4ef-04fd07bb573e",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Rob_Oliphant_2.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/OliphantRobert_Lib.jpg",
       "name": "Rob Oliphant",
       "sort_name": "Rob Oliphant",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Rob_Oliphant"
+        }
+      ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Rob_Oliphant_2.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/OliphantRobert_Lib.jpg"
         }
       ],
       "memberships": [
@@ -7028,9 +7085,6 @@
           "area_id": "area/ontario_(don_valley_west)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -7772,10 +7826,17 @@
       ]
     },
     {
+      "email": "Steven.MacKinnon@parl.gc.ca",
       "gender": "male",
       "id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
       "name": "Steve MacKinnon",
       "sort_name": "Steve MacKinnon",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stevenmackinnon"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
@@ -7785,9 +7846,6 @@
           "area_id": "area/quebec_(gatineau)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -7952,9 +8010,16 @@
       ]
     },
     {
+      "email": "TJ.Harvey@parl.gc.ca",
       "id": "person/fd1d349b-da8c-4e8e-af02-18b0169d5888",
       "name": "T. J. Harvey",
       "sort_name": "T. J. Harvey",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TJHarveyLib"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/fd1d349b-da8c-4e8e-af02-18b0169d5888",
@@ -7964,9 +8029,6 @@
           "area_id": "area/new_brunswick_(tobique—mactaquac)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -8319,6 +8381,12 @@
       "id": "person/8ec82372-d491-4f6b-bada-2a9d1dd7df53",
       "name": "Will Amos",
       "sort_name": "Will Amos",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "WillAAmos"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/8ec82372-d491-4f6b-bada-2a9d1dd7df53",
@@ -8328,9 +8396,6 @@
           "area_id": "area/quebec_(pontiac)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
