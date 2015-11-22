@@ -301,12 +301,6 @@
       "id": "person/3197e371-3a85-4ced-8b6a-104c562baca8",
       "name": "Andrew Leslie",
       "sort_name": "Andrew Leslie",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "_andrewleslie"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/3197e371-3a85-4ced-8b6a-104c562baca8",
@@ -316,6 +310,9 @@
           "area_id": "area/ontario_(orléans)",
           "legislative_period_id": "term/42"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -3311,6 +3308,7 @@
       ]
     },
     {
+      "email": "Hunter.Tootoo@parl.gc.ca",
       "gender": "male",
       "id": "person/7401da7f-0c23-4295-a6eb-19860d1e1eb9",
       "name": "Hunter Tootoo",
