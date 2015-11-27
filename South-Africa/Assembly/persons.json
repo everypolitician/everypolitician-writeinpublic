@@ -6027,29 +6027,6 @@
       ]
     },
     {
-      "id": "person/d190770d-2a7b-48ed-82cf-59c55b3b99aa",
-      "image": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
-      "name": "Mpho Adolphina Tongwane",
-      "sort_name": "Mpho Adolphina Tongwane",
-      "images": [
-        {
-          "url": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d190770d-2a7b-48ed-82cf-59c55b3b99aa",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ANC",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "mrabotapi@parliament.gov.za",
       "id": "person/58dbced2-7174-4c7b-9f54-14f9aa32fbd3",
       "image": "http://www.pa.org.za/media_root/cache/46/23/46230abf2bc029e0ea99b7057acf0493.jpg",
@@ -9051,6 +9028,31 @@
       "memberships": [
         {
           "person_id": "person/2ad55aa2-a036-452c-a740-f4f83cb3b400",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ANC",
+          "area_id": "area/northern_cape",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tgasebonwe@parliament.gov.za",
+      "id": "person/d190770d-2a7b-48ed-82cf-59c55b3b99aa",
+      "image": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg",
+      "name": "Tshoganetso Mpho Adolphina Tongwane",
+      "sort_name": "Tshoganetso Mpho Adolphina Tongwane",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/fb/f8/fbf8a5c88eff563197fb6026d25b808d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d190770d-2a7b-48ed-82cf-59c55b3b99aa",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ANC",
