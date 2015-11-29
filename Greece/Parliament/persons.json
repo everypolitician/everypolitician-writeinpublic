@@ -1,7 +1,7 @@
 {
-  "total": 300,
+  "total": 301,
   "page": 1,
-  "per_page": 300,
+  "per_page": 301,
   "has_more": false,
   "result": [
     {
@@ -3343,8 +3343,9 @@
           "person_id": "person/856b24c5-9053-4ff1-9bca-152c7c29391b",
           "organization_id": "chamber/hellenic_parliament",
           "role": "member",
-          "on_behalf_of_id": "anexartitoiellines",
+          "on_behalf_of_id": "independent",
           "area_id": "area/achaia",
+          "start_date": "2015-11-19",
           "legislative_period_id": "term/17"
         }
       ],
@@ -3487,8 +3488,9 @@
           "person_id": "person/f0970019-2092-495a-b574-3e10de681ec0",
           "organization_id": "chamber/hellenic_parliament",
           "role": "member",
-          "on_behalf_of_id": "syriza",
+          "on_behalf_of_id": "independent",
           "area_id": "area/athens_b",
+          "start_date": "2015-11-19",
           "legislative_period_id": "term/17"
         }
       ],
@@ -3957,6 +3959,7 @@
           "role": "member",
           "on_behalf_of_id": "syriza",
           "area_id": "area/athens_a",
+          "start_date": "2015-11-19",
           "legislative_period_id": "term/17"
         }
       ],
@@ -5109,6 +5112,25 @@
           "role": "member",
           "on_behalf_of_id": "democraticcoalition",
           "area_id": "area/thessaloniki_a",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4645208f-8a90-4281-8cd9-af2ee44f6455",
+      "name": "Vernardakis Dimostheni Christoforos",
+      "sort_name": "Vernardakis Dimostheni Christoforos",
+      "memberships": [
+        {
+          "person_id": "person/4645208f-8a90-4281-8cd9-af2ee44f6455",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/athens_a",
+          "start_date": "2015-11-19",
           "legislative_period_id": "term/17"
         }
       ],
