@@ -456,7 +456,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/ce4e553c-3391-440f-b5ff-19e985f7665d",
       "name": "Ahmet Haluk Koç",
       "sort_name": "Ahmet Haluk Koç",
@@ -866,6 +865,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/51730dd1-050e-49dc-980b-9ccd05de300d",
       "name": "Ali İhsan Arslan",
       "sort_name": "Ali İhsan Arslan",
@@ -2230,7 +2230,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/8d75f83a-982a-45f4-aebf-a7316a52f7f5",
       "name": "Durmuş Fikri Sağlar",
       "sort_name": "Durmuş Fikri Sağlar",
@@ -3048,6 +3047,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/1ecbbb84-b2fc-4c38-b621-4ac03843e6d5",
       "name": "Fatma Güldemet Sarı",
       "sort_name": "Fatma Güldemet Sarı",
@@ -4598,14 +4598,8 @@
     {
       "gender": "male",
       "id": "person/00110218-2555-47b2-a2b8-a4ae16c75ef2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lütfi_Elvan_(cropped).jpg",
       "name": "Lütfi Elvan",
       "sort_name": "Lütfi Elvan",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lütfi_Elvan_(cropped).jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/00110218-2555-47b2-a2b8-a4ae16c75ef2",
@@ -4820,16 +4814,9 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/835f265a-0529-4b66-b8d2-93499bda9967",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Akif_Hamzaçebi.jpg",
       "name": "Mehmet Akif Hamzaçebi",
       "sort_name": "Mehmet Akif Hamzaçebi",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Akif_Hamzaçebi.jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/835f265a-0529-4b66-b8d2-93499bda9967",
@@ -5181,8 +5168,14 @@
     {
       "gender": "male",
       "id": "person/e2b6f571-3eae-4aff-ab4c-029411bc7743",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mehmet_Metiner_Üsküdar_Üniversitesinde.jpg",
       "name": "Mehmet Metiner",
       "sort_name": "Mehmet Metiner",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mehmet_Metiner_Üsküdar_Üniversitesinde.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e2b6f571-3eae-4aff-ab4c-029411bc7743",
@@ -5625,6 +5618,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ae32719b-c030-4090-980a-2b75fa957ede",
       "name": "Mevlüt Karakaya",
       "sort_name": "Mevlüt Karakaya",
@@ -5661,6 +5655,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e0114e80-799f-45be-abd4-bad2bf81f57a",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mithat_Sancar_2015_(portrait).jpg",
       "name": "Mithat Sancar",
@@ -5739,7 +5734,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/9f26af5f-3578-4801-a9e6-838db7e69c76",
       "name": "Muhammet Rıza Yalçınkaya",
       "sort_name": "Muhammet Rıza Yalçınkaya",
@@ -6515,6 +6509,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/37dbc8c3-f7fe-4a67-9782-07035d96a0eb",
       "name": "Naci Ağbal",
       "sort_name": "Naci Ağbal",
@@ -6697,16 +6692,9 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/e3a732c8-489f-4df8-8339-a9062ee7f06a",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jose_Fernandez,_Nihat_Zeybekci,_Kemal_Kirişci.jpg",
       "name": "Nihat Zeybekci",
       "sort_name": "Nihat Zeybekci",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jose_Fernandez,_Nihat_Zeybekci,_Kemal_Kirişci.jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/e3a732c8-489f-4df8-8339-a9062ee7f06a",
@@ -7288,12 +7276,19 @@
       ]
     },
     {
-      "id": "person/a0f1dffa-4981-4b5f-b7c6-e07daff29ee5",
-      "name": "Ravza Kavakcı Kan",
-      "sort_name": "Ravza Kavakcı Kan",
+      "gender": "female",
+      "id": "person/5f9765c6-b2a8-4113-bc90-3e6b4905727f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ravza_Kavakçı_Kan.jpg",
+      "name": "Ravza Kavakçı Kan",
+      "sort_name": "Ravza Kavakçı Kan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ravza_Kavakçı_Kan.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/a0f1dffa-4981-4b5f-b7c6-e07daff29ee5",
+          "person_id": "person/5f9765c6-b2a8-4113-bc90-3e6b4905727f",
           "organization_id": "chamber/grand_national_assembly",
           "role": "member",
           "on_behalf_of_id": "AKP",
@@ -7722,6 +7717,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7b99fc3d-f885-42f0-b2e8-806f7a563616",
       "name": "Sefer Aycan",
       "sort_name": "Sefer Aycan",
@@ -8303,6 +8299,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b9588b2c-3e2c-45a3-9c83-38804e782f95",
       "name": "Talip Küçükcan",
       "sort_name": "Talip Küçükcan",
@@ -8703,8 +8700,14 @@
     },
     {
       "id": "person/02adddd1-8f59-48fa-98ab-739329ba9670",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vedat_Bilgin.jpg",
       "name": "Vedat Bilgin",
       "sort_name": "Vedat Bilgin",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vedat_Bilgin.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/02adddd1-8f59-48fa-98ab-739329ba9670",
@@ -9641,6 +9644,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/be0bc8fe-664f-4c99-8607-41180f3c25a7",
       "name": "İbrahim Özdiş",
       "sort_name": "İbrahim Özdiş",
@@ -9659,6 +9663,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b524428b-6fff-4f3b-9b63-d7e01c643e50",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/İdris_Baluken_(portrait).jpg",
       "name": "İdris Baluken",
