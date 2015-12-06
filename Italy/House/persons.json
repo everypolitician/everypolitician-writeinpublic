@@ -11549,7 +11549,7 @@
       ]
     },
     {
-      "email": "ginoble_t@camera.it",
+      "email": "GINOBLE_T@CAMERA.IT",
       "gender": "male",
       "id": "person/5760243f-8a30-4b8b-be54-3ccc952b2425",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/302/921/original_d302921.jpg",
@@ -11572,7 +11572,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "area/abruzzo",
+          "area_id": "XVII",
           "legislative_period_id": "term/17"
         }
       ]
@@ -13493,6 +13493,16 @@
           "on_behalf_of_id": "misto_-_non_iscritto_ad_alcuna_componente_politica",
           "area_id": "XXV",
           "start_date": "2015-08-05",
+          "end_date": "2015-12-02",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/919e92c7-6e47-4b02-9500-c7423ba1ac6a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+          "area_id": "XXV",
+          "start_date": "2015-12-02",
           "legislative_period_id": "term/17"
         }
       ],
@@ -14824,8 +14834,9 @@
           "person_id": "person/40e58249-bb50-4434-abc6-9cdaa6d1fe6b",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "gruppo_misto",
-          "area_id": "area/puglia",
+          "on_behalf_of_id": "forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+          "area_id": "XXI",
+          "end_date": "2015-11-19",
           "legislative_period_id": "term/17"
         },
         {
