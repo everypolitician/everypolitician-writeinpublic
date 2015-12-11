@@ -1,7 +1,7 @@
 {
-  "total": 69,
+  "total": 70,
   "page": 1,
-  "per_page": 69,
+  "per_page": 70,
   "has_more": false,
   "result": [
     {
@@ -18,6 +18,30 @@
       "memberships": [
         {
           "person_id": "person/cae1b496-0001-4b94-adec-884cec06394b",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "partit_nazzjonlista",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "anthony.c.abela@parlament.mt",
+      "id": "person/09ff6fb9-0562-4bfa-980e-4365c01c4a3b",
+      "image": "http://www.parlament.mt/file.aspx?f=54516",
+      "name": "Anthony Abela",
+      "sort_name": "Anthony Abela",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=54516"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/09ff6fb9-0562-4bfa-980e-4365c01c4a3b",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "partit_nazzjonlista",
