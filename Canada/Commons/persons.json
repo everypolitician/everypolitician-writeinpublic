@@ -880,6 +880,7 @@
       ]
     },
     {
+      "email": "Bob.Nault@parl.gc.ca",
       "gender": "male",
       "id": "person/fecb5767-d696-422b-831d-6b74237c16ac",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/NaultR.JPG",
@@ -6360,12 +6361,6 @@
       "id": "person/2a8ff148-50eb-490c-a67a-242c43dcad13",
       "name": "Patty Hajdu",
       "sort_name": "Patty Hajdu",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "PattyHajdu"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/2a8ff148-50eb-490c-a67a-242c43dcad13",
@@ -6375,6 +6370,9 @@
           "area_id": "area/ontario_(thunder_bay—superior_north)",
           "legislative_period_id": "term/42"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
