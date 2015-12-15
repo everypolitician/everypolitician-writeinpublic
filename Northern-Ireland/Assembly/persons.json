@@ -305,6 +305,26 @@
           "role": "member",
           "on_behalf_of_id": "uup",
           "area_id": "uk.org.publicwhip/cons/325-NI",
+          "end_date": "2013-03-04",
+          "legislative_period_id": "term/4"
+        },
+        {
+          "person_id": "person/a7b407a3-8f43-40e4-812d-c19efca0c1c4",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "uk.org.publicwhip/cons/325-NI",
+          "start_date": "2013-03-04",
+          "end_date": "2013-06-05",
+          "legislative_period_id": "term/4"
+        },
+        {
+          "person_id": "person/a7b407a3-8f43-40e4-812d-c19efca0c1c4",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ni21",
+          "area_id": "uk.org.publicwhip/cons/325-NI",
+          "start_date": "2013-06-06",
           "legislative_period_id": "term/4"
         }
       ],
@@ -651,8 +671,14 @@
     {
       "gender": "male",
       "id": "person/b392380a-b416-438b-9ce8-d5292ea5b272",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Danny_Kinahan_at_Portcullis_House_November_2015.png",
       "name": "Danny Kinahan",
       "sort_name": "Danny Kinahan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Danny_Kinahan_at_Portcullis_House_November_2015.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b392380a-b416-438b-9ce8-d5292ea5b272",
@@ -757,6 +783,26 @@
           "role": "member",
           "on_behalf_of_id": "uup",
           "area_id": "uk.org.publicwhip/cons/557-NI",
+          "end_date": "2012-01-29",
+          "legislative_period_id": "term/4"
+        },
+        {
+          "person_id": "person/7b526ffd-9805-4b8a-9f7a-6774dbba6f17",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "uk.org.publicwhip/cons/557-NI",
+          "start_date": "2012-01-30",
+          "end_date": "2012-10-04",
+          "legislative_period_id": "term/4"
+        },
+        {
+          "person_id": "person/7b526ffd-9805-4b8a-9f7a-6774dbba6f17",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ukip",
+          "area_id": "uk.org.publicwhip/cons/557-NI",
+          "start_date": "2012-10-05",
           "legislative_period_id": "term/4"
         }
       ],
@@ -982,6 +1028,12 @@
       "id": "person/de99e576-546a-432b-b9c4-57ec40be15b2",
       "name": "Gerry Kelly",
       "sort_name": "Gerry Kelly",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GerryKellyMLA"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/de99e576-546a-432b-b9c4-57ec40be15b2",
@@ -991,9 +1043,6 @@
           "area_id": "uk.org.publicwhip/cons/36-NI",
           "legislative_period_id": "term/4"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2550,8 +2599,14 @@
     {
       "gender": "male",
       "id": "person/a78241b6-b1a7-44ba-9621-89b8e043a233",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Stewart_Dickson_MLA_Head_Shot.jpg",
       "name": "Stewart Dickson",
       "sort_name": "Stewart Dickson",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Stewart_Dickson_MLA_Head_Shot.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a78241b6-b1a7-44ba-9621-89b8e043a233",
@@ -2691,8 +2746,14 @@
     {
       "gender": "male",
       "id": "person/42114514-16d9-475f-918c-d9031837e758",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/WilliamHay.jpg",
       "name": "William Hay",
       "sort_name": "William Hay",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/WilliamHay.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/42114514-16d9-475f-918c-d9031837e758",
@@ -2755,8 +2816,14 @@
     {
       "gender": "male",
       "id": "person/ae5a1301-8813-4b2e-8706-3b5a7bd2b687",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Willie_Clarke.jpg",
       "name": "Willie Clarke",
       "sort_name": "Willie Clarke",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Willie_Clarke.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ae5a1301-8813-4b2e-8706-3b5a7bd2b687",
