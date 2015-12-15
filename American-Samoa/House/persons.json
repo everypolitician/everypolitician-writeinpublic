@@ -1,7 +1,7 @@
 {
-  "total": 16,
+  "total": 17,
   "page": 1,
-  "per_page": 16,
+  "per_page": 17,
   "has_more": false,
   "result": [
     {
@@ -59,6 +59,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/928b9c7a-52cb-42b3-b6fb-4d006f78382d",
       "name": "Larry Simou Sanitoa",
       "sort_name": "Larry Simou Sanitoa",
@@ -177,6 +178,25 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "13",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/bab38e7f-f19f-44e3-80a9-83b3e0a5e9fc",
+      "name": "Savali Talavou Ale",
+      "sort_name": "Savali Talavou Ale",
+      "memberships": [
+        {
+          "person_id": "person/bab38e7f-f19f-44e3-80a9-83b3e0a5e9fc",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "14",
           "legislative_period_id": "term/2014"
         }
       ],
