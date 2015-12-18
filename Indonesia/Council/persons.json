@@ -1,7 +1,7 @@
 {
-  "total": 560,
+  "total": 561,
   "page": 1,
-  "per_page": 560,
+  "per_page": 561,
   "has_more": false,
   "result": [
     {
@@ -10314,6 +10314,30 @@
           "role": "member",
           "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
           "area_id": "area/jawa_tengah_ii",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8a503795-8d8a-4ea2-ad97-ef641dc98a04",
+      "image": "http://dpr.go.id/doksigota/photo/A-479_IR.H.HARI_KARTANA,MM.jpg",
+      "name": "Ir.H.HARI KARTANA,MM",
+      "sort_name": "Ir.H.HARI KARTANA,MM",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/A-479_IR.H.HARI_KARTANA,MM.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8a503795-8d8a-4ea2-ad97-ef641dc98a04",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/jawa_barat_vii",
           "legislative_period_id": "term/18"
         }
       ],
