@@ -1,7 +1,7 @@
 {
-  "total": 122,
+  "total": 127,
   "page": 1,
-  "per_page": 122,
+  "per_page": 127,
   "has_more": false,
   "result": [
     {
@@ -282,6 +282,32 @@
           "role": "member",
           "on_behalf_of_id": "RE",
           "area_id": "area/tartu_linn",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "anneli.ott@riigikogu.ee",
+      "id": "person/372fd0c0-3379-44be-83af-527e886b2c52",
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/588a441c-eec4-494f-8292-1b1bac1f93e0.jpg",
+      "name": "Anneli Ott",
+      "sort_name": "Anneli Ott",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/588a441c-eec4-494f-8292-1b1bac1f93e0.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/372fd0c0-3379-44be-83af-527e886b2c52",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/võru-,_valga-_ja_põlvamaa",
+          "start_date": "2015-11-19",
           "legislative_period_id": "term/13"
         }
       ],
@@ -589,6 +615,26 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cac5bc14-504f-4e37-9ddf-c674c51b74bf",
+      "name": "Etti Kagarov",
+      "sort_name": "Etti Kagarov",
+      "memberships": [
+        {
+          "person_id": "person/cac5bc14-504f-4e37-9ddf-c674c51b74bf",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/ida-virumaa",
+          "start_date": "2015-09-15",
+          "end_date": "2015-09-16",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1304,6 +1350,33 @@
       ]
     },
     {
+      "email": "kalev.kotkas@riigikogu.ee",
+      "gender": "male",
+      "id": "person/957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e41d33c8-10da-4f38-9d5e-2ba80083684a.jpg",
+      "name": "Kalev Kotkas",
+      "sort_name": "Kalev Kotkas",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e41d33c8-10da-4f38-9d5e-2ba80083684a.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+          "start_date": "2015-09-16",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Kalle.Laanet@riigikogu.ee",
       "gender": "male",
       "id": "person/c4a5d205-2d51-495f-9c8a-36afdbf2549c",
@@ -1488,6 +1561,32 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/järva-_ja_viljandimaa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "oudekki.loone@riigikogu.ee",
+      "id": "person/26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg",
+      "name": "Kerstin-Oudekki Loone",
+      "sort_name": "Kerstin-Oudekki Loone",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/harju-_ja_raplamaa",
+          "start_date": "2015-11-21",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2319,6 +2418,26 @@
       ]
     },
     {
+      "id": "person/4976ec9e-f701-464d-9838-f5eb148e7510",
+      "name": "Neeme Suur",
+      "sort_name": "Neeme Suur",
+      "memberships": [
+        {
+          "person_id": "person/4976ec9e-f701-464d-9838-f5eb148e7510",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+          "start_date": "2015-09-15",
+          "end_date": "2015-09-16",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Olga.Ivanova@riigikogu.ee",
       "gender": "female",
       "id": "person/7a171a42-6763-494d-9a24-1a3852c45d6b",
@@ -2416,6 +2535,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/järva-_ja_viljandimaa",
+          "end_date": "2015-11-18",
           "legislative_period_id": "term/13"
         }
       ],

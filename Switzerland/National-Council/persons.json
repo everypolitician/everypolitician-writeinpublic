@@ -1,7 +1,7 @@
 {
-  "total": 202,
+  "total": 203,
   "page": 1,
-  "per_page": 202,
+  "per_page": 203,
   "has_more": false,
   "result": [
     {
@@ -160,6 +160,32 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "0",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/9f99ab05-b1ce-4996-bab7-3cadb43fef2f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Alice_Glauser_(2007).jpg",
+      "name": "Alice Glauser-Zufferey",
+      "sort_name": "Glauser-Zufferey, Alice",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Alice_Glauser_(2007).jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9f99ab05-b1ce-4996-bab7-3cadb43fef2f",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "4",
+          "area_id": "0",
+          "start_date": "2016-02-29",
           "legislative_period_id": "term/50"
         }
       ],
@@ -1517,6 +1543,7 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "0",
+          "end_date": "2015-12-31",
           "legislative_period_id": "term/50"
         }
       ],
@@ -3992,8 +4019,14 @@
     {
       "gender": "male",
       "id": "person/84dd54c6-f72d-43da-a526-ee0827d68943",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Toni_Brunner_(Nationalrat,_2007).jpg",
       "name": "Toni Brunner",
       "sort_name": "Brunner, Toni",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Toni_Brunner_(Nationalrat,_2007).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/84dd54c6-f72d-43da-a526-ee0827d68943",

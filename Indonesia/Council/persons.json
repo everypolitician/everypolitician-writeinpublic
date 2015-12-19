@@ -1,7 +1,7 @@
 {
-  "total": 561,
+  "total": 563,
   "page": 1,
-  "per_page": 561,
+  "per_page": 563,
   "has_more": false,
   "result": [
     {
@@ -13367,6 +13367,54 @@
           "role": "member",
           "on_behalf_of_id": "national_mandate_party_faction",
           "area_id": "area/lampung_i",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/650e28ad-c4c3-4b90-8af2-ab7395070570",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "name": "dr. ANARULITA MUCHTAR",
+      "sort_name": "dr. ANARULITA MUCHTAR",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/650e28ad-c4c3-4b90-8af2-ab7395070570",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "national_democrat_party_faction",
+          "area_id": "area/bengkulu",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2d304fa5-6c1c-437b-b2cd-020c566b1d2e",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "name": "dr. ARI YUSMITA",
+      "sort_name": "dr. ARI YUSMITA",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2d304fa5-6c1c-437b-b2cd-020c566b1d2e",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "national_democrat_party_faction",
+          "area_id": "area/kalimantan_timur",
           "legislative_period_id": "term/18"
         }
       ],
