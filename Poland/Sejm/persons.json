@@ -403,8 +403,14 @@
     {
       "gender": "male",
       "id": "person/c91e07fc-0617-474a-bbfc-f99994ccf759",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Andrzej_Halicki_(cropped).jpg",
       "name": "Andrzej Halicki",
       "sort_name": "Andrzej Halicki",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Andrzej_Halicki_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c91e07fc-0617-474a-bbfc-f99994ccf759",
@@ -5750,8 +5756,14 @@
     {
       "gender": "male",
       "id": "person/82d9dce1-ae44-41d9-972a-7dccf91fe746",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marek_Kuchciński_2008.jpg",
       "name": "Marek Kuchciński",
       "sort_name": "Marek Kuchciński",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marek_Kuchciński_2008.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/82d9dce1-ae44-41d9-972a-7dccf91fe746",
@@ -8223,8 +8235,14 @@
     {
       "gender": "male",
       "id": "person/47cd2ea2-5259-4acb-841c-75a1b70904e1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sławomir_Kłosowski_2008.jpg",
       "name": "Sławomir Kłosowski",
       "sort_name": "Sławomir Kłosowski",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sławomir_Kłosowski_2008.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/47cd2ea2-5259-4acb-841c-75a1b70904e1",
@@ -9070,7 +9088,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
-          "area_id": "16-8",
+          "end_date": "2015-12-15",
           "legislative_period_id": "term/8"
         }
       ],
@@ -9263,6 +9281,7 @@
     {
       "gender": "male",
       "id": "person/529761f9-4bb2-43f3-af26-a54cb0633e3d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Władysław_Kosiniak-Kamysz_Sejm_2015.JPG",
       "name": "Władysław Kosiniak-Kamysz",
       "sort_name": "Władysław Kosiniak-Kamysz",
       "contact_details": [
@@ -9275,6 +9294,11 @@
         {
           "url": "kosiniakkamysz",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Władysław_Kosiniak-Kamysz_Sejm_2015.JPG"
         }
       ],
       "memberships": [
