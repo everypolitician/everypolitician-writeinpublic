@@ -7431,7 +7431,7 @@
       ]
     },
     {
-      "email": "duva_f@camera.it",
+      "email": "DUVA_F@CAMERA.IT",
       "gender": "male",
       "id": "person/2ce7f087-4683-40d0-8acd-b433621c761e",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/085/original_d306085.jpg",
@@ -7460,7 +7460,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "movimento_5_stelle",
-          "area_id": "area/sicilia_2",
+          "area_id": "XXV",
           "legislative_period_id": "term/17"
         }
       ]
@@ -12332,6 +12332,16 @@
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
           "area_id": "XXV",
+          "end_date": "2015-12-14",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/98ac8a4c-ffdc-4484-880d-eb7d5d3a17b2",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+          "area_id": "XXV",
+          "start_date": "2015-12-15",
           "legislative_period_id": "term/17"
         }
       ],
