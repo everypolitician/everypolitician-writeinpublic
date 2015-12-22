@@ -1,7 +1,7 @@
 {
-  "total": 112,
+  "total": 113,
   "page": 1,
-  "per_page": 112,
+  "per_page": 113,
   "has_more": false,
   "result": [
     {
@@ -2135,6 +2135,29 @@
           "organization_id": "chamber/parlament",
           "role": "member",
           "on_behalf_of_id": "9",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/14590f52-186e-408c-9e56-d27c8d9c93b2",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=242TbwAkNcA%3d&tabid=87&mid=476&language=en-US",
+      "name": "Valerian Bejan",
+      "sort_name": "Bejan Valerian",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=242TbwAkNcA%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/14590f52-186e-408c-9e56-d27c8d9c93b2",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "10",
           "legislative_period_id": "term/2014"
         }
       ],
