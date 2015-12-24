@@ -1,7 +1,7 @@
 {
-  "total": 512,
+  "total": 513,
   "page": 1,
-  "per_page": 512,
+  "per_page": 513,
   "has_more": false,
   "result": [
     {
@@ -517,6 +517,31 @@
           "role": "member",
           "on_behalf_of_id": "DEM",
           "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.alexandreserfiotis@camara.leg.br",
+      "id": "person/b5873819-018b-484c-a567-d1aa066a1786",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/178833.jpg",
+      "name": "ALEXANDRE SERFIOTIS",
+      "sort_name": "ALEXANDRE SERFIOTIS",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/178833.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b5873819-018b-484c-a567-d1aa066a1786",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSD",
+          "area_id": "area/rj",
           "legislative_period_id": "term/55"
         }
       ],
