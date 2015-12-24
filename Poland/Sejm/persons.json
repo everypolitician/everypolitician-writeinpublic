@@ -1,7 +1,7 @@
 {
-  "total": 465,
+  "total": 466,
   "page": 1,
-  "per_page": 465,
+  "per_page": 466,
   "has_more": false,
   "result": [
     {
@@ -6955,7 +6955,7 @@
           "person_id": "person/c69f067e-fc1e-4bdb-b18d-ffefbd7228f4",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "on_behalf_of_id": "klub_poselski_nowoczesna",
           "area_id": "29-8",
           "legislative_period_id": "term/8"
         }
@@ -8920,6 +8920,25 @@
       ]
     },
     {
+      "id": "person/09363a17-1c2b-4c86-a3ab-e403b2a64767",
+      "name": "Waldemar Olejniczak",
+      "sort_name": "Waldemar Olejniczak",
+      "memberships": [
+        {
+          "person_id": "person/09363a17-1c2b-4c86-a3ab-e403b2a64767",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "16-8",
+          "start_date": "2015-12-22",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/b90eb416-891a-4e4b-bb8d-23e4d085940a",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Waldy_Dzikowski_Sejm_2014.JPG",
@@ -9088,6 +9107,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "16-8",
           "end_date": "2015-12-15",
           "legislative_period_id": "term/8"
         }
