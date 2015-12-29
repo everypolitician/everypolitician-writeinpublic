@@ -1,7 +1,7 @@
 {
-  "total": 130,
+  "total": 131,
   "page": 1,
-  "per_page": 130,
+  "per_page": 131,
   "has_more": false,
   "result": [
     {
@@ -1587,6 +1587,32 @@
       ]
     },
     {
+      "email": "karen.bekaryan@parliament.am",
+      "id": "person/78347d1e-4428-4e43-8583-ca91959eddc2",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1152",
+      "name": "Karen Bekaryan",
+      "sort_name": "Karen Bekaryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1152"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/78347d1e-4428-4e43-8583-ca91959eddc2",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "RPA",
+          "area_id": "area/074",
+          "start_date": "2015-09-11",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "karen.botoyan@parliament.am",
       "gender": "male",
       "id": "person/d08692df-f435-4301-8787-e46923e30971",
@@ -2691,6 +2717,15 @@
           "on_behalf_of_id": "H",
           "area_id": "area/126",
           "start_date": "2014-02-03",
+          "legislative_period_id": "term/5"
+        },
+        {
+          "person_id": "person/06ea16ee-bb6b-4e55-ba7e-ec3e36ef682e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "H",
+          "area_id": "area/126",
+          "start_date": "2015-09-18",
           "legislative_period_id": "term/5"
         }
       ],
