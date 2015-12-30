@@ -2587,6 +2587,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/80bac845-700f-45da-adef-c2c1a1af4cb8",
       "name": "Grzegorz Puda",
       "sort_name": "Grzegorz Puda",
@@ -2799,6 +2800,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Henryka_Krzywonos-Strycharska.jpg",
       "name": "Henryka Krzywonos",
       "sort_name": "Henryka Krzywonos",
+      "links": [
+        {
+          "url": "henrykakrzywonos",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Henryka_Krzywonos-Strycharska.jpg"
@@ -3451,8 +3458,14 @@
     {
       "gender": "male",
       "id": "person/dfe4521b-0a83-4904-8634-ab09c4591a00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jan_Warzecha.JPG",
       "name": "Jan Warzecha",
       "sort_name": "Jan Warzecha",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jan_Warzecha.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/dfe4521b-0a83-4904-8634-ab09c4591a00",
@@ -7445,6 +7458,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f7ffe8e8-3e94-4eda-b43b-5475882305ec",
       "name": "Piotr Uruski",
       "sort_name": "Piotr Uruski",
