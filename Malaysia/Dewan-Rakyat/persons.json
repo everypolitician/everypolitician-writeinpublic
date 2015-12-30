@@ -112,9 +112,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/29cf7b22-9cc5-46de-b114-490e4be7975c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Khalid_Ibrahim_announcing_Ijok_candidacy.jpg",
       "name": "Abdul Khalid Ibrahim",
       "sort_name": "Abdul Khalid Ibrahim",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Khalid_Ibrahim_announcing_Ijok_candidacy.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/29cf7b22-9cc5-46de-b114-490e4be7975c",
@@ -1041,6 +1048,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/184f3297-bd02-476e-a260-37822d503473",
       "name": "Halimah Mohd Sadique",
       "sort_name": "Halimah Mohd Sadique",
@@ -1078,6 +1086,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/47a6ac62-cacb-4c8c-ab98-8f306ec0d128",
       "name": "Hamzah Zainudin",
       "sort_name": "Hamzah Zainudin",
@@ -1114,7 +1123,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/03701c15-63d9-4f06-97d3-30e9c4a76e0b",
       "name": "Hasan Malek",
       "sort_name": "Hasan Malek",
@@ -1857,6 +1865,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6e1093b6-14dc-466f-9aef-a8cda38b20a4",
       "name": "Khalid Samad",
       "sort_name": "Khalid Samad",
@@ -2423,6 +2432,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/75bc878f-852d-4bec-bf3d-cf11b171b0d3",
       "name": "Mohamed Azmin Ali",
       "sort_name": "Mohamed Azmin Ali",
@@ -2689,22 +2699,9 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/baef59e6-fa37-4ef9-8615-204038b650b1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Dato_Sri_Mohd_Najib_Tun_Razak.JPG",
       "name": "Najib Razak",
       "sort_name": "Najib Razak",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "NajibRazak"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Dato_Sri_Mohd_Najib_Tun_Razak.JPG"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/baef59e6-fa37-4ef9-8615-204038b650b1",
@@ -2714,6 +2711,9 @@
           "area_id": "P085-13",
           "legislative_period_id": "term/13"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -3183,9 +3183,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/39ec68ec-527a-44a8-ab07-9b0fb9ad4b4f",
       "name": "Palanivel Govindasamy",
       "sort_name": "Palanivel Govindasamy",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GPalanivel"
+        }
+      ],
+      "links": [
+        {
+          "url": "DatukSeriGPalanivel",
+          "note": "facebook"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/39ec68ec-527a-44a8-ab07-9b0fb9ad4b4f",
@@ -3195,9 +3208,6 @@
           "area_id": "P078-13",
           "legislative_period_id": "term/13"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4420,6 +4430,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/5f556935-c8ac-41f3-a52a-c8414f222017",
       "name": "Zuraida Kamarudin",
       "sort_name": "Zuraida Kamarudin",
