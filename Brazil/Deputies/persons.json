@@ -1,7 +1,7 @@
 {
-  "total": 513,
+  "total": 514,
   "page": 1,
-  "per_page": 513,
+  "per_page": 514,
   "has_more": false,
   "result": [
     {
@@ -9168,6 +9168,31 @@
           "role": "member",
           "on_behalf_of_id": "PPS",
           "area_id": "area/ce",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.marciobiolchi@camara.leg.br",
+      "id": "person/d8ae039d-1ce8-4c25-9354-b491ffbde9a4",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/179001.jpg",
+      "name": "MÁRCIO BIOLCHI",
+      "sort_name": "MÁRCIO BIOLCHI",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/179001.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8ae039d-1ce8-4c25-9354-b491ffbde9a4",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PMDB",
+          "area_id": "area/rs",
           "legislative_period_id": "term/55"
         }
       ],
