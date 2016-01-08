@@ -4406,6 +4406,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e2d98283-f900-4d91-983a-bfa19f521425",
       "name": "Kemal Tekden",
       "sort_name": "Kemal Tekden",
@@ -4650,8 +4651,14 @@
     {
       "gender": "male",
       "id": "person/00110218-2555-47b2-a2b8-a4ae16c75ef2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lütfi_Elvan.jpg",
       "name": "Lütfi Elvan",
       "sort_name": "Lütfi Elvan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lütfi_Elvan.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/00110218-2555-47b2-a2b8-a4ae16c75ef2",
@@ -7381,6 +7388,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/09475ab9-3170-4cb9-a988-421f2382a341",
       "name": "Recep Konuk",
       "sort_name": "Recep Konuk",
