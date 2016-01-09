@@ -1,7 +1,7 @@
 {
-  "total": 359,
+  "total": 360,
   "page": 1,
-  "per_page": 359,
+  "per_page": 360,
   "has_more": false,
   "result": [
     {
@@ -5645,6 +5645,32 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "ocd-division/country:se/constituency:örebro-län",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "linda.snecker@riksdagen.se",
+      "gender": "female",
+      "id": "person/a070e40f-5366-4406-bf07-77db93e1a818",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0150118366721_max.jpg",
+      "name": "Linda Snecker",
+      "sort_name": "Linda Snecker",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0150118366721_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a070e40f-5366-4406-bf07-77db93e1a818",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "V",
+          "area_id": "ocd-division/country:se/constituency:östergötlands-län",
           "legislative_period_id": "term/2014"
         }
       ],
