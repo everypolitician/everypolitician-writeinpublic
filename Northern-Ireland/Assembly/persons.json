@@ -1,7 +1,7 @@
 {
-  "total": 127,
+  "total": 129,
   "page": 1,
-  "per_page": 127,
+  "per_page": 129,
   "has_more": false,
   "result": [
     {
@@ -97,8 +97,14 @@
     {
       "gender": "male",
       "id": "person/f6f4c4d6-3bc6-43c2-8d56-8d91010a8fe8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alban_Maginness.jpg",
       "name": "Alban Maginness",
       "sort_name": "Alban Maginness",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alban_Maginness.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f6f4c4d6-3bc6-43c2-8d56-8d91010a8fe8",
@@ -650,6 +656,25 @@
       ]
     },
     {
+      "id": "person/f65e699e-6954-4a7b-9d11-276f2ee253d5",
+      "name": "Daniel McCrossan",
+      "sort_name": "Daniel McCrossan",
+      "memberships": [
+        {
+          "person_id": "person/f65e699e-6954-4a7b-9d11-276f2ee253d5",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social-democratic-and-labour-party",
+          "area_id": "uk.org.publicwhip/cons/629-NI",
+          "start_date": "2016-01-07",
+          "legislative_period_id": "term/4"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/ed72674e-94f7-4d8f-a73f-727dd5d9c2d3",
       "name": "Danny Kennedy",
@@ -1024,6 +1049,25 @@
       ]
     },
     {
+      "id": "person/da289ff4-9a53-40b3-9804-d67a83cbf652",
+      "name": "Gerard Diver",
+      "sort_name": "Gerard Diver",
+      "memberships": [
+        {
+          "person_id": "person/da289ff4-9a53-40b3-9804-d67a83cbf652",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social-democratic-and-labour-party",
+          "area_id": "uk.org.publicwhip/cons/235-NI",
+          "start_date": "2016-01-07",
+          "legislative_period_id": "term/4"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/de99e576-546a-432b-b9c4-57ec40be15b2",
       "name": "Gerry Kelly",
@@ -1279,6 +1323,7 @@
           "role": "member",
           "on_behalf_of_id": "social-democratic-and-labour-party",
           "area_id": "uk.org.publicwhip/cons/629-NI",
+          "end_date": "2015-12-31",
           "legislative_period_id": "term/4"
         }
       ],
@@ -2043,6 +2088,7 @@
           "role": "member",
           "on_behalf_of_id": "social-democratic-and-labour-party",
           "area_id": "uk.org.publicwhip/cons/235-NI",
+          "end_date": "2015-12-31",
           "legislative_period_id": "term/4"
         }
       ],
