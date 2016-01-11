@@ -656,6 +656,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f65e699e-6954-4a7b-9d11-276f2ee253d5",
       "name": "Daniel McCrossan",
       "sort_name": "Daniel McCrossan",
@@ -2099,8 +2100,14 @@
     {
       "gender": "male",
       "id": "person/cdcb3412-7c37-42c9-b76a-0aa6b3a9e45e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pat_Sheehan.jpg",
       "name": "Pat Sheehan",
       "sort_name": "Pat Sheehan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pat_Sheehan.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/cdcb3412-7c37-42c9-b76a-0aa6b3a9e45e",
