@@ -1931,10 +1931,19 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5b821b53-5a8c-457d-b29c-1da6f023bc84",
       "name": "Nohad el Machnouk",
       "sort_name": "Nohad el Machnouk",
       "memberships": [
+        {
+          "person_id": "person/5b821b53-5a8c-457d-b29c-1da6f023bc84",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "future_movement",
+          "area_id": "area/beirut_ii",
+          "legislative_period_id": "term/2009"
+        },
         {
           "person_id": "person/5b821b53-5a8c-457d-b29c-1da6f023bc84",
           "organization_id": "chamber/parliament",

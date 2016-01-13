@@ -1045,6 +1045,7 @@
     },
     {
       "email": "brad.trost@parl.gc.ca",
+      "gender": "male",
       "id": "person/d16b71c6-c860-474e-ae23-23cb8eca44f6",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/TrostBradley_CPC.jpg",
       "name": "Brad Trost",
@@ -7353,6 +7354,7 @@
     },
     {
       "email": "Romeo.Saganash@parl.gc.ca",
+      "gender": "male",
       "id": "person/64d282db-116a-4aaa-8edf-d3ba639cd6da",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/SaganashRomeo_NDP.jpg",
       "name": "Romeo Saganash",
@@ -7361,6 +7363,12 @@
         {
           "type": "twitter",
           "value": "RomeoSaganash"
+        }
+      ],
+      "links": [
+        {
+          "url": "RomeoSaganash",
+          "note": "facebook"
         }
       ],
       "images": [
