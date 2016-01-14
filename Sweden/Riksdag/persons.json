@@ -1,7 +1,7 @@
 {
-  "total": 360,
+  "total": 362,
   "page": 1,
-  "per_page": 360,
+  "per_page": 362,
   "has_more": false,
   "result": [
     {
@@ -3315,6 +3315,32 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "ocd-division/country:se/constituency:skåne-läns-norra-och-östra",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "heidi.karlsson@riksdagen.se",
+      "gender": "female",
+      "id": "person/88152d2b-c1dd-401e-a8a8-b9954b66c5f6",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0271543079118_max.jpg",
+      "name": "Heidi Karlsson",
+      "sort_name": "Heidi Karlsson",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0271543079118_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/88152d2b-c1dd-401e-a8a8-b9954b66c5f6",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "SD",
+          "area_id": "ocd-division/country:se/constituency:hallands-län",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -7619,6 +7645,32 @@
           "role": "member",
           "on_behalf_of_id": "MP",
           "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "peter.helander@riksdagen.se",
+      "gender": "male",
+      "id": "person/bdb9e728-b4d5-4cbe-848d-bf3f09bb1499",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0681030112815_max.jpg",
+      "name": "Peter Helander",
+      "sort_name": "Peter Helander",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0681030112815_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bdb9e728-b4d5-4cbe-848d-bf3f09bb1499",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "C",
+          "area_id": "ocd-division/country:se/constituency:dalarnas-län",
           "legislative_period_id": "term/2014"
         }
       ],
