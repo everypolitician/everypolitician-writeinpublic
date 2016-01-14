@@ -1137,7 +1137,7 @@
           "person_id": "person/cb57191e-ea77-4904-a0d6-ceb477d386ee",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "I",
           "start_date": "2015-09-17",
           "legislative_period_id": "term/17"
@@ -3572,7 +3572,7 @@
       ]
     },
     {
-      "email": "BRESSA_G@CAMERA.IT",
+      "email": "BRESSA_G@camera.it",
       "gender": "male",
       "id": "person/447f4723-7cde-4a08-a307-8290e293242e",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/050/437/original_d50437.jpg",
@@ -3589,7 +3589,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "VI",
+          "area_id": "area/trentino-alto_adige",
           "legislative_period_id": "term/17"
         }
       ],
@@ -4392,7 +4392,7 @@
           "person_id": "person/4f8bb819-3be6-4431-bbe0-9ec7792c6545",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "XXVI",
           "start_date": "2014-11-19",
           "legislative_period_id": "term/17"
@@ -4445,7 +4445,7 @@
       ]
     },
     {
-      "email": "CAPODICASA_A@CAMERA.IT",
+      "email": "capodicasa_a@camera.it",
       "gender": "male",
       "id": "person/483d71aa-1924-4760-9773-4e5a54276c93",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/301/478/original_d301478.jpg",
@@ -4468,7 +4468,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "XXIV",
+          "area_id": "area/sicilia_1",
           "legislative_period_id": "term/17"
         }
       ],
@@ -5004,7 +5004,7 @@
           "person_id": "person/a516b0e3-1a03-47f9-afe1-950a5379414e",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "A",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -6970,7 +6970,7 @@
       ]
     },
     {
-      "email": "CUOMO_A@CAMERA.IT",
+      "email": "cuomo@consiglio.regione.campania.it",
       "gender": "male",
       "id": "person/c4e0f132-2ad1-478c-83ac-ab47ded48f8b",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/302/946/original_d302946.jpg",
@@ -6982,6 +6982,14 @@
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/c4e0f132-2ad1-478c-83ac-ab47ded48f8b",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "partito_democratico",
+          "area_id": "area/campania_2",
+          "legislative_period_id": "term/17"
+        },
         {
           "person_id": "person/c4e0f132-2ad1-478c-83ac-ab47ded48f8b",
           "organization_id": "chamber/house_of_representatives",
@@ -7293,7 +7301,7 @@
       ]
     },
     {
-      "email": "DATTORRE_A@CAMERA.IT",
+      "email": "dattorre_a@camera.it",
       "gender": "male",
       "id": "person/b82c7448-9c5c-4212-aebd-b09ba73c4b83",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/131/original_d306131.jpg",
@@ -7309,9 +7317,8 @@
           "person_id": "person/b82c7448-9c5c-4212-aebd-b09ba73c4b83",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "partito_democratico",
-          "area_id": "XXIII",
-          "end_date": "2015-11-06",
+          "on_behalf_of_id": "sinistra_italiana-sinistra_ecologia_e_libertà",
+          "area_id": "area/calabria",
           "legislative_period_id": "term/17"
         },
         {
@@ -8054,7 +8061,7 @@
       ]
     },
     {
-      "email": "DELBASSO_U@CAMERA.IT",
+      "email": "delbasso_u@camera.it",
       "gender": "male",
       "id": "person/1faf0760-7a87-4c3c-8843-db0793d23b09",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/032/910/original_d32910.jpg",
@@ -8077,7 +8084,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "XX",
+          "area_id": "area/campania_2",
           "legislative_period_id": "term/17"
         }
       ],
@@ -8257,7 +8264,7 @@
           "person_id": "person/877064f5-ca37-4f9b-a33f-736ee27305fe",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "VI",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -9308,7 +9315,7 @@
           "person_id": "person/e2a1eec7-01f4-4de4-8c0d-2334cc876cf7",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "XVI",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -9862,7 +9869,7 @@
           "person_id": "person/d33cf3ef-6116-4dc5-b275-6fbdd4e77740",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "C",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -11481,7 +11488,7 @@
           "person_id": "person/4cf7867c-dea0-4264-aad9-53b8c70e70c3",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "IX",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -14406,7 +14413,7 @@
           "person_id": "person/c69d48a5-c586-4c9b-9bd3-84b7acb12b34",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "XV",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -18353,7 +18360,7 @@
           "person_id": "person/d6850785-f3cf-43b2-a283-6c305d87ced3",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "XXI",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -20270,7 +20277,7 @@
           "person_id": "person/95fdea77-f69d-41a7-8607-a87cc5526c89",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "XV",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -20995,7 +21002,7 @@
           "person_id": "person/3e0b3dcc-7fe6-4897-988e-614a0f6a773c",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "IV",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -21171,7 +21178,7 @@
           "person_id": "person/3e08c05b-e9e4-4642-bcce-da09f2462eea",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "IV",
           "start_date": "2013-12-10",
           "legislative_period_id": "term/17"
@@ -22139,7 +22146,7 @@
           "person_id": "person/f6796ee8-cb17-4a47-a631-088f27993199",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "per_l'italia_-_centro_democratico",
+          "on_behalf_of_id": "democrazia_solidale_-_centro_democratico",
           "area_id": "XII",
           "start_date": "2014-11-19",
           "legislative_period_id": "term/17"
