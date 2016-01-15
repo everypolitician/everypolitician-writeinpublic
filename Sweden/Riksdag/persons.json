@@ -1,7 +1,7 @@
 {
-  "total": 362,
+  "total": 363,
   "page": 1,
-  "per_page": 362,
+  "per_page": 363,
   "has_more": false,
   "result": [
     {
@@ -8217,6 +8217,32 @@
           "role": "member",
           "on_behalf_of_id": "KD",
           "area_id": "ocd-division/country:se/constituency:västra-götalands-läns-västra",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rolf.abjornsson@riksdagen.se",
+      "gender": "male",
+      "id": "person/d51ef631-925f-4fb3-82ff-e630506b2e90",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0530361204603_max.jpg",
+      "name": "Rolf Åbjörnsson",
+      "sort_name": "Rolf Åbjörnsson",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0530361204603_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d51ef631-925f-4fb3-82ff-e630506b2e90",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "ocd-division/country:se/constituency:stockholms-län",
           "legislative_period_id": "term/2014"
         }
       ],
