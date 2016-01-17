@@ -1577,6 +1577,7 @@
     },
     {
       "email": "oudekki.loone@riigikogu.ee",
+      "gender": "female",
       "id": "person/26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
       "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5ef2f250-7368-4019-8e79-72d677ffcf5d.jpg",
       "name": "Kerstin-Oudekki Loone",
@@ -2431,9 +2432,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4976ec9e-f701-464d-9838-f5eb148e7510",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neeme_Suur,_2011.jpg",
       "name": "Neeme Suur",
       "sort_name": "Neeme Suur",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neeme_Suur,_2011.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/4976ec9e-f701-464d-9838-f5eb148e7510",
@@ -2776,9 +2784,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/fadf4b85-2782-4159-8a94-457448957956",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/IRL_Sven_Sester.jpg",
       "name": "Sven Sester",
       "sort_name": "Sven Sester",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/IRL_Sven_Sester.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/fadf4b85-2782-4159-8a94-457448957956",
