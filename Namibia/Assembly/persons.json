@@ -1,18 +1,17 @@
 {
-  "total": 101,
+  "total": 104,
   "page": 1,
-  "per_page": 101,
+  "per_page": 104,
   "has_more": false,
   "result": [
     {
-      "email": "Sesilia.Shaningwa@mrl.gov.na",
       "id": "person/e8961446-b016-465f-aaac-6f3b43457aa1",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_naruseb.jpg",
-      "name": "!Naruseb, Alpheus",
-      "sort_name": "!Naruseb, Alpheus",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/37_hon._alpheus_naruseb.jpg",
+      "name": "!Naruseb Alpheus",
+      "sort_name": "!Naruseb Alpheus",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_naruseb.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/37_hon._alpheus_naruseb.jpg"
         }
       ],
       "memberships": [
@@ -219,15 +218,14 @@
       ]
     },
     {
-      "email": "pbeukes@mrlghr.gov.na",
       "gender": "female",
       "id": "person/2bbc784e-5c7b-467d-bbb5-334583044489",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Beukes.jpg",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/371_honbeukes.jpg",
       "name": "Beukes Priscilla",
       "sort_name": "Beukes Priscilla",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Beukes.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/371_honbeukes.jpg"
         }
       ],
       "memberships": [
@@ -295,12 +293,12 @@
     {
       "gender": "female",
       "id": "person/b41ba4c0-e752-469d-b8ba-a3856a9ff8b5",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Dienda.jpg",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/e_dienda.jpg",
       "name": "Dienda, Elma Jane",
       "sort_name": "Dienda, Elma Jane",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Dienda.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/e_dienda.jpg"
         }
       ],
       "memberships": [
@@ -382,6 +380,29 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "WRP",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b71621e9-10ea-40b4-952c-4b45334a2513",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/102_hon__petrina_haingura.jpg",
+      "name": "Haingura Petrina",
+      "sort_name": "Haingura Petrina",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/102_hon__petrina_haingura.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b71621e9-10ea-40b4-952c-4b45334a2513",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
           "legislative_period_id": "term/6"
         }
       ],
@@ -648,6 +669,7 @@
       ]
     },
     {
+      "email": "m.jahanika@parliament.na",
       "id": "person/dee879fd-9c89-4b69-8794-bdc44e04b94a",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_jahanika.jpg",
       "name": "Jahanika, Meundju Kamaizemi Paul",
@@ -674,8 +696,8 @@
       "gender": "male",
       "id": "person/38841ecd-4611-43e2-b514-133b8cb91aa0",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_jooste.jpg",
-      "name": "Jooste, Leon",
-      "sort_name": "Jooste, Leon",
+      "name": "Jooste Leon",
+      "sort_name": "Jooste Leon",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_jooste.jpg"
@@ -719,13 +741,36 @@
       ]
     },
     {
-      "id": "person/63c47e06-47c3-4d19-a2bd-54d405af5b77",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/z_kameeta.jpg",
-      "name": "Kameeta Zephania",
-      "sort_name": "Kameeta Zephania",
+      "id": "person/971c4e5b-e5ea-4b4c-8c4a-cfa8cc30cc29",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kafula.jpg",
+      "name": "Kafula Agnes Mpingana",
+      "sort_name": "Kafula Agnes Mpingana",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/z_kameeta.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kafula.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/971c4e5b-e5ea-4b4c-8c4a-cfa8cc30cc29",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/63c47e06-47c3-4d19-a2bd-54d405af5b77",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Kameeta.jpg",
+      "name": "Kameeta, Zephania",
+      "sort_name": "Kameeta, Zephania",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Kameeta.jpg"
         }
       ],
       "memberships": [
@@ -906,12 +951,12 @@
       "email": "l.kasingo@parliament.na",
       "gender": "female",
       "id": "person/797d612f-9c0c-4ab5-b46b-cd0b204968f6",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/128_hon__loide_kasingo.jpg",
-      "name": "Kasingo Loide",
-      "sort_name": "Kasingo Loide",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kasingo.jpg",
+      "name": "Kasingo, Loide",
+      "sort_name": "Kasingo, Loide",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/128_hon__loide_kasingo.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kasingo.jpg"
         }
       ],
       "memberships": [
@@ -1013,7 +1058,7 @@
           "person_id": "person/606fc701-3544-426e-b1c8-4a017cacb53e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "SWAPO",
+          "on_behalf_of_id": "RDP",
           "legislative_period_id": "term/6"
         }
       ],
@@ -1045,14 +1090,36 @@
       ]
     },
     {
-      "email": "akawana@op.gov.na",
-      "id": "person/9a8f744b-778f-45cc-9c27-a1a6b7aacf33",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/30_hon__albert_kawana.jpg",
-      "name": "Kawana Albert",
-      "sort_name": "Kawana Albert",
+      "id": "person/df4f9f08-14c7-46f2-a096-5e3e0e3e774d",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kavita.jpg",
+      "name": "Kavita, Priscilla",
+      "sort_name": "Kavita, Priscilla",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/30_hon__albert_kawana.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kavita.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/df4f9f08-14c7-46f2-a096-5e3e0e3e774d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9a8f744b-778f-45cc-9c27-a1a6b7aacf33",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Kawana.jpg",
+      "name": "Kawana, Albert",
+      "sort_name": "Kawana, Albert",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Kawana.jpg"
         }
       ],
       "memberships": [
@@ -1092,7 +1159,6 @@
       ]
     },
     {
-      "email": "elizabeth.ndeipanda@gov.mof.na",
       "gender": "female",
       "id": "person/a18e81ab-642a-4e55-bf5d-914bfaef74dc",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/370_honskamadhila.jpg",
@@ -1189,7 +1255,6 @@
       ]
     },
     {
-      "email": "s.makgone@parliament.na",
       "gender": "female",
       "id": "person/abd81398-1946-4550-bb6e-ce6cde342572",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/380_makgone.jpg",
@@ -1337,12 +1402,12 @@
       "email": "amuheua@mol.gov.na",
       "gender": "male",
       "id": "person/5027c654-b6b9-4baa-8a4d-ec1833bef991",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/381_honmuheua.jpg",
-      "name": "Muheua Alfeus Vehonga",
-      "sort_name": "Muheua Alfeus Vehonga",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_muheua.jpg",
+      "name": "Muheua, Alfeus Vehonga",
+      "sort_name": "Muheua, Alfeus Vehonga",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/381_honmuheua.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_muheua.jpg"
         }
       ],
       "memberships": [
@@ -1376,15 +1441,15 @@
       ]
     },
     {
-      "email": "shailonga@mfa.gov.na",
+      "email": "pmushelenga@mirco.gov.na",
       "gender": "male",
       "id": "person/86944861-c534-433b-91d0-3553eb9e25e0",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/135_hon._peya_mushelenga.jpg",
-      "name": "Mushelenga Peya",
-      "sort_name": "Mushelenga Peya",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Mushelenga.jpg",
+      "name": "Mushelenga, Peya",
+      "sort_name": "Mushelenga, Peya",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/135_hon._peya_mushelenga.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Mushelenga.jpg"
         }
       ],
       "memberships": [
@@ -1404,12 +1469,12 @@
       "email": "meyerm@mawf.gov.na",
       "gender": "male",
       "id": "person/e6c87650-70e0-4902-a85a-1d8483724b2c",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/44_hon._john_muturwa.jpg",
-      "name": "Mutorwa John",
-      "sort_name": "Mutorwa John",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_mutorwa.jpg",
+      "name": "Mutorwa, John",
+      "sort_name": "Mutorwa, John",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/44_hon._john_muturwa.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_mutorwa.jpg"
         }
       ],
       "memberships": [
@@ -1569,14 +1634,13 @@
       ]
     },
     {
-      "email": "b.ndjozeojo@parliament.na",
       "id": "person/da444f23-ef9a-46f7-bf2f-fdd84520c9a7",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_ndjoze_ojo.jpg",
-      "name": "Ndjoze-Ojo, Becky",
-      "sort_name": "Ndjoze-Ojo, Becky",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/Dr_Becky.JPG",
+      "name": "Ndjoze-Ojo Becky",
+      "sort_name": "Ndjoze-Ojo Becky",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_ndjoze_ojo.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/Dr_Becky.JPG"
         }
       ],
       "memberships": [
@@ -1663,7 +1727,6 @@
       ]
     },
     {
-      "email": "eamutenya@mwtc.gov.na",
       "gender": "male",
       "id": "person/a66ac221-e403-4134-95be-02c140fa9ed6",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/42_hon._erkki_nghimtina.jpg",
@@ -1711,12 +1774,11 @@
       ]
     },
     {
-      "email": "u.nujoma@parliament.na",
       "gender": "male",
       "id": "person/47c120b6-1529-49af-84e0-5c2a896af205",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/75_hon._utoni_nuyoma.jpg",
-      "name": "Nujoma Utoni",
-      "sort_name": "Nujoma Utoni",
+      "name": "Nujoma, Utoni",
+      "sort_name": "Nujoma, Utoni",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/75_hon._utoni_nuyoma.jpg"
@@ -2206,15 +2268,14 @@
       ]
     },
     {
-      "email": "bezuidenhout@mti.gov.na",
       "gender": "male",
       "id": "person/603cae5e-fc4c-4e55-9ccb-5c65cb640dc3",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/111_hon._tjekero_tweya_shifeta.jpg",
-      "name": "Tweya Tjekero",
-      "sort_name": "Tweya Tjekero",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Tweya.jpg",
+      "name": "Tweya, Tjekero",
+      "sort_name": "Tweya, Tjekero",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/111_hon._tjekero_tweya_shifeta.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Tweya.jpg"
         }
       ],
       "memberships": [
@@ -2301,14 +2362,13 @@
       ]
     },
     {
-      "email": "p.vanderwalt@parliament.na",
       "id": "person/0f7ed7f4-2708-4043-ac01-f1928583b069",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Van_der_Walt.jpg",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/390_van_der_walt.jpg",
       "name": "Van der Walt, Piet Jacobus",
       "sort_name": "Van der Walt, Piet Jacobus",
       "images": [
         {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Van_der_Walt.jpg"
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/390_van_der_walt.jpg"
         }
       ],
       "memberships": [
@@ -2349,7 +2409,6 @@
       ]
     },
     {
-      "email": "l.witbooi@parliament.na",
       "gender": "female",
       "id": "person/b36480a0-19d9-4a1d-90bb-ff5f375dabbc",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/391_w_lucia.jpg",
