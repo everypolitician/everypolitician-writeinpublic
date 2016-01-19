@@ -1,7 +1,7 @@
 {
-  "total": 363,
+  "total": 364,
   "page": 1,
-  "per_page": 363,
+  "per_page": 364,
   "has_more": false,
   "result": [
     {
@@ -1401,6 +1401,32 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "ocd-division/country:se/constituency:stockholms-kommun",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "camilla.hansen@riksdagen.se",
+      "gender": "female",
+      "id": "person/76779922-737e-4744-895e-3f173355f4a0",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0692076685824_max.jpg",
+      "name": "Camilla Hansén",
+      "sort_name": "Camilla Hansén",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0692076685824_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/76779922-737e-4744-895e-3f173355f4a0",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "MP",
+          "area_id": "ocd-division/country:se/constituency:örebro-län",
           "legislative_period_id": "term/2014"
         }
       ],
