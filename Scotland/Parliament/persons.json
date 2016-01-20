@@ -1,7 +1,7 @@
 {
-  "total": 134,
+  "total": 135,
   "page": 1,
-  "per_page": 134,
+  "per_page": 135,
   "has_more": false,
   "result": [
     {
@@ -2069,6 +2069,25 @@
       ]
     },
     {
+      "id": "person/109664e1-add7-4de6-878e-1cfe0af753ad",
+      "name": "Lesley Brennan",
+      "sort_name": "Lesley Brennan",
+      "memberships": [
+        {
+          "person_id": "person/109664e1-add7-4de6-878e-1cfe0af753ad",
+          "organization_id": "chamber/scottish_parliament",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "uk.org.publicwhip/cons/10721",
+          "start_date": "2016-01-13",
+          "legislative_period_id": "term/4"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/839fc014-ff44-4351-b8e8-c4dfa6bd3893",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/LewisMacdonaldMSP20110510.JPG",
@@ -2787,6 +2806,7 @@
           "role": "member",
           "on_behalf_of_id": "labour",
           "area_id": "uk.org.publicwhip/cons/10721",
+          "end_date": "2016-01-11",
           "legislative_period_id": "term/4"
         }
       ],
