@@ -1,7 +1,7 @@
 {
-  "total": 441,
+  "total": 443,
   "page": 1,
-  "per_page": 441,
+  "per_page": 443,
   "has_more": false,
   "result": [
     {
@@ -6527,6 +6527,7 @@
           "role": "member",
           "on_behalf_of_id": "2612",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "end_date": "2015-12-22",
           "legislative_period_id": "term/8"
         }
       ],
@@ -7697,6 +7698,7 @@
           "role": "member",
           "on_behalf_of_id": "2615",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "end_date": "2015-12-22",
           "legislative_period_id": "term/8"
         }
       ],
@@ -8267,6 +8269,16 @@
           "role": "member",
           "on_behalf_of_id": "Позафракційні",
           "area_id": "72",
+          "end_date": "2015-12-24",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/7f474e73-7c79-4fea-b312-7f7aef71a27c",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2619",
+          "area_id": "72",
+          "start_date": "2015-12-25",
           "legislative_period_id": "term/8"
         }
       ],
@@ -8678,6 +8690,31 @@
           "on_behalf_of_id": "Позафракційні",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2015-09-03",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4a17bd68-8553-4253-90ec-0f1eda4bd27a",
+      "image": "http://static.rada.gov.ua/site/no_photo.jpg",
+      "name": "Підберезняк Вадим Іванович",
+      "sort_name": "Підберезняк Вадим Іванович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/site/no_photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4a17bd68-8553-4253-90ec-0f1eda4bd27a",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2015-12-24",
           "legislative_period_id": "term/8"
         }
       ],
@@ -11298,6 +11335,31 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/239fceab-3e7c-489b-8f9b-e51117e1f906",
+      "image": "http://static.rada.gov.ua/dep_img8/rp26.jpg",
+      "name": "Юзькова Тетяна Леонідівна",
+      "sort_name": "Юзькова Тетяна Леонідівна",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/rp26.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/239fceab-3e7c-489b-8f9b-e51117e1f906",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2015-12-24",
           "legislative_period_id": "term/8"
         }
       ],
