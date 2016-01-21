@@ -1,7 +1,7 @@
 {
-  "total": 517,
+  "total": 518,
   "page": 1,
-  "per_page": 517,
+  "per_page": 518,
   "has_more": false,
   "result": [
     {
@@ -6128,6 +6128,31 @@
           "role": "member",
           "on_behalf_of_id": "PT",
           "area_id": "area/ce",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.joseaugustocurvo@camara.leg.br",
+      "id": "person/696201a3-7e4f-412b-bf3c-9b7fcc9f5f7c",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73831.jpg",
+      "name": "JOSÉ AUGUSTO CURVO",
+      "sort_name": "JOSÉ AUGUSTO CURVO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73831.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/696201a3-7e4f-412b-bf3c-9b7fcc9f5f7c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PDT",
+          "area_id": "area/mt",
           "legislative_period_id": "term/55"
         }
       ],
