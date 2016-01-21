@@ -318,8 +318,14 @@
       "email": "Andrew.Leslie@parl.gc.ca",
       "gender": "male",
       "id": "person/3197e371-3a85-4ced-8b6a-104c562baca8",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LeslieAndrew_Lib.jpg",
       "name": "Andrew Leslie",
       "sort_name": "Andrew Leslie",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LeslieAndrew_Lib.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/3197e371-3a85-4ced-8b6a-104c562baca8",
@@ -507,12 +513,18 @@
       "email": "Anthony.Housefather@parl.gc.ca",
       "gender": "male",
       "id": "person/e1e5cfc6-261e-4a6b-9593-957cb797496b",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HousefatherAnthony_Lib.jpg",
       "name": "Anthony Housefather",
       "sort_name": "Anthony Housefather",
       "contact_details": [
         {
           "type": "twitter",
           "value": "AHousefather"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HousefatherAnthony_Lib.jpg"
         }
       ],
       "memberships": [
@@ -558,12 +570,18 @@
     {
       "email": "Arif.Virani@parl.gc.ca",
       "id": "person/573adbb6-71ea-4fc6-9375-807dcd57e4de",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ViraniArif_Lib.jpg",
       "name": "Arif Virani",
       "sort_name": "Arif Virani",
       "contact_details": [
         {
           "type": "twitter",
           "value": "viraniarif"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ViraniArif_Lib.jpg"
         }
       ],
       "memberships": [
@@ -632,12 +650,18 @@
       "email": "Bardish.Chagger@parl.gc.ca",
       "gender": "female",
       "id": "person/dc374b77-57a7-4d98-afa2-12beca7cbed5",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ChaggerBardish_Lib.jpg",
       "name": "Bardish Chagger",
       "sort_name": "Bardish Chagger",
       "contact_details": [
         {
           "type": "twitter",
           "value": "BardishKW"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ChaggerBardish_Lib.jpg"
         }
       ],
       "memberships": [
@@ -770,7 +794,7 @@
       "email": "Bill.Blair@parl.gc.ca",
       "gender": "male",
       "id": "person/07b475ae-f247-4f26-9e92-a9160d2c68c4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bill_Blair.JPG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BlairBill_Lib.jpg",
       "name": "Bill Blair",
       "sort_name": "Bill Blair",
       "contact_details": [
@@ -781,7 +805,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bill_Blair.JPG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BlairBill_Lib.jpg"
         }
       ],
       "memberships": [
@@ -944,7 +968,7 @@
       "email": "Bob.Nault@parl.gc.ca",
       "gender": "male",
       "id": "person/fecb5767-d696-422b-831d-6b74237c16ac",
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/NaultR.JPG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/NaultRobert_Lib.jpg",
       "name": "Bob Nault",
       "sort_name": "Bob Nault",
       "contact_details": [
@@ -955,7 +979,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/37/NaultR.JPG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/NaultRobert_Lib.jpg"
         }
       ],
       "memberships": [
@@ -1116,6 +1140,7 @@
     },
     {
       "email": "Brenda.Shanahan@parl.gc.ca",
+      "gender": "female",
       "id": "person/77c10a8b-76b9-486f-b995-96a82a494223",
       "name": "Brenda Shanahan",
       "sort_name": "Brenda Shanahan",
@@ -1225,12 +1250,18 @@
     {
       "email": "Bryan.May@parl.gc.ca",
       "id": "person/f0195709-4df9-4af2-8e7c-27e8640f5234",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MayBryan_Lib.jpg",
       "name": "Bryan May",
       "sort_name": "Bryan May",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "_BryanMay"
+          "value": "Bryanmay17"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MayBryan_Lib.jpg"
         }
       ],
       "memberships": [
@@ -1447,12 +1478,18 @@
       "email": "Celina.Caesar-Chavannes@parl.gc.ca",
       "gender": "female",
       "id": "person/fd2a5cb0-2a60-42fd-80c2-7bd68466bac1",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/CaesarChavannesCelina_Lib.jpg",
       "name": "Celina Caesar-Chavannes",
       "sort_name": "Celina Caesar-Chavannes",
       "contact_details": [
         {
           "type": "twitter",
           "value": "celinachavannes"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/CaesarChavannesCelina_Lib.jpg"
         }
       ],
       "memberships": [
@@ -1555,12 +1592,18 @@
     {
       "email": "Cheryl.Hardcastle@parl.gc.ca",
       "id": "person/ecf2e24c-27a4-41f0-aad1-8552a8ce7410",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HardcastleCheryl_NDP.jpg",
       "name": "Cheryl Hardcastle",
       "sort_name": "Cheryl Hardcastle",
       "contact_details": [
         {
           "type": "twitter",
           "value": "CHardcastleNDP"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HardcastleCheryl_NDP.jpg"
         }
       ],
       "memberships": [
@@ -1717,12 +1760,18 @@
       "email": "Colin.Fraser@parl.gc.ca",
       "gender": "male",
       "id": "person/1df09c90-3cfc-4033-94de-f0bb85cee9b5",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FraserColin_Lib.jpg",
       "name": "Colin Fraser",
       "sort_name": "Colin Fraser",
       "contact_details": [
         {
           "type": "twitter",
           "value": "colinjmfraser"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FraserColin_Lib.jpg"
         }
       ],
       "memberships": [
@@ -2082,12 +2131,18 @@
       "email": "David.Lametti@parl.gc.ca",
       "gender": "male",
       "id": "person/6d63c4d4-61cb-4ae3-9e96-03432fc2c24e",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LamettiDavid_Lib.jpg",
       "name": "David Lametti",
       "sort_name": "David Lametti",
       "contact_details": [
         {
           "type": "twitter",
           "value": "DavidLametti"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LamettiDavid_Lib.jpg"
         }
       ],
       "memberships": [
@@ -2249,12 +2304,18 @@
     {
       "email": "Deb.Schulte@parl.gc.ca",
       "id": "person/a48e22ec-ed25-49fb-8840-5536ebccd097",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SchulteDeb_Lib.jpg",
       "name": "Deb Schulte",
       "sort_name": "Deb Schulte",
       "contact_details": [
         {
           "type": "twitter",
           "value": "_DebSchulte"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SchulteDeb_Lib.jpg"
         }
       ],
       "memberships": [
@@ -2358,7 +2419,7 @@
       "email": "Denis.Paradis@parl.gc.ca",
       "gender": "male",
       "id": "person/e0560c11-7bc4-4147-a87d-6acb615bf996",
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/38/Paradd.JPG",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ParadisDenis_Lib.jpg",
       "name": "Denis Paradis",
       "sort_name": "Denis Paradis",
       "contact_details": [
@@ -2369,7 +2430,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/38/Paradd.JPG"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ParadisDenis_Lib.jpg"
         }
       ],
       "memberships": [
@@ -2519,12 +2580,18 @@
     {
       "email": "Don.Rusnak@parl.gc.ca",
       "id": "person/4b7f08d3-6ede-4262-b111-ddfe46d3055e",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RusnakDon_Lib.jpg",
       "name": "Don Rusnak",
       "sort_name": "Don Rusnak",
       "contact_details": [
         {
           "type": "twitter",
           "value": "DonRusnakMP"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RusnakDon_Lib.jpg"
         }
       ],
       "memberships": [
@@ -2541,12 +2608,18 @@
     {
       "email": "Doug.Eyolfson@parl.gc.ca",
       "id": "person/c47ec408-dd39-4a4c-8d50-b6ce6b08c682",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/EyolfsonDoug_Lib.jpg",
       "name": "Doug Eyolfson",
       "sort_name": "Doug Eyolfson",
       "contact_details": [
         {
           "type": "twitter",
           "value": "DougEyolfson"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/EyolfsonDoug_Lib.jpg"
         }
       ],
       "memberships": [
@@ -2737,12 +2810,18 @@
     {
       "email": "Eva.Nassif@parl.gc.ca",
       "id": "person/3e97f38e-4966-4a2a-bdd6-62cee1d03d75",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/NassifEva_Lib.jpg",
       "name": "Eva Nassif",
       "sort_name": "Eva Nassif",
       "contact_details": [
         {
           "type": "twitter",
           "value": "EvaNassifVimy"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/NassifEva_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3056,12 +3135,18 @@
       "email": "Garnett.Genuis@parl.gc.ca",
       "gender": "male",
       "id": "person/2c769310-2c20-40ab-98a4-b2b267bc0921",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GenuisGarnett_CPC.jpg",
       "name": "Garnett Genuis",
       "sort_name": "Garnett Genuis",
       "contact_details": [
         {
           "type": "twitter",
           "value": "GarnettGenuis"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GenuisGarnett_CPC.jpg"
         }
       ],
       "memberships": [
@@ -3079,12 +3164,18 @@
       "email": "Gary.Anand@parl.gc.ca",
       "gender": "male",
       "id": "person/1997e56a-830c-4e61-94ca-3aac5d71f42f",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AnandasangareeGary_Lib.jpg",
       "name": "Gary Anandasangaree",
       "sort_name": "Gary Anandasangaree",
       "contact_details": [
         {
           "type": "twitter",
           "value": "gary_srp"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AnandasangareeGary_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3268,12 +3359,18 @@
     {
       "email": "Gord.Johns@parl.gc.ca",
       "id": "person/1413690d-8d99-4861-b4f6-add31f3767a9",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/JohnsGord_NDP.jpg",
       "name": "Gord Johns",
       "sort_name": "Gord Johns",
       "contact_details": [
         {
           "type": "twitter",
           "value": "GordJohns"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/JohnsGord_NDP.jpg"
         }
       ],
       "memberships": [
@@ -3291,12 +3388,18 @@
       "email": "Greg.Fergus@parl.gc.ca",
       "gender": "male",
       "id": "person/07e0e4c7-d9bb-48c8-a053-39c4b8c26421",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FergusGreg_Lib.jpg",
       "name": "Greg Fergus",
       "sort_name": "Greg Fergus",
       "contact_details": [
         {
           "type": "twitter",
           "value": "GregFergus"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FergusGreg_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3420,7 +3523,7 @@
       "email": "Harjit.Sajjan@parl.gc.ca",
       "gender": "male",
       "id": "person/b6b52143-5eae-4b31-a39d-bade3bb7bce8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Harjit_Sajjan.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SajjanHarjitS_Lib.jpg",
       "name": "Harjit Sajjan",
       "sort_name": "Harjit Sajjan",
       "contact_details": [
@@ -3431,7 +3534,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Harjit_Sajjan.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SajjanHarjitS_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3562,12 +3665,18 @@
       "email": "Iqra.Khalid@parl.gc.ca",
       "gender": "female",
       "id": "person/f7f3d7c0-c861-407b-995e-c9518b65f421",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KhalidIqra_Lib.jpg",
       "name": "Iqra Khalid",
       "sort_name": "Iqra Khalid",
       "contact_details": [
         {
           "type": "twitter",
           "value": "iamIqraKhalid"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KhalidIqra_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3672,12 +3781,18 @@
       "email": "James.Maloney@parl.gc.ca",
       "gender": "male",
       "id": "person/1c409af8-bf80-4df2-a4aa-f848d9e0b444",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MaloneyJames_Lib.jpg",
       "name": "James Maloney",
       "sort_name": "James Maloney",
       "contact_details": [
         {
           "type": "twitter",
           "value": "j_maloney"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MaloneyJames_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3694,12 +3809,18 @@
     {
       "email": "Jamie.Schmale@parl.gc.ca",
       "id": "person/5d9154f9-ab90-486c-bf18-2b34d9c01b7b",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SchmaleJamie_CPC.jpg",
       "name": "Jamie Schmale",
       "sort_name": "Jamie Schmale",
       "contact_details": [
         {
           "type": "twitter",
           "value": "Jamie_Schmale"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SchmaleJamie_CPC.jpg"
         }
       ],
       "memberships": [
@@ -3717,12 +3838,18 @@
       "email": "Jane.Philpott@parl.gc.ca",
       "gender": "female",
       "id": "person/89123085-90bc-4bf3-8940-e18edbba0aae",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/PhilpottJane_Lib.jpg",
       "name": "Jane Philpott",
       "sort_name": "Jane Philpott",
       "contact_details": [
         {
           "type": "twitter",
           "value": "janephilpott"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/PhilpottJane_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3882,12 +4009,18 @@
     {
       "email": "Jennifer.OConnell@parl.gc.ca",
       "id": "person/5ff8d817-97ca-4c20-a3c2-9e5e6c00ff6a",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/OConnellJennifer_Lib.jpg",
       "name": "Jennifer O'Connell",
       "sort_name": "Jennifer O'Connell",
       "contact_details": [
         {
           "type": "twitter",
           "value": "jenoconnell_"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/OConnellJennifer_Lib.jpg"
         }
       ],
       "memberships": [
@@ -3905,12 +4038,18 @@
       "email": "Jenny.Kwan@parl.gc.ca",
       "gender": "female",
       "id": "person/2441591a-0296-4f94-9d59-f6e041eb50af",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KwanJenny_NDP.jpg",
       "name": "Jenny Kwan",
       "sort_name": "Jenny Kwan",
       "contact_details": [
         {
           "type": "twitter",
           "value": "JennyKwanBC"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KwanJenny_NDP.jpg"
         }
       ],
       "memberships": [
@@ -4063,12 +4202,18 @@
     {
       "email": "John.Aldag@parl.gc.ca",
       "id": "person/d4709a67-be0d-4943-8bd8-2f1ebdfac369",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AldagJohn_Lib.jpg",
       "name": "John Aldag",
       "sort_name": "John Aldag",
       "contact_details": [
         {
           "type": "twitter",
           "value": "jwaldag"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AldagJohn_Lib.jpg"
         }
       ],
       "memberships": [
@@ -4201,12 +4346,18 @@
       "email": "John.Nater@parl.gc.ca",
       "gender": "male",
       "id": "person/bcfc5e84-9c30-484c-96f5-9adb1f15c4af",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/NaterJohn_CPC.jpg",
       "name": "John Nater",
       "sort_name": "John Nater",
       "contact_details": [
         {
           "type": "twitter",
           "value": "JLNater"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/NaterJohn_CPC.jpg"
         }
       ],
       "memberships": [
@@ -4223,12 +4374,18 @@
     {
       "email": "John.Oliver@parl.gc.ca",
       "id": "person/7572e494-a27e-47eb-8177-77d688c58df3",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/OliverJohn_Lib.jpg",
       "name": "John Oliver",
       "sort_name": "John Oliver",
       "contact_details": [
         {
           "type": "twitter",
           "value": "voteoliver"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/OliverJohn_Lib.jpg"
         }
       ],
       "memberships": [
@@ -4525,12 +4682,18 @@
       "email": "Karen.Ludwig@parl.gc.ca",
       "gender": "female",
       "id": "person/23e0bc51-218e-4ad9-955b-638d0c53a069",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LudwigKaren_Lib.jpg",
       "name": "Karen Ludwig",
       "sort_name": "Karen Ludwig",
       "contact_details": [
         {
           "type": "twitter",
           "value": "KarenLudwigNB"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LudwigKaren_Lib.jpg"
         }
       ],
       "memberships": [
@@ -4599,12 +4762,18 @@
       "email": "Karina.Gould@parl.gc.ca",
       "gender": "female",
       "id": "person/d2384df6-1918-47be-b272-9d2ba4ed28f0",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GouldKarina_Lib.jpg",
       "name": "Karina Gould",
       "sort_name": "Karina Gould",
       "contact_details": [
         {
           "type": "twitter",
           "value": "karinagould"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GouldKarina_Lib.jpg"
         }
       ],
       "memberships": [
@@ -4970,12 +5139,18 @@
     {
       "email": "Kim.Rudd@parl.gc.ca",
       "id": "person/8bde2a14-fe49-47b1-9f30-3bc4465ce3ef",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RuddKim_Lib.jpg",
       "name": "Kim Rudd",
       "sort_name": "Kim Rudd",
       "contact_details": [
         {
           "type": "twitter",
           "value": "RuddKim"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RuddKim_Lib.jpg"
         }
       ],
       "memberships": [
@@ -5050,7 +5225,7 @@
       "email": "Larry.Bagnell@parl.gc.ca",
       "gender": "male",
       "id": "person/c049fe59-efac-4fe6-bcb3-fd0bd2381c9b",
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BagnellLarry_LIB.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BagnellLarry_Lib.jpg",
       "name": "Larry Bagnell",
       "sort_name": "Larry Bagnell",
       "contact_details": [
@@ -5061,7 +5236,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BagnellLarry_LIB.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BagnellLarry_Lib.jpg"
         }
       ],
       "memberships": [
@@ -5246,7 +5421,7 @@
       "email": "Linda.Lapointe@parl.gc.ca",
       "gender": "female",
       "id": "person/b6c7b83b-6bf8-4fb0-949c-54bf7ff7929f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/LapointeLinda.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LapointeLinda_Lib.jpg",
       "name": "Linda Lapointe",
       "sort_name": "Linda Lapointe",
       "contact_details": [
@@ -5257,7 +5432,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/LapointeLinda.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LapointeLinda_Lib.jpg"
         }
       ],
       "memberships": [
@@ -5303,12 +5478,18 @@
     {
       "email": "Lloyd.Longfield@parl.gc.ca",
       "id": "person/bbc27547-a86c-41c6-b11b-dca9e1480eb4",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LongfieldLloyd_Lib.jpg",
       "name": "Lloyd Longfield",
       "sort_name": "Lloyd Longfield",
       "contact_details": [
         {
           "type": "twitter",
           "value": "LloydLongfield"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LongfieldLloyd_Lib.jpg"
         }
       ],
       "memberships": [
@@ -5606,8 +5787,14 @@
       "email": "Marilene.Gill@parl.gc.ca",
       "gender": "female",
       "id": "person/f92bde9a-2d7d-4360-93af-9f54a8759068",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GillMarilène_BQ.jpg",
       "name": "Marilène Gill",
       "sort_name": "Marilène Gill",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GillMarilène_BQ.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f92bde9a-2d7d-4360-93af-9f54a8759068",
@@ -5626,12 +5813,18 @@
       "email": "Mario.Beaulieu@parl.gc.ca",
       "gender": "male",
       "id": "person/042c6bb2-8058-4e2a-aaf2-16a82dd9e436",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BeaulieuMario_BQ.jpg",
       "name": "Mario Beaulieu",
       "sort_name": "Mario Beaulieu",
       "contact_details": [
         {
           "type": "twitter",
           "value": "Mario_Beaulieu"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BeaulieuMario_BQ.jpg"
         }
       ],
       "memberships": [
@@ -5952,7 +6145,7 @@
       "email": "Matt.Jeneroux@parl.gc.ca",
       "gender": "male",
       "id": "person/46f7eb18-aebc-4a5d-a94a-958029eb108b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Matt_Jeneroux.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/JenerouxMatt_CPC.jpg",
       "name": "Matt Jeneroux",
       "sort_name": "Matt Jeneroux",
       "contact_details": [
@@ -5963,7 +6156,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Matt_Jeneroux.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/JenerouxMatt_CPC.jpg"
         }
       ],
       "memberships": [
@@ -6067,12 +6260,18 @@
     {
       "email": "Mel.Arnold@parl.gc.ca",
       "id": "person/daa2a687-37a2-487c-8552-14505d082bbd",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ArnoldMel_CPC.jpg",
       "name": "Mel Arnold",
       "sort_name": "Mel Arnold",
       "contact_details": [
         {
           "type": "twitter",
           "value": "MelArnold2015"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ArnoldMel_CPC.jpg"
         }
       ],
       "memberships": [
@@ -6147,12 +6346,18 @@
     {
       "email": "Michael.Levitt@parl.gc.ca",
       "id": "person/668b974c-b074-4dda-836d-414572665d3f",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LevittMichael_Lib.jpg",
       "name": "Michael Levitt",
       "sort_name": "Michael Levitt",
       "contact_details": [
         {
           "type": "twitter",
           "value": "LevittMichael"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LevittMichael_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6170,12 +6375,18 @@
       "email": "Michael.McLeod@parl.gc.ca",
       "gender": "male",
       "id": "person/65a4ef51-dd6e-4edb-b576-8bad6767a859",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/McLeodMichael_Lib.jpg",
       "name": "Michael McLeod",
       "sort_name": "Michael McLeod",
       "contact_details": [
         {
           "type": "twitter",
           "value": "MMcLeodNWT"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/McLeodMichael_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6193,12 +6404,18 @@
       "email": "Michel.Boudrias@parl.gc.ca",
       "gender": "male",
       "id": "person/a6253088-efc1-4391-ac52-afd27cb19918",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoudriasMichel_BQ.jpg",
       "name": "Michel Boudrias",
       "sort_name": "Michel Boudrias",
       "contact_details": [
         {
           "type": "twitter",
           "value": "boudrias2015"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoudriasMichel_BQ.jpg"
         }
       ],
       "memberships": [
@@ -6490,12 +6707,18 @@
     {
       "email": "Neil.Ellis@parl.gc.ca",
       "id": "person/4b14234e-98d1-4097-a49c-914911d32200",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/EllisNeil_Lib.jpg",
       "name": "Neil Ellis",
       "sort_name": "Neil Ellis",
       "contact_details": [
         {
           "type": "twitter",
           "value": "NeilREllis"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/EllisNeil_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6540,12 +6763,18 @@
     {
       "email": "Nicola.DiIorio@parl.gc.ca",
       "id": "person/bbacc99c-6674-419a-9abd-1d8aa5e0742c",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DiIorioNicola_Lib.jpg",
       "name": "Nicola Di Iorio",
       "sort_name": "Nicola Di Iorio",
       "contact_details": [
         {
           "type": "twitter",
           "value": "DiIorioLiberal"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DiIorioNicola_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6592,7 +6821,7 @@
       "email": "Omar.Alghabra@parl.gc.ca",
       "gender": "male",
       "id": "person/b2f66ed9-9e23-4c4f-9dbd-0d26bdcc3d3c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Omar_alghabra_photo.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AlghabraOmar_Lib.jpg",
       "name": "Omar Alghabra",
       "sort_name": "Omar Alghabra",
       "contact_details": [
@@ -6603,7 +6832,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Omar_alghabra_photo.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AlghabraOmar_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6649,12 +6878,18 @@
     {
       "email": "Pam.Damoff@parl.gc.ca",
       "id": "person/957ac7cf-dbf0-4873-b937-419b3b6b3787",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DamoffPam_Lib.jpg",
       "name": "Pam Damoff",
       "sort_name": "Pam Damoff",
       "contact_details": [
         {
           "type": "twitter",
           "value": "PamDamoff"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DamoffPam_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6672,12 +6907,18 @@
       "email": "Pam.Goldsmith-Jones@parl.gc.ca",
       "gender": "female",
       "id": "person/c63802f9-d464-411d-a385-971c2a005408",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GoldsmithJonesPamela_Lib.jpg",
       "name": "Pamela Goldsmith-Jones",
       "sort_name": "Pamela Goldsmith-Jones",
       "contact_details": [
         {
           "type": "twitter",
           "value": "pgoldsmithjones"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/GoldsmithJonesPamela_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6695,12 +6936,18 @@
       "email": "Pat.Finnigan@parl.gc.ca",
       "gender": "male",
       "id": "person/bfa3d80b-4f94-4405-9560-ec260c8f588e",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FinniganPat_Lib.jpg",
       "name": "Pat Finnigan",
       "sort_name": "Pat Finnigan",
       "contact_details": [
         {
           "type": "twitter",
           "value": "PatriceFinnigan"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FinniganPat_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6717,12 +6964,18 @@
     {
       "email": "Pat.Kelly@parl.gc.ca",
       "id": "person/73fa1a96-868c-4a86-b7ab-08f49d06e7bb",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KellyPat_CPC.jpg",
       "name": "Pat Kelly",
       "sort_name": "Pat Kelly",
       "contact_details": [
         {
           "type": "twitter",
           "value": "votepatkelly"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KellyPat_CPC.jpg"
         }
       ],
       "memberships": [
@@ -6740,8 +6993,14 @@
       "email": "Patty.Hajdu@parl.gc.ca",
       "gender": "female",
       "id": "person/2a8ff148-50eb-490c-a67a-242c43dcad13",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HajduPatty_Lib.jpg",
       "name": "Patty Hajdu",
       "sort_name": "Patty Hajdu",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HajduPatty_Lib.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2a8ff148-50eb-490c-a67a-242c43dcad13",
@@ -6782,12 +7041,18 @@
       "email": "Peter.Fonseca@parl.gc.ca",
       "gender": "male",
       "id": "person/80a4eb8a-6095-4c79-bfaa-16082a804a2d",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FonsecaPeter_Lib.jpg",
       "name": "Peter Fonseca",
       "sort_name": "Peter Fonseca",
       "contact_details": [
         {
           "type": "twitter",
           "value": "votefonseca"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FonsecaPeter_Lib.jpg"
         }
       ],
       "memberships": [
@@ -6805,12 +7070,18 @@
       "email": "Peter.Fragiskatos@parl.gc.ca",
       "gender": "male",
       "id": "person/66ccd537-1f51-4e0b-8040-38d65fe0a916",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FragiskatosPeter_Lib.jpg",
       "name": "Peter Fragiskatos",
       "sort_name": "Peter Fragiskatos",
       "contact_details": [
         {
           "type": "twitter",
           "value": "pfragiskatos"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FragiskatosPeter_Lib.jpg"
         }
       ],
       "memberships": [
@@ -7106,8 +7377,14 @@
     {
       "email": "Rachael.Harder@parl.gc.ca",
       "id": "person/4d83e238-e011-496e-b8dc-a6a25997426b",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HarderRachael_CPC.jpg",
       "name": "Rachael Harder",
       "sort_name": "Rachael Harder",
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/HarderRachael_CPC.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/4d83e238-e011-496e-b8dc-a6a25997426b",
@@ -7335,12 +7612,18 @@
       "email": "Randy.Boissonnault@parl.gc.ca",
       "gender": "male",
       "id": "person/49f15f9a-24aa-49d0-861a-22d2c6595a60",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoissonnaultRandy_Lib.jpg",
       "name": "Randy Boissonnault",
       "sort_name": "Randy Boissonnault",
       "contact_details": [
         {
           "type": "twitter",
           "value": "R_Boissonnault"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoissonnaultRandy_Lib.jpg"
         }
       ],
       "memberships": [
@@ -7413,12 +7696,18 @@
       "email": "Rheal.Fortin@parl.gc.ca",
       "gender": "male",
       "id": "person/cbf67124-9c28-4698-b4e6-970b48cee90c",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FortinRhéal_BQ.jpg",
       "name": "Rhéal Fortin",
       "sort_name": "Rhéal Fortin",
       "contact_details": [
         {
           "type": "twitter",
           "value": "reloif"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/FortinRhéal_BQ.jpg"
         }
       ],
       "memberships": [
@@ -7436,12 +7725,18 @@
       "email": "Richard.Cannings@parl.gc.ca",
       "gender": "male",
       "id": "person/6420ce4b-615c-4639-b1d2-4baa0793a394",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/CanningsRichard_NDP.jpg",
       "name": "Richard Cannings",
       "sort_name": "Richard Cannings",
       "contact_details": [
         {
           "type": "twitter",
           "value": "CanningsNDP"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/CanningsRichard_NDP.jpg"
         }
       ],
       "memberships": [
@@ -7599,12 +7894,18 @@
     {
       "email": "robert.falcon@parl.gc.ca",
       "id": "person/ddaadf04-910b-40ed-981c-234fab9a3e4b",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/OuelletteRobertFalcon_Lib.jpg",
       "name": "Robert-Falcon Ouellette",
       "sort_name": "Robert-Falcon Ouellette",
       "contact_details": [
         {
           "type": "twitter",
           "value": "DrRobbieO"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/OuelletteRobertFalcon_Lib.jpg"
         }
       ],
       "memberships": [
@@ -7765,12 +8066,18 @@
     {
       "email": "Ruby.Sahota@parl.gc.ca",
       "id": "person/9f42aedd-7abb-4883-a260-e8cfa4e167e8",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SahotaRuby_Lib.jpg",
       "name": "Ruby Sahota",
       "sort_name": "Ruby Sahota",
       "contact_details": [
         {
           "type": "twitter",
           "value": "MPRubySahota"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/SahotaRuby_Lib.jpg"
         }
       ],
       "memberships": [
@@ -7815,6 +8122,7 @@
     },
     {
       "email": "Remi.Masse@parl.gc.ca",
+      "gender": "male",
       "id": "person/79040cec-bdec-4a4e-817c-2b5b9d90e429",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MasséRémi_Lib.jpg",
       "name": "Rémi Massé",
@@ -7844,12 +8152,18 @@
     {
       "email": "Salma.Zahid@parl.gc.ca",
       "id": "person/18565559-4fcc-4fd8-b42c-b9b99f47edae",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ZahidSalma_Lib.jpg",
       "name": "Salma Zahid",
       "sort_name": "Salma Zahid",
       "contact_details": [
         {
           "type": "twitter",
           "value": "SalmaZahid15"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/ZahidSalma_Lib.jpg"
         }
       ],
       "memberships": [
@@ -8128,6 +8442,7 @@
     },
     {
       "email": "Sheila.Malcolmson@parl.gc.ca",
+      "gender": "female",
       "id": "person/730f0060-81aa-45a1-b2ac-997a78d49b8a",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MalcolmsonSheila_NDP.jpg",
       "name": "Sheila Malcolmson",
@@ -8319,7 +8634,7 @@
       "email": "Steven.MacKinnon@parl.gc.ca",
       "gender": "male",
       "id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Steven_MacKinnon.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MacKinnonSteven_Lib.jpg",
       "name": "Steve MacKinnon",
       "sort_name": "Steve MacKinnon",
       "contact_details": [
@@ -8330,7 +8645,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Steven_MacKinnon.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/MacKinnonSteven_Lib.jpg"
         }
       ],
       "memberships": [
@@ -8406,12 +8721,18 @@
       "email": "Stephane.Lauzon@parl.gc.ca",
       "gender": "male",
       "id": "person/fd602c23-a9f7-4d01-8c16-2ebefd00a20a",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LauzonStéphane_Lib.jpg",
       "name": "Stéphane Lauzon",
       "sort_name": "Stéphane Lauzon",
       "contact_details": [
         {
           "type": "twitter",
           "value": "stephanelauzon5"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/LauzonStéphane_Lib.jpg"
         }
       ],
       "memberships": [
@@ -8487,7 +8808,7 @@
       "email": "Sylvie.Boucher@parl.gc.ca",
       "gender": "female",
       "id": "person/32f40ef3-f3a6-4d52-b78a-7eaf1fdb3fc1",
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BoucherSylvie_CPC.jpg",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoucherSylvie_CPC.jpg",
       "name": "Sylvie Boucher",
       "sort_name": "Sylvie Boucher",
       "contact_details": [
@@ -8498,7 +8819,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/40/BoucherSylvie_CPC.jpg"
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoucherSylvie_CPC.jpg"
         }
       ],
       "memberships": [
@@ -8675,12 +8996,18 @@
     {
       "email": "Todd.Doherty@parl.gc.ca",
       "id": "person/ceda6509-ed5c-4c40-a8d4-bf01107b3f23",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DohertyTodd_CPC.jpg",
       "name": "Todd Doherty",
       "sort_name": "Todd Doherty",
       "contact_details": [
         {
           "type": "twitter",
           "value": "ToddDohertyMP"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DohertyTodd_CPC.jpg"
         }
       ],
       "memberships": [
@@ -8697,12 +9024,18 @@
     {
       "email": "Tom.Kmiec@parl.gc.ca",
       "id": "person/d63c37ea-791e-4845-9808-2ab4e617a285",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KmiecTom_CPC.jpg",
       "name": "Tom Kmiec",
       "sort_name": "Tom Kmiec",
       "contact_details": [
         {
           "type": "twitter",
           "value": "tomaszkmiec"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/KmiecTom_CPC.jpg"
         }
       ],
       "memberships": [
@@ -8774,12 +9107,18 @@
     {
       "email": "Tracey.Ramsey@parl.gc.ca",
       "id": "person/7566447b-bed1-47bb-ac4c-1b770b91a0c5",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RamseyTracey_NDP.jpg",
       "name": "Tracey Ramsey",
       "sort_name": "Tracey Ramsey",
       "contact_details": [
         {
           "type": "twitter",
           "value": "traceyram"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RamseyTracey_NDP.jpg"
         }
       ],
       "memberships": [
@@ -8975,12 +9314,18 @@
     {
       "email": "Yves.Robillard@parl.gc.ca",
       "id": "person/d66db042-8065-40ad-a0ae-cc857aebccfa",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RobillardYves_Lib.jpg",
       "name": "Yves Robillard",
       "sort_name": "Yves Robillard",
       "contact_details": [
         {
           "type": "twitter",
           "value": "YRobillardPLC"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RobillardYves_Lib.jpg"
         }
       ],
       "memberships": [
@@ -9026,12 +9371,18 @@
     {
       "email": "Ziad.Aboultaif@parl.gc.ca",
       "id": "person/0a0c27f8-3e24-4553-9e53-1f09d046e974",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AboultaifZiad_CPC.jpg",
       "name": "Ziad Aboultaif",
       "sort_name": "Ziad Aboultaif",
       "contact_details": [
         {
           "type": "twitter",
           "value": "ziad4manning"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/AboultaifZiad_CPC.jpg"
         }
       ],
       "memberships": [
