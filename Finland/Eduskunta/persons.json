@@ -1,7 +1,7 @@
 {
-  "total": 209,
+  "total": 202,
   "page": 1,
-  "per_page": 209,
+  "per_page": 202,
   "has_more": false,
   "result": [
     {
@@ -22,8 +22,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -54,8 +54,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
@@ -89,9 +89,27 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
+      ]
+    },
+    {
+      "id": "person/9df85afa-9e22-4ab1-a4fe-72f10338d243",
+      "name": "Anders Adlercreutz",
+      "sort_name": "Anders Adlercreutz",
+      "memberships": [
+        {
+          "person_id": "person/9df85afa-9e22-4ab1-a4fe-72f10338d243",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "r",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -112,8 +130,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -138,8 +156,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "r",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -147,25 +165,17 @@
       ]
     },
     {
-      "email": "anne.holmlund@eduskunta.fi",
-      "gender": "female",
-      "id": "person/7767f71a-d9f6-4f0e-9602-bcce0c450049",
-      "image": "http://kansanmuisti.fi/media/images/members/holmlund-anne.jpg",
-      "name": "Anne Holmlund",
-      "sort_name": "Holmlund Anne",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/holmlund-anne.jpg"
-        }
-      ],
+      "id": "person/c763afe6-eb22-4d99-9a0c-1e7ab07b4a4b",
+      "name": "Anne Berner",
+      "sort_name": "Anne Berner",
       "memberships": [
         {
-          "person_id": "person/7767f71a-d9f6-4f0e-9602-bcce0c450049",
+          "person_id": "person/c763afe6-eb22-4d99-9a0c-1e7ab07b4a4b",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -190,8 +200,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -216,8 +226,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -242,8 +252,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -268,47 +278,12 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/ae338943-c336-409c-9cf8-fb6ed13c74f6",
-      "image": "http://kansanmuisti.fi/media/images/members/sinnemaki-anni.jpg",
-      "name": "Anni Sinnemäki",
-      "sort_name": "Sinnemäki Anni",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "annisinnemaki"
-        }
-      ],
-      "links": [
-        {
-          "url": "annisinnemaki",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/sinnemaki-anni.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ae338943-c336-409c-9cf8-fb6ed13c74f6",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vihr",
-          "area_id": "area/helsingin",
-          "end_date": "2015-01-13",
-          "legislative_period_id": "term/36"
-        }
       ]
     },
     {
@@ -329,8 +304,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -355,8 +330,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -364,25 +339,53 @@
       ]
     },
     {
-      "email": "anssi.joutsenlahti@eduskunta.fi",
-      "gender": "male",
-      "id": "person/256acfb8-5e10-49b2-857a-bcb1ed38b95c",
-      "image": "http://kansanmuisti.fi/media/images/members/joutsenlahti-anssi.jpg",
-      "name": "Anssi Joutsenlahti",
-      "sort_name": "Joutsenlahti Anssi",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/joutsenlahti-anssi.jpg"
-        }
-      ],
+      "id": "person/78ac1cef-0d24-4bba-b1b3-1edcf58d38bf",
+      "name": "Antero Laukkanen",
+      "sort_name": "Antero Laukkanen",
       "memberships": [
         {
-          "person_id": "person/256acfb8-5e10-49b2-857a-bcb1ed38b95c",
+          "person_id": "person/78ac1cef-0d24-4bba-b1b3-1edcf58d38bf",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kd",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5117c548-48c4-416d-a29a-1cb98f0767cf",
+      "name": "Antero Vartia",
+      "sort_name": "Antero Vartia",
+      "memberships": [
+        {
+          "person_id": "person/5117c548-48c4-416d-a29a-1cb98f0767cf",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6b50aa57-7999-4446-a7f7-baf3c1aed886",
+      "name": "Antti Häkkänen",
+      "sort_name": "Antti Häkkänen",
+      "memberships": [
+        {
+          "person_id": "person/6b50aa57-7999-4446-a7f7-baf3c1aed886",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kok",
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -407,8 +410,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/da99ceea-45c7-4514-a62e-ed9722b0a42e",
+      "name": "Antti Kurvinen",
+      "sort_name": "Antti Kurvinen",
+      "memberships": [
+        {
+          "person_id": "person/da99ceea-45c7-4514-a62e-ed9722b0a42e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -433,8 +454,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -459,8 +480,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -468,26 +489,17 @@
       ]
     },
     {
-      "email": "anu.urpalainen@eduskunta.fi",
-      "gender": "female",
-      "id": "person/ae138a4c-6c06-47f8-8add-b5a5d3501e56",
-      "image": "http://kansanmuisti.fi/media/images/members/urpalainen-anu.jpg",
-      "name": "Anu Urpalainen",
-      "sort_name": "Urpalainen Anu",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/urpalainen-anu.jpg"
-        }
-      ],
+      "id": "person/dbac1ee3-23d0-470f-936b-a46518826e99",
+      "name": "Antti Rinne",
+      "sort_name": "Antti Rinne",
       "memberships": [
         {
-          "person_id": "person/ae138a4c-6c06-47f8-8add-b5a5d3501e56",
+          "person_id": "person/dbac1ee3-23d0-470f-936b-a46518826e99",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/kymen",
-          "start_date": "2012-11-21",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "sd",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -512,8 +524,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/pohjois-karjalan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -538,8 +550,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -564,8 +576,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -590,8 +602,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -616,8 +628,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -642,34 +654,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/b49169c8-2910-43cf-9f7e-ebc1b4a8c265",
-      "image": "http://kansanmuisti.fi/media/images/members/thors-astrid.jpg",
-      "name": "Astrid Thors",
-      "sort_name": "Thors Astrid",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/thors-astrid.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b49169c8-2910-43cf-9f7e-ebc1b4a8c265",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "r",
-          "area_id": "area/helsingin",
-          "end_date": "2013-09-04",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -694,8 +680,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -703,25 +689,35 @@
       ]
     },
     {
-      "email": "christina.gestrin@eduskunta.fi",
-      "gender": "female",
-      "id": "person/625f3006-6176-47e6-92b1-8a61dd31c69f",
-      "image": "http://kansanmuisti.fi/media/images/members/gestrin-christina.jpg",
-      "name": "Christina Gestrin",
-      "sort_name": "Gestrin Christina",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/gestrin-christina.jpg"
-        }
-      ],
+      "id": "person/6621513b-4109-4dbb-a0fb-18735f26114a",
+      "name": "Carl Haglund",
+      "sort_name": "Carl Haglund",
       "memberships": [
         {
-          "person_id": "person/625f3006-6176-47e6-92b1-8a61dd31c69f",
+          "person_id": "person/6621513b-4109-4dbb-a0fb-18735f26114a",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "r",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/343874c1-b0ed-4e12-87bc-7dfdd212c8e1",
+      "name": "Eerikki Viljanen",
+      "sort_name": "Eerikki Viljanen",
+      "memberships": [
+        {
+          "person_id": "person/343874c1-b0ed-4e12-87bc-7dfdd212c8e1",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -746,8 +742,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -772,34 +768,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "eero.reijonen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/01b2f801-ddfc-4ce0-a3e0-4b65526d7bd9",
-      "image": "http://kansanmuisti.fi/media/images/members/reijonen-eero.jpg",
-      "name": "Eero Reijonen",
-      "sort_name": "Reijonen Eero",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/reijonen-eero.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/01b2f801-ddfc-4ce0-a3e0-4b65526d7bd9",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kesk",
-          "area_id": "area/pohjois-karjalan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -824,8 +794,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -850,8 +820,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -876,34 +846,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/lapin",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "eila.tiainen@eduskunta.fi",
-      "gender": "female",
-      "id": "person/7656b4ed-0504-4d5a-bb2c-d48d72a6c084",
-      "image": "http://kansanmuisti.fi/media/images/members/tiainen-eila.jpg",
-      "name": "Eila Tiainen",
-      "sort_name": "Tiainen Eila",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/tiainen-eila.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7656b4ed-0504-4d5a-bb2c-d48d72a6c084",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vas",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -928,35 +872,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "start_date": "2014-07-04",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "elisabeth.naucler@eduskunta.fi",
-      "gender": "female",
-      "id": "person/7b7277f0-c058-4222-9438-2c6522541796",
-      "image": "http://kansanmuisti.fi/media/images/members/naucler-elisabeth.jpg",
-      "name": "Elisabeth Nauclér",
-      "sort_name": "Nauclér Elisabeth",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/naucler-elisabeth.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7b7277f0-c058-4222-9438-2c6522541796",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "r",
-          "area_id": "area/ahvenanmaan_maakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -981,8 +898,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7488f99c-9461-48a7-95e9-fcbde92a23e6",
+      "name": "Emma Kari",
+      "sort_name": "Emma Kari",
+      "memberships": [
+        {
+          "person_id": "person/7488f99c-9461-48a7-95e9-fcbde92a23e6",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1007,34 +942,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "erkki.virtanen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/3c991770-9d72-45d9-86a6-c14efab21df2",
-      "image": "http://kansanmuisti.fi/media/images/members/virtanen-erkki.jpg",
-      "name": "Erkki Virtanen",
-      "sort_name": "Virtanen Erkki",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/virtanen-erkki.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3c991770-9d72-45d9-86a6-c14efab21df2",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vas",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1059,8 +968,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1068,25 +977,60 @@
       ]
     },
     {
-      "email": "esko.kurvinen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/706f3cff-18bb-4d27-b273-4da51b174929",
-      "image": "http://kansanmuisti.fi/media/images/members/kurvinen-esko.jpg",
-      "name": "Esko Kurvinen",
-      "sort_name": "Kurvinen Esko",
+      "gender": "female",
+      "id": "person/9a9071cc-0133-45be-a0af-daf127087c66",
+      "image": "http://kansanmuisti.fi/media/images/members/biaudet-eva.jpg",
+      "name": "Eva Biaudet",
+      "sort_name": "Biaudet Eva",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/kurvinen-esko.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/biaudet-eva.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/706f3cff-18bb-4d27-b273-4da51b174929",
+          "person_id": "person/9a9071cc-0133-45be-a0af-daf127087c66",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "r",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8265952a-f746-4d21-ad98-08c6c9feaa7a",
+      "name": "Hanna Halmeenpää",
+      "sort_name": "Hanna Halmeenpää",
+      "memberships": [
+        {
+          "person_id": "person/8265952a-f746-4d21-ad98-08c6c9feaa7a",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/deecbd5d-0566-44a1-8aba-0b00454ce2f3",
+      "name": "Hanna Kosonen",
+      "sort_name": "Hanna Kosonen",
+      "memberships": [
+        {
+          "person_id": "person/deecbd5d-0566-44a1-8aba-0b00454ce2f3",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1111,8 +1055,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/lapin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1120,25 +1064,67 @@
       ]
     },
     {
-      "email": "hanna.tainio@eduskunta.fi",
+      "id": "person/f3ace26b-f9cd-40c3-80c5-9b56ddd7e510",
+      "name": "Hanna Sarkkinen",
+      "sort_name": "Hanna Sarkkinen",
+      "memberships": [
+        {
+          "person_id": "person/f3ace26b-f9cd-40c3-80c5-9b56ddd7e510",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vas",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
-      "id": "person/1dd94a1b-fdcd-45ae-a576-eb928a315716",
-      "image": "http://kansanmuisti.fi/media/images/members/tainio-hanna.jpg",
-      "name": "Hanna Tainio",
-      "sort_name": "Tainio Hanna",
+      "id": "person/24ec020c-9cda-4fd6-872a-79a3465de981",
+      "image": "http://kansanmuisti.fi/media/images/members/heikkinen-hannakaisa.jpg",
+      "name": "Hannakaisa Heikkinen",
+      "sort_name": "Heikkinen Hannakaisa",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/tainio-hanna.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/heikkinen-hannakaisa.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1dd94a1b-fdcd-45ae-a576-eb928a315716",
+          "person_id": "person/24ec020c-9cda-4fd6-872a-79a3465de981",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/53cf905e-dca1-4bd9-8918-3007ee454f97",
+      "image": "http://kansanmuisti.fi/media/images/members/hoskonen-hannu.jpg",
+      "name": "Hannu Hoskonen",
+      "sort_name": "Hoskonen Hannu",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/hoskonen-hannu.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/53cf905e-dca1-4bd9-8918-3007ee454f97",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1163,8 +1149,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1188,61 +1174,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/vaasan",
-          "start_date": "2014-07-04",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "heikki.autto@eduskunta.fi",
-      "gender": "male",
-      "id": "person/9c1e0600-e5ca-4a43-a8d1-0a3729e7a61c",
-      "image": "http://kansanmuisti.fi/media/images/members/autto-heikki.jpg",
-      "name": "Heikki Autto",
-      "sort_name": "Autto Heikki",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/autto-heikki.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9c1e0600-e5ca-4a43-a8d1-0a3729e7a61c",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/lapin",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "heli.paasio@eduskunta.fi",
-      "gender": "female",
-      "id": "person/a7e0bb88-ea0f-4496-bc1b-35733b6cdc77",
-      "image": "http://kansanmuisti.fi/media/images/members/paasio-heli.jpg",
-      "name": "Heli Paasio",
-      "sort_name": "Paasio Heli",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/paasio-heli.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a7e0bb88-ea0f-4496-bc1b-35733b6cdc77",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1251,24 +1184,41 @@
     },
     {
       "gender": "female",
-      "id": "person/fc4e6ff9-2317-44b6-9aec-70763ff56fbd",
-      "image": "http://kansanmuisti.fi/media/images/members/virkkunen-henna.jpg",
-      "name": "Henna Virkkunen",
-      "sort_name": "Virkkunen Henna",
+      "id": "person/0b58a435-5d2d-401f-aa94-ee59136a8db1",
+      "image": "http://kansanmuisti.fi/media/images/members/jarvinen-heli.jpg",
+      "name": "Heli Järvinen",
+      "sort_name": "Järvinen Heli",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/virkkunen-henna.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/jarvinen-heli.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fc4e6ff9-2317-44b6-9aec-70763ff56fbd",
+          "person_id": "person/0b58a435-5d2d-401f-aa94-ee59136a8db1",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ffe3e53e-112b-4dc9-80a7-17fab40268d9",
+      "name": "Hjallis Harkimo",
+      "sort_name": "Hjallis Harkimo",
+      "memberships": [
+        {
+          "person_id": "person/ffe3e53e-112b-4dc9-80a7-17fab40268d9",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/keski-suomen",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1293,8 +1243,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1319,8 +1269,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1328,25 +1278,17 @@
       ]
     },
     {
-      "email": "inkeri.kerola@eduskunta.fi",
-      "gender": "female",
-      "id": "person/82428a55-01d4-4516-9096-5e46841af31f",
-      "image": "http://kansanmuisti.fi/media/images/members/kerola-inkeri.jpg",
-      "name": "Inkeri Kerola",
-      "sort_name": "Kerola Inkeri",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kerola-inkeri.jpg"
-        }
-      ],
+      "id": "person/b3406b1a-ac05-45a9-91c4-0567b62a918d",
+      "name": "Ilmari Nurminen",
+      "sort_name": "Ilmari Nurminen",
       "memberships": [
         {
-          "person_id": "person/82428a55-01d4-4516-9096-5e46841af31f",
+          "person_id": "person/b3406b1a-ac05-45a9-91c4-0567b62a918d",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kesk",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "sd",
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1354,25 +1296,17 @@
       ]
     },
     {
-      "email": "ismo.soukola@eduskunta.fi",
-      "gender": "male",
-      "id": "person/c1456e04-fa67-47bb-81a6-31c6f63a3e18",
-      "image": "http://kansanmuisti.fi/media/images/members/soukola-ismo.jpg",
-      "name": "Ismo Soukola",
-      "sort_name": "Soukola Ismo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/soukola-ismo.jpg"
-        }
-      ],
+      "id": "person/3f968bda-6824-41fa-bb14-d7a8dcbb308f",
+      "name": "Jaana Laitinen-Pesola",
+      "sort_name": "Jaana Laitinen-Pesola",
       "memberships": [
         {
-          "person_id": "person/c1456e04-fa67-47bb-81a6-31c6f63a3e18",
+          "person_id": "person/3f968bda-6824-41fa-bb14-d7a8dcbb308f",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kok",
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1403,67 +1337,23 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
     {
-      "email": "james.hirvisaari@eduskunta.fi",
-      "gender": "male",
-      "id": "person/aba3a97a-7a31-4370-9c25-cda87cfd93ac",
-      "image": "http://kansanmuisti.fi/media/images/members/hirvisaari-james.jpg",
-      "name": "James Hirvisaari",
-      "sort_name": "Hirvisaari James",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/hirvisaari-james.jpg"
-        }
-      ],
+      "id": "person/f499d64f-2e29-4531-96b4-e9980a8d8b6f",
+      "name": "Jani Mäkelä",
+      "sort_name": "Jani Mäkelä",
       "memberships": [
         {
-          "person_id": "person/aba3a97a-7a31-4370-9c25-cda87cfd93ac",
+          "person_id": "person/f499d64f-2e29-4531-96b4-e9980a8d8b6f",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/hämeen",
-          "end_date": "2013-10-08",
-          "legislative_period_id": "term/36"
-        },
-        {
-          "person_id": "person/aba3a97a-7a31-4370-9c25-cda87cfd93ac",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "m11",
-          "area_id": "area/hämeen",
-          "start_date": "2013-10-09",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jan.vapaavuori@eduskunta.fi",
-      "gender": "male",
-      "id": "person/34977c6b-c4bf-460f-b39c-9061e39aeaa0",
-      "image": "http://kansanmuisti.fi/media/images/members/vapaavuori-jan.jpg",
-      "name": "Jan Vapaavuori",
-      "sort_name": "Vapaavuori Jan",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/vapaavuori-jan.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/34977c6b-c4bf-460f-b39c-9061e39aeaa0",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1488,34 +1378,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "janne.sankelo@eduskunta.fi",
-      "gender": "male",
-      "id": "person/0f552e92-cdb2-4fbe-9d9c-85e272dc93da",
-      "image": "http://kansanmuisti.fi/media/images/members/sankelo-janne.jpg",
-      "name": "Janne Sankelo",
-      "sort_name": "Sankelo Janne",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/sankelo-janne.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0f552e92-cdb2-4fbe-9d9c-85e272dc93da",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1540,8 +1404,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/etelä-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1566,8 +1430,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1592,8 +1456,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1601,25 +1465,35 @@
       ]
     },
     {
-      "email": "johanna.jurva@eduskunta.fi",
-      "gender": "female",
-      "id": "person/13c3ad91-6dbf-4f3b-a61d-736e277c102c",
-      "image": "http://kansanmuisti.fi/media/images/members/jurva-johanna.jpg",
-      "name": "Johanna Jurva",
-      "sort_name": "Jurva Johanna",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/jurva-johanna.jpg"
-        }
-      ],
+      "id": "person/5f51bf60-4e3b-4a90-affd-8199c9e219b0",
+      "name": "Jari Ronkainen",
+      "sort_name": "Jari Ronkainen",
       "memberships": [
         {
-          "person_id": "person/13c3ad91-6dbf-4f3b-a61d-736e277c102c",
+          "person_id": "person/5f51bf60-4e3b-4a90-affd-8199c9e219b0",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ab2b54b5-00a5-4c30-b569-c585b1b997a9",
+      "name": "Joakim Strand",
+      "sort_name": "Joakim Strand",
+      "memberships": [
+        {
+          "person_id": "person/ab2b54b5-00a5-4c30-b569-c585b1b997a9",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "r",
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1644,8 +1518,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1670,8 +1544,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/lapin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1679,60 +1553,17 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/fc55f66c-dddf-4fb6-8f8b-7dc19bd09aa7",
-      "image": "http://kansanmuisti.fi/media/images/members/sumuvuori-johanna.jpg",
-      "name": "Johanna Sumuvuori",
-      "sort_name": "Sumuvuori Johanna",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "sumuvuori"
-        }
-      ],
-      "links": [
-        {
-          "url": "23282749102",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/sumuvuori-johanna.jpg"
-        }
-      ],
+      "id": "person/b15d60dd-071d-4fed-99b8-e6707c55b74c",
+      "name": "Joona Räsänen",
+      "sort_name": "Joona Räsänen",
       "memberships": [
         {
-          "person_id": "person/fc55f66c-dddf-4fb6-8f8b-7dc19bd09aa7",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vihr",
-          "area_id": "area/helsingin",
-          "start_date": "2015-01-14",
-          "legislative_period_id": "term/36"
-        }
-      ]
-    },
-    {
-      "email": "johannes.koskinen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/fcf7a3b7-c75a-43f5-8c71-4c767bc2d460",
-      "image": "http://kansanmuisti.fi/media/images/members/koskinen-johannes.jpg",
-      "name": "Johannes Koskinen",
-      "sort_name": "Koskinen Johannes",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/koskinen-johannes.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fcf7a3b7-c75a-43f5-8c71-4c767bc2d460",
+          "person_id": "person/b15d60dd-071d-4fed-99b8-e6707c55b74c",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1740,77 +1571,17 @@
       ]
     },
     {
-      "email": "jouko.jaaskelainen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/2bbcdb84-d03d-40a7-ad99-dc916637d6e8",
-      "image": "http://kansanmuisti.fi/media/images/members/jaaskelainen-jouko.jpg",
-      "name": "Jouko Jääskeläinen",
-      "sort_name": "Jääskeläinen Jouko",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/jaaskelainen-jouko.jpg"
-        }
-      ],
+      "id": "person/52a952e6-c197-41d4-96f8-e983f5543878",
+      "name": "Juha Pylväs",
+      "sort_name": "Juha Pylväs",
       "memberships": [
         {
-          "person_id": "person/2bbcdb84-d03d-40a7-ad99-dc916637d6e8",
+          "person_id": "person/52a952e6-c197-41d4-96f8-e983f5543878",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jouko.skinnari@eduskunta.fi",
-      "gender": "male",
-      "id": "person/8beff688-bd43-4db7-ab8b-4458fb32bc89",
-      "image": "http://kansanmuisti.fi/media/images/members/skinnari-jouko.jpg",
-      "name": "Jouko Skinnari",
-      "sort_name": "Skinnari Jouko",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/skinnari-jouko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8beff688-bd43-4db7-ab8b-4458fb32bc89",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jouni.backman@eduskunta.fi",
-      "gender": "male",
-      "id": "person/7f8d1538-c070-48b7-b638-525cdb357546",
-      "image": "http://kansanmuisti.fi/media/images/members/backman-jouni.jpg",
-      "name": "Jouni Backman",
-      "sort_name": "Backman Jouni",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/backman-jouni.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7f8d1538-c070-48b7-b638-525cdb357546",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/etelä-savon",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1835,8 +1606,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1873,31 +1644,23 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
     {
-      "email": "juha.vaatainen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/2e250ecc-eb4a-4176-bd43-14caf7782fce",
-      "image": "http://kansanmuisti.fi/media/images/members/vaatainen-juha.jpg",
-      "name": "Juha Väätäinen",
-      "sort_name": "Väätäinen Juha",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/vaatainen-juha.jpg"
-        }
-      ],
+      "id": "person/32da0ed1-7bfd-403d-9515-8a146cd7207e",
+      "name": "Juhana Vartiainen",
+      "sort_name": "Juhana Vartiainen",
       "memberships": [
         {
-          "person_id": "person/2e250ecc-eb4a-4176-bd43-14caf7782fce",
+          "person_id": "person/32da0ed1-7bfd-403d-9515-8a146cd7207e",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kok",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1922,8 +1685,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1948,8 +1711,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -1974,60 +1737,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jukka.karna@eduskunta.fi",
-      "gender": "male",
-      "id": "person/fa51e688-64d9-46a6-ae27-238a57fbbf77",
-      "image": "http://kansanmuisti.fi/media/images/members/karna-jukka.jpg",
-      "name": "Jukka Kärnä",
-      "sort_name": "Kärnä Jukka",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/karna-jukka.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fa51e688-64d9-46a6-ae27-238a57fbbf77",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/676752ce-443f-4a9a-8d6b-b0476dccc240",
-      "image": "http://kansanmuisti.fi/media/images/members/halla-aho-jussi.jpg",
-      "name": "Jussi Halla-aho",
-      "sort_name": "Halla-aho Jussi",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/halla-aho-jussi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/676752ce-443f-4a9a-8d6b-b0476dccc240",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/helsingin",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2052,8 +1763,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2078,8 +1789,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2088,123 +1799,41 @@
     },
     {
       "gender": "male",
-      "id": "person/2df335ad-3c54-4d96-8bf0-54a40a99a243",
-      "image": "http://kansanmuisti.fi/media/images/members/hakamies-jyri.jpg",
-      "name": "Jyri Häkämies",
-      "sort_name": "Häkämies Jyri",
+      "id": "person/8602283c-081c-466b-b4ff-8345b30decbb",
+      "image": "http://kansanmuisti.fi/media/images/members/kasvi-jyrki.jpg",
+      "name": "Jyrki Kasvi",
+      "sort_name": "Kasvi Jyrki",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/hakamies-jyri.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/kasvi-jyrki.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2df335ad-3c54-4d96-8bf0-54a40a99a243",
+          "person_id": "person/8602283c-081c-466b-b4ff-8345b30decbb",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ce53ee81-ed75-40a9-b100-9ef7c3b67e5f",
+      "name": "Kai Mykkänen",
+      "sort_name": "Kai Mykkänen",
+      "memberships": [
+        {
+          "person_id": "person/ce53ee81-ed75-40a9-b100-9ef7c3b67e5f",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/kymen",
-          "end_date": "2012-11-16",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/19af20ef-1069-4145-a178-7bcc2f140d31",
-      "image": "http://kansanmuisti.fi/media/images/members/katainen-jyrki.jpg",
-      "name": "Jyrki Katainen",
-      "sort_name": "Katainen Jyrki",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/katainen-jyrki.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/19af20ef-1069-4145-a178-7bcc2f140d31",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jyrki.yrttiaho@eduskunta.fi",
-      "gender": "male",
-      "id": "person/3547f3b1-e902-4a44-96be-aa470ef0ddb9",
-      "image": "http://kansanmuisti.fi/media/images/members/yrttiaho-jyrki.jpg",
-      "name": "Jyrki Yrttiaho",
-      "sort_name": "Yrttiaho Jyrki",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/yrttiaho-jyrki.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3547f3b1-e902-4a44-96be-aa470ef0ddb9",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vas",
-          "area_id": "area/varsinais-suomen",
-          "end_date": "2011-06-30",
-          "legislative_period_id": "term/36"
-        },
-        {
-          "person_id": "person/3547f3b1-e902-4a44-96be-aa470ef0ddb9",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "Eduskuntaryhmä Yrttiaho",
-          "area_id": "area/varsinais-suomen",
-          "start_date": "2011-07-01",
-          "end_date": "2011-09-07",
-          "legislative_period_id": "term/36"
-        },
-        {
-          "person_id": "person/3547f3b1-e902-4a44-96be-aa470ef0ddb9",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "Vasenryhmän eduskuntaryhmä",
-          "area_id": "area/varsinais-suomen",
-          "start_date": "2011-09-08",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jorn.donner@eduskunta.fi",
-      "gender": "male",
-      "id": "person/6af311be-417a-4671-825d-2ec1e5c5ccf2",
-      "image": "http://kansanmuisti.fi/media/images/members/donner-jorn.jpg",
-      "name": "Jörn Donner",
-      "sort_name": "Donner Jörn",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/donner-jorn.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6af311be-417a-4671-825d-2ec1e5c5ccf2",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "r",
-          "area_id": "area/helsingin",
-          "start_date": "2013-09-05",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2229,8 +1858,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/etelä-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2255,8 +1884,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2264,25 +1893,17 @@
       ]
     },
     {
-      "email": "kari.rajamaki@eduskunta.fi",
-      "gender": "male",
-      "id": "person/d9d8d91b-a13c-4642-aac5-56a39f80abcf",
-      "image": "http://kansanmuisti.fi/media/images/members/rajamaki-kari.jpg",
-      "name": "Kari Rajamäki",
-      "sort_name": "Rajamäki Kari",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/rajamaki-kari.jpg"
-        }
-      ],
+      "id": "person/b38f08d3-9bfa-422c-8d48-5cad8fdacc2c",
+      "name": "Kari Kulmala",
+      "sort_name": "Kari Kulmala",
       "memberships": [
         {
-          "person_id": "person/d9d8d91b-a13c-4642-aac5-56a39f80abcf",
+          "person_id": "person/b38f08d3-9bfa-422c-8d48-5cad8fdacc2c",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "ps",
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2307,8 +1928,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2333,8 +1954,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2359,9 +1980,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/oulun",
-          "start_date": "2014-07-04",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2386,8 +2006,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2395,25 +2015,17 @@
       ]
     },
     {
-      "email": "katri.komi@eduskunta.fi",
-      "gender": "female",
-      "id": "person/68694be9-f54c-4d60-8c13-689a992e928b",
-      "image": "http://kansanmuisti.fi/media/images/members/komi-katri.jpg",
-      "name": "Katri Komi",
-      "sort_name": "Komi Katri",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/komi-katri.jpg"
-        }
-      ],
+      "id": "person/da1d5ec6-ecf6-439a-b3f0-27783f22a7c4",
+      "name": "Katri Kulmuni",
+      "sort_name": "Katri Kulmuni",
       "memberships": [
         {
-          "person_id": "person/68694be9-f54c-4d60-8c13-689a992e928b",
+          "person_id": "person/da1d5ec6-ecf6-439a-b3f0-27783f22a7c4",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/etelä-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2421,25 +2033,42 @@
       ]
     },
     {
-      "email": "kauko.tuupainen@eduskunta.fi",
       "gender": "male",
-      "id": "person/0a753c08-fcc8-428e-8df2-198b0124b6ff",
-      "image": "http://kansanmuisti.fi/media/images/members/tuupainen-kauko.jpg",
-      "name": "Kauko Tuupainen",
-      "sort_name": "Tuupainen Kauko",
+      "id": "person/ed4bf444-2959-48ad-be89-2d252fa1b8de",
+      "image": "http://kansanmuisti.fi/media/images/members/juhantalo-kauko.jpg",
+      "name": "Kauko Juhantalo",
+      "sort_name": "Juhantalo Kauko",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/tuupainen-kauko.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/juhantalo-kauko.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0a753c08-fcc8-428e-8df2-198b0124b6ff",
+          "person_id": "person/ed4bf444-2959-48ad-be89-2d252fa1b8de",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/87e1a60a-ee49-4961-8616-a495ed51190c",
+      "name": "Kike Elomaa",
+      "sort_name": "Kike Elomaa",
+      "memberships": [
+        {
+          "person_id": "person/87e1a60a-ee49-4961-8616-a495ed51190c",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2464,34 +2093,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kimmo.sasi@eduskunta.fi",
-      "gender": "male",
-      "id": "person/522448d9-64ef-4f07-b81a-38ecaee3dcbc",
-      "image": "http://kansanmuisti.fi/media/images/members/sasi-kimmo.jpg",
-      "name": "Kimmo Sasi",
-      "sort_name": "Sasi Kimmo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/sasi-kimmo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/522448d9-64ef-4f07-b81a-38ecaee3dcbc",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2516,8 +2119,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2542,8 +2145,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/894b573b-410c-49b1-aabc-4cabb34fc0dc",
+      "name": "Krista Mikkonen",
+      "sort_name": "Krista Mikkonen",
+      "memberships": [
+        {
+          "person_id": "person/894b573b-410c-49b1-aabc-4cabb34fc0dc",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2568,70 +2189,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "laila.koskela@eduskunta.fi",
-      "gender": "female",
-      "id": "person/72835ebd-f94b-40b4-9601-97f89c1d7f97",
-      "image": "http://kansanmuisti.fi/media/images/members/koskela-laila.jpg",
-      "name": "Laila Koskela",
-      "sort_name": "Koskela Laila",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/koskela-laila.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/72835ebd-f94b-40b4-9601-97f89c1d7f97",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/pirkanmaan",
-          "end_date": "2014-11-04",
-          "legislative_period_id": "term/36"
-        },
-        {
-          "person_id": "person/72835ebd-f94b-40b4-9601-97f89c1d7f97",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kesk",
-          "area_id": "area/pirkanmaan",
-          "start_date": "2014-11-05",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "larserik.gastgivars@eduskunta.fi",
-      "gender": "male",
-      "id": "person/1252550b-fa55-4479-819d-fafddc033196",
-      "image": "http://kansanmuisti.fi/media/images/members/gastgivars-lars-erik.jpg",
-      "name": "Lars Erik Gästgivars",
-      "sort_name": "Gästgivars Lars Erik",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/gastgivars-lars-erik.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1252550b-fa55-4479-819d-fafddc033196",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "r",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2656,8 +2215,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2665,51 +2224,17 @@
       ]
     },
     {
-      "email": "lasse.mannisto@eduskunta.fi",
-      "gender": "male",
-      "id": "person/271eacbd-ec38-4aed-a18a-76da2d132388",
-      "image": "http://kansanmuisti.fi/media/images/members/mannisto-lasse.jpg",
-      "name": "Lasse Männistö",
-      "sort_name": "Männistö Lasse",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/mannisto-lasse.jpg"
-        }
-      ],
+      "id": "person/5c509643-2b3a-40a0-b69c-06df351188c2",
+      "name": "Laura Huhtasaari",
+      "sort_name": "Laura Huhtasaari",
       "memberships": [
         {
-          "person_id": "person/271eacbd-ec38-4aed-a18a-76da2d132388",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "lauri.heikkila@eduskunta.fi",
-      "gender": "male",
-      "id": "person/017cdd64-e68d-464b-8ab2-5eade6b71c23",
-      "image": "http://kansanmuisti.fi/media/images/members/heikkila-lauri.jpg",
-      "name": "Lauri Heikkilä",
-      "sort_name": "Heikkilä Lauri",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/heikkila-lauri.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/017cdd64-e68d-464b-8ab2-5eade6b71c23",
+          "person_id": "person/5c509643-2b3a-40a0-b69c-06df351188c2",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2734,8 +2259,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2760,8 +2285,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2769,51 +2294,17 @@
       ]
     },
     {
-      "email": "leena.harkimo@eduskunta.fi",
-      "gender": "female",
-      "id": "person/c3a9f0c0-4ccf-467d-b300-d0b9d2f54c20",
-      "image": "http://kansanmuisti.fi/media/images/members/harkimo-leena.jpg",
-      "name": "Leena Harkimo",
-      "sort_name": "Harkimo Leena",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/harkimo-leena.jpg"
-        }
-      ],
+      "id": "person/7d95d049-3aa2-406a-8bde-5fb91bb22f57",
+      "name": "Leena Meri",
+      "sort_name": "Leena Meri",
       "memberships": [
         {
-          "person_id": "person/c3a9f0c0-4ccf-467d-b300-d0b9d2f54c20",
+          "person_id": "person/7d95d049-3aa2-406a-8bde-5fb91bb22f57",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "leena.rauhala@eduskunta.fi",
-      "gender": "female",
-      "id": "person/cfe92f86-699d-4f1d-b1c3-2ddee9533204",
-      "image": "http://kansanmuisti.fi/media/images/members/rauhala-leena.jpg",
-      "name": "Leena Rauhala",
-      "sort_name": "Rauhala Leena",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/rauhala-leena.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cfe92f86-699d-4f1d-b1c3-2ddee9533204",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kd",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "ps",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2838,8 +2329,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/etelä-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3c979644-962f-4520-bda5-6f63dc3d04d8",
+      "name": "Li Andersson",
+      "sort_name": "Li Andersson",
+      "memberships": [
+        {
+          "person_id": "person/3c979644-962f-4520-bda5-6f63dc3d04d8",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vas",
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2864,8 +2373,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2873,32 +2382,21 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/ee098f19-e905-4520-8b25-4bef5b62b9af",
-      "image": "http://kansanmuisti.fi/media/images/members/kiviniemi-mari.jpg",
-      "name": "Mari Kiviniemi",
-      "sort_name": "Kiviniemi Mari",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "marikiviniemi"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kiviniemi-mari.jpg"
-        }
-      ],
+      "id": "person/c817d813-9a69-4be5-8811-c555dcfcade7",
+      "name": "Mari-Leena Talvitie",
+      "sort_name": "Mari-Leena Talvitie",
       "memberships": [
         {
-          "person_id": "person/ee098f19-e905-4520-8b25-4bef5b62b9af",
+          "person_id": "person/c817d813-9a69-4be5-8811-c555dcfcade7",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kesk",
-          "area_id": "area/helsingin",
-          "end_date": "2014-09-02",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kok",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2925,8 +2423,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
@@ -2948,8 +2446,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2974,8 +2472,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -2983,25 +2481,17 @@
       ]
     },
     {
-      "email": "marjo.matikainen-kallstrom@eduskunta.fi",
-      "gender": "female",
-      "id": "person/bab532eb-9a5f-4610-9229-48bd015a15f6",
-      "image": "http://kansanmuisti.fi/media/images/members/matikainen-kallstrom-marjo.jpg",
-      "name": "Marjo Matikainen-Kallström",
-      "sort_name": "Matikainen-Kallström Marjo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/matikainen-kallstrom-marjo.jpg"
-        }
-      ],
+      "id": "person/f6cd32f4-2f5c-4f0b-aece-e8d35b8bf0d2",
+      "name": "Marisanna Jarva",
+      "sort_name": "Marisanna Jarva",
       "memberships": [
         {
-          "person_id": "person/bab532eb-9a5f-4610-9229-48bd015a15f6",
+          "person_id": "person/f6cd32f4-2f5c-4f0b-aece-e8d35b8bf0d2",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3026,8 +2516,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3035,25 +2525,24 @@
       ]
     },
     {
-      "email": "markku.mantymaa@eduskunta.fi",
       "gender": "male",
-      "id": "person/63841385-0c09-44da-84aa-d4b81f402a36",
-      "image": "http://kansanmuisti.fi/media/images/members/mantymaa-markku.jpg",
-      "name": "Markku Mäntymaa",
-      "sort_name": "Mäntymaa Markku",
+      "id": "person/ed4d39be-f1e6-453c-93d2-de44122f61fc",
+      "image": "http://kansanmuisti.fi/media/images/members/pakkanen-markku.jpg",
+      "name": "Markku Pakkanen",
+      "sort_name": "Pakkanen Markku",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/mantymaa-markku.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/pakkanen-markku.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/63841385-0c09-44da-84aa-d4b81f402a36",
+          "person_id": "person/ed4d39be-f1e6-453c-93d2-de44122f61fc",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3078,8 +2567,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3104,8 +2593,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/lapin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3130,54 +2619,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/lapin",
-          "end_date": "2011-06-30",
-          "legislative_period_id": "term/36"
-        },
-        {
-          "person_id": "person/b321a32f-b7f8-4aeb-9871-67257c7c0640",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "Eduskuntaryhmä Mustajärvi",
-          "area_id": "area/lapin",
-          "start_date": "2011-07-01",
-          "end_date": "2011-09-07",
-          "legislative_period_id": "term/36"
-        },
-        {
-          "person_id": "person/b321a32f-b7f8-4aeb-9871-67257c7c0640",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "Vasenryhmän eduskuntaryhmä",
-          "area_id": "area/lapin",
-          "start_date": "2011-09-08",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "martti.korhonen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/a5218cd8-a887-4e66-968e-ca52f64b98c3",
-      "image": "http://kansanmuisti.fi/media/images/members/korhonen-martti.jpg",
-      "name": "Martti Korhonen",
-      "sort_name": "Korhonen Martti",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/korhonen-martti.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a5218cd8-a887-4e66-968e-ca52f64b98c3",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vas",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3202,8 +2645,44 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/77f0884e-0f46-4e15-937c-b0c353280578",
+      "name": "Martti Talja",
+      "sort_name": "Martti Talja",
+      "memberships": [
+        {
+          "person_id": "person/77f0884e-0f46-4e15-937c-b0c353280578",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4799b339-fb22-4913-9060-da5b1a690693",
+      "name": "Mats Löfström",
+      "sort_name": "Mats Löfström",
+      "memberships": [
+        {
+          "person_id": "person/4799b339-fb22-4913-9060-da5b1a690693",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "r",
+          "area_id": "area/ahvenanmaan_maakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3228,8 +2707,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "r",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3237,25 +2716,42 @@
       ]
     },
     {
-      "email": "matti.saarinen@eduskunta.fi",
+      "id": "person/d0dce56b-3893-483e-8179-81262b26e3fe",
+      "name": "Matti Semi",
+      "sort_name": "Matti Semi",
+      "memberships": [
+        {
+          "person_id": "person/d0dce56b-3893-483e-8179-81262b26e3fe",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vas",
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
-      "id": "person/bec03ecc-9126-4150-92b6-e8d35c561ac2",
-      "image": "http://kansanmuisti.fi/media/images/members/saarinen-matti.jpg",
-      "name": "Matti Saarinen",
-      "sort_name": "Saarinen Matti",
+      "id": "person/5276efaf-c4e5-424b-ac69-571b74d80f8c",
+      "image": "http://kansanmuisti.fi/media/images/members/vanhanen-matti.jpg",
+      "name": "Matti Vanhanen",
+      "sort_name": "Vanhanen Matti",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/saarinen-matti.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/vanhanen-matti.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bec03ecc-9126-4150-92b6-e8d35c561ac2",
+          "person_id": "person/5276efaf-c4e5-424b-ac69-571b74d80f8c",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3280,60 +2776,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "merja.kuusisto@eduskunta.fi",
-      "gender": "female",
-      "id": "person/83c6b13b-052c-4939-aba9-d4b7ff42317e",
-      "image": "http://kansanmuisti.fi/media/images/members/kuusisto-merja.jpg",
-      "name": "Merja Kuusisto",
-      "sort_name": "Kuusisto Merja",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kuusisto-merja.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/83c6b13b-052c-4939-aba9-d4b7ff42317e",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/56a76ead-b1b2-4bee-bc07-8924ca351e9a",
-      "image": "http://kansanmuisti.fi/media/images/members/kyllonen-merja.jpg",
-      "name": "Merja Kyllönen",
-      "sort_name": "Kyllönen Merja",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kyllonen-merja.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/56a76ead-b1b2-4bee-bc07-8924ca351e9a",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vas",
-          "area_id": "area/oulun",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3358,34 +2802,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/pohjois-karjalan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1438bccb-d02e-4ac1-8d8d-7baad7c3412e",
-      "image": "http://kansanmuisti.fi/media/images/members/kumpula-natri-miapetra.jpg",
-      "name": "Miapetra Kumpula-Natri",
-      "sort_name": "Kumpula-Natri Miapetra",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kumpula-natri-miapetra.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1438bccb-d02e-4ac1-8d8d-7baad7c3412e",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/vaasan",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3410,8 +2828,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3436,8 +2854,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3462,8 +2880,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3488,65 +2906,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/helsingin",
-          "start_date": "2014-07-04",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mikael.jungner@eduskunta.fi",
-      "gender": "male",
-      "id": "person/3934915f-96a9-4628-ba18-29441580ff8f",
-      "image": "http://kansanmuisti.fi/media/images/members/jungner-mikael.jpg",
-      "name": "Mikael Jungner",
-      "sort_name": "Jungner Mikael",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "mikaeljungner"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/jungner-mikael.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3934915f-96a9-4628-ba18-29441580ff8f",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ]
-    },
-    {
-      "email": "mikael.palola@eduskunta.fi",
-      "gender": "male",
-      "id": "person/4e30a2bc-3f93-49bd-b484-3441ec9218bb",
-      "image": "http://kansanmuisti.fi/media/images/members/palola-mikael.jpg",
-      "name": "Mikael Palola",
-      "sort_name": "Palola Mikael",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/palola-mikael.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4e30a2bc-3f93-49bd-b484-3441ec9218bb",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/keski-suomen",
-          "start_date": "2014-07-04",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3571,8 +2932,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "r",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3597,8 +2958,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/21fa2094-c7be-4674-a6ca-8677629b722d",
+      "name": "Mikko Kärnä",
+      "sort_name": "Mikko Kärnä",
+      "memberships": [
+        {
+          "person_id": "person/21fa2094-c7be-4674-a6ca-8677629b722d",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3623,8 +3002,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3649,8 +3028,76 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9748370b-444f-47bd-a5ac-a15392400290",
+      "name": "Nasima Razmyar",
+      "sort_name": "Nasima Razmyar",
+      "memberships": [
+        {
+          "person_id": "person/9748370b-444f-47bd-a5ac-a15392400290",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "sd",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/599aa6e0-cc98-4bcb-aff3-6451b18490e6",
+      "image": "http://kansanmuisti.fi/media/images/members/keranen-niilo.jpg",
+      "name": "Niilo Keränen",
+      "sort_name": "Keränen Niilo",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/keranen-niilo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/599aa6e0-cc98-4bcb-aff3-6451b18490e6",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/223a9da4-c000-4bc9-ad0a-ca4161d0f264",
+      "image": "http://kansanmuisti.fi/media/images/members/ala-nissila-olavi.jpg",
+      "name": "Olavi Ala-Nissilä",
+      "sort_name": "Ala-Nissilä Olavi",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/ala-nissila-olavi.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/223a9da4-c000-4bc9-ad0a-ca4161d0f264",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3675,8 +3122,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3684,77 +3131,35 @@
       ]
     },
     {
-      "email": "oras.tynkkynen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/75d9eefa-3760-4ef5-9cf3-eb4527916c74",
-      "image": "http://kansanmuisti.fi/media/images/members/tynkkynen-oras.jpg",
-      "name": "Oras Tynkkynen",
-      "sort_name": "Tynkkynen Oras",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/tynkkynen-oras.jpg"
-        }
-      ],
+      "id": "person/a6cfddb1-fb4a-419f-b5a7-585c9742543d",
+      "name": "Olli Rehn",
+      "sort_name": "Olli Rehn",
       "memberships": [
         {
-          "person_id": "person/75d9eefa-3760-4ef5-9cf3-eb4527916c74",
+          "person_id": "person/a6cfddb1-fb4a-419f-b5a7-585c9742543d",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/156ef358-c64d-4258-882f-57468f1e76e4",
+      "name": "Olli-Poika Parviainen",
+      "sort_name": "Olli-Poika Parviainen",
+      "memberships": [
+        {
+          "person_id": "person/156ef358-c64d-4258-882f-57468f1e76e4",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "osmo.kokko@eduskunta.fi",
-      "gender": "male",
-      "id": "person/c65f7280-d5e0-4319-ae6a-238e74cbfc73",
-      "image": "http://kansanmuisti.fi/media/images/members/kokko-osmo.jpg",
-      "name": "Osmo Kokko",
-      "sort_name": "Kokko Osmo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kokko-osmo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c65f7280-d5e0-4319-ae6a-238e74cbfc73",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/pohjois-karjalan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "osmo.soininvaara@eduskunta.fi",
-      "gender": "male",
-      "id": "person/b38f4702-dfdb-4908-8418-07e5572fb4ff",
-      "image": "http://kansanmuisti.fi/media/images/members/soininvaara-osmo.jpg",
-      "name": "Osmo Soininvaara",
-      "sort_name": "Soininvaara Osmo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/soininvaara-osmo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b38f4702-dfdb-4908-8418-07e5572fb4ff",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vihr",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3779,8 +3184,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3805,8 +3210,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b6760e9a-cbc7-4e87-b957-931318d905e9",
+      "name": "Ozan Yanar",
+      "sort_name": "Ozan Yanar",
+      "memberships": [
+        {
+          "person_id": "person/b6760e9a-cbc7-4e87-b957-931318d905e9",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3837,31 +3260,30 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
     {
-      "email": "paula.lehtomaki@eduskunta.fi",
-      "gender": "female",
-      "id": "person/4b3bad19-f195-4492-9bd1-d7275690c17f",
-      "image": "http://kansanmuisti.fi/media/images/members/lehtomaki-paula.jpg",
-      "name": "Paula Lehtomäki",
-      "sort_name": "Lehtomäki Paula",
+      "gender": "male",
+      "id": "person/436f3f0b-41d4-47f8-958c-77236bae29d1",
+      "image": "http://kansanmuisti.fi/media/images/members/vayrynen-paavo.jpg",
+      "name": "Paavo Väyrynen",
+      "sort_name": "Väyrynen Paavo",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/lehtomaki-paula.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/vayrynen-paavo.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4b3bad19-f195-4492-9bd1-d7275690c17f",
+          "person_id": "person/436f3f0b-41d4-47f8-958c-77236bae29d1",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/lapin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3886,8 +3308,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3912,34 +3334,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pauliina.viitamies@eduskunta.fi",
-      "gender": "female",
-      "id": "person/97bd0104-7052-4907-b71e-a5cb594f6055",
-      "image": "http://kansanmuisti.fi/media/images/members/viitamies-pauliina.jpg",
-      "name": "Pauliina Viitamies",
-      "sort_name": "Viitamies Pauliina",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/viitamies-pauliina.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/97bd0104-7052-4907-b71e-a5cb594f6055",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/etelä-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -3964,60 +3360,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pekka.ravi@eduskunta.fi",
-      "gender": "male",
-      "id": "person/249f597c-b132-4819-a7d4-3771985663ac",
-      "image": "http://kansanmuisti.fi/media/images/members/ravi-pekka.jpg",
-      "name": "Pekka Ravi",
-      "sort_name": "Ravi Pekka",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/ravi-pekka.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/249f597c-b132-4819-a7d4-3771985663ac",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/pohjois-karjalan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pentti.kettunen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/400670f2-1cfe-4ca3-97ff-90435b6d011c",
-      "image": "http://kansanmuisti.fi/media/images/members/kettunen-pentti.jpg",
-      "name": "Pentti Kettunen",
-      "sort_name": "Kettunen Pentti",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kettunen-pentti.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/400670f2-1cfe-4ca3-97ff-90435b6d011c",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4042,8 +3386,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4051,25 +3395,17 @@
       ]
     },
     {
-      "email": "pertti.hemmila@eduskunta.fi",
-      "gender": "male",
-      "id": "person/73cdf8a7-0fa3-4608-b275-68606abdba1f",
-      "image": "http://kansanmuisti.fi/media/images/members/hemmila-pertti.jpg",
-      "name": "Pertti Hemmilä",
-      "sort_name": "Hemmilä Pertti",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/hemmila-pertti.jpg"
-        }
-      ],
+      "id": "person/ddc9c790-f7e8-4ec4-9bfa-0e24ff5efa71",
+      "name": "Pertti Hakanen",
+      "sort_name": "Pertti Hakanen",
       "memberships": [
         {
-          "person_id": "person/73cdf8a7-0fa3-4608-b275-68606abdba1f",
+          "person_id": "person/ddc9c790-f7e8-4ec4-9bfa-0e24ff5efa71",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4094,34 +3430,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pertti.virtanen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/8549568e-29f9-43eb-bdec-cf1ce6520b1f",
-      "image": "http://kansanmuisti.fi/media/images/members/virtanen-pertti.jpg",
-      "name": "Pertti Virtanen",
-      "sort_name": "Virtanen Pertti",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/virtanen-pertti.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8549568e-29f9-43eb-bdec-cf1ce6520b1f",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4146,8 +3456,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kd",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d2639a5a-a49f-4a7e-94e9-7ad983d4c9e3",
+      "name": "Petri Honkonen",
+      "sort_name": "Petri Honkonen",
+      "memberships": [
+        {
+          "person_id": "person/d2639a5a-a49f-4a7e-94e9-7ad983d4c9e3",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4172,41 +3500,12 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "email": "pia.kauma@eduskunta.fi",
-      "gender": "female",
-      "id": "person/7eec9de2-24b0-41dc-a793-e9616c0e089f",
-      "image": "http://kansanmuisti.fi/media/images/members/kauma-pia.jpg",
-      "name": "Pia Kauma",
-      "sort_name": "Kauma Pia",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "piakauma"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kauma-pia.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7eec9de2-24b0-41dc-a793-e9616c0e089f",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
       ]
     },
     {
@@ -4227,34 +3526,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pietari.jaaskelainen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/6db5434a-37ad-4c26-9482-ccf30ebcb59c",
-      "image": "http://kansanmuisti.fi/media/images/members/jaaskelainen-pietari.jpg",
-      "name": "Pietari Jääskeläinen",
-      "sort_name": "Jääskeläinen Pietari",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/jaaskelainen-pietari.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6db5434a-37ad-4c26-9482-ccf30ebcb59c",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4279,8 +3552,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4305,34 +3578,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "paivi.lipponen@eduskunta.fi",
-      "gender": "female",
-      "id": "person/5c77e2b4-ae84-41e8-9017-71fbde0eccf4",
-      "image": "http://kansanmuisti.fi/media/images/members/lipponen-paivi.jpg",
-      "name": "Päivi Lipponen",
-      "sort_name": "Lipponen Päivi",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/lipponen-paivi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5c77e2b4-ae84-41e8-9017-71fbde0eccf4",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4357,8 +3604,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kd",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4366,77 +3613,17 @@
       ]
     },
     {
-      "email": "raija.vahasalo@eduskunta.fi",
-      "gender": "female",
-      "id": "person/7a63ca87-d920-4e3c-a873-d8a73471ffd0",
-      "image": "http://kansanmuisti.fi/media/images/members/vahasalo-raija.jpg",
-      "name": "Raija Vahasalo",
-      "sort_name": "Vahasalo Raija",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/vahasalo-raija.jpg"
-        }
-      ],
+      "id": "person/35b4a51e-17b4-402c-85d6-b3ecd913bec1",
+      "name": "Rami Lehto",
+      "sort_name": "Rami Lehto",
       "memberships": [
         {
-          "person_id": "person/7a63ca87-d920-4e3c-a873-d8a73471ffd0",
+          "person_id": "person/35b4a51e-17b4-402c-85d6-b3ecd913bec1",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "raimo.piirainen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/f3a736a3-7c18-4231-aa4f-b8492c3d128b",
-      "image": "http://kansanmuisti.fi/media/images/members/piirainen-raimo.jpg",
-      "name": "Raimo Piirainen",
-      "sort_name": "Piirainen Raimo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/piirainen-raimo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f3a736a3-7c18-4231-aa4f-b8492c3d128b",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "rakel.hiltunen@eduskunta.fi",
-      "gender": "female",
-      "id": "person/610904ef-5dad-4902-995e-f3fd725dab99",
-      "image": "http://kansanmuisti.fi/media/images/members/hiltunen-rakel.jpg",
-      "name": "Rakel Hiltunen",
-      "sort_name": "Hiltunen Rakel",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/hiltunen-rakel.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/610904ef-5dad-4902-995e-f3fd725dab99",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "ps",
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4461,34 +3648,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "reijo.tossavainen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/ecd9ea72-e5c6-48e1-8187-bea54a26d05e",
-      "image": "http://kansanmuisti.fi/media/images/members/tossavainen-reijo.jpg",
-      "name": "Reijo Tossavainen",
-      "sort_name": "Tossavainen Reijo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/tossavainen-reijo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ecd9ea72-e5c6-48e1-8187-bea54a26d05e",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4513,8 +3674,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/pohjois-karjalan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4522,103 +3683,53 @@
       ]
     },
     {
-      "email": "risto.kalliorinne@eduskunta.fi",
-      "gender": "male",
-      "id": "person/afa9c50d-9853-4194-99a8-f17524378129",
-      "image": "http://kansanmuisti.fi/media/images/members/kalliorinne-risto.jpg",
-      "name": "Risto Kalliorinne",
-      "sort_name": "Kalliorinne Risto",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kalliorinne-risto.jpg"
-        }
-      ],
+      "id": "person/9dbf6f22-e12b-4ccc-813a-68e34041624e",
+      "name": "Saara-Sofia Sirén",
+      "sort_name": "Saara-Sofia Sirén",
       "memberships": [
         {
-          "person_id": "person/afa9c50d-9853-4194-99a8-f17524378129",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vas",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ritva.elomaa@eduskunta.fi",
-      "gender": "female",
-      "id": "person/f510a0c5-aeee-4df0-ad14-d536d85fc099",
-      "image": "http://kansanmuisti.fi/media/images/members/elomaa-ritva.jpg",
-      "name": "Ritva Elomaa",
-      "sort_name": "Elomaa Ritva",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/elomaa-ritva.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f510a0c5-aeee-4df0-ad14-d536d85fc099",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "saara.karhu@eduskunta.fi",
-      "gender": "female",
-      "id": "person/da1e966e-2910-4293-a2b5-c99af7de25b4",
-      "image": "http://kansanmuisti.fi/media/images/members/karhu-saara.jpg",
-      "name": "Saara Karhu",
-      "sort_name": "Karhu Saara",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/karhu-saara.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/da1e966e-2910-4293-a2b5-c99af7de25b4",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sampsa.kataja@eduskunta.fi",
-      "gender": "male",
-      "id": "person/5ae44a77-eb89-4187-8438-ab32c3956009",
-      "image": "http://kansanmuisti.fi/media/images/members/kataja-sampsa.jpg",
-      "name": "Sampsa Kataja",
-      "sort_name": "Kataja Sampsa",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/kataja-sampsa.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5ae44a77-eb89-4187-8438-ab32c3956009",
+          "person_id": "person/9dbf6f22-e12b-4ccc-813a-68e34041624e",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b42f02f0-b899-484f-b3bb-82145b81b9da",
+      "name": "Sami Savio",
+      "sort_name": "Sami Savio",
+      "memberships": [
+        {
+          "person_id": "person/b42f02f0-b899-484f-b3bb-82145b81b9da",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fd2c8ba5-9edf-4347-b873-50b22d358966",
+      "name": "Sampo Terho",
+      "sort_name": "Sampo Terho",
+      "memberships": [
+        {
+          "person_id": "person/fd2c8ba5-9edf-4347-b873-50b22d358966",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4643,8 +3754,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f81c7c8f-6430-4f68-afae-0a5b74141136",
+      "name": "Sanna Marin",
+      "sort_name": "Sanna Marin",
+      "memberships": [
+        {
+          "person_id": "person/f81c7c8f-6430-4f68-afae-0a5b74141136",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "sd",
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4669,8 +3798,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4678,25 +3807,60 @@
       ]
     },
     {
-      "email": "sari.palm@eduskunta.fi",
       "gender": "female",
-      "id": "person/ff8463eb-c296-4182-bfec-fe8ca6cf21ba",
-      "image": "http://kansanmuisti.fi/media/images/members/palm-sari.jpg",
-      "name": "Sari Palm",
-      "sort_name": "Palm Sari",
+      "id": "person/b302e829-8c61-49bc-8df8-d6126f9fe1d0",
+      "image": "http://kansanmuisti.fi/media/images/members/essayah-sari.jpg",
+      "name": "Sari Essayah",
+      "sort_name": "Essayah Sari",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/palm-sari.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/essayah-sari.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ff8463eb-c296-4182-bfec-fe8ca6cf21ba",
+          "person_id": "person/b302e829-8c61-49bc-8df8-d6126f9fe1d0",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kd",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8bf8f1a6-3ef5-4431-aa05-1cb9419aec68",
+      "name": "Sari Multala",
+      "sort_name": "Sari Multala",
+      "memberships": [
+        {
+          "person_id": "person/8bf8f1a6-3ef5-4431-aa05-1cb9419aec68",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kok",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/db1437f9-a548-4c51-968d-925faf9cff10",
+      "name": "Sari Raassina",
+      "sort_name": "Sari Raassina",
+      "memberships": [
+        {
+          "person_id": "person/db1437f9-a548-4c51-968d-925faf9cff10",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kok",
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4721,8 +3885,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4730,54 +3894,60 @@
       ]
     },
     {
-      "email": "satu.haapanen@eduskunta.fi",
-      "gender": "female",
-      "id": "person/0dfc463f-ad30-4ce1-a185-ea0048e61be3",
-      "image": "http://kansanmuisti.fi/media/images/members/haapanen-satu.jpg",
-      "name": "Satu Haapanen",
-      "sort_name": "Haapanen Satu",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SatuHaapanen"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/haapanen-satu.jpg"
-        }
-      ],
+      "id": "person/091b75f0-9d96-4d9d-9f13-063431913b38",
+      "name": "Sari Tanus",
+      "sort_name": "Sari Tanus",
       "memberships": [
         {
-          "person_id": "person/0dfc463f-ad30-4ce1-a185-ea0048e61be3",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "vihr",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
-        }
-      ]
-    },
-    {
-      "email": "sauli.ahvenjarvi@eduskunta.fi",
-      "gender": "male",
-      "id": "person/1521c67f-4f5c-45c2-9f84-a0e56054be6a",
-      "image": "http://kansanmuisti.fi/media/images/members/ahvenjarvi-sauli.jpg",
-      "name": "Sauli Ahvenjärvi",
-      "sort_name": "Ahvenjärvi Sauli",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/ahvenjarvi-sauli.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1521c67f-4f5c-45c2-9f84-a0e56054be6a",
+          "person_id": "person/091b75f0-9d96-4d9d-9f13-063431913b38",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kd",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/55410e5c-b2cf-4916-bfea-67fc38d82af6",
+      "image": "http://kansanmuisti.fi/media/images/members/hassi-satu.jpg",
+      "name": "Satu Hassi",
+      "sort_name": "Hassi Satu",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/hassi-satu.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/55410e5c-b2cf-4916-bfea-67fc38d82af6",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "vihr",
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/40859380-71b4-43bd-8095-83652a7c0a0f",
+      "name": "Satu Taavitsainen",
+      "sort_name": "Satu Taavitsainen",
+      "memberships": [
+        {
+          "person_id": "person/40859380-71b4-43bd-8095-83652a7c0a0f",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "sd",
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4802,8 +3972,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/savo-karjalan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4834,31 +4004,23 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vas",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
     {
-      "email": "simo.rundgren@eduskunta.fi",
-      "gender": "male",
-      "id": "person/13893608-cfcc-4dda-9984-a6a8576d7f71",
-      "image": "http://kansanmuisti.fi/media/images/members/rundgren-simo.jpg",
-      "name": "Simo Rundgren",
-      "sort_name": "Rundgren Simo",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/rundgren-simo.jpg"
-        }
-      ],
+      "id": "person/cabc0f5a-6dc0-452e-b3bc-9b13d2c1e6ba",
+      "name": "Simon Elo",
+      "sort_name": "Simon Elo",
       "memberships": [
         {
-          "person_id": "person/13893608-cfcc-4dda-9984-a6a8576d7f71",
+          "person_id": "person/cabc0f5a-6dc0-452e-b3bc-9b13d2c1e6ba",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "kesk",
-          "area_id": "area/lapin",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "ps",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4889,8 +4051,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ]
     },
@@ -4912,8 +4074,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4938,8 +4100,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4964,8 +4126,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/pirkanmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -4990,8 +4152,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "r",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5016,8 +4178,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/kymen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/kaakkois-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5042,8 +4204,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5051,25 +4213,17 @@
       ]
     },
     {
-      "email": "tapani.makinen@eduskunta.fi",
-      "gender": "male",
-      "id": "person/05f7315f-8184-47b5-b6b1-b5f9ef825f86",
-      "image": "http://kansanmuisti.fi/media/images/members/makinen-tapani.jpg",
-      "name": "Tapani Mäkinen",
-      "sort_name": "Mäkinen Tapani",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/makinen-tapani.jpg"
-        }
-      ],
+      "id": "person/55f2674c-1c2c-47b9-b558-bb02bea5fcc5",
+      "name": "Susanna Koski",
+      "sort_name": "Susanna Koski",
       "memberships": [
         {
-          "person_id": "person/05f7315f-8184-47b5-b6b1-b5f9ef825f86",
+          "person_id": "person/55f2674c-1c2c-47b9-b558-bb02bea5fcc5",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5094,8 +4248,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5120,35 +4274,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "terhi.peltokorpi@eduskunta.fi",
-      "gender": "female",
-      "id": "person/8750f952-b3e4-4ef9-9963-809084c201cb",
-      "image": "http://kansanmuisti.fi/media/images/members/peltokorpi-terhi.jpg",
-      "name": "Terhi Peltokorpi",
-      "sort_name": "Peltokorpi Terhi",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/peltokorpi-terhi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8750f952-b3e4-4ef9-9963-809084c201cb",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "kesk",
-          "area_id": "area/helsingin",
-          "start_date": "2014-09-03",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5173,8 +4300,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5199,8 +4326,44 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "r",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/181ce14e-6987-4696-84f9-c7220432218c",
+      "name": "Tiina Elovaara",
+      "sort_name": "Tiina Elovaara",
+      "memberships": [
+        {
+          "person_id": "person/181ce14e-6987-4696-84f9-c7220432218c",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/pirkanmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6cf9ca63-12b5-41c0-8b19-a698c5bb0b28",
+      "name": "Timo Harakka",
+      "sort_name": "Timo Harakka",
+      "memberships": [
+        {
+          "person_id": "person/6cf9ca63-12b5-41c0-8b19-a698c5bb0b28",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "sd",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5225,8 +4388,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kok",
-          "area_id": "area/hämeen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5251,8 +4414,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/satakunnan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/satakunnan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5277,8 +4440,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5303,8 +4466,33 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0493a9c4-be78-42f2-88c3-3a160ab0a56e",
+      "image": "http://kansanmuisti.fi/media/images/members/kankaanniemi-toimi.jpg",
+      "name": "Toimi Kankaanniemi",
+      "sort_name": "Kankaanniemi Toimi",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/kankaanniemi-toimi.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0493a9c4-be78-42f2-88c3-3a160ab0a56e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5329,8 +4517,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/helsingin",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5338,25 +4526,17 @@
       ]
     },
     {
-      "email": "tuija.brax@eduskunta.fi",
-      "gender": "female",
-      "id": "person/ecd7fb03-dfbf-49a2-a98e-6d357c61309b",
-      "image": "http://kansanmuisti.fi/media/images/members/brax-tuija.jpg",
-      "name": "Tuija Brax",
-      "sort_name": "Brax Tuija",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/brax-tuija.jpg"
-        }
-      ],
+      "id": "person/955dad24-c65c-48fb-8a68-a11302357692",
+      "name": "Touko Aalto",
+      "sort_name": "Touko Aalto",
       "memberships": [
         {
-          "person_id": "person/ecd7fb03-dfbf-49a2-a98e-6d357c61309b",
+          "person_id": "person/955dad24-c65c-48fb-8a68-a11302357692",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/uudenmaan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/keski-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5381,8 +4561,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "kesk",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5390,51 +4570,24 @@
       ]
     },
     {
-      "email": "tuula.peltonen@eduskunta.fi",
       "gender": "female",
-      "id": "person/61229458-ab92-47b0-beca-f96771dde52a",
-      "image": "http://kansanmuisti.fi/media/images/members/peltonen-tuula.jpg",
-      "name": "Tuula Peltonen",
-      "sort_name": "Peltonen Tuula",
+      "id": "person/eebed5e8-3e54-421b-9133-fe2dafcdb11a",
+      "image": "http://kansanmuisti.fi/media/images/members/haatainen-tuula.jpg",
+      "name": "Tuula Haatainen",
+      "sort_name": "Haatainen Tuula",
       "images": [
         {
-          "url": "http://kansanmuisti.fi/media/images/members/peltonen-tuula.jpg"
+          "url": "http://kansanmuisti.fi/media/images/members/haatainen-tuula.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/61229458-ab92-47b0-beca-f96771dde52a",
+          "person_id": "person/eebed5e8-3e54-421b-9133-fe2dafcdb11a",
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/keski-suomen",
-          "legislative_period_id": "term/36"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "tuula.vaatainen@eduskunta.fi",
-      "gender": "female",
-      "id": "person/0afed217-2a74-42ed-8085-fab02eb0359e",
-      "image": "http://kansanmuisti.fi/media/images/members/vaatainen-tuula.jpg",
-      "name": "Tuula Väätäinen",
-      "sort_name": "Väätäinen Tuula",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/vaatainen-tuula.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0afed217-2a74-42ed-8085-fab02eb0359e",
-          "organization_id": "chamber/eduskunta",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/pohjois-savon",
-          "legislative_period_id": "term/36"
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5459,8 +4612,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "sd",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5468,25 +4621,35 @@
       ]
     },
     {
-      "email": "ulla-maj.wideroos@eduskunta.fi",
-      "gender": "female",
-      "id": "person/208ceb92-0a4a-4fa8-83bc-80cf718cd865",
-      "image": "http://kansanmuisti.fi/media/images/members/wideroos-ulla-maj.jpg",
-      "name": "Ulla-Maj Wideroos",
-      "sort_name": "Wideroos Ulla-Maj",
-      "images": [
-        {
-          "url": "http://kansanmuisti.fi/media/images/members/wideroos-ulla-maj.jpg"
-        }
-      ],
+      "id": "person/576857dc-a08b-4ccf-8800-9c2f57581bea",
+      "name": "Ulla Parviainen",
+      "sort_name": "Ulla Parviainen",
       "memberships": [
         {
-          "person_id": "person/208ceb92-0a4a-4fa8-83bc-80cf718cd865",
+          "person_id": "person/576857dc-a08b-4ccf-8800-9c2f57581bea",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "r",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/63fb60ba-97fc-4ce5-bc3e-b59aaa784f2e",
+      "name": "Veera Ruoho",
+      "sort_name": "Veera Ruoho",
+      "memberships": [
+        {
+          "person_id": "person/63fb60ba-97fc-4ce5-bc3e-b59aaa784f2e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/uudenmaan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5511,8 +4674,8 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/vaasan",
-          "legislative_period_id": "term/36"
+          "area_id": "area/vaasan_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5537,8 +4700,44 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "vihr",
-          "area_id": "area/varsinais-suomen",
-          "legislative_period_id": "term/36"
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/afad8b1d-058a-46bf-8820-9ecfb8944332",
+      "name": "Ville Skinnari",
+      "sort_name": "Ville Skinnari",
+      "memberships": [
+        {
+          "person_id": "person/afad8b1d-058a-46bf-8820-9ecfb8944332",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "sd",
+          "area_id": "area/hämeen_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7b0f80d5-0abf-46f5-863e-6b359e52b69e",
+      "name": "Ville Tavio",
+      "sort_name": "Ville Tavio",
+      "memberships": [
+        {
+          "person_id": "person/7b0f80d5-0abf-46f5-863e-6b359e52b69e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/varsinais-suomen_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
@@ -5563,8 +4762,26 @@
           "organization_id": "chamber/eduskunta",
           "role": "member",
           "on_behalf_of_id": "ps",
-          "area_id": "area/oulun",
-          "legislative_period_id": "term/36"
+          "area_id": "area/oulun_vaalipiiri",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/97e78bec-0b20-4d84-b99a-0e99352a4f22",
+      "name": "Wille Rydman",
+      "sort_name": "Wille Rydman",
+      "memberships": [
+        {
+          "person_id": "person/97e78bec-0b20-4d84-b99a-0e99352a4f22",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kok",
+          "area_id": "area/helsingin_vaalipiiri",
+          "legislative_period_id": "term/37"
         }
       ],
       "contact_details": [
