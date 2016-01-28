@@ -1,7 +1,7 @@
 {
-  "total": 296,
+  "total": 297,
   "page": 1,
-  "per_page": 296,
+  "per_page": 297,
   "has_more": false,
   "result": [
     {
@@ -696,7 +696,7 @@
           "person_id": "person/e46af24e-a6b0-4aa0-bf28-aed47ad96a3c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "무소속",
+          "on_behalf_of_id": "새누리당",
           "area_id": "area/부산_사하구을",
           "legislative_period_id": "term/19"
         }
@@ -2566,6 +2566,30 @@
           "area_id": "area/경기_양주시동두천시",
           "legislative_period_id": "term/19"
         }
+      ]
+    },
+    {
+      "id": "person/96c7e3b9-d7e6-4e15-ae54-1820124aea74",
+      "image": "http://www.assembly.go.kr/photo/.jpg)",
+      "name": "JUNG Younsuk",
+      "sort_name": "JUNG Younsuk",
+      "images": [
+        {
+          "url": "http://www.assembly.go.kr/photo/.jpg)"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/96c7e3b9-d7e6-4e15-ae54-1820124aea74",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "새누리당",
+          "area_id": "area/비례대표",
+          "legislative_period_id": "term/19"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -6939,7 +6963,7 @@
           "person_id": "person/737be580-efa9-4ba5-90fb-2f6b1dc7b74d",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "더불어민주당",
+          "on_behalf_of_id": "무소속",
           "area_id": "area/전남_목포시",
           "legislative_period_id": "term/19"
         }
