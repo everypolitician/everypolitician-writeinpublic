@@ -1,7 +1,7 @@
 {
-  "total": 568,
+  "total": 569,
   "page": 1,
-  "per_page": 568,
+  "per_page": 569,
   "has_more": false,
   "result": [
     {
@@ -2867,6 +2867,30 @@
           "role": "member",
           "on_behalf_of_id": "united_development_party_faction",
           "area_id": "area/jambi",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/60892394-006f-4fb0-a1da-d30a6b2aba96",
+      "image": "http://dpr.go.id/doksigota/photo/313_DRA._EVA_KUSUMA_SUNDARI_MA,_MDE.jpg",
+      "name": "Dra. EVA KUSUMA SUNDARI MA, MDE",
+      "sort_name": "Dra. EVA KUSUMA SUNDARI MA, MDE",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/313_DRA._EVA_KUSUMA_SUNDARI_MA,_MDE.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/60892394-006f-4fb0-a1da-d30a6b2aba96",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
+          "area_id": "area/jawa_timur_vi",
           "legislative_period_id": "term/18"
         }
       ],
@@ -13577,6 +13601,12 @@
       "image": "http://dpr.go.id/doksigota/photo/777.jpg",
       "name": "ZULKIFLI HASAN, SE., MM.",
       "sort_name": "ZULKIFLI HASAN, SE., MM.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Zul_Hasan"
+        }
+      ],
       "images": [
         {
           "url": "http://dpr.go.id/doksigota/photo/777.jpg"
@@ -13591,9 +13621,6 @@
           "area_id": "area/lampung_i",
           "legislative_period_id": "term/18"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
