@@ -1,7 +1,7 @@
 {
-  "total": 518,
+  "total": 521,
   "page": 1,
-  "per_page": 518,
+  "per_page": 521,
   "has_more": false,
   "result": [
     {
@@ -6084,6 +6084,31 @@
       ]
     },
     {
+      "email": "dep.josiasgomes@camara.leg.br",
+      "id": "person/ec5cd414-a605-43cd-bcbb-0d521f427a3c",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74141.jpg",
+      "name": "JOSIAS GOMES",
+      "sort_name": "JOSIAS GOMES",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74141.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ec5cd414-a605-43cd-bcbb-0d521f427a3c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PT",
+          "area_id": "area/ba",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.josuebengtson@camara.leg.br",
       "gender": "male",
       "id": "person/d603fa6b-9202-4f06-a27c-a0a76cbe322a",
@@ -9433,6 +9458,31 @@
       ]
     },
     {
+      "email": "dep.nelsonpellegrino@camara.leg.br",
+      "id": "person/06acec99-d985-4b2d-86be-479eca04a91b",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74571.jpg",
+      "name": "NELSON PELLEGRINO",
+      "sort_name": "NELSON PELLEGRINO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74571.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/06acec99-d985-4b2d-86be-479eca04a91b",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PT",
+          "area_id": "area/ba",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.newtoncardosojr@camara.leg.br",
       "gender": "male",
       "id": "person/e3c24d9f-aa95-4b86-ad8b-52d1d9081b0f",
@@ -9555,6 +9605,31 @@
           "role": "member",
           "on_behalf_of_id": "PTB",
           "area_id": "area/ro",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.odaircunha@camara.leg.br",
+      "id": "person/4237cb6b-764d-4792-8454-e07aa74f2e76",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74159.jpg",
+      "name": "ODAIR CUNHA",
+      "sort_name": "ODAIR CUNHA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74159.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4237cb6b-764d-4792-8454-e07aa74f2e76",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PT",
+          "area_id": "area/mg",
           "legislative_period_id": "term/55"
         }
       ],
