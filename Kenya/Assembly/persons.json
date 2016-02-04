@@ -1,7 +1,7 @@
 {
-  "total": 350,
+  "total": 351,
   "page": 1,
-  "per_page": 350,
+  "per_page": 351,
   "has_more": false,
   "result": [
     {
@@ -429,7 +429,7 @@
           "person_id": "person/c6b3dc13-7b5a-47ce-900e-98529966cea5",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "labour_party_of_kenya",
+          "on_behalf_of_id": "TNA",
           "area_id": "area/kajiado_south",
           "legislative_period_id": "term/11"
         }
@@ -2341,7 +2341,6 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "orange_democratic_movement",
-          "area_id": "area/bondo",
           "legislative_period_id": "term/11"
         }
       ],
@@ -5335,6 +5334,31 @@
       ]
     },
     {
+      "email": "kajiadosouth@parliament.go.kemailto:kmetito49@gmail.com",
+      "id": "person/56a9d06f-f9ac-4efb-ac50-0e16c47f9717",
+      "image": "http://info.mzalendo.com/media_root/cache/3a/a5/3aa509e03411ad0d1f83b33b02c26cc8.jpg",
+      "name": "Judah ole Metito",
+      "sort_name": "Judah ole Metito",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/3a/a5/3aa509e03411ad0d1f83b33b02c26cc8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/56a9d06f-f9ac-4efb-ac50-0e16c47f9717",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "IND",
+          "area_id": "area/kajiado_east",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "njomojude@gmail.com",
       "gender": "male",
       "id": "person/3ca3315d-3c64-4e57-8828-e2b975d06d69",
@@ -6488,7 +6512,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "TNA",
-          "area_id": "area/kajiado_north",
+          "area_id": "area/kajiado_west",
           "legislative_period_id": "term/11"
         }
       ],
@@ -7358,7 +7382,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "TNA",
-          "area_id": "area/embu",
+          "area_id": "area/mbeere_south",
           "legislative_period_id": "term/11"
         }
       ],
