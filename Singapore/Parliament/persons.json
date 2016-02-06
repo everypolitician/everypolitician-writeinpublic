@@ -1,7 +1,7 @@
 {
-  "total": 92,
+  "total": 93,
   "page": 1,
-  "per_page": 92,
+  "per_page": 93,
   "has_more": false,
   "result": [
     {
@@ -378,6 +378,29 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "people’s_action_party",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/592fd60e-bcef-4dee-be95-cbd40414e771",
+      "image": "http://www.parliament.gov.sg/sites/default/files/Daniel%20Goh_0.jpg",
+      "name": "Daniel Goh Pei Siong",
+      "sort_name": "Daniel Goh Pei Siong",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/Daniel%20Goh_0.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/592fd60e-bcef-4dee-be95-cbd40414e771",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "workers’_party",
           "legislative_period_id": "term/13"
         }
       ],
