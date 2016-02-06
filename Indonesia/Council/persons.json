@@ -1540,6 +1540,30 @@
       ]
     },
     {
+      "id": "person/bcd238c1-b96f-412b-be87-8eca0372d712",
+      "image": "http://dpr.go.id/doksigota/photo/111_Drs._ADE_KOMARUDIN,_M.H..jpg",
+      "name": "DR. H. ADE KOMARUDIN, M.H.",
+      "sort_name": "DR. H. ADE KOMARUDIN, M.H.",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/111_Drs._ADE_KOMARUDIN,_M.H..jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bcd238c1-b96f-412b-be87-8eca0372d712",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "golkar_party_faction",
+          "area_id": "area/jawa_barat_vii",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/247d7f37-a6d5-45ee-a140-c319281c12ec",
       "image": "http://dpr.go.id/doksigota/photo/1590.jpg",
       "name": "DR. H. ANDI AKMAL PASLUDDIN, S.P., M.M.",
@@ -2067,30 +2091,6 @@
           "role": "member",
           "on_behalf_of_id": "national_democrat_party_faction",
           "area_id": "area/maluku_utara",
-          "legislative_period_id": "term/18"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/bcd238c1-b96f-412b-be87-8eca0372d712",
-      "image": "http://dpr.go.id/doksigota/photo/111_Drs._ADE_KOMARUDIN,_M.H..jpg",
-      "name": "Dr. ADE KOMARUDIN, M.H.",
-      "sort_name": "Dr. ADE KOMARUDIN, M.H.",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/111_Drs._ADE_KOMARUDIN,_M.H..jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bcd238c1-b96f-412b-be87-8eca0372d712",
-          "organization_id": "chamber/dewan_perwakilan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "golkar_party_faction",
-          "area_id": "area/jawa_barat_vii",
           "legislative_period_id": "term/18"
         }
       ],
