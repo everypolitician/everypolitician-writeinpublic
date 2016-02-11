@@ -1,7 +1,7 @@
 {
-  "total": 396,
+  "total": 397,
   "page": 1,
-  "per_page": 396,
+  "per_page": 397,
   "has_more": false,
   "result": [
     {
@@ -7135,6 +7135,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ANC",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "fmahlaule@nwpl.org.za",
+      "id": "person/2fbce269-f7a9-4ada-9eb0-77f264e9ce02",
+      "image": "http://www.pa.org.za/media_root/cache/7d/60/7d60e4c87ca063dfae01184db2f8e950.jpg",
+      "name": "Patrick Chauke",
+      "sort_name": "Patrick Chauke",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/7d/60/7d60e4c87ca063dfae01184db2f8e950.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2fbce269-f7a9-4ada-9eb0-77f264e9ce02",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ANC",
+          "area_id": "area/north_west",
           "legislative_period_id": "term/26"
         }
       ],
