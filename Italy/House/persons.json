@@ -3572,7 +3572,7 @@
       ]
     },
     {
-      "email": "BRESSA_G@camera.it",
+      "email": "BRESSA_G@CAMERA.IT",
       "gender": "male",
       "id": "person/447f4723-7cde-4a08-a307-8290e293242e",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/050/437/original_d50437.jpg",
@@ -3589,7 +3589,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "area/trentino-alto_adige",
+          "area_id": "VI",
           "legislative_period_id": "term/17"
         }
       ],
@@ -4165,6 +4165,14 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
+          "area_id": "area/veneto_1",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/515a106e-707f-4568-a19c-74dfbca476df",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "partito_democratico",
           "area_id": "VII",
           "start_date": "2014-06-25",
           "legislative_period_id": "term/17"
@@ -4445,7 +4453,7 @@
       ]
     },
     {
-      "email": "capodicasa_a@camera.it",
+      "email": "CAPODICASA_A@CAMERA.IT",
       "gender": "male",
       "id": "person/483d71aa-1924-4760-9773-4e5a54276c93",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/301/478/original_d301478.jpg",
@@ -4468,7 +4476,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "area/sicilia_1",
+          "area_id": "XXIV",
           "legislative_period_id": "term/17"
         }
       ],
@@ -7301,7 +7309,7 @@
       ]
     },
     {
-      "email": "dattorre_a@camera.it",
+      "email": "DATTORRE_A@CAMERA.IT",
       "gender": "male",
       "id": "person/b82c7448-9c5c-4212-aebd-b09ba73c4b83",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/131/original_d306131.jpg",
@@ -7317,8 +7325,9 @@
           "person_id": "person/b82c7448-9c5c-4212-aebd-b09ba73c4b83",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "sinistra_italiana-sinistra_ecologia_e_libertà",
-          "area_id": "area/calabria",
+          "on_behalf_of_id": "partito_democratico",
+          "area_id": "XXIII",
+          "end_date": "2015-11-06",
           "legislative_period_id": "term/17"
         },
         {
@@ -8061,7 +8070,7 @@
       ]
     },
     {
-      "email": "delbasso_u@camera.it",
+      "email": "DELBASSO_U@CAMERA.IT",
       "gender": "male",
       "id": "person/1faf0760-7a87-4c3c-8843-db0793d23b09",
       "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/032/910/original_d32910.jpg",
@@ -8084,7 +8093,7 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
-          "area_id": "area/campania_2",
+          "area_id": "XX",
           "legislative_period_id": "term/17"
         }
       ],
@@ -17981,6 +17990,16 @@
           "role": "member",
           "on_behalf_of_id": "forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
           "area_id": "XX",
+          "end_date": "2016-02-02",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/b0eb473a-6e1f-482b-a8d7-b01fba18e845",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "fratelli_d'italia-alleanza_nazionale",
+          "area_id": "XX",
+          "start_date": "2016-02-02",
           "legislative_period_id": "term/17"
         }
       ],
@@ -18598,6 +18617,16 @@
           "on_behalf_of_id": "scelta_civica_per_l'italia",
           "area_id": "XXVI",
           "start_date": "2015-03-25",
+          "end_date": "2016-02-04",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/c8154538-8b96-4399-8b7d-9cd4cb5eb993",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "partito_democratico",
+          "area_id": "XXVI",
+          "start_date": "2016-02-04",
           "legislative_period_id": "term/17"
         }
       ]
