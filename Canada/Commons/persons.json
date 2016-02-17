@@ -1410,14 +1410,6 @@
           "on_behalf_of_id": "ndp",
           "area_id": "area/ontario_(algoma—manitoulin—kapuskasing)",
           "legislative_period_id": "term/42"
-        },
-        {
-          "person_id": "person/48c57b21-9167-43a9-a07b-55126c1b1957",
-          "organization_id": "chamber/house_of_commons",
-          "role": "member",
-          "on_behalf_of_id": "ndp",
-          "area_id": "area/ontario_(algoma—manitoulin—kapuskasing)",
-          "legislative_period_id": "term/42"
         }
       ]
     },
@@ -6574,6 +6566,7 @@
     },
     {
       "email": "Michael.McLeod@parl.gc.ca",
+      "gender": "male",
       "id": "person/65a4ef51-dd6e-4edb-b576-8bad6767a859",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/McLeodMichael_Lib.jpg",
       "name": "Michael McLeod",
@@ -9541,6 +9534,7 @@
     },
     {
       "email": "Wayne.Stetski@parl.gc.ca",
+      "gender": "male",
       "id": "person/65f76152-78d9-49e8-bfb0-21be8926317b",
       "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/StetskiWayne_NDP.jpg",
       "name": "Wayne Stetski",
