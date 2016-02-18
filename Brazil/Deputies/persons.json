@@ -1,7 +1,7 @@
 {
-  "total": 521,
+  "total": 522,
   "page": 1,
-  "per_page": 521,
+  "per_page": 522,
   "has_more": false,
   "result": [
     {
@@ -8231,6 +8231,31 @@
           "role": "member",
           "on_behalf_of_id": "PP",
           "area_id": "area/pr",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.marcelocastro@camara.leg.br",
+      "id": "person/d0411b0a-7aeb-4470-8ecd-25e12d1becaa",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74460.jpg",
+      "name": "MARCELO CASTRO",
+      "sort_name": "MARCELO CASTRO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74460.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d0411b0a-7aeb-4470-8ecd-25e12d1becaa",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PMDB",
+          "area_id": "area/pi",
           "legislative_period_id": "term/55"
         }
       ],

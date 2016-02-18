@@ -1,7 +1,7 @@
 {
-  "total": 112,
+  "total": 113,
   "page": 1,
-  "per_page": 112,
+  "per_page": 113,
   "has_more": false,
   "result": [
     {
@@ -21,8 +21,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/7th_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -46,8 +46,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -71,8 +71,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/5th_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -96,8 +96,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/taitung_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -121,8 +121,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_miaoli_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -146,34 +146,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/3rd_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/fb7c8a31-47be-411c-97f4-150bf6fc6030",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81117.jpg",
-      "name": "Chen-Chang Lai",
-      "sort_name": "Lai, Chen-Chang",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81117.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fb7c8a31-47be-411c-97f4-150bf6fc6030",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "tsu",
-          "area_id": "area/nationwide",
-          "start_date": "2014-02-10",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -197,8 +171,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/1st_electoral_district,pingtung_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/a08ac85a-216d-4f5f-a56c-54716a11e1f0",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90047.jpg",
+      "name": "Chen-Wei Hsu",
+      "sort_name": "Hsu, Chen-Wei",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90047.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a08ac85a-216d-4f5f-a56c-54716a11e1f0",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -207,23 +206,23 @@
     },
     {
       "gender": "male",
-      "id": "person/63e3f4aa-6a51-47e2-91bc-6277401ae004",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80071.jpg",
-      "name": "Chen-Hsiang Chen",
-      "sort_name": "Chen, Chen-Hsiang",
+      "id": "person/83f9624c-1e27-4cb2-a2b6-762b601d786a",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90080.jpg",
+      "name": "Cheng-Wu Yang",
+      "sort_name": "Yang, Cheng-Wu",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80071.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90080.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/63e3f4aa-6a51-47e2-91bc-6277401ae004",
+          "person_id": "person/83f9624c-1e27-4cb2-a2b6-762b601d786a",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -232,48 +231,23 @@
     },
     {
       "gender": "male",
-      "id": "person/dfa88ade-790d-432f-b02e-b8abb284c684",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80085.jpg",
-      "name": "Cheng-Ching Liao",
-      "sort_name": "Liao, Cheng-Ching",
+      "id": "person/a2e002c0-031c-429a-9eeb-275b7fcdb428",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90085.jpg",
+      "name": "Cheng-Yu Chao",
+      "sort_name": "Chao, Cheng-Yu",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80085.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90085.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/dfa88ade-790d-432f-b02e-b8abb284c684",
+          "person_id": "person/a2e002c0-031c-429a-9eeb-275b7fcdb428",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/2nd_electoral_district,_taoyuan_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/8dea90c5-298c-4bfd-8773-5ed44efe6eff",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80094.jpg",
-      "name": "Cheng-Yuan Tsai",
-      "sort_name": "Tsai, Cheng-Yuan",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80094.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8dea90c5-298c-4bfd-8773-5ed44efe6eff",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/4th_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -297,8 +271,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/1st_electoral_district,_taichung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -322,8 +296,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/8th_electoral_district,_taichung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -347,8 +321,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -357,73 +331,73 @@
     },
     {
       "gender": "male",
-      "id": "person/e5cbbbfb-fbbe-4080-b0cf-4a1f9d8b2104",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80102.jpg",
-      "name": "Chia-Chen Lu",
-      "sort_name": "Lu, Chia-Chen",
+      "id": "person/7113d736-ec58-4b7c-ae89-c05248eaffc9",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90017.jpg",
+      "name": "Chi-Ming Wu",
+      "sort_name": "Wu, Chi-Ming",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80102.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90017.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e5cbbbfb-fbbe-4080-b0cf-4a1f9d8b2104",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/10th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/c08becf6-60f1-4c28-bdc4-6c65df3e1184",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80053.jpg",
-      "name": "Chia-Chun Chang",
-      "sort_name": "Chang, Chia-Chun",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80053.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c08becf6-60f1-4c28-bdc4-6c65df3e1184",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_yulin_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/65cddd1a-6445-4d7a-93ce-3d19b3d2d749",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80067.jpg",
-      "name": "Chiech-Ju Chen",
-      "sort_name": "Chen, Chiech-Ju",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80067.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/65cddd1a-6445-4d7a-93ce-3d19b3d2d749",
+          "person_id": "person/7113d736-ec58-4b7c-ae89-c05248eaffc9",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/1f19498d-5db7-4310-9b3d-2c34e07df452",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90104.jpg",
+      "name": "Chia-Pin Chung",
+      "sort_name": "Chung, Chia-Pin",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90104.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1f19498d-5db7-4310-9b3d-2c34e07df452",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/0fc9b8e9-99a0-44e0-915c-3f14b1f06c05",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90109.jpg",
+      "name": "Chiao-Hui Su",
+      "sort_name": "Su, Chiao-Hui",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90109.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0fc9b8e9-99a0-44e0-915c-3f14b1f06c05",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -447,8 +421,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/2nd_electoral_district,_yulin_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -472,8 +446,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/dc008f0d-92a6-49f1-b4a1-d53df6305f4f",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90108.jpg",
+      "name": "Chih-Cheng Lo",
+      "sort_name": "Lo, Chih-Cheng",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90108.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dc008f0d-92a6-49f1-b4a1-d53df6305f4f",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -497,8 +496,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/8th_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -506,24 +505,49 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/61eaa1e3-017b-4e5c-9d1f-c6edd2d0ee53",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80075.jpg",
-      "name": "Chih-Hsiung Huang",
-      "sort_name": "Huang, Chih-Hsiung",
+      "gender": "female",
+      "id": "person/99f10e96-6899-4767-904a-a732322ccdea",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90039.jpg",
+      "name": "Chih-En Ko",
+      "sort_name": "Ko, Chih-En",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80075.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90039.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/61eaa1e3-017b-4e5c-9d1f-c6edd2d0ee53",
+          "person_id": "person/99f10e96-6899-4767-904a-a732322ccdea",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/5th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/41eb0dc4-3e66-49a8-b2bb-ea0a4d9444a1",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90110.jpg",
+      "name": "Chih-Feng Su",
+      "sort_name": "Su, Chih-Feng",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90110.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/41eb0dc4-3e66-49a8-b2bb-ea0a4d9444a1",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -547,9 +571,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/2nd_electoral_district,_miaoli_county",
-          "start_date": "2015-02-16",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -573,8 +596,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/2nd_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -583,199 +606,23 @@
     },
     {
       "gender": "female",
-      "id": "person/3cacc914-b351-46c8-9c39-54c04119557d",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81116.jpg",
-      "name": "Chin-Lin Yeh",
-      "sort_name": "Yeh, Chin-Lin",
+      "id": "person/9c72387b-efbc-4908-9388-03db3abe413c",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90034.jpg",
+      "name": "Ching-Yi Lin",
+      "sort_name": "Lin, Ching-Yi",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81116.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90034.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3cacc914-b351-46c8-9c39-54c04119557d",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "tsu",
-          "area_id": "area/nationwide",
-          "start_date": "2013-07-26",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7c3041e2-4511-42ec-9455-2ca8cb1af45a",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80097.jpg",
-      "name": "Chin-Lung Tsai",
-      "sort_name": "Tsai, Chin-Lung",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80097.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7c3041e2-4511-42ec-9455-2ca8cb1af45a",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/4th_electoral_district,_taichung_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ca409bdb-8bf4-47c7-a1d9-073c1851e0b4",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80006.jpg",
-      "name": "Chin-Shih Wang",
-      "sort_name": "Wang, Chin-Shih",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80006.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ca409bdb-8bf4-47c7-a1d9-073c1851e0b4",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/2rd_electoral_district,pingtung_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/77f2cd67-452b-4582-90d5-666de42b2f5c",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80112.jpg",
-      "name": "Ching-Chuan Su",
-      "sort_name": "Su, Ching-Chuan",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80112.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/77f2cd67-452b-4582-90d5-666de42b2f5c",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/43e866ba-0204-4175-b441-883b57a0e452",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80023.jpg",
-      "name": "Ching-Hua Lee",
-      "sort_name": "Lee, Ching-Hua",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80023.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/43e866ba-0204-4175-b441-883b57a0e452",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/12th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7ba6a83b-5692-41bc-a5ad-1897e669e06e",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80054.jpg",
-      "name": "Ching-chung Chang",
-      "sort_name": "Chang, Ching-chung",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80054.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7ba6a83b-5692-41bc-a5ad-1897e669e06e",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/8th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/8674b75a-7d82-4304-9379-f0ba0a9b338a",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80009.jpg",
-      "name": "Chiu-Chin Tien",
-      "sort_name": "Tien,Chiu-Chin",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80009.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8674b75a-7d82-4304-9379-f0ba0a9b338a",
+          "person_id": "person/9c72387b-efbc-4908-9388-03db3abe413c",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/ee5d52c1-d7d3-4c0a-b360-fab5cacff770",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81081.jpg",
-      "name": "Chiung-Ying Yang",
-      "sort_name": "Yang, Chiung-Ying",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81081.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ee5d52c1-d7d3-4c0a-b360-fab5cacff770",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/3rd_electoral_district,_taichung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -784,23 +631,73 @@
     },
     {
       "gender": "male",
-      "id": "person/a37301c2-ca14-4ad6-8b5c-083109a1ee74",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80072.jpg",
-      "name": "Chu-Wei Tseng",
-      "sort_name": "Tseng, Chu-Wei",
+      "id": "person/17c4a039-12c8-41cc-8db2-062961182679",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90029.jpg",
+      "name": "Chun-Hsien Lin",
+      "sort_name": "Lin, Chun-Hsien",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80072.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90029.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a37301c2-ca14-4ad6-8b5c-083109a1ee74",
+          "person_id": "person/17c4a039-12c8-41cc-8db2-062961182679",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/c65ba856-1602-46ca-b9f9-30667771e51d",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90026.jpg",
+      "name": "Chun-Mi Chou",
+      "sort_name": "Chou, Chun-Mi",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90026.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c65ba856-1602-46ca-b9f9-30667771e51d",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6f862895-b073-4298-b9ad-00ce471554ef",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90042.jpg",
+      "name": "Chun-Yi Hung",
+      "sort_name": "Hung, Chun-Yi",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90042.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6f862895-b073-4298-b9ad-00ce471554ef",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -824,58 +721,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/chaiyi_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2e5c5bbc-6f33-498c-8247-c424567e25b8",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80049.jpg",
-      "name": "Chung-Chun Wong",
-      "sort_name": "Wong, Chung-Chun",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80049.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2e5c5bbc-6f33-498c-8247-c424567e25b8",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_chiayi_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/261f586f-1f13-4342-a617-08aaf2df591b",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80022.jpg",
-      "name": "Guei-Min Lee",
-      "sort_name": "Lee, Guei-Min",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80022.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/261f586f-1f13-4342-a617-08aaf2df591b",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -899,8 +746,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/7th_electoral_district,_taichung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -909,23 +756,23 @@
     },
     {
       "gender": "female",
-      "id": "person/402b4101-82b9-45ad-88c5-69b6c35f3122",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80047.jpg",
-      "name": "Hsin-Ying Hsu",
-      "sort_name": "Hsu, Hsin-Ying",
+      "id": "person/127803f9-3c95-4465-9343-1db2fd03f801",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90074.jpg",
+      "name": "Hsiou-Fang Huang",
+      "sort_name": "Huang, Hsiou-Fang",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80047.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90074.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/402b4101-82b9-45ad-88c5-69b6c35f3122",
+          "person_id": "person/127803f9-3c95-4465-9343-1db2fd03f801",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/hsinchu_county",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -934,73 +781,23 @@
     },
     {
       "gender": "female",
-      "id": "person/0c23a6c7-a8b8-4377-98bb-e0311cfbb227",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80043.jpg",
-      "name": "Hsiu-Chu Hung",
-      "sort_name": "Hung, Hsiu-Chu",
+      "id": "person/cb33fcfb-89a6-4ac6-924e-d6042d92150a",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90027.jpg",
+      "name": "Hsiu-Hsia Chou Chen",
+      "sort_name": "Chou Chen, Hsiu-Hsia",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80043.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90027.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0c23a6c7-a8b8-4377-98bb-e0311cfbb227",
+          "person_id": "person/cb33fcfb-89a6-4ac6-924e-d6042d92150a",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/212e3720-d2a7-4ff6-96cc-bd8385d6bc9a",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80046.jpg",
-      "name": "Hsu Shao-Ping Lin",
-      "sort_name": "Lin, Hsu Shao-Ping",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80046.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/212e3720-d2a7-4ff6-96cc-bd8385d6bc9a",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/24c0a833-8444-456e-8e62-dabd276c7699",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80018.jpg",
-      "name": "Hsueh-Chang Lu",
-      "sort_name": "Lu, Hsueh-Chang",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80018.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/24c0a833-8444-456e-8e62-dabd276c7699",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/hsinchu_city",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "pfp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1024,58 +821,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/lienchiang_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/983a5d4d-9a02-4bc4-8642-2bbea2dd8bec",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80096.jpg",
-      "name": "Huang-Liang Tsai",
-      "sort_name": "Tsai, Huang-Liang",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80096.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/983a5d4d-9a02-4bc4-8642-2bbea2dd8bec",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/609a0c0a-1266-4ac6-a8df-4c5434651d04",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80011.jpg",
-      "name": "Huei-Chen Chiang",
-      "sort_name": "Chiang, Huei-Chen",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80011.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/609a0c0a-1266-4ac6-a8df-4c5434651d04",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/7th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1099,33 +846,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_changhua_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/52e8136a-daa2-41da-a03d-e09d640d8da1",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80036.jpg",
-      "name": "Hung-Chih Lin",
-      "sort_name": "Lin, Hung-Chih",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80036.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/52e8136a-daa2-41da-a03d-e09d640d8da1",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/6th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1148,9 +870,59 @@
           "person_id": "person/f8324f71-4e1f-443b-ab29-3e0f9bbb556d",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/4th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "pfp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a66666a6-3465-44de-974a-30a50e6fa65b",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90052.jpg",
+      "name": "Hung-Lu Chang",
+      "sort_name": "Chang, Hung-Lu",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90052.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a66666a6-3465-44de-974a-30a50e6fa65b",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/281621ef-24ea-44ee-9fda-ff3ebaf34524",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90111.jpg",
+      "name": "Jia-chyuan Su",
+      "sort_name": "Su, Jia-chyuan",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90111.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/281621ef-24ea-44ee-9fda-ff3ebaf34524",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1174,8 +946,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2ac24104-58a6-49d1-a218-27a16433d6d2",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg",
+      "name": "John Chih-Yang Wu",
+      "sort_name": "Wu, John Chih-Yang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2ac24104-58a6-49d1-a218-27a16433d6d2",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1199,9 +996,58 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/3rd_electoral_district,pingtung_county",
-          "start_date": "2015-02-16",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/50327bed-8d55-4084-be26-ee7ed51515d0",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90102.jpg",
+      "name": "Jui-Lung Lai",
+      "sort_name": "Lai, Jui-Lung",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90102.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/50327bed-8d55-4084-be26-ee7ed51515d0",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0e320250-67ab-4d20-ae01-221214cde37a",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90005.jpg",
+      "name": "Jung-Chang Wang",
+      "sort_name": "Wang, Jung-Chang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90005.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0e320250-67ab-4d20-ae01-221214cde37a",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1225,8 +1071,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/3rd_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1234,24 +1080,24 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/7190f6f8-98fa-4e91-bb53-456e41491013",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80084.jpg",
-      "name": "Kai-Chin Chan",
-      "sort_name": "Chan, Kai-Chin",
+      "gender": "female",
+      "id": "person/b6b8d7d9-e984-4bcd-a615-e87e1702b373",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90025.jpg",
+      "name": "Kolas Yotaka",
+      "sort_name": "Kolas Yotaka",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80084.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90025.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/7190f6f8-98fa-4e91-bb53-456e41491013",
+          "person_id": "person/b6b8d7d9-e984-4bcd-a615-e87e1702b373",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/overseas",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1259,24 +1105,24 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/133cbdcd-9e19-4c44-97d1-bbe6d5c79402",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80063.jpg",
-      "name": "Ken-Te Chen",
-      "sort_name": "Chen, Ken-Te",
+      "gender": "female",
+      "id": "person/9372c393-4148-4fdb-8ed9-9e9e5fc5aa44",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90051.jpg",
+      "name": "Kowlo．Iyun．Pacidal",
+      "sort_name": "Kowlo．Iyun．Pacidal",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80063.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90051.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/133cbdcd-9e19-4c44-97d1-bbe6d5c79402",
+          "person_id": "person/9372c393-4148-4fdb-8ed9-9e9e5fc5aa44",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_taoyuan_county",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1300,9 +1146,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/2rd_electoral_district,_taichung_city",
-          "start_date": "2013-02-01",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3451b7cb-a4d2-4c5b-abdf-32a1372ce0a5",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90016.jpg",
+      "name": "Kuen-Yuh Wu",
+      "sort_name": "Wu, Kuen-Yuh",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90016.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3451b7cb-a4d2-4c5b-abdf-32a1372ce0a5",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1326,8 +1196,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/6th_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1336,23 +1206,23 @@
     },
     {
       "gender": "male",
-      "id": "person/d351a35f-3fba-4561-9ce7-dd9afd013e8c",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80032.jpg",
-      "name": "Kuo-Cheng Lin",
-      "sort_name": "Lin, Kuo-Cheng",
+      "id": "person/58471e85-582b-4697-87d1-45bebfb2e3a4",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90103.jpg",
+      "name": "Kung-Chao Chung",
+      "sort_name": "Chung, Kung-Chao",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80032.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90103.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d351a35f-3fba-4561-9ce7-dd9afd013e8c",
+          "person_id": "person/58471e85-582b-4697-87d1-45bebfb2e3a4",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/9th_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1361,23 +1231,23 @@
     },
     {
       "gender": "male",
-      "id": "person/5020d2f7-1d41-4bcb-bdd3-b0652917a562",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80106.jpg",
-      "name": "Kuo-Liang Hsieh",
-      "sort_name": "Hsieh, Kuo-Liang",
+      "id": "person/cc62be07-ae52-4db3-95b3-01e4a0e2cf21",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90077.jpg",
+      "name": "Kuo-Chang Huang",
+      "sort_name": "Huang, Kuo-Chang",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80106.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90077.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5020d2f7-1d41-4bcb-bdd3-b0652917a562",
+          "person_id": "person/cc62be07-ae52-4db3-95b3-01e4a0e2cf21",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/keelung_city",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1401,9 +1271,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/6th_electoral_district,_taichung_city",
-          "start_date": "2015-02-16",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1427,8 +1296,58 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/plain",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/626ea5ca-c9a0-4f07-b8fe-cbc2c1d28ec2",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90046.jpg",
+      "name": "Kuo-Yung Hsu",
+      "sort_name": "Hsu, Kuo-Yung",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90046.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/626ea5ca-c9a0-4f07-b8fe-cbc2c1d28ec2",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/3f647e93-cf10-4de4-9b8c-bf5590797af9",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90035.jpg",
+      "name": "Li-Chan Lin",
+      "sort_name": "Lin, Li-Chan",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90035.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3f647e93-cf10-4de4-9b8c-bf5590797af9",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1452,8 +1371,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1461,49 +1380,24 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/7d061b20-5c3b-4459-a5d7-eac3355e5e47",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80082.jpg",
-      "name": "Li-Huan Yang",
-      "sort_name": "Yang, Li-Huan",
+      "gender": "male",
+      "id": "person/579c5c94-4923-44c6-ac38-38945c9420cf",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90113.jpg",
+      "name": "Li-Hsiung Koo",
+      "sort_name": "Koo, Li-Hsiung",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80082.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90113.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/7d061b20-5c3b-4459-a5d7-eac3355e5e47",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/4th_electoral_district,_taoyuan_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/cd52ab1b-4f9e-4eb9-ab21-1be4119dd275",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80105.jpg",
-      "name": "Ling Hsueh",
-      "sort_name": "Hsueh, Ling",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80105.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cd52ab1b-4f9e-4eb9-ab21-1be4119dd275",
+          "person_id": "person/579c5c94-4923-44c6-ac38-38945c9420cf",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1512,24 +1406,48 @@
     },
     {
       "gender": "female",
-      "id": "person/aa7c126f-107b-4863-9d83-0754e2cc06f1",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81124.jpg",
-      "name": "Man-Jung Chan",
-      "sort_name": "Chan, Man-Jung",
+      "id": "person/9e970919-ff94-4d78-993a-59e8f06f7512",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90054.jpg",
+      "name": "Li-Shan Chang",
+      "sort_name": "Chang, Li-Shan",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81124.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90054.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/aa7c126f-107b-4863-9d83-0754e2cc06f1",
+          "person_id": "person/9e970919-ff94-4d78-993a-59e8f06f7512",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "start_date": "2015-07-20",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/bbac7a74-532f-4419-8994-71deda6dde00",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90065.jpg",
+      "name": "Man-Li Chen",
+      "sort_name": "Chen, Man-Li",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90065.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bbac7a74-532f-4419-8994-71deda6dde00",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1553,8 +1471,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1578,8 +1496,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/11th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1603,8 +1521,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/2nd_electoral_district,_chiayi_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f0b14aa8-cc63-499a-8d3f-d934e5069ea7",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90072.jpg",
+      "name": "Ming-chung Tseng",
+      "sort_name": "Tseng,Ming-chung",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90072.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f0b14aa8-cc63-499a-8d3f-d934e5069ea7",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1628,34 +1571,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/6th_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/493b7da0-64c5-4552-b771-beb71d3e0dca",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81118.jpg",
-      "name": "Ni-An Chou",
-      "sort_name": "Chou, Ni-An",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/81118.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/493b7da0-64c5-4552-b771-beb71d3e0dca",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "tsu",
-          "area_id": "area/nationwide",
-          "start_date": "2014-02-10",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1679,8 +1596,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/i-lan_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6e5f45ea-1db3-4f1a-b619-9206a6f35fd4",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90098.jpg",
+      "name": "Pao-Ching Cheng",
+      "sort_name": "Cheng,Pao-Ching",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90098.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6e5f45ea-1db3-4f1a-b619-9206a6f35fd4",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1689,23 +1631,23 @@
     },
     {
       "gender": "female",
-      "id": "person/1f85615e-2438-4596-ac95-b4819132346f",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80068.jpg",
-      "name": "Pi-Han Chen",
-      "sort_name": "Chen, Pi-Han",
+      "id": "person/5b389b28-1dac-4a86-9124-a33695bdbd11",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90091.jpg",
+      "name": "Pei-Hui Tsai",
+      "sort_name": "Tsai, Pei-Hui",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80068.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90091.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1f85615e-2438-4596-ac95-b4819132346f",
+          "person_id": "person/5b389b28-1dac-4a86-9124-a33695bdbd11",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1729,33 +1671,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/61502b52-0e57-422f-b7fd-fba278b77a86",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80099.jpg",
-      "name": "Ru-Fen Cheng",
-      "sort_name": "Cheng, Ru-Fen",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80099.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/61502b52-0e57-422f-b7fd-fba278b77a86",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/3rd_electoral_district,_changhua_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1779,8 +1696,58 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/3rd_electoral_district,_taoyuan_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg",
+      "name": "Shih-Fang Liu",
+      "sort_name": "Liu, Shih-Fang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/bef639e6-b0ed-45c8-8fee-cca4f1249176",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90092.jpg",
+      "name": "Shih-Ying Tsai",
+      "sort_name": "Tsai, Shih-Ying",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90092.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bef639e6-b0ed-45c8-8fee-cca4f1249176",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1804,33 +1771,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/5th_electoral_district,_taichung_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/c4714c6a-326b-4682-b7e4-54b65e6b1fa3",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80001.jpg",
-      "name": "Shou-chung Ting",
-      "sort_name": "Ting, Shou-chung",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80001.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c4714c6a-326b-4682-b7e4-54b65e6b1fa3",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1854,8 +1796,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/2nd_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1879,59 +1821,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/2rd_electoral_district,_nantou_county",
-          "start_date": "2015-02-16",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/3ca68fe5-86d3-4707-80e8-fc67d67e2b51",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80064.jpg",
-      "name": "Shu-Huey Chen",
-      "sort_name": "Chen, Shu-Huey",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80064.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3ca68fe5-86d3-4707-80e8-fc67d67e2b51",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/498c03cc-4c1b-43a6-a86e-6ee0b205f91c",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80111.jpg",
-      "name": "Shu-Lei Lo",
-      "sort_name": "Lo, Shu-Lei",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80111.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/498c03cc-4c1b-43a6-a86e-6ee0b205f91c",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/3rd_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1955,8 +1846,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/8th_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/7bff10fe-3554-4d4f-a690-f67be217daf1",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90071.jpg",
+      "name": "Su-Mei Chen Lai",
+      "sort_name": "Chen Lai, Su-Mei",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90071.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7bff10fe-3554-4d4f-a690-f67be217daf1",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1979,9 +1895,9 @@
           "person_id": "person/93fbd53c-a89c-44f5-b7fd-b37dd5372caf",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/aboriginals_district",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "pfp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2005,9 +1921,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/4th_electoral_district,_changhua_county",
-          "start_date": "2015-02-16",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2015,24 +1930,49 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/fe78b160-eb4d-40ab-a60a-710eabdf2555",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80045.jpg",
-      "name": "Ta-Chien Sun",
-      "sort_name": "Sun, Ta-Chien",
+      "gender": "female",
+      "id": "person/0a53b9ee-606e-45ca-ba5b-8febe4a1fb53",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90019.jpg",
+      "name": "Sun-Ling Lu",
+      "sort_name": "Lu, Sun-Ling",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80045.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90019.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fe78b160-eb4d-40ab-a60a-710eabdf2555",
+          "person_id": "person/0a53b9ee-606e-45ca-ba5b-8febe4a1fb53",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/6th_electoral_district,_taoyuan_county",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/e74b6be7-4338-4b89-bddb-e66ca9f9b2bd",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90015.jpg",
+      "name": "Szu-Yao Wu",
+      "sort_name": "Wu, Szu-Yao",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90015.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e74b6be7-4338-4b89-bddb-e66ca9f9b2bd",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2056,58 +1996,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/4th_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f4010d73-1dcb-414d-a31b-abc97eb17940",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80057.jpg",
-      "name": "Tain-Tsair Hsu",
-      "sort_name": "Hsu, Tain-Tsair",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80057.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f4010d73-1dcb-414d-a31b-abc97eb17940",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "dpp",
-          "area_id": "area/4th_electoral_district,_tainan_city",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/41974d23-6027-4d85-909b-67e20f156f56",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80062.jpg",
-      "name": "Tan-Sun Chen",
-      "sort_name": "Chen, Tan-Sun",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80062.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/41974d23-6027-4d85-909b-67e20f156f56",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "dpp",
-          "area_id": "area/5th_electoral_district,_tainan_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2131,8 +2021,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/9th_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2156,8 +2046,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/plain",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2181,8 +2071,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/7th_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2206,8 +2096,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/3rd_electoral_district,_tainan_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2216,23 +2106,23 @@
     },
     {
       "gender": "male",
-      "id": "person/08cce0ca-5666-46cb-8fa5-2e0bab522654",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80003.jpg",
-      "name": "Ting-Son Wang",
-      "sort_name": "Wang, Ting-Son",
+      "id": "person/e0b66db6-acdd-43f8-b49c-037ed43c5e8c",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90003.jpg",
+      "name": "Ting-Yu Wang",
+      "sort_name": "Wang, Ting-Yu",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80003.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90003.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/08cce0ca-5666-46cb-8fa5-2e0bab522654",
+          "person_id": "person/e0b66db6-acdd-43f8-b49c-037ed43c5e8c",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/hualien_county",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2241,48 +2131,23 @@
     },
     {
       "gender": "male",
-      "id": "person/3dd2d137-7b72-4025-a512-d3f74c109c39",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80034.jpg",
-      "name": "Tsang-Min Lin",
-      "sort_name": "Lin, Tsang-Min",
+      "id": "person/71f5ff97-4749-4d6b-a4c7-e389d7977b2d",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90030.jpg",
+      "name": "Tshiong-Tso Lim",
+      "sort_name": "Lim, Tshiong-Tso",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80034.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90030.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3dd2d137-7b72-4025-a512-d3f74c109c39",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/2nd_electoral_district,_changhua_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/051643c4-1db1-49aa-9c07-12e5b5756ab0",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80021.jpg",
-      "name": "Tung-Hao Lee",
-      "sort_name": "Lee, Tung-Hao",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80021.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/051643c4-1db1-49aa-9c07-12e5b5756ab0",
+          "person_id": "person/71f5ff97-4749-4d6b-a4c7-e389d7977b2d",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2306,8 +2171,108 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/aboriginals_district",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/fbf1fb88-acce-4621-bda4-44f92f09c4ea",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90043.jpg",
+      "name": "Tzu-Yung Hung",
+      "sort_name": "Hung, Tzu-Yung",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90043.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fbf1fb88-acce-4621-bda4-44f92f09c4ea",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3a4754da-a2db-4746-8ef4-8c3da0f39111",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90094.jpg",
+      "name": "Wan-An Chiang",
+      "sort_name": "Chiang, Wan-An",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90094.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3a4754da-a2db-4746-8ef4-8c3da0f39111",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/48a7712c-eefc-41f1-91d4-ebf1447ee7ee",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90053.jpg",
+      "name": "Wan-Chien Chang Liao",
+      "sort_name": "Chang Liao, Wan-Chien",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90053.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/48a7712c-eefc-41f1-91d4-ebf1447ee7ee",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/ee9d6197-78e8-41fe-b7a1-52aca13a9785",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90011.jpg",
+      "name": "Wan-Ju Yu",
+      "sort_name": "Yu, Wan-Ju",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90011.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ee9d6197-78e8-41fe-b7a1-52aca13a9785",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2331,8 +2296,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/2nd_electoral_district,_tainan_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2340,24 +2305,24 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/c402bcea-e190-416f-abd9-e8dcff65c27f",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80092.jpg",
-      "name": "Wei-Kang Pan",
-      "sort_name": "Pan, Wei-Kang",
+      "gender": "male",
+      "id": "person/8f6a83d5-ecf0-4533-9f31-1fe1065ecccd",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90031.jpg",
+      "name": "Wei-Chou Lin",
+      "sort_name": "Lin, Wei-Chou",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80092.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90031.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c402bcea-e190-416f-abd9-e8dcff65c27f",
+          "person_id": "person/8f6a83d5-ecf0-4533-9f31-1fe1065ecccd",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2381,8 +2346,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/aboriginals_district",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2406,8 +2371,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/2nd_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2431,33 +2396,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_nantou_county",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/680c6788-cf5a-40e2-9954-287e8082ea7f",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80037.jpg",
-      "name": "Wen-Yan Chiau",
-      "sort_name": "Chiau, Wen-Yan",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80037.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/680c6788-cf5a-40e2-9954-287e8082ea7f",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2481,8 +2421,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/penghu_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2491,23 +2431,23 @@
     },
     {
       "gender": "female",
-      "id": "person/81d72698-2680-4316-88c0-5437817f9e6f",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80015.jpg",
-      "name": "Yi-Chen Wu",
-      "sort_name": "Wu, Yi-Chen",
+      "id": "person/2c635442-2bab-45d0-b904-7c2d3ed37057",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90022.jpg",
+      "name": "Yen-Hsiu Lee",
+      "sort_name": "Lee, Yen-Hsiu",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80015.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90022.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/81d72698-2680-4316-88c0-5437817f9e6f",
+          "person_id": "person/2c635442-2bab-45d0-b904-7c2d3ed37057",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2530,10 +2470,9 @@
           "person_id": "person/e33a1732-cb8e-4237-89b7-3b7d5898f90d",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/nationwide",
-          "start_date": "2013-03-22",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "pfp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2557,8 +2496,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/1st_electoral_district,_tainan_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/88a1b311-0eef-4a22-ba0e-9500d8cd22bf",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90060.jpg",
+      "name": "Yi-Ming Chen",
+      "sort_name": "Chen, Yi-Ming",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90060.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/88a1b311-0eef-4a22-ba0e-9500d8cd22bf",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2582,8 +2546,33 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/1st_electoral_district,_kaohsiung_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/fd16a73f-32c7-4187-9357-dcd541c0693c",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90090.jpg",
+      "name": "Yi-Yu Tsai",
+      "sort_name": "Tsai, Yi-Yu",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90090.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fd16a73f-32c7-4187-9357-dcd541c0693c",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2607,8 +2596,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2616,24 +2605,24 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/37577c12-4375-46d1-a0b1-20907d351042",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80079.jpg",
-      "name": "Ying-Hsiung Yang",
-      "sort_name": "Yang,Ying-Hsiung",
+      "gender": "female",
+      "id": "person/f3787fa5-1397-4322-b8fe-3f3a45d530fc",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90069.jpg",
+      "name": "Ying Chen",
+      "sort_name": "Chen, Ying",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80079.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90069.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/37577c12-4375-46d1-a0b1-20907d351042",
+          "person_id": "person/f3787fa5-1397-4322-b8fe-3f3a45d530fc",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/kinmen_county",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2657,33 +2646,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "dpp",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ad1af066-846f-4403-9a5c-886771e41ad6",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80031.jpg",
-      "name": "Yu-Fang Lin",
-      "sort_name": "Lin, Yu-Fang",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80031.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ad1af066-846f-4403-9a5c-886771e41ad6",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/5th_electoral_district,_taipei_city",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2692,23 +2656,23 @@
     },
     {
       "gender": "female",
-      "id": "person/3d3bd6b3-d5fd-43ce-a91b-a3c63d37537b",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80078.jpg",
-      "name": "Yu-Hsin Yang",
-      "sort_name": "Yang, Yu-Hsin",
+      "id": "person/818aaf3a-aabf-465f-8112-b6c784580773",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90012.jpg",
+      "name": "Yu-Chin Wu",
+      "sort_name": "Wu, Yu-Chin",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80078.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90012.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3d3bd6b3-d5fd-43ce-a91b-a3c63d37537b",
+          "person_id": "person/818aaf3a-aabf-465f-8112-b6c784580773",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2717,23 +2681,23 @@
     },
     {
       "gender": "male",
-      "id": "person/86bab87a-7b3f-463e-b952-e3a94ce950ec",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80013.jpg",
-      "name": "Yu-Jen Wu",
-      "sort_name": "Wu, Yu-Jen",
+      "id": "person/8a64c361-ff16-487f-8f38-853d0bca3f93",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90058.jpg",
+      "name": "Yu-Jen Hsu",
+      "sort_name": "Hsu, Yu-Jen",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80013.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90058.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/86bab87a-7b3f-463e-b952-e3a94ce950ec",
+          "person_id": "person/8a64c361-ff16-487f-8f38-853d0bca3f93",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2757,8 +2721,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/5th_electoral_district,_taoyuan_county",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2782,8 +2746,8 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
-          "area_id": "area/nationwide",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2792,23 +2756,73 @@
     },
     {
       "gender": "male",
-      "id": "person/e889d093-e790-456c-b71e-834f845118b3",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80014.jpg",
-      "name": "Yu-Sheng Wu",
-      "sort_name": "Wu,Yu-Sheng",
+      "id": "person/494d2f30-fe1b-4d48-93c7-a1e26b3e2275",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90096.jpg",
+      "name": "Yun-Peng Cheng",
+      "sort_name": "Cheng, Yun-Peng",
       "images": [
         {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/80014.jpg"
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90096.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e889d093-e790-456c-b71e-834f845118b3",
+          "person_id": "person/494d2f30-fe1b-4d48-93c7-a1e26b3e2275",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
-          "on_behalf_of_id": "kmt",
-          "area_id": "area/1st_electoral_district,_new_taipei_city",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6995cc4f-3c8f-4c14-94dd-3224be5779b4",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90008.jpg",
+      "name": "Yung-Chang Chiang",
+      "sort_name": "Chiang, Yung-Chang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90008.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6995cc4f-3c8f-4c14-94dd-3224be5779b4",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c3bffd29-f41d-46c7-920f-8a2c8bf4beb6",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90044.jpg",
+      "name": "Yung-Ming Hsu",
+      "sort_name": "Hsu, Yung-Ming",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90044.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c3bffd29-f41d-46c7-920f-8a2c8bf4beb6",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
