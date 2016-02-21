@@ -1,7 +1,7 @@
 {
-  "total": 102,
+  "total": 104,
   "page": 1,
-  "per_page": 102,
+  "per_page": 104,
   "has_more": false,
   "result": [
     {
@@ -119,6 +119,15 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "unity",
+          "end_date": "2016-02-11",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/bf335734-e569-4be0-89a9-8a787425d3da",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "start_date": "2016-02-11",
           "legislative_period_id": "term/12"
         }
       ],
@@ -713,6 +722,15 @@
           "role": "member",
           "on_behalf_of_id": "unity",
           "start_date": "2014-11-06",
+          "end_date": "2016-02-18",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/1f637957-49f1-4548-b57d-2cfaefcbbc18",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "start_date": "2016-02-18",
           "legislative_period_id": "term/12"
         }
       ],
@@ -941,6 +959,12 @@
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/b861f4d06b8e756dc2257d7b0032d877/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Hosams Abu Meri",
       "sort_name": "Hosams Abu Meri",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "h_abumeri"
+        }
+      ],
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/b861f4d06b8e756dc2257d7b0032d877/Foto/0.84?OpenElement&FieldElemFormat=jpg"
@@ -955,9 +979,6 @@
           "start_date": "2014-11-05",
           "legislative_period_id": "term/12"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1267,6 +1288,12 @@
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/81b575c446627a4cc2257d7b0032d94d/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Inguna Sudraba",
       "sort_name": "Inguna Sudraba",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SudrabaInguna"
+        }
+      ],
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/81b575c446627a4cc2257d7b0032d94d/Foto/0.84?OpenElement&FieldElemFormat=jpg"
@@ -1280,9 +1307,6 @@
           "on_behalf_of_id": "for_latvia_from_the_heart",
           "legislative_period_id": "term/12"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1880,6 +1904,48 @@
           "role": "member",
           "on_behalf_of_id": "unity",
           "start_date": "2014-11-06",
+          "end_date": "2016-02-11",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/231d4d25-53b1-4481-94ed-6650f9abe7d0",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "start_date": "2016-02-11",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/5a2e59f6-1932-46f4-9e3e-c3b224dad54c",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c03a0df2f6e1b309c2257d7b0032d88a/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Laimdota Straujuma",
+      "sort_name": "Laimdota Straujuma",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c03a0df2f6e1b309c2257d7b0032d88a/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5a2e59f6-1932-46f4-9e3e-c3b224dad54c",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/5a2e59f6-1932-46f4-9e3e-c3b224dad54c",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "start_date": "2016-02-18",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2471,6 +2537,31 @@
           "role": "member",
           "on_behalf_of_id": "unity",
           "start_date": "2014-11-06",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Valdis.Kalnozols@saeima.lv",
+      "id": "person/aef605a7-592e-4327-8ae8-c8d06b7921a7",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/nophoto.gif",
+      "name": "Valdis Kalnozols",
+      "sort_name": "Valdis Kalnozols",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/nophoto.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aef605a7-592e-4327-8ae8-c8d06b7921a7",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "start_date": "2016-02-18",
           "legislative_period_id": "term/12"
         }
       ],
