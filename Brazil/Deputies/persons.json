@@ -1,7 +1,7 @@
 {
-  "total": 522,
+  "total": 523,
   "page": 1,
-  "per_page": 522,
+  "per_page": 523,
   "has_more": false,
   "result": [
     {
@@ -4153,6 +4153,31 @@
           "role": "member",
           "on_behalf_of_id": "PP",
           "area_id": "area/mt",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.ezequielteixeira@camara.leg.br",
+      "id": "person/774ee6a3-ce82-4499-901f-967c3ce65d31",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/178941.jpg",
+      "name": "EZEQUIEL TEIXEIRA",
+      "sort_name": "EZEQUIEL TEIXEIRA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/178941.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/774ee6a3-ce82-4499-901f-967c3ce65d31",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PMB",
+          "area_id": "area/rj",
           "legislative_period_id": "term/55"
         }
       ],
