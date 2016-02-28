@@ -1046,6 +1046,12 @@
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/709315.jpg",
       "name": "Arnaud Viala",
       "sort_name": "Arnaud Viala",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "arnaudviala"
+        }
+      ],
       "images": [
         {
           "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/709315.jpg"
@@ -1061,9 +1067,6 @@
           "start_date": "2015-09-14",
           "legislative_period_id": "term/14"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -6786,6 +6789,7 @@
           "role": "member",
           "on_behalf_of_id": "les-rep",
           "area_id": "area/nord",
+          "end_date": "2016-01-27",
           "legislative_period_id": "term/14"
         }
       ]
@@ -16998,6 +17002,7 @@
           "role": "member",
           "on_behalf_of_id": "les-rep",
           "area_id": "area/yvelines",
+          "end_date": "2016-01-20",
           "legislative_period_id": "term/14"
         }
       ]
@@ -17324,6 +17329,7 @@
           "role": "member",
           "on_behalf_of_id": "les-rep",
           "area_id": "area/aisne",
+          "end_date": "2016-01-12",
           "legislative_period_id": "term/14"
         }
       ]
@@ -17726,12 +17732,6 @@
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/2277.jpg",
       "name": "Yves Nicolin",
       "sort_name": "Yves Nicolin",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ynicolin"
-        }
-      ],
       "images": [
         {
           "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/2277.jpg"
@@ -17746,6 +17746,9 @@
           "area_id": "area/loire",
           "legislative_period_id": "term/14"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {

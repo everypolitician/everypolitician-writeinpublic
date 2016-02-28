@@ -1,9 +1,50 @@
 {
-  "total": 17,
+  "total": 24,
   "page": 1,
-  "per_page": 17,
+  "per_page": 24,
   "has_more": false,
   "result": [
+    {
+      "gender": "male",
+      "id": "person/2c24b73f-5770-40e3-bc6e-38c32664db83",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Hon_Albert_Isola_2014_(cropped).jpg",
+      "name": "A Isola",
+      "sort_name": "Isola, Albert",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Hon_Albert_Isola_2014_(cropped).jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c24b73f-5770-40e3-bc6e-38c32664db83",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "gibraltar_socialist_labour_party",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/34328435-d155-4611-be08-ff24fac4fa78",
+      "name": "A J Gache",
+      "sort_name": "A J Gache",
+      "memberships": [
+        {
+          "person_id": "person/34328435-d155-4611-be08-ff24fac4fa78",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "gender": "male",
       "id": "person/b49867d4-43ea-4b64-9d2b-f097b8159033",
@@ -15,6 +56,23 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "gibraltar_socialist_labour_party",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c4520ab6-dc17-4a3c-aacc-572d891d289e",
+      "name": "C Anes",
+      "sort_name": "C Anes",
+      "memberships": [
+        {
+          "person_id": "person/c4520ab6-dc17-4a3c-aacc-572d891d289e",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
           "legislative_period_id": "term/12"
         }
       ],
@@ -149,6 +207,23 @@
       ]
     },
     {
+      "id": "person/c13f2c7c-b6cc-4a88-bf2a-5a5e8dfd4164",
+      "name": "J Caruana",
+      "sort_name": "J Caruana",
+      "memberships": [
+        {
+          "person_id": "person/c13f2c7c-b6cc-4a88-bf2a-5a5e8dfd4164",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/4fa0a2c8-85f3-4d67-b842-164ad8643fe4",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dr_john_cortes.jpg",
@@ -232,6 +307,23 @@
       ]
     },
     {
+      "id": "person/7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
+      "name": "M Xiberras",
+      "sort_name": "M Xiberras",
+      "memberships": [
+        {
+          "person_id": "person/7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/c7d56154-99af-446f-9f03-3bc8e62a440d",
       "name": "N F Costa",
@@ -292,6 +384,23 @@
       ]
     },
     {
+      "id": "person/6ffe17fb-24d1-4dc3-b44b-068e76baad64",
+      "name": "R J Peliza",
+      "sort_name": "R J Peliza",
+      "memberships": [
+        {
+          "person_id": "person/6ffe17fb-24d1-4dc3-b44b-068e76baad64",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/3e3e02a9-07ac-47f9-b314-a57ef22b0ae1",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Steven_Linares.jpg",
@@ -343,6 +452,23 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "gibraltar_social_democrats",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6c093d83-2782-4c2d-8b32-006f85df137f",
+      "name": "W M Isola",
+      "sort_name": "W M Isola",
+      "memberships": [
+        {
+          "person_id": "person/6c093d83-2782-4c2d-8b32-006f85df137f",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
           "legislative_period_id": "term/12"
         }
       ],
