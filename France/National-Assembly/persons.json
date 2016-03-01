@@ -1,7 +1,7 @@
 {
-  "total": 630,
+  "total": 631,
   "page": 1,
-  "per_page": 630,
+  "per_page": 631,
   "has_more": false,
   "result": [
     {
@@ -8552,6 +8552,7 @@
           "role": "member",
           "on_behalf_of_id": "src",
           "area_id": "area/finistère",
+          "end_date": "2016-02-27",
           "legislative_period_id": "term/14"
         }
       ]
@@ -11782,6 +11783,32 @@
           "role": "member",
           "on_behalf_of_id": "src",
           "area_id": "area/loire-atlantique",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/43c35841-1ee3-4264-810b-dd21760f9ff5",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642736.jpg",
+      "name": "Marie-Thérèse Le Roy",
+      "sort_name": "Marie-Thérèse Le Roy",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642736.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/43c35841-1ee3-4264-810b-dd21760f9ff5",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "area/finistère",
+          "start_date": "2016-02-28",
           "legislative_period_id": "term/14"
         }
       ],
