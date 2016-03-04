@@ -1,7 +1,7 @@
 {
-  "total": 152,
+  "total": 153,
   "page": 1,
-  "per_page": 152,
+  "per_page": 153,
   "has_more": false,
   "result": [
     {
@@ -2282,6 +2282,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "ocd-division/country:au/state:nsw/federal_electorate:north_sydney",
+          "end_date": "2015-10-23",
           "legislative_period_id": "term/44"
         }
       ]
@@ -4903,6 +4904,37 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "ocd-division/country:au/state:sa/federal_electorate:makin",
+          "legislative_period_id": "term/44"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2a5d1d08-2ddf-4185-b4dc-6a43f7cbacbf",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/203092/upload_ref_binary/203092.jpg",
+      "name": "Trent Zimmerman",
+      "sort_name": "Zimmerman, Trent",
+      "links": [
+        {
+          "url": "https://www.facebook.com/TrentZimmerman",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/203092/upload_ref_binary/203092.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2a5d1d08-2ddf-4185-b4dc-6a43f7cbacbf",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "ocd-division/country:au/state:nsw/federal_electorate:north_sydney",
+          "start_date": "2015-12-05",
           "legislative_period_id": "term/44"
         }
       ],

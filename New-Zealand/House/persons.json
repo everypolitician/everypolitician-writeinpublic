@@ -1,7 +1,7 @@
 {
-  "total": 121,
+  "total": 123,
   "page": 1,
-  "per_page": 121,
+  "per_page": 123,
   "has_more": false,
   "result": [
     {
@@ -261,7 +261,7 @@
       "email": "barbara.stewart@parliament.govt.nz",
       "gender": "female",
       "id": "person/b6cbfeda-17fc-4aa8-aec5-a7c4a08eae74",
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP2211/d2c41f4d1480669619034545607aba765b53e1ee",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP2211/866b5e23ef457f2fbc2a5e4c2946a96cdc1eff92",
       "name": "Barbara Stewart",
       "sort_name": "Stewart, Barbara",
       "links": [
@@ -272,7 +272,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP2211/d2c41f4d1480669619034545607aba765b53e1ee"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP2211/866b5e23ef457f2fbc2a5e4c2946a96cdc1eff92"
         }
       ],
       "memberships": [
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "email": "clare.curren@parliament.govt.nz",
+      "email": "clare.curran@parliament.govt.nz",
       "gender": "female",
       "id": "person/b1e964e8-6698-4a48-bc87-45fc6e70fb90",
       "image": "http://www.parliament.nz//resource/en-NZ/51MP2711/6030dadf72ef35c826a2edf6b859bcc1b37ac5ad",
@@ -1135,7 +1135,7 @@
       "email": "gerry.brownlee@parliament.govt.nz",
       "gender": "male",
       "id": "person/533c9081-f268-439e-8d7c-6301f364f1a3",
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP141/c96f0c33ed5cb2b310b9e793f4bab9ee1928fb7c",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP141/f1cd4b9bcc2aea7b73fddacec05289e4214c111c",
       "name": "Gerry Brownlee",
       "sort_name": "Brownlee, Gerry",
       "links": [
@@ -1146,7 +1146,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP141/c96f0c33ed5cb2b310b9e793f4bab9ee1928fb7c"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP141/f1cd4b9bcc2aea7b73fddacec05289e4214c111c"
         }
       ],
       "memberships": [
@@ -1202,7 +1202,7 @@
       "email": "hekia.parata@parliament.govt.nz",
       "gender": "female",
       "id": "person/84a6da5d-29ed-4461-9877-570acab059bd",
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP2941/667b2fd68d3901f718307a4d73afe4e866710d1e",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP2941/20070ef1e5d879c602306064b5df0cb3e6c4906a",
       "name": "Hekia Parata",
       "sort_name": "Parata, Hekia",
       "contact_details": [
@@ -1219,7 +1219,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP2941/667b2fd68d3901f718307a4d73afe4e866710d1e"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP2941/20070ef1e5d879c602306064b5df0cb3e6c4906a"
         }
       ],
       "memberships": [
@@ -1275,6 +1275,18 @@
       "image": "http://www.parliament.nz//resource/en-NZ/51MP2421/5add94809a50fe13b53890fa186627080131277d",
       "name": "Hon Chester Borrows",
       "sort_name": "Borrows, Chester",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ChesterBorrows"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.facebook.com/chesterborrows",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.nz//resource/en-NZ/51MP2421/5add94809a50fe13b53890fa186627080131277d"
@@ -1289,9 +1301,6 @@
           "area_id": "area/whanganui",
           "legislative_period_id": "term/51"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2245,6 +2254,40 @@
       ]
     },
     {
+      "email": "Marama.Davidson@parliament.govt.nz",
+      "id": "person/ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MPDavidsonMarama1/2e4bafb799095a3b394c35f265f01489a963f53c",
+      "name": "Marama Davidson",
+      "sort_name": "Davidson, Marama",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MaramaDavidson"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.facebook.com/marama.davidson",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parliament.nz//resource/en-NZ/51MPDavidsonMarama1/2e4bafb799095a3b394c35f265f01489a963f53c"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ed1ce5e7-6931-45bd-b38f-e138fb5fbac1",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "green_party",
+          "area_id": "area/list",
+          "legislative_period_id": "term/51"
+        }
+      ]
+    },
+    {
       "email": "marama.fox@parliament.govt.nz",
       "gender": "female",
       "id": "person/3bd18a81-2acc-41db-9d9a-a46ff3900dfd",
@@ -2344,6 +2387,40 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "email": "maureen.pugh@parliament.govt.nz",
+      "id": "person/801b541a-a9c1-479b-a4ee-c2e1a9152020",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MPPughMaureen1/e1fdd2ea8be3e63b0c7fe080de95de5f69e42276",
+      "name": "Maureen Pugh",
+      "sort_name": "Pugh, Maureen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mpformp"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.facebook.com/wct.maureenpugh",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parliament.nz//resource/en-NZ/51MPPughMaureen1/e1fdd2ea8be3e63b0c7fe080de95de5f69e42276"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/801b541a-a9c1-479b-a4ee-c2e1a9152020",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "national_party",
+          "area_id": "area/list",
+          "legislative_period_id": "term/51"
+        }
       ]
     },
     {
@@ -2778,7 +2855,7 @@
       "email": "Nuk.Korako@parliament.govt.nz",
       "gender": "male",
       "id": "person/4258ee61-b610-4973-8d6b-123143b0e2d5",
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP3621/fe1cdb502bdd9f38027b1473dd595ff311018dcd",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP3621/0e3fbf77e05d17b44400755b5775fdd9c4241124",
       "name": "Nuk Korako",
       "sort_name": "Korako, Tutehounuku (Nuk)",
       "links": [
@@ -2789,7 +2866,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP3621/fe1cdb502bdd9f38027b1473dd595ff311018dcd"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP3621/0e3fbf77e05d17b44400755b5775fdd9c4241124"
         }
       ],
       "memberships": [
@@ -3180,8 +3257,20 @@
       "email": "Ria.Bond@parliament.govt.nz",
       "gender": "female",
       "id": "person/67b99f79-886e-49f5-89c4-4e6ea0efaabe",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP3681/7fc771163882effb45f9953bc3d37f7094fc0e98",
       "name": "Ria Bond",
       "sort_name": "Bond, Ria",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RiaBondMP"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP3681/7fc771163882effb45f9953bc3d37f7094fc0e98"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/67b99f79-886e-49f5-89c4-4e6ea0efaabe",
@@ -3191,9 +3280,6 @@
           "area_id": "area/list",
           "legislative_period_id": "term/51"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3684,7 +3770,7 @@
       "email": "sue.moroney@parliament.govt.nz",
       "gender": "female",
       "id": "person/ac22e047-fb72-4e7e-b0b6-4cee156104bd",
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP2481/02b2561702d471e6e282bf1f199319a648537331",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP2481/5273b1b06015e07a72d83bbe41acba23a1468f4a",
       "name": "Sue Moroney",
       "sort_name": "Moroney, Sue",
       "contact_details": [
@@ -3701,7 +3787,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP2481/02b2561702d471e6e282bf1f199319a648537331"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP2481/5273b1b06015e07a72d83bbe41acba23a1468f4a"
         }
       ],
       "memberships": [
@@ -4010,7 +4096,7 @@
       "email": "winston.peters@parliament.govt.nz",
       "gender": "male",
       "id": "person/995239c2-94c8-40d4-9343-839e60aaebea",
-      "image": "http://www.parliament.nz//resource/en-NZ/51MP861/827a503a026acd1e5700fcbd2a1e8dc4079755b5",
+      "image": "http://www.parliament.nz//resource/en-NZ/51MP861/4b85cc5675dd00bb7bc04cc253d6afe4022b5b93",
       "name": "Winston Peters",
       "sort_name": "Peters, Winston",
       "contact_details": [
@@ -4027,7 +4113,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parliament.nz//resource/en-NZ/51MP861/827a503a026acd1e5700fcbd2a1e8dc4079755b5"
+          "url": "http://www.parliament.nz//resource/en-NZ/51MP861/4b85cc5675dd00bb7bc04cc253d6afe4022b5b93"
         }
       ],
       "memberships": [
