@@ -1,7 +1,7 @@
 {
-  "total": 131,
+  "total": 132,
   "page": 1,
-  "per_page": 131,
+  "per_page": 132,
   "has_more": false,
   "result": [
     {
@@ -1692,6 +1692,31 @@
           "role": "member",
           "on_behalf_of_id": "RPA",
           "area_id": "area/031",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/50004c2f-c6dd-4db2-aeb3-ad054090b61d",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1153",
+      "name": "Karen Shakhmuradyan",
+      "sort_name": "Karen Shakhmuradyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1153"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/50004c2f-c6dd-4db2-aeb3-ad054090b61d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ARF",
+          "area_id": "area/120",
+          "start_date": "2016-03-02",
           "legislative_period_id": "term/5"
         }
       ],

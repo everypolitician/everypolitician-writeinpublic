@@ -1,7 +1,7 @@
 {
-  "total": 170,
+  "total": 171,
   "page": 1,
-  "per_page": 170,
+  "per_page": 171,
   "has_more": false,
   "result": [
     {
@@ -1573,6 +1573,51 @@
           "role": "member",
           "on_behalf_of_id": "41",
           "start_date": "2014-11-25",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "jan_babic@nrsr.sk",
+      "gender": "male",
+      "id": "person/c8e4e1b6-7d29-4f89-8b60-4e3bd0179ace",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a63a273a394ad5dbac94/image.jpeg",
+      "name": "Ján Babič",
+      "sort_name": "Babič, Ján",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a63a273a394ad5dbac94/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c8e4e1b6-7d29-4f89-8b60-4e3bd0179ace",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "41",
+          "start_date": "2012-04-04",
+          "end_date": "2014-07-03",
+          "legislative_period_id": "term/6"
+        },
+        {
+          "person_id": "person/c8e4e1b6-7d29-4f89-8b60-4e3bd0179ace",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "41",
+          "start_date": "2014-11-25",
+          "end_date": "2016-02-10",
+          "legislative_period_id": "term/6"
+        },
+        {
+          "person_id": "person/c8e4e1b6-7d29-4f89-8b60-4e3bd0179ace",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "41",
+          "start_date": "2016-02-10",
+          "end_date": "2016-02-10",
           "legislative_period_id": "term/6"
         }
       ],

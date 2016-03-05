@@ -605,6 +605,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/2ac24104-58a6-49d1-a218-27a16433d6d2",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg",
+      "name": "Chih-Yang Wu",
+      "sort_name": "Wu, Chih-Yang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2ac24104-58a6-49d1-a218-27a16433d6d2",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/9c72387b-efbc-4908-9388-03db3abe413c",
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90034.jpg",
@@ -918,31 +943,6 @@
       "memberships": [
         {
           "person_id": "person/0fa208c6-8264-4740-970c-4e66328883ee",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "kmt",
-          "start_date": "2016-02-01",
-          "legislative_period_id": "term/9"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2ac24104-58a6-49d1-a218-27a16433d6d2",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg",
-      "name": "John Chih-Yang Wu",
-      "sort_name": "Wu, John Chih-Yang",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90013.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2ac24104-58a6-49d1-a218-27a16433d6d2",
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
