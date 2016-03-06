@@ -1092,10 +1092,17 @@
     },
     {
       "email": "otto.guevara@asamblea.go.cr",
+      "gender": "male",
       "id": "person/0de51508-ff3c-41f3-a54d-822f5c0b345a",
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ml_guevara_guth.jpg",
       "name": "OTTO GUEVARA GUTH",
       "sort_name": "GUEVARA GUTH, OTTO",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "OttoPresidente"
+        }
+      ],
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ml_guevara_guth.jpg"
@@ -1110,13 +1117,11 @@
           "area_id": "area/san_josé",
           "legislative_period_id": "term/2014"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "otton.solis@asamblea.go.cr",
+      "gender": "male",
       "id": "person/7a98cf4f-2890-43d0-9658-a1bae52f43be",
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ac_solis_fallas.jpg",
       "name": "OTTÓN SOLÍS FALLAS",
