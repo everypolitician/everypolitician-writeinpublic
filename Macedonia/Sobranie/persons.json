@@ -1,7 +1,7 @@
 {
-  "total": 91,
+  "total": 92,
   "page": 1,
-  "per_page": 91,
+  "per_page": 92,
   "has_more": false,
   "result": [
     {
@@ -328,12 +328,12 @@
     },
     {
       "id": "person/b0ef4a95-79fb-4243-9beb-1367fd4f255b",
-      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Cedomir-Sazdovski.jpg",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg",
       "name": "Chedomir Sazdovski",
       "sort_name": "Chedomir Sazdovski",
       "images": [
         {
-          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Cedomir-Sazdovski.jpg"
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg"
         }
       ],
       "memberships": [
@@ -1082,6 +1082,29 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_party_of_albanians",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/71a34911-01f3-4073-a0d9-e64244e8e979",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg",
+      "name": "Mirjana Hadzievska",
+      "sort_name": "Mirjana Hadzievska",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/71a34911-01f3-4073-a0d9-e64244e8e979",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1852,8 +1875,14 @@
     },
     {
       "id": "person/71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg",
       "name": "Vasil Pisev",
       "sort_name": "Vasil Pisev",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
@@ -2089,7 +2118,7 @@
           "person_id": "person/ca823796-7651-4e64-b61f-c2326763e530",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
+          "on_behalf_of_id": "independent_members",
           "legislative_period_id": "term/2014"
         }
       ],
