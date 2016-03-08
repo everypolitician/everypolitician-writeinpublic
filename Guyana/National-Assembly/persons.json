@@ -1,22 +1,46 @@
 {
-  "total": 54,
+  "total": 55,
   "page": 1,
-  "per_page": 54,
+  "per_page": 55,
   "has_more": false,
   "result": [
     {
       "id": "person/fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
-      "image": "http://parliament.gov.gy/assets/images/no-image-person.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg",
       "name": "Adrian V. Anamayah",
       "sort_name": "Adrian V. Anamayah",
       "images": [
         {
-          "url": "http://parliament.gov.gy/assets/images/no-image-person.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg"
         }
       ],
       "memberships": [
         {
           "person_id": "person/fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/7df71e89-208b-4f00-8afd-a7e4077f873b",
+      "image": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg",
+      "name": "Africo Selman",
+      "sort_name": "Africo Selman",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7df71e89-208b-4f00-8afd-a7e4077f873b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "PPP-Civic",
@@ -52,6 +76,126 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/7c55dda1-d45a-4ee4-b6ed-f45db7668758",
+      "image": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg",
+      "name": "Amna Ally",
+      "sort_name": "Amna Ally",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7c55dda1-d45a-4ee4-b6ed-f45db7668758",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/417ca7aa-5e4d-4ee3-b410-5a69bb3abcf8",
+      "image": "http://parliament.gov.gy/images/member_photos/125/annette.jpg",
+      "name": "Annette Ferguson",
+      "sort_name": "Annette Ferguson",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/125/annette.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/417ca7aa-5e4d-4ee3-b410-5a69bb3abcf8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6e8d9733-022a-4836-8652-3c840778540e",
+      "image": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg",
+      "name": "Audwin Rutherford",
+      "sort_name": "Audwin Rutherford",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6e8d9733-022a-4836-8652-3c840778540e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7195abfc-75bd-426c-9e2c-67d6b758c8bd",
+      "image": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg",
+      "name": "Barton U.A. Scotland, C.C.H",
+      "sort_name": "Barton U.A. Scotland, C.C.H",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7195abfc-75bd-426c-9e2c-67d6b758c8bd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unkown",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/45716acd-ceb2-47aa-84e2-092f728203dd",
+      "image": "http://parliament.gov.gy/images/member_photos/98/basil_williams.jpg",
+      "name": "Basil Williams",
+      "sort_name": "Basil Williams",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/98/basil_williams.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/45716acd-ceb2-47aa-84e2-092f728203dd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "4",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/9aa3d151-1000-4929-a342-679dd6363f03",
       "image": "http://parliament.gov.gy/images/member_photos/4031/mr._bharrat_jagdeo,_m.p..jpg",
       "name": "Bharrat Jagdeo",
@@ -75,18 +219,18 @@
       ]
     },
     {
-      "id": "person/1395ba90-5dc7-45e9-ad98-6bdab4065a14",
-      "image": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg",
-      "name": "Bishop Juan A. Edghill",
-      "sort_name": "Bishop Juan A. Edghill",
+      "id": "person/22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
+      "image": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg",
+      "name": "Bheri S. Ramsarran",
+      "sort_name": "Bheri S. Ramsarran",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1395ba90-5dc7-45e9-ad98-6bdab4065a14",
+          "person_id": "person/22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "PPP-Civic",
@@ -98,13 +242,61 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/fd6f9612-e2b2-4a44-b8aa-5299436db772",
+      "image": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png",
+      "name": "Carl B. Greenidge",
+      "sort_name": "Carl B. Greenidge",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fd6f9612-e2b2-4a44-b8aa-5299436db772",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/596d01b1-275e-40d3-96c0-e66beb92c854",
+      "image": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg",
+      "name": "Catherine Hughes",
+      "sort_name": "Catherine Hughes",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/596d01b1-275e-40d3-96c0-e66beb92c854",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/1bb7f4ae-603b-45d9-9cd8-e1d18f3cc647",
-      "image": "http://parliament.gov.gy/assets/images/no-image-person.jpg",
+      "image": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg",
       "name": "Charles S. Ramson",
       "sort_name": "Charles S. Ramson",
       "images": [
         {
-          "url": "http://parliament.gov.gy/assets/images/no-image-person.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg"
         }
       ],
       "memberships": [
@@ -121,6 +313,56 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/dc7716ce-be97-4465-b1c2-790d7e135720",
+      "image": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg",
+      "name": "Charrandas Persaud",
+      "sort_name": "Charrandas Persaud",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dc7716ce-be97-4465-b1c2-790d7e135720",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unkown",
+          "area_id": "6",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4db68f31-1619-4cfa-8103-9c8c0feeeb50",
+      "image": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg",
+      "name": "Clement J. Rohee",
+      "sort_name": "Clement J. Rohee",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4db68f31-1619-4cfa-8103-9c8c0feeeb50",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/2e062152-3c11-4af3-be84-c9282d29bbed",
       "image": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg",
       "name": "Clive R. Jagan",
@@ -135,7 +377,8 @@
           "person_id": "person/2e062152-3c11-4af3-be84-c9282d29bbed",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "unkown",
+          "on_behalf_of_id": "PPP-Civic",
+          "end_date": "2016-11-02",
           "legislative_period_id": "term/11"
         }
       ],
@@ -168,6 +411,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/1dc9bce6-02dc-4813-a102-eadf1b7765b3",
+      "image": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg",
+      "name": "Cornel Damon",
+      "sort_name": "Cornel Damon",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1dc9bce6-02dc-4813-a102-eadf1b7765b3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "area_id": "2",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/fefaffd3-6665-486b-a608-fea8df088201",
       "image": "http://parliament.gov.gy/images/member_photos/3879/david_patterson.jpg",
       "name": "David Patterson",
@@ -191,18 +459,44 @@
       ]
     },
     {
-      "id": "person/207279bd-142c-4ec2-a911-7b58dbe9b93d",
-      "image": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg",
-      "name": "Dr Karen Cummings",
-      "sort_name": "Dr Karen Cummings",
+      "gender": "female",
+      "id": "person/4c50155f-0ffb-4c3b-8fd1-81ec4fad9fa8",
+      "image": "http://parliament.gov.gy/images/member_photos/100/dawn.jpg",
+      "name": "Dawn Hastings-Williams",
+      "sort_name": "Dawn Hastings-Williams",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/100/dawn.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/207279bd-142c-4ec2-a911-7b58dbe9b93d",
+          "person_id": "person/4c50155f-0ffb-4c3b-8fd1-81ec4fad9fa8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "7",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a81c2030-dc7d-4639-acc7-00939fb166a4",
+      "image": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg",
+      "name": "Dominic Gaskin",
+      "sort_name": "Dominic Gaskin",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a81c2030-dc7d-4639-acc7-00939fb166a4",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "APNU-AFC",
@@ -214,41 +508,19 @@
       ]
     },
     {
-      "id": "person/7195abfc-75bd-426c-9e2c-67d6b758c8bd",
-      "image": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg",
-      "name": "Dr. Barton U.A. Scotland, C.C.H",
-      "sort_name": "Dr. Barton U.A. Scotland, C.C.H",
+      "gender": "female",
+      "id": "person/8b1c050b-209a-4955-b7d0-b4d6a095fe29",
+      "image": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg",
+      "name": "Gail Teixeira",
+      "sort_name": "Gail Teixeira",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/3880/sam_0969-2.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/7195abfc-75bd-426c-9e2c-67d6b758c8bd",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unkown",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
-      "image": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg",
-      "name": "Dr. Bheri S. Ramsarran",
-      "sort_name": "Dr. Bheri S. Ramsarran",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/126/bheri.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
+          "person_id": "person/8b1c050b-209a-4955-b7d0-b4d6a095fe29",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "PPP-Civic",
@@ -262,8 +534,8 @@
     {
       "id": "person/7ff58b64-47c4-461a-94d6-ce7e16ad3188",
       "image": "http://parliament.gov.gy/images/member_photos/211/norton.jpg",
-      "name": "Dr. George Norton",
-      "sort_name": "Dr. George Norton",
+      "name": "George Norton",
+      "sort_name": "George Norton",
       "images": [
         {
           "url": "http://parliament.gov.gy/images/member_photos/211/norton.jpg"
@@ -272,53 +544,6 @@
       "memberships": [
         {
           "person_id": "person/7ff58b64-47c4-461a-94d6-ce7e16ad3188",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/253800d3-de4e-43ac-9947-2aff8e9002a3",
-      "image": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg",
-      "name": "Dr. Jennifer R.A. Westford",
-      "sort_name": "Dr. Jennifer R.A. Westford",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/253800d3-de4e-43ac-9947-2aff8e9002a3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "area_id": "7",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/0ca3d01e-f74b-4610-8768-077260101426",
-      "image": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg",
-      "name": "Dr. Rupert Roopnarine",
-      "sort_name": "Dr. Rupert Roopnarine",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0ca3d01e-f74b-4610-8768-077260101426",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "APNU-AFC",
@@ -377,10 +602,134 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/82c00bc0-60aa-46df-b5f9-0c2694b3726b",
+      "image": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg",
+      "name": "Jaipaul Sharma",
+      "sort_name": "Jaipaul Sharma",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/82c00bc0-60aa-46df-b5f9-0c2694b3726b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "4",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/253800d3-de4e-43ac-9947-2aff8e9002a3",
+      "image": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg",
+      "name": "Jennifer R.A. Westford",
+      "sort_name": "Jennifer R.A. Westford",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/88/dr._jennifer_westford.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/253800d3-de4e-43ac-9947-2aff8e9002a3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "area_id": "7",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/99690204-9755-4a59-a0b6-69ab4a8aa50f",
+      "image": "http://parliament.gov.gy/images/member_photos/101/wade.jpg",
+      "name": "Jennifer Wade",
+      "sort_name": "Jennifer Wade",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/101/wade.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/99690204-9755-4a59-a0b6-69ab4a8aa50f",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "5",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
+      "image": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg",
+      "name": "Jermaine Figueira",
+      "sort_name": "Jermaine Figueira",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "10",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6d8fb690-a0b2-47bd-aa93-295ce57b49bd",
+      "image": "http://parliament.gov.gy/images/member_photos/105/john.jpg",
+      "name": "John Adams",
+      "sort_name": "John Adams",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/105/john.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6d8fb690-a0b2-47bd-aa93-295ce57b49bd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "3",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/de600456-bb0f-4d27-a02c-9296cb5c57d4",
       "image": "http://parliament.gov.gy/images/member_photos/121/joseph_harmon.png",
-      "name": "Lt. Col. (Ret’) Joseph Harmon",
-      "sort_name": "Lt. Col. (Ret’) Joseph Harmon",
+      "name": "Joseph Harmon",
+      "sort_name": "Joseph Harmon",
       "images": [
         {
           "url": "http://parliament.gov.gy/images/member_photos/121/joseph_harmon.png"
@@ -392,6 +741,125 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1395ba90-5dc7-45e9-ad98-6bdab4065a14",
+      "image": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg",
+      "name": "Juan A. Edghill",
+      "sort_name": "Juan A. Edghill",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/127/bishop_juan_a._edghill,_m.s.,_j.p.,_m.p..jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1395ba90-5dc7-45e9-ad98-6bdab4065a14",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/207279bd-142c-4ec2-a911-7b58dbe9b93d",
+      "image": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg",
+      "name": "Karen Cummings",
+      "sort_name": "Karen Cummings",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/212/karen-2.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/207279bd-142c-4ec2-a911-7b58dbe9b93d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/bda29a61-bdb0-4af1-8be5-8da2d48d6306",
+      "image": "http://parliament.gov.gy/images/member_photos/143/keith.jpg",
+      "name": "Keith Scott",
+      "sort_name": "Keith Scott",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/143/keith.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bda29a61-bdb0-4af1-8be5-8da2d48d6306",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6e76beec-cc56-4723-ade3-32951886d5e3",
+      "image": "http://parliament.gov.gy/images/member_photos/144/khemraj_ramjattan.jpg",
+      "name": "Khemraj Ramjattan",
+      "sort_name": "Khemraj Ramjattan",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/144/khemraj_ramjattan.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6e76beec-cc56-4723-ade3-32951886d5e3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/41537a83-212a-4a19-a475-4e3cb261e7fe",
+      "image": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg",
+      "name": "Komal Chand",
+      "sort_name": "Komal Chand",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/41537a83-212a-4a19-a475-4e3cb261e7fe",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "area_id": "3",
           "legislative_period_id": "term/11"
         }
       ],
@@ -447,18 +915,18 @@
       ]
     },
     {
-      "id": "person/6e8d9733-022a-4836-8652-3c840778540e",
-      "image": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg",
-      "name": "Mr Audwin Rutherford",
-      "sort_name": "Mr Audwin Rutherford",
+      "id": "person/146db39d-9ebb-413c-8aaa-43efd4f40896",
+      "image": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg",
+      "name": "Nicolette O. Henry",
+      "sort_name": "Nicolette O. Henry",
       "images": [
         {
-          "url": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg"
+          "url": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6e8d9733-022a-4836-8652-3c840778540e",
+          "person_id": "person/146db39d-9ebb-413c-8aaa-43efd4f40896",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "APNU-AFC",
@@ -470,81 +938,11 @@
       ]
     },
     {
-      "id": "person/dc7716ce-be97-4465-b1c2-790d7e135720",
-      "image": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg",
-      "name": "Mr Charrandas Persaud",
-      "sort_name": "Mr Charrandas Persaud",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3894/chandradas.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dc7716ce-be97-4465-b1c2-790d7e135720",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unkown",
-          "area_id": "6",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/4db68f31-1619-4cfa-8103-9c8c0feeeb50",
-      "image": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg",
-      "name": "Mr Clement J. Rohee",
-      "sort_name": "Mr Clement J. Rohee",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/232/rohee11.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4db68f31-1619-4cfa-8103-9c8c0feeeb50",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
-      "image": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg",
-      "name": "Mr Jermaine Figueira",
-      "sort_name": "Mr Jermaine Figueira",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "10",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
+      "gender": "male",
       "id": "person/ccf3509f-d3d8-42ed-9b34-9bcf5246e304",
       "image": "http://parliament.gov.gy/images/member_photos/3877/noel.jpg",
-      "name": "Mr Noel Holder",
-      "sort_name": "Mr Noel Holder",
+      "name": "Noel Holder",
+      "sort_name": "Noel Holder",
       "images": [
         {
           "url": "http://parliament.gov.gy/images/member_photos/3877/noel.jpg"
@@ -564,245 +962,11 @@
       ]
     },
     {
-      "id": "person/ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
-      "image": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg",
-      "name": "Mr Raphael G.C.Trotman",
-      "sort_name": "Mr Raphael G.C.Trotman",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/45716acd-ceb2-47aa-84e2-092f728203dd",
-      "image": "http://parliament.gov.gy/images/member_photos/98/basil_williams.jpg",
-      "name": "Mr. Basil Williams",
-      "sort_name": "Mr. Basil Williams",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/98/basil_williams.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/45716acd-ceb2-47aa-84e2-092f728203dd",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "4",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/fd6f9612-e2b2-4a44-b8aa-5299436db772",
-      "image": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png",
-      "name": "Mr. Carl B. Greenidge",
-      "sort_name": "Mr. Carl B. Greenidge",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/122/carl_greenidge.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fd6f9612-e2b2-4a44-b8aa-5299436db772",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/1dc9bce6-02dc-4813-a102-eadf1b7765b3",
-      "image": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg",
-      "name": "Mr. Cornel Damon",
-      "sort_name": "Mr. Cornel Damon",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/96/cornel_damon.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1dc9bce6-02dc-4813-a102-eadf1b7765b3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "area_id": "2",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a81c2030-dc7d-4639-acc7-00939fb166a4",
-      "image": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg",
-      "name": "Mr. Dominic Gaskin",
-      "sort_name": "Mr. Dominic Gaskin",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a81c2030-dc7d-4639-acc7-00939fb166a4",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/82c00bc0-60aa-46df-b5f9-0c2694b3726b",
-      "image": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg",
-      "name": "Mr. Jaipaul Sharma",
-      "sort_name": "Mr. Jaipaul Sharma",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/103/jaipaul.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/82c00bc0-60aa-46df-b5f9-0c2694b3726b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "4",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/6d8fb690-a0b2-47bd-aa93-295ce57b49bd",
-      "image": "http://parliament.gov.gy/images/member_photos/105/john.jpg",
-      "name": "Mr. John Adams",
-      "sort_name": "Mr. John Adams",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/105/john.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6d8fb690-a0b2-47bd-aa93-295ce57b49bd",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "3",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/bda29a61-bdb0-4af1-8be5-8da2d48d6306",
-      "image": "http://parliament.gov.gy/images/member_photos/143/keith.jpg",
-      "name": "Mr. Keith Scott",
-      "sort_name": "Mr. Keith Scott",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/143/keith.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bda29a61-bdb0-4af1-8be5-8da2d48d6306",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/6e76beec-cc56-4723-ade3-32951886d5e3",
-      "image": "http://parliament.gov.gy/images/member_photos/144/khemraj_ramjattan.jpg",
-      "name": "Mr. Khemraj Ramjattan",
-      "sort_name": "Mr. Khemraj Ramjattan",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/144/khemraj_ramjattan.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6e76beec-cc56-4723-ade3-32951886d5e3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/41537a83-212a-4a19-a475-4e3cb261e7fe",
-      "image": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg",
-      "name": "Mr. Komal Chand",
-      "sort_name": "Mr. Komal Chand",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/94/komal_chand.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/41537a83-212a-4a19-a475-4e3cb261e7fe",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "area_id": "3",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
+      "gender": "male",
       "id": "person/1daf4b15-5904-4172-ae02-0e59f4b91e52",
       "image": "http://parliament.gov.gy/images/member_photos/150/odinga_lumumba.jpg",
-      "name": "Mr. Odinga Lumumba",
-      "sort_name": "Mr. Odinga Lumumba",
+      "name": "Odinga Lumumba",
+      "sort_name": "Odinga Lumumba",
       "images": [
         {
           "url": "http://parliament.gov.gy/images/member_photos/150/odinga_lumumba.jpg"
@@ -814,403 +978,6 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "PPP-Civic",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/6fbe5be8-3f37-4e71-9367-90b0f2af8291",
-      "image": "http://parliament.gov.gy/images/member_photos/156/ronald_bulkan.jpg",
-      "name": "Mr. Ronald A. Bulkan",
-      "sort_name": "Mr. Ronald A. Bulkan",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/156/ronald_bulkan.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6fbe5be8-3f37-4e71-9367-90b0f2af8291",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/731c6431-e8f0-4c33-bf83-67df38f5da1a",
-      "image": "http://parliament.gov.gy/images/member_photos/158/syndney.jpg",
-      "name": "Mr. Sydney C. Allicock",
-      "sort_name": "Mr. Sydney C. Allicock",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/158/syndney.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/731c6431-e8f0-4c33-bf83-67df38f5da1a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/b0a565e3-46df-40ce-94f7-817a333d7da1",
-      "image": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg",
-      "name": "Mr. Winston DaCosta Jordan",
-      "sort_name": "Mr. Winston DaCosta Jordan",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b0a565e3-46df-40ce-94f7-817a333d7da1",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
-      "image": "http://parliament.gov.gy/images/member_photos/160/felix.jpg",
-      "name": "Mr. Winston Felix",
-      "sort_name": "Mr. Winston Felix",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/160/felix.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/596d01b1-275e-40d3-96c0-e66beb92c854",
-      "image": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg",
-      "name": "Mrs. Catherine Hughes",
-      "sort_name": "Mrs. Catherine Hughes",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/215/cathy.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/596d01b1-275e-40d3-96c0-e66beb92c854",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/4c50155f-0ffb-4c3b-8fd1-81ec4fad9fa8",
-      "image": "http://parliament.gov.gy/images/member_photos/100/dawn.jpg",
-      "name": "Mrs. Dawn Hastings-Williams",
-      "sort_name": "Mrs. Dawn Hastings-Williams",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/100/dawn.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4c50155f-0ffb-4c3b-8fd1-81ec4fad9fa8",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "7",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/aac50e95-03c8-4333-89d1-7012b4eb1d30",
-      "image": "http://parliament.gov.gy/images/member_photos/123/valerie.jpg",
-      "name": "Mrs. Valerie Garrido-Lowe",
-      "sort_name": "Mrs. Valerie Garrido-Lowe",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/123/valerie.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/aac50e95-03c8-4333-89d1-7012b4eb1d30",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a2b5eed6-b238-4189-8342-9bdbe38a7469",
-      "image": "http://parliament.gov.gy/images/member_photos/99/volda.jpg",
-      "name": "Mrs. Volda Lawrence",
-      "sort_name": "Mrs. Volda Lawrence",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/99/volda.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a2b5eed6-b238-4189-8342-9bdbe38a7469",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "4",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/7df71e89-208b-4f00-8afd-a7e4077f873b",
-      "image": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg",
-      "name": "Ms Africo Selman",
-      "sort_name": "Ms Africo Selman",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/102/africo_selman.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7df71e89-208b-4f00-8afd-a7e4077f873b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/7c55dda1-d45a-4ee4-b6ed-f45db7668758",
-      "image": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg",
-      "name": "Ms Amna Ally",
-      "sort_name": "Ms Amna Ally",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/124/amna_ally.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7c55dda1-d45a-4ee4-b6ed-f45db7668758",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/8b1c050b-209a-4955-b7d0-b4d6a095fe29",
-      "image": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg",
-      "name": "Ms Gail Teixeira",
-      "sort_name": "Ms Gail Teixeira",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/138/ms._gail_teixeira,_m.p..jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8b1c050b-209a-4955-b7d0-b4d6a095fe29",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/99690204-9755-4a59-a0b6-69ab4a8aa50f",
-      "image": "http://parliament.gov.gy/images/member_photos/101/wade.jpg",
-      "name": "Ms Jennifer Wade",
-      "sort_name": "Ms Jennifer Wade",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/101/wade.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/99690204-9755-4a59-a0b6-69ab4a8aa50f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "5",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
-      "image": "http://parliament.gov.gy/images/member_photos/89/priya_manickchand.jpg",
-      "name": "Ms Priya D. Manickchand",
-      "sort_name": "Ms Priya D. Manickchand",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/89/priya_manickchand.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PPP-Civic",
-          "area_id": "5",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
-      "image": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg",
-      "name": "Ms Valarie Patterson",
-      "sort_name": "Ms Valarie Patterson",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unkown",
-          "area_id": "10",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/417ca7aa-5e4d-4ee3-b410-5a69bb3abcf8",
-      "image": "http://parliament.gov.gy/images/member_photos/125/annette.jpg",
-      "name": "Ms. Annette Ferguson",
-      "sort_name": "Ms. Annette Ferguson",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/125/annette.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/417ca7aa-5e4d-4ee3-b410-5a69bb3abcf8",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a797da0b-10b8-4532-b498-427a076ae9ab",
-      "image": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg",
-      "name": "Ms. Rajcoomarie Bancroft",
-      "sort_name": "Ms. Rajcoomarie Bancroft",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a797da0b-10b8-4532-b498-427a076ae9ab",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
-          "area_id": "8",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/146db39d-9ebb-413c-8aaa-43efd4f40896",
-      "image": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg",
-      "name": "Nicolette O. Henry",
-      "sort_name": "Nicolette O. Henry",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/146db39d-9ebb-413c-8aaa-43efd4f40896",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APNU-AFC",
           "legislative_period_id": "term/11"
         }
       ],
@@ -1242,6 +1009,150 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
+      "image": "http://parliament.gov.gy/images/member_photos/89/priya_manickchand.jpg",
+      "name": "Priya D. Manickchand",
+      "sort_name": "Priya D. Manickchand",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/89/priya_manickchand.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "area_id": "5",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/a797da0b-10b8-4532-b498-427a076ae9ab",
+      "image": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg",
+      "name": "Rajcoomarie Bancroft",
+      "sort_name": "Rajcoomarie Bancroft",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a797da0b-10b8-4532-b498-427a076ae9ab",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "8",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
+      "image": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg",
+      "name": "Raphael G.C.Trotman",
+      "sort_name": "Raphael G.C.Trotman",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6fbe5be8-3f37-4e71-9367-90b0f2af8291",
+      "image": "http://parliament.gov.gy/images/member_photos/156/ronald_bulkan.jpg",
+      "name": "Ronald A. Bulkan",
+      "sort_name": "Ronald A. Bulkan",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/156/ronald_bulkan.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6fbe5be8-3f37-4e71-9367-90b0f2af8291",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0ca3d01e-f74b-4610-8768-077260101426",
+      "image": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg",
+      "name": "Rupert Roopnarine",
+      "sort_name": "Rupert Roopnarine",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/135/ropert.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ca3d01e-f74b-4610-8768-077260101426",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/48b9cc62-2222-4118-9b28-47945fcfaa30",
+      "image": "http://parliament.gov.gy/images/member_photos/5708/veersammy.jpg",
+      "name": "Sheila Veersammy",
+      "sort_name": "Sheila Veersammy",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/5708/veersammy.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/48b9cc62-2222-4118-9b28-47945fcfaa30",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PPP-Civic",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/ad5c508f-3ecf-4456-b8e9-e7900a76d0c0",
       "image": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg",
       "name": "Simona Broomes",
@@ -1257,6 +1168,152 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "unkown",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/731c6431-e8f0-4c33-bf83-67df38f5da1a",
+      "image": "http://parliament.gov.gy/images/member_photos/158/syndney.jpg",
+      "name": "Sydney C. Allicock",
+      "sort_name": "Sydney C. Allicock",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/158/syndney.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/731c6431-e8f0-4c33-bf83-67df38f5da1a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
+      "image": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg",
+      "name": "Valarie Patterson",
+      "sort_name": "Valarie Patterson",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3893/valarie.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unkown",
+          "area_id": "10",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/aac50e95-03c8-4333-89d1-7012b4eb1d30",
+      "image": "http://parliament.gov.gy/images/member_photos/123/valerie.jpg",
+      "name": "Valerie Garrido-Lowe",
+      "sort_name": "Valerie Garrido-Lowe",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/123/valerie.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aac50e95-03c8-4333-89d1-7012b4eb1d30",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/a2b5eed6-b238-4189-8342-9bdbe38a7469",
+      "image": "http://parliament.gov.gy/images/member_photos/99/volda.jpg",
+      "name": "Volda Lawrence",
+      "sort_name": "Volda Lawrence",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/99/volda.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a2b5eed6-b238-4189-8342-9bdbe38a7469",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "area_id": "4",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b0a565e3-46df-40ce-94f7-817a333d7da1",
+      "image": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg",
+      "name": "Winston DaCosta Jordan",
+      "sort_name": "Winston DaCosta Jordan",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b0a565e3-46df-40ce-94f7-817a333d7da1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
+      "image": "http://parliament.gov.gy/images/member_photos/160/felix.jpg",
+      "name": "Winston Felix",
+      "sort_name": "Winston Felix",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/160/felix.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APNU-AFC",
           "legislative_period_id": "term/11"
         }
       ],
