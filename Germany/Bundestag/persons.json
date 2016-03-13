@@ -4391,12 +4391,24 @@
     {
       "gender": "female",
       "id": "person/7688e910-69ae-46e8-b766-ecaad6f885f8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/2014-09-12_-_Doris_Wagner_MdB_-_8682.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wagner,_Doris-1630.jpg",
       "name": "Doris Wagner",
       "sort_name": "Wagner, Doris!",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DorisWagner_MdB"
+        }
+      ],
+      "links": [
+        {
+          "url": "doris.wagner.56",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2014-09-12_-_Doris_Wagner_MdB_-_8682.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wagner,_Doris-1630.jpg"
         }
       ],
       "memberships": [
@@ -4408,9 +4420,6 @@
           "area_id": "area/bayern",
           "legislative_period_id": "term/18"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {

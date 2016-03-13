@@ -1,7 +1,7 @@
 {
-  "total": 632,
+  "total": 636,
   "page": 1,
-  "per_page": 632,
+  "per_page": 636,
   "has_more": false,
   "result": [
     {
@@ -1307,6 +1307,7 @@
           "role": "member",
           "on_behalf_of_id": "ecolo",
           "area_id": "area/somme",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ]
@@ -4560,6 +4561,7 @@
           "role": "member",
           "on_behalf_of_id": "src",
           "area_id": "area/réunion",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ]
@@ -4628,6 +4630,7 @@
           "role": "member",
           "on_behalf_of_id": "src",
           "area_id": "area/seine-maritime",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ]
@@ -6788,6 +6791,7 @@
           "on_behalf_of_id": "src",
           "area_id": "area/finistère",
           "start_date": "2012-07-22",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ]
@@ -7328,6 +7332,7 @@
           "role": "member",
           "on_behalf_of_id": "src",
           "area_id": "area/rhône",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ]
@@ -7625,6 +7630,32 @@
     },
     {
       "gender": "male",
+      "id": "person/58fbe879-392c-467d-8fdb-a1c0a96bd593",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642965.jpg",
+      "name": "Jacques Dellerie",
+      "sort_name": "Jacques Dellerie",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642965.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/58fbe879-392c-467d-8fdb-a1c0a96bd593",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "area/seine-maritime",
+          "start_date": "2016-03-12",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/09d85189-364b-497c-bf94-2cb4dc144bf1",
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/1770.jpg",
       "name": "Jacques Kossowski",
@@ -7720,6 +7751,7 @@
           "on_behalf_of_id": "rrdp",
           "area_id": "area/tarn-et-garonne",
           "start_date": "2012-07-22",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ],
@@ -9037,6 +9069,7 @@
           "on_behalf_of_id": "src",
           "area_id": "area/loire-atlantique",
           "start_date": "2014-05-01",
+          "end_date": "2016-03-11",
           "legislative_period_id": "term/14"
         }
       ]
@@ -12134,9 +12167,9 @@
           "person_id": "person/f88f5b29-324a-4084-8cd3-250b0e5ee619",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "src",
+          "on_behalf_of_id": "ni",
           "area_id": "area/finistère",
-          "end_date": "2012-07-21",
+          "start_date": "2016-03-12",
           "legislative_period_id": "term/14"
         }
       ],
@@ -14874,6 +14907,32 @@
     },
     {
       "gender": "male",
+      "id": "person/3673ec09-696a-4854-b080-90ef3331cc36",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643157.jpg",
+      "name": "Philippe Naillet",
+      "sort_name": "Philippe Naillet",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643157.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3673ec09-696a-4854-b080-90ef3331cc36",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "area/réunion",
+          "start_date": "2016-03-12",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/8249b020-fe41-49ee-94b5-ace90ef23e4c",
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/2265.jpg",
       "name": "Philippe Nauche",
@@ -15364,6 +15423,32 @@
     },
     {
       "gender": "male",
+      "id": "person/fc0bed93-befc-44be-89ae-b28c05b3bc30",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643165.jpg",
+      "name": "Renaud Gauquelin",
+      "sort_name": "Renaud Gauquelin",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643165.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fc0bed93-befc-44be-89ae-b28c05b3bc30",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "area/rhône",
+          "start_date": "2016-03-12",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/d6d8267d-61a3-442e-831a-c59ffe38e67a",
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/1155.jpg",
       "name": "René Dosière",
@@ -15524,6 +15609,32 @@
           "start_date": "2014-07-04",
           "legislative_period_id": "term/14"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4da9ec22-7a7a-4944-b121-86ab3ce4ed08",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643196.jpg",
+      "name": "Romain Joron",
+      "sort_name": "Romain Joron",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643196.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4da9ec22-7a7a-4944-b121-86ab3ce4ed08",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "area/somme",
+          "start_date": "2016-03-12",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -16362,9 +16473,9 @@
           "person_id": "person/9209ed65-ec9c-4104-9947-dee5197386f8",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "rrdp",
+          "on_behalf_of_id": "ni",
           "area_id": "area/tarn-et-garonne",
-          "end_date": "2012-07-21",
+          "start_date": "2016-03-12",
           "legislative_period_id": "term/14"
         }
       ]
@@ -18141,6 +18252,7 @@
           "role": "member",
           "on_behalf_of_id": "les-rep",
           "area_id": "area/ain",
+          "end_date": "2016-03-10",
           "legislative_period_id": "term/14"
         }
       ]
