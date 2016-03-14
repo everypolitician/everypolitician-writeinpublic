@@ -1680,31 +1680,6 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
-      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg",
-      "name": "Shih-Fang Liu",
-      "sort_name": "Liu, Shih-Fang",
-      "images": [
-        {
-          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
-          "organization_id": "chamber/legislative_yuan",
-          "role": "member",
-          "on_behalf_of_id": "dpp",
-          "start_date": "2016-02-01",
-          "legislative_period_id": "term/9"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "male",
       "id": "person/bef639e6-b0ed-45c8-8fee-cca4f1249176",
       "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90092.jpg",
@@ -1846,6 +1821,31 @@
           "organization_id": "chamber/legislative_yuan",
           "role": "member",
           "on_behalf_of_id": "kmt",
+          "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg",
+      "name": "Shyh-Fang Liu",
+      "sort_name": "Liu, Shyh-Fang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90086.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c66b753-ebe8-4bb5-b0c5-1320ab95a622",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
           "start_date": "2016-02-01",
           "legislative_period_id": "term/9"
         }
