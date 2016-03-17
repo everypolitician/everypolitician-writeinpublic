@@ -1,7 +1,7 @@
 {
-  "total": 137,
+  "total": 138,
   "page": 1,
-  "per_page": 137,
+  "per_page": 138,
   "has_more": false,
   "result": [
     {
@@ -2446,7 +2446,7 @@
       ],
       "links": [
         {
-          "url": "groups/169345386536235/",
+          "url": "groups/169345386536235",
           "note": "facebook"
         }
       ],
@@ -3158,6 +3158,40 @@
           "role": "member",
           "on_behalf_of_id": "alianza_pais",
           "area_id": "area/el_oro",
+          "legislative_period_id": "term/2013"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/3264d05d-833c-4043-adb7-e9714b7ae451",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15496-1457992693.jpg?itok=FEiHGbLs",
+      "name": "Mónica Cristina Brito Mendoza",
+      "sort_name": "Mónica Cristina Brito Mendoza",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "monicabrito35"
+        }
+      ],
+      "links": [
+        {
+          "url": "mayelbrito",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15496-1457992693.jpg?itok=FEiHGbLs"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3264d05d-833c-4043-adb7-e9714b7ae451",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "alianza_pais",
+          "area_id": "area/guayas",
           "legislative_period_id": "term/2013"
         }
       ]
