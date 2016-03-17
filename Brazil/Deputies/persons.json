@@ -1,7 +1,7 @@
 {
-  "total": 523,
+  "total": 525,
   "page": 1,
-  "per_page": 523,
+  "per_page": 525,
   "has_more": false,
   "result": [
     {
@@ -9508,6 +9508,31 @@
       ]
     },
     {
+      "email": "dep.nelsonpadovani@camara.leg.br",
+      "id": "person/bf7ab522-cd73-4915-b5b3-3f62be25d45c",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/160566.jpg",
+      "name": "NELSON PADOVANI",
+      "sort_name": "NELSON PADOVANI",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/160566.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bf7ab522-cd73-4915-b5b3-3f62be25d45c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSC",
+          "area_id": "area/pr",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.nelsonpellegrino@camara.leg.br",
       "id": "person/06acec99-d985-4b2d-86be-479eca04a91b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74571.jpg",
@@ -10717,6 +10742,31 @@
           "role": "member",
           "on_behalf_of_id": "PT",
           "area_id": "area/mg",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.reinholdstephanes@camara.leg.br",
+      "id": "person/dfa55780-0ea6-4331-b460-f88f22d81610",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73786.jpg",
+      "name": "REINHOLD STEPHANES",
+      "sort_name": "REINHOLD STEPHANES",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73786.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dfa55780-0ea6-4331-b460-f88f22d81610",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSD",
+          "area_id": "area/pr",
           "legislative_period_id": "term/55"
         }
       ],

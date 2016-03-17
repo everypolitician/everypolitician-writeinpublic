@@ -1,7 +1,7 @@
 {
-  "total": 93,
+  "total": 94,
   "page": 1,
-  "per_page": 93,
+  "per_page": 94,
   "has_more": false,
   "result": [
     {
@@ -629,6 +629,24 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/tasmania",
+          "legislative_period_id": "term/44"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/32ca3a6f-c19d-465c-a1ad-a53564e7fade",
+      "name": "Senator James Paterson",
+      "sort_name": "Senator James Paterson",
+      "memberships": [
+        {
+          "person_id": "person/32ca3a6f-c19d-465c-a1ad-a53564e7fade",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party_of_australia",
+          "area_id": "area/victoria",
           "legislative_period_id": "term/44"
         }
       ],
@@ -1580,7 +1598,7 @@
       ]
     },
     {
-      "email": "senator.fierravanti-wells@aph.gov.au",
+      "email": "Concetta.Fierravanti-Wells@dfat.gov.au",
       "id": "person/db131740-9538-4a24-8c83-9b0eab0bea22",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E4T/upload_ref_binary/E4T.JPG",
       "name": "Senator the Hon Concetta Fierravanti-Wells",
@@ -1718,12 +1736,12 @@
     },
     {
       "id": "person/f4009041-9614-4e28-bbaf-6f465093d887",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5G/upload_ref_binary/E5G.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5G/upload_ref_binary/E5G.jpg",
       "name": "Senator the Hon Fiona Nash",
       "sort_name": "Senator the Hon Fiona Nash",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5G/upload_ref_binary/E5G.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5G/upload_ref_binary/E5G.jpg"
         }
       ],
       "memberships": [
@@ -2095,7 +2113,7 @@
       ]
     },
     {
-      "email": "senator.canavan@aph.gov.au",
+      "email": "minister.canavan@industry.gov.au",
       "id": "person/59ae5aa3-637b-4d84-94cf-9609854dd6c8",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/245212/upload_ref_binary/245212.jpg",
       "name": "Senator the Hon Matthew Canavan",

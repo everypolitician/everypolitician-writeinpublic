@@ -61,6 +61,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/799f7775-3121-4664-a503-3cc658c2d718",
       "name": "Araz Əlizadə",
       "sort_name": "Araz Əlizadə",
@@ -494,6 +495,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/dd9e5956-256c-46b4-bc92-000b322b5bd3",
       "name": "Elman Nəsirov",
       "sort_name": "Elman Nəsirov",
@@ -944,8 +946,14 @@
     },
     {
       "id": "person/fea3fa38-7655-46fa-8344-7281f85cf1df",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mahir_Abbaszadə.jpg",
       "name": "Mahir Abbaszadə",
       "sort_name": "Mahir Abbaszadə",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mahir_Abbaszadə.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/fea3fa38-7655-46fa-8344-7281f85cf1df",
@@ -1528,8 +1536,14 @@
     },
     {
       "id": "person/53409ee1-991f-4a3c-8b55-b38d71b957a3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/R.mahmudov.jpg",
       "name": "Rəşad Mahmudov",
       "sort_name": "Rəşad Mahmudov",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/R.mahmudov.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/53409ee1-991f-4a3c-8b55-b38d71b957a3",
@@ -1727,6 +1741,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7b9c5dd4-3c11-474a-b3d3-c1c90fae9be8",
       "name": "Tahir Kərimli",
       "sort_name": "Tahir Kərimli",
@@ -2091,9 +2106,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/1b701492-ca02-40a0-aad1-8647ede0c299",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ulviyya_Hamzayeva.jpg",
       "name": "Ülviyyə Həmzəyeva",
       "sort_name": "Ülviyyə Həmzəyeva",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ulviyya_Hamzayeva.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/1b701492-ca02-40a0-aad1-8647ede0c299",
