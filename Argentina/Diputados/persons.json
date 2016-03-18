@@ -1,7 +1,7 @@
 {
-  "total": 384,
+  "total": 385,
   "page": 1,
-  "per_page": 384,
+  "per_page": 385,
   "has_more": false,
   "result": [
     {
@@ -498,7 +498,7 @@
           "person_id": "person/f5457c1b-d69a-4422-ab38-230b81ce6398",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "libertad_y_democracia",
+          "on_behalf_of_id": "libertad_valores_y_cambio",
           "area_id": "area/misiones",
           "legislative_period_id": "term/133"
         }
@@ -2218,7 +2218,7 @@
           "person_id": "person/320e1ffd-0888-48fe-a297-51147fe280f0",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "bloque_social_cristiano",
+          "on_behalf_of_id": "juntos_por_argentina",
           "area_id": "area/buenos_aires",
           "legislative_period_id": "term/133"
         }
@@ -5063,12 +5063,12 @@
     {
       "email": "jbrugge@diputados.gob.ar",
       "id": "person/eef206e3-f397-41b6-b785-f72d4955dae3",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/jbrugge.jpg",
       "name": "JUAN FERNANDO BRÜGGE",
       "sort_name": "BRÜGGE, JUAN FERNANDO",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/jbrugge.jpg"
         }
       ],
       "memberships": [
@@ -6317,6 +6317,31 @@
           "on_behalf_of_id": "federal_unidos_por_una_nueva_argentina",
           "area_id": "area/buenos_aires",
           "start_date": "2015-12-10",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "msorgente@diputados.gob.ar",
+      "id": "person/0a9a1c5f-25dd-4ef6-baee-433591138644",
+      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "name": "MARCELO ADOLFO SORGENTE",
+      "sort_name": "SORGENTE, MARCELO ADOLFO",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0a9a1c5f-25dd-4ef6-baee-433591138644",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "union_pro",
+          "area_id": "area/ciudad_de_buenos_aires",
           "legislative_period_id": "term/133"
         }
       ],
@@ -8831,7 +8856,7 @@
           "person_id": "person/b73ed823-c301-4796-8e10-8e5f9dfd261e",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "brigadier_general_juan_bautista_bustos",
           "area_id": "area/cordoba",
           "legislative_period_id": "term/133"
         }
@@ -9177,7 +9202,7 @@
           "person_id": "person/6b95e796-00d1-4332-8dfa-f53b1817e2a2",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "bloque_social_cristiano",
+          "on_behalf_of_id": "juntos_por_argentina",
           "area_id": "area/buenos_aires",
           "legislative_period_id": "term/133"
         }
@@ -9334,7 +9359,7 @@
           "person_id": "person/7c1504df-f1ff-471b-a2e9-823d62e441ab",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "bloque_social_cristiano",
+          "on_behalf_of_id": "juntos_por_argentina",
           "area_id": "area/buenos_aires",
           "legislative_period_id": "term/133"
         }
@@ -9756,7 +9781,7 @@
           "person_id": "person/a6b61575-7bb1-47f0-a722-2a9e0bcc335d",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "ucr",
+          "on_behalf_of_id": "union_pro",
           "area_id": "area/mendoza",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
