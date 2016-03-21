@@ -1,7 +1,7 @@
 {
-  "total": 525,
+  "total": 527,
   "page": 1,
-  "per_page": 525,
+  "per_page": 527,
   "has_more": false,
   "result": [
     {
@@ -9584,6 +9584,31 @@
       ]
     },
     {
+      "email": "dep.nilmariomiranda@camara.leg.br",
+      "id": "person/35c20a72-d52c-4327-b2a5-efb794edc6af",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74751.jpg",
+      "name": "NILMÁRIO MIRANDA",
+      "sort_name": "NILMÁRIO MIRANDA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74751.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/35c20a72-d52c-4327-b2a5-efb794edc6af",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PT",
+          "area_id": "area/mg",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.nilsonleitao@camara.leg.br",
       "gender": "male",
       "id": "person/42e00db4-5ff3-49fd-9035-80a5b431594e",
@@ -10224,6 +10249,31 @@
           "role": "member",
           "on_behalf_of_id": "PP",
           "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.paulomartins@camara.leg.br",
+      "id": "person/ac3f06ca-ab42-45d6-80f0-05f4d74341ba",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/193726.jpg",
+      "name": "PAULO MARTINS",
+      "sort_name": "PAULO MARTINS",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/193726.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ac3f06ca-ab42-45d6-80f0-05f4d74341ba",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSC",
+          "area_id": "area/pr",
           "legislative_period_id": "term/55"
         }
       ],
