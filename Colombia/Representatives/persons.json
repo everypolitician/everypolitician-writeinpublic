@@ -1,7 +1,7 @@
 {
-  "total": 165,
+  "total": 168,
   "page": 1,
-  "per_page": 165,
+  "per_page": 168,
   "has_more": false,
   "result": [
     {
@@ -333,6 +333,31 @@
           "role": "member",
           "on_behalf_of_id": "movimiento_mira",
           "area_id": "area/c.e._exterior",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "andres.villamizar@camara.gov.co",
+      "id": "person/36f4abc1-cb7c-42ab-9c62-3a2737e29aa6",
+      "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/VILLAMIZAR%20ORTIZ%20ANDRES%20FELIPE_26x35.gif",
+      "name": "ANDRÉS FELIPE VILLAMIZAR ORTIZ",
+      "sort_name": "ANDRÉS FELIPE VILLAMIZAR ORTIZ",
+      "images": [
+        {
+          "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/VILLAMIZAR%20ORTIZ%20ANDRES%20FELIPE_26x35.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36f4abc1-cb7c-42ab-9c62-3a2737e29aa6",
+          "organization_id": "chamber/cámara_de_representantes",
+          "role": "member",
+          "on_behalf_of_id": "partido_liberal_colombiano",
+          "area_id": "area/bogota",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1177,8 +1202,8 @@
       "email": "eduardo.diazgranados@camara.gov.co",
       "id": "person/71647fec-0d07-4edb-87ae-25418b616bc7",
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/DIAZ%20GRANADOS%20ABADIA%20EDUARDO%20AGATON.1_26x35.gif",
-      "name": "EDUARDO AGATÓN DÍAZ GRANADOS GRANADOS",
-      "sort_name": "EDUARDO AGATÓN DÍAZ GRANADOS GRANADOS",
+      "name": "EDUARDO AGATÓN DÍAZ GRANADOS ABADIA",
+      "sort_name": "EDUARDO AGATÓN DÍAZ GRANADOS ABADIA",
       "images": [
         {
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/DIAZ%20GRANADOS%20ABADIA%20EDUARDO%20AGATON.1_26x35.gif"
@@ -1762,6 +1787,31 @@
           "area_id": "area/caqueta",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "email": "hectorj.osorio@camara.gov.co",
+      "id": "person/83171bbd-677a-411e-b088-7f51f7f0edce",
+      "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
+      "name": "HECTOR JAVIER OSORIO BOTELLO",
+      "sort_name": "HECTOR JAVIER OSORIO BOTELLO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/83171bbd-677a-411e-b088-7f51f7f0edce",
+          "organization_id": "chamber/cámara_de_representantes",
+          "role": "member",
+          "on_behalf_of_id": "partido_social_de_unidad_nacional",
+          "area_id": "area/huila",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2922,6 +2972,31 @@
           "role": "member",
           "on_behalf_of_id": "partido_liberal_colombiano",
           "area_id": "area/vichada",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "marcos.diaz@camara.gov.co",
+      "id": "person/ceb89a74-b556-40f6-86fb-f05034dc8f39",
+      "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/DIAZ%20BARRERA%20MARCOS%20JOHAN_26x35.gif",
+      "name": "MARCOS YOHAN DÍAZ BARRERA",
+      "sort_name": "MARCOS YOHAN DÍAZ BARRERA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/Resized/DIAZ%20BARRERA%20MARCOS%20JOHAN_26x35.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ceb89a74-b556-40f6-86fb-f05034dc8f39",
+          "organization_id": "chamber/cámara_de_representantes",
+          "role": "member",
+          "on_behalf_of_id": "centro_cemocratico",
+          "area_id": "area/santander",
           "legislative_period_id": "term/2014"
         }
       ],
