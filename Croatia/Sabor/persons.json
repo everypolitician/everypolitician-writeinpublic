@@ -1,7 +1,7 @@
 {
-  "total": 149,
+  "total": 150,
   "page": 1,
-  "per_page": 149,
+  "per_page": 150,
   "has_more": false,
   "result": [
     {
@@ -593,6 +593,30 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/10th",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5f88b811-6a90-4152-bd6a-b0fa1e897229",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45059",
+      "name": "DAVOR BERNARDIĆ",
+      "sort_name": "DAVOR BERNARDIĆ",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45059"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5f88b811-6a90-4152-bd6a-b0fa1e897229",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/1st",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1754,8 +1778,14 @@
     },
     {
       "id": "person/05c1421b-3228-4094-802a-0aa9d8062b01",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45062",
       "name": "JOSIPA RIMAC",
       "sort_name": "JOSIPA RIMAC",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45062"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/05c1421b-3228-4094-802a-0aa9d8062b01",
@@ -2902,8 +2932,14 @@
     },
     {
       "id": "person/64ec110d-3922-43ac-857b-b388ceef2038",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45058",
       "name": "SANDRA PERKOVIĆ",
       "sort_name": "SANDRA PERKOVIĆ",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45058"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/64ec110d-3922-43ac-857b-b388ceef2038",
