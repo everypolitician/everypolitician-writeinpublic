@@ -1,7 +1,7 @@
 {
-  "total": 113,
+  "total": 115,
   "page": 1,
-  "per_page": 113,
+  "per_page": 115,
   "has_more": false,
   "result": [
     {
@@ -1970,6 +1970,29 @@
       ]
     },
     {
+      "id": "person/0742e286-a513-496d-af9e-aa592820113c",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "name": "Serghei Kiseliov",
+      "sort_name": "Kiseliov Serghei",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0742e286-a513-496d-af9e-aa592820113c",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "9",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Serghei.Sirbu@parlament.md",
       "gender": "male",
       "id": "person/c2f2ebcd-45b3-4950-9f9b-4540a4c73bb2",
@@ -2107,6 +2130,29 @@
       "memberships": [
         {
           "person_id": "person/ce0de023-fa0f-468f-bcd0-00e8123fafcb",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "9",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8d8652e2-9c83-45bf-bd8f-93cab12f4678",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "name": "Valentina Rotaru",
+      "sort_name": "Rotaru Valentina",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8d8652e2-9c83-45bf-bd8f-93cab12f4678",
           "organization_id": "chamber/parlament",
           "role": "member",
           "on_behalf_of_id": "9",

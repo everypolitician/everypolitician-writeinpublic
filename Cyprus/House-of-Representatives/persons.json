@@ -31,6 +31,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/42700471-5888-49f3-b162-af263a529b9f",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Anastasiades%20Nikos.jpg",
       "name": "Anastasiadis Nikos",
@@ -83,6 +84,7 @@
     },
     {
       "email": "ehamboullas@parliament.cy",
+      "gender": "male",
       "id": "person/1f785a1b-8474-4225-b25f-2734affe4bac",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Hamboullas-mikri.jpg",
       "name": "Champoullas Evgenios",
@@ -109,6 +111,7 @@
     },
     {
       "email": "icharalambides@parliament.cy",
+      "gender": "female",
       "id": "person/45c60ea1-bb65-4066-b1d3-0edc92359e14",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Charalambidou%20Eirini%20a.jpg",
       "name": "Charalampidou Eirini",
@@ -134,6 +137,7 @@
     },
     {
       "email": "khadjiyianni@parliament.cy",
+      "gender": "male",
       "id": "person/031e1ad7-2f4a-41d9-89b6-640b675702fa",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg",
       "name": "Chatzigiannis Kyriakos",
@@ -159,6 +163,7 @@
     },
     {
       "email": "lchristoforou@parliament.cy",
+      "gender": "male",
       "id": "person/1479b419-0e38-499f-9670-471f98a0c6bb",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU%20Lefteris.jpg",
       "name": "Christoforou Lefteris",
@@ -185,10 +190,17 @@
     },
     {
       "email": "adamianou@parliament.cy",
+      "gender": "male",
       "id": "person/66966c4d-e771-40be-a7b6-fda2618abf5b",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg",
       "name": "Damianou Aristos",
       "sort_name": "Damianou Aristos",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AristosDamianou"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg"
@@ -203,13 +215,11 @@
           "area_id": "area/lefkosia",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "smisiaouli@parliament.cy",
+      "gender": "female",
       "id": "person/1a89df8b-970b-4ed7-ab40-6660f851865f",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli%20Stella%20a.jpg",
       "name": "Dimitriou Misiaouli Stella",
@@ -235,10 +245,17 @@
     },
     {
       "email": "ediplaros@parliament.cy",
+      "gender": "male",
       "id": "person/74053fe1-0b44-44e4-809d-8c92b5f553a5",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymios.jpg",
       "name": "Diplaros Efthymios",
       "sort_name": "Diplaros Efthymios",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ediplaros"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymios.jpg"
@@ -253,13 +270,11 @@
           "area_id": "area/lemesos",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "sevagorou@parliament.cy",
+      "gender": "male",
       "id": "person/135294a5-fd41-44cd-8980-0f316bb09891",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%20a.jpg",
       "name": "Evagorou Stavros",
@@ -285,6 +300,7 @@
     },
     {
       "email": "afakontis@parliament.cy",
+      "gender": "male",
       "id": "person/4537b2a0-1d45-4646-939e-261e07d1ab71",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Fakontis%20Andreas%20a.jpg",
       "name": "Fakontis Antreas",
@@ -310,6 +326,7 @@
     },
     {
       "email": "sfittis@parliament.cy",
+      "gender": "male",
       "id": "person/385a9288-2c65-4e2e-9e93-1b3a583f711b",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/FITTIS%20SOFOKLIS.jpg",
       "name": "Fyttis Sofoklis",
@@ -335,6 +352,7 @@
     },
     {
       "email": "ycavriel@parliament.cy",
+      "gender": "male",
       "id": "person/c9483a57-f90f-42a5-9997-6f91a2c56b84",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Gavriel%20Giannakis%20a.jpg",
       "name": "Gavriil Giannakis",
@@ -359,6 +377,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3e6eb062-3610-4544-8841-8b98de796671",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/GEORGIADES%20Harris.jpg",
       "name": "Georgiadis Charis",
@@ -385,10 +404,17 @@
     },
     {
       "email": "ggeorgiou@parliament.cy",
+      "gender": "male",
       "id": "person/a5cb8a98-85b9-4c51-a519-b6e54ce02468",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios.jpg",
       "name": "Georgiou Georgios",
       "sort_name": "Georgiou Georgios",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GeorgeKGeorgiou"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios.jpg"
@@ -403,13 +429,11 @@
           "area_id": "area/ammochostos",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "gegeorgiou@parliament.cy",
+      "gender": "male",
       "id": "person/d8a3a81b-678d-46b7-ba6e-e39e68dd2ecc",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%20a.jpg",
       "name": "Georgiou Giorgos",
@@ -435,6 +459,7 @@
     },
     {
       "email": "akafkalias@parliament.cy",
+      "gender": "male",
       "id": "person/f6e38152-dec4-4e6c-bf23-08420495f04a",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Kafkalias%20Andros%20a.jpg",
       "name": "Kafkalias Antreas",
@@ -512,6 +537,7 @@
     },
     {
       "email": "cconstantinou@parliament.cy",
+      "gender": "male",
       "id": "person/0986e289-d83f-4be6-bc1b-14295726c8c1",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Kostas.jpg",
       "name": "Konstantinou Kostas",
@@ -537,6 +563,7 @@
     },
     {
       "email": "nconstantinou@parliament.cy",
+      "gender": "male",
       "id": "person/6092cfb1-4a17-4275-ba20-a115a611c22c",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Fitos.jpg",
       "name": "Konstantinou Neofytos",
@@ -562,6 +589,7 @@
     },
     {
       "email": "ccosta@parliament.cy",
+      "gender": "male",
       "id": "person/3d882243-9473-4230-84d1-75cb4e616c5e",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Costa%20Costas%20a.jpg",
       "name": "Kosta Kostas",
@@ -587,6 +615,7 @@
     },
     {
       "email": "skoukouma@parliament.cy",
+      "gender": "female",
       "id": "person/d92d6691-cb92-44aa-8dc0-4e6927f78a5c",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%20Skevi%20a.jpg",
       "name": "Koukouma Koutra Skevi",
@@ -612,6 +641,7 @@
     },
     {
       "email": "zkoulias@parliament.cy",
+      "gender": "male",
       "id": "person/9203a358-f36d-4551-80c8-92455f617589",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS.jpg",
       "name": "Koulias Zacharias",
@@ -647,6 +677,7 @@
     },
     {
       "email": "nkoutsou@parliament.cy",
+      "gender": "male",
       "id": "person/81ff6684-720f-433e-85b7-071f057970a6",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KOUTSOU%20Nikos.jpg",
       "name": "Koutsou Nikos",
@@ -682,6 +713,7 @@
     },
     {
       "email": "andkyprianou@parliament.cy",
+      "gender": "male",
       "id": "person/c6dd8909-ab61-4f2d-8417-7030dbb66ee7",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas.jpg",
       "name": "Kyprianou Andreas",
@@ -733,6 +765,7 @@
     },
     {
       "email": "akyriakidou@parliament.cy",
+      "gender": "female",
       "id": "person/a265d19d-c56e-4caa-b512-065342e02bc8",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina.jpg",
       "name": "Kyriakidou Athina",
@@ -758,6 +791,7 @@
     },
     {
       "email": "skyriakidou@parliament.cy",
+      "gender": "female",
       "id": "person/b03ce67e-28fe-43c5-af91-53a8ec553207",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Stella.jpg",
       "name": "Kyriakidou Stella",
@@ -783,6 +817,7 @@
     },
     {
       "email": "mkyriakou@parliament.cy",
+      "gender": "female",
       "id": "person/b220307f-2f9d-48c6-b120-6247bfe8e719",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/KYRIAKOU%20MARIA.JPG",
       "name": "Kyriakou Maria",
@@ -809,6 +844,7 @@
     },
     {
       "email": "ylamaris@parliament.cy",
+      "gender": "male",
       "id": "person/e2dc3255-04e8-4069-963e-df81a24aea5e",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Lamaris%20Giannos%20a.jpg",
       "name": "Lamaris Giannos",
@@ -834,6 +870,7 @@
     },
     {
       "email": "gloukaides@parliament.cy",
+      "gender": "male",
       "id": "person/9f16c11d-da3d-4006-a5d1-6eadd312266f",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Loukaidis%20Giwrgos%20a.jpg",
       "name": "Loukaidis Giorgos",
@@ -859,6 +896,7 @@
     },
     {
       "email": "amappourides@parliament.cy",
+      "gender": "male",
       "id": "person/feca5485-8be4-44b9-a18b-b94eaa6a4f9b",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES%20Rikkos.jpg",
       "name": "Mappouridis Rikkos",
@@ -885,6 +923,7 @@
     },
     {
       "email": "mmavrides@parliament.cy",
+      "gender": "male",
       "id": "person/0bfaab7c-548b-41cb-82b3-b2870fee11cc",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg",
       "name": "Mavridis Marios",
@@ -910,6 +949,7 @@
     },
     {
       "email": "rmavronikola@parliament.cy",
+      "gender": "female",
       "id": "person/661f04db-440d-41d2-873f-b7350f0c0134",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA%20Roula.jpg",
       "name": "Mavronikola Roula",
@@ -935,6 +975,7 @@
     },
     {
       "email": "cmessis@parliament.cy",
+      "gender": "male",
       "id": "person/9dd4f745-ec15-4273-8fc3-e74a20ea0a35",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Mesis%20Christos%20a.jpg",
       "name": "Mesis Christos",
@@ -986,6 +1027,7 @@
     },
     {
       "email": "amisos@parliament.cy",
+      "gender": "male",
       "id": "person/fb4260b7-1c75-41df-8cee-079fbb9c3c21",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis.jpg",
       "name": "Misos Aristotelis",
@@ -1011,6 +1053,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/9cf0587b-e652-48fa-9ce0-f793c115aa60",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/MITSOPOULOS%20Tasos.jpg",
       "name": "Mitsopoulos Tasos",
@@ -1037,10 +1080,23 @@
     },
     {
       "email": "aneofytou@parliament.cy",
+      "gender": "male",
       "id": "person/d0b02f94-d36e-49b3-b7b9-5c94e2f8cf84",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg",
       "name": "Neofytou Averof",
       "sort_name": "Neofytou Averof",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AverofCY"
+        }
+      ],
+      "links": [
+        {
+          "url": "AverofNeofytou",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg"
@@ -1055,9 +1111,6 @@
           "area_id": "area/lefkosia",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1087,6 +1140,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6e72ac7f-0154-4895-bcae-ab4a9c362776",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/NIKOLAOU%20Ionas.jpg",
       "name": "Nikolaou Ionas",
@@ -1113,6 +1167,7 @@
     },
     {
       "email": "nnouris@parliament.cy",
+      "gender": "male",
       "id": "person/2fcab4c9-1763-4c15-949a-b7421bf48eed",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/NOURIS%20Nikos.jpg",
       "name": "Nouris Nikos",
@@ -1170,6 +1225,12 @@
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS%20Nikolas.jpg",
       "name": "Papadopoulos Nikolas",
       "sort_name": "Papadopoulos Nikolas",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NicholasPapadop"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS%20Nikolas.jpg"
@@ -1184,9 +1245,6 @@
           "area_id": "area/lefkosia",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1242,6 +1300,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3a66f1de-c568-4532-901d-6658314904b5",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PITSILLIDES%20Andreas.jpg",
       "name": "Pitsillidis Andreas",
@@ -1268,10 +1327,17 @@
     },
     {
       "email": "pprodromou@parliament.cy",
+      "gender": "male",
       "id": "person/4e0c522e-a790-4e4a-961f-44d6f802fe1c",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU%20Prodromos.jpg",
       "name": "Prodromou Prodromos",
       "sort_name": "Prodromou Prodromos",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "pprodromou"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU%20Prodromos.jpg"
@@ -1287,13 +1353,11 @@
           "start_date": "2013-03-07",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "giprokopiou@parliament.cy",
+      "gender": "male",
       "id": "person/cedf4729-7f48-4ce9-add7-c189db1aa4f7",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/PROKOPIOU%20Giorgos.jpg",
       "name": "Prokopiou Georgios",
@@ -1319,6 +1383,7 @@
     },
     {
       "email": "ssampson@parliament.cy",
+      "gender": "male",
       "id": "person/11021b19-d92c-4d72-b702-cf8fbe957626",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/SAMPSON%20Sotiris.jpg",
       "name": "Sampson Sotiris",
@@ -1344,6 +1409,7 @@
     },
     {
       "email": "fsarikas@parliament.cy",
+      "gender": "male",
       "id": "person/0aa70bef-a146-413b-ad63-060b671dc648",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jpg",
       "name": "Sarikas Feidias",
@@ -1369,6 +1435,7 @@
     },
     {
       "email": "pstavrianos@parliament.cy",
+      "gender": "male",
       "id": "person/c422f834-1259-4559-9585-30a73db76c49",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg",
       "name": "Stavrianos Panikkos",
@@ -1393,6 +1460,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7c9c8c04-b93b-447c-8c1c-c87c8c664264",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/STYLIANIDES%20Christos.jpg",
       "name": "Stylianidis Christos",
@@ -1419,6 +1487,7 @@
     },
     {
       "email": "dsyllouris@parliament.cy",
+      "gender": "male",
       "id": "person/d2f50a5d-d69b-478f-964b-9a18c54187b5",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg",
       "name": "Syllouris Dimitris",
@@ -1444,6 +1513,7 @@
     },
     {
       "email": "gtasou@parliament.cy",
+      "gender": "male",
       "id": "person/b6a704e9-9e0e-4678-acf3-863cdebc949d",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/TASOU%20Georgios.jpg",
       "name": "Tasou Georgios",
@@ -1469,6 +1539,7 @@
     },
     {
       "email": "athemistocleous@parliament.cy",
+      "gender": "male",
       "id": "person/28cc782d-fd7d-4f4d-b217-45be9bed4598",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/themistocleous.jpg",
       "name": "Themistokleous Andreas",
@@ -1500,6 +1571,12 @@
       "image": "http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS%20Nikos.jpg",
       "name": "Tornaritis Nikos",
       "sort_name": "Tornaritis Nikos",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nicostornaritis"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS%20Nikos.jpg"
@@ -1514,13 +1591,11 @@
           "area_id": "area/lefkosia",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "ctziovanis@parliament.cy",
+      "gender": "male",
       "id": "person/3f0e7a1d-70bc-478b-a813-5022ee954c87",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/Giovanis%20Christakis%20a.jpg",
       "name": "Tziovanis Christakis",
@@ -1546,6 +1621,7 @@
     },
     {
       "email": "gvarnavas@parliament.cy",
+      "gender": "male",
       "id": "person/e58e3fc9-d354-4374-9d7d-a95ae503a715",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS%20George.jpg",
       "name": "Varnava Giorgos",
@@ -1571,10 +1647,17 @@
     },
     {
       "email": "avotsis@parliament.cy",
+      "gender": "male",
       "id": "person/49f987a1-50a1-4025-bd40-499111be934e",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg",
       "name": "Votsis Angelos",
       "sort_name": "Votsis Angelos",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AngelosEmVotsis"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg"
@@ -1589,13 +1672,11 @@
           "area_id": "area/lemesos",
           "legislative_period_id": "term/2011"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "zzachariou@parliament.cy",
+      "gender": "male",
       "id": "person/db57ba63-8af0-45c3-9fa9-0687f96ed33a",
       "image": "http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU%20Zacharias.jpg",
       "name": "Zachariou Zacharias",
