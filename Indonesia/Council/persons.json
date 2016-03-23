@@ -1,7 +1,7 @@
 {
-  "total": 569,
+  "total": 570,
   "page": 1,
-  "per_page": 569,
+  "per_page": 570,
   "has_more": false,
   "result": [
     {
@@ -388,6 +388,30 @@
           "role": "member",
           "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
           "area_id": "area/sumatera_barat_i",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5b9003c6-7e22-4531-9585-5e6f83664e16",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "name": "ALFIA REZIANI",
+      "sort_name": "ALFIA REZIANI",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5b9003c6-7e22-4531-9585-5e6f83664e16",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
+          "area_id": "area/jawa_tengah_v",
           "legislative_period_id": "term/18"
         }
       ],
