@@ -1,7 +1,7 @@
 {
-  "total": 15,
+  "total": 17,
   "page": 1,
-  "per_page": 15,
+  "per_page": 17,
   "has_more": false,
   "result": [
     {
@@ -97,6 +97,29 @@
       ]
     },
     {
+      "id": "person/aad78d64-def4-4719-9c1c-cad07845e993",
+      "image": "http://www.sxmparliament.org/images/hyacinth.jpg",
+      "name": "Hyacinth Richardson",
+      "sort_name": "Hyacinth Richardson",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/hyacinth.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aad78d64-def4-4719-9c1c-cad07845e993",
+          "organization_id": "chamber/estates",
+          "role": "member",
+          "on_behalf_of_id": "national_alliance",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/c0ad8a9f-e607-4a81-8bb1-88bcc11af903",
       "image": "http://www.sxmparliament.org/images/j-leonard.jpg",
       "name": "Johan E. Leonard",
@@ -180,7 +203,7 @@
           "person_id": "person/ae76a356-d0a3-431b-b550-1fe44dd7fac6",
           "organization_id": "chamber/estates",
           "role": "member",
-          "on_behalf_of_id": "united_peoples_party",
+          "on_behalf_of_id": "independent_member",
           "legislative_period_id": "term/2"
         }
       ],
@@ -249,7 +272,7 @@
           "person_id": "person/f7cb7f63-00ac-4738-b874-89189a10fed7",
           "organization_id": "chamber/estates",
           "role": "member",
-          "on_behalf_of_id": "united_peoples_party",
+          "on_behalf_of_id": "independent_member",
           "legislative_period_id": "term/2"
         }
       ],
@@ -339,6 +362,29 @@
       "memberships": [
         {
           "person_id": "person/953183ed-61df-43fd-bf33-9c142f774128",
+          "organization_id": "chamber/estates",
+          "role": "member",
+          "on_behalf_of_id": "national_alliance",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
+      "image": "http://www.sxmparliament.org/images/samuel.jpg",
+      "name": "drs. Rodolphe E. Samuel",
+      "sort_name": "drs. Rodolphe E. Samuel",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/samuel.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
           "organization_id": "chamber/estates",
           "role": "member",
           "on_behalf_of_id": "national_alliance",

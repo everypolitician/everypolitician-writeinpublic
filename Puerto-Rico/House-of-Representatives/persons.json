@@ -1,7 +1,7 @@
 {
-  "total": 51,
+  "total": 53,
   "page": 1,
-  "per_page": 51,
+  "per_page": 53,
   "has_more": false,
   "result": [
     {
@@ -407,12 +407,12 @@
     {
       "gender": "male",
       "id": "person/a36609ac-2a11-417c-9dec-592bcfe1ba67",
-      "image": "http://www.tucamarapr.org/dnncamara/images/Representantes/ae248250-368f-4de6-8518-5263f94ddf2d.jpg",
+      "image": "http://www.tucamarapr.org/dnncamara/images/Representantes/9858a950-ac46-4ac3-94cb-940d5d9ef866.jpg",
       "name": "Jaime R. Perelló Borrás",
       "sort_name": "Jaime R. Perelló Borrás",
       "images": [
         {
-          "url": "http://www.tucamarapr.org/dnncamara/images/Representantes/ae248250-368f-4de6-8518-5263f94ddf2d.jpg"
+          "url": "http://www.tucamarapr.org/dnncamara/images/Representantes/9858a950-ac46-4ac3-94cb-940d5d9ef866.jpg"
         }
       ],
       "memberships": [
@@ -581,6 +581,31 @@
     },
     {
       "gender": "male",
+      "id": "person/e776a71c-53f3-4528-9c4e-46b2c3621646",
+      "image": "http://www.tucamarapr.org/dnncamara/images/Representantes/1f4e13ce-a123-4926-bbdb-070671adc10b.jpg",
+      "name": "José Anibal Díaz Collazo",
+      "sort_name": "José Anibal Díaz Collazo",
+      "images": [
+        {
+          "url": "http://www.tucamarapr.org/dnncamara/images/Representantes/1f4e13ce-a123-4926-bbdb-070671adc10b.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e776a71c-53f3-4528-9c4e-46b2c3621646",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "ppd",
+          "area_id": "area/distrito_29",
+          "legislative_period_id": "term/29"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/4ea739c8-ec6f-4728-81b8-df3704ff9bbc",
       "image": "http://www.tucamarapr.org/dnncamara/images/Representantes/88dea4e1-b373-463f-aec0-1131322b06aa.jpg",
       "name": "José E. Meléndez Ortiz",
@@ -697,6 +722,30 @@
           "role": "member",
           "on_behalf_of_id": "ppd",
           "area_id": "area/distrito_27",
+          "legislative_period_id": "term/29"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9b0ddd7c-1e4c-410f-85c1-14270aff7c04",
+      "image": "http://www.tucamarapr.org/dnncamara/images/Representantes/7d387bd8-1fe1-49ac-a411-2785bba0a0e9.jpg",
+      "name": "Luis E. Torres Monsegur",
+      "sort_name": "Luis E. Torres Monsegur",
+      "images": [
+        {
+          "url": "http://www.tucamarapr.org/dnncamara/images/Representantes/7d387bd8-1fe1-49ac-a411-2785bba0a0e9.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9b0ddd7c-1e4c-410f-85c1-14270aff7c04",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "ppd",
+          "area_id": "area/distrito_23",
           "legislative_period_id": "term/29"
         }
       ],

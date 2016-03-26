@@ -1,7 +1,7 @@
 {
-  "total": 54,
+  "total": 55,
   "page": 1,
-  "per_page": 54,
+  "per_page": 55,
   "has_more": false,
   "result": [
     {
@@ -43,7 +43,7 @@
           "person_id": "person/f3879457-f317-4793-a3f4-49c2115749a2",
           "organization_id": "chamber/congress",
           "role": "member",
-          "on_behalf_of_id": "uc-flnks_et_nationalistes",
+          "on_behalf_of_id": "unknown",
           "area_id": "area/province_des_îles_loyauté",
           "legislative_period_id": "term/4"
         }
@@ -405,7 +405,7 @@
           "organization_id": "chamber/congress",
           "role": "member",
           "on_behalf_of_id": "uc-flnks_et_nationalistes",
-          "area_id": "area/province_sud",
+          "area_id": "area/province_nord",
           "legislative_period_id": "term/4"
         }
       ],
@@ -552,6 +552,31 @@
           "role": "member",
           "on_behalf_of_id": "uni",
           "area_id": "area/province_nord",
+          "legislative_period_id": "term/4"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0ceca0cc-e34b-4555-ad7b-87c283457c31",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/kotra-ureigei.jpg",
+      "name": "Louis Kotra Uregei",
+      "sort_name": "Uregei, Louis Kotra",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/kotra-ureigei.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ceca0cc-e34b-4555-ad7b-87c283457c31",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "uc-flnks_et_nationalistes",
+          "area_id": "area/province_des_îles_loyauté",
           "legislative_period_id": "term/4"
         }
       ],
@@ -717,6 +742,30 @@
       "memberships": [
         {
           "person_id": "person/72223173-996f-4748-978c-d99f52df0f44",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "ce",
+          "area_id": "area/province_sud",
+          "legislative_period_id": "term/4"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/07d9eb1e-01ca-45d6-9abe-30ce1cdea134",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/millet.jpg",
+      "name": "Monique Millet",
+      "sort_name": "Millet, Monique",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/millet.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/07d9eb1e-01ca-45d6-9abe-30ce1cdea134",
           "organization_id": "chamber/congress",
           "role": "member",
           "on_behalf_of_id": "ce",
@@ -1229,31 +1278,6 @@
           "role": "member",
           "on_behalf_of_id": "les_républicains",
           "area_id": "area/province_sud",
-          "legislative_period_id": "term/4"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0ceca0cc-e34b-4555-ad7b-87c283457c31",
-      "image": "http://www.congres.nc/wp-content/uploads/2015/01/kotra-ureigei.jpg",
-      "name": "Uregei Louis Kotra",
-      "sort_name": "Louis Kotra, Uregei",
-      "images": [
-        {
-          "url": "http://www.congres.nc/wp-content/uploads/2015/01/kotra-ureigei.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0ceca0cc-e34b-4555-ad7b-87c283457c31",
-          "organization_id": "chamber/congress",
-          "role": "member",
-          "on_behalf_of_id": "uc-flnks_et_nationalistes",
-          "area_id": "area/province_des_îles_loyauté",
           "legislative_period_id": "term/4"
         }
       ],

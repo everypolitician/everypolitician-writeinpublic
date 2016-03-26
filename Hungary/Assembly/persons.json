@@ -1,7 +1,7 @@
 {
-  "total": 198,
+  "total": 199,
   "page": 1,
-  "per_page": 198,
+  "per_page": 199,
   "has_more": false,
   "result": [
     {
@@ -2758,6 +2758,31 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "mszp",
+          "legislative_period_id": "term/40"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hollik.istvan@parlament.hu",
+      "id": "person/79c62651-65b5-47a8-98ba-7c5b0a2efe1a",
+      "image": "http://www.parlament.hu/kepv/kepek/h078.jpg",
+      "name": "Hollik, István",
+      "sort_name": "Hollik, István",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/h078.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/79c62651-65b5-47a8-98ba-7c5b0a2efe1a",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "kdnp",
+          "start_date": "2015-09-21",
           "legislative_period_id": "term/40"
         }
       ],

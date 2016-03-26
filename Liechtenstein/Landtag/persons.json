@@ -1,7 +1,7 @@
 {
-  "total": 25,
+  "total": 26,
   "page": 1,
-  "per_page": 25,
+  "per_page": 26,
   "has_more": false,
   "result": [
     {
@@ -109,7 +109,6 @@
       ]
     },
     {
-      "email": "gerold.buechel@landtag.li",
       "gender": "male",
       "id": "person/1a9e92f1-f6bb-465c-920d-52685f6d9687",
       "image": "http://landtaglive.gmgnet.li/files/attachments/gerold_buechel.jpg",
@@ -205,6 +204,32 @@
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/oberland",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rainer.gopp@landtag.li",
+      "gender": "male",
+      "id": "person/c8a2be09-542f-42b7-b76c-774646ae33a8",
+      "image": "http://landtaglive.gmgnet.li/files/attachments/rainer_gopp.jpg",
+      "name": "Gopp Rainer",
+      "sort_name": "Gopp Rainer",
+      "images": [
+        {
+          "url": "http://landtaglive.gmgnet.li/files/attachments/rainer_gopp.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c8a2be09-542f-42b7-b76c-774646ae33a8",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "FBP",
+          "area_id": "area/unterland",
           "legislative_period_id": "term/2013"
         }
       ],
