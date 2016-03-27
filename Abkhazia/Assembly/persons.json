@@ -1,11 +1,10 @@
 {
-  "total": 29,
+  "total": 35,
   "page": 1,
-  "per_page": 29,
+  "per_page": 35,
   "has_more": false,
   "result": [
     {
-      "email": "avidzba.f@parlamentra.org",
       "gender": "male",
       "id": "person/f083d6c9-ac91-4a5e-92ee-03007fb83316",
       "image": "http://www.parlamentra.org/upload/iblock/09f/avidzba-f.jpg",
@@ -31,7 +30,6 @@
       ]
     },
     {
-      "email": "agrba.v@parlamentra.org",
       "gender": "male",
       "id": "person/9bfa5581-1a45-4e1d-92f2-416073b8903b",
       "image": "http://www.parlamentra.org/upload/iblock/684/agrba_s.jpg",
@@ -57,7 +55,6 @@
       ]
     },
     {
-      "email": "agrba.g@parlamentra.org",
       "gender": "male",
       "id": "person/6dbb9c99-b942-4864-9058-6d272ead480f",
       "image": "http://www.parlamentra.org/upload/iblock/f17/agrba_g.jpg",
@@ -75,6 +72,78 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/13",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cf26fae7-206f-4e1d-94c1-601ffd657e3e",
+      "image": "http://www.parlamentra.org/upload/iblock/3e2/no-photo.jpg",
+      "name": "Агрба Тенгиз Алмасханович",
+      "sort_name": "Агрба Тенгиз Алмасханович",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/3e2/no-photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cf26fae7-206f-4e1d-94c1-601ffd657e3e",
+          "organization_id": "chamber/people's_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/6",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bdbf812d-51a4-4005-b1ea-d6e499b00827",
+      "image": "http://www.parlamentra.org/upload/iblock/a3d/no-photo.jpg",
+      "name": "Ардзинба Тайфун Наимович",
+      "sort_name": "Ардзинба Тайфун Наимович",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/a3d/no-photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bdbf812d-51a4-4005-b1ea-d6e499b00827",
+          "organization_id": "chamber/people's_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/30",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a3cd203c-c624-4764-8299-af7fdc3da091",
+      "image": "http://www.parlamentra.org/upload/iblock/f14/no-photo.jpg",
+      "name": "Аршба Даури Джумкович",
+      "sort_name": "Аршба Даури Джумкович",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/f14/no-photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a3cd203c-c624-4764-8299-af7fdc3da091",
+          "organization_id": "chamber/people's_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/1",
           "legislative_period_id": "term/5"
         }
       ],
@@ -133,7 +202,6 @@
       ]
     },
     {
-      "email": "bzhania.a@parlamentra.org",
       "gender": "male",
       "id": "person/dfd04751-2201-401b-8bfa-821cd770e85f",
       "image": "http://www.parlamentra.org/upload/iblock/482/akhra.jpg",
@@ -159,7 +227,6 @@
       ]
     },
     {
-      "email": "galustian.l@parlamentra.org",
       "gender": "male",
       "id": "person/6337b323-9e9b-4e52-af90-69cf4c6a6ea3",
       "image": "http://www.parlamentra.org/upload/iblock/48b/galustyan.jpg",
@@ -185,7 +252,6 @@
       ]
     },
     {
-      "email": "gamisonia.e@parlamentra.org",
       "gender": "female",
       "id": "person/0a93b26d-ebc5-44f5-b4fa-935ae209620f",
       "image": "http://www.parlamentra.org/upload/iblock/d1a/gamisonia-e.jpg",
@@ -211,7 +277,6 @@
       ]
     },
     {
-      "email": "gubaz.b@parlamentra.org",
       "gender": "male",
       "id": "person/5a2d3e3d-48b3-47cb-818b-e9c237c9d99e",
       "image": "http://www.parlamentra.org/upload/iblock/100/gubaz-b.jpg",
@@ -237,7 +302,30 @@
       ]
     },
     {
-      "email": "gunba.d@parlamentra.org",
+      "id": "person/ca5bdcb4-e1d5-4f04-918d-545745828b71",
+      "image": "http://www.parlamentra.org/upload/iblock/317/no-photo.jpg",
+      "name": "Гулия Темур Лесикович",
+      "sort_name": "Гулия Темур Лесикович",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/317/no-photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ca5bdcb4-e1d5-4f04-918d-545745828b71",
+          "organization_id": "chamber/people's_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/11",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/22531071-6c73-46e2-aa02-ddda6165c56d",
       "image": "http://www.parlamentra.org/upload/iblock/17b/gunba-d.jpg",
@@ -263,7 +351,6 @@
       ]
     },
     {
-      "email": "gurgulia.a@parlamentra.org",
       "gender": "male",
       "id": "person/f32622c4-c84c-4cec-aa0b-dcd4ef4b0175",
       "image": "http://www.parlamentra.org/upload/iblock/84a/gurgulia.jpg",
@@ -305,6 +392,7 @@
           "organization_id": "chamber/people's_assembly",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "area_id": "area/26",
           "legislative_period_id": "term/5"
         }
       ],
@@ -313,7 +401,6 @@
       ]
     },
     {
-      "email": "zukhba.z@parlamentra.org",
       "gender": "male",
       "id": "person/f50701bc-38f5-472e-be81-5fa97d7b312a",
       "image": "http://www.parlamentra.org/upload/iblock/090/zukhba.jpg",
@@ -339,7 +426,6 @@
       ]
     },
     {
-      "email": "kvarchia.v@parlamentra.org",
       "gender": "male",
       "id": "person/8f9829b2-5bd4-4798-9fa5-fe870e62e903",
       "image": "http://www.parlamentra.org/upload/iblock/6e9/kvarchia-v.jpg",
@@ -365,7 +451,6 @@
       ]
     },
     {
-      "email": "kvarchia.k@parlamentra.org",
       "gender": "male",
       "id": "person/8516ad33-85c5-4124-bacf-89fe1d1c20bb",
       "image": "http://www.parlamentra.org/upload/iblock/122/kvarchia-k.jpg",
@@ -391,7 +476,6 @@
       ]
     },
     {
-      "email": "kvekveskiri.a@parlamentra.org",
       "gender": "male",
       "id": "person/723a010f-0e8e-41ad-96da-69949ce7d304",
       "image": "http://www.parlamentra.org/upload/iblock/715/kvekveskiri-a.jpg",
@@ -417,7 +501,6 @@
       ]
     },
     {
-      "email": "kvitsinia.n@parlamentra.org",
       "gender": "male",
       "id": "person/97e42249-660a-4cd0-83e5-e2742e9c4fcc",
       "image": "http://www.parlamentra.org/upload/iblock/06c/kvitsinia-n.jpg",
@@ -443,7 +526,6 @@
       ]
     },
     {
-      "email": "kvitsinia.t@parlamentra.org",
       "gender": "male",
       "id": "person/fa7a20a6-b7d6-4ed3-af39-fda60b04fc8c",
       "image": "http://www.parlamentra.org/upload/iblock/140/kvitsinia-2.jpg",
@@ -469,7 +551,6 @@
       ]
     },
     {
-      "email": "kobakhia.a@parlamentra.org",
       "gender": "male",
       "id": "person/a1979edc-782c-40d9-b0bd-c4e07f8460b9",
       "image": "http://www.parlamentra.org/upload/iblock/9d6/kobakhia-a.jpg",
@@ -495,7 +576,6 @@
       ]
     },
     {
-      "email": "kokoskeria.a@parlamentra.org",
       "id": "person/2c306a40-360f-4a67-b76e-f3803b2737db",
       "image": "http://www.parlamentra.org/upload/iblock/515/no-photo.jpg",
       "name": "Кокоскерия Анзор Херсонович",
@@ -520,7 +600,6 @@
       ]
     },
     {
-      "email": "kosian.v@parlamentra.org",
       "gender": "male",
       "id": "person/ba72a067-d4af-46ce-8aab-0b7f77d251e6",
       "image": "http://www.parlamentra.org/upload/iblock/e5e/kosian-v.jpg",
@@ -546,7 +625,6 @@
       ]
     },
     {
-      "email": "pachulia.a@parlamentra.org",
       "gender": "male",
       "id": "person/e6630cd3-7a92-44e7-99b5-1fef16e663a3",
       "image": "http://www.parlamentra.org/upload/iblock/e96/pachulia-a.jpg",
@@ -572,7 +650,6 @@
       ]
     },
     {
-      "email": "sangulia.m@parlamentra.org",
       "gender": "male",
       "id": "person/2c8443a4-7c7a-4c97-a510-9fd897b91478",
       "image": "http://www.parlamentra.org/upload/iblock/e1c/sangulia-m.jpg",
@@ -598,7 +675,6 @@
       ]
     },
     {
-      "email": "ubiria.b@parlamentra.org",
       "gender": "male",
       "id": "person/34352d83-6fa1-463d-a02f-6157b3adf36b",
       "image": "http://www.parlamentra.org/upload/iblock/bfe/ubiria.jpg",
@@ -624,7 +700,6 @@
       ]
     },
     {
-      "email": "kharazia.s@parlamentra.org",
       "gender": "male",
       "id": "person/a2e034a4-d4a2-4b89-b718-8e5b0fb27448",
       "image": "http://www.parlamentra.org/upload/iblock/11e/kharazia-s.jpg",
@@ -650,12 +725,11 @@
       ]
     },
     {
-      "email": "tsvizhba.o@parlamentra.org",
       "gender": "male",
       "id": "person/12d1a33c-daa4-496c-965a-4cd4749eda78",
       "image": "http://www.parlamentra.org/upload/iblock/c3b/tsvijba.jpg",
-      "name": "Цвижба Отар Шотович",
-      "sort_name": "Цвижба Отар Шотович",
+      "name": "Цвижба Отари Шотович",
+      "sort_name": "Цвижба Отари Шотович",
       "images": [
         {
           "url": "http://www.parlamentra.org/upload/iblock/c3b/tsvijba.jpg"
@@ -676,7 +750,6 @@
       ]
     },
     {
-      "email": "tsvinaria.b@parlamentra.org",
       "gender": "male",
       "id": "person/a0f3107d-2a06-4ca3-8db8-afe79fd5868e",
       "image": "http://www.parlamentra.org/upload/iblock/ede/tsvinaria-b.jpg",
@@ -702,7 +775,6 @@
       ]
     },
     {
-      "email": "chamagua.l@parlamentra.org",
       "gender": "male",
       "id": "person/0b515281-445d-49dd-9044-d886d85f0970",
       "image": "http://www.parlamentra.org/upload/iblock/244/chamagua-l.jpg",
@@ -728,7 +800,30 @@
       ]
     },
     {
-      "email": "yazitchba.z@parlamentra.org",
+      "id": "person/9fd33b27-fd4c-4eba-9a8f-d4d23f603c63",
+      "image": "http://www.parlamentra.org/upload/iblock/d84/no-photo.jpg",
+      "name": "Шамба Сергей Миронович",
+      "sort_name": "Шамба Сергей Миронович",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/d84/no-photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9fd33b27-fd4c-4eba-9a8f-d4d23f603c63",
+          "organization_id": "chamber/people's_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/24",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/15a55ab3-c81c-4f5f-ae75-ea5446dd5ef6",
       "image": "http://www.parlamentra.org/upload/iblock/30b/yazichba.jpg",
@@ -746,6 +841,30 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/7",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/98e8f81e-6607-4888-98ca-d26683240cf1",
+      "image": "http://www.parlamentra.org/upload/iblock/141/no-photo.jpg",
+      "name": "Яйлян Роберт Айгазович",
+      "sort_name": "Яйлян Роберт Айгазович",
+      "images": [
+        {
+          "url": "http://www.parlamentra.org/upload/iblock/141/no-photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/98e8f81e-6607-4888-98ca-d26683240cf1",
+          "organization_id": "chamber/people's_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/22",
           "legislative_period_id": "term/5"
         }
       ],

@@ -242,9 +242,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/47cc223b-fcc3-4a56-a525-53ced82fb1b8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boris_Miletić.JPG",
       "name": "BORIS MILETIĆ",
       "sort_name": "BORIS MILETIĆ",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boris_Miletić.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/47cc223b-fcc3-4a56-a525-53ced82fb1b8",
@@ -308,6 +315,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/21d53d0f-b633-406f-9272-7b47b9106335",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44550",
       "name": "BRANIMIR GLAVAŠ",
@@ -504,6 +512,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/34c5da85-bb54-4b83-babd-7164ba62cba7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44556",
       "name": "DARINKO KOSOR",
@@ -774,6 +783,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7f60210c-de57-435c-9807-ed39f367e051",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44478",
       "name": "DRAGO PRGOMET",
@@ -1044,6 +1054,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6b285023-6653-4271-84b2-9e7658ddbb3e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44560",
       "name": "GORDAN MARAS",
@@ -1408,6 +1419,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/da6219f9-cc51-4805-83a8-78ebb6cf93db",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44657",
       "name": "IVAN VRDOLJAK",
@@ -2810,6 +2822,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6463cb7a-b05f-42b1-bdad-353b184aefec",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44650",
       "name": "RANKO OSTOJIĆ",
@@ -2834,6 +2847,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/eab04152-e4b0-45ea-829e-86cdefed9d0a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44652",
       "name": "ROBERT PODOLNJAK",
@@ -2931,10 +2945,23 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/64ec110d-3922-43ac-857b-b388ceef2038",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=45058",
       "name": "SANDRA PERKOVIĆ",
       "sort_name": "SANDRA PERKOVIĆ",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "perkovicsandra"
+        }
+      ],
+      "links": [
+        {
+          "url": "sandraperkovicfanpage",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=45058"
@@ -2949,9 +2976,6 @@
           "area_id": "area/2nd",
           "legislative_period_id": "term/8"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3028,6 +3052,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d9cd9c2e-4da5-42af-b07c-2c354e0669e5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44656",
       "name": "SINIŠA VARGA",
@@ -3076,6 +3101,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0b943436-efa8-4b7f-a874-5f6c500a110e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44564",
       "name": "STIPE PETRINA",
@@ -3638,6 +3664,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c8bd4b16-71ab-4086-babe-0666d97707f5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19625",
       "name": "ŽELJKO REINER",
