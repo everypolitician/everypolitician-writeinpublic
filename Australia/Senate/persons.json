@@ -662,10 +662,23 @@
       ]
     },
     {
+      "email": "senator.paterson@aph.gov.au",
       "id": "person/32ca3a6f-c19d-465c-a1ad-a53564e7fade",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg",
       "name": "Senator James Paterson",
       "sort_name": "Senator James Paterson",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "senpaterson"
+        }
+      ],
+      "links": [
+        {
+          "url": "senatorpaterson",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg"
@@ -680,9 +693,6 @@
           "area_id": "area/victoria",
           "legislative_period_id": "term/44"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
