@@ -5,17 +5,17 @@
   "has_more": false,
   "result": [
     {
-      "id": "person/84a9a8d8-c4fb-4fc4-bb15-dcdaaa3a0c12",
-      "name": "Andre Hylton",
-      "sort_name": "Andre Hylton",
+      "id": "person/673e7ff0-0368-41d3-8965-663a8e5e2d61",
+      "name": "Analdo Terrelonge",
+      "sort_name": "Analdo Terrelonge",
       "memberships": [
         {
-          "person_id": "person/84a9a8d8-c4fb-4fc4-bb15-dcdaaa3a0c12",
+          "person_id": "person/673e7ff0-0368-41d3-8965-663a8e5e2d61",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_east",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_east_central",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -40,7 +40,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_west_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -58,7 +58,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -76,26 +76,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_west",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a059bb7d-216b-4c03-a902-736edb3e57d8",
-      "name": "Arnaldo Brown",
-      "sort_name": "Arnaldo Brown",
-      "memberships": [
-        {
-          "person_id": "person/a059bb7d-216b-4c03-a902-736edb3e57d8",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_east_central",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -119,8 +101,27 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_north_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_north_eastern",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6f92c80e-39b8-4c86-ab40-218229e460e3",
+      "name": "Christopher Tufton",
+      "sort_name": "Christopher Tufton",
+      "memberships": [
+        {
+          "person_id": "person/6f92c80e-39b8-4c86-ab40-218229e460e3",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_west_central",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -137,26 +138,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south_east",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/e2bc88a3-2707-43e1-8e33-f6ce8f832ff5",
-      "name": "Damion Crawford",
-      "sort_name": "Damion Crawford",
-      "memberships": [
-        {
-          "person_id": "person/e2bc88a3-2707-43e1-8e33-f6ce8f832ff5",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_east_rural",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -174,8 +157,26 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:portland/constituency:portland_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:portland/constituency:portland_western",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c84370ed-ad12-4066-8d17-e11db4bb09eb",
+      "name": "Dave Brown",
+      "sort_name": "Dave Brown",
+      "memberships": [
+        {
+          "person_id": "person/c84370ed-ad12-4066-8d17-e11db4bb09eb",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:hanover/constituency:hanover_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -192,8 +193,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -211,8 +212,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_north_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_north_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -229,8 +230,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -247,8 +248,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -265,8 +266,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_south",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_southern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -284,26 +285,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:kingston/constituency:kingston_west",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/f6bda39c-8fcb-493f-8e00-2dd97ecbc850",
-      "name": "Donald K. \"D.K.\" Duncan",
-      "sort_name": "Donald K. \"D.K.\" Duncan",
-      "memberships": [
-        {
-          "person_id": "person/f6bda39c-8fcb-493f-8e00-2dd97ecbc850",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:hanover/constituency:hanover_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:kingston/constituency:kingston_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -322,7 +305,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_east_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -340,8 +323,45 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south_western",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3d3ca8a6-88ea-4639-bd64-ebf6593958ca",
+      "name": "Evon Redmond",
+      "sort_name": "Evon Redmond",
+      "memberships": [
+        {
+          "person_id": "person/3d3ca8a6-88ea-4639-bd64-ebf6593958ca",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "people's_national_party",
+          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_north_eastern",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/8b79af5f-b45a-485b-ba2a-29c5251a3ec5",
+      "name": "Fayval Williams",
+      "sort_name": "Fayval Williams",
+      "memberships": [
+        {
+          "person_id": "person/8b79af5f-b45a-485b-ba2a-29c5251a3ec5",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -359,8 +379,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._thomas/constituency:st._thomas_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._thomas/constituency:st._thomas_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -377,8 +397,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_southern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -386,18 +406,53 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/b000f683-b8fc-408f-b8c5-9b4d60cf7961",
-      "name": "Gregory Mair",
-      "sort_name": "Gregory Mair",
+      "id": "person/166907e4-eb69-4902-b185-7cb5cffb717b",
+      "name": "Floyd Green",
+      "sort_name": "Floyd Green",
       "memberships": [
         {
-          "person_id": "person/b000f683-b8fc-408f-b8c5-9b4d60cf7961",
+          "person_id": "person/166907e4-eb69-4902-b185-7cb5cffb717b",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_north_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_south_western",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b1861666-da22-4fe6-86f9-4f4f3a81d1d4",
+      "name": "Franklyn Witter",
+      "sort_name": "Franklyn Witter",
+      "memberships": [
+        {
+          "person_id": "person/b1861666-da22-4fe6-86f9-4f4f3a81d1d4",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_south_eastern",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/71512db3-ce37-470d-ad3d-c22998f63bec",
+      "name": "Heroy Clarke",
+      "sort_name": "Heroy Clarke",
+      "memberships": [
+        {
+          "person_id": "person/71512db3-ce37-470d-ad3d-c22998f63bec",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_central",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -415,8 +470,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -433,26 +488,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_north",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/2ea66af2-3106-448a-a88e-28125adf1534",
-      "name": "Hugh Buchanan",
-      "sort_name": "Hugh Buchanan",
-      "memberships": [
-        {
-          "person_id": "person/2ea66af2-3106-448a-a88e-28125adf1534",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_south_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_northern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -470,8 +507,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:hanover/constituency:hanover_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:hanover/constituency:hanover_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -489,26 +526,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._thomas/constituency:st._thomas_west",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/f92936d5-91de-4196-957c-940271c9874e",
-      "name": "Joylan Silvera",
-      "sort_name": "Joylan Silvera",
-      "memberships": [
-        {
-          "person_id": "person/f92936d5-91de-4196-957c-940271c9874e",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._thomas/constituency:st._thomas_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -525,8 +544,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -534,17 +553,35 @@
       ]
     },
     {
-      "id": "person/480dcd7c-2519-4dc9-9ee8-759abd3ca53f",
-      "name": "K. Wykeham McNeil",
-      "sort_name": "K. Wykeham McNeil",
+      "id": "person/a675fe95-b4e0-4cb1-bc1f-3131fcf3a633",
+      "name": "Juliet Cuthbert-Flynn",
+      "sort_name": "Juliet Cuthbert-Flynn",
       "memberships": [
         {
-          "person_id": "person/480dcd7c-2519-4dc9-9ee8-759abd3ca53f",
+          "person_id": "person/a675fe95-b4e0-4cb1-bc1f-3131fcf3a633",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_west",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_west_rural",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d6c9eee7-cadb-4662-80bf-15dcc6e8a7a0",
+      "name": "Juliet Holness",
+      "sort_name": "Juliet Holness",
+      "memberships": [
+        {
+          "person_id": "person/d6c9eee7-cadb-4662-80bf-15dcc6e8a7a0",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_east_rural",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -563,7 +600,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_north_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -571,43 +608,17 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/0ee4757d-8b24-4969-9786-b4d01637a65d",
-      "name": "Keith Walford",
-      "sort_name": "Keith Walford",
+      "id": "person/1235ca23-7529-4a5f-8070-0d4b1bf636c8",
+      "name": "Leslie Campbell",
+      "sort_name": "Leslie Campbell",
       "memberships": [
         {
-          "person_id": "person/0ee4757d-8b24-4969-9786-b4d01637a65d",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_south_west",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/13765ef7-68bc-4df7-ad8d-0cc8b8026640",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kenneth_Baugh_2011.jpg",
-      "name": "Kenneth Baugh",
-      "sort_name": "Kenneth Baugh",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kenneth_Baugh_2011.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/13765ef7-68bc-4df7-ad8d-0cc8b8026640",
+          "person_id": "person/1235ca23-7529-4a5f-8070-0d4b1bf636c8",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_west_central",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_north_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -631,26 +642,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_south_east",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d338a7db-ac2a-43f1-b5d9-7532bf38751d",
-      "name": "Lloyd B. Smith",
-      "sort_name": "Lloyd B. Smith",
-      "memberships": [
-        {
-          "person_id": "person/d338a7db-ac2a-43f1-b5d9-7532bf38751d",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_central",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_south_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -667,8 +660,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -685,8 +678,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:portland/constituency:portland_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:portland/constituency:portland_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -703,8 +696,33 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:trelawny/constituency:trelawny_south",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:trelawny/constituency:trelawny_southern",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/b013e901-2bae-43a1-b6c2-93b48f42221b",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Marlene_Malahoo_Forte.jpg",
+      "name": "Marlene Malahoo Forte",
+      "sort_name": "Marlene Malahoo Forte",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Marlene_Malahoo_Forte.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b013e901-2bae-43a1-b6c2-93b48f42221b",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_west_central",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -723,7 +741,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -731,18 +749,17 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e1aaf349-e277-40e0-82ec-0f6c088e6aed",
-      "name": "Michael Peart",
-      "sort_name": "Michael Peart",
+      "id": "person/40ee48a9-b938-46f0-8874-f1265467e91a",
+      "name": "Michael Stewart",
+      "sort_name": "Michael Stewart",
       "memberships": [
         {
-          "person_id": "person/e1aaf349-e277-40e0-82ec-0f6c088e6aed",
+          "person_id": "person/40ee48a9-b938-46f0-8874-f1265467e91a",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_south",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_southern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -759,8 +776,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -778,7 +795,7 @@
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
           "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -796,7 +813,7 @@
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
           "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_north_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -813,8 +830,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_south_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_south_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -833,7 +850,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -851,45 +868,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/fff2a010-64d1-4300-b2f7-a968d1d6144c",
-      "name": "Patrick Atkinson",
-      "sort_name": "Patrick Atkinson",
-      "memberships": [
-        {
-          "person_id": "person/fff2a010-64d1-4300-b2f7-a968d1d6144c",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:trelawny/constituency:trelawny_north",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0d2b5c68-4552-43ff-8340-bf337ed604a4",
-      "name": "Paul Buchanan",
-      "sort_name": "Paul Buchanan",
-      "memberships": [
-        {
-          "person_id": "person/0d2b5c68-4552-43ff-8340-bf337ed604a4",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_west_rural",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_southern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -908,7 +888,7 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_north_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -925,8 +905,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_centraldisambiguation_needed",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:manchester/constituency:manchester_central",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -945,7 +925,7 @@
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
           "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_east_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -964,7 +944,7 @@
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
           "area_id": "ocd-division/country:ja/parish:kingston/constituency:kingston_east_&_port_royal",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -988,26 +968,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_west",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/7cb2b1a8-c3d1-4064-af7b-78c33f79b040",
-      "name": "Raymond Pryce",
-      "sort_name": "Raymond Pryce",
-      "memberships": [
-        {
-          "person_id": "person/7cb2b1a8-c3d1-4064-af7b-78c33f79b040",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_north_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1024,8 +986,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1033,17 +995,18 @@
       ]
     },
     {
-      "id": "person/93701a07-47f5-40b0-b5cb-a723a5717c6e",
-      "name": "Richard Parchment",
-      "sort_name": "Richard Parchment",
+      "gender": "male",
+      "id": "person/d61b333f-5f53-4a52-a64e-7211fe052e77",
+      "name": "Robert Montague",
+      "sort_name": "Robert Montague",
       "memberships": [
         {
-          "person_id": "person/93701a07-47f5-40b0-b5cb-a723a5717c6e",
+          "person_id": "person/d61b333f-5f53-4a52-a64e-7211fe052e77",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_south_east",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1060,8 +1023,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1080,7 +1043,7 @@
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
           "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1098,7 +1061,7 @@
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
           "area_id": "ocd-division/country:ja/parish:kingston/constituency:kingston_central",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1116,8 +1079,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_south_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_south_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1135,8 +1098,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_north_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_north_eastern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1144,17 +1107,17 @@
       ]
     },
     {
-      "id": "person/9f5e358b-2b80-4399-bbb4-4aa29ba9a9a7",
-      "name": "Sharon Ffolkes-Abrahams",
-      "sort_name": "Sharon Ffolkes-Abrahams",
+      "id": "person/20e7fa8a-1d3f-4efb-a194-016b6cca58ff",
+      "name": "Victor Wright",
+      "sort_name": "Victor Wright",
       "memberships": [
         {
-          "person_id": "person/9f5e358b-2b80-4399-bbb4-4aa29ba9a9a7",
+          "person_id": "person/20e7fa8a-1d3f-4efb-a194-016b6cca58ff",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._james/constituency:st._james_west_central",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:trelawny/constituency:trelawny_northern",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1171,8 +1134,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
-          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_north_west",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._elizabeth/constituency:st._elizabeth_north_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1190,8 +1153,45 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "people's_national_party",
-          "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_south_east",
-          "legislative_period_id": "term/2011"
+          "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_south_eastern",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2657b692-2846-40ca-b255-0f4af491d356",
+      "name": "Wykeham McNeill",
+      "sort_name": "Wykeham McNeill",
+      "memberships": [
+        {
+          "person_id": "person/2657b692-2846-40ca-b255-0f4af491d356",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "people's_national_party",
+          "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_western",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0b6af07f-0a6a-4993-97ce-2736ea9c3360",
+      "name": "Zavia Mayne",
+      "sort_name": "Zavia Mayne",
+      "memberships": [
+        {
+          "person_id": "person/0b6af07f-0a6a-4993-97ce-2736ea9c3360",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "jamaica_labour_party",
+          "area_id": "ocd-division/country:ja/parish:st._ann/constituency:st._ann_south_western",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
