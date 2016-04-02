@@ -1,7 +1,7 @@
 {
-  "total": 189,
+  "total": 191,
   "page": 1,
-  "per_page": 189,
+  "per_page": 191,
   "has_more": false,
   "result": [
     {
@@ -3179,6 +3179,12 @@
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Martin%20Lidegaard/Martin_Lidegaard_133.jpg.ashx",
       "name": "Martin Lidegaard",
       "sort_name": "Martin Lidegaard",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "martinlidegaard"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Martin%20Lidegaard/Martin_Lidegaard_133.jpg.ashx"
@@ -3193,9 +3199,6 @@
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3804,6 +3807,31 @@
       ]
     },
     {
+      "email": "nikolaj.amstrup@ft.dk",
+      "id": "person/e1c5d35c-6dfb-4af3-bcff-510de5da7b8f",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx",
+      "name": "Nikolaj Amstrup",
+      "sort_name": "Nikolaj Amstrup",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e1c5d35c-6dfb-4af3-bcff-510de5da7b8f",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
+          "area_id": "area/funen",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "nikolaj.villumsen@ft.dk",
       "gender": "male",
       "id": "person/7deda779-9b28-4ae5-86c6-490814800ff0",
@@ -3876,6 +3904,25 @@
           "organization_id": "chamber/folketing",
           "role": "member",
           "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
+          "area_id": "area/north_jutland",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "peder.hvelplund@ft.dk",
+      "id": "person/9f8d1b0e-9eee-4223-9a67-abc9d88c633a",
+      "name": "Peder Hvelplund",
+      "sort_name": "Peder Hvelplund",
+      "memberships": [
+        {
+          "person_id": "person/9f8d1b0e-9eee-4223-9a67-abc9d88c633a",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
