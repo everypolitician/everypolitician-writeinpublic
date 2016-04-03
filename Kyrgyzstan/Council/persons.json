@@ -1,7 +1,7 @@
 {
-  "total": 119,
+  "total": 120,
   "page": 1,
-  "per_page": 119,
+  "per_page": 120,
   "has_more": false,
   "result": [
     {
@@ -746,8 +746,14 @@
     },
     {
       "id": "person/466b9e04-c231-4e10-bfed-cf70ed8ae339",
+      "image": "http://www.kenesh.kg/MyFiles/image/_MG_1756.JPG",
       "name": "Ismailova Aida ZHekshenbaevna",
       "sort_name": "Ismailova Aida ZHekshenbaevna",
+      "images": [
+        {
+          "url": "http://www.kenesh.kg/MyFiles/image/_MG_1756.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/466b9e04-c231-4e10-bfed-cf70ed8ae339",
@@ -1209,6 +1215,23 @@
           "organization_id": "chamber/supreme_council",
           "role": "member",
           "on_behalf_of_id": "ata_meken",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a427b786-f9c6-4280-a0f1-9ee481719ad6",
+      "name": "Nazarov Ajtmamat Koshoevich",
+      "sort_name": "Nazarov Ajtmamat Koshoevich",
+      "memberships": [
+        {
+          "person_id": "person/a427b786-f9c6-4280-a0f1-9ee481719ad6",
+          "organization_id": "chamber/supreme_council",
+          "role": "member",
+          "on_behalf_of_id": "kyrgyzstan",
           "legislative_period_id": "term/6"
         }
       ],

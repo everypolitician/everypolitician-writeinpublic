@@ -143,29 +143,6 @@
       ]
     },
     {
-      "id": "person/2f5fd1eb-df74-425e-a231-90f0b526adf4",
-      "image": "http://www.nuwab.gov.bh/CouncilMembers/PublishingImages/isa%2520turki.jpg",
-      "name": "الدكتور عيسى أحمد مصطفى تركي",
-      "sort_name": "الدكتور عيسى أحمد مصطفى تركي",
-      "images": [
-        {
-          "url": "http://www.nuwab.gov.bh/CouncilMembers/PublishingImages/isa%2520turki.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2f5fd1eb-df74-425e-a231-90f0b526adf4",
-          "organization_id": "chamber/council_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "id": "person/1c9ef500-3489-4d32-a243-4217c31efef9",
       "image": "http://www.nuwab.gov.bh/CouncilMembers/PublishingImages/majeed%2520alasfoor.jpg",
       "name": "الشيخ الدكتور مجيد محسن محمد العصفور",
@@ -661,6 +638,29 @@
       "memberships": [
         {
           "person_id": "person/5dfc9a5e-7546-405c-81b4-6086203e6ddc",
+          "organization_id": "chamber/council_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2f5fd1eb-df74-425e-a231-90f0b526adf4",
+      "image": "http://www.nuwab.gov.bh/CouncilMembers/PublishingImages/isa%2520turki.jpg",
+      "name": "عيسى أحمد مصطفى تركي",
+      "sort_name": "عيسى أحمد مصطفى تركي",
+      "images": [
+        {
+          "url": "http://www.nuwab.gov.bh/CouncilMembers/PublishingImages/isa%2520turki.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2f5fd1eb-df74-425e-a231-90f0b526adf4",
           "organization_id": "chamber/council_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
