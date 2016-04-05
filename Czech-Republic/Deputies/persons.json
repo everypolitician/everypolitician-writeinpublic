@@ -1,7 +1,7 @@
 {
-  "total": 210,
+  "total": 211,
   "page": 1,
-  "per_page": 210,
+  "per_page": 211,
   "has_more": false,
   "result": [
     {
@@ -835,14 +835,8 @@
     {
       "gender": "male",
       "id": "person/d14f6e27-75ff-4334-bf5a-13c432008166",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ing._Jan_Mladek,_CSc..jpg",
       "name": "Jan Mládek",
       "sort_name": "Mládek, Jan",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ing._Jan_Mladek,_CSc..jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/d14f6e27-75ff-4334-bf5a-13c432008166",
@@ -1789,6 +1783,7 @@
           "role": "member",
           "on_behalf_of_id": "1108",
           "start_date": "2013-10-30",
+          "end_date": "2016-01-14",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1955,6 +1950,15 @@
           "role": "member",
           "on_behalf_of_id": "1112",
           "start_date": "2013-10-31",
+          "end_date": "2016-03-10",
+          "legislative_period_id": "term/7"
+        },
+        {
+          "person_id": "person/f33ffd72-7668-4acf-95f8-e9925614782c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "1165",
+          "start_date": "2016-03-10",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2909,6 +2913,25 @@
           "role": "member",
           "on_behalf_of_id": "1108",
           "start_date": "2013-10-30",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/a40d2402-293d-4ea4-bb87-4bcba54ed708",
+      "name": "Miloslava Rutová",
+      "sort_name": "Rutová, Miloslava",
+      "memberships": [
+        {
+          "person_id": "person/a40d2402-293d-4ea4-bb87-4bcba54ed708",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "1108",
+          "start_date": "2016-01-14",
           "legislative_period_id": "term/7"
         }
       ],
