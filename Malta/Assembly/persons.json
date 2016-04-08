@@ -1,7 +1,7 @@
 {
-  "total": 70,
+  "total": 71,
   "page": 1,
-  "per_page": 70,
+  "per_page": 71,
   "has_more": false,
   "result": [
     {
@@ -1120,6 +1120,30 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "partit_laburista",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "karl.gouder@parlament.mt",
+      "id": "person/43e3a3a0-6c63-430e-91e4-687d137b8ed7",
+      "image": "http://www.parlament.mt/file.aspx?f=15432",
+      "name": "Karl Gouder",
+      "sort_name": "Karl Gouder",
+      "images": [
+        {
+          "url": "http://www.parlament.mt/file.aspx?f=15432"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/43e3a3a0-6c63-430e-91e4-687d137b8ed7",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "partit_nazzjonlista",
           "legislative_period_id": "term/12"
         }
       ],
