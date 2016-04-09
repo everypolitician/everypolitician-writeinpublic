@@ -1,7 +1,7 @@
 {
-  "total": 528,
+  "total": 533,
   "page": 1,
-  "per_page": 528,
+  "per_page": 533,
   "has_more": false,
   "result": [
     {
@@ -893,6 +893,7 @@
     },
     {
       "email": "dep.angelaalbino@camara.leg.br",
+      "gender": "female",
       "id": "person/b9d276a4-d1ef-4cb2-922a-85aa1e99085c",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/192120.jpg",
       "name": "ANGELA ALBINO",
@@ -1100,6 +1101,7 @@
     },
     {
       "email": "dep.ariostoholanda@camara.leg.br",
+      "gender": "male",
       "id": "person/3d7b56d2-ca3c-4b30-96ae-823555419602",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74103.jpg",
       "name": "ARIOSTO HOLANDA",
@@ -2475,6 +2477,31 @@
       ]
     },
     {
+      "email": "dep.cesarsouza@camara.leg.br",
+      "id": "person/4bc84bdf-379e-45bb-9339-c210a4d62611",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73720.jpg",
+      "name": "CESAR SOUZA",
+      "sort_name": "CESAR SOUZA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73720.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4bc84bdf-379e-45bb-9339-c210a4d62611",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSD",
+          "area_id": "area/sc",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.chicoalencar@camara.leg.br",
       "gender": "male",
       "id": "person/1ac1d356-debb-41bf-8122-910697cb0e23",
@@ -3402,6 +3429,31 @@
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
           "on_behalf_of_id": "PMB",
+          "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.duartenogueira@camara.leg.br",
+      "id": "person/a9b7814c-ad44-4f75-8a8d-daa9a4654095",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/141385.jpg",
+      "name": "DUARTE NOGUEIRA",
+      "sort_name": "DUARTE NOGUEIRA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/141385.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9b7814c-ad44-4f75-8a8d-daa9a4654095",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSDB",
           "area_id": "area/sp",
           "legislative_period_id": "term/55"
         }
@@ -4509,6 +4561,7 @@
     },
     {
       "email": "dep.flavionogueira@camara.leg.br",
+      "gender": "male",
       "id": "person/3c6e4c73-27e8-4d1e-916a-a4f25e96e43f",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/191923.jpg",
       "name": "FLAVIO NOGUEIRA",
@@ -4785,6 +4838,31 @@
           "role": "member",
           "on_behalf_of_id": "SD",
           "area_id": "area/ce",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.georgehilton@camara.leg.br",
+      "id": "person/7b3ecba7-680a-4eec-9a03-4357a0c7f52c",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/141441.jpg",
+      "name": "GEORGE HILTON",
+      "sort_name": "GEORGE HILTON",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/141441.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7b3ecba7-680a-4eec-9a03-4357a0c7f52c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PROS",
+          "area_id": "area/mg",
           "legislative_period_id": "term/55"
         }
       ],
@@ -6787,6 +6865,31 @@
       ]
     },
     {
+      "email": "dep.joaopaulokleinübing@camara.leg.br",
+      "id": "person/272870c6-5b37-4746-aa24-e849c341d9cb",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/178967.jpg",
+      "name": "JOÃO PAULO KLEINÜBING",
+      "sort_name": "JOÃO PAULO KLEINÜBING",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/178967.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/272870c6-5b37-4746-aa24-e849c341d9cb",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSD",
+          "area_id": "area/sc",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.joaopaulopapa@camara.leg.br",
       "gender": "male",
       "id": "person/13ab28ba-9e2e-4202-86b6-1c6b6e587794",
@@ -7204,6 +7307,7 @@
     },
     {
       "email": "dep.lauracarneiro@camara.leg.br",
+      "gender": "female",
       "id": "person/d0d83a5d-25b2-468f-8550-b287f220424a",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74856.jpg",
       "name": "LAURA CARNEIRO",
@@ -8534,6 +8638,7 @@
     },
     {
       "email": "dep.marcondesgadelha@camara.leg.br",
+      "gender": "male",
       "id": "person/36bcac6d-035d-474d-9421-5e0d5646fcce",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74470.jpg",
       "name": "MARCONDES GADELHA",
@@ -10227,6 +10332,7 @@
     },
     {
       "email": "dep.paulohenriquelustosa@camara.leg.br",
+      "gender": "male",
       "id": "person/d9f4af9d-dc0b-4058-82ca-ca33b6e1a84b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141517.jpg",
       "name": "PAULO HENRIQUE LUSTOSA",
@@ -11190,6 +11296,31 @@
       ]
     },
     {
+      "email": "dep.robertodelucena@camara.leg.br",
+      "id": "person/7e242616-fa0d-41f5-8843-8577dfacf4eb",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/160653.jpg",
+      "name": "ROBERTO DE LUCENA",
+      "sort_name": "ROBERTO DE LUCENA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/160653.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7e242616-fa0d-41f5-8843-8577dfacf4eb",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PV",
+          "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.robertofreire@camara.leg.br",
       "gender": "male",
       "id": "person/81df2ad5-28d4-4f16-bdf0-cdcd0b525eb6",
@@ -11711,6 +11842,7 @@
     },
     {
       "email": "dep.rosangelacurado@camara.leg.br",
+      "gender": "female",
       "id": "person/cb52f2b5-c52f-4be4-8050-c1419ed40130",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/191684.jpg",
       "name": "ROSÂNGELA CURADO",
@@ -12880,6 +13012,7 @@
     },
     {
       "email": "dep.venezianovitaldorego@camara.leg.br",
+      "gender": "male",
       "id": "person/88811fa2-d70e-4605-8852-671bd37a76cc",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178913.jpg",
       "name": "VENEZIANO VITAL DO RÊGO",
@@ -12905,6 +13038,7 @@
     },
     {
       "email": "dep.vicentearruda@camara.leg.br",
+      "gender": "male",
       "id": "person/c2220660-1604-43ce-82b3-efb504ef0a30",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74308.jpg",
       "name": "VICENTE ARRUDA",
@@ -13294,6 +13428,7 @@
     },
     {
       "email": "dep.welitonprado@camara.leg.br",
+      "gender": "male",
       "id": "person/8ba99cc1-9411-4ccc-b412-5760bad5aff3",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160518.jpg",
       "name": "WELITON PRADO",
@@ -13371,6 +13506,7 @@
     },
     {
       "email": "dep.williamwoo@camara.leg.br",
+      "gender": "male",
       "id": "person/32cb363e-21a8-402d-970d-898cbf5979f3",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141563.jpg",
       "name": "WILLIAM WOO",
@@ -13396,6 +13532,7 @@
     },
     {
       "email": "dep.wilsonbeserra@camara.leg.br",
+      "gender": "male",
       "id": "person/0202adac-c3f0-4f3a-8e2b-c25710414e92",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193066.jpg",
       "name": "WILSON BESERRA",
@@ -13603,6 +13740,7 @@
     },
     {
       "email": "dep.zeaugustonalin@camara.leg.br",
+      "gender": "male",
       "id": "person/86ab8bc2-c01b-4bf5-b241-e813998570c0",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/191945.jpg",
       "name": "ZÉ AUGUSTO NALIN",
