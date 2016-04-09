@@ -1,7 +1,7 @@
 {
-  "total": 63,
+  "total": 64,
   "page": 1,
-  "per_page": 63,
+  "per_page": 64,
   "has_more": false,
   "result": [
     {
@@ -479,6 +479,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/8bfc2ee5-bca4-4140-948b-f76194bf87bd",
       "name": "Höskuldur Þór Þórhallsson",
       "sort_name": "Höskuldur Þór Þórhallsson",
@@ -1263,6 +1264,24 @@
           "role": "member",
           "on_behalf_of_id": "independence_party",
           "area_id": "area/south_constituency",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2bb19f43-88a6-4159-898b-b0c30f1491ce",
+      "name": "Ásta Guðrún Helgadóttir",
+      "sort_name": "Ásta Guðrún Helgadóttir",
+      "memberships": [
+        {
+          "person_id": "person/2bb19f43-88a6-4159-898b-b0c30f1491ce",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "pirate_party",
+          "area_id": "area/reykjavik_constituency_south",
           "legislative_period_id": "term/2013"
         }
       ],
