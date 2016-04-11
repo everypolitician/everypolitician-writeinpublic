@@ -1,15 +1,41 @@
 {
-  "total": 150,
+  "total": 167,
   "page": 1,
-  "per_page": 150,
+  "per_page": 167,
   "has_more": false,
   "result": [
+    {
+      "gender": "male",
+      "id": "person/34ebad93-606b-4d10-ba82-4b6348fb7314",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=25482",
+      "name": "Alen Prelec",
+      "sort_name": "Alen Prelec",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=25482"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/34ebad93-606b-4d10-ba82-4b6348fb7314",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/1st",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "gender": "female",
       "id": "person/e09352ec-d388-43bd-a136-37f63e8b7072",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19586",
-      "name": "ANA KOMPARIĆ DEVČIĆ",
-      "sort_name": "ANA KOMPARIĆ DEVČIĆ",
+      "name": "Ana Komparić Devčić",
+      "sort_name": "Ana Komparić Devčić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19586"
@@ -32,8 +58,8 @@
     {
       "id": "person/69762abb-2d66-4d7d-9507-ed0153e2f69f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44468",
-      "name": "ANDRIJA MIKULIĆ",
-      "sort_name": "ANDRIJA MIKULIĆ",
+      "name": "Andrija Mikulić",
+      "sort_name": "Andrija Mikulić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44468"
@@ -56,8 +82,8 @@
     {
       "id": "person/e5b9eaef-069b-48b5-8e91-8c4b92acdb3d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44647",
-      "name": "ANKA MRAK-TARITAŠ",
-      "sort_name": "ANKA MRAK-TARITAŠ",
+      "name": "Anka Mrak-Taritaš",
+      "sort_name": "Anka Mrak-Taritaš",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44647"
@@ -81,8 +107,8 @@
       "gender": "male",
       "id": "person/e8e0430a-45a7-4fad-94d0-8bb6640d3505",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=24691",
-      "name": "ANTE SANADER",
-      "sort_name": "ANTE SANADER",
+      "name": "Ante Sanader",
+      "sort_name": "Ante Sanader",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=24691"
@@ -105,8 +131,8 @@
     {
       "id": "person/d9a604c3-f35b-48b5-931f-ea01b5b7bc1d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44503",
-      "name": "ANTE ŽUPAN",
-      "sort_name": "ANTE ŽUPAN",
+      "name": "Ante Župan",
+      "sort_name": "Ante Župan",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44503"
@@ -130,8 +156,8 @@
     {
       "id": "person/a4836d20-5b09-40f7-8df6-5021fada7fb5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44574",
-      "name": "ANTUN VIDAKOVIĆ",
-      "sort_name": "ANTUN VIDAKOVIĆ",
+      "name": "Antun Vidaković",
+      "sort_name": "Antun Vidaković",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44574"
@@ -154,8 +180,8 @@
     {
       "id": "person/792fce28-6ffe-40e8-bb96-93befad2ecf5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44493",
-      "name": "ANĐELKO STRIČAK",
-      "sort_name": "ANĐELKO STRIČAK",
+      "name": "Anđelko Stričak",
+      "sort_name": "Anđelko Stričak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44493"
@@ -177,8 +203,8 @@
     },
     {
       "id": "person/3a598031-442b-4912-b5d4-867bc24d6916",
-      "name": "ARSEN BAUK",
-      "sort_name": "ARSEN BAUK",
+      "name": "Arsen Bauk",
+      "sort_name": "Arsen Bauk",
       "memberships": [
         {
           "person_id": "person/3a598031-442b-4912-b5d4-867bc24d6916",
@@ -194,10 +220,35 @@
       ]
     },
     {
+      "id": "person/1fd919fe-d39b-4f0a-826e-3e7de5a7b140",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44434",
+      "name": "Biljana Gaća",
+      "sort_name": "Biljana Gaća",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44434"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1fd919fe-d39b-4f0a-826e-3e7de5a7b140",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/5th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/ceb84ba0-ebca-4155-b855-40c996c48c30",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44546",
-      "name": "BLAŽENKO BOBAN",
-      "sort_name": "BLAŽENKO BOBAN",
+      "name": "Blaženko Boban",
+      "sort_name": "Blaženko Boban",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44546"
@@ -220,8 +271,8 @@
     {
       "id": "person/b2ded576-98fb-4d91-a305-0ebcf09ca652",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44558",
-      "name": "BORIS LALOVAC",
-      "sort_name": "BORIS LALOVAC",
+      "name": "Boris Lalovac",
+      "sort_name": "Boris Lalovac",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44558"
@@ -245,8 +296,8 @@
       "gender": "male",
       "id": "person/47cc223b-fcc3-4a56-a525-53ced82fb1b8",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boris_Miletić.JPG",
-      "name": "BORIS MILETIĆ",
-      "sort_name": "BORIS MILETIĆ",
+      "name": "Boris Miletić",
+      "sort_name": "Boris Miletić",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Boris_Miletić.JPG"
@@ -269,8 +320,8 @@
     {
       "id": "person/46b29cc1-2efc-46ff-b446-0dc5ac58aa86",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44462",
-      "name": "BOŽICA MAKAR",
-      "sort_name": "BOŽICA MAKAR",
+      "name": "Božica Makar",
+      "sort_name": "Božica Makar",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44462"
@@ -293,8 +344,8 @@
     {
       "id": "person/65e4e5fb-59f0-4c3d-a1ab-ed4d02939ae7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44459",
-      "name": "BOŽO LJUBIĆ",
-      "sort_name": "BOŽO LJUBIĆ",
+      "name": "Božo Ljubić",
+      "sort_name": "Božo Ljubić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44459"
@@ -318,8 +369,8 @@
       "gender": "male",
       "id": "person/21d53d0f-b633-406f-9272-7b47b9106335",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44550",
-      "name": "BRANIMIR GLAVAŠ",
-      "sort_name": "BRANIMIR GLAVAŠ",
+      "name": "Branimir Glavaš",
+      "sort_name": "Branimir Glavaš",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44550"
@@ -343,8 +394,8 @@
       "gender": "male",
       "id": "person/782fb17f-b4c5-48d0-a2e7-71fedc80892b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19525",
-      "name": "BRANKO BAČIĆ",
-      "sort_name": "BRANKO BAČIĆ",
+      "name": "Branko Bačić",
+      "sort_name": "Branko Bačić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19525"
@@ -367,8 +418,8 @@
     {
       "id": "person/903924bc-73f9-40b2-97be-501a3d6c1973",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44638",
-      "name": "BRANKO GRČIĆ",
-      "sort_name": "BRANKO GRČIĆ",
+      "name": "Branko Grčić",
+      "sort_name": "Branko Grčić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44638"
@@ -392,8 +443,8 @@
       "gender": "male",
       "id": "person/91f5a54c-8ac6-4772-a561-4634e2b27ac2",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=22156",
-      "name": "BRANKO HRG",
-      "sort_name": "BRANKO HRG",
+      "name": "Branko Hrg",
+      "sort_name": "Branko Hrg",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=22156"
@@ -416,8 +467,8 @@
     {
       "id": "person/097fbc58-8a1a-4c5e-80cf-5e2c86867197",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44432",
-      "name": "DAMIR FELAK",
-      "sort_name": "DAMIR FELAK",
+      "name": "Damir Felak",
+      "sort_name": "Damir Felak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44432"
@@ -440,8 +491,8 @@
     {
       "id": "person/be03770b-0754-499e-8e46-f4e7b967a9b2",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44456",
-      "name": "DAMIR KRSTIČEVIĆ",
-      "sort_name": "DAMIR KRSTIČEVIĆ",
+      "name": "Damir Krstičević",
+      "sort_name": "Damir Krstičević",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44456"
@@ -465,8 +516,8 @@
       "gender": "male",
       "id": "person/79db4778-8890-43a5-a794-8a912b1fbb23",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19667",
-      "name": "DAMIR MATELJAN",
-      "sort_name": "DAMIR MATELJAN",
+      "name": "Damir Mateljan",
+      "sort_name": "Damir Mateljan",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19667"
@@ -488,10 +539,36 @@
     },
     {
       "gender": "male",
+      "id": "person/d5b5d660-c8ed-4a2b-80c8-ee3c2db07935",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19626",
+      "name": "Damir Rimac",
+      "sort_name": "Damir Rimac",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19626"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d5b5d660-c8ed-4a2b-80c8-ee3c2db07935",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/5th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/0da051b8-7f4e-48c8-89a0-a9c3a0ef334b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19819",
-      "name": "DAMIR TOMIĆ",
-      "sort_name": "DAMIR TOMIĆ",
+      "name": "Damir Tomić",
+      "sort_name": "Damir Tomić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19819"
@@ -515,8 +592,8 @@
       "gender": "male",
       "id": "person/34c5da85-bb54-4b83-babd-7164ba62cba7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44556",
-      "name": "DARINKO KOSOR",
-      "sort_name": "DARINKO KOSOR",
+      "name": "Darinko Kosor",
+      "sort_name": "Darinko Kosor",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44556"
@@ -539,8 +616,8 @@
     {
       "id": "person/92ba7300-47ab-483b-a827-1fd6491373e8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44439",
-      "name": "DARIO HREBAK",
-      "sort_name": "DARIO HREBAK",
+      "name": "Dario Hrebak",
+      "sort_name": "Dario Hrebak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44439"
@@ -564,8 +641,8 @@
       "gender": "male",
       "id": "person/a607d2ac-7473-4c86-b738-b607e7e1fc9e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19611",
-      "name": "DARKO MILINOVIĆ",
-      "sort_name": "DARKO MILINOVIĆ",
+      "name": "Darko Milinović",
+      "sort_name": "Darko Milinović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19611"
@@ -588,8 +665,8 @@
     {
       "id": "person/eb7a96ec-0c0a-4545-9b7c-a7025ab4dd2c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44472",
-      "name": "DARKO PARIĆ",
-      "sort_name": "DARKO PARIĆ",
+      "name": "Darko Parić",
+      "sort_name": "Darko Parić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44472"
@@ -610,18 +687,19 @@
       ]
     },
     {
-      "id": "person/5f88b811-6a90-4152-bd6a-b0fa1e897229",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45059",
-      "name": "DAVOR BERNARDIĆ",
-      "sort_name": "DAVOR BERNARDIĆ",
+      "gender": "male",
+      "id": "person/c28358e0-893f-4ad4-b8a3-448ed33b8993",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19533",
+      "name": "Davor Bernardić",
+      "sort_name": "Davor Bernardić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45059"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19533"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5f88b811-6a90-4152-bd6a-b0fa1e897229",
+          "person_id": "person/c28358e0-893f-4ad4-b8a3-448ed33b8993",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "sdp",
@@ -634,10 +712,36 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/82949bfb-e0a2-41f1-9b0d-d91e3b1f6721",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=23897",
+      "name": "Davor Miličević",
+      "sort_name": "Davor Miličević",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=23897"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/82949bfb-e0a2-41f1-9b0d-d91e3b1f6721",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/5th",
+          "end_date": "2016-02-05",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/6dfc6185-c076-4cb7-aecb-eecb8b7fcce8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44474",
-      "name": "DAVOR PENIĆ",
-      "sort_name": "DAVOR PENIĆ",
+      "name": "Davor Penić",
+      "sort_name": "Davor Penić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44474"
@@ -660,8 +764,8 @@
     {
       "id": "person/f8c15b56-f0b0-441b-83c3-5044afb4b93c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44771",
-      "name": "DAVOR VLAOVIĆ",
-      "sort_name": "DAVOR VLAOVIĆ",
+      "name": "Davor Vlaović",
+      "sort_name": "Davor Vlaović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44771"
@@ -686,8 +790,8 @@
       "gender": "male",
       "id": "person/e9d1410b-ed75-4735-92f8-75d94ca95639",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19812",
-      "name": "DAVORIN MLAKAR",
-      "sort_name": "DAVORIN MLAKAR",
+      "name": "Davorin Mlakar",
+      "sort_name": "Davorin Mlakar",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19812"
@@ -711,8 +815,8 @@
       "gender": "male",
       "id": "person/cf710cc3-92ac-4af1-82e4-dcc712b11182",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19566",
-      "name": "DOMAGOJ HAJDUKOVIĆ",
-      "sort_name": "DOMAGOJ HAJDUKOVIĆ",
+      "name": "Domagoj Hajduković",
+      "sort_name": "Domagoj Hajduković",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19566"
@@ -736,8 +840,8 @@
       "gender": "male",
       "id": "person/d8c1783a-8411-4ae5-aa79-06cfe26b8abf",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19811",
-      "name": "DOMAGOJ IVAN MILOŠEVIĆ",
-      "sort_name": "DOMAGOJ IVAN MILOŠEVIĆ",
+      "name": "Domagoj Ivan Milošević",
+      "sort_name": "Domagoj Ivan Milošević",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19811"
@@ -761,8 +865,8 @@
       "gender": "female",
       "id": "person/b67335d6-815e-43b8-9b24-03ce03479ed2",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19659",
-      "name": "DRAGICA ZGREBEC",
-      "sort_name": "DRAGICA ZGREBEC",
+      "name": "Dragica Zgrebec",
+      "sort_name": "Dragica Zgrebec",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19659"
@@ -786,8 +890,8 @@
       "gender": "male",
       "id": "person/7f60210c-de57-435c-9807-ed39f367e051",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44478",
-      "name": "DRAGO PRGOMET",
-      "sort_name": "DRAGO PRGOMET",
+      "name": "Drago Prgomet",
+      "sort_name": "Drago Prgomet",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44478"
@@ -810,8 +914,8 @@
     {
       "id": "person/f88c6fd3-9898-4836-a6d3-035742eaa6f8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44631",
-      "name": "DRAŽEN BARIŠIĆ",
-      "sort_name": "DRAŽEN BARIŠIĆ",
+      "name": "Dražen Barišić",
+      "sort_name": "Dražen Barišić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44631"
@@ -834,8 +938,8 @@
     {
       "id": "person/7ba49f4e-7825-42a7-9bf4-1438128341bf",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44633",
-      "name": "DRAŽEN BOŠNJAKOVIĆ",
-      "sort_name": "DRAŽEN BOŠNJAKOVIĆ",
+      "name": "Dražen Bošnjaković",
+      "sort_name": "Dražen Bošnjaković",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44633"
@@ -858,8 +962,8 @@
     {
       "id": "person/a3d96e5a-eb2f-4dcb-9d62-7c79bcd96c2b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44559",
-      "name": "ERMINA LEKAJ PRLJASKAJ",
-      "sort_name": "ERMINA LEKAJ PRLJASKAJ",
+      "name": "Ermina Lekaj Prljaskaj",
+      "sort_name": "Ermina Lekaj Prljaskaj",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44559"
@@ -883,8 +987,8 @@
       "gender": "male",
       "id": "person/46f3bd6e-1a22-49ba-9988-4a102a3df696",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19601",
-      "name": "FRANJO LUCIĆ",
-      "sort_name": "FRANJO LUCIĆ",
+      "name": "Franjo Lucić",
+      "sort_name": "Franjo Lucić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19601"
@@ -906,10 +1010,36 @@
     },
     {
       "gender": "male",
+      "id": "person/2af7d62d-f629-49c7-82c5-ced434e87f03",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19652",
+      "name": "Franko Vidović",
+      "sort_name": "Franko Vidović",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19652"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2af7d62d-f629-49c7-82c5-ced434e87f03",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/9th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/6378d3dd-3605-47b3-be49-0f76f81a83d3",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19622",
-      "name": "FURIO RADIN",
-      "sort_name": "FURIO RADIN",
+      "name": "Furio Radin",
+      "sort_name": "Furio Radin",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19622"
@@ -933,8 +1063,8 @@
       "gender": "male",
       "id": "person/76b65e2d-f99c-4cb0-82e1-6a361f2ea243",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19639",
-      "name": "GIOVANNI SPONZA",
-      "sort_name": "GIOVANNI SPONZA",
+      "name": "Giovanni Sponza",
+      "sort_name": "Giovanni Sponza",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19639"
@@ -958,8 +1088,8 @@
       "gender": "male",
       "id": "person/5d57d36c-35f0-4c70-b271-24a4e84af7f0",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19534",
-      "name": "GORAN BEUS RICHEMBERGH",
-      "sort_name": "GORAN BEUS RICHEMBERGH",
+      "name": "Goran Beus Richembergh",
+      "sort_name": "Goran Beus Richembergh",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19534"
@@ -982,8 +1112,8 @@
     {
       "id": "person/ff434ff0-28c9-418a-824e-622660a4d31f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44635",
-      "name": "GORAN DODIG",
-      "sort_name": "GORAN DODIG",
+      "name": "Goran Dodig",
+      "sort_name": "Goran Dodig",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44635"
@@ -1007,8 +1137,8 @@
       "gender": "male",
       "id": "person/0a1bb041-4048-4561-9eea-a5480862f6d8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=24351",
-      "name": "GORAN MARIĆ",
-      "sort_name": "GORAN MARIĆ",
+      "name": "Goran Marić",
+      "sort_name": "Goran Marić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=24351"
@@ -1032,8 +1162,8 @@
       "gender": "male",
       "id": "person/d8c75e06-cc84-47a1-be77-efb37f376e4c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19571",
-      "name": "GORDAN JANDROKOVIĆ",
-      "sort_name": "GORDAN JANDROKOVIĆ",
+      "name": "Gordan Jandroković",
+      "sort_name": "Gordan Jandroković",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19571"
@@ -1057,8 +1187,8 @@
       "gender": "male",
       "id": "person/6b285023-6653-4271-84b2-9e7658ddbb3e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44560",
-      "name": "GORDAN MARAS",
-      "sort_name": "GORDAN MARAS",
+      "name": "Gordan Maras",
+      "sort_name": "Gordan Maras",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44560"
@@ -1081,8 +1211,8 @@
     {
       "id": "person/3ef4bf9e-6bb4-437e-b824-74906f6d61d7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44483",
-      "name": "GORDANA RUSAK",
-      "sort_name": "GORDANA RUSAK",
+      "name": "Gordana Rusak",
+      "sort_name": "Gordana Rusak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44483"
@@ -1106,8 +1236,8 @@
       "gender": "female",
       "id": "person/e7c0f78d-352a-45cd-9e55-e673d0ea8dee",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19635",
-      "name": "GORDANA SOBOL",
-      "sort_name": "GORDANA SOBOL",
+      "name": "Gordana Sobol",
+      "sort_name": "Gordana Sobol",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19635"
@@ -1131,8 +1261,8 @@
       "gender": "male",
       "id": "person/078e2f4b-256c-4eb7-a6d8-9bb7017becc6",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19553",
-      "name": "IGOR DRAGOVAN",
-      "sort_name": "IGOR DRAGOVAN",
+      "name": "Igor Dragovan",
+      "sort_name": "Igor Dragovan",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19553"
@@ -1153,10 +1283,36 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/d569b241-c88f-498c-a0c7-405328cffa88",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19585",
+      "name": "Igor Kolman",
+      "sort_name": "Igor Kolman",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19585"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d569b241-c88f-498c-a0c7-405328cffa88",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hns",
+          "area_id": "area/1st",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/9950af50-2bf1-45ca-9c00-279154914ca9",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44492",
-      "name": "INES STRENJA-LINIĆ",
-      "sort_name": "INES STRENJA-LINIĆ",
+      "name": "Ines Strenja-Linić",
+      "sort_name": "Ines Strenja-Linić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44492"
@@ -1180,8 +1336,8 @@
       "gender": "female",
       "id": "person/74c2131c-72bf-4482-975b-b52240c300d1",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19522",
-      "name": "INGRID ANTIČEVIĆ MARINOVIĆ",
-      "sort_name": "INGRID ANTIČEVIĆ MARINOVIĆ",
+      "name": "Ingrid Antičević Marinović",
+      "sort_name": "Ingrid Antičević Marinović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19522"
@@ -1204,8 +1360,8 @@
     {
       "id": "person/ab78b46d-38e6-453c-865c-bf138988dd3d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44476",
-      "name": "IRENA PETRIJEVČANIN VUKSANOVIĆ",
-      "sort_name": "IRENA PETRIJEVČANIN VUKSANOVIĆ",
+      "name": "Irena Petrijevčanin Vuksanović",
+      "sort_name": "Irena Petrijevčanin Vuksanović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44476"
@@ -1228,8 +1384,8 @@
     {
       "id": "person/7e6ffb86-4fce-4228-9191-b4cf19d0858c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44630",
-      "name": "IVAN ANUŠIĆ",
-      "sort_name": "IVAN ANUŠIĆ",
+      "name": "Ivan Anušić",
+      "sort_name": "Ivan Anušić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44630"
@@ -1252,8 +1408,8 @@
     {
       "id": "person/87a58316-263a-40a2-a373-7b142d3b2d0e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44448",
-      "name": "IVAN KIRIN",
-      "sort_name": "IVAN KIRIN",
+      "name": "Ivan Kirin",
+      "sort_name": "Ivan Kirin",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44448"
@@ -1277,8 +1433,8 @@
       "gender": "male",
       "id": "person/af86339e-c795-4642-a58a-dd790777571c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19808",
-      "name": "IVAN KLARIN",
-      "sort_name": "IVAN KLARIN",
+      "name": "Ivan Klarin",
+      "sort_name": "Ivan Klarin",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19808"
@@ -1301,8 +1457,8 @@
     {
       "id": "person/528d6e2d-37d2-4dcd-8c2e-724d8b7e2013",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44452",
-      "name": "IVAN KOVAČIĆ",
-      "sort_name": "IVAN KOVAČIĆ",
+      "name": "Ivan Kovačić",
+      "sort_name": "Ivan Kovačić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44452"
@@ -1325,8 +1481,8 @@
     {
       "id": "person/1029fa91-db12-4a32-8660-ad9f04c26308",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44460",
-      "name": "IVAN LOVRINOVIĆ",
-      "sort_name": "IVAN LOVRINOVIĆ",
+      "name": "Ivan Lovrinović",
+      "sort_name": "Ivan Lovrinović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44460"
@@ -1349,8 +1505,8 @@
     {
       "id": "person/14f619c4-2140-4307-8de2-b51ebb5a1677",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44480",
-      "name": "IVAN RADIĆ",
-      "sort_name": "IVAN RADIĆ",
+      "name": "Ivan Radić",
+      "sort_name": "Ivan Radić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44480"
@@ -1373,8 +1529,8 @@
     {
       "id": "person/857c84ff-3bae-40b3-8c8a-f8466992e6ca",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44569",
-      "name": "IVAN SINČIĆ",
-      "sort_name": "IVAN SINČIĆ",
+      "name": "Ivan Sinčić",
+      "sort_name": "Ivan Sinčić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44569"
@@ -1397,8 +1553,8 @@
     {
       "id": "person/5704e087-bc66-4d50-a54f-9d971903bb4a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44495",
-      "name": "IVAN TEPEŠ",
-      "sort_name": "IVAN TEPEŠ",
+      "name": "Ivan Tepeš",
+      "sort_name": "Ivan Tepeš",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44495"
@@ -1422,8 +1578,8 @@
       "gender": "male",
       "id": "person/da6219f9-cc51-4805-83a8-78ebb6cf93db",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44657",
-      "name": "IVAN VRDOLJAK",
-      "sort_name": "IVAN VRDOLJAK",
+      "name": "Ivan Vrdoljak",
+      "sort_name": "Ivan Vrdoljak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44657"
@@ -1446,8 +1602,8 @@
     {
       "id": "person/71ff2d28-70c3-444a-a5b5-01f90eb51689",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44570",
-      "name": "IVAN ŠIPIĆ",
-      "sort_name": "IVAN ŠIPIĆ",
+      "name": "Ivan Šipić",
+      "sort_name": "Ivan Šipić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44570"
@@ -1471,8 +1627,8 @@
       "gender": "male",
       "id": "person/e4fc5801-e7ae-4db3-8c7c-5576aa4deaae",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19644",
-      "name": "IVAN ŠUKER",
-      "sort_name": "IVAN ŠUKER",
+      "name": "Ivan Šuker",
+      "sort_name": "Ivan Šuker",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19644"
@@ -1495,8 +1651,8 @@
     {
       "id": "person/e2dc8a12-59d8-4055-a9da-4cfb7e978b50",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44469",
-      "name": "IVICA MIŠIĆ",
-      "sort_name": "IVICA MIŠIĆ",
+      "name": "Ivica Mišić",
+      "sort_name": "Ivica Mišić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44469"
@@ -1520,8 +1676,8 @@
       "gender": "male",
       "id": "person/5df9ac41-c5a5-48f5-8c2e-1ab5c5e1b474",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19574",
-      "name": "IVO JELUŠIĆ",
-      "sort_name": "IVO JELUŠIĆ",
+      "name": "Ivo Jelušić",
+      "sort_name": "Ivo Jelušić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19574"
@@ -1544,8 +1700,8 @@
     {
       "id": "person/d655186f-74ce-4979-8e55-4596720b17b9",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44473",
-      "name": "JAROSLAV PECNIK",
-      "sort_name": "JAROSLAV PECNIK",
+      "name": "Jaroslav Pecnik",
+      "sort_name": "Jaroslav Pecnik",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44473"
@@ -1569,8 +1725,8 @@
       "gender": "male",
       "id": "person/ca01573d-f89b-475a-aab5-b47528fbda8e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19609",
-      "name": "JASEN MESIĆ",
-      "sort_name": "JASEN MESIĆ",
+      "name": "Jasen Mesić",
+      "sort_name": "Jasen Mesić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19609"
@@ -1593,8 +1749,8 @@
     {
       "id": "person/ebbf13fd-c732-4fc2-aebe-36ce58c40fc0",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44561",
-      "name": "JASNA MATULIĆ",
-      "sort_name": "JASNA MATULIĆ",
+      "name": "Jasna Matulić",
+      "sort_name": "Jasna Matulić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44561"
@@ -1617,8 +1773,8 @@
     {
       "id": "person/895dd8d8-60f2-4b83-bbc5-c50fd8dac24f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44419",
-      "name": "JOSIP BILAVER",
-      "sort_name": "JOSIP BILAVER",
+      "name": "Josip Bilaver",
+      "sort_name": "Josip Bilaver",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44419"
@@ -1642,8 +1798,8 @@
       "gender": "male",
       "id": "person/8abb96f0-5086-4014-bcee-fc93eb93b981",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19538",
-      "name": "JOSIP BORIĆ",
-      "sort_name": "JOSIP BORIĆ",
+      "name": "Josip Borić",
+      "sort_name": "Josip Borić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19538"
@@ -1667,8 +1823,8 @@
     {
       "id": "person/6c8981b2-23a5-410d-8031-2b56211fd2eb",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44447",
-      "name": "JOSIP KATALINIĆ",
-      "sort_name": "JOSIP KATALINIĆ",
+      "name": "Josip Katalinić",
+      "sort_name": "Josip Katalinić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44447"
@@ -1691,8 +1847,8 @@
     {
       "id": "person/050d1aed-2543-436d-9fde-ac1a39a6047a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44454",
-      "name": "JOSIP KRIŽANIĆ",
-      "sort_name": "JOSIP KRIŽANIĆ",
+      "name": "Josip Križanić",
+      "sort_name": "Josip Križanić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44454"
@@ -1717,8 +1873,8 @@
       "gender": "male",
       "id": "person/f8558cb1-a75e-4f1d-9531-939901ce874e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19598",
-      "name": "JOSIP LEKO",
-      "sort_name": "JOSIP LEKO",
+      "name": "Josip Leko",
+      "sort_name": "Josip Leko",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19598"
@@ -1742,8 +1898,8 @@
       "gender": "male",
       "id": "person/1c9e4353-a193-4b2e-a290-072cc2f82928",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19630",
-      "name": "JOSIP SALAPIĆ",
-      "sort_name": "JOSIP SALAPIĆ",
+      "name": "Josip Salapić",
+      "sort_name": "Josip Salapić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19630"
@@ -1767,8 +1923,8 @@
       "gender": "male",
       "id": "person/7bcded3f-e241-4a42-85a3-c170aa23106d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19549",
-      "name": "JOSIP ĐAKIĆ",
-      "sort_name": "JOSIP ĐAKIĆ",
+      "name": "Josip Đakić",
+      "sort_name": "Josip Đakić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19549"
@@ -1789,18 +1945,18 @@
       ]
     },
     {
-      "id": "person/05c1421b-3228-4094-802a-0aa9d8062b01",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45062",
-      "name": "JOSIPA RIMAC",
-      "sort_name": "JOSIPA RIMAC",
+      "id": "person/3feddc12-f818-4886-bde0-b1564bcb1e86",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=43526",
+      "name": "Josipa Rimac",
+      "sort_name": "Josipa Rimac",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45062"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=43526"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/05c1421b-3228-4094-802a-0aa9d8062b01",
+          "person_id": "person/3feddc12-f818-4886-bde0-b1564bcb1e86",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
@@ -1815,8 +1971,8 @@
     {
       "id": "person/ec4845d1-e2f3-434c-a55d-0708d24fdc26",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44642",
-      "name": "JOŠKO KLISOVIĆ",
-      "sort_name": "JOŠKO KLISOVIĆ",
+      "name": "Joško Klisović",
+      "sort_name": "Joško Klisović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44642"
@@ -1839,8 +1995,8 @@
     {
       "id": "person/fe532c97-0dff-4eec-bfb6-3d27bb988a19",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44465",
-      "name": "JURO MARTINOVIĆ",
-      "sort_name": "JURO MARTINOVIĆ",
+      "name": "Juro Martinović",
+      "sort_name": "Juro Martinović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44465"
@@ -1861,10 +2017,55 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/4872e36d-a0f1-4cd0-af31-d847639011c5",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=40160",
+      "name": "Karolina Leaković",
+      "sort_name": "Karolina Leaković",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=40160"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4872e36d-a0f1-4cd0-af31-d847639011c5",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/1st",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9ae21a86-9a45-414f-8d96-70c1be0d2d4a",
+      "name": "Kristijan Rajšel",
+      "sort_name": "Kristijan Rajšel",
+      "memberships": [
+        {
+          "person_id": "person/9ae21a86-9a45-414f-8d96-70c1be0d2d4a",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/7th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/6f5f40c5-8e2e-4a73-9351-939601e4af6e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44442",
-      "name": "LADISLAV ILČIĆ",
-      "sort_name": "LADISLAV ILČIĆ",
+      "name": "Ladislav Ilčić",
+      "sort_name": "Ladislav Ilčić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44442"
@@ -1887,8 +2088,8 @@
     {
       "id": "person/437f636d-96d1-4633-9797-c7fec05d8273",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44772",
-      "name": "LEON ŽULJ",
-      "sort_name": "LEON ŽULJ",
+      "name": "Leon Žulj",
+      "sort_name": "Leon Žulj",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44772"
@@ -1912,8 +2113,8 @@
     {
       "id": "person/ea59c8ae-1e67-4023-b539-a39d5e1899f0",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44414",
-      "name": "LJUBICA AMBRUŠEC",
-      "sort_name": "LJUBICA AMBRUŠEC",
+      "name": "Ljubica Ambrušec",
+      "sort_name": "Ljubica Ambrušec",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44414"
@@ -1936,8 +2137,8 @@
     {
       "id": "person/775fc355-b010-433b-87de-478131f93294",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44463",
-      "name": "LJUBICA MAKSIMČUK",
-      "sort_name": "LJUBICA MAKSIMČUK",
+      "name": "Ljubica Maksimčuk",
+      "sort_name": "Ljubica Maksimčuk",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44463"
@@ -1960,8 +2161,8 @@
     {
       "id": "person/48d15e46-6277-4fc8-8f97-55ff3054dd29",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44500",
-      "name": "LUCIAN VUKELIĆ",
-      "sort_name": "LUCIAN VUKELIĆ",
+      "name": "Lucian Vukelić",
+      "sort_name": "Lucian Vukelić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44500"
@@ -1985,8 +2186,8 @@
     {
       "id": "person/6ee895ad-bf1d-4d70-8589-a20d46d1c332",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44461",
-      "name": "MARGARETA MAĐERIĆ",
-      "sort_name": "MARGARETA MAĐERIĆ",
+      "name": "Margareta Mađerić",
+      "sort_name": "Margareta Mađerić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44461"
@@ -2009,8 +2210,8 @@
     {
       "id": "person/3c8d12c6-6036-46c2-b74b-4fd2543009d4",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44421",
-      "name": "MARIJA BUDIMIR",
-      "sort_name": "MARIJA BUDIMIR",
+      "name": "Marija Budimir",
+      "sort_name": "Marija Budimir",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44421"
@@ -2034,8 +2235,8 @@
       "gender": "female",
       "id": "person/1ad49b61-e653-4ee9-8420-9d742382a01c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=26347",
-      "name": "MARIJA ILIĆ",
-      "sort_name": "MARIJA ILIĆ",
+      "name": "Marija Ilić",
+      "sort_name": "Marija Ilić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=26347"
@@ -2058,8 +2259,8 @@
     {
       "id": "person/9479a74e-7ebd-49ff-8c2f-fe3b6cb9d33e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44479",
-      "name": "MARIJA PUH",
-      "sort_name": "MARIJA PUH",
+      "name": "Marija Puh",
+      "sort_name": "Marija Puh",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44479"
@@ -2082,8 +2283,8 @@
     {
       "id": "person/cf4ad39d-dc72-44ff-a024-ace16e41eecd",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44557",
-      "name": "MARIJAN KUSTIĆ",
-      "sort_name": "MARIJAN KUSTIĆ",
+      "name": "Marijan Kustić",
+      "sort_name": "Marijan Kustić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44557"
@@ -2108,8 +2309,8 @@
       "gender": "male",
       "id": "person/93cf99ea-0362-4ea3-a6e1-4beb7dc666d8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19565",
-      "name": "MARIO HABEK",
-      "sort_name": "MARIO HABEK",
+      "name": "Mario Habek",
+      "sort_name": "Mario Habek",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19565"
@@ -2132,8 +2333,8 @@
     {
       "id": "person/d020dfd2-104f-4c46-a6f1-a67ad6ba8dbe",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44449",
-      "name": "MARIO KLOBUČIĆ",
-      "sort_name": "MARIO KLOBUČIĆ",
+      "name": "Mario Klobučić",
+      "sort_name": "Mario Klobučić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44449"
@@ -2156,8 +2357,8 @@
     {
       "id": "person/9083f588-1888-41c5-96be-a30dbda3a4f9",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44488",
-      "name": "MARKO SLADOLJEV",
-      "sort_name": "MARKO SLADOLJEV",
+      "name": "Marko Sladoljev",
+      "sort_name": "Marko Sladoljev",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44488"
@@ -2181,8 +2382,8 @@
     {
       "id": "person/2ee4291d-5b65-42fd-92a0-c4af37a0d245",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44453",
-      "name": "MARO KRISTIĆ",
-      "sort_name": "MARO KRISTIĆ",
+      "name": "Maro Kristić",
+      "sort_name": "Maro Kristić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44453"
@@ -2204,10 +2405,61 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/bf6ab918-2709-40bd-a868-ef7066615c9e",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19814",
+      "name": "Melita Mulić",
+      "sort_name": "Melita Mulić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19814"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bf6ab918-2709-40bd-a868-ef7066615c9e",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/1st",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/54a21340-09bd-42d6-a38d-11f7327afaf8",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44485",
+      "name": "Melita Samoborec",
+      "sort_name": "Melita Samoborec",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44485"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/54a21340-09bd-42d6-a38d-11f7327afaf8",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hns",
+          "area_id": "area/2nd",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/d788460f-cb41-4213-b97c-3122aa0c99d5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44659",
-      "name": "MIHAEL ZMAJLOVIĆ",
-      "sort_name": "MIHAEL ZMAJLOVIĆ",
+      "name": "Mihael Zmajlović",
+      "sort_name": "Mihael Zmajlović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44659"
@@ -2230,8 +2482,8 @@
     {
       "id": "person/d38b673c-8864-4a63-a78f-c0ac80f271fa",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44649",
-      "name": "MILANKA OPAČIĆ",
-      "sort_name": "MILANKA OPAČIĆ",
+      "name": "Milanka Opačić",
+      "sort_name": "Milanka Opačić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44649"
@@ -2255,8 +2507,8 @@
       "gender": "male",
       "id": "person/ff1c3b38-8684-4c7a-ab79-8a59a5c2decb",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=12830",
-      "name": "MILE HORVAT",
-      "sort_name": "MILE HORVAT",
+      "name": "Mile Horvat",
+      "sort_name": "Mile Horvat",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=12830"
@@ -2279,8 +2531,8 @@
     {
       "id": "person/95c9a1c6-1ff6-4173-883b-180396d49cd7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44490",
-      "name": "MILIVOJ ŠPIKA",
-      "sort_name": "MILIVOJ ŠPIKA",
+      "name": "Milivoj Špika",
+      "sort_name": "Milivoj Špika",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44490"
@@ -2304,8 +2556,8 @@
       "gender": "male",
       "id": "person/9a9bba7c-077e-4c92-906c-4597faa35dea",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19530",
-      "name": "MILORAD BATINIĆ",
-      "sort_name": "MILORAD BATINIĆ",
+      "name": "Milorad Batinić",
+      "sort_name": "Milorad Batinić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19530"
@@ -2329,8 +2581,8 @@
       "gender": "male",
       "id": "person/d9a9eb80-843c-4599-b33c-a925631fac81",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19621",
-      "name": "MILORAD PUPOVAC",
-      "sort_name": "MILORAD PUPOVAC",
+      "name": "Milorad Pupovac",
+      "sort_name": "Milorad Pupovac",
       "links": [
         {
           "url": "Dr-Milorad-Pupovac-284379738398650",
@@ -2359,8 +2611,8 @@
     {
       "id": "person/fb9a5a43-fc26-4633-bc89-60d5124cc848",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44548",
-      "name": "MIODRAG DEMO",
-      "sort_name": "MIODRAG DEMO",
+      "name": "Miodrag Demo",
+      "sort_name": "Miodrag Demo",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44548"
@@ -2383,8 +2635,8 @@
     {
       "id": "person/158cc023-0f11-4226-9bce-ec78ad9e7c17",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44648",
-      "name": "MIRANDO MRSIĆ",
-      "sort_name": "MIRANDO MRSIĆ",
+      "name": "Mirando Mrsić",
+      "sort_name": "Mirando Mrsić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44648"
@@ -2407,8 +2659,8 @@
     {
       "id": "person/2ed21ba4-ed94-4351-beb9-cc635ffc6e1e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44567",
-      "name": "MIRKO RAŠKOVIĆ",
-      "sort_name": "MIRKO RAŠKOVIĆ",
+      "name": "Mirko Rašković",
+      "sort_name": "Mirko Rašković",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44567"
@@ -2431,8 +2683,8 @@
     {
       "id": "person/84a01dfd-d602-4255-8694-514898ce93a8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44422",
-      "name": "MIRO BULJ",
-      "sort_name": "MIRO BULJ",
+      "name": "Miro Bulj",
+      "sort_name": "Miro Bulj",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44422"
@@ -2455,8 +2707,8 @@
     {
       "id": "person/f4b47a7c-a798-4421-b036-df9c4193c9c8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44654",
-      "name": "MIRO TOTGERGELI",
-      "sort_name": "MIRO TOTGERGELI",
+      "name": "Miro Totgergeli",
+      "sort_name": "Miro Totgergeli",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44654"
@@ -2481,8 +2733,8 @@
       "gender": "male",
       "id": "person/1bcff30d-5611-4262-9fc9-ac4781041f7e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19649",
-      "name": "MIROSLAV TUĐMAN",
-      "sort_name": "MIROSLAV TUĐMAN",
+      "name": "Miroslav Tuđman",
+      "sort_name": "Miroslav Tuđman",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19649"
@@ -2505,8 +2757,8 @@
     {
       "id": "person/4a3cac7f-bab1-4d07-80ff-b5f6bd231e25",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44487",
-      "name": "MIROSLAV ŠIMIĆ",
-      "sort_name": "MIROSLAV ŠIMIĆ",
+      "name": "Miroslav Šimić",
+      "sort_name": "Miroslav Šimić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44487"
@@ -2530,8 +2782,8 @@
       "gender": "female",
       "id": "person/d5de12d4-1c22-454a-9edf-e5f71e59a47a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=26714",
-      "name": "NADA MURGANIĆ",
-      "sort_name": "NADA MURGANIĆ",
+      "name": "Nada Murganić",
+      "sort_name": "Nada Murganić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=26714"
@@ -2556,8 +2808,8 @@
       "gender": "female",
       "id": "person/430ce6bf-ce00-4b42-8d93-338447ce2fb7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19650",
-      "name": "NADA TURINA-ĐURIĆ",
-      "sort_name": "NADA TURINA-ĐURIĆ",
+      "name": "Nada Turina-Đurić",
+      "sort_name": "Nada Turina-Đurić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19650"
@@ -2581,8 +2833,8 @@
       "gender": "female",
       "id": "person/85a67031-2cea-4755-bd19-7a9a17456629",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19646",
-      "name": "NANSI TIRELI",
-      "sort_name": "NANSI TIRELI",
+      "name": "Nansi Tireli",
+      "sort_name": "Nansi Tireli",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19646"
@@ -2603,11 +2855,30 @@
       ]
     },
     {
+      "id": "person/25ce4e62-bb6c-48ea-b5c2-1761c873bea3",
+      "name": "Nenad Livun",
+      "sort_name": "Nenad Livun",
+      "memberships": [
+        {
+          "person_id": "person/25ce4e62-bb6c-48ea-b5c2-1761c873bea3",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/7th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/4c9e1eef-8640-4a4f-b2f1-cbe6c49c5ce3",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19642",
-      "name": "NENAD STAZIĆ",
-      "sort_name": "NENAD STAZIĆ",
+      "name": "Nenad Stazić",
+      "sort_name": "Nenad Stazić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19642"
@@ -2628,10 +2899,35 @@
       ]
     },
     {
+      "id": "person/a47bf4ac-1f8b-4668-a70c-c100f131b9a1",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44475",
+      "name": "Nikša Peronja",
+      "sort_name": "Nikša Peronja",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44475"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a47bf4ac-1f8b-4668-a70c-c100f131b9a1",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/10th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/7f5ec87f-a9f6-49e0-baba-82253e606538",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44646",
-      "name": "ORSAT MILJENIĆ",
-      "sort_name": "ORSAT MILJENIĆ",
+      "name": "Orsat Miljenić",
+      "sort_name": "Orsat Miljenić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44646"
@@ -2654,8 +2950,8 @@
     {
       "id": "person/9b4abd53-8e27-4a10-93b9-0c09fcc9f40a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44425",
-      "name": "PERO ĆORIĆ",
-      "sort_name": "PERO ĆORIĆ",
+      "name": "Pero Ćorić",
+      "sort_name": "Pero Ćorić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44425"
@@ -2678,8 +2974,8 @@
     {
       "id": "person/1845e4b2-84d9-42b3-b5d9-160f1f3696dd",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44426",
-      "name": "PERO ĆOSIĆ",
-      "sort_name": "PERO ĆOSIĆ",
+      "name": "Pero Ćosić",
+      "sort_name": "Pero Ćosić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44426"
@@ -2702,8 +2998,8 @@
     {
       "id": "person/d8104bda-8c4b-456d-9cfe-bf32f1eee559",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44571",
-      "name": "PETAR ŠKORIĆ",
-      "sort_name": "PETAR ŠKORIĆ",
+      "name": "Petar Škorić",
+      "sort_name": "Petar Škorić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44571"
@@ -2727,8 +3023,8 @@
       "gender": "male",
       "id": "person/4ca1a50c-84d0-4535-8f67-90ec6206c919",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19562",
-      "name": "PEĐA GRBIN",
-      "sort_name": "PEĐA GRBIN",
+      "name": "Peđa Grbin",
+      "sort_name": "Peđa Grbin",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19562"
@@ -2751,8 +3047,8 @@
     {
       "id": "person/4c889039-ee91-4f0b-b25c-30211d0f130b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44644",
-      "name": "PREDRAG MATIĆ",
-      "sort_name": "PREDRAG MATIĆ",
+      "name": "Predrag Matić",
+      "sort_name": "Predrag Matić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44644"
@@ -2775,8 +3071,8 @@
     {
       "id": "person/56cd4a19-05c2-4e75-8f22-fc22664a2f0b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44691",
-      "name": "RADIMIR ČAČIĆ",
-      "sort_name": "RADIMIR ČAČIĆ",
+      "name": "Radimir Čačić",
+      "sort_name": "Radimir Čačić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44691"
@@ -2800,8 +3096,8 @@
       "gender": "male",
       "id": "person/f5f8279b-350e-450c-adc5-f57cd54ab17d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=40372",
-      "name": "RAJKO OSTOJIĆ",
-      "sort_name": "RAJKO OSTOJIĆ",
+      "name": "Rajko Ostojić",
+      "sort_name": "Rajko Ostojić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=40372"
@@ -2825,8 +3121,8 @@
       "gender": "male",
       "id": "person/6463cb7a-b05f-42b1-bdad-353b184aefec",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44650",
-      "name": "RANKO OSTOJIĆ",
-      "sort_name": "RANKO OSTOJIĆ",
+      "name": "Ranko Ostojić",
+      "sort_name": "Ranko Ostojić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44650"
@@ -2850,8 +3146,8 @@
       "gender": "male",
       "id": "person/eab04152-e4b0-45ea-829e-86cdefed9d0a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44652",
-      "name": "ROBERT PODOLNJAK",
-      "sort_name": "ROBERT PODOLNJAK",
+      "name": "Robert Podolnjak",
+      "sort_name": "Robert Podolnjak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44652"
@@ -2874,8 +3170,8 @@
     {
       "id": "person/edb87500-8ba7-49fe-ae0e-7d0557849c68",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44501",
-      "name": "RUŽICA VUKOVAC",
-      "sort_name": "RUŽICA VUKOVAC",
+      "name": "Ružica Vukovac",
+      "sort_name": "Ružica Vukovac",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44501"
@@ -2899,8 +3195,8 @@
     {
       "id": "person/992672d6-b6e5-4da1-8ba9-3c5473b71a07",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44637",
-      "name": "SABINA GLASOVAC",
-      "sort_name": "SABINA GLASOVAC",
+      "name": "Sabina Glasovac",
+      "sort_name": "Sabina Glasovac",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44637"
@@ -2923,8 +3219,8 @@
     {
       "id": "person/1d9a182f-0dce-4218-a5fe-c9dee58e20a2",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44455",
-      "name": "SANDRA KRPAN",
-      "sort_name": "SANDRA KRPAN",
+      "name": "Sandra Krpan",
+      "sort_name": "Sandra Krpan",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44455"
@@ -2948,8 +3244,8 @@
       "gender": "female",
       "id": "person/64ec110d-3922-43ac-857b-b388ceef2038",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=45058",
-      "name": "SANDRA PERKOVIĆ",
-      "sort_name": "SANDRA PERKOVIĆ",
+      "name": "Sandra Perković",
+      "sort_name": "Sandra Perković",
       "contact_details": [
         {
           "type": "twitter",
@@ -2981,8 +3277,8 @@
     {
       "id": "person/6b5351e4-6951-4d63-8750-be6b6d46b016",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44566",
-      "name": "SANJA PUTICA",
-      "sort_name": "SANJA PUTICA",
+      "name": "Sanja Putica",
+      "sort_name": "Sanja Putica",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44566"
@@ -3004,10 +3300,36 @@
     },
     {
       "gender": "male",
+      "id": "person/cf4a0cd3-e100-459d-95c5-a4c9ec7e6148",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19550",
+      "name": "Saša Đujić",
+      "sort_name": "Saša Đujić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19550"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cf4a0cd3-e100-459d-95c5-a4c9ec7e6148",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/7th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/6fcb6fcb-1aa9-4d9a-bfb5-5f819088a917",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19568",
-      "name": "SILVANO HRELJA",
-      "sort_name": "SILVANO HRELJA",
+      "name": "Silvano Hrelja",
+      "sort_name": "Silvano Hrelja",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19568"
@@ -3030,8 +3352,8 @@
     {
       "id": "person/f3833f4d-4d2e-4627-ac24-4a8e5f0f4ce2",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44639",
-      "name": "SINIŠA HAJDAŠ DONČIĆ",
-      "sort_name": "SINIŠA HAJDAŠ DONČIĆ",
+      "name": "Siniša Hajdaš Dončić",
+      "sort_name": "Siniša Hajdaš Dončić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44639"
@@ -3055,8 +3377,8 @@
       "gender": "male",
       "id": "person/d9cd9c2e-4da5-42af-b07c-2c354e0669e5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44656",
-      "name": "SINIŠA VARGA",
-      "sort_name": "SINIŠA VARGA",
+      "name": "Siniša Varga",
+      "sort_name": "Siniša Varga",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44656"
@@ -3077,10 +3399,35 @@
       ]
     },
     {
+      "id": "person/ef6777f4-9fa3-4235-bebb-3a4d2b49ada1",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44423",
+      "name": "Snježana Bužinec",
+      "sort_name": "Snježana Bužinec",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44423"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ef6777f4-9fa3-4235-bebb-3a4d2b49ada1",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/1st",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/954fb9e4-cafa-4e84-960e-7ef20fff384e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44427",
-      "name": "STEVO CULEJ",
-      "sort_name": "STEVO CULEJ",
+      "name": "Stevo Culej",
+      "sort_name": "Stevo Culej",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44427"
@@ -3104,8 +3451,8 @@
       "gender": "male",
       "id": "person/0b943436-efa8-4b7f-a874-5f6c500a110e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44564",
-      "name": "STIPE PETRINA",
-      "sort_name": "STIPE PETRINA",
+      "name": "Stipe Petrina",
+      "sort_name": "Stipe Petrina",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44564"
@@ -3128,8 +3475,8 @@
     {
       "id": "person/2859417d-adbb-4179-b1af-71a8b7b67dfe",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44651",
-      "name": "STJEPAN PINTARIĆ",
-      "sort_name": "STJEPAN PINTARIĆ",
+      "name": "Stjepan Pintarić",
+      "sort_name": "Stjepan Pintarić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44651"
@@ -3151,11 +3498,36 @@
       ]
     },
     {
+      "id": "person/b89da258-a5e7-42c8-befa-d2ac5d453f75",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44457",
+      "name": "Svjetlana Lazić",
+      "sort_name": "Svjetlana Lazić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44457"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b89da258-a5e7-42c8-befa-d2ac5d453f75",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/6th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/1f635e73-3673-47f7-853d-51871a6475e1",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19654",
-      "name": "TANJA VRBAT GRGIĆ",
-      "sort_name": "TANJA VRBAT GRGIĆ",
+      "name": "Tanja Vrbat",
+      "sort_name": "Tanja Vrbat",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19654"
@@ -3178,8 +3550,8 @@
     {
       "id": "person/20ca2a9d-2a0e-4ca6-95f9-5b38cda9c32b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44770",
-      "name": "TIHOMIR JAKOVINA",
-      "sort_name": "TIHOMIR JAKOVINA",
+      "name": "Tihomir Jakovina",
+      "sort_name": "Tihomir Jakovina",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44770"
@@ -3202,8 +3574,8 @@
     {
       "id": "person/8c8fb996-f4fd-4512-9ff6-8b89fa5218b1",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44451",
-      "name": "TOMISLAV KONČEVSKI",
-      "sort_name": "TOMISLAV KONČEVSKI",
+      "name": "Tomislav Končevski",
+      "sort_name": "Tomislav Končevski",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44451"
@@ -3226,8 +3598,8 @@
     {
       "id": "person/c394bbea-82bd-4d0e-a5f6-570272168295",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44653",
-      "name": "TOMISLAV SAUCHA",
-      "sort_name": "TOMISLAV SAUCHA",
+      "name": "Tomislav Saucha",
+      "sort_name": "Tomislav Saucha",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44653"
@@ -3251,8 +3623,8 @@
       "gender": "male",
       "id": "person/52165273-dcda-4812-a2a7-a8e1df1450de",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19546",
-      "name": "TOMISLAV ČULJAK",
-      "sort_name": "TOMISLAV ČULJAK",
+      "name": "Tomislav Čuljak",
+      "sort_name": "Tomislav Čuljak",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19546"
@@ -3276,8 +3648,8 @@
       "gender": "male",
       "id": "person/85ea0d2b-75b5-48b8-b227-ec6a250eb44c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19658",
-      "name": "TOMISLAV ŽAGAR",
-      "sort_name": "TOMISLAV ŽAGAR",
+      "name": "Tomislav Žagar",
+      "sort_name": "Tomislav Žagar",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19658"
@@ -3298,10 +3670,35 @@
       ]
     },
     {
+      "id": "person/deb50525-b64e-48d3-9728-e528d2f4bb92",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44420",
+      "name": "Tonči Bilić",
+      "sort_name": "Tonči Bilić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44420"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/deb50525-b64e-48d3-9728-e528d2f4bb92",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/10th",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/e061b665-234c-44f0-8755-67dde3150a33",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44430",
-      "name": "TULIO DEMETLIKA",
-      "sort_name": "TULIO DEMETLIKA",
+      "name": "Tulio Demetlika",
+      "sort_name": "Tulio Demetlika",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44430"
@@ -3325,8 +3722,8 @@
       "gender": "male",
       "id": "person/0f137d95-4a90-4ee1-bff0-d3d694cfbb63",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19524",
-      "name": "VEDRAN BABIĆ",
-      "sort_name": "VEDRAN BABIĆ",
+      "name": "Vedran Babić",
+      "sort_name": "Vedran Babić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19524"
@@ -3350,8 +3747,8 @@
       "gender": "male",
       "id": "person/5255cfb7-f24e-4cd1-89ae-95590742aadc",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19580",
-      "name": "VELJKO KAJTAZI",
-      "sort_name": "VELJKO KAJTAZI",
+      "name": "Veljko Kajtazi",
+      "sort_name": "Veljko Kajtazi",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19580"
@@ -3372,10 +3769,35 @@
       ]
     },
     {
+      "id": "person/bd83d516-0c88-4a47-9919-a556cd15623a",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44553",
+      "name": "Vesna Jakas",
+      "sort_name": "Vesna Jakas",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44553"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bd83d516-0c88-4a47-9919-a556cd15623a",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/2nd",
+          "end_date": "2016-01-30",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/dd247e28-04d0-45a6-82c8-b43dcaeae93c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44565",
-      "name": "VESNA PUSIĆ",
-      "sort_name": "VESNA PUSIĆ",
+      "name": "Vesna Pusić",
+      "sort_name": "Vesna Pusić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44565"
@@ -3399,8 +3821,8 @@
       "gender": "male",
       "id": "person/f79e7534-110b-407c-8cce-be5db682fc7e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19535",
-      "name": "VLADIMIR BILEK",
-      "sort_name": "VLADIMIR BILEK",
+      "name": "Vladimir Bilek",
+      "sort_name": "Vladimir Bilek",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19535"
@@ -3424,8 +3846,8 @@
       "gender": "male",
       "id": "person/d2cd90cf-4fdc-4632-8e0f-0fa5ec2a80ca",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19628",
-      "name": "ZDRAVKO RONKO",
-      "sort_name": "ZDRAVKO RONKO",
+      "name": "Zdravko Ronko",
+      "sort_name": "Zdravko Ronko",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19628"
@@ -3448,8 +3870,8 @@
     {
       "id": "person/3724e2df-3461-40dc-91bc-b1d7eaedad9d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44645",
-      "name": "ZORAN MILANOVIĆ",
-      "sort_name": "ZORAN MILANOVIĆ",
+      "name": "Zoran Milanović",
+      "sort_name": "Zoran Milanović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44645"
@@ -3470,18 +3892,18 @@
       ]
     },
     {
-      "id": "person/aef90c12-0571-43c1-a021-2b1801d1b677",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44499",
-      "name": "ZORAN VASIĆ",
-      "sort_name": "ZORAN VASIĆ",
+      "id": "person/34762a60-4bdd-42bf-b41e-6a519cc89eae",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19820",
+      "name": "Zoran Vasić",
+      "sort_name": "Zoran Vasić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44499"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19820"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/aef90c12-0571-43c1-a021-2b1801d1b677",
+          "person_id": "person/34762a60-4bdd-42bf-b41e-6a519cc89eae",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "sdp",
@@ -3497,8 +3919,8 @@
       "gender": "male",
       "id": "person/44d6d2e2-3c37-49a6-87de-64a9faa16c3a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=39235",
-      "name": "ŠANDOR JUHAS",
-      "sort_name": "ŠANDOR JUHAS",
+      "name": "Šandor Juhas",
+      "sort_name": "Šandor Juhas",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=39235"
@@ -3521,8 +3943,8 @@
     {
       "id": "person/5b410469-f42f-4204-b6f2-581fd6e84e8a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44429",
-      "name": "ŠTEFANIJA DAMJANOVIĆ",
-      "sort_name": "ŠTEFANIJA DAMJANOVIĆ",
+      "name": "Štefanija Damjanović",
+      "sort_name": "Štefanija Damjanović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44429"
@@ -3545,8 +3967,8 @@
     {
       "id": "person/47442f71-65d4-48d7-a8db-479670404d51",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44498",
-      "name": "ŽARKO TUŠEK",
-      "sort_name": "ŽARKO TUŠEK",
+      "name": "Žarko Tušek",
+      "sort_name": "Žarko Tušek",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44498"
@@ -3569,8 +3991,8 @@
     {
       "id": "person/81405c33-ce14-4195-b53c-968866c90cec",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44431",
-      "name": "ŽELJKO DILBER",
-      "sort_name": "ŽELJKO DILBER",
+      "name": "Željko Dilber",
+      "sort_name": "Željko Dilber",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44431"
@@ -3593,8 +4015,8 @@
     {
       "id": "person/0a364e01-c870-4126-a10a-acb6eed87a06",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44433",
-      "name": "ŽELJKO FIOLIĆ",
-      "sort_name": "ŽELJKO FIOLIĆ",
+      "name": "Željko Fiolić",
+      "sort_name": "Željko Fiolić",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44433"
@@ -3617,8 +4039,8 @@
     {
       "id": "person/9c36b127-8bcb-4fbc-aa9b-0f1419ce71b4",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44435",
-      "name": "ŽELJKO GLASNOVIĆ",
-      "sort_name": "ŽELJKO GLASNOVIĆ",
+      "name": "Željko Glasnović",
+      "sort_name": "Željko Glasnović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44435"
@@ -3642,8 +4064,8 @@
       "gender": "male",
       "id": "person/56b40582-55b8-4606-b6a4-73698f8c382a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=40159",
-      "name": "ŽELJKO JOVANOVIĆ",
-      "sort_name": "ŽELJKO JOVANOVIĆ",
+      "name": "Željko Jovanović",
+      "sort_name": "Željko Jovanović",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=40159"
@@ -3667,8 +4089,8 @@
       "gender": "male",
       "id": "person/c8bd4b16-71ab-4086-babe-0666d97707f5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19625",
-      "name": "ŽELJKO REINER",
-      "sort_name": "ŽELJKO REINER",
+      "name": "Željko Reiner",
+      "sort_name": "Željko Reiner",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19625"
