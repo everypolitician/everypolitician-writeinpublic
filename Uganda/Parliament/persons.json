@@ -1,7 +1,7 @@
 {
-  "total": 403,
+  "total": 428,
   "page": 1,
-  "per_page": 403,
+  "per_page": 428,
   "has_more": false,
   "result": [
     {
@@ -193,6 +193,25 @@
     },
     {
       "gender": "female",
+      "id": "person/58306424-0731-4bc0-9a41-48df363b6c51",
+      "name": "Agnes Kunihira",
+      "sort_name": "Agnes Kunihira",
+      "memberships": [
+        {
+          "person_id": "person/58306424-0731-4bc0-9a41-48df363b6c51",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/workers'_represantive",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
       "id": "person/3780e89d-dcd4-41f1-bae8-17e2c328e726",
       "name": "Agnes Wejuli Taaka",
       "sort_name": "Agnes Wejuli Taaka",
@@ -312,6 +331,32 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/bulambuli_county",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "andeezi@parliament.go.ug",
+      "gender": "male",
+      "id": "person/35b0fd49-1df3-458b-ab58-089c14adf3fd",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/NDEEZI198.jpg",
+      "name": "Alex Ndeezi",
+      "sort_name": "Ndeezi, Alex",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/NDEEZI198.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/35b0fd49-1df3-458b-ab58-089c14adf3fd",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/pwd",
           "legislative_period_id": "term/10"
         }
       ],
@@ -578,6 +623,25 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/woman_representative",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/336fc150-f14c-43f9-abe9-35fc8985ad93",
+      "name": "Anna Adeke Ebaju",
+      "sort_name": "Anna Adeke Ebaju",
+      "memberships": [
+        {
+          "person_id": "person/336fc150-f14c-43f9-abe9-35fc8985ad93",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "INDEP",
+          "area_id": "area/youth",
           "legislative_period_id": "term/10"
         }
       ],
@@ -1164,6 +1228,44 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/c9f21a18-4280-4d87-92f6-5fc23bbd23e9",
+      "name": "Capt. Evelyn Assimwe",
+      "sort_name": "Capt. Evelyn Assimwe",
+      "memberships": [
+        {
+          "person_id": "person/c9f21a18-4280-4d87-92f6-5fc23bbd23e9",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/b550c875-e797-4ec9-8d22-75dec1d3c3eb",
+      "name": "Capt. Suzan Lakot",
+      "sort_name": "Capt. Suzan Lakot",
+      "memberships": [
+        {
+          "person_id": "person/b550c875-e797-4ec9-8d22-75dec1d3c3eb",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/1e764277-5462-4d29-97cb-edd35aeb9d1d",
       "name": "Casbert Abigaba",
@@ -1239,6 +1341,32 @@
           "role": "member",
           "on_behalf_of_id": "FDC",
           "area_id": "area/erute_north",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "cbakka@parliament.go.ug",
+      "gender": "male",
+      "id": "person/97ea981b-f358-4ed8-8690-1c3ebbafe00a",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/BAKABULINDI41.jpg",
+      "name": "Charles Bakabulindi",
+      "sort_name": "Bakabulindi, Charles",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/BAKABULINDI41.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/97ea981b-f358-4ed8-8690-1c3ebbafe00a",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/workers'_represantive",
           "legislative_period_id": "term/10"
         }
       ],
@@ -1445,6 +1573,44 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/woman_representative",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/25c87581-6af8-4e03-9b19-2a82e53af7ec",
+      "name": "Col. Felix Kulayigye",
+      "sort_name": "Col. Felix Kulayigye",
+      "memberships": [
+        {
+          "person_id": "person/25c87581-6af8-4e03-9b19-2a82e53af7ec",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/adef5f99-c15c-43bf-ba6c-d43ebb62ce2c",
+      "name": "Col. Francis Takirwa",
+      "sort_name": "Col. Francis Takirwa",
+      "memberships": [
+        {
+          "person_id": "person/adef5f99-c15c-43bf-ba6c-d43ebb62ce2c",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
           "legislative_period_id": "term/10"
         }
       ],
@@ -2537,6 +2703,25 @@
     },
     {
       "gender": "male",
+      "id": "person/672ab0ac-4210-49df-ab4c-8b4afb93ac34",
+      "name": "Gen. Elly Tumwine",
+      "sort_name": "Gen. Elly Tumwine",
+      "memberships": [
+        {
+          "person_id": "person/672ab0ac-4210-49df-ab4c-8b4afb93ac34",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/0bd268d3-8c10-4482-a86c-612fe7262936",
       "name": "Genensio Tumuramye",
       "sort_name": "Genensio Tumuramye",
@@ -3065,6 +3250,32 @@
       ]
     },
     {
+      "email": "hgasamo@parliament.go.ug",
+      "gender": "female",
+      "id": "person/6ceddccb-15e7-44f4-b11f-dc098e8cabd2",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/ASAMO585.jpg",
+      "name": "Hellen Grace Asamo",
+      "sort_name": "Asamo, Hellen Grace",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/ASAMO585.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6ceddccb-15e7-44f4-b11f-dc098e8cabd2",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/pwd",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "hmusasizi@parliament.go.ug",
       "gender": "male",
       "id": "person/bb7a33bb-b0d3-4107-8ec8-48ad38bcd7f0",
@@ -3226,6 +3437,32 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/ik_county",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hkaturamu@parliament.go.ug",
+      "gender": "male",
+      "id": "person/4509bcba-bbfc-4311-82d5-acc4c951d617",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/KATURAMU110.jpg",
+      "name": "Hood Kiribedda Katuramu",
+      "sort_name": "Katuramu, Hood Kiribedda",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/KATURAMU110.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4509bcba-bbfc-4311-82d5-acc4c951d617",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/pwd",
           "legislative_period_id": "term/10"
         }
       ],
@@ -3416,6 +3653,31 @@
     },
     {
       "gender": "male",
+      "id": "person/4134ca99-76b9-46e4-ae14-d255f7d9a673",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/OULA788.jpg",
+      "name": "Innocent Oula",
+      "sort_name": "Oula, Innocent",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/OULA788.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4134ca99-76b9-46e4-ae14-d255f7d9a673",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/0c6e733c-c3ba-431b-bb56-2eb3c66973a0",
       "name": "Isaac Etuka Joakino",
       "sort_name": "Isaac Etuka Joakino",
@@ -3464,6 +3726,24 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/lugazi_municipality",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/27b1d768-0733-4fd6-820b-97652767ef00",
+      "name": "Ishma Mafabi",
+      "sort_name": "Ishma Mafabi",
+      "memberships": [
+        {
+          "person_id": "person/27b1d768-0733-4fd6-820b-97652767ef00",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "INDEP",
+          "area_id": "area/youth",
           "legislative_period_id": "term/10"
         }
       ],
@@ -5209,6 +5489,44 @@
     },
     {
       "gender": "female",
+      "id": "person/d6fe8bf2-ea76-459f-95d1-aa70f7c2d11a",
+      "name": "Lt. Col. Flavia Byekwaso",
+      "sort_name": "Lt. Col. Flavia Byekwaso",
+      "memberships": [
+        {
+          "person_id": "person/d6fe8bf2-ea76-459f-95d1-aa70f7c2d11a",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/119064c8-9e60-47fb-a672-e62dd980993d",
+      "name": "Lt. Gen. Ivan Koreta",
+      "sort_name": "Lt. Gen. Ivan Koreta",
+      "memberships": [
+        {
+          "person_id": "person/119064c8-9e60-47fb-a672-e62dd980993d",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
       "id": "person/5b74a303-fe48-4b2b-832c-1e8f05220b99",
       "name": "Lucy Akello",
       "sort_name": "Lucy Akello",
@@ -5340,6 +5658,44 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/woman_representative",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6bd84ffe-6f44-4030-a39c-b32e5541335e",
+      "name": "Magret Namubiru Rwabushaija",
+      "sort_name": "Magret Namubiru Rwabushaija",
+      "memberships": [
+        {
+          "person_id": "person/6bd84ffe-6f44-4030-a39c-b32e5541335e",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "INDEP",
+          "area_id": "area/workers'_represantive",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8902932c-9bb1-4c2e-a408-5f97ddb48cf7",
+      "name": "Maj. Gen. Pecos Kutesa",
+      "sort_name": "Maj. Gen. Pecos Kutesa",
+      "memberships": [
+        {
+          "person_id": "person/8902932c-9bb1-4c2e-a408-5f97ddb48cf7",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
           "legislative_period_id": "term/10"
         }
       ],
@@ -6332,6 +6688,25 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/13eb1e2a-fb0f-4b4e-a1d7-898ac0f0df75",
+      "name": "Mwine Mpaka Rwamirama",
+      "sort_name": "Mwine Mpaka Rwamirama",
+      "memberships": [
+        {
+          "person_id": "person/13eb1e2a-fb0f-4b4e-a1d7-898ac0f0df75",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/youth",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "nsnaggayi@parliament.go.ug",
       "gender": "female",
       "id": "person/4803426c-7d23-491c-91e9-24081dcd606f",
@@ -6769,6 +7144,25 @@
           "role": "member",
           "on_behalf_of_id": "INDEP",
           "area_id": "area/bugangaizi_east",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c75709af-cfab-43c9-a6ba-a5815bd5662c",
+      "name": "Oscar Omony",
+      "sort_name": "Oscar Omony",
+      "memberships": [
+        {
+          "person_id": "person/c75709af-cfab-43c9-a6ba-a5815bd5662c",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/youth",
           "legislative_period_id": "term/10"
         }
       ],
@@ -7807,6 +8201,58 @@
       ]
     },
     {
+      "email": "rarinaitwe@parliament.go.ug",
+      "gender": "male",
+      "id": "person/8a254cc7-bfd8-4424-8276-45080921f151",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/ARINAITWE584.jpg",
+      "name": "Rwakajara K. Arinaitwe",
+      "sort_name": "Arinaitwe, Rwakajara K.",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/ARINAITWE584.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8a254cc7-bfd8-4424-8276-45080921f151",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/workers'_represantive",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "snalule@parliament.go.ug",
+      "gender": "female",
+      "id": "person/90e71b5d-edb3-4c26-9045-01cdd1fad6bc",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/NALULE452.jpg",
+      "name": "Safia Juuko Nalule",
+      "sort_name": "Nalule, Safia Juuko",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/NALULE452.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/90e71b5d-edb3-4c26-9045-01cdd1fad6bc",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/pwd",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/b2a7b78b-e0d4-4008-9bb0-18f0e91c7cfb",
       "name": "Saida Bbumba",
@@ -7909,6 +8355,32 @@
       ]
     },
     {
+      "email": "slyomoki@parliament.go.ug",
+      "gender": "male",
+      "id": "person/f149e08f-fff4-448f-bb21-d0f9cc164a47",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/LYOMOKI143.jpg",
+      "name": "Samuel Lyomoki",
+      "sort_name": "Lyomoki, Samuel",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/LYOMOKI143.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f149e08f-fff4-448f-bb21-d0f9cc164a47",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/workers'_represantive",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/6a59bf9a-33c2-4276-94d1-3c7f98f5d847",
       "name": "Samuel Okwir",
@@ -7946,6 +8418,25 @@
           "role": "member",
           "on_behalf_of_id": "NRM",
           "area_id": "area/woman_representative",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/ccca6420-7095-4ebf-8bbc-b9398a721008",
+      "name": "Sarah Babirye Kityo",
+      "sort_name": "Sarah Babirye Kityo",
+      "memberships": [
+        {
+          "person_id": "person/ccca6420-7095-4ebf-8bbc-b9398a721008",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/youth",
           "legislative_period_id": "term/10"
         }
       ],
@@ -8862,6 +9353,35 @@
       ]
     },
     {
+      "email": "wkatumba@parliament.go.ug",
+      "gender": "male",
+      "id": "person/762aefff-ee1f-44b7-808d-2bb5318fb574",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/KATUMBA638.jpg",
+      "name": "Wamala Katumba",
+      "sort_name": "Katumba, Wamala",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Gen_wamala"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/KATUMBA638.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/762aefff-ee1f-44b7-808d-2bb5318fb574",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NONE",
+          "area_id": "area/updf",
+          "legislative_period_id": "term/10"
+        }
+      ]
+    },
+    {
       "email": "mwerikhe@parliament.go.ug",
       "gender": "male",
       "id": "person/1399fa03-2a39-44fe-adfb-2e268162f14d",
@@ -8932,6 +9452,32 @@
           "role": "member",
           "on_behalf_of_id": "INDEP",
           "area_id": "area/ndorwa_east",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "wnokrach@parliament.go.ug",
+      "gender": "male",
+      "id": "person/09ed725b-e91c-4ed0-a58c-538aedabe487",
+      "image": "http://www.parliament.go.ug/mpdata/pics/9parl/NOKRACH453.jpg",
+      "name": "William Wilson Nokrach",
+      "sort_name": "Nokrach, William Wilson",
+      "images": [
+        {
+          "url": "http://www.parliament.go.ug/mpdata/pics/9parl/NOKRACH453.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/09ed725b-e91c-4ed0-a58c-538aedabe487",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "NRM",
+          "area_id": "area/pwd",
           "legislative_period_id": "term/10"
         }
       ],

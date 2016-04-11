@@ -1,7 +1,7 @@
 {
-  "total": 461,
+  "total": 463,
   "page": 1,
-  "per_page": 461,
+  "per_page": 463,
   "has_more": false,
   "result": [
     {
@@ -6442,6 +6442,30 @@
       ]
     },
     {
+      "id": "person/c79435ab-1485-4584-8903-79cd0dd0f82a",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "name": "Морозов Антон Юрьевич",
+      "sort_name": "Морозов Антон Юрьевич",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c79435ab-1485-4584-8903-79cd0dd0f82a",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Новгородская_область",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/f3241ce7-14ab-41de-815e-098626033134",
       "image": "http://www.duma.gov.ru/upload/iblock/8a8/8a8c3ec9df1644acb70972b2f77549dc.jpg",
@@ -9089,6 +9113,30 @@
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
           "area_id": "area/Ивановская_область,_Костромская_область",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3bd809e4-1e85-4b12-93b2-fc08651843f9",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "name": "Ситников Алексей Владимирович",
+      "sort_name": "Ситников Алексей Владимирович",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3bd809e4-1e85-4b12-93b2-fc08651843f9",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Костромская_область",
           "legislative_period_id": "term/6"
         }
       ],
