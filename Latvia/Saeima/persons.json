@@ -372,10 +372,17 @@
     },
     {
       "email": "Andris.Vilks@saeima.lv",
+      "gender": "male",
       "id": "person/beb95fe1-a4eb-436d-858e-d503f01dda03",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/406f390a55a7ee1cc2257d7b0032d9c2/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Andris Vilks",
       "sort_name": "Andris Vilks",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AndrisVilks"
+        }
+      ],
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/406f390a55a7ee1cc2257d7b0032d9c2/Foto/0.84?OpenElement&FieldElemFormat=jpg"
@@ -391,9 +398,6 @@
           "end_date": "2015-03-05",
           "legislative_period_id": "term/12"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -810,6 +814,12 @@
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f6306cd0428260d1c2257d7b0032d867/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Edgars Rinkevics",
       "sort_name": "Edgars Rinkevics",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "edgarsrinkevics"
+        }
+      ],
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f6306cd0428260d1c2257d7b0032d867/Foto/0.84?OpenElement&FieldElemFormat=jpg"
@@ -824,9 +834,6 @@
           "end_date": "2014-11-05",
           "legislative_period_id": "term/12"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1089,6 +1096,7 @@
     },
     {
       "email": "Gunars.Rusins@saeima.lv",
+      "gender": "male",
       "id": "person/dc3e2816-74e2-4186-be77-2add43c60253",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1b0c8efdf45ce28cc2257d7b0032d9df/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Gunārs Rusiņš",
@@ -1578,6 +1586,7 @@
     },
     {
       "email": "Ivars.Brivers@saeima.lv",
+      "gender": "male",
       "id": "person/cbc10245-c75e-48cc-8e96-3f5bc7aa8e7e",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c26d8f43b162883fc2257d7b0032d78f/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Ivars Brīvers",
@@ -1859,7 +1868,6 @@
     },
     {
       "email": "Janis.Ruks@saeima.lv",
-      "gender": "male",
       "id": "person/ffcabc11-2dc9-4df3-9e59-54e1a3aadcaf",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1a6b13c5ec34802ec2257d7b0032d7a8/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Jānis Ruks",
@@ -2447,6 +2455,12 @@
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a80722d1537d0620c2257d7b0032d91a/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Raimonds Vejonis",
       "sort_name": "Raimonds Vejonis",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Vejonis"
+        }
+      ],
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a80722d1537d0620c2257d7b0032d91a/Foto/0.84?OpenElement&FieldElemFormat=jpg"
@@ -2461,9 +2475,6 @@
           "end_date": "2014-11-05",
           "legislative_period_id": "term/12"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3112,6 +3123,7 @@
     },
     {
       "email": "Vjaceslavs.Dombrovskis@saeima.lv",
+      "gender": "male",
       "id": "person/b02aa916-9ea8-43ed-8536-a0004298b9ba",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/7822909aac578264c2257d7b0032d8bb/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Vjačeslavs Dombrovskis",
