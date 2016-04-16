@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 119,
   "page": 1,
-  "per_page": 104,
+  "per_page": 119,
   "has_more": false,
   "result": [
     {
@@ -184,7 +184,7 @@
           "person_id": "person/3d052941-f038-4d6c-94a2-7d032a0338c5",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2014-11-05",
           "legislative_period_id": "term/12"
         }
@@ -313,7 +313,7 @@
           "person_id": "person/b2b992cd-1723-4cd6-9279-36ed29ab7aa9",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -363,6 +363,32 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "union_of_greens_and_farmers",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Andris.Vilks@saeima.lv",
+      "id": "person/beb95fe1-a4eb-436d-858e-d503f01dda03",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/406f390a55a7ee1cc2257d7b0032d9c2/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Andris Vilks",
+      "sort_name": "Andris Vilks",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/406f390a55a7ee1cc2257d7b0032d9c2/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/beb95fe1-a4eb-436d-858e-d503f01dda03",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "lnnk&#34;",
+          "start_date": "2014-11-05",
+          "end_date": "2015-03-05",
           "legislative_period_id": "term/12"
         }
       ],
@@ -626,6 +652,31 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/c843782a-aaf9-406b-926c-8578d0bd4ab8",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/nophoto.gif",
+      "name": "Dace Melbarde",
+      "sort_name": "Dace Melbarde",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/nophoto.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c843782a-aaf9-406b-926c-8578d0bd4ab8",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "lnnk",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Dainis.Liepins@saeima.lv",
       "gender": "male",
       "id": "person/59c25c96-e9f0-47a2-9791-ea9854926b5c",
@@ -651,6 +702,56 @@
           "on_behalf_of_id": "latvian_regional_alliance",
           "legislative_period_id": "term/12"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/eaab5bb6-511f-4be5-b76a-7bc10f3182ba",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/e0f69b82408003aec2257d7b0032d93d/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Dana Reizniece-Ozola",
+      "sort_name": "Dana Reizniece-Ozola",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/e0f69b82408003aec2257d7b0032d93d/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/eaab5bb6-511f-4be5-b76a-7bc10f3182ba",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f9aab5e8-603a-4565-9667-db4079dcd152",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c89f936accfebd25c2257d7b0032d9b7/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Dzintars Rasnacs",
+      "sort_name": "Dzintars Rasnacs",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c89f936accfebd25c2257d7b0032d9b7/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f9aab5e8-603a-4565-9667-db4079dcd152",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "lnnk",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -696,6 +797,31 @@
           "role": "member",
           "on_behalf_of_id": "union_of_greens_and_farmers",
           "start_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/071665d5-28c4-47f1-a357-e44fa5081e72",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f6306cd0428260d1c2257d7b0032d867/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Edgars Rinkevics",
+      "sort_name": "Edgars Rinkevics",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f6306cd0428260d1c2257d7b0032d867/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/071665d5-28c4-47f1-a357-e44fa5081e72",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "end_date": "2014-11-05",
           "legislative_period_id": "term/12"
         }
       ],
@@ -764,7 +890,7 @@
           "person_id": "person/79768095-bf43-4bba-b6d8-dc4c3e4aaf6d",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -789,7 +915,7 @@
           "person_id": "person/46c3c9c6-fbb1-4a62-9d0f-14cd9d651160",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "end_date": "2015-01-07",
           "legislative_period_id": "term/12"
         },
@@ -797,7 +923,7 @@
           "person_id": "person/46c3c9c6-fbb1-4a62-9d0f-14cd9d651160",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2015-01-07",
           "end_date": "2015-06-17",
           "legislative_period_id": "term/12"
@@ -806,7 +932,7 @@
           "person_id": "person/46c3c9c6-fbb1-4a62-9d0f-14cd9d651160",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2015-06-17",
           "legislative_period_id": "term/12"
         }
@@ -840,7 +966,7 @@
           "person_id": "person/4aa774b6-a3f3-4353-9502-4ea222646108",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2014-11-05",
           "end_date": "2015-06-17",
           "legislative_period_id": "term/12"
@@ -849,7 +975,7 @@
           "person_id": "person/4aa774b6-a3f3-4353-9502-4ea222646108",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2015-06-17",
           "legislative_period_id": "term/12"
         }
@@ -954,6 +1080,32 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "for_latvia_from_the_heart",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Gunars.Rusins@saeima.lv",
+      "id": "person/dc3e2816-74e2-4186-be77-2add43c60253",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1b0c8efdf45ce28cc2257d7b0032d9df/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Gunārs Rusiņš",
+      "sort_name": "Gunārs Rusiņš",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1b0c8efdf45ce28cc2257d7b0032d9df/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dc3e2816-74e2-4186-be77-2add43c60253",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "lnnk&#34;",
+          "start_date": "2014-12-04",
+          "end_date": "2015-05-28",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1067,7 +1219,7 @@
           "person_id": "person/26d2267d-9040-49f8-85b1-b194feff3394",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1123,7 +1275,7 @@
           "person_id": "person/0be9dfa7-abbc-45d0-a519-73b7a7d6f24d",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ]
@@ -1145,7 +1297,7 @@
           "person_id": "person/42b73f7c-2d3d-46ff-8853-60d3645d73d2",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1282,7 +1434,7 @@
           "person_id": "person/ecde6be1-0ff3-47d5-ab3c-b286376dad5b",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1366,7 +1518,7 @@
           "person_id": "person/7ccf733d-0417-44ed-9a83-9820d5bbf1f5",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ]
@@ -1425,6 +1577,32 @@
       ]
     },
     {
+      "email": "Ivars.Brivers@saeima.lv",
+      "id": "person/cbc10245-c75e-48cc-8e96-3f5bc7aa8e7e",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c26d8f43b162883fc2257d7b0032d78f/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Ivars Brīvers",
+      "sort_name": "Ivars Brīvers",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/c26d8f43b162883fc2257d7b0032d78f/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cbc10245-c75e-48cc-8e96-3f5bc7aa8e7e",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "latvian_regional_alliance",
+          "start_date": "2015-01-15",
+          "end_date": "2015-09-03",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Ivars.Zarins@saeima.lv",
       "gender": "male",
       "id": "person/46cc7fbb-10f9-4ad7-9ad5-462a22f377af",
@@ -1450,6 +1628,56 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/b55d7bb8-000d-4c30-8b67-fb9e8494f61a",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/8559d54cb10a8e4bc2257d7b0032d8fd/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Janis Duklavs",
+      "sort_name": "Janis Duklavs",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/8559d54cb10a8e4bc2257d7b0032d8fd/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b55d7bb8-000d-4c30-8b67-fb9e8494f61a",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/86a79ff3-0565-4724-87fd-fa243a4a3488",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/6ddaa73a49edad2bc2257d7b0032d8b9/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Janis Reirs",
+      "sort_name": "Janis Reirs",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/6ddaa73a49edad2bc2257d7b0032d8b9/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/86a79ff3-0565-4724-87fd-fa243a4a3488",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Kursite.Janina@saeima.lv",
       "id": "person/dee4e198-76cc-454b-940e-47a86daeea17",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/63f562ceecd6a15ec2257d7b0032d8ae/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -1467,6 +1695,7 @@
           "role": "member",
           "on_behalf_of_id": "unity",
           "start_date": "2014-11-05",
+          "end_date": "2015-11-12",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1491,7 +1720,7 @@
           "person_id": "person/3e7f9d4a-4d05-42d9-aaeb-81b192a6eccf",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1595,7 +1824,7 @@
           "person_id": "person/2ff634e9-1137-4a02-933e-1e9a0307dbef",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1671,14 +1900,6 @@
           "role": "member",
           "on_behalf_of_id": "union_of_greens_and_farmers",
           "start_date": "2014-11-05",
-          "legislative_period_id": "term/12"
-        },
-        {
-          "person_id": "person/3f26831c-b04f-42d9-83c8-373b77639d16",
-          "organization_id": "chamber/saeima",
-          "role": "member",
-          "on_behalf_of_id": "union_of_greens_and_farmers",
-          "start_date": "2015-06-18",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1853,7 +2074,7 @@
           "person_id": "person/adf65135-8614-4a71-9147-18b10f57d168",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1922,6 +2143,7 @@
           "role": "member",
           "on_behalf_of_id": "unity",
           "start_date": "2016-02-11",
+          "end_date": "2016-02-18",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2009,6 +2231,7 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "concord",
+          "end_date": "2015-10-29",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2059,6 +2282,7 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2016-02-18",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2167,6 +2391,32 @@
       ]
     },
     {
+      "email": "Raimonds.Bergmanis@saeima.lv",
+      "gender": "male",
+      "id": "person/22722b1b-0836-4e91-965c-d341d116df6b",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/8310ef4873ff1224c2257d7b0032d92f/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Raimonds Bergmanis",
+      "sort_name": "Raimonds Bergmanis",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/8310ef4873ff1224c2257d7b0032d92f/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/22722b1b-0836-4e91-965c-d341d116df6b",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2015-09-03",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Raimonds.Rubiks@saeima.lv",
       "gender": "male",
       "id": "person/3d87f9b8-142d-459b-8896-febe9a7294f6",
@@ -2184,6 +2434,31 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "concord",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e8777080-1cd8-4ce2-8e32-f3826862579f",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a80722d1537d0620c2257d7b0032d91a/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Raimonds Vejonis",
+      "sort_name": "Raimonds Vejonis",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a80722d1537d0620c2257d7b0032d91a/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e8777080-1cd8-4ce2-8e32-f3826862579f",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2014-11-05",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2216,7 +2491,7 @@
           "person_id": "person/6039b8f0-81ac-4d49-be8b-48d0a9b41fe1",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2014-11-05",
           "end_date": "2014-12-04",
           "legislative_period_id": "term/12"
@@ -2225,7 +2500,7 @@
           "person_id": "person/6039b8f0-81ac-4d49-be8b-48d0a9b41fe1",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2015-05-28",
           "end_date": "2015-06-17",
           "legislative_period_id": "term/12"
@@ -2234,8 +2509,34 @@
           "person_id": "person/6039b8f0-81ac-4d49-be8b-48d0a9b41fe1",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2015-06-17",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Regina.Locmele-Lunova@saeima.lv",
+      "gender": "female",
+      "id": "person/4320ebd1-7859-4735-a041-1a17dfc736b4",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/790d336a9f8b3da5c2257d7b0032d802/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Regīna Ločmele-Luņova",
+      "sort_name": "Regīna Ločmele-Luņova",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/790d336a9f8b3da5c2257d7b0032d802/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4320ebd1-7859-4735-a041-1a17dfc736b4",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "concord",
+          "end_date": "2015-05-07",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2291,9 +2592,34 @@
           "person_id": "person/22a23916-a651-43b1-be4d-5592290c771b",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/28ac1dec-a13a-4396-b10c-dad590201c01",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f80ed3f75a1e8449c2257d7b0032d86c/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Rihards Kozlovskis",
+      "sort_name": "Rihards Kozlovskis",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f80ed3f75a1e8449c2257d7b0032d86c/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/28ac1dec-a13a-4396-b10c-dad590201c01",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2338,7 +2664,7 @@
           "person_id": "person/5d0bb4fb-6392-41df-aa47-41aef27656c7",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "start_date": "2015-03-05",
           "legislative_period_id": "term/12"
         }
@@ -2413,7 +2739,7 @@
           "person_id": "person/249ecb3c-27d4-4f06-ad15-4f2dd41e3b22",
           "organization_id": "chamber/saeima",
           "role": "member",
-          "on_behalf_of_id": "lnnk\"",
+          "on_behalf_of_id": "lnnk&#34;",
           "legislative_period_id": "term/12"
         }
       ],
@@ -2555,7 +2881,33 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/08d4344c-bfff-4fc5-a12c-2c614c6a5df1",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f5c5dbe8b9e0edf5c2257d7b0032d92d/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Uldis Augulis",
+      "sort_name": "Uldis Augulis",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/f5c5dbe8b9e0edf5c2257d7b0032d92d/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/08d4344c-bfff-4fc5-a12c-2c614c6a5df1",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2014-11-05",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Valdis.Kalnozols@saeima.lv",
+      "gender": "male",
       "id": "person/aef605a7-592e-4327-8ae8-c8d06b7921a7",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/5fcf77e8b8e7f97bc2257d7b0032d8dd/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Valdis Kalnozols",
@@ -2751,6 +3103,32 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "concord",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Vjaceslavs.Dombrovskis@saeima.lv",
+      "id": "person/b02aa916-9ea8-43ed-8536-a0004298b9ba",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/7822909aac578264c2257d7b0032d8bb/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Vjačeslavs Dombrovskis",
+      "sort_name": "Vjačeslavs Dombrovskis",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/7822909aac578264c2257d7b0032d8bb/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b02aa916-9ea8-43ed-8536-a0004298b9ba",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "unity",
+          "start_date": "2014-11-05",
+          "end_date": "2015-04-30",
           "legislative_period_id": "term/12"
         }
       ],
