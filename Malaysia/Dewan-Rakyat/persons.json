@@ -1,7 +1,7 @@
 {
-  "total": 228,
+  "total": 231,
   "page": 1,
-  "per_page": 228,
+  "per_page": 231,
   "has_more": false,
   "result": [
     {
@@ -16,6 +16,24 @@
           "role": "member",
           "on_behalf_of_id": "PRS",
           "area_id": "P210-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/841f2b42-61a6-4e5f-b462-ecc069fc8f1e",
+      "name": "Abd. Aziz Sheikh Fadzir",
+      "sort_name": "Abd. Aziz Sheikh Fadzir",
+      "memberships": [
+        {
+          "person_id": "person/841f2b42-61a6-4e5f-b462-ecc069fc8f1e",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "UMNO",
+          "area_id": "P018-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1066,6 +1084,24 @@
       ]
     },
     {
+      "id": "person/56102b27-1c6b-45dd-8f1c-72596d02c771",
+      "name": "Gooi Hsiao-Leung",
+      "sort_name": "Gooi Hsiao-Leung",
+      "memberships": [
+        {
+          "person_id": "person/56102b27-1c6b-45dd-8f1c-72596d02c771",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "PKR",
+          "area_id": "P009-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/184f3297-bd02-476e-a260-37822d503473",
       "name": "Halimah Mohd Sadique",
@@ -1807,6 +1843,24 @@
       "memberships": [
         {
           "person_id": "person/41630898-3c73-4ca1-825e-84b441a923bd",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "PKR",
+          "area_id": "P019-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "name": "Kamarudin Jaffar",
+      "sort_name": "Kamarudin Jaffar",
+      "memberships": [
+        {
+          "person_id": "person/101e0d2c-60d9-47fb-bf5b-73805fa9184a",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
           "on_behalf_of_id": "PKR",
@@ -3341,8 +3395,8 @@
     {
       "gender": "male",
       "id": "person/ad966597-dbee-4dd3-967b-1b78eac5202f",
-      "name": "Ramkarpal Singh Deo",
-      "sort_name": "Ramkarpal Singh Deo",
+      "name": "Ramkarpal Singh",
+      "sort_name": "Ramkarpal Singh",
       "memberships": [
         {
           "person_id": "person/ad966597-dbee-4dd3-967b-1b78eac5202f",
@@ -4045,8 +4099,14 @@
     {
       "gender": "male",
       "id": "person/184053e6-986d-447b-a662-2d40d06d3d81",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tengku-razaleigh.jpg",
       "name": "Tengku Razaleigh Hamzah",
       "sort_name": "Tengku Razaleigh Hamzah",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tengku-razaleigh.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/184053e6-986d-447b-a662-2d40d06d3d81",
