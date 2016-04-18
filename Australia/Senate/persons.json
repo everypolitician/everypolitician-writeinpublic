@@ -663,6 +663,7 @@
     },
     {
       "email": "senator.paterson@aph.gov.au",
+      "gender": "male",
       "id": "person/32ca3a6f-c19d-465c-a1ad-a53564e7fade",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg",
       "name": "Senator James Paterson",
@@ -1070,11 +1071,24 @@
       ]
     },
     {
+      "email": "senator.mckim@aph.gov.au",
       "gender": "male",
       "id": "person/3f2957c5-fe0a-45d5-b1ce-872b2bdc6d44",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg",
       "name": "Senator Nick McKim",
       "sort_name": "Senator Nick McKim",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nickmckim"
+        }
+      ],
+      "links": [
+        {
+          "url": "nickmckim",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/JKM/upload_ref_binary/JKM.jpg"
@@ -1089,9 +1103,6 @@
           "area_id": "area/tasmania",
           "legislative_period_id": "term/44"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1346,6 +1357,7 @@
       ]
     },
     {
+      "email": "senator.dastyari@aph.gov.au",
       "gender": "male",
       "id": "person/355601ad-54e5-4732-8388-fa8db4fb199f",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225099/upload_ref_binary/225099.jpg",
