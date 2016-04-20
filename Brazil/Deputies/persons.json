@@ -1,7 +1,7 @@
 {
-  "total": 548,
+  "total": 550,
   "page": 1,
-  "per_page": 548,
+  "per_page": 550,
   "has_more": false,
   "result": [
     {
@@ -9446,7 +9446,33 @@
       ]
     },
     {
+      "email": "dep.merlongsolano@camara.leg.br",
+      "id": "person/a1513c57-10fb-438e-a44a-074de88307c4",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/188097.jpg",
+      "name": "MERLONG SOLANO",
+      "sort_name": "MERLONG SOLANO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/188097.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a1513c57-10fb-438e-a44a-074de88307c4",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PT",
+          "area_id": "area/pi",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.miguelcorrea@camara.leg.br",
+      "gender": "male",
       "id": "person/35b94e70-3ef0-425c-8211-a7a9239392ef",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141509.jpg",
       "name": "MIGUEL CORRÊA",
@@ -10403,6 +10429,31 @@
           "role": "member",
           "on_behalf_of_id": "PTdoB",
           "area_id": "area/mg",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.pastorlucianobraga@camara.leg.br",
+      "id": "person/6bb81fc4-8510-46d0-8bee-d3770d5fa37b",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/193982.jpg",
+      "name": "PASTOR LUCIANO BRAGA",
+      "sort_name": "PASTOR LUCIANO BRAGA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/193982.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6bb81fc4-8510-46d0-8bee-d3770d5fa37b",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "DEM",
+          "area_id": "area/ba",
           "legislative_period_id": "term/55"
         }
       ],
