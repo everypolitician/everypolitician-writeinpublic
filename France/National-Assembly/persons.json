@@ -1,7 +1,7 @@
 {
-  "total": 639,
+  "total": 640,
   "page": 1,
-  "per_page": 639,
+  "per_page": 640,
   "has_more": false,
   "result": [
     {
@@ -658,6 +658,7 @@
           "role": "member",
           "on_behalf_of_id": "les-rep",
           "area_id": "area/moselle",
+          "end_date": "2016-04-15",
           "legislative_period_id": "term/14"
         }
       ]
@@ -14380,6 +14381,32 @@
           "area_id": "area/hérault",
           "legislative_period_id": "term/14"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4f755d57-5651-4628-9625-3e669f1367a7",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642876.jpg",
+      "name": "Patrick Weiten",
+      "sort_name": "Patrick Weiten",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642876.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4f755d57-5651-4628-9625-3e669f1367a7",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "area/moselle",
+          "start_date": "2016-04-16",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
