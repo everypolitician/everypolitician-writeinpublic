@@ -1,7 +1,7 @@
 {
-  "total": 475,
+  "total": 477,
   "page": 1,
-  "per_page": 475,
+  "per_page": 477,
   "has_more": false,
   "result": [
     {
@@ -2420,6 +2420,12 @@
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/057.jpg/$File/057.jpg",
       "name": "IMAI Masato",
       "sort_name": "IMAI Masato",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "imai_masato"
+        }
+      ],
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/057.jpg/$File/057.jpg"
@@ -2434,9 +2440,6 @@
           "area_id": "area/tokai_bloc",
           "legislative_period_id": "term/46"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3163,6 +3166,14 @@
           "role": "member",
           "on_behalf_of_id": "dp",
           "area_id": "area/kinki_bloc",
+          "legislative_period_id": "term/46"
+        },
+        {
+          "person_id": "person/777d4ed3-6de2-4772-b439-302c59bc7285",
+          "organization_id": "chamber/shūgiin",
+          "role": "member",
+          "on_behalf_of_id": "dp",
+          "area_id": "area/kyoto_3rd_district",
           "legislative_period_id": "term/46"
         }
       ],
@@ -4262,6 +4273,31 @@
           "role": "member",
           "on_behalf_of_id": "dp",
           "area_id": "area/wakayama_1st_district",
+          "legislative_period_id": "term/46"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/35c74300-6ad0-497b-bfdf-29b9a8066fc9",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm",
+      "name": "KITAGAMI Keiro",
+      "sort_name": "KITAGAMI Keiro",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/35c74300-6ad0-497b-bfdf-29b9a8066fc9",
+          "organization_id": "chamber/shūgiin",
+          "role": "member",
+          "on_behalf_of_id": "dp",
+          "area_id": "area/kinki_bloc",
           "legislative_period_id": "term/46"
         }
       ],
@@ -11266,6 +11302,31 @@
           "role": "member",
           "on_behalf_of_id": "km",
           "area_id": "area/hokuriku-shinetsu_bloc",
+          "legislative_period_id": "term/46"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/28640f67-63eb-4ebf-87a6-f9343a9a2187",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm",
+      "name": "WADA Yoshiaki",
+      "sort_name": "WADA Yoshiaki",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/28640f67-63eb-4ebf-87a6-f9343a9a2187",
+          "organization_id": "chamber/shūgiin",
+          "role": "member",
+          "on_behalf_of_id": "ldp",
+          "area_id": "area/hokkaido_5th_district",
           "legislative_period_id": "term/46"
         }
       ],
