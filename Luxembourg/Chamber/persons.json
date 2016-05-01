@@ -1,7 +1,7 @@
 {
-  "total": 61,
+  "total": 62,
   "page": 1,
-  "per_page": 61,
+  "per_page": 62,
   "has_more": false,
   "result": [
     {
@@ -963,6 +963,32 @@
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
           "on_behalf_of_id": "919",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mbaum@chd.lu",
+      "gender": "male",
+      "id": "person/a2084f73-e2b9-4673-9e8e-e4eab1ba589c",
+      "image": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1769",
+      "name": "Marc Baum",
+      "sort_name": "Marc Baum",
+      "images": [
+        {
+          "url": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1769"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a2084f73-e2b9-4673-9e8e-e4eab1ba589c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "1361",
+          "start_date": "2016-04-20",
           "legislative_period_id": "term/2013"
         }
       ],
