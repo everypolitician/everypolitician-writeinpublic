@@ -1,7 +1,7 @@
 {
-  "total": 550,
+  "total": 551,
   "page": 1,
-  "per_page": 550,
+  "per_page": 551,
   "has_more": false,
   "result": [
     {
@@ -9917,6 +9917,7 @@
     },
     {
       "email": "dep.nelsonpadovani@camara.leg.br",
+      "gender": "male",
       "id": "person/bf7ab522-cd73-4915-b5b3-3f62be25d45c",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160566.jpg",
       "name": "NELSON PADOVANI",
@@ -9994,6 +9995,7 @@
     },
     {
       "email": "dep.nilmariomiranda@camara.leg.br",
+      "gender": "male",
       "id": "person/35c20a72-d52c-4327-b2a5-efb794edc6af",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74751.jpg",
       "name": "NILMÁRIO MIRANDA",
@@ -10723,6 +10725,7 @@
     },
     {
       "email": "dep.paulomartins@camara.leg.br",
+      "gender": "male",
       "id": "person/ac3f06ca-ab42-45d6-80f0-05f4d74341ba",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193726.jpg",
       "name": "PAULO MARTINS",
@@ -10878,6 +10881,7 @@
     },
     {
       "email": "dep.pedrocunhalima@camara.leg.br",
+      "gender": "male",
       "id": "person/27b13a70-2760-4c7e-8d50-9faef25ee293",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178912.jpg",
       "name": "PEDRO CUNHA LIMA",
@@ -11293,6 +11297,7 @@
     },
     {
       "email": "dep.reinholdstephanes@camara.leg.br",
+      "gender": "male",
       "id": "person/dfa55780-0ea6-4331-b460-f88f22d81610",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/73786.jpg",
       "name": "REINHOLD STEPHANES",
@@ -13809,6 +13814,31 @@
           "role": "member",
           "on_behalf_of_id": "PP",
           "area_id": "area/ma",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.walneyrocha@camara.leg.br",
+      "id": "person/6212f1c4-8939-4955-a3b6-333b40e690a9",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/160631.jpg",
+      "name": "WALNEY ROCHA",
+      "sort_name": "WALNEY ROCHA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/160631.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6212f1c4-8939-4955-a3b6-333b40e690a9",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PEN",
+          "area_id": "area/rj",
           "legislative_period_id": "term/55"
         }
       ],

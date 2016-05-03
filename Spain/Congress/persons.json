@@ -1,7 +1,7 @@
 {
-  "total": 350,
+  "total": 351,
   "page": 1,
-  "per_page": 350,
+  "per_page": 351,
   "has_more": false,
   "result": [
     {
@@ -2531,6 +2531,32 @@
           "area_id": "area/madrid",
           "legislative_period_id": "term/11"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/912a11f5-741c-4937-8a40-ef884230d9b8",
+      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg",
+      "name": "Francisco Domingo Cabrera García",
+      "sort_name": "Cabrera García, Francisco Domingo",
+      "images": [
+        {
+          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/912a11f5-741c-4937-8a40-ef884230d9b8",
+          "organization_id": "chamber/congreso_de_los_diputados",
+          "role": "member",
+          "on_behalf_of_id": "GP",
+          "area_id": "area/las_palmas",
+          "start_date": "2016-04-19",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -6213,6 +6239,7 @@
       ]
     },
     {
+      "email": "mdc@congreso.es",
       "gender": "female",
       "id": "person/c763102a-b37c-44fb-8709-84ea1fed2c2d",
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/226_11.jpg",
@@ -7232,6 +7259,12 @@
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/27_11.jpg",
       "name": "María del Carmen González Guinda",
       "sort_name": "González Guinda, María del Carmen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CarmenGGuinda"
+        }
+      ],
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/27_11.jpg"
@@ -7246,9 +7279,6 @@
           "area_id": "area/león",
           "legislative_period_id": "term/11"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {

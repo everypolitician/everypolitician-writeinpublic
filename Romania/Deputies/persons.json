@@ -331,7 +331,7 @@
           "person_id": "person/47e839e7-cc9c-4c2a-bd4f-83a1ae277dae",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "unpr",
+          "on_behalf_of_id": "pnl",
           "area_id": "19",
           "legislative_period_id": "term/2012"
         }
@@ -5261,7 +5261,7 @@
           "person_id": "person/2e14051e-fc40-404c-a2f9-ae2725345c2d",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "psd",
+          "on_behalf_of_id": "pnl",
           "area_id": "29",
           "legislative_period_id": "term/2012"
         }
@@ -8429,7 +8429,6 @@
       ]
     },
     {
-      "email": "neculai.ratoi@cdep.ro",
       "gender": "male",
       "id": "person/1eebe51b-ff3a-4355-ba10-5f9462062910",
       "image": "http://www.cdep.ro/parlamentari/l2012/Ratoi_Neculai.jpg",
@@ -8447,6 +8446,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "24",
+          "end_date": "2016-04-25",
           "legislative_period_id": "term/2012"
         }
       ],
