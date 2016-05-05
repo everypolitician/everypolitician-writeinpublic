@@ -1,7 +1,7 @@
 {
-  "total": 551,
+  "total": 552,
   "page": 1,
-  "per_page": 551,
+  "per_page": 552,
   "has_more": false,
   "result": [
     {
@@ -9282,6 +9282,31 @@
           "role": "member",
           "on_behalf_of_id": "PMDB",
           "area_id": "area/al",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.maurobenevides@camara.leg.br",
+      "id": "person/fdab7071-ff04-41fe-ab8c-a6d64d497254",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73588.jpg",
+      "name": "MAURO BENEVIDES",
+      "sort_name": "MAURO BENEVIDES",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73588.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fdab7071-ff04-41fe-ab8c-a6d64d497254",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PMDB",
+          "area_id": "area/ce",
           "legislative_period_id": "term/55"
         }
       ],
