@@ -1,7 +1,7 @@
 {
-  "total": 106,
+  "total": 103,
   "page": 1,
-  "per_page": 106,
+  "per_page": 103,
   "has_more": false,
   "result": [
     {
@@ -628,10 +628,11 @@
       ]
     },
     {
-      "id": "person/d4e34805-d679-4d1e-86f3-9aeae01934bb",
+      "gender": "male",
+      "id": "person/7d2cdc89-959b-42fe-9bc8-d393b4f01f12",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/517_59_hon__nickey_iyambo.jpg",
-      "name": "Iyambo, Nickey (RESIGNED)",
-      "sort_name": "Iyambo, Nickey (RESIGNED)",
+      "name": "Iyambo, Nickey",
+      "sort_name": "Iyambo, Nickey",
       "images": [
         {
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/517_59_hon__nickey_iyambo.jpg"
@@ -639,7 +640,7 @@
       ],
       "memberships": [
         {
-          "person_id": "person/d4e34805-d679-4d1e-86f3-9aeae01934bb",
+          "person_id": "person/7d2cdc89-959b-42fe-9bc8-d393b4f01f12",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
@@ -1620,30 +1621,6 @@
       ]
     },
     {
-      "email": "m.nauyoma@parliament.na",
-      "id": "person/d498c690-ecc3-4360-83c5-1d7b65a5b7ce",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_nauyoma.jpg",
-      "name": "Nauyoma, Reinhold Madala",
-      "sort_name": "Nauyoma, Reinhold Madala",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_nauyoma.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d498c690-ecc3-4360-83c5-1d7b65a5b7ce",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "APP",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/da444f23-ef9a-46f7-bf2f-fdd84520c9a7",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_ndjoze_ojo.jpg",
@@ -1985,29 +1962,6 @@
       "memberships": [
         {
           "person_id": "person/eac826f2-6c3c-4fe3-9c75-50b1b84cd6a7",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c5e7d165-3864-45b0-a050-3580b8039c7f",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_shikongo.jpg",
-      "name": "Shikongo, Torka Victorine (WITHDRAWN BY PARTY)",
-      "sort_name": "Shikongo, Torka Victorine (WITHDRAWN BY PARTY)",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_shikongo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c5e7d165-3864-45b0-a050-3580b8039c7f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
@@ -2365,29 +2319,6 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/cbd12074-7ef9-4561-b8b0-0dd48d691fac",
-      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_van_wyk.jpg",
-      "name": "Van Wyk, Jan Johannes",
-      "sort_name": "Van Wyk, Jan Johannes",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_van_wyk.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cbd12074-7ef9-4561-b8b0-0dd48d691fac",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "UPM",
           "legislative_period_id": "term/6"
         }
       ],
