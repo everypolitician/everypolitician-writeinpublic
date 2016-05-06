@@ -1,7 +1,7 @@
 {
-  "total": 552,
+  "total": 553,
   "page": 1,
-  "per_page": 552,
+  "per_page": 553,
   "has_more": false,
   "result": [
     {
@@ -4418,6 +4418,31 @@
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
           "on_behalf_of_id": "PMB",
+          "area_id": "area/rj",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.fabianohorta@camara.leg.br",
+      "id": "person/0a3535d4-e6ac-491f-95f4-889e248753a6",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/146829.jpg",
+      "name": "FABIANO HORTA",
+      "sort_name": "FABIANO HORTA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/146829.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0a3535d4-e6ac-491f-95f4-889e248753a6",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PT",
           "area_id": "area/rj",
           "legislative_period_id": "term/55"
         }
