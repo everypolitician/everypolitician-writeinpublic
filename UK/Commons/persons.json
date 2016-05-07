@@ -1,7 +1,7 @@
 {
-  "total": 651,
+  "total": 653,
   "page": 1,
-  "per_page": 651,
+  "per_page": 653,
   "has_more": false,
   "result": [
     {
@@ -3196,6 +3196,25 @@
           "area_id": "uk.org.publicwhip/cons/79",
           "legislative_period_id": "term/56"
         }
+      ]
+    },
+    {
+      "id": "person/14527992-e8b9-4280-a411-4dc5a87abd80",
+      "name": "Chris Elmore",
+      "sort_name": "Chris Elmore",
+      "memberships": [
+        {
+          "person_id": "person/14527992-e8b9-4280-a411-4dc5a87abd80",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "uk.org.publicwhip/cons/440",
+          "start_date": "2016-05-06",
+          "legislative_period_id": "term/56"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -6617,6 +6636,25 @@
       ]
     },
     {
+      "id": "person/5c8a062b-33e2-4b7d-be73-27479693f2c5",
+      "name": "Gill Furniss",
+      "sort_name": "Gill Furniss",
+      "memberships": [
+        {
+          "person_id": "person/5c8a062b-33e2-4b7d-be73-27479693f2c5",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "uk.org.publicwhip/cons/2228",
+          "start_date": "2016-05-06",
+          "legislative_period_id": "term/56"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "stuartg@parliament.uk",
       "gender": "female",
       "id": "person/24edfa54-41b2-4518-a16d-f084f09330c8",
@@ -9231,6 +9269,12 @@
       "image": "http://yournextmp.popit.mysociety.org/persons/3066/image/5535721f367dc5383f552ccd",
       "name": "Jim Shannon",
       "sort_name": "Shannon, Jim",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jimshannonmp"
+        }
+      ],
       "images": [
         {
           "url": "http://yournextmp.popit.mysociety.org/persons/3066/image/5535721f367dc5383f552ccd"
@@ -9245,9 +9289,6 @@
           "area_id": "uk.org.publicwhip/cons/557",
           "legislative_period_id": "term/56"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
