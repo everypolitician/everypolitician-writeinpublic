@@ -1,7 +1,7 @@
 {
-  "total": 397,
+  "total": 398,
   "page": 1,
-  "per_page": 397,
+  "per_page": 398,
   "has_more": false,
   "result": [
     {
@@ -4388,6 +4388,7 @@
       ]
     },
     {
+      "email": "mareldia.chowglay@dhs.gov.za",
       "gender": "female",
       "id": "person/4472ca07-98c0-49b1-858c-89ccbf0bd206",
       "image": "http://www.pa.org.za/media_root/cache/d0/3b/d03b6840ef304b8379a255c7d3ace347.jpg",
@@ -7979,7 +7980,7 @@
       ]
     },
     {
-      "email": "tmirubelela@parliament.gov.za",
+      "email": "tmarubelela@parliament.gov.za",
       "id": "person/fc1428ac-abba-4042-a380-f3aa24940efe",
       "image": "http://www.pa.org.za/media_root/cache/2f/dd/2fdd91630f5bba35ddb7830ce95773bb.jpg",
       "name": "Rosemary Nokuzola Capa",
@@ -8248,6 +8249,30 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "PAC",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "sbuthelezi@parliament.gov.za",
+      "id": "person/39c2e312-a983-4499-9463-75b1644ae2ab",
+      "image": "http://www.pa.org.za/media_root/cache/77/59/7759b97d1212b70fa5e849758f3d83ea.jpg",
+      "name": "Sfiso Norbert Buthelezi",
+      "sort_name": "Sfiso Norbert Buthelezi",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/77/59/7759b97d1212b70fa5e849758f3d83ea.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/39c2e312-a983-4499-9463-75b1644ae2ab",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ANC",
           "legislative_period_id": "term/26"
         }
       ],
@@ -9229,7 +9254,7 @@
       ]
     },
     {
-      "email": "dsa@saol.com",
+      "email": "scopa@saol.com",
       "gender": "male",
       "id": "person/0bae3a19-06ea-4be7-a4a1-137388ea3eeb",
       "image": "http://www.pa.org.za/media_root/cache/1a/80/1a8064789217f36da65b90589749294e.jpg",
