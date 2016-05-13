@@ -1,7 +1,7 @@
 {
-  "total": 24,
+  "total": 28,
   "page": 1,
-  "per_page": 24,
+  "per_page": 28,
   "has_more": false,
   "result": [
     {
@@ -135,6 +135,24 @@
       ]
     },
     {
+      "id": "person/24286645-3760-4529-adc6-a74976de606a",
+      "name": "Christopher Thomas",
+      "sort_name": "Christopher Thomas",
+      "memberships": [
+        {
+          "person_id": "person/24286645-3760-4529-adc6-a74976de606a",
+          "organization_id": "chamber/house_of_keys",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/douglas_west",
+          "legislative_period_id": "term/2011"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/466039a1-814a-47c1-bb83-a44e6dccb560",
       "name": "David Anderson",
@@ -142,6 +160,24 @@
       "memberships": [
         {
           "person_id": "person/466039a1-814a-47c1-bb83-a44e6dccb560",
+          "organization_id": "chamber/house_of_keys",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/glenfaba",
+          "legislative_period_id": "term/2011"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d63084cf-1b4c-45a4-b049-09edd4befd74",
+      "name": "David Anderson",
+      "sort_name": "David Anderson",
+      "memberships": [
+        {
+          "person_id": "person/d63084cf-1b4c-45a4-b049-09edd4befd74",
           "organization_id": "chamber/house_of_keys",
           "role": "member",
           "on_behalf_of_id": "independent",
@@ -328,6 +364,24 @@
       ]
     },
     {
+      "id": "person/2772c913-226a-40e8-a3a2-fc14d413d9c9",
+      "name": "Jonathan Joughin",
+      "sort_name": "Jonathan Joughin",
+      "memberships": [
+        {
+          "person_id": "person/2772c913-226a-40e8-a3a2-fc14d413d9c9",
+          "organization_id": "chamber/house_of_keys",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/douglas_east",
+          "legislative_period_id": "term/2011"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "juan.watterson@gov.im",
       "gender": "male",
       "id": "person/459f927c-7098-4cf2-8a2b-66262b085298",
@@ -501,6 +555,24 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/douglas_north",
+          "legislative_period_id": "term/2011"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/833668d6-4aaf-4f9c-83d7-0939a18fb5ca",
+      "name": "Ray Harmer",
+      "sort_name": "Ray Harmer",
+      "memberships": [
+        {
+          "person_id": "person/833668d6-4aaf-4f9c-83d7-0939a18fb5ca",
+          "organization_id": "chamber/house_of_keys",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/peel",
           "legislative_period_id": "term/2011"
         }
       ],
