@@ -3199,9 +3199,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/14527992-e8b9-4280-a411-4dc5a87abd80",
       "name": "Chris Elmore",
-      "sort_name": "Chris Elmore",
+      "sort_name": "Elmore, Chris",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cpjelmore"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/14527992-e8b9-4280-a411-4dc5a87abd80",
@@ -3212,9 +3219,6 @@
           "start_date": "2016-05-06",
           "legislative_period_id": "term/56"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3286,6 +3290,12 @@
         {
           "type": "twitter",
           "value": "ChrisGreenMP"
+        }
+      ],
+      "links": [
+        {
+          "url": "ChrisGreenMP",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -6636,9 +6646,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/5c8a062b-33e2-4b7d-be73-27479693f2c5",
       "name": "Gill Furniss",
-      "sort_name": "Gill Furniss",
+      "sort_name": "Furniss, Gill",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gill_furniss"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5c8a062b-33e2-4b7d-be73-27479693f2c5",
@@ -6649,9 +6666,6 @@
           "start_date": "2016-05-06",
           "legislative_period_id": "term/56"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -11436,12 +11450,6 @@
       "image": "http://yournextmp.popit.mysociety.org/persons/1607/image/55225b63328bff5d39338a6d",
       "name": "Kris Hopkins",
       "sort_name": "Hopkins, Kris",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "krishopkins2015"
-        }
-      ],
       "links": [
         {
           "url": "kris.hopkins2015",
@@ -11462,6 +11470,9 @@
           "area_id": "uk.org.publicwhip/cons/313",
           "legislative_period_id": "term/56"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -11610,7 +11621,7 @@
       ]
     },
     {
-      "email": "goreb@parliament.uk",
+      "email": "Lindsay.hoyle.mp@parliament.uk",
       "gender": "male",
       "id": "person/dd616977-85c9-4914-99aa-ea7ed8135f5e",
       "image": "http://yournextmp.popit.mysociety.org/persons/595/image/553ab62c78c2688c57905d10",
@@ -19063,7 +19074,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "tdebbonaire"
+          "value": "thangammp"
         }
       ],
       "images": [
