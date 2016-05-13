@@ -1,7 +1,7 @@
 {
-  "total": 410,
+  "total": 411,
   "page": 1,
-  "per_page": 410,
+  "per_page": 411,
   "has_more": false,
   "result": [
     {
@@ -217,6 +217,16 @@
           "role": "member",
           "on_behalf_of_id": "V",
           "area_id": "area/stockholms_län",
+          "end_date": "2016-05-11",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/4fe10fc7-a020-4f0b-bdb1-59ed26fb335a",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "V",
+          "area_id": "area/stockholms_län",
+          "start_date": "2016-06-17",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -5027,6 +5037,33 @@
           "role": "member",
           "on_behalf_of_id": "SD",
           "area_id": "area/malmö_kommun",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/ee8ad12e-3a8e-45df-af79-7465b2e84495",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0393199907225_max.jpg",
+      "name": "Jenny Bengtsson",
+      "sort_name": "Jenny",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0393199907225_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ee8ad12e-3a8e-45df-af79-7465b2e84495",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "V",
+          "area_id": "area/stockholms_län",
+          "start_date": "2016-05-12",
+          "end_date": "2016-06-16",
           "legislative_period_id": "term/2014"
         }
       ],
