@@ -1,7 +1,7 @@
 {
-  "total": 398,
+  "total": 399,
   "page": 1,
-  "per_page": 398,
+  "per_page": 399,
   "has_more": false,
   "result": [
     {
@@ -9623,6 +9623,30 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "COPE",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "wnewhoudt@parliament.gov.za",
+      "id": "person/97db0b3d-b72c-4317-aff0-5b7351bf253b",
+      "image": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg",
+      "name": "Wilma Susan Newhoudt-Druchen",
+      "sort_name": "Wilma Susan Newhoudt-Druchen",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/97db0b3d-b72c-4317-aff0-5b7351bf253b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ANC",
           "legislative_period_id": "term/26"
         }
       ],

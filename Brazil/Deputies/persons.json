@@ -1,7 +1,7 @@
 {
-  "total": 553,
+  "total": 554,
   "page": 1,
-  "per_page": 553,
+  "per_page": 554,
   "has_more": false,
   "result": [
     {
@@ -909,6 +909,31 @@
           "role": "member",
           "on_behalf_of_id": "PSD",
           "area_id": "area/pe",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.andrefigueiredo@camara.leg.br",
+      "id": "person/acd3f691-8f79-46bf-81c1-cb62953d1025",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/133439.jpg",
+      "name": "ANDRÉ FIGUEIREDO",
+      "sort_name": "ANDRÉ FIGUEIREDO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/133439.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/acd3f691-8f79-46bf-81c1-cb62953d1025",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PDT",
+          "area_id": "area/ce",
           "legislative_period_id": "term/55"
         }
       ],
