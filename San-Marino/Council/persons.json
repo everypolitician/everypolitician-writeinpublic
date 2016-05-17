@@ -1,7 +1,7 @@
 {
-  "total": 60,
+  "total": 61,
   "page": 1,
-  "per_page": 60,
+  "per_page": 61,
   "has_more": false,
   "result": [
     {
@@ -140,6 +140,29 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "lista_pdcs_ns",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0886016d-34ef-4057-9b44-09f3b394508e",
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17021239_17000062_11CasaliAugusto.jpg",
+      "name": "Augusto Casali",
+      "sort_name": "Casali, Augusto",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17021239_17000062_11CasaliAugusto.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0886016d-34ef-4057-9b44-09f3b394508e",
+          "organization_id": "chamber/grand_and_general_council",
+          "role": "member",
+          "on_behalf_of_id": "partito_socialista",
           "legislative_period_id": "term/2012"
         }
       ],

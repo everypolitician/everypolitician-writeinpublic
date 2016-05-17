@@ -1,7 +1,7 @@
 {
-  "total": 663,
+  "total": 664,
   "page": 1,
-  "per_page": 663,
+  "per_page": 664,
   "has_more": false,
   "result": [
     {
@@ -3856,7 +3856,7 @@
           "person_id": "person/30f5b86d-c111-42e4-82de-4e54be66f56b",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+          "on_behalf_of_id": "misto_-_usei-idea",
           "area_id": "B",
           "start_date": "2015-11-30",
           "legislative_period_id": "term/17"
@@ -10124,7 +10124,7 @@
           "person_id": "person/29f700c3-f56d-40b7-9fcc-a70de18b5a30",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+          "on_behalf_of_id": "misto_-_usei-idea",
           "area_id": "XIX",
           "start_date": "2015-11-30",
           "legislative_period_id": "term/17"
@@ -15100,6 +15100,16 @@
           "role": "member",
           "on_behalf_of_id": "partito_democratico",
           "area_id": "III",
+          "end_date": "2016-05-11",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/9e6033d5-ee09-459a-9702-c9be8ef089f4",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "misto_-_non_iscritto_ad_alcuna_componente_politica",
+          "area_id": "III",
+          "start_date": "2016-05-11",
           "legislative_period_id": "term/17"
         }
       ]
@@ -18876,7 +18886,7 @@
           "person_id": "person/b8ab1864-d5fa-4a54-84d6-0f3349983789",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+          "on_behalf_of_id": "misto_-_usei-idea",
           "area_id": "XVI",
           "start_date": "2015-12-01",
           "legislative_period_id": "term/17"
@@ -20056,7 +20066,7 @@
           "person_id": "person/cf0143f4-a16d-4f8c-b799-3188b7197580",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+          "on_behalf_of_id": "misto_-_usei-idea",
           "area_id": "XV",
           "start_date": "2015-12-01",
           "legislative_period_id": "term/17"
@@ -21668,6 +21678,33 @@
       ]
     },
     {
+      "email": "SECCO_D@CAMERA.IT",
+      "gender": "male",
+      "id": "person/67f46d6a-a072-4f07-a3f2-7e0435f1dad1",
+      "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/961/original_d306961.jpg",
+      "name": "SECCO Dino",
+      "sort_name": "SECCO Dino",
+      "images": [
+        {
+          "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/961/original_d306961.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/67f46d6a-a072-4f07-a3f2-7e0435f1dad1",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+          "area_id": "VII",
+          "start_date": "2016-04-28",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "SEGONI_S@CAMERA.IT",
       "gender": "male",
       "id": "person/ae34ada4-9c1c-44e8-8cd5-0a9e450e92d0",
@@ -23011,7 +23048,7 @@
           "person_id": "person/ae62856d-da5c-408c-ab2a-e3951a42756f",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+          "on_behalf_of_id": "misto_-_usei-idea",
           "area_id": "XIX",
           "start_date": "2015-11-30",
           "legislative_period_id": "term/17"
