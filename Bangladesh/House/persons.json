@@ -1,7 +1,7 @@
 {
-  "total": 348,
+  "total": 351,
   "page": 1,
-  "per_page": 348,
+  "per_page": 351,
   "has_more": false,
   "result": [
     {
@@ -808,8 +808,8 @@
       "gender": "male",
       "id": "person/53d8f966-24f0-4ead-8abd-07ae9e39f8b3",
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10119.jpg",
-      "name": "Abul Hasnat Abdullah",
-      "sort_name": "Abul Hasnat Abdullah",
+      "name": "Abul Hasanat Abdullah",
+      "sort_name": "Abul Hasanat Abdullah",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/10119.jpg"
@@ -2902,31 +2902,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/66aee541-717b-4acc-84ce-b56dbb1b5d0e",
-      "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10286.jpg",
-      "name": "Jia Uddin Ahmed (Bablu)",
-      "sort_name": "Jia Uddin Ahmed (Bablu)",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/10286.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/66aee541-717b-4acc-84ce-b56dbb1b5d0e",
-          "organization_id": "chamber/jatiyo_sangshad",
-          "role": "member",
-          "on_behalf_of_id": "jatiya_party",
-          "area_id": "area/chittagong",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/77544d62-cd3b-49cf-9e77-b0851d195879",
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10310.jpg",
@@ -4001,6 +3976,30 @@
       ]
     },
     {
+      "id": "person/bd663467-f161-45d0-90ce-1a8904d2ad83",
+      "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2045.jpg",
+      "name": "Md. Abdul Wadud",
+      "sort_name": "Md. Abdul Wadud",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2045.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bd663467-f161-45d0-90ce-1a8904d2ad83",
+          "organization_id": "chamber/jatiyo_sangshad",
+          "role": "member",
+          "on_behalf_of_id": "bangladesh_awami_league",
+          "area_id": "area/chapai_nawabganj",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/67bf6f65-12c8-4034-954d-c4966f1baa76",
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2211.jpg",
@@ -4768,6 +4767,30 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/meherpur",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b980fcb1-43bc-40d9-b429-2d70f0bbc2e6",
+      "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2070.jpg",
+      "name": "Md. Mokbul Hossain",
+      "sort_name": "Md. Mokbul Hossain",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2070.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b980fcb1-43bc-40d9-b429-2d70f0bbc2e6",
+          "organization_id": "chamber/jatiyo_sangshad",
+          "role": "member",
+          "on_behalf_of_id": "bangladesh_awami_league",
+          "area_id": "area/pabna",
           "legislative_period_id": "term/10"
         }
       ],
@@ -6964,7 +6987,7 @@
           "person_id": "person/b50af8bf-a81d-42b0-b404-51ff0a7e9946",
           "organization_id": "chamber/jatiyo_sangshad",
           "role": "member",
-          "on_behalf_of_id": "bangladesh_awami_league",
+          "on_behalf_of_id": "independent",
           "area_id": "area/feni",
           "legislative_period_id": "term/10"
         }
@@ -8249,6 +8272,30 @@
       ]
     },
     {
+      "id": "person/927d38bf-06c9-4983-83d1-d7831f822551",
+      "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/237n.jpg",
+      "name": "Syeda Saira Mohsin",
+      "sort_name": "Syeda Saira Mohsin",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/237n.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/927d38bf-06c9-4983-83d1-d7831f822551",
+          "organization_id": "chamber/jatiyo_sangshad",
+          "role": "member",
+          "on_behalf_of_id": "bangladesh_awami_league",
+          "area_id": "area/maulvibazar",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/c24c1191-bf27-474d-8c76-9bf662884d1e",
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2212.jpg",
@@ -8489,7 +8536,7 @@
           "person_id": "person/f012efde-7c61-42e7-beab-da3a0df629b5",
           "organization_id": "chamber/jatiyo_sangshad",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "bangladesh_awami_league",
           "area_id": "area/seat",
           "legislative_period_id": "term/10"
         }
@@ -8666,6 +8713,31 @@
           "role": "member",
           "on_behalf_of_id": "bangladesh_awami_league",
           "area_id": "area/manikganj",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/66aee541-717b-4acc-84ce-b56dbb1b5d0e",
+      "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10286.jpg",
+      "name": "Ziauddin Ahmed (Bablu)",
+      "sort_name": "Ziauddin Ahmed (Bablu)",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/10286.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/66aee541-717b-4acc-84ce-b56dbb1b5d0e",
+          "organization_id": "chamber/jatiyo_sangshad",
+          "role": "member",
+          "on_behalf_of_id": "jatiya_party",
+          "area_id": "area/chittagong",
           "legislative_period_id": "term/10"
         }
       ],
