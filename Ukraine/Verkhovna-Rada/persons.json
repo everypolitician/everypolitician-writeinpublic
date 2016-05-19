@@ -1,7 +1,7 @@
 {
-  "total": 450,
+  "total": 451,
   "page": 1,
-  "per_page": 450,
+  "per_page": 451,
   "has_more": false,
   "result": [
     {
@@ -2011,6 +2011,32 @@
           "on_behalf_of_id": "2846",
           "area_id": "180",
           "start_date": "2015-06-17",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/31d81fe8-e327-4c8f-9089-33d183447e8e",
+      "image": "http://static.rada.gov.ua/dep_img8/bp80.jpg",
+      "name": "Білозір Оксана Володимирівна",
+      "sort_name": "Білозір Оксана Володимирівна",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp80.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/31d81fe8-e327-4c8f-9089-33d183447e8e",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2016-05-17",
           "legislative_period_id": "term/8"
         }
       ],
