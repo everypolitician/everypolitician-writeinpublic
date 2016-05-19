@@ -2675,6 +2675,31 @@
       ]
     },
     {
+      "email": "j.mbatia@bunge.go.tz",
+      "id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.95668100%201461156472.png",
+      "name": "Eng. James Fransis Mbatia",
+      "sort_name": "Eng. James Fransis Mbatia",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.95668100%201461156472.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "nccr-mageuzi",
+          "area_id": "area/vunjo",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "j.mwaka@bunge.go.tz",
       "id": "person/13f88464-111c-4465-b77d-e2d9d9c21b2a",
       "image": "http://parliament.go.tz/polis/uploads/members/0.43178800%201453698249.png",
@@ -3150,7 +3175,7 @@
           "person_id": "person/f7465047-a445-4ae8-91a2-0dffa5fd6e6a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ccm",
+          "on_behalf_of_id": "chadema",
           "area_id": "area/special_seats",
           "legislative_period_id": "term/5"
         }
@@ -3961,31 +3986,6 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "area/magomeni",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "j.mbatia@bunge.go.tz",
-      "id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.95668100%201461156472.png",
-      "name": "James Fransis Mbatia",
-      "sort_name": "James Fransis Mbatia",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.95668100%201461156472.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "nccr-mageuzi",
-          "area_id": "area/vunjo",
           "legislative_period_id": "term/5"
         }
       ],
