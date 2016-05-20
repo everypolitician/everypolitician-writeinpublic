@@ -1615,7 +1615,7 @@
     },
     {
       "email": "babulal.mp@sansad.nic.in",
-      "gender": "male",
+      "gender": "female",
       "id": "person/7d7f32e5-4d27-4c0e-8b55-fa247c3b2f60",
       "image": "http://164.100.47.132/mpimage/photo/4627.jpg",
       "name": "Chaudhary, Shri Babulal",
@@ -5709,6 +5709,7 @@
     },
     {
       "email": "vasanthi.m@sansad.nic.in",
+      "gender": "female",
       "id": "person/ad794b5a-0266-4098-9f31-dfa7540cd767",
       "image": "http://164.100.47.132/mpimage/photo/4839.jpg",
       "name": "M., Smt. Vasanthi",
@@ -6904,7 +6905,7 @@
     },
     {
       "email": "drpritammunde@gmail.com",
-      "gender": "female",
+      "gender": "male",
       "id": "person/1f7039f5-fa72-4e97-8704-a974cb3cc849",
       "image": "http://164.100.47.132/mpimage/photo/4928.jpg",
       "name": "Munde, Dr. Pritam Gopinath",
@@ -12183,6 +12184,18 @@
       "image": "http://164.100.47.132/mpimage/photo/4468.jpg",
       "name": "Sinha, Shri Shatrughan Prasad",
       "sort_name": "Sinha, Shri Shatrughan Prasad",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "shatrugansinha"
+        }
+      ],
+      "links": [
+        {
+          "url": "shatrugansinha",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/4468.jpg"
@@ -12197,9 +12210,6 @@
           "area_id": "area/patna_sahib",
           "legislative_period_id": "term/16"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
