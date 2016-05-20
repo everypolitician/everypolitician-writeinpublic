@@ -1,7 +1,7 @@
 {
-  "total": 466,
+  "total": 467,
   "page": 1,
-  "per_page": 466,
+  "per_page": 467,
   "has_more": false,
   "result": [
     {
@@ -850,6 +850,30 @@
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
           "area_id": "area/Город_Москва",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9741c45f-e80c-479a-bf46-fc463941d054",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "name": "Бережная Елена Викторовна",
+      "sort_name": "Бережная Елена Викторовна",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9741c45f-e80c-479a-bf46-fc463941d054",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Ставропольский_край",
           "legislative_period_id": "term/6"
         }
       ],
