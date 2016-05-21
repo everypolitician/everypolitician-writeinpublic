@@ -1,7 +1,7 @@
 {
-  "total": 252,
+  "total": 253,
   "page": 1,
-  "per_page": 252,
+  "per_page": 253,
   "has_more": false,
   "result": [
     {
@@ -2758,6 +2758,32 @@
       ]
     },
     {
+      "email": "ivan.stoynov@parliament.bg",
+      "id": "person/c601fb02-8444-4c5a-965a-51137e2094c5",
+      "image": "http://www.parliament.bg/images/Assembly/2636.png",
+      "name": "ИВАН ДИМИТРОВ СТОЙНОВ",
+      "sort_name": "ИВАН ДИМИТРОВ СТОЙНОВ",
+      "images": [
+        {
+          "url": "http://www.parliament.bg/images/Assembly/2636.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c601fb02-8444-4c5a-965a-51137e2094c5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "political_party_gerb",
+          "area_id": "26",
+          "start_date": "2016-05-18",
+          "legislative_period_id": "term/43"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ivan.stankov@parliament.bg",
       "gender": "male",
       "id": "person/dba2848a-ace8-4133-b672-039ca60627fd",
@@ -4130,6 +4156,15 @@
           "on_behalf_of_id": "abv",
           "area_id": "25",
           "start_date": "2015-09-28",
+          "legislative_period_id": "term/43"
+        },
+        {
+          "person_id": "person/838e9f5f-b63b-4d1c-acac-094797410249",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "abv",
+          "area_id": "25",
+          "start_date": "2016-05-20",
           "legislative_period_id": "term/43"
         }
       ],
