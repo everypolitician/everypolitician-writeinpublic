@@ -1,7 +1,7 @@
 {
-  "total": 466,
+  "total": 468,
   "page": 1,
-  "per_page": 466,
+  "per_page": 468,
   "has_more": false,
   "result": [
     {
@@ -479,7 +479,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
-          "area_id": "25-8",
+          "end_date": "2016-05-14",
           "legislative_period_id": "term/8"
         }
       ],
@@ -605,6 +605,26 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "22-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/aea23c5a-8726-4d81-aa65-6454482ec4f1",
+      "name": "Andrzej Melak",
+      "sort_name": "Andrzej Melak",
+      "memberships": [
+        {
+          "person_id": "person/aea23c5a-8726-4d81-aa65-6454482ec4f1",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "19-8",
+          "start_date": "2016-04-12",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1263,6 +1283,7 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "19-8",
+          "end_date": "2016-04-01",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1532,6 +1553,25 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "4-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/19095c11-2462-4beb-a392-a6fe26e0a87d",
+      "name": "Bartłomiej Stawiarski",
+      "sort_name": "Bartłomiej Stawiarski",
+      "memberships": [
+        {
+          "person_id": "person/19095c11-2462-4beb-a392-a6fe26e0a87d",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "21-8",
+          "start_date": "2016-03-30",
           "legislative_period_id": "term/8"
         }
       ],
@@ -3265,7 +3305,7 @@
           "person_id": "person/2af9126d-69fe-466e-8e0b-332f8042bec2",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "on_behalf_of_id": "koło_poselskie_wolni_i_solidarni",
           "area_id": "2-8",
           "legislative_period_id": "term/8"
         }
@@ -4595,6 +4635,7 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "21-8",
+          "end_date": "2016-03-18",
           "legislative_period_id": "term/8"
         }
       ],
@@ -5384,7 +5425,7 @@
           "person_id": "person/b4f1e3b7-1e67-48e3-bb69-01d76e5c9f0d",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "on_behalf_of_id": "koło_poselskie_wolni_i_solidarni",
           "area_id": "3-8",
           "legislative_period_id": "term/8"
         }
@@ -5810,8 +5851,14 @@
     {
       "gender": "male",
       "id": "person/d6386e94-ea18-4b84-86a9-8f70e857ec20",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Krzysztof_Paszyk_Sejm_2016.JPG",
       "name": "Krzysztof Paszyk",
       "sort_name": "Krzysztof Paszyk",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Krzysztof_Paszyk_Sejm_2016.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/d6386e94-ea18-4b84-86a9-8f70e857ec20",
@@ -7280,7 +7327,7 @@
           "person_id": "person/61db6b31-df78-4153-94c1-2e567e0ce024",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "on_behalf_of_id": "koło_poselskie_wolni_i_solidarni",
           "area_id": "26-8",
           "legislative_period_id": "term/8"
         }
@@ -8885,7 +8932,7 @@
           "person_id": "person/838e6019-c2ac-421d-b805-ef7ffada1725",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "on_behalf_of_id": "posłowie_niezrzeszeni",
           "area_id": "1-8",
           "legislative_period_id": "term/8"
         }
