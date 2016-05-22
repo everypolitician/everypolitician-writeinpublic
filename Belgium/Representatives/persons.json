@@ -23,6 +23,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -49,6 +50,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -75,6 +77,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -101,6 +104,7 @@
           "role": "member",
           "on_behalf_of_id": "parti_populaire",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -126,6 +130,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -153,6 +158,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -178,6 +184,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/waals-brabant",
+          "start_date": "2014-06-19",
           "end_date": "2014-07-22",
           "legislative_period_id": "term/54"
         }
@@ -205,6 +212,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -231,6 +239,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -257,6 +266,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -265,14 +275,15 @@
       ]
     },
     {
+      "email": "annemie.turtelboom@dekamer.be",
       "gender": "female",
       "id": "person/8eface70-0ebd-40c0-a4a6-a5989e5e7a20",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01102.gif",
       "name": "Annemie Turtelboom",
-      "sort_name": "Annemie Turtelboom",
+      "sort_name": "Turtelboom Annemie",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg"
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01102.gif"
         }
       ],
       "memberships": [
@@ -282,6 +293,17 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
+          "end_date": "2014-07-25",
+          "legislative_period_id": "term/54"
+        },
+        {
+          "person_id": "person/8eface70-0ebd-40c0-a4a6-a5989e5e7a20",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "open_vld",
+          "area_id": "area/antwerpen",
+          "start_date": "2016-04-29",
           "legislative_period_id": "term/54"
         }
       ],
@@ -308,6 +330,7 @@
           "role": "member",
           "on_behalf_of_id": "vlaams_belang",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -334,6 +357,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -360,6 +384,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -386,6 +411,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/namen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -412,6 +438,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -438,6 +465,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/luxemburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -464,6 +492,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/luxemburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -490,6 +519,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -516,6 +546,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -542,6 +573,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -568,6 +600,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -594,6 +627,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -619,6 +653,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/waals-brabant",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -646,6 +681,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -672,6 +708,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -697,6 +734,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "end_date": "2014-07-22",
           "legislative_period_id": "term/54"
         }
@@ -724,6 +762,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -749,6 +788,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -776,6 +816,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -802,6 +843,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -828,6 +870,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/namen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -854,6 +897,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -880,6 +924,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -905,6 +950,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -959,6 +1005,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -985,6 +1032,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1011,6 +1059,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1037,6 +1086,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1090,6 +1140,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1116,6 +1167,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/waals-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1142,6 +1194,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1168,6 +1221,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1194,6 +1248,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1220,6 +1275,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1246,6 +1302,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1272,6 +1329,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1298,6 +1356,7 @@
           "role": "member",
           "on_behalf_of_id": "vlaams_belang",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1324,6 +1383,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1351,6 +1411,7 @@
           "on_behalf_of_id": "open_vld",
           "area_id": "area/antwerpen",
           "start_date": "2014-07-25",
+          "end_date": "2016-04-29",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1377,6 +1438,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1403,6 +1465,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1441,6 +1504,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ]
@@ -1518,6 +1582,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/namen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1544,6 +1609,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1597,6 +1663,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1623,6 +1690,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1649,6 +1717,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/namen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1675,6 +1744,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1701,6 +1771,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1727,6 +1798,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1753,6 +1825,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1779,6 +1852,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1805,6 +1879,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/luxemburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1836,6 +1911,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -1860,6 +1936,7 @@
           "role": "member",
           "on_behalf_of_id": "vlaams_belang",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1886,6 +1963,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1912,6 +1990,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1938,6 +2017,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1964,6 +2044,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/namen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1990,6 +2071,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2016,6 +2098,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2069,6 +2152,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2095,6 +2179,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2121,6 +2206,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2147,6 +2233,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2173,6 +2260,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2199,6 +2287,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2252,6 +2341,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2277,6 +2367,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -2304,6 +2395,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2330,6 +2422,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2356,6 +2449,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2394,6 +2488,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ]
@@ -2417,6 +2512,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2443,6 +2539,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2469,6 +2566,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2522,6 +2620,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2547,6 +2646,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -2574,6 +2674,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/waals-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2600,6 +2701,7 @@
           "role": "member",
           "on_behalf_of_id": "ptb-go!",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2619,7 +2721,29 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/b7e9207b-9643-49cb-a0bd-da00363b31ba",
+      "name": "Marijke Dillen",
+      "sort_name": "Marijke Dillen",
+      "memberships": [
+        {
+          "person_id": "person/b7e9207b-9643-49cb-a0bd-da00363b31ba",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "vlaams_belang",
+          "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
+          "end_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2646,6 +2770,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2671,6 +2796,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "end_date": "2015-04-19",
           "legislative_period_id": "term/54"
         }
@@ -2698,6 +2824,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2724,6 +2851,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2777,6 +2905,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2803,6 +2932,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2829,6 +2959,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2855,6 +2986,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2881,6 +3013,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2907,6 +3040,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2933,6 +3067,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2959,6 +3094,7 @@
           "role": "member",
           "on_behalf_of_id": "fdf",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2985,6 +3121,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3011,6 +3148,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3037,6 +3175,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3063,6 +3202,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3089,6 +3229,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3115,6 +3256,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3141,6 +3283,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3167,6 +3310,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3193,6 +3337,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3219,6 +3364,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3245,6 +3391,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3270,6 +3417,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -3297,6 +3445,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3323,6 +3472,7 @@
           "role": "member",
           "on_behalf_of_id": "ptb-go!",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3403,6 +3553,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3429,6 +3580,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3455,6 +3607,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3481,6 +3634,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3507,6 +3661,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3560,6 +3715,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3586,6 +3742,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3624,6 +3781,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ]
@@ -3647,6 +3805,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3673,6 +3832,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3685,7 +3845,7 @@
       "gender": "female",
       "id": "person/d4333f8f-4f3b-40a4-92e4-92c091c08fdf",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6619.gif",
-      "name": "Sophie Wilmes",
+      "name": "Sophie Wilmès",
       "sort_name": "Wilmès Sophie",
       "images": [
         {
@@ -3700,25 +3860,6 @@
           "on_behalf_of_id": "mr",
           "area_id": "area/brussel-hoofdstad",
           "start_date": "2014-10-11",
-          "legislative_period_id": "term/54"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/63ad1f51-9e1d-485c-b89b-47a9a792501d",
-      "name": "Sophie Wilmès",
-      "sort_name": "Sophie Wilmès",
-      "memberships": [
-        {
-          "person_id": "person/63ad1f51-9e1d-485c-b89b-47a9a792501d",
-          "organization_id": "chamber/chamber_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "mr",
-          "area_id": "area/brussel-hoofdstad",
           "end_date": "2015-09-22",
           "legislative_period_id": "term/54"
         }
@@ -3746,6 +3887,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3772,6 +3914,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3791,6 +3934,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -3845,6 +3989,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/namen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3871,6 +4016,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/waals-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3897,6 +4043,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luxemburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3916,6 +4063,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "end_date": "2014-10-11",
           "legislative_period_id": "term/54"
         }
@@ -3943,6 +4091,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/vlaams-brabant",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3969,6 +4118,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3995,6 +4145,7 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4021,6 +4172,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4047,6 +4199,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4073,6 +4226,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/oost-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4126,6 +4280,7 @@
           "role": "member",
           "on_behalf_of_id": "open_vld",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4152,6 +4307,7 @@
           "role": "member",
           "on_behalf_of_id": "fdf",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4178,6 +4334,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4204,6 +4361,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luik",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4230,6 +4388,7 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/limburg",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4256,6 +4415,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/west-vlaanderen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4309,6 +4469,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4334,6 +4495,7 @@
           "role": "member",
           "on_behalf_of_id": "groen",
           "area_id": "area/brussel-hoofdstad",
+          "start_date": "2014-06-19",
           "end_date": "2015-05-28",
           "legislative_period_id": "term/54"
         }
@@ -4361,6 +4523,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4387,6 +4550,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/henegouwen",
+          "start_date": "2014-06-19",
           "legislative_period_id": "term/54"
         }
       ],
