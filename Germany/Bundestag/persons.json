@@ -8408,8 +8408,26 @@
     {
       "gender": "male",
       "id": "person/9cf58140-906d-4a79-a683-2aad95155cc1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Johannes_Kahrs_Dezember_2008.jpg",
       "name": "Johannes Kahrs",
       "sort_name": "Kahrs, Johannes!",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "kahrs"
+        }
+      ],
+      "links": [
+        {
+          "url": "johanneskahrs",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Johannes_Kahrs_Dezember_2008.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/9cf58140-906d-4a79-a683-2aad95155cc1",
@@ -8419,9 +8437,6 @@
           "area_id": "area/hamburg",
           "legislative_period_id": "term/18"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
