@@ -1,7 +1,7 @@
 {
-  "total": 297,
+  "total": 298,
   "page": 1,
-  "per_page": 297,
+  "per_page": 298,
   "has_more": false,
   "result": [
     {
@@ -2019,6 +2019,31 @@
       ]
     },
     {
+      "email": "victorygimpo@naver.com",
+      "id": "person/0eda1182-0f1c-430a-8bf7-dfe7de2369e4",
+      "image": "http://www.assembly.go.kr/photo/9770913.jpg",
+      "name": "Hong, Chul Ho",
+      "sort_name": "Hong, Chul Ho",
+      "images": [
+        {
+          "url": "http://www.assembly.go.kr/photo/9770913.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0eda1182-0f1c-430a-8bf7-dfe7de2369e4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "새누리당",
+          "area_id": "area/경기_김포시",
+          "legislative_period_id": "term/19"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "eqhwang543@naver.com",
       "id": "person/ec5aa62b-5659-47ff-aa46-31c68893ee96",
       "image": "http://www.assembly.go.kr/photo/9770900.jpg",
@@ -2662,7 +2687,7 @@
       ]
     },
     {
-      "email": "kangci@assembly.go.kr",
+      "email": "kang809@gmail.com",
       "id": "person/2181a096-6dd1-40ad-9b10-10c0168513c4",
       "image": "http://www.assembly.go.kr/photo/9770279.jpg",
       "name": "KANG Chang-il",
@@ -6060,7 +6085,7 @@
           "person_id": "person/e5ca0e84-6558-46dd-83b3-39b8803ca65c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "기독자유당",
+          "on_behalf_of_id": "무소속",
           "area_id": "area/전남_무안군신안군",
           "legislative_period_id": "term/19"
         }

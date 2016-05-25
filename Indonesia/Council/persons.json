@@ -2012,6 +2012,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/642712b8-5305-4bf0-8c1d-9d3d6c3ef7eb",
+      "image": "http://dpr.go.id/doksigota/photo/303_ACHMAD_BASARAH.jpg",
+      "name": "DRS. AHMAD BASARAH,MH",
+      "sort_name": "DRS. AHMAD BASARAH,MH",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/303_ACHMAD_BASARAH.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/642712b8-5305-4bf0-8c1d-9d3d6c3ef7eb",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
+          "area_id": "area/jawa_timur_v",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/45f0bc53-f13a-4ede-9345-d0f2f65c5571",
       "image": "http://dpr.go.id/doksigota/photo/1585.jpg",
       "name": "DRS. HAMKA BACO KADY, MS",
@@ -2028,31 +2053,6 @@
           "role": "member",
           "on_behalf_of_id": "golkar_party_faction",
           "area_id": "area/sulawesi_selatan_i",
-          "legislative_period_id": "term/18"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/642712b8-5305-4bf0-8c1d-9d3d6c3ef7eb",
-      "image": "http://dpr.go.id/doksigota/photo/303_ACHMAD_BASARAH.jpg",
-      "name": "DRS.ACHMAD BASARAH,MH",
-      "sort_name": "DRS.ACHMAD BASARAH,MH",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/303_ACHMAD_BASARAH.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/642712b8-5305-4bf0-8c1d-9d3d6c3ef7eb",
-          "organization_id": "chamber/dewan_perwakilan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
-          "area_id": "area/jawa_timur_v",
           "legislative_period_id": "term/18"
         }
       ],
