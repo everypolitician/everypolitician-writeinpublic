@@ -1,7 +1,7 @@
 {
-  "total": 129,
+  "total": 130,
   "page": 1,
-  "per_page": 129,
+  "per_page": 130,
   "has_more": false,
   "result": [
     {
@@ -286,6 +286,24 @@
           "role": "member",
           "on_behalf_of_id": "amal_movement",
           "area_id": "area/zahrani",
+          "legislative_period_id": "term/2009"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/79395b55-5890-423a-86e6-4b290609a44d",
+      "name": "Amal Abou Zeid",
+      "sort_name": "Amal Abou Zeid",
+      "memberships": [
+        {
+          "person_id": "person/79395b55-5890-423a-86e6-4b290609a44d",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "free_patriotic_movement",
+          "area_id": "area/jezzine",
           "legislative_period_id": "term/2009"
         }
       ],
