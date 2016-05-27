@@ -1,7 +1,7 @@
 {
-  "total": 301,
+  "total": 302,
   "page": 1,
-  "per_page": 301,
+  "per_page": 302,
   "has_more": false,
   "result": [
     {
@@ -2866,17 +2866,10 @@
       ]
     },
     {
-      "email": "v.katrivanou@parliament.gr",
       "gender": "female",
       "id": "person/6d8f3514-df25-4802-a8a9-382e65442a1d",
-      "image": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Katrivanouvas_1.jpg",
       "name": "Katrivanou Vasiliki",
       "sort_name": "Katrivanou Vasiliki",
-      "images": [
-        {
-          "url": "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Katrivanouvas_1.jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/6d8f3514-df25-4802-a8a9-382e65442a1d",
@@ -2884,6 +2877,7 @@
           "role": "member",
           "on_behalf_of_id": "syriza",
           "area_id": "area/athens_b",
+          "start_date": "2016-05-23",
           "legislative_period_id": "term/17"
         }
       ],
@@ -3937,6 +3931,25 @@
           "role": "member",
           "on_behalf_of_id": "nd",
           "area_id": "area/drama",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ca8b9813-8573-47fc-a609-dbf2f1e4f458",
+      "name": "Kyritsis Miltiadi Georgios",
+      "sort_name": "Kyritsis Miltiadi Georgios",
+      "memberships": [
+        {
+          "person_id": "person/ca8b9813-8573-47fc-a609-dbf2f1e4f458",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "syriza",
+          "area_id": "area/athens_b",
+          "start_date": "2016-05-25",
           "legislative_period_id": "term/17"
         }
       ],
@@ -7311,7 +7324,7 @@
           "person_id": "person/4645208f-8a90-4281-8cd9-af2ee44f6455",
           "organization_id": "chamber/hellenic_parliament",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "syriza",
           "area_id": "area/athens_a",
           "start_date": "2015-11-19",
           "legislative_period_id": "term/17"

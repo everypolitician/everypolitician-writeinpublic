@@ -5,25 +5,2362 @@
   "has_more": false,
   "result": [
     {
-      "email": "bassole@fasonet.bf",
-      "gender": "female",
-      "id": "person/a08ec5fc-63a7-4b86-9813-2d44b344e131",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_14.jpg",
-      "name": "Mme BASSOLE/KANDO ROSALIE",
-      "sort_name": "Mme BASSOLE/KANDO ROSALIE",
+      "id": "person/66f85a00-0521-4fd1-b503-7fe58d2fd4a8",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_260.jpg",
+      "name": "Dr DIALLO Salifou",
+      "sort_name": "Dr DIALLO Salifou",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_14.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_260.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a08ec5fc-63a7-4b86-9813-2d44b344e131",
+          "person_id": "person/66f85a00-0521-4fd1-b503-7fe58d2fd4a8",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3e172274-7377-4311-92f2-86707c955ddb",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_135.jpg",
+      "name": "M. AGALI Ag. Almaouna",
+      "sort_name": "M. AGALI Ag. Almaouna",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_135.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3e172274-7377-4311-92f2-86707c955ddb",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UBN",
+          "area_id": "area/oudalan",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/1e7c86aa-8281-4c69-b536-1db0641c5a4f",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_136.jpg",
+      "name": "M. AOUE Ataouegue Joël",
+      "sort_name": "M. AOUE Ataouegue Joël",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_136.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e7c86aa-8281-4c69-b536-1db0641c5a4f",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/nahouri",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/dcb74263-e6c3-4100-9dbd-da27f156ee23",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_138.jpg",
+      "name": "M. BA Saïdou",
+      "sort_name": "M. BA Saïdou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_138.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dcb74263-e6c3-4100-9dbd-da27f156ee23",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/ganzourgou",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f37f18fe-b0be-4290-9740-3b3e11e00699",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_139.jpg",
+      "name": "M. BACYE Zilma",
+      "sort_name": "M. BACYE Zilma",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_139.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f37f18fe-b0be-4290-9740-3b3e11e00699",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "NAFA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/bb2a18e6-aab0-43c3-bb84-de4843a75054",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_256.jpg",
+      "name": "M. BADIARA Michel",
+      "sort_name": "M. BADIARA Michel",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_256.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bb2a18e6-aab0-43c3-bb84-de4843a75054",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "PS",
+          "area_id": "area/houet",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b2934d8d-9279-4084-86f7-8a7c3206a684",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_140.jpg",
+      "name": "M. BADO Laurent",
+      "sort_name": "M. BADO Laurent",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_140.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b2934d8d-9279-4084-86f7-8a7c3206a684",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "PAREN",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/563a1e94-5b8b-45da-bc14-a6e602bcb1d4",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_141.jpg",
+      "name": "M. BAKYONO Bienvenue Ambroise",
+      "sort_name": "M. BAKYONO Bienvenue Ambroise",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_141.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/563a1e94-5b8b-45da-bc14-a6e602bcb1d4",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/sanguié",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e26fa0ee-7ce8-4631-bea0-bff61e9223ca",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_142.jpg",
+      "name": "M. BANGOU Yenignia",
+      "sort_name": "M. BANGOU Yenignia",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_142.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e26fa0ee-7ce8-4631-bea0-bff61e9223ca",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/gnagna",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2f4f902e-999c-4360-a54d-9152a2b135ff",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_259.jpg",
+      "name": "M. BARRY Boukary",
+      "sort_name": "M. BARRY Boukary",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_259.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2f4f902e-999c-4360-a54d-9152a2b135ff",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MDA",
+          "area_id": "area/loroum",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4d955ecb-38e8-4279-b58d-ef9275c78929",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_143.jpg",
+      "name": "M. BARRY Boureima",
+      "sort_name": "M. BARRY Boureima",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_143.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4d955ecb-38e8-4279-b58d-ef9275c78929",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/loroum",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/33f5daa7-05ee-4dd2-9706-937ea4dd490f",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_144.jpg",
+      "name": "M. BAZIE Anicet",
+      "sort_name": "M. BAZIE Anicet",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_144.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/33f5daa7-05ee-4dd2-9706-937ea4dd490f",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "NAFA",
+          "area_id": "area/sanguié",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8ca91a83-09cd-4302-8535-7e3c8d0154a6",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_146.jpg",
+      "name": "M. BONKOUNGOU Issa Anatole",
+      "sort_name": "M. BONKOUNGOU Issa Anatole",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_146.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8ca91a83-09cd-4302-8535-7e3c8d0154a6",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ODT",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/36bdceb7-6e70-4492-b7ab-4d730fa8ea3d",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_133.jpg",
+      "name": "M. BONZI Tini",
+      "sort_name": "M. BONZI Tini",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_133.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36bdceb7-6e70-4492-b7ab-4d730fa8ea3d",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/mouhoun",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c13f82d8-33d2-4675-bc48-f5f8af54b0ba",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_255.jpg",
+      "name": "M. BOUGOUMA Boureima",
+      "sort_name": "M. BOUGOUMA Boureima",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_255.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c13f82d8-33d2-4675-bc48-f5f8af54b0ba",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/08834fb1-c9d8-4d8d-9ea7-f4a28e39a602",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_147.jpg",
+      "name": "M. COMPAORE Gaoussou",
+      "sort_name": "M. COMPAORE Gaoussou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_147.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/08834fb1-c9d8-4d8d-9ea7-f4a28e39a602",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/bazega",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/cd2f2a62-95db-4961-bee6-6a0ad8612801",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_149.jpg",
+      "name": "M. CONGO Issaka",
+      "sort_name": "M. CONGO Issaka",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_149.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cd2f2a62-95db-4961-bee6-6a0ad8612801",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": "CDP",
-          "area_id": "area/sanguié",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/zoundweogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/877aad7b-b666-4c59-bd94-1398c80d6341",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_150.jpg",
+      "name": "M. COULIBALY Ladji",
+      "sort_name": "M. COULIBALY Ladji",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_150.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/877aad7b-b666-4c59-bd94-1398c80d6341",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/comoe",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c5ede285-6530-4102-a129-1e3829f67d1d",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_151.jpg",
+      "name": "M. COULIBALY Lomboza Narcisse",
+      "sort_name": "M. COULIBALY Lomboza Narcisse",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_151.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c5ede285-6530-4102-a129-1e3829f67d1d",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/banwa",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b3b78432-dae6-40ff-b685-779a101a08cd",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_152.jpg",
+      "name": "M. DALA Blaise",
+      "sort_name": "M. DALA Blaise",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_152.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b3b78432-dae6-40ff-b685-779a101a08cd",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/nahala",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c74cf48a-8905-41f1-b63b-1197be7afc62",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_153.jpg",
+      "name": "M. DIALLO Ahmed Aziz",
+      "sort_name": "M. DIALLO Ahmed Aziz",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_153.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c74cf48a-8905-41f1-b63b-1197be7afc62",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "METBA",
+          "area_id": "area/seno",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b71cf1d1-5a6a-49ab-a0d1-86d66607e4fd",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_154.jpg",
+      "name": "M. DIALLO Mamadou",
+      "sort_name": "M. DIALLO Mamadou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_154.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b71cf1d1-5a6a-49ab-a0d1-86d66607e4fd",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/sourou",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9900de5c-9d47-4458-8022-9a9c44cd81a2",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_155.jpg",
+      "name": "M. DIALLO Ousmane",
+      "sort_name": "M. DIALLO Ousmane",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_155.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9900de5c-9d47-4458-8022-9a9c44cd81a2",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/kourwéoogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b4a3225b-29ce-4265-9110-d0233551b452",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_156.jpg",
+      "name": "M. DICKO Hama Moussa",
+      "sort_name": "M. DICKO Hama Moussa",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_156.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b4a3225b-29ce-4265-9110-d0233551b452",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/seno",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/1724d7f4-9d90-41c4-8c56-bca72a567ab8",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_157.jpg",
+      "name": "M. DICKO Oumarou",
+      "sort_name": "M. DICKO Oumarou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_157.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1724d7f4-9d90-41c4-8c56-bca72a567ab8",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/soum",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/64883749-93ee-47ef-9a31-792fed88bb8f",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_158.jpg",
+      "name": "M. GNOUMOU Dissan Boureima",
+      "sort_name": "M. GNOUMOU Dissan Boureima",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_158.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/64883749-93ee-47ef-9a31-792fed88bb8f",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/tuy",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/aeb539f0-9038-4308-9da6-ac9cc6ad9a48",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_159.jpg",
+      "name": "M. GONDE Lansina",
+      "sort_name": "M. GONDE Lansina",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_159.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aeb539f0-9038-4308-9da6-ac9cc6ad9a48",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": " RDA",
+          "area_id": "area/houet",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f5320e8a-b982-4fbd-9963-2f766de76176",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_160.jpg",
+      "name": "M. IDANI Oumarou",
+      "sort_name": "M. IDANI Oumarou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_160.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f5320e8a-b982-4fbd-9963-2f766de76176",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/gourma",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/5da6a2ff-9fa8-42d7-b7dd-c19f94ee2fd3",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_162.jpg",
+      "name": "M. KABORE Tibila",
+      "sort_name": "M. KABORE Tibila",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_162.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5da6a2ff-9fa8-42d7-b7dd-c19f94ee2fd3",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/kouritenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8fc6da94-6486-4534-8f2d-867707d23a02",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_163.jpg",
+      "name": "M. KONATE Hervé",
+      "sort_name": "M. KONATE Hervé",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_163.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8fc6da94-6486-4534-8f2d-867707d23a02",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/kenedougou",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/351757a0-4309-42a6-8ccc-88c97b5f44b1",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_165.jpg",
+      "name": "M. KONE Maxime",
+      "sort_name": "M. KONE Maxime",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_165.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/351757a0-4309-42a6-8ccc-88c97b5f44b1",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/kossi",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/1d65e40e-cf31-4097-842d-916685e78340",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_166.jpg",
+      "name": "M. KORBEOGO/OUEDRAOGO Fatimata",
+      "sort_name": "M. KORBEOGO/OUEDRAOGO Fatimata",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_166.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1d65e40e-cf31-4097-842d-916685e78340",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/15ca575c-4552-4206-9a96-13c210bb5b07",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_167.jpg",
+      "name": "M. KOUAMA Koudwango Raphael",
+      "sort_name": "M. KOUAMA Koudwango Raphael",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_167.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/15ca575c-4552-4206-9a96-13c210bb5b07",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/kourwéoogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3ba428f1-250c-4488-a4d2-75e50a930673",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_168.jpg",
+      "name": "M. KOUBIZARA Henri",
+      "sort_name": "M. KOUBIZARA Henri",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_168.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3ba428f1-250c-4488-a4d2-75e50a930673",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/nahouri",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b4f5e1da-f42d-4b64-80b7-e26688820b38",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_169.jpg",
+      "name": "M. KOULDIATI Julien",
+      "sort_name": "M. KOULDIATI Julien",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_169.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b4f5e1da-f42d-4b64-80b7-e26688820b38",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/tapoa",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/752e896b-a7de-4e0d-9c8a-92c4c61b07c3",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_171.jpg",
+      "name": "M. LANKOANDE Larba Ousmane",
+      "sort_name": "M. LANKOANDE Larba Ousmane",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_171.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/752e896b-a7de-4e0d-9c8a-92c4c61b07c3",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "NTD",
+          "area_id": "area/gnagna",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2822614c-7455-4767-ba1a-8f97a856b2c2",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_173.jpg",
+      "name": "M. LY Bassirou Karmadji",
+      "sort_name": "M. LY Bassirou Karmadji",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_173.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2822614c-7455-4767-ba1a-8f97a856b2c2",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/yagha",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f527323d-4d1a-4557-9c95-a03c2f75ae75",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_170.jpg",
+      "name": "M. Lankoandé Emmanuel",
+      "sort_name": "M. Lankoandé Emmanuel",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_170.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f527323d-4d1a-4557-9c95-a03c2f75ae75",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "NTD",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6dac1243-33aa-42dc-a0cd-3982346aa207",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_174.jpg",
+      "name": "M. MOSSE Abdoulaye",
+      "sort_name": "M. MOSSE Abdoulaye",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_174.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6dac1243-33aa-42dc-a0cd-3982346aa207",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c8de98b4-d182-42c7-bd7e-bd452838d65c",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_175.jpg",
+      "name": "M. NABIE Nimayé",
+      "sort_name": "M. NABIE Nimayé",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_175.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c8de98b4-d182-42c7-bd7e-bd452838d65c",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/tuy",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b7f407ea-dd76-4543-848a-1b959a366a20",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_177.jpg",
+      "name": "M. NAMA Baoui",
+      "sort_name": "M. NAMA Baoui",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_177.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b7f407ea-dd76-4543-848a-1b959a366a20",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "Le Faso Autrement",
+          "area_id": "area/ziro",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4f71b2b3-8cba-427b-8954-7efed38e1fdb",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_178.jpg",
+      "name": "M. NOMBRE Kirigahon Alphonse",
+      "sort_name": "M. NOMBRE Kirigahon Alphonse",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_178.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4f71b2b3-8cba-427b-8954-7efed38e1fdb",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/boulgou",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f59a9f51-503b-4384-a41f-72ff352cee68",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_176.jpg",
+      "name": "M. Nacro Ousmane",
+      "sort_name": "M. Nacro Ousmane",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_176.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f59a9f51-503b-4384-a41f-72ff352cee68",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/sissili",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b6222623-0aec-4a32-b2f0-625f5596226f",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_179.jpg",
+      "name": "M. ODAGOU Goulla",
+      "sort_name": "M. ODAGOU Goulla",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_179.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b6222623-0aec-4a32-b2f0-625f5596226f",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/komandjari",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/551a0e28-ba21-405e-9a83-a7a046c71e15",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_180.jpg",
+      "name": "M. OUATTARA Kourbié Modibeauh",
+      "sort_name": "M. OUATTARA Kourbié Modibeauh",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_180.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/551a0e28-ba21-405e-9a83-a7a046c71e15",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/bougouriba",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/14a39576-dbe5-4d50-bda2-2fbb6d8b686c",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_181.jpg",
+      "name": "M. OUATTARA Lassina",
+      "sort_name": "M. OUATTARA Lassina",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_181.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/14a39576-dbe5-4d50-bda2-2fbb6d8b686c",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/leraba",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/cc679d87-7eeb-4e3d-ae56-42a787091430",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_183.jpg",
+      "name": "M. OUEDRAOGO Abdou Rasmané",
+      "sort_name": "M. OUEDRAOGO Abdou Rasmané",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_183.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cc679d87-7eeb-4e3d-ae56-42a787091430",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/houet",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0cf697fe-2447-4aaf-9118-f0191300f3c1",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_184.jpg",
+      "name": "M. OUEDRAOGO Bachir Ismaël",
+      "sort_name": "M. OUEDRAOGO Bachir Ismaël",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_184.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0cf697fe-2447-4aaf-9118-f0191300f3c1",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/sanmantenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3def65a7-7276-4c1f-8ed3-52b3e2312913",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_186.jpg",
+      "name": "M. OUEDRAOGO Boubacar",
+      "sort_name": "M. OUEDRAOGO Boubacar",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_186.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3def65a7-7276-4c1f-8ed3-52b3e2312913",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/yatenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8336520c-bcc9-484c-a446-ae297c2dabe8",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_185.jpg",
+      "name": "M. OUEDRAOGO Bébrigda Mathieu",
+      "sort_name": "M. OUEDRAOGO Bébrigda Mathieu",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_185.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8336520c-bcc9-484c-a446-ae297c2dabe8",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/passoré",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a68a6c5b-594f-4e67-9f0b-0d7035fb5e5e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_187.jpg",
+      "name": "M. OUEDRAOGO Jacob",
+      "sort_name": "M. OUEDRAOGO Jacob",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_187.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a68a6c5b-594f-4e67-9f0b-0d7035fb5e5e",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/yatenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/86145594-539b-462a-ad70-feac8f5b19be",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_189.jpg",
+      "name": "M. OUEDRAOGO Mathias",
+      "sort_name": "M. OUEDRAOGO Mathias",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_189.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/86145594-539b-462a-ad70-feac8f5b19be",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/sanmantenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c3929be9-aa5c-45ac-8299-f80a4e4ca296",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_190.jpg",
+      "name": "M. OUEDRAOGO Michel",
+      "sort_name": "M. OUEDRAOGO Michel",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_190.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c3929be9-aa5c-45ac-8299-f80a4e4ca296",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b9bbf1d6-e746-4ae4-a903-1472eead7dc1",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_191.jpg",
+      "name": "M. OUEDRAOGO Noufou",
+      "sort_name": "M. OUEDRAOGO Noufou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_191.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b9bbf1d6-e746-4ae4-a903-1472eead7dc1",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": " RDA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/37cc7b80-e0ee-4269-9c90-a7e6298ff6fd",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_192.jpg",
+      "name": "M. OUEDRAOGO Ousmane",
+      "sort_name": "M. OUEDRAOGO Ousmane",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_192.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/37cc7b80-e0ee-4269-9c90-a7e6298ff6fd",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/zondoma",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9d3bf435-d25c-4c48-bb10-086d8c2ec308",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_194.jpg",
+      "name": "M. OUEDRAOGO Sayouba",
+      "sort_name": "M. OUEDRAOGO Sayouba",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_194.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9d3bf435-d25c-4c48-bb10-086d8c2ec308",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/69fa3996-3c19-45f1-93d4-75c93bfb9efb",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_197.jpg",
+      "name": "M. OUOBA Bindi",
+      "sort_name": "M. OUOBA Bindi",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_197.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/69fa3996-3c19-45f1-93d4-75c93bfb9efb",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/tapoa",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0ce40d1c-d31b-4bcc-98df-c00fddd9417d",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_198.jpg",
+      "name": "M. OUSMANE Alpha",
+      "sort_name": "M. OUSMANE Alpha",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_198.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ce40d1c-d31b-4bcc-98df-c00fddd9417d",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/oudalan",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8f570a27-260a-4b26-a1b2-a678728412c9",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_199.jpg",
+      "name": "M. PALENFO Kadjo Jacques",
+      "sort_name": "M. PALENFO Kadjo Jacques",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_199.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8f570a27-260a-4b26-a1b2-a678728412c9",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/poni",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9035dd44-9da9-4f3e-b151-e00e4f3615ea",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_200.jpg",
+      "name": "M. POUBERE Salifou",
+      "sort_name": "M. POUBERE Salifou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_200.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9035dd44-9da9-4f3e-b151-e00e4f3615ea",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/kompienga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/131c0171-409d-45b4-a637-3b707329df87",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_203.jpg",
+      "name": "M. SAKANDE Alassane Bala",
+      "sort_name": "M. SAKANDE Alassane Bala",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_203.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/131c0171-409d-45b4-a637-3b707329df87",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ff862a8e-c689-4139-914b-f214c0635ea4",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_205.jpg",
+      "name": "M. SAMA Joseph",
+      "sort_name": "M. SAMA Joseph",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_205.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ff862a8e-c689-4139-914b-f214c0635ea4",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/mouhoun",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9082292f-8db4-42fa-bd38-76e29287491c",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_206.jpg",
+      "name": "M. SANDWIDI Kayaba",
+      "sort_name": "M. SANDWIDI Kayaba",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_206.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9082292f-8db4-42fa-bd38-76e29287491c",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/kouritenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3c4a91f9-2857-4d61-aeea-e5bf66603d21",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_210.jpg",
+      "name": "M. SANON Sangouan Léonce",
+      "sort_name": "M. SANON Sangouan Léonce",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_210.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3c4a91f9-2857-4d61-aeea-e5bf66603d21",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/houet",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/cc996262-659c-47aa-b4ef-c48aec47734a",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_211.jpg",
+      "name": "M. SANOU Alfred",
+      "sort_name": "M. SANOU Alfred",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_211.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cc996262-659c-47aa-b4ef-c48aec47734a",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/houet",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0ee70c3d-0a25-4e0f-87ff-7b1b57dead0e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_212.jpg",
+      "name": "M. SAVADOGO Lassané",
+      "sort_name": "M. SAVADOGO Lassané",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_212.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ee70c3d-0a25-4e0f-87ff-7b1b57dead0e",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/zondoma",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ceca2d25-0c9e-4f3c-8831-9ac87e184ea5",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_213.jpg",
+      "name": "M. SAVADOGO Paul Windinpsidi",
+      "sort_name": "M. SAVADOGO Paul Windinpsidi",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_213.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ceca2d25-0c9e-4f3c-8831-9ac87e184ea5",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/passoré",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/7e28a8a7-1d88-4779-a863-dd59b061b1bd",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_214.jpg",
+      "name": "M. SAWADOGO Blaise",
+      "sort_name": "M. SAWADOGO Blaise",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_214.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7e28a8a7-1d88-4779-a863-dd59b061b1bd",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/bam",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e8ce801a-8148-4a4f-8ce2-ee6ba4e6d668",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_215.jpg",
+      "name": "M. SAWADOGO Emmanuel Koti",
+      "sort_name": "M. SAWADOGO Emmanuel Koti",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_215.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e8ce801a-8148-4a4f-8ce2-ee6ba4e6d668",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/bam",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/dc9a454d-440c-4cc8-95d1-923f60c02fb5",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_217.jpg",
+      "name": "M. SAWADOGO Rasmané Daniel",
+      "sort_name": "M. SAWADOGO Rasmané Daniel",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_217.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dc9a454d-440c-4cc8-95d1-923f60c02fb5",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/sanmantenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/5d81b47d-0297-47bb-80bc-31c1c31c0e6e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_201.jpg",
+      "name": "M. SAWADOGO Salifou",
+      "sort_name": "M. SAWADOGO Salifou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_201.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5d81b47d-0297-47bb-80bc-31c1c31c0e6e",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/947f0e31-1778-4e2a-bd0a-4d9eaca9f560",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_218.jpg",
+      "name": "M. SAWADOGO Windyellé",
+      "sort_name": "M. SAWADOGO Windyellé",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_218.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/947f0e31-1778-4e2a-bd0a-4d9eaca9f560",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/yatenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a1449bbb-8638-4cda-8e37-6b31946af735",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_219.jpg",
+      "name": "M. SIB BEBE JUSTIN",
+      "sort_name": "M. SIB BEBE JUSTIN",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_219.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a1449bbb-8638-4cda-8e37-6b31946af735",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/poni",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9366ff48-0a64-4433-8c25-1bf4462fdd2e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_220.jpg",
+      "name": "M. SIMBORO Daouda",
+      "sort_name": "M. SIMBORO Daouda",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_220.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9366ff48-0a64-4433-8c25-1bf4462fdd2e",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/kossi",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/fb8db2b5-3e48-4823-bc75-be081543db05",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_221.jpg",
+      "name": "M. SIRIMA Bissiri",
+      "sort_name": "M. SIRIMA Bissiri",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_221.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fb8db2b5-3e48-4823-bc75-be081543db05",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/comoe",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3c68ce7b-76d1-4f44-bdee-8cf4c1aebd94",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_222.jpg",
+      "name": "M. SOME Norbert",
+      "sort_name": "M. SOME Norbert",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_222.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3c68ce7b-76d1-4f44-bdee-8cf4c1aebd94",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/noumbiel",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b3963475-50ce-49fa-b8c3-db1a276bac6c",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_224.jpg",
+      "name": "M. SOME Tougniné Anselme",
+      "sort_name": "M. SOME Tougniné Anselme",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_224.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b3963475-50ce-49fa-b8c3-db1a276bac6c",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/ioba",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0c9a862e-7884-41e0-9471-ee14b49a400e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_225.jpg",
+      "name": "M. SORGHO Dieudonné",
+      "sort_name": "M. SORGHO Dieudonné",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_225.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0c9a862e-7884-41e0-9471-ee14b49a400e",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/boulgou",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0c246bc1-2d63-423b-a7ea-db85b6b41e28",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_226.jpg",
+      "name": "M. TAMBOURA Ousséni",
+      "sort_name": "M. TAMBOURA Ousséni",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_226.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0c246bc1-2d63-423b-a7ea-db85b6b41e28",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/soum",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b87b98c7-01c9-42ea-88df-d67720240340",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_227.jpg",
+      "name": "M. TAONDYANDE Fréderic Benoît",
+      "sort_name": "M. TAONDYANDE Fréderic Benoît",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_227.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b87b98c7-01c9-42ea-88df-d67720240340",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/namentenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/83b636f0-392b-498a-92f4-b7fe8f396fb2",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_258.jpg",
+      "name": "M. TAPSOBA Alexandre Siguian Ousman",
+      "sort_name": "M. TAPSOBA Alexandre Siguian Ousman",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_258.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/83b636f0-392b-498a-92f4-b7fe8f396fb2",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/ganzourgou",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e5ef54b3-3621-472e-9e98-a40a8bfd38cb",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_228.jpg",
+      "name": "M. TAPSOBA Tibo Jean Paul",
+      "sort_name": "M. TAPSOBA Tibo Jean Paul",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_228.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e5ef54b3-3621-472e-9e98-a40a8bfd38cb",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f875cab9-c11f-42aa-bbfc-98e7ac6d7e8e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_229.jpg",
+      "name": "M. THIOMBIANO Dramane Ludovic Parfait",
+      "sort_name": "M. THIOMBIANO Dramane Ludovic Parfait",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_229.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f875cab9-c11f-42aa-bbfc-98e7ac6d7e8e",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/gourma",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/5e54f4a1-143f-4d57-8353-132c986d2b33",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_230.jpg",
+      "name": "M. TIEMTORE Salifo",
+      "sort_name": "M. TIEMTORE Salifo",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_230.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5e54f4a1-143f-4d57-8353-132c986d2b33",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/90d047c1-a25f-49e6-8190-be5b032d1d15",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_231.jpg",
+      "name": "M. TINDANO Moussa",
+      "sort_name": "M. TINDANO Moussa",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_231.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/90d047c1-a25f-49e6-8190-be5b032d1d15",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/gnagna",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6266ee8f-93ae-4848-b786-0adfd92a2d81",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_232.jpg",
+      "name": "M. TOE Goakûn Rossan Noël",
+      "sort_name": "M. TOE Goakûn Rossan Noël",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_232.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6266ee8f-93ae-4848-b786-0adfd92a2d81",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/nayala",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4391dff4-6576-4e12-b6a4-230a8105550c",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_233.jpg",
+      "name": "M. TRAORE Désiré",
+      "sort_name": "M. TRAORE Désiré",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_233.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4391dff4-6576-4e12-b6a4-230a8105550c",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "PS",
+          "area_id": "area/banwa",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c92f78e4-3317-4f1b-8f25-6d0e55330a67",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_235.jpg",
+      "name": "M. YAMEOGO Winmanagré Saïdou",
+      "sort_name": "M. YAMEOGO Winmanagré Saïdou",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_235.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c92f78e4-3317-4f1b-8f25-6d0e55330a67",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/namentenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/dc385166-bb80-4610-a444-e7f4a292d133",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_236.jpg",
+      "name": "M. YE Luc",
+      "sort_name": "M. YE Luc",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_236.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dc385166-bb80-4610-a444-e7f4a292d133",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/balé",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/7555cbd3-2180-49e6-97df-051f68ce5895",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_238.jpg",
+      "name": "M. ZAGRE Léonce",
+      "sort_name": "M. ZAGRE Léonce",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_238.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7555cbd3-2180-49e6-97df-051f68ce5895",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/01cef571-4b10-40fe-a78b-de813948ead5",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_239.jpg",
+      "name": "M. ZERBO Moussa",
+      "sort_name": "M. ZERBO Moussa",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_239.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/01cef571-4b10-40fe-a78b-de813948ead5",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ebaa4037-ee63-43dd-b8dd-b511f7ecd831",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_240.jpg",
+      "name": "M. ZOMBRE André",
+      "sort_name": "M. ZOMBRE André",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_240.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ebaa4037-ee63-43dd-b8dd-b511f7ecd831",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/koulpelgo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ed29ba92-7bc4-44c8-8765-83f3f30f1526",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_243.jpg",
+      "name": "M. ZOUNGRANA Marc",
+      "sort_name": "M. ZOUNGRANA Marc",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_243.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ed29ba92-7bc4-44c8-8765-83f3f30f1526",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/oubritenga",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4f45e9a0-61dc-4879-9eda-1aad76a35aa0",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_254.jpg",
+      "name": "M. ZOUNGRANA Yahaya",
+      "sort_name": "M. ZOUNGRANA Yahaya",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_254.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4f45e9a0-61dc-4879-9eda-1aad76a35aa0",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "area_id": "area/boulkiemde",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/032d46d6-fee6-4ca5-b3f9-5cdf31d98388",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_132.jpg",
+      "name": "Mme BONKOUNGOU/YAMEOGO Juliette",
+      "sort_name": "Mme BONKOUNGOU/YAMEOGO Juliette",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_132.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/032d46d6-fee6-4ca5-b3f9-5cdf31d98388",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "CDP",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -49,7 +2386,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/zoundweogo",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -57,25 +2394,24 @@
       ]
     },
     {
-      "email": "fatoudiak@yahoo.fr",
       "gender": "female",
-      "id": "person/fd588ad1-0cf4-4a1f-9062-86bce32f84b4",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_130.jpg",
-      "name": "Mme DIENDERE/DIALLO FATOUMATA",
-      "sort_name": "Mme DIENDERE/DIALLO FATOUMATA",
+      "id": "person/3770efe1-ee8f-463b-8657-5f457975fe34",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_257.jpg",
+      "name": "Mme FOFANA / YAMEOGO Assétou",
+      "sort_name": "Mme FOFANA / YAMEOGO Assétou",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_130.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_257.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fd588ad1-0cf4-4a1f-9062-86bce32f84b4",
+          "person_id": "person/3770efe1-ee8f-463b-8657-5f457975fe34",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/passoré",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/boulkiemde",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -83,25 +2419,24 @@
       ]
     },
     {
-      "email": "benjadom@yahoo.fr",
       "gender": "female",
-      "id": "person/e463f8d7-1c2e-4ffc-a650-97288d8d698b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_22.jpg",
-      "name": "Mme DOAMBA BENJAMINE",
-      "sort_name": "Mme DOAMBA BENJAMINE",
+      "id": "person/4ee092f9-0066-48ef-9a1b-c10333f1d4d6",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_161.jpg",
+      "name": "Mme ILBOUDO/MARCHAL Hélène Marie Laurence",
+      "sort_name": "Mme ILBOUDO/MARCHAL Hélène Marie Laurence",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_22.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_161.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e463f8d7-1c2e-4ffc-a650-97288d8d698b",
+          "person_id": "person/4ee092f9-0066-48ef-9a1b-c10333f1d4d6",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
+          "on_behalf_of_id": "MPP",
           "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -109,129 +2444,24 @@
       ]
     },
     {
-      "email": "ouedzen@yahoo.fr",
       "gender": "female",
-      "id": "person/d65bc056-6fe1-41ec-b2b5-2eaf2e455be8",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_31.jpg",
-      "name": "Mme DRABO/OUEDRAOGO ZENABOU",
-      "sort_name": "Mme DRABO/OUEDRAOGO ZENABOU",
+      "id": "person/fe3c5fb0-d99e-4db9-bbf7-c94b938e655e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_164.jpg",
+      "name": "Mme KONATE/OUATTARA Zignodo Dite Salamata",
+      "sort_name": "Mme KONATE/OUATTARA Zignodo Dite Salamata",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_31.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_164.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d65bc056-6fe1-41ec-b2b5-2eaf2e455be8",
+          "person_id": "person/fe3c5fb0-d99e-4db9-bbf7-c94b938e655e",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/sanmantenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "gguigma2000@yahoo.fr",
-      "gender": "female",
-      "id": "person/73808861-ee83-4325-a5dc-d30ee4538676",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_4.jpg",
-      "name": "Mme GUIGMA /DIASSO MARIAM MARIE GISÈLE",
-      "sort_name": "Mme GUIGMA /DIASSO MARIAM MARIE GISÈLE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_4.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/73808861-ee83-4325-a5dc-d30ee4538676",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/sissili",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dpefmena@yahoo.fr",
-      "gender": "female",
-      "id": "person/947ee7a3-4af3-406c-834e-788c51b6cb9f",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_23.jpg",
-      "name": "Mme GUIGMA/NASSA MARIE CLAIRE",
-      "sort_name": "Mme GUIGMA/NASSA MARIE CLAIRE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_23.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/947ee7a3-4af3-406c-834e-788c51b6cb9f",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/oubritenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "hienoumesta2@yahoo.fr",
-      "gender": "female",
-      "id": "person/7eac9276-158c-4a1f-ab35-f518a9410623",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_46.jpg",
-      "name": "Mme HIEN/KIENOU ASSATA",
-      "sort_name": "Mme HIEN/KIENOU ASSATA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_46.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7eac9276-158c-4a1f-ab35-f518a9410623",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kossi",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "rosezida@yahoo.fr",
-      "gender": "female",
-      "id": "person/eaa8901e-0e41-4147-8655-61478df99c34",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_45.jpg",
-      "name": "Mme ILBOUDO/ZIDA ROSE",
-      "sort_name": "Mme ILBOUDO/ZIDA ROSE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_45.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/eaa8901e-0e41-4147-8655-61478df99c34",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/kenedougou",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -240,205 +2470,23 @@
     },
     {
       "gender": "female",
-      "id": "person/8a3c65d3-9662-43e4-8887-5e56a11df53a",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_37.jpg",
-      "name": "Mme KADIDIATOU BOYE",
-      "sort_name": "Mme KADIDIATOU BOYE",
+      "id": "person/48008e29-1ab5-456e-9b85-706d02c95a1e",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_188.jpg",
+      "name": "Mme OUEDRAOGO Marie Rose Romée",
+      "sort_name": "Mme OUEDRAOGO Marie Rose Romée",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_37.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_188.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8a3c65d3-9662-43e4-8887-5e56a11df53a",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CFD-B",
-          "area_id": "area/oudalan",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "awamana@yahoo.fr",
-      "gender": "female",
-      "id": "person/1f851198-6579-45f1-b5b1-da1b84d1cf87",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_38.jpg",
-      "name": "Mme KOTE/MANA HAWA",
-      "sort_name": "Mme KOTE/MANA HAWA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_38.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1f851198-6579-45f1-b5b1-da1b84d1cf87",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/mouhoun",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ouillioza@yahoo.fr",
-      "gender": "female",
-      "id": "person/1d3188ae-46f3-4bed-aa73-c07db558027e",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_75.jpg",
-      "name": "Mme KOUMARE/OUILLIO ZALISSA",
-      "sort_name": "Mme KOUMARE/OUILLIO ZALISSA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_75.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1d3188ae-46f3-4bed-aa73-c07db558027e",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/loroum",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "adelekyem@yahoo.fr",
-      "gender": "female",
-      "id": "person/6c0414cb-364b-4f73-97da-3ee8ea7cfcf3",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_40.jpg",
-      "name": "Mme KYEMTORE/KAMBOU YERI ADELE",
-      "sort_name": "Mme KYEMTORE/KAMBOU YERI ADELE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_40.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6c0414cb-364b-4f73-97da-3ee8ea7cfcf3",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "oubdafranceline@yahoo.fr",
-      "gender": "female",
-      "id": "person/97b6995c-8c73-4deb-a112-43786c0b0508",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_44.jpg",
-      "name": "Mme NARE/OUBDA FRANCELINE",
-      "sort_name": "Mme NARE/OUBDA FRANCELINE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_44.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/97b6995c-8c73-4deb-a112-43786c0b0508",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kouritenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "alimatadah@yahoo.fr",
-      "gender": "female",
-      "id": "person/f3180c1c-8913-46ba-8504-ec31d6783b34",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_110.jpg",
-      "name": "Mme OUATTARA /DAH ALIMATA",
-      "sort_name": "Mme OUATTARA /DAH ALIMATA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_110.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f3180c1c-8913-46ba-8504-ec31d6783b34",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/noumbiel",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sitaouattara_os@yahoo.fr",
-      "gender": "female",
-      "id": "person/d79ad731-5d8b-4f1d-94bd-f0986eb1d5b3",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_103.jpg",
-      "name": "Mme OUATTARA SITA",
-      "sort_name": "Mme OUATTARA SITA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_103.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d79ad731-5d8b-4f1d-94bd-f0986eb1d5b3",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/houet",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "tofooued@yahoo.fr",
-      "gender": "female",
-      "id": "person/46c0dde5-3b3f-4921-becf-29d1ab869c12",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_61.jpg",
-      "name": "Mme OUEDRAOGO / ZARE MYRIAM",
-      "sort_name": "Mme OUEDRAOGO / ZARE MYRIAM",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_61.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/46c0dde5-3b3f-4921-becf-29d1ab869c12",
+          "person_id": "person/48008e29-1ab5-456e-9b85-706d02c95a1e",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": " RDA",
           "area_id": "area/yatenga",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -446,25 +2494,24 @@
       ]
     },
     {
-      "email": "caoue@hotmail.com",
       "gender": "female",
-      "id": "person/d41bcc8c-92da-4db1-8d26-90e3e61d700f",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_105.jpg",
-      "name": "Mme OUEDRAOGO CATHERINE",
-      "sort_name": "Mme OUEDRAOGO CATHERINE",
+      "id": "person/93b24ccf-5499-47fc-b720-a6f8b90cfe4f",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_195.jpg",
+      "name": "Mme OUEDRAOGO/SAWADOGO Maïmouna",
+      "sort_name": "Mme OUEDRAOGO/SAWADOGO Maïmouna",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_105.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_195.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d41bcc8c-92da-4db1-8d26-90e3e61d700f",
+          "person_id": "person/93b24ccf-5499-47fc-b720-a6f8b90cfe4f",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": "CDP",
-          "area_id": "area/zondoma",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/oubritenga",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -472,25 +2519,23 @@
       ]
     },
     {
-      "email": "assetab@fasonet.bf",
       "gender": "female",
-      "id": "person/52d289a0-815f-43b3-afe8-cdb0cfe84404",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_107.jpg",
-      "name": "Mme OUEDRAOGO/NEBIE MARIAM",
-      "sort_name": "Mme OUEDRAOGO/NEBIE MARIAM",
+      "id": "person/6fdbb577-6e1a-445a-9765-a3afe151b254",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_196.jpg",
+      "name": "Mme OUEDRAOGO/ZONGO Marie Isabelle",
+      "sort_name": "Mme OUEDRAOGO/ZONGO Marie Isabelle",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_107.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_196.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/52d289a0-815f-43b3-afe8-cdb0cfe84404",
+          "person_id": "person/6fdbb577-6e1a-445a-9765-a3afe151b254",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/bazega",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "MPP",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -498,25 +2543,24 @@
       ]
     },
     {
-      "email": "tamini_pascaline@yahoo.fr",
       "gender": "female",
-      "id": "person/baca94c9-de0f-4dac-8a2c-a978eceba0f3",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_92.jpg",
-      "name": "Mme TAMINI/BIHOUN B. PASCALINE",
-      "sort_name": "Mme TAMINI/BIHOUN B. PASCALINE",
+      "id": "person/4c7ba643-a5d4-4b61-8151-16f668ad8f6b",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_202.jpg",
+      "name": "Mme ROUAMBA Workya",
+      "sort_name": "Mme ROUAMBA Workya",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_92.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_202.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/baca94c9-de0f-4dac-8a2c-a978eceba0f3",
+          "person_id": "person/4c7ba643-a5d4-4b61-8151-16f668ad8f6b",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/tuy",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/boulkiemde",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -524,25 +2568,24 @@
       ]
     },
     {
-      "email": "assitavinama@yahoo.fr",
       "gender": "female",
-      "id": "person/a2cf5a4f-9a27-4793-990b-34a922329f1e",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_89.jpg",
-      "name": "Mme THIEMOUNOU ASSITA VINAMA",
-      "sort_name": "Mme THIEMOUNOU ASSITA VINAMA",
+      "id": "person/f3956e1a-a722-457c-b50a-6254160f5731",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_204.jpg",
+      "name": "Mme SAKANDE/BENAO Kaboubié Reine",
+      "sort_name": "Mme SAKANDE/BENAO Kaboubié Reine",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_89.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_204.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a2cf5a4f-9a27-4793-990b-34a922329f1e",
+          "person_id": "person/f3956e1a-a722-457c-b50a-6254160f5731",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/balé",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "MPP",
+          "area_id": "area/ziro",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -550,24 +2593,23 @@
       ]
     },
     {
-      "email": "trapauline@gmail.com",
       "gender": "female",
-      "id": "person/0e845840-c8b1-4a6e-a8b6-8120c6594797",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_85.jpg",
-      "name": "Mme TRAORE/NIGNAN/YAGO PAULINE",
-      "sort_name": "Mme TRAORE/NIGNAN/YAGO PAULINE",
+      "id": "person/e6ccd196-45df-4fe5-a8c6-fab6cb6d836d",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_216.jpg",
+      "name": "Mme SAWADOGO Honorine Winnégoundi",
+      "sort_name": "Mme SAWADOGO Honorine Winnégoundi",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_85.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_216.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0e845840-c8b1-4a6e-a8b6-8120c6594797",
+          "person_id": "person/e6ccd196-45df-4fe5-a8c6-fab6cb6d836d",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "PAREN",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -575,24 +2617,23 @@
       ]
     },
     {
-      "email": "djenganeami@yahoo.fr",
       "gender": "female",
-      "id": "person/f48df849-1a1c-462b-a923-c1ab59f2becd",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_80.jpg",
-      "name": "Mme WANDAOGO/DJENGANE AMINATA",
-      "sort_name": "Mme WANDAOGO/DJENGANE AMINATA",
+      "id": "person/9b06806a-06f0-4c47-8380-7a0399965c91",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_241.jpg",
+      "name": "Mme ZONGO/YANOGO Karidia",
+      "sort_name": "Mme ZONGO/YANOGO Karidia",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_80.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_241.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f48df849-1a1c-462b-a923-c1ab59f2becd",
+          "person_id": "person/9b06806a-06f0-4c47-8380-7a0399965c91",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": "UPC",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -600,25 +2641,24 @@
       ]
     },
     {
-      "email": "amadou.abdoulaye@assembleenationale.bf",
-      "gender": "male",
-      "id": "person/f202c64a-fd00-4c73-8467-3fccf94ec014",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_12.jpg",
-      "name": "Mr ABDOULAYE AMADOU",
-      "sort_name": "Mr ABDOULAYE AMADOU",
+      "gender": "female",
+      "id": "person/2977e9c5-76b4-4da6-b730-c7185055636c",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_242.jpg",
+      "name": "Mme ZOUMBARE/ZONGO Henriette",
+      "sort_name": "Mme ZOUMBARE/ZONGO Henriette",
       "images": [
         {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_12.jpg"
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_242.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f202c64a-fd00-4c73-8467-3fccf94ec014",
+          "person_id": "person/2977e9c5-76b4-4da6-b730-c7185055636c",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/yagha",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "UPC",
+          "area_id": "area/boulkiemde",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -644,85 +2684,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/koulpelgo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "badinibo@yahoo.fr",
-      "gender": "male",
-      "id": "person/db312dc3-79d2-430b-acb9-5bdb5e33bb26",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_30.jpg",
-      "name": "Mr BADINI BOUREIMA",
-      "sort_name": "Mr BADINI BOUREIMA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_30.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/db312dc3-79d2-430b-acb9-5bdb5e33bb26",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/yatenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "lallobamogo@yahoo.fr",
-      "gender": "male",
-      "id": "person/3022c57d-a38c-41cd-b76c-d90c299b49fe",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_10.jpg",
-      "name": "Mr BAMOGO LALLO HAMADO",
-      "sort_name": "Mr BAMOGO LALLO HAMADO",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_10.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3022c57d-a38c-41cd-b76c-d90c299b49fe",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/sanmantenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "salifbarro@yahoo.fr",
-      "gender": "male",
-      "id": "person/5013d768-2979-4f87-b6e2-2868ab46094f",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_33.jpg",
-      "name": "Mr BARRO SALIFOU",
-      "sort_name": "Mr BARRO SALIFOU",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_33.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5013d768-2979-4f87-b6e2-2868ab46094f",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "RDB",
-          "area_id": "area/comoe",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -746,241 +2708,9 @@
           "person_id": "person/ed4eaf52-f4a5-4513-bce9-1f883d675ee7",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "UPR",
-          "area_id": "area/tuy",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "hbassiere@yahoo.fr",
-      "gender": "male",
-      "id": "person/18a2eec2-2c25-49a1-bc5a-ed4c7caf1fc0",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_13.jpg",
-      "name": "Mr BASSIERE BATIO NESTOR",
-      "sort_name": "Mr BASSIERE BATIO NESTOR",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_13.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/18a2eec2-2c25-49a1-bc5a-ed4c7caf1fc0",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
           "on_behalf_of_id": "PS",
-          "area_id": "area/houet",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a7d37bfb-1382-4124-85ea-955437f5d8da",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_27.jpg",
-      "name": "Mr BASSONO JEAN",
-      "sort_name": "Mr BASSONO JEAN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_27.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a7d37bfb-1382-4124-85ea-955437f5d8da",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/sanguié",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "samp_burkina@yahoo.fr",
-      "gender": "male",
-      "id": "person/66d6413d-a9f2-439c-ae09-82e3d0d08af2",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_8.jpg",
-      "name": "Mr BAYIRE HAROUNA",
-      "sort_name": "Mr BAYIRE HAROUNA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_8.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/66d6413d-a9f2-439c-ae09-82e3d0d08af2",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CFD-B",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "faedb10@hotmail.com",
-      "gender": "male",
-      "id": "person/b899724f-89b6-4151-842c-5128f0ce1c41",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_15.jpg",
-      "name": "Mr BELEM SIDIKI",
-      "sort_name": "Mr BELEM SIDIKI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_15.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b899724f-89b6-4151-842c-5128f0ce1c41",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/yatenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "O_bembamba@yahoo.fr",
-      "gender": "male",
-      "id": "person/819a964f-6cc1-4602-bd04-848ba2a5b6f2",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_6.jpg",
-      "name": "Mr BEMBAMBA OUSMANE",
-      "sort_name": "Mr BEMBAMBA OUSMANE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_6.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/819a964f-6cc1-4602-bd04-848ba2a5b6f2",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sergebenao@yahoo.fr",
-      "gender": "male",
-      "id": "person/f30bf6ba-4e8e-45c3-b091-4038b5b57703",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_16.jpg",
-      "name": "Mr BENON MAMADOU",
-      "sort_name": "Mr BENON MAMADOU",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_16.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f30bf6ba-4e8e-45c3-b091-4038b5b57703",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPR",
-          "area_id": "area/ziro",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "christbouda@yahoo.fr",
-      "gender": "male",
-      "id": "person/e19c0f45-4c52-4004-8ee8-b9a9c0c13113",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_26.jpg",
-      "name": "Mr BOUDA CHRISTIAN GUSTAVE",
-      "sort_name": "Mr BOUDA CHRISTIAN GUSTAVE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_26.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e19c0f45-4c52-4004-8ee8-b9a9c0c13113",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/zoundweogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "nomayaoba53@yahoo.fr",
-      "gender": "male",
-      "id": "person/143da7bf-d822-4ecb-a451-8559379e0531",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_34.jpg",
-      "name": "Mr COMPAORE JEAN LEONARD",
-      "sort_name": "Mr COMPAORE JEAN LEONARD",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_34.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/143da7bf-d822-4ecb-a451-8559379e0531",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/oubritenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jcompaore2003@yahoo.fr",
-      "gender": "male",
-      "id": "person/809c8c31-d1a0-4bfd-bf85-1493432edea9",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_17.jpg",
-      "name": "Mr COMPAORE JEROME",
-      "sort_name": "Mr COMPAORE JEROME",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_17.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/809c8c31-d1a0-4bfd-bf85-1493432edea9",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/ganzourgou",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/yagha",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1006,111 +2736,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "coulidiati.innocent@yahoo.com",
-      "gender": "male",
-      "id": "person/cac9db39-ca2d-4278-8f66-7c85861b4f4b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_25.jpg",
-      "name": "Mr COULIDIATI INNOCENT",
-      "sort_name": "Mr COULIDIATI INNOCENT",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_25.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cac9db39-ca2d-4278-8f66-7c85861b4f4b",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/tapoa",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dabilgou@yahoo.fr",
-      "gender": "male",
-      "id": "person/90ae112b-d148-479f-8ed8-be3158c68814",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_18.jpg",
-      "name": "Mr DABILGOU VINCENT TIMBINDI",
-      "sort_name": "Mr DABILGOU VINCENT TIMBINDI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_18.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/90ae112b-d148-479f-8ed8-be3158c68814",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/gnagna",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dbonoudaba@yahoo.fr",
-      "gender": "male",
-      "id": "person/3d953856-d295-4581-9b29-e59694e68e33",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_35.jpg",
-      "name": "Mr DABIRE BONOUDABA",
-      "sort_name": "Mr DABIRE BONOUDABA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_35.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3d953856-d295-4581-9b29-e59694e68e33",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/ioba",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "nabadabire@yahoo.fr",
-      "gender": "male",
-      "id": "person/531fb3dc-136e-485b-af22-e1222d5814d1",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_54.jpg",
-      "name": "Mr DABIRE NABA",
-      "sort_name": "Mr DABIRE NABA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_54.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/531fb3dc-136e-485b-af22-e1222d5814d1",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/bougouriba",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1135,189 +2761,7 @@
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": "UPC",
-          "area_id": "area/bougouriba",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "jb.dala@yahoo.fr",
-      "gender": "male",
-      "id": "person/8c980340-bec0-46cb-8178-32b0396cf920",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_19.jpg",
-      "name": "Mr DALA JEAN BAPTISTE",
-      "sort_name": "Mr DALA JEAN BAPTISTE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_19.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8c980340-bec0-46cb-8178-32b0396cf920",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/nahala",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "adaf@fasonet.bf",
-      "gender": "male",
-      "id": "person/adb95d3e-b253-46f9-a322-2e281cff075e",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_2.jpg",
-      "name": "Mr DAYAMBA DAHANLI FRANÇOIS",
-      "sort_name": "Mr DAYAMBA DAHANLI FRANÇOIS",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_2.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/adb95d3e-b253-46f9-a322-2e281cff075e",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/gnagna",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dermesalam@gmail.com",
-      "gender": "male",
-      "id": "person/7688decb-15f7-4d41-af63-add51d4edd29",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_20.jpg",
-      "name": "Mr DERME SALAM",
-      "sort_name": "Mr DERME SALAM",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_20.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7688decb-15f7-4d41-af63-add51d4edd29",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "hmadiallo@gmail.com",
-      "gender": "male",
-      "id": "person/eecc837e-115d-4d4c-9542-687248289ce3",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_29.jpg",
-      "name": "Mr DIALLO HAMA ARBA",
-      "sort_name": "Mr DIALLO HAMA ARBA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_29.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/eecc837e-115d-4d4c-9542-687248289ce3",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "METBA",
-          "area_id": "area/seno",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dbarth13@hotmail.fr",
-      "gender": "male",
-      "id": "person/2c46218f-dea5-422c-8c1d-48fd4e195e65",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_21.jpg",
-      "name": "Mr DIARRA BARTHELEMY",
-      "sort_name": "Mr DIARRA BARTHELEMY",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_21.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2c46218f-dea5-422c-8c1d-48fd4e195e65",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kossi",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mdiasso@gmail.com",
-      "gender": "male",
-      "id": "person/f6a0acef-3226-4c6f-a243-626a57c61ad5",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_7.jpg",
-      "name": "Mr DIASSO MOHAMED MALAKILO",
-      "sort_name": "Mr DIASSO MOHAMED MALAKILO",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_7.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f6a0acef-3226-4c6f-a243-626a57c61ad5",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mdicko@univ-ouaga.com",
-      "gender": "male",
-      "id": "person/3845b901-c66c-4548-9735-58a9afd0b8f4",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_24.jpg",
-      "name": "Mr DICKO MAMOUDOU HAMA",
-      "sort_name": "Mr DICKO MAMOUDOU HAMA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_24.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3845b901-c66c-4548-9735-58a9afd0b8f4",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/seno",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1343,162 +2787,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/sissili",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "alex_migois@yahoo.fr",
-      "gender": "male",
-      "id": "person/8bcddbe4-3729-4395-ad73-608daf103276",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_74.jpg",
-      "name": "Mr KABORE ALEXIS",
-      "sort_name": "Mr KABORE ALEXIS",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_74.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8bcddbe4-3729-4395-ad73-608daf103276",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/ganzourgou",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a28a00ee-04c5-4009-8abb-69baddd68eec",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_72.jpg",
-      "name": "Mr KABORE PATE JEAN CLAUDE",
-      "sort_name": "Mr KABORE PATE JEAN CLAUDE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_72.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a28a00ee-04c5-4009-8abb-69baddd68eec",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/namentenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "fbkafando@yahoo.fr",
-      "gender": "male",
-      "id": "person/7ebf0478-132f-456b-adc4-b7a94440cadd",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_71.jpg",
-      "name": "Mr KAFANDO FELIX BRUNO",
-      "sort_name": "Mr KAFANDO FELIX BRUNO",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_71.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7ebf0478-132f-456b-adc4-b7a94440cadd",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPC",
-          "area_id": "area/ganzourgou",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "yelsomdeh@yahoo.fr",
-      "gender": "male",
-      "id": "person/ade7d57a-3036-4f72-af88-7c2fed40cb7c",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_42.jpg",
-      "name": "Mr KAGONE HAMADE",
-      "sort_name": "Mr KAGONE HAMADE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_42.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ade7d57a-3036-4f72-af88-7c2fed40cb7c",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/loroum",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kkapoune@yahoo.fr",
-      "gender": "male",
-      "id": "person/ed2d6d4b-2eff-4788-8948-5d3868d10d4d",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_70.jpg",
-      "name": "Mr KARFO KAPOUNE",
-      "sort_name": "Mr KARFO KAPOUNE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_70.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ed2d6d4b-2eff-4788-8948-5d3868d10d4d",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/nahouri",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "keitazenekro@yahoo.fr",
-      "gender": "male",
-      "id": "person/ca309bd5-f80b-4554-9130-351a855f82af",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_69.jpg",
-      "name": "Mr KEITA ADAMA",
-      "sort_name": "Mr KEITA ADAMA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_69.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ca309bd5-f80b-4554-9130-351a855f82af",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/nayala",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1522,138 +2811,9 @@
           "person_id": "person/ecbc1ce7-afaf-47fd-8733-b1bebbe71fe5",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "unknown",
+          "on_behalf_of_id": "UPC",
           "area_id": "area/bazega",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "eddiekomboigo@yahoo.fr",
-      "gender": "male",
-      "id": "person/cbe0a816-2f5a-4e58-ac3a-73f0f14be807",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_53.jpg",
-      "name": "Mr KOMBOIGO WEND-VENNEM EDDIE CONSTANCE HYACINTHE",
-      "sort_name": "Mr KOMBOIGO WEND-VENNEM EDDIE CONSTANCE HYACINTHE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_53.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cbe0a816-2f5a-4e58-ac3a-73f0f14be807",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/passoré",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "himakone@yahoo.fr",
-      "gender": "male",
-      "id": "person/493ace5e-3d8f-4999-b58e-65fcd5b52bad",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_41.jpg",
-      "name": "Mr KONE IBRAHIMA",
-      "sort_name": "Mr KONE IBRAHIMA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_41.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/493ace5e-3d8f-4999-b58e-65fcd5b52bad",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "METBA",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "leoncekone@hotmail.fr",
-      "gender": "male",
-      "id": "person/9e97ae7b-3c2d-465d-bc73-79861ef31cb7",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_52.jpg",
-      "name": "Mr KONE LEONCE SIMEON MARTIN",
-      "sort_name": "Mr KONE LEONCE SIMEON MARTIN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_52.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9e97ae7b-3c2d-465d-bc73-79861ef31cb7",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/comoe",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "bayokoussoube@yahoo.fr",
-      "gender": "male",
-      "id": "person/339b6f93-4d82-43cc-a087-569665e222bf",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_51.jpg",
-      "name": "Mr KOUSSOUBE BOYO JEAN CELESTIN",
-      "sort_name": "Mr KOUSSOUBE BOYO JEAN CELESTIN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_51.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/339b6f93-4d82-43cc-a087-569665e222bf",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/houet",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "folgaildevert@yahoo.fr",
-      "gender": "male",
-      "id": "person/f13bfab8-5433-4144-920f-1ecb31dbee3c",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_47.jpg",
-      "name": "Mr LANKOANDE FOLGA ILDEVERT",
-      "sort_name": "Mr LANKOANDE FOLGA ILDEVERT",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_47.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f13bfab8-5433-4144-920f-1ecb31dbee3c",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/gnagna",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1676,162 +2836,9 @@
           "person_id": "person/13cab322-9f36-418c-96c4-2768a7679872",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": "CNPB",
+          "on_behalf_of_id": "MPP",
           "area_id": "area/komandjari",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "issiabm@yahoo.fr",
-      "gender": "male",
-      "id": "person/97ae5183-07f9-4c3f-b746-4e8b1cbdfd9a",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_49.jpg",
-      "name": "Mr MAIGA ISSIAKA BOUKARI",
-      "sort_name": "Mr MAIGA ISSIAKA BOUKARI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_49.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/97ae5183-07f9-4c3f-b746-4e8b1cbdfd9a",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/oudalan",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "heera@fasonet.bf",
-      "gender": "male",
-      "id": "person/9cbc8786-34e7-4fcc-9bdc-f5e2a993c88b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_43.jpg",
-      "name": "Mr NABOHO KANIDOUA",
-      "sort_name": "Mr NABOHO KANIDOUA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_43.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9cbc8786-34e7-4fcc-9bdc-f5e2a993c88b",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ebb8207c-276f-42af-9286-164d32e6e884",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_39.jpg",
-      "name": "Mr NANA AMADO MICHEL",
-      "sort_name": "Mr NANA AMADO MICHEL",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_39.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ebb8207c-276f-42af-9286-164d32e6e884",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/boulkiemde",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "nikiemade@gmail.com",
-      "gender": "male",
-      "id": "person/7d243f69-a7a9-407b-b18d-53e425d6ac47",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_48.jpg",
-      "name": "Mr NIKIEMA DENIS",
-      "sort_name": "Mr NIKIEMA DENIS",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_48.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7d243f69-a7a9-407b-b18d-53e425d6ac47",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPC",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "onadjakanfido@yahoo.fr",
-      "gender": "male",
-      "id": "person/6e5cda67-70fd-49b8-88c1-825183d5b981",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_55.jpg",
-      "name": "Mr ONADJA KANFIDO",
-      "sort_name": "Mr ONADJA KANFIDO",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_55.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6e5cda67-70fd-49b8-88c1-825183d5b981",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kompienga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "nimevert@yahoo.fr",
-      "gender": "male",
-      "id": "person/c70c8bae-810d-4455-8ae4-25a15ef33da2",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_56.jpg",
-      "name": "Mr OUALI MIHYEMBA LOUIS ARMAND",
-      "sort_name": "Mr OUALI MIHYEMBA LOUIS ARMAND",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_56.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c70c8bae-810d-4455-8ae4-25a15ef33da2",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPC",
-          "area_id": "area/poni",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1857,239 +2864,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/leraba",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "president@assembleenationale.bf",
-      "gender": "male",
-      "id": "person/9a1019a2-691c-4d00-9393-47f63432d151",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_58.jpg",
-      "name": "Mr OUATTARA SOUNGALO APPOLINAIRE",
-      "sort_name": "Mr OUATTARA SOUNGALO APPOLINAIRE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_58.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9a1019a2-691c-4d00-9393-47f63432d151",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/houet",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "korsere21@yahoo.fr",
-      "gender": "male",
-      "id": "person/46b9d4f0-adf1-42f3-8453-43dc125cd8d8",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_67.jpg",
-      "name": "Mr OUEDRAOGO / SERE KORTIMI",
-      "sort_name": "Mr OUEDRAOGO / SERE KORTIMI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_67.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/46b9d4f0-adf1-42f3-8453-43dc125cd8d8",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPR",
-          "area_id": "area/mouhoun",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "aouedraogo@bluewin.ch",
-      "gender": "male",
-      "id": "person/9f8046fc-cfb8-4275-bf13-8a8fe46ed511",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_59.jpg",
-      "name": "Mr OUEDRAOGO ABLASSE",
-      "sort_name": "Mr OUEDRAOGO ABLASSE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_59.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9f8046fc-cfb8-4275-bf13-8a8fe46ed511",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "Le Faso Autrement",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/538ded51-05eb-477d-8a6c-22ba0add6612",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_109.jpg",
-      "name": "Mr OUEDRAOGO AMADOU",
-      "sort_name": "Mr OUEDRAOGO AMADOU",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_109.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/538ded51-05eb-477d-8a6c-22ba0add6612",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/zondoma",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ouedraogoboureima325@yahoo.fr",
-      "gender": "male",
-      "id": "person/32cf342f-cae7-45eb-be1d-b21d2565165b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_104.jpg",
-      "name": "Mr OUEDRAOGO BOUREIMA",
-      "sort_name": "Mr OUEDRAOGO BOUREIMA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_104.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/32cf342f-cae7-45eb-be1d-b21d2565165b",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/soum",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "guetabamba@hotmail.com",
-      "gender": "male",
-      "id": "person/a9e7e41c-e839-40f8-a8a0-956e3f5d270c",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_63.jpg",
-      "name": "Mr OUEDRAOGO EMILE",
-      "sort_name": "Mr OUEDRAOGO EMILE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_63.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a9e7e41c-e839-40f8-a8a0-956e3f5d270c",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kourweogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "wedranoe@gmail.com",
-      "gender": "male",
-      "id": "person/7b8f6b7b-eb79-4e89-bf0e-c007d991f0b5",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_62.jpg",
-      "name": "Mr OUEDRAOGO GILBERT NOËL",
-      "sort_name": "Mr OUEDRAOGO GILBERT NOËL",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_62.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7b8f6b7b-eb79-4e89-bf0e-c007d991f0b5",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "zitenganaaba@yahoo.fr",
-      "gender": "male",
-      "id": "person/83e84bf6-1e89-4e6c-b7ed-6a50903011a7",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_108.jpg",
-      "name": "Mr OUEDRAOGO NABONSWENDE",
-      "sort_name": "Mr OUEDRAOGO NABONSWENDE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_108.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/83e84bf6-1e89-4e6c-b7ed-6a50903011a7",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/bam",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "r_ouedr@yahoo.fr",
-      "gender": "male",
-      "id": "person/bae83f99-f8d2-4821-ac1d-f32d478ae341",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_64.jpg",
-      "name": "Mr OUEDRAOGO RASMANE",
-      "sort_name": "Mr OUEDRAOGO RASMANE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_64.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bae83f99-f8d2-4821-ac1d-f32d478ae341",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/sanmantenga",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2114,84 +2889,7 @@
           "role": "member",
           "on_behalf_of_id": "RDS",
           "area_id": "area/sanmantenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ychristoud@yahoo.fr",
-      "gender": "male",
-      "id": "person/ccc55282-5f57-4045-bd37-24cda3ff1eab",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_60.jpg",
-      "name": "Mr OUEDRAOGO YINSBILA CHRISTOPHE",
-      "sort_name": "Mr OUEDRAOGO YINSBILA CHRISTOPHE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_60.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ccc55282-5f57-4045-bd37-24cda3ff1eab",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/boulkiemde",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "bouoba@gmail.com",
-      "gender": "male",
-      "id": "person/b33df37e-f903-4a89-b942-017e6bd5e9df",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_66.jpg",
-      "name": "Mr OUOBA BENOIT BENDI",
-      "sort_name": "Mr OUOBA BENOIT BENDI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_66.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b33df37e-f903-4a89-b942-017e6bd5e9df",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/tapoa",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "olloanicet@hotmail.com",
-      "gender": "male",
-      "id": "person/2aeceebe-c649-4260-8f1e-96155b5029d0",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_111.jpg",
-      "name": "Mr POODA OLLO ANICET",
-      "sort_name": "Mr POODA OLLO ANICET",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_111.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2aeceebe-c649-4260-8f1e-96155b5029d0",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2215,35 +2913,9 @@
           "person_id": "person/e131b968-f364-4f2c-aebf-02420755d700",
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
-          "on_behalf_of_id": " RDA",
+          "on_behalf_of_id": "UPC",
           "area_id": "area/kompienga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "palguimsamb@yahoo.fr",
-      "gender": "male",
-      "id": "person/5fd67c57-cb0b-4315-a2a5-7d828341049b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_112.jpg",
-      "name": "Mr SAMBARE PALGUIM",
-      "sort_name": "Mr SAMBARE PALGUIM",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_112.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5fd67c57-cb0b-4315-a2a5-7d828341049b",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CFD-B",
-          "area_id": "area/boulgou",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2269,7 +2941,7 @@
           "role": "member",
           "on_behalf_of_id": "PS",
           "area_id": "area/passoré",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2294,7 +2966,7 @@
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": "PS",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2319,60 +2991,7 @@
           "organization_id": "chamber/assemblée_nationale",
           "role": "member",
           "on_behalf_of_id": "PS",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sannouboubacar@yahoo.fr",
-      "gender": "male",
-      "id": "person/40931e91-23c6-460c-b1dd-50309b874a30",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_117.jpg",
-      "name": "Mr SANNOU BOUBACAR",
-      "sort_name": "Mr SANNOU BOUBACAR",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_117.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/40931e91-23c6-460c-b1dd-50309b874a30",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/banwa",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "drisanogo@yahoo.fr",
-      "gender": "male",
-      "id": "person/250ae274-2182-4be8-95ea-231505c36490",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_115.jpg",
-      "name": "Mr SANOGO DRISSA",
-      "sort_name": "Mr SANOGO DRISSA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_115.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/250ae274-2182-4be8-95ea-231505c36490",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/kenedougou",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2398,136 +3017,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/houet",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "yacoubasav@yahoo.fr",
-      "gender": "male",
-      "id": "person/da7bb30d-af4f-4357-a74a-80dd4e5b3586",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_118.jpg",
-      "name": "Mr SAVADOGO YACOUBA",
-      "sort_name": "Mr SAVADOGO YACOUBA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_118.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/da7bb30d-af4f-4357-a74a-80dd4e5b3586",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dieudofran@yahoo.fr",
-      "gender": "male",
-      "id": "person/df9ed457-0771-4f6f-b636-5cdc8b136346",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_126.jpg",
-      "name": "Mr SAWADOGO DIEUDONNE",
-      "sort_name": "Mr SAWADOGO DIEUDONNE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_126.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/df9ed457-0771-4f6f-b636-5cdc8b136346",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "ODT",
-          "area_id": "area/bam",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "winninolasawadogo@yahoo.com",
-      "gender": "male",
-      "id": "person/efb72ac7-7057-4192-a591-dadb67b1911b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_119.jpg",
-      "name": "Mr SAWADOGO ZAMBENDE THEODORE",
-      "sort_name": "Mr SAWADOGO ZAMBENDE THEODORE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_119.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/efb72ac7-7057-4192-a591-dadb67b1911b",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/namentenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sedogo@alumni.itc.nl",
-      "gender": "male",
-      "id": "person/f958ec20-2a6d-401c-8082-d5474c3001b3",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_121.jpg",
-      "name": "Mr SEDOGO LAURENT GOUINDE",
-      "sort_name": "Mr SEDOGO LAURENT GOUINDE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_121.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f958ec20-2a6d-401c-8082-d5474c3001b3",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "segbilge@yahoo.fr",
-      "gender": "male",
-      "id": "person/e792fb50-f58f-45ba-bdd9-2fccebee8812",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_120.jpg",
-      "name": "Mr SEGDA BILA GERARD",
-      "sort_name": "Mr SEGDA BILA GERARD",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_120.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e792fb50-f58f-45ba-bdd9-2fccebee8812",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/koulpelgo",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2553,7 +3043,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/ioba",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2579,33 +3069,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/noumbiel",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sorghov@yahoo.fr",
-      "gender": "male",
-      "id": "person/4bad86e8-692d-4de4-9e90-2d623bbab14d",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_122.jpg",
-      "name": "Mr SORGHO TARBALA VICTOR",
-      "sort_name": "Mr SORGHO TARBALA VICTOR",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_122.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4bad86e8-692d-4de4-9e90-2d623bbab14d",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/boulgou",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2631,288 +3095,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/sourou",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Congokoudnaga@yahoo.fr",
-      "gender": "male",
-      "id": "person/3d88b402-cc8b-46f9-8ca7-b0122e1d7a75",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_129.jpg",
-      "name": "Mr SOURWEMA NOEL",
-      "sort_name": "Mr SOURWEMA NOEL",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_129.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3d88b402-cc8b-46f9-8ca7-b0122e1d7a75",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "thamadoum@yahoo.fr",
-      "gender": "male",
-      "id": "person/be2cfe53-7491-4ca2-8614-f71bdedf4c94",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_83.jpg",
-      "name": "Mr TAMBOURA HAMADOUM",
-      "sort_name": "Mr TAMBOURA HAMADOUM",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_83.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/be2cfe53-7491-4ca2-8614-f71bdedf4c94",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/soum",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "tachimajo@yahoo.fr",
-      "gender": "male",
-      "id": "person/5ab900e2-83fb-4e5f-949b-73c54cfcb767",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_93.jpg",
-      "name": "Mr TAPSOBA ACHILLE MARIE JOSEPH",
-      "sort_name": "Mr TAPSOBA ACHILLE MARIE JOSEPH",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_93.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5ab900e2-83fb-4e5f-949b-73c54cfcb767",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "benjamintarbagdo@yahoo.fr",
-      "gender": "male",
-      "id": "person/16d953a9-b572-4264-b7b4-cb0a6f45fda8",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_82.jpg",
-      "name": "Mr TARBAGDO BENJAMIN",
-      "sort_name": "Mr TARBAGDO BENJAMIN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_82.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/16d953a9-b572-4264-b7b4-cb0a6f45fda8",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPC",
-          "area_id": "area/kourwéoogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/34101b6c-74ed-4b6d-a93c-8411077d8e7a",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_95.jpg",
-      "name": "Mr THIOMBIANO ADIOUMA IDRISSA",
-      "sort_name": "Mr THIOMBIANO ADIOUMA IDRISSA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_95.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/34101b6c-74ed-4b6d-a93c-8411077d8e7a",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/gourma",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "michthiomb@yahoo.fr",
-      "gender": "male",
-      "id": "person/6f6670ec-9fd2-4995-9207-5f2ecc9440e1",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_94.jpg",
-      "name": "Mr THIOMBIANO MICHEL",
-      "sort_name": "Mr THIOMBIANO MICHEL",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_94.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6f6670ec-9fd2-4995-9207-5f2ecc9440e1",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/gourma",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "zachtiem@yahoo.fr",
-      "gender": "male",
-      "id": "person/d9f9222c-6cf3-44ee-9029-f8f80007c533",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_91.jpg",
-      "name": "Mr TIEMTORE W. ZACHARIA",
-      "sort_name": "Mr TIEMTORE W. ZACHARIA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_91.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d9f9222c-6cf3-44ee-9029-f8f80007c533",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "larlenaba@yahoo.fr",
-      "gender": "male",
-      "id": "person/a5f61e57-a059-4ea1-b14b-d07793827219",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_84.jpg",
-      "name": "Mr TIENDREBEOGO VICTOR",
-      "sort_name": "Mr TIENDREBEOGO VICTOR",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_84.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a5f61e57-a059-4ea1-b14b-d07793827219",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kadiogo",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "adamatraore@hotmail.com",
-      "gender": "male",
-      "id": "person/8e5cc51b-b58d-49c6-86c7-d16690b78b62",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_76.jpg",
-      "name": "Mr TRAORE ADAMA",
-      "sort_name": "Mr TRAORE ADAMA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_76.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8e5cc51b-b58d-49c6-86c7-d16690b78b62",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/yatenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "amadoum_traore@yahoo.fr",
-      "gender": "male",
-      "id": "person/1ea8f2e5-3369-4b9d-8d99-f1bde99aa6e5",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_96.jpg",
-      "name": "Mr TRAORE AMADOU",
-      "sort_name": "Mr TRAORE AMADOU",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_96.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1ea8f2e5-3369-4b9d-8d99-f1bde99aa6e5",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPR",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/68e358aa-df0a-4413-8df7-c44bdeacd5e9",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_81.jpg",
-      "name": "Mr TRAORE DJINGRI",
-      "sort_name": "Mr TRAORE DJINGRI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_81.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/68e358aa-df0a-4413-8df7-c44bdeacd5e9",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/komandjari",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2938,290 +3121,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/balé",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7a6f65d1-18e9-4c71-8fb6-fdc519485494",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_98.jpg",
-      "name": "Mr TRAORE LACOMI LORCENDY",
-      "sort_name": "Mr TRAORE LACOMI LORCENDY",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_98.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7a6f65d1-18e9-4c71-8fb6-fdc519485494",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/kenedougou",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "bougoula.melegue@yahoo.fr",
-      "gender": "male",
-      "id": "person/f69b19cd-419d-4370-8c3f-cc0d7de4bb8d",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_99.jpg",
-      "name": "Mr TRAORE MELEGUE",
-      "sort_name": "Mr TRAORE MELEGUE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_99.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f69b19cd-419d-4370-8c3f-cc0d7de4bb8d",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/leraba",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pierreptraore@yahoo.fr",
-      "gender": "male",
-      "id": "person/6edb9e2b-8ca5-4246-866c-c55ae46d1793",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_79.jpg",
-      "name": "Mr TRAORE PIERRE",
-      "sort_name": "Mr TRAORE PIERRE",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_79.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6edb9e2b-8ca5-4246-866c-c55ae46d1793",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/houet",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "altraore@yahoo.fr",
-      "gender": "male",
-      "id": "person/4e3a045f-0d70-4c61-aa11-09dfa8f0a8a1",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_90.jpg",
-      "name": "Mr TRAORE SABABENEDYO ALFRED",
-      "sort_name": "Mr TRAORE SABABENEDYO ALFRED",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_90.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4e3a045f-0d70-4c61-aa11-09dfa8f0a8a1",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "yagui_bouba@yahoo.fr",
-      "gender": "male",
-      "id": "person/040ee2b0-4d99-4117-bc2b-9c167725289e",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_88.jpg",
-      "name": "Mr YAGUIBOU BOUBA",
-      "sort_name": "Mr YAGUIBOU BOUBA",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_88.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/040ee2b0-4d99-4117-bc2b-9c167725289e",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/nahouri",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "coursplacide@yahoo.fr",
-      "gender": "male",
-      "id": "person/cb1f6497-1f70-48b3-a925-7a96ee0d0ddd",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_77.jpg",
-      "name": "Mr YAMEOGO BENJAMIN",
-      "sort_name": "Mr YAMEOGO BENJAMIN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_77.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cb1f6497-1f70-48b3-a925-7a96ee0d0ddd",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UNDD",
-          "area_id": "area/boulkiemde",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "rabyameogo@yahoo.fr",
-      "gender": "male",
-      "id": "person/73f96e65-33d5-41ca-8e55-e705dde6cf8b",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_86.jpg",
-      "name": "Mr YAMEOGO RABI",
-      "sort_name": "Mr YAMEOGO RABI",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_86.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/73f96e65-33d5-41ca-8e55-e705dde6cf8b",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "UPC",
-          "area_id": "area/kouritenga",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "hyameogo@yahoo.com",
-      "gender": "male",
-      "id": "person/ea84d565-8515-45ef-abe3-dacc16bd21f8",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_100.jpg",
-      "name": "Mr YAMEOGO TANDAOGO JEAN HUBERT",
-      "sort_name": "Mr YAMEOGO TANDAOGO JEAN HUBERT",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_100.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ea84d565-8515-45ef-abe3-dacc16bd21f8",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/boulkiemde",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "alainyoda@hotmail.fr",
-      "gender": "male",
-      "id": "person/30424fa7-799a-4844-be9b-bd8a54b770ab",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_87.jpg",
-      "name": "Mr YODA BEDOUMA ALAIN",
-      "sort_name": "Mr YODA BEDOUMA ALAIN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_87.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/30424fa7-799a-4844-be9b-bd8a54b770ab",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/boulgou",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mathiaszerbo@yahoo.fr",
-      "gender": "male",
-      "id": "person/91dad954-c833-409f-a0af-6381c67911fa",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_78.jpg",
-      "name": "Mr ZERBO SIBIRI dit MATHIAS",
-      "sort_name": "Mr ZERBO SIBIRI dit MATHIAS",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_78.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/91dad954-c833-409f-a0af-6381c67911fa",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": "CDP",
-          "area_id": "area/sourou",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d7a8acaa-2a16-48b8-882c-8b9021806425",
-      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_101.jpg",
-      "name": "Mr ZONGO OUANGO SYLVAIN",
-      "sort_name": "Mr ZONGO OUANGO SYLVAIN",
-      "images": [
-        {
-          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_101.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d7a8acaa-2a16-48b8-882c-8b9021806425",
-          "organization_id": "chamber/assemblée_nationale",
-          "role": "member",
-          "on_behalf_of_id": " RDA",
-          "area_id": "area/banwa",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -3247,7 +3147,7 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/boulgou",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
