@@ -1,7 +1,7 @@
 {
-  "total": 130,
+  "total": 131,
   "page": 1,
-  "per_page": 130,
+  "per_page": 131,
   "has_more": false,
   "result": [
     {
@@ -2311,6 +2311,24 @@
           "role": "member",
           "on_behalf_of_id": "lebanese_forces",
           "area_id": "area/bsharri",
+          "legislative_period_id": "term/2009"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ddf6a782-dfa0-40e6-af1d-2896c55a7f0d",
+      "name": "Suleiman Frangieh",
+      "sort_name": "Suleiman Frangieh",
+      "memberships": [
+        {
+          "person_id": "person/ddf6a782-dfa0-40e6-af1d-2896c55a7f0d",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "marada_movement",
+          "area_id": "area/zgharta",
           "legislative_period_id": "term/2009"
         }
       ],

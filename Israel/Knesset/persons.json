@@ -1,7 +1,7 @@
 {
-  "total": 129,
+  "total": 131,
   "page": 1,
-  "per_page": 129,
+  "per_page": 131,
   "has_more": false,
   "result": [
     {
@@ -1826,6 +1826,7 @@
           "organization_id": "chamber/knesset",
           "role": "member",
           "on_behalf_of_id": "kulanu_chaired_by_moshe_kahlon",
+          "end_date": "2016-01-29",
           "legislative_period_id": "term/20"
         }
       ],
@@ -1850,6 +1851,7 @@
           "organization_id": "chamber/knesset",
           "role": "member",
           "on_behalf_of_id": "likud",
+          "end_date": "2016-05-23",
           "legislative_period_id": "term/20"
         }
       ],
@@ -2827,6 +2829,31 @@
     },
     {
       "gender": "male",
+      "id": "person/a709e113-c216-46d8-ac67-78fa1ee9667e",
+      "image": "http://www.knesset.gov.il/mk/images/members/Asher_Yakov.jpg",
+      "name": "Yakov Asher",
+      "sort_name": "Yakov Asher",
+      "images": [
+        {
+          "url": "http://www.knesset.gov.il/mk/images/members/Asher_Yakov.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a709e113-c216-46d8-ac67-78fa1ee9667e",
+          "organization_id": "chamber/knesset",
+          "role": "member",
+          "on_behalf_of_id": "united_torah_judaism",
+          "start_date": "2016-05-24",
+          "legislative_period_id": "term/20"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/2ebc53a2-7feb-4ad1-8aa3-c20dd3f72c97",
       "image": "http://www.knesset.gov.il/mk/images/members/lizman_yaakov.jpg",
       "name": "Yakov Litzman",
@@ -2944,6 +2971,37 @@
           "organization_id": "chamber/knesset",
           "role": "member",
           "on_behalf_of_id": "zionist_camp",
+          "legislative_period_id": "term/20"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e630ff0e-5acd-4a32-bd89-c9499f139630",
+      "image": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg",
+      "name": "Yehuda Joshua Glick",
+      "sort_name": "Yehuda Joshua Glick",
+      "links": [
+        {
+          "url": "yehudah.glick",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e630ff0e-5acd-4a32-bd89-c9499f139630",
+          "organization_id": "chamber/knesset",
+          "role": "member",
+          "on_behalf_of_id": "likud",
+          "start_date": "2016-05-23",
           "legislative_period_id": "term/20"
         }
       ],
