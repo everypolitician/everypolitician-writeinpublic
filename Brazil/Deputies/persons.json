@@ -1,7 +1,7 @@
 {
-  "total": 563,
+  "total": 564,
   "page": 1,
-  "per_page": 563,
+  "per_page": 564,
   "has_more": false,
   "result": [
     {
@@ -10851,6 +10851,12 @@
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160558.jpg",
       "name": "PAULO FREIRE",
       "sort_name": "PAULO FREIRE",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "df_paulofreire"
+        }
+      ],
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160558.jpg"
@@ -10865,9 +10871,6 @@
           "area_id": "area/sp",
           "legislative_period_id": "term/55"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -13569,6 +13572,31 @@
           "role": "member",
           "on_behalf_of_id": "PTC",
           "area_id": "area/ba",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.valamelio@camara.leg.br",
+      "id": "person/72e35473-d263-4e52-ac9e-376365d2fa9f",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/194340.jpg",
+      "name": "VAL AMÉLIO",
+      "sort_name": "VAL AMÉLIO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/194340.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/72e35473-d263-4e52-ac9e-376365d2fa9f",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PRTB",
+          "area_id": "area/al",
           "legislative_period_id": "term/55"
         }
       ],
