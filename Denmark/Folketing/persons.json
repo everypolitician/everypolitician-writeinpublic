@@ -1,7 +1,7 @@
 {
-  "total": 195,
+  "total": 196,
   "page": 1,
-  "per_page": 195,
+  "per_page": 196,
   "has_more": false,
   "result": [
     {
@@ -2390,6 +2390,31 @@
           "area_id": "area/north_jutland",
           "legislative_period_id": "term/2015"
         }
+      ]
+    },
+    {
+      "email": "kasper.roug@ft.dk",
+      "id": "person/faf46682-d614-43bc-a54b-252b69ed8894",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kasper%20Roug/Kasper_Roug_133.jpg.ashx",
+      "name": "Kasper Roug",
+      "sort_name": "Kasper Roug",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kasper%20Roug/Kasper_Roug_133.jpg.ashx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/faf46682-d614-43bc-a54b-252b69ed8894",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
+          "area_id": "area/zealand",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
