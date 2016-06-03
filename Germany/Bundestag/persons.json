@@ -1,7 +1,7 @@
 {
-  "total": 646,
+  "total": 648,
   "page": 1,
-  "per_page": 646,
+  "per_page": 648,
   "has_more": false,
   "result": [
     {
@@ -3381,6 +3381,7 @@
           "role": "member",
           "on_behalf_of_id": "spd",
           "area_id": "area/nordrhein-westfalen",
+          "end_date": "2015-09-30",
           "legislative_period_id": "term/18"
         }
       ],
@@ -4250,6 +4251,7 @@
           "role": "member",
           "on_behalf_of_id": "spd",
           "area_id": "area/nordrhein-westfalen",
+          "end_date": "2015-10-20",
           "legislative_period_id": "term/18"
         }
       ],
@@ -4574,7 +4576,7 @@
     {
       "gender": "female",
       "id": "person/91737731-3a25-49c9-ac07-ded2f136fc92",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Edelgard_Bulmahn,_May_2009_-_by_SPD_in_Niedersachsen.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2014-09-09_-_Edelgard_Bulmahn_MdB_-_7159.jpg",
       "name": "Edelgard Bulmahn",
       "sort_name": "Bulmahn, Edelgard!",
       "links": [
@@ -4585,7 +4587,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Edelgard_Bulmahn,_May_2009_-_by_SPD_in_Niedersachsen.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2014-09-09_-_Edelgard_Bulmahn_MdB_-_7159.jpg"
         }
       ],
       "memberships": [
@@ -4685,6 +4687,25 @@
           "role": "member",
           "on_behalf_of_id": "grÜne",
           "area_id": "area/bayern",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cba4fb00-25e8-43ca-919b-1a8ffeb84d71",
+      "name": "Elfi Scho-Antwerpes",
+      "sort_name": "Scho-Antwerpes, Elfi!",
+      "memberships": [
+        {
+          "person_id": "person/cba4fb00-25e8-43ca-919b-1a8ffeb84d71",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "spd",
+          "area_id": "area/nordrhein-westfalen",
+          "start_date": "2015-10-01",
           "legislative_period_id": "term/18"
         }
       ],
@@ -9465,6 +9486,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/brandenburg",
+          "end_date": "2015-09-04",
           "legislative_period_id": "term/18"
         }
       ],
@@ -14057,6 +14079,25 @@
           "role": "member",
           "on_behalf_of_id": "die_linke",
           "area_id": "area/berlin",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ba258c47-0e3c-45a9-8739-daaa5f61a383",
+      "name": "Petra Rode-Bosse",
+      "sort_name": "Rodebosse, Petra!",
+      "memberships": [
+        {
+          "person_id": "person/ba258c47-0e3c-45a9-8739-daaa5f61a383",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "spd",
+          "area_id": "area/nordrhein-westfalen",
+          "start_date": "2015-10-21",
           "legislative_period_id": "term/18"
         }
       ],
