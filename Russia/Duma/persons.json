@@ -1,7 +1,7 @@
 {
-  "total": 467,
+  "total": 468,
   "page": 1,
-  "per_page": 467,
+  "per_page": 468,
   "has_more": false,
   "result": [
     {
@@ -6856,6 +6856,30 @@
           "role": "member",
           "on_behalf_of_id": "КПРФ",
           "area_id": "area/Челябинская_область",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/81397a9c-7f2e-417b-8946-6472d931555b",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "name": "Немцева Галина Григорьевна",
+      "sort_name": "Немцева Галина Григорьевна",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/81397a9c-7f2e-417b-8946-6472d931555b",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Красноярский_край,_Томская_область",
           "legislative_period_id": "term/6"
         }
       ],
