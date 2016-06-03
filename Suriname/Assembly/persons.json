@@ -1,9 +1,35 @@
 {
-  "total": 56,
+  "total": 57,
   "page": 1,
-  "per_page": 56,
+  "per_page": 57,
   "has_more": false,
   "result": [
+    {
+      "email": "c.gonsalves@dna.sr",
+      "gender": "male",
+      "id": "person/1e6e0681-cf46-4edc-9389-930e6e71da08",
+      "image": "http://www.dna.sr/media/131263/gonzalves_jardin_de_ponte.jpg",
+      "name": "Cleon Gonsalves Jardin de Ponte",
+      "sort_name": "Cleon Gonsalves Jardin de Ponte",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/131263/gonzalves_jardin_de_ponte.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e6e0681-cf46-4edc-9389-930e6e71da08",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PALU",
+          "area_id": "area/coronie",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "email": "a.paal@dna.sr",
       "gender": "male",
@@ -57,7 +83,7 @@
       ]
     },
     {
-      "email": "c.santhoki@dna.sr",
+      "email": "c.santokhi@dna.sr",
       "gender": "male",
       "id": "person/f6ae1f92-543d-43ae-8d0e-f92c4c0c5429",
       "image": "http://www.dna.sr/media/95669/chan.jpg",
@@ -438,7 +464,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "NDP",
-          "area_id": "area/sipaliwinie",
+          "area_id": "area/sipaliwini",
           "legislative_period_id": "term/2015"
         }
       ],
@@ -752,14 +778,6 @@
           "on_behalf_of_id": "NDP",
           "area_id": "area/paramaribo",
           "legislative_period_id": "term/2015"
-        },
-        {
-          "person_id": "person/190d734a-2aa8-44bb-955f-0b1918f9b573",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "NDP",
-          "area_id": "area/paramaribo",
-          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -1026,7 +1044,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "BEP",
-          "area_id": "area/sipaliwinie",
+          "area_id": "area/sipaliwini",
           "legislative_period_id": "term/2015"
         }
       ],
@@ -1112,7 +1130,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "NDP",
-          "area_id": "area/sipaliwinie",
+          "area_id": "area/sipaliwini",
           "legislative_period_id": "term/2015"
         }
       ],
@@ -1164,7 +1182,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "AC",
-          "area_id": "area/sipaliwinie",
+          "area_id": "area/sipaliwini",
           "legislative_period_id": "term/2015"
         },
         {
