@@ -1,7 +1,7 @@
 {
-  "total": 53,
+  "total": 54,
   "page": 1,
-  "per_page": 53,
+  "per_page": 54,
   "has_more": false,
   "result": [
     {
@@ -544,6 +544,29 @@
       "memberships": [
         {
           "person_id": "person/1f30dc43-c6b0-4f3a-b85a-f9af482c2187",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "FF",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3a9abaee-326f-480d-a0e1-8ac5d7729f44",
+      "image": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/Hon-Mataiasi-Akauola-Niumataiwalu2-(1).jpg.aspx",
+      "name": "Mataiasi Niumataiwalu",
+      "sort_name": "Mataiasi Niumataiwalu",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.fj/getattachment/Members/Parliamentery-Parties/Hon-Mataiasi-Akauola-Niumataiwalu2-(1).jpg.aspx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3a9abaee-326f-480d-a0e1-8ac5d7729f44",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "FF",
