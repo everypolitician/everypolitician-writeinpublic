@@ -1,7 +1,7 @@
 {
-  "total": 291,
+  "total": 295,
   "page": 1,
-  "per_page": 291,
+  "per_page": 295,
   "has_more": false,
   "result": [
     {
@@ -246,6 +246,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/9f1e52b6-7138-4d25-a79d-17faf29a5372",
       "image": "http://www.congress.gov.ph/members/images/16th/adiong-a.jpg",
       "name": "Adiong, Ansaruddin A.M. A.",
@@ -556,6 +557,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d779994f-d7f8-4c53-a73a-4d017fa43acb",
       "image": "http://www.congress.gov.ph/members/images/16th/alvarez-m.jpg",
       "name": "Alvarez, Mercedes K.",
@@ -654,7 +656,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/e2520057-7792-468f-a56f-b4b0bdab2ed4",
       "image": "http://www.congress.gov.ph/members/images/16th/andaya-r.jpg",
       "name": "Andaya, Rolando Jr. G.",
@@ -679,6 +680,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/75c2f6a6-7adb-48de-80b2-68590b60d6c1",
       "image": "http://www.congress.gov.ph/members/images/16th/angara-castillo.jpg",
       "name": "Angara-Castillo, Bellaflor J.",
@@ -727,7 +729,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "person/06193bae-add9-467d-b2bf-880d78a81429",
       "image": "http://www.congress.gov.ph/members/images/16th/antonino-m.jpg",
       "name": "Antonino, Magnolia Rosa C.",
@@ -800,6 +801,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9098e53a-6c87-4592-9db7-c8dec3512bf6",
       "image": "http://www.congress.gov.ph/members/images/16th/aragones-m.jpg",
       "name": "Aragones, Sol",
@@ -848,6 +850,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/4ce292cd-82ee-4ec6-978c-a246381be869",
       "image": "http://www.congress.gov.ph/members/images/16th/arenas-r.jpg",
       "name": "Arenas, Rose Marie \"Baby\" J.",
@@ -1264,6 +1267,12 @@
       "image": "http://www.congress.gov.ph/members/images/16th/bello-w.jpg",
       "name": "Bello, Walden F.",
       "sort_name": "Bello, Walden F.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "WaldenBello"
+        }
+      ],
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/16th/bello-w.jpg"
@@ -1277,12 +1286,10 @@
           "on_behalf_of_id": "akbayan",
           "legislative_period_id": "term/16"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
+      "gender": "male",
       "id": "person/e855ec54-dd02-4539-b673-8dabb7b46ce7",
       "image": "http://www.congress.gov.ph/members/images/16th/belmonte-f.jpg",
       "name": "Belmonte, Feliciano Jr. R.",
@@ -1403,6 +1410,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ed5f3485-e485-4235-ad81-0294f89e9678",
       "image": "http://www.congress.gov.ph/members/images/16th/biazon-r.jpg",
       "name": "Biazon, Rodolfo G.",
@@ -1859,6 +1867,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/640081f3-175f-410d-bc34-d33da28f987e",
       "image": "http://www.congress.gov.ph/members/images/16th/cayetano-l.jpg",
       "name": "Cayetano, Lino S.",
@@ -1907,6 +1916,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bd84c7b0-0a7f-4372-8fa9-25dd876222f1",
       "image": "http://www.congress.gov.ph/members/images/16th/cerafica-a.jpg",
       "name": "Cerafica, Arnel M.",
@@ -1931,7 +1941,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "person/5da3d559-95c0-40ae-b71e-8c9f728f81a4",
       "image": "http://www.congress.gov.ph/members/images/16th/cerilles-a.jpg",
       "name": "Cerilles, Aurora Enerio",
@@ -1956,6 +1965,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/cc5399f9-5f6c-4e31-b0d4-705cb794caa2",
       "image": "http://www.congress.gov.ph/members/images/16th/chipeco-j.jpg",
       "name": "Chipeco, Joaquin Jr. M.",
@@ -2051,7 +2061,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/2f34986a-40b0-403c-89a2-fa9a0fd80c12",
       "image": "http://www.congress.gov.ph/members/images/16th/collantes-n.jpg",
       "name": "Collantes, Sonny P.",
@@ -2170,6 +2179,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/efb58b14-1495-44c7-89d6-1fad582c0443",
       "image": "http://www.congress.gov.ph/members/images/16th/cua-d.jpg",
       "name": "Cua, Dakila Carlo E.",
@@ -2258,6 +2268,30 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/davao_oriental,_1st_district",
+          "legislative_period_id": "term/16"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
+      "image": "http://www.congress.gov.ph/members/images/16th/daza.jpg",
+      "name": "Daza, Raul A.",
+      "sort_name": "Daza, Raul A.",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/daza.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/northern_samar,_1st_district",
           "legislative_period_id": "term/16"
         }
       ],
@@ -2574,6 +2608,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/65515ff0-a499-440d-a1b4-236c63114c3f",
       "image": "http://www.congress.gov.ph/members/images/16th/echiverri-e.jpg",
       "name": "Echiverri, Enrico \"Recom\"",
@@ -2982,6 +3017,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/550f3e33-0ee9-4e78-b94c-57d911796540",
       "image": "http://www.congress.gov.ph/members/images/16th/fuentebella-f.jpg",
       "name": "Fuentebella, Felix William B.",
@@ -3054,6 +3090,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d79ff7d2-fec3-4d17-8782-a4f24b4f8fff",
       "image": "http://www.congress.gov.ph/members/images/16th/garcia-g.jpg",
       "name": "Garcia, Gwendolyn F.",
@@ -3220,6 +3257,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/2b1a1a86-eed8-40ab-9da4-91ae68598034",
       "image": "http://www.congress.gov.ph/members/images/16th/robredo-m.jpg",
       "name": "Gerona-Robredo, Leni",
@@ -3412,6 +3450,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/eda2cd20-3bb6-4cf4-b8bd-a3119f4a61b4",
       "image": "http://www.congress.gov.ph/members/images/16th/guiao-j.jpg",
       "name": "Guiao, Joseller \"Yeng\" M.",
@@ -3749,8 +3788,14 @@
     },
     {
       "id": "person/f0752a88-d65e-4edb-b6e0-e8c54428a1c9",
+      "image": "http://www.congress.gov.ph/members/images/16th/katoh-a.jpg",
       "name": "Katoh, Angelina L.",
       "sort_name": "Katoh, Angelina L.",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/katoh-a.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f0752a88-d65e-4edb-b6e0-e8c54428a1c9",
@@ -3861,7 +3906,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/26fc7cbe-58f6-4a13-91d7-da00ed36b8dc",
       "image": "http://www.congress.gov.ph/members/images/16th/lagdameo-a.jpg",
       "name": "Lagdameo, Antonio Jr. F.",
@@ -3910,7 +3954,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/d1b50722-4eab-4476-9c05-3203d1bbd899",
       "image": "http://www.congress.gov.ph/members/images/16th/lagman-e.jpg",
       "name": "Lagman, Edcel \"Grex\" B.",
@@ -4077,6 +4120,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/efed4c3e-9779-4f4b-95af-efb38c8bb5ef",
       "image": "http://www.congress.gov.ph/members/images/16th/lobregat-c.jpg",
       "name": "Lobregat, Celso L.",
@@ -4101,6 +4145,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/54af00e4-80d7-418d-bb7a-1360c6562911",
       "image": "http://www.congress.gov.ph/members/images/16th/loong-t.jpg",
       "name": "Loong, Tupay T.",
@@ -4315,7 +4360,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "person/cbee975d-c621-454b-a4ad-175da89f5f18",
       "image": "http://www.congress.gov.ph/members/images/16th/mangudadatu-z.jpg",
       "name": "Mangudadatu, Zajid G.",
@@ -4357,6 +4401,29 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/ilocos_norte,_2nd_district",
+          "legislative_period_id": "term/16"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/62afaa7f-0c49-4517-bee1-154763e4c417",
+      "image": "http://www.congress.gov.ph/members/images/16th/mascarina.jpg",
+      "name": "Mascariña, Roberto C.",
+      "sort_name": "Mascariña, Roberto C.",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/mascarina.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/62afaa7f-0c49-4517-bee1-154763e4c417",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "ating_koop",
           "legislative_period_id": "term/16"
         }
       ],
@@ -4532,6 +4599,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/05ed3492-938d-4351-9b77-7040eb00356b",
       "image": "http://www.congress.gov.ph/members/images/16th/mercado-revilla.jpg",
       "name": "Mercado-Revilla, Lani",
@@ -4840,10 +4908,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/340f65cd-b148-41ac-83df-1ed6dde7726e",
       "image": "http://www.congress.gov.ph/members/images/16th/pacquiao-e.jpg",
       "name": "Pacquiao, Emmanuel D.",
       "sort_name": "Pacquiao, Emmanuel D.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MannyPacquiao"
+        }
+      ],
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/16th/pacquiao-e.jpg"
@@ -4858,9 +4933,6 @@
           "area_id": "area/sarangani,_lone_district",
           "legislative_period_id": "term/16"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4934,6 +5006,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4c009064-fcf4-476d-91ac-c194c8316d71",
       "image": "http://www.congress.gov.ph/members/images/16th/pagdilao-s.jpg",
       "name": "Pagdilao, Samuel D.",
@@ -5509,6 +5582,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b107ceaa-102a-4964-8f7a-7b74048d8bbf",
       "image": "http://www.congress.gov.ph/members/images/16th/rodriguez-o.jpg",
       "name": "Rodriguez, Oscar S.",
@@ -5728,6 +5802,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/0585f781-c178-45d5-a0e1-3a5f2dbb6bc6",
       "image": "http://www.congress.gov.ph/members/images/16th/sahali-r.jpg",
       "name": "Sahali, Ruby M.",
@@ -5872,6 +5947,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/2721ff7f-91a4-4d87-8a57-a3159e67c7f7",
       "image": "http://www.congress.gov.ph/members/images/16th/sarmiento-m.jpg",
       "name": "Sarmiento, Mel Senen S.",
@@ -5896,6 +5972,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/0602f732-3bc2-4edd-b297-42c51316035b",
       "image": "http://www.congress.gov.ph/members/images/16th/sato-j.jpg",
       "name": "Sato, Josephine R.",
@@ -6161,6 +6238,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/532d38b4-81bd-42fb-a58b-7ef0e9dfedfa",
       "image": "http://www.congress.gov.ph/members/images/16th/tejada-j.jpg",
       "name": "Tejada, Jose I.",
@@ -6474,6 +6552,30 @@
       ]
     },
     {
+      "id": "person/c79eb663-3ee2-449d-b04c-342d5cea435d",
+      "image": "http://www.congress.gov.ph/members/images/16th/delgado-m.jpg",
+      "name": "Ty-Delgado, Mary Elizabeth",
+      "sort_name": "Ty-Delgado, Mary Elizabeth",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/delgado-m.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c79eb663-3ee2-449d-b04c-342d5cea435d",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/surigao_del_sur,_1st_district",
+          "legislative_period_id": "term/16"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/fbf29be4-6b1a-4c1d-a745-827d71572aa1",
       "image": "http://www.congress.gov.ph/members/images/16th/umali-c.jpg",
       "name": "Umali, Czarina D.",
@@ -6620,6 +6722,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3efdaf50-71cd-469d-ba91-6ff5083c8aae",
       "image": "http://www.congress.gov.ph/members/images/16th/vargas-a.jpg",
       "name": "Vargas, Alfredo III D.",
@@ -6683,6 +6786,31 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "buhay",
+          "legislative_period_id": "term/16"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/13648d21-4b39-4039-94dc-f8e08bc3efeb",
+      "image": "http://www.congress.gov.ph/members/images/16th/velasco-lord.jpg",
+      "name": "Velasco, Lord Allan Jay Q.",
+      "sort_name": "Velasco, Lord Allan Jay Q.",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/16th/velasco-lord.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/13648d21-4b39-4039-94dc-f8e08bc3efeb",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/marinduque,_lone_district",
           "legislative_period_id": "term/16"
         }
       ],
@@ -6967,13 +7095,6 @@
         }
       ],
       "memberships": [
-        {
-          "person_id": "person/3e77805f-cd77-4ca8-beab-70f50115d587",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/16"
-        },
         {
           "person_id": "person/3e77805f-cd77-4ca8-beab-70f50115d587",
           "organization_id": "chamber/house_of_representatives",
