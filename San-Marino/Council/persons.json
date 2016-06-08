@@ -1,7 +1,7 @@
 {
-  "total": 61,
+  "total": 62,
   "page": 1,
-  "per_page": 61,
+  "per_page": 62,
   "has_more": false,
   "result": [
     {
@@ -516,6 +516,29 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "noi_sammarinesi",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2121f225-3950-4795-9315-225c73a18b49",
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17022809_17000062_13CecchettiGiova.jpg",
+      "name": "Giovanna Cecchetti",
+      "sort_name": "Cecchetti, Giovanna",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17022809_17000062_13CecchettiGiova.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2121f225-3950-4795-9315-225c73a18b49",
+          "organization_id": "chamber/grand_and_general_council",
+          "role": "member",
+          "on_behalf_of_id": "partito_socialista",
           "legislative_period_id": "term/2012"
         }
       ],
