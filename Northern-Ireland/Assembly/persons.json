@@ -1,7 +1,7 @@
 {
-  "total": 107,
+  "total": 108,
   "page": 1,
-  "per_page": 107,
+  "per_page": 108,
   "has_more": false,
   "result": [
     {
@@ -214,6 +214,26 @@
           "role": "member",
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/629-NI",
+          "start_date": "2016-05-07",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/c7107f53-0dc3-4f8d-9113-a26dace3e694",
+      "name": "Brenda Hale",
+      "sort_name": "Brenda Hale",
+      "memberships": [
+        {
+          "person_id": "person/c7107f53-0dc3-4f8d-9113-a26dace3e694",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "dup",
+          "area_id": "uk.org.publicwhip/cons/325-NI",
           "start_date": "2016-05-07",
           "legislative_period_id": "term/5"
         }
@@ -1491,15 +1511,6 @@
         }
       ],
       "memberships": [
-        {
-          "person_id": "person/171b5093-60fa-4df4-85ee-7198e08e7b1b",
-          "organization_id": "chamber/northern_ireland_assembly",
-          "role": "member",
-          "on_behalf_of_id": "dup",
-          "area_id": "uk.org.publicwhip/cons/325-NI",
-          "start_date": "2016-05-07",
-          "legislative_period_id": "term/5"
-        },
         {
           "person_id": "person/171b5093-60fa-4df4-85ee-7198e08e7b1b",
           "organization_id": "chamber/northern_ireland_assembly",
