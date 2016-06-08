@@ -1047,11 +1047,11 @@
       ]
     },
     {
-      "email": "a.matembe@bunge.go.tz",
+      "email": "a.mattembe@bunge.go.tz",
       "id": "person/7df80a07-5104-4154-8f8d-5a65172696f4",
       "image": "http://parliament.go.tz/polis/uploads/members/0.62735900%201455716118.png",
-      "name": "Aysharose Ndogholi Matembe",
-      "sort_name": "Aysharose Ndogholi Matembe",
+      "name": "Aysharose Ndogholi Mattembe",
+      "sort_name": "Aysharose Ndogholi Mattembe",
       "images": [
         {
           "url": "http://parliament.go.tz/polis/uploads/members/0.62735900%201455716118.png"
@@ -1835,6 +1835,31 @@
       ]
     },
     {
+      "email": "a.mahiga@bunge.go.tz",
+      "id": "person/5cb6b336-a500-49f9-b0bf-37b011d03e9a",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.08183300%201453646393.png",
+      "name": "Dr. Augustine Philip Mahiga",
+      "sort_name": "Dr. Augustine Philip Mahiga",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.08183300%201453646393.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5cb6b336-a500-49f9-b0bf-37b011d03e9a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "area/iringa_mjini",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ctizeba@parliament.go.tz",
       "gender": "male",
       "id": "person/9a143f85-3c51-4011-82dd-d29578ebdfd1",
@@ -2221,6 +2246,31 @@
       ]
     },
     {
+      "email": "m.kilemani@bunge.go.tz",
+      "id": "person/9596b090-81cd-4709-bcd6-cebd8ee8ae61",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.63668300%201453647258.png",
+      "name": "Dr. Medard Matogolo Kalemani",
+      "sort_name": "Dr. Medard Matogolo Kalemani",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.63668300%201453647258.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9596b090-81cd-4709-bcd6-cebd8ee8ae61",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "area/chato",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "p.mpango@bunge.go.tz",
       "id": "person/f22c33fd-0b69-46a2-89fe-86ba10c82a3c",
       "image": "http://parliament.go.tz/polis/uploads/members/0.09274000%201453646255.png",
@@ -2340,56 +2390,6 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "area/nominated",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "a.mahiga@bunge.go.tz",
-      "id": "person/5cb6b336-a500-49f9-b0bf-37b011d03e9a",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.08183300%201453646393.png",
-      "name": "Dr.Augustine Philip Mahiga",
-      "sort_name": "Dr.Augustine Philip Mahiga",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.08183300%201453646393.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5cb6b336-a500-49f9-b0bf-37b011d03e9a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "area/iringa_mjini",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "m.kilemani@bunge.go.tz",
-      "id": "person/9596b090-81cd-4709-bcd6-cebd8ee8ae61",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.63668300%201453647258.png",
-      "name": "Dr.Medard Matogolo Kalemani",
-      "sort_name": "Dr.Medard Matogolo Kalemani",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.63668300%201453647258.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9596b090-81cd-4709-bcd6-cebd8ee8ae61",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "area/chato",
           "legislative_period_id": "term/5"
         }
       ],
