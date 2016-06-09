@@ -1,46 +1,20 @@
 {
-  "total": 252,
+  "total": 250,
   "page": 1,
-  "per_page": 252,
+  "per_page": 250,
   "has_more": false,
   "result": [
     {
-      "id": "person/aa33a9ba-515c-49d6-ad79-0867638e1889",
-      "name": "ADRIANA ANASTASOV",
-      "sort_name": "ADRIANA ANASTASOV",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "adrianastasov"
-        }
-      ],
-      "links": [
-        {
-          "url": "adriana.anastasov",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/b3c03ac3-7485-4726-93e2-fbe4195d7deb",
+      "name": "ALEKSANDAR ANTIC",
+      "sort_name": "ALEKSANDAR ANTIC",
       "memberships": [
         {
-          "person_id": "person/aa33a9ba-515c-49d6-ad79-0867638e1889",
+          "person_id": "person/b3c03ac3-7485-4726-93e2-fbe4195d7deb",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ]
-    },
-    {
-      "id": "person/691a0a72-b575-4049-948d-37503f8a06e0",
-      "name": "AIDA COROVIC",
-      "sort_name": "AIDA COROVIC",
-      "memberships": [
-        {
-          "person_id": "person/691a0a72-b575-4049-948d-37503f8a06e0",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -62,25 +36,8 @@
           "person_id": "person/020d655c-4deb-4d73-b073-b8be07a4b8df",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_renewal_movement_–_demo-christian_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d49670b3-67ec-4b1e-b4c5-130585adc3c9",
-      "name": "ALEKSANDAR JOVICIC",
-      "sort_name": "ALEKSANDAR JOVICIC",
-      "memberships": [
-        {
-          "person_id": "person/d49670b3-67ec-4b1e-b4c5-130585adc3c9",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -96,8 +53,8 @@
           "person_id": "person/eabf8c75-bd2b-49a3-992b-5faf79d7c239",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_renewal_movement_–_demo-christian_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -120,7 +77,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -137,7 +94,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -145,16 +102,16 @@
       ]
     },
     {
-      "id": "person/abe87dbf-8943-49d9-8f81-c23f71408c0f",
-      "name": "ALEKSANDAR PAJOVIC",
-      "sort_name": "ALEKSANDAR Dr PAJOVIC",
+      "id": "person/43476a31-ddcd-4f70-a6aa-d44c75480676",
+      "name": "ALEKSANDAR STEVANOVIC",
+      "sort_name": "ALEKSANDAR STEVANOVIC",
       "memberships": [
         {
-          "person_id": "person/abe87dbf-8943-49d9-8f81-c23f71408c0f",
+          "person_id": "person/43476a31-ddcd-4f70-a6aa-d44c75480676",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -162,16 +119,16 @@
       ]
     },
     {
-      "id": "person/064a5c41-312b-4656-afa7-96d8fb6fd4c2",
-      "name": "ALEKSANDAR PERANOVIC",
-      "sort_name": "ALEKSANDAR Dr PERANOVIC",
+      "id": "person/a6c20249-f3c0-4d26-83ab-11584fbabae8",
+      "name": "ALEKSANDAR VUCIC",
+      "sort_name": "ALEKSANDAR VUCIC",
       "memberships": [
         {
-          "person_id": "person/064a5c41-312b-4656-afa7-96d8fb6fd4c2",
+          "person_id": "person/a6c20249-f3c0-4d26-83ab-11584fbabae8",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -179,16 +136,16 @@
       ]
     },
     {
-      "id": "person/cd269f3b-493b-4778-8d7f-d46a71a8178b",
-      "name": "ALEKSANDAR RADOJEVIC",
-      "sort_name": "ALEKSANDAR Dr RADOJEVIC",
+      "id": "person/57b13e15-2ee9-4e4c-a615-79a38a2675bc",
+      "name": "ALEKSANDRA BELACIC",
+      "sort_name": "ALEKSANDRA BELACIC",
       "memberships": [
         {
-          "person_id": "person/cd269f3b-493b-4778-8d7f-d46a71a8178b",
+          "person_id": "person/57b13e15-2ee9-4e4c-a615-79a38a2675bc",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -196,23 +153,20 @@
       ]
     },
     {
-      "id": "person/6ac96b9c-46d7-48ee-967f-8cdfd007b7cd",
-      "name": "ALEKSANDAR SENIC",
-      "sort_name": "ALEKSANDAR SENIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "AlexandarSenic"
-        }
-      ],
+      "id": "person/bea5a5ab-e1ed-4751-8d25-052721433187",
+      "name": "ALEKSANDRA CABRAJA",
+      "sort_name": "ALEKSANDRA CABRAJA",
       "memberships": [
         {
-          "person_id": "person/6ac96b9c-46d7-48ee-967f-8cdfd007b7cd",
+          "person_id": "person/bea5a5ab-e1ed-4751-8d25-052721433187",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -225,7 +179,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -242,8 +196,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "start_date": "2014-04-26",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1fcc886b-90e9-4f0f-9117-3f19a8bc36ff",
+      "name": "ALEKSANDRA MAJKIC",
+      "sort_name": "ALEKSANDRA MAJKIC",
+      "memberships": [
+        {
+          "person_id": "person/1fcc886b-90e9-4f0f-9117-3f19a8bc36ff",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -260,7 +230,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -283,22 +253,21 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
     {
-      "id": "person/9d2f359e-9c87-4d77-a18d-365a96a0d16b",
-      "name": "ANA FILIPOVIC",
-      "sort_name": "ANA FILIPOVIC",
+      "id": "person/4babbe41-4308-4acc-b6ca-996df2465ad4",
+      "name": "ANA CIRIC",
+      "sort_name": "ANA CIRIC",
       "memberships": [
         {
-          "person_id": "person/9d2f359e-9c87-4d77-a18d-365a96a0d16b",
+          "person_id": "person/4babbe41-4308-4acc-b6ca-996df2465ad4",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-11-08",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -306,16 +275,33 @@
       ]
     },
     {
-      "id": "person/54294977-4923-49fa-a79c-f7f2a7b5d6e5",
-      "name": "ANNAMÁRIA VICSEK",
-      "sort_name": "ANNAMÁRIA VICSEK",
+      "id": "person/346cf056-6998-46b0-8187-4f239e36ff96",
+      "name": "ANA STEVANOVIC",
+      "sort_name": "ANA STEVANOVIC",
       "memberships": [
         {
-          "person_id": "person/54294977-4923-49fa-a79c-f7f2a7b5d6e5",
+          "person_id": "person/346cf056-6998-46b0-8187-4f239e36ff96",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/932bd6c6-be75-4200-a743-03c3a0dbbd3a",
+      "name": "ANDREJA MLADENOVIC",
+      "sort_name": "ANDREJA MLADENOVIC",
+      "memberships": [
+        {
+          "person_id": "person/932bd6c6-be75-4200-a743-03c3a0dbbd3a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -333,24 +319,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/466be582-ad8d-4291-bbc6-f9c22e105225",
-      "name": "BILJANA ILIC STOSIC",
-      "sort_name": "BILJANA ILIC STOSIC",
-      "memberships": [
-        {
-          "person_id": "person/466be582-ad8d-4291-bbc6-f9c22e105225",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -373,7 +342,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -381,16 +350,16 @@
       ]
     },
     {
-      "id": "person/23a5c30c-23c7-459a-9a70-f1d18d0b3bdb",
-      "name": "BILjANA HASANOVIC KORAC",
-      "sort_name": "BILjANA HASANOVIC KORAC",
+      "id": "person/ff9cfdae-28f5-478a-9809-cf6c3cbec306",
+      "name": "BILjANA RUBAKOVIC",
+      "sort_name": "BILjANA RUBAKOVIC",
       "memberships": [
         {
-          "person_id": "person/23a5c30c-23c7-459a-9a70-f1d18d0b3bdb",
+          "person_id": "person/ff9cfdae-28f5-478a-9809-cf6c3cbec306",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -398,50 +367,16 @@
       ]
     },
     {
-      "id": "person/778f07e0-1ea3-424f-a6e3-44fb1b004dc0",
-      "name": "BILjANA SAVOVIC",
-      "sort_name": "BILjANA SAVOVIC",
+      "id": "person/7bd8e938-7777-40da-9549-8e42fe301dbe",
+      "name": "BLAZA KNEZEVIC",
+      "sort_name": "BLAZA KNEZEVIC",
       "memberships": [
         {
-          "person_id": "person/778f07e0-1ea3-424f-a6e3-44fb1b004dc0",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/dd18a624-fadf-417a-b9d7-94247c931fb5",
-      "name": "BLAGOJE M.Sci Dr.med.dent BRADIC",
-      "sort_name": "BLAGOJE M.Sci Dr.med.dent BRADIC",
-      "memberships": [
-        {
-          "person_id": "person/dd18a624-fadf-417a-b9d7-94247c931fb5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a0343e82-a5c1-45e5-ac37-f49f6ddc03cc",
-      "name": "BOBAN BIRMANCEVIC",
-      "sort_name": "BOBAN Dr BIRMANCEVIC",
-      "memberships": [
-        {
-          "person_id": "person/a0343e82-a5c1-45e5-ac37-f49f6ddc03cc",
+          "person_id": "person/7bd8e938-7777-40da-9549-8e42fe301dbe",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -449,23 +384,50 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ca9f9b8f-bf99-4be8-8029-6977ea5ac8b5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bojan_Kostreš_Crop.jpg",
-      "name": "BOJAN KOSTRES",
-      "sort_name": "BOJAN KOSTRES",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bojan_Kostreš_Crop.jpg"
-        }
-      ],
+      "id": "person/63229cc0-1105-4b39-a356-fd4eec0421f3",
+      "name": "BOGDAN OBRADOVIC",
+      "sort_name": "BOGDAN OBRADOVIC",
       "memberships": [
         {
-          "person_id": "person/ca9f9b8f-bf99-4be8-8029-6977ea5ac8b5",
+          "person_id": "person/63229cc0-1105-4b39-a356-fd4eec0421f3",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b0b5f755-199f-4638-85f2-743b3c22dfd8",
+      "name": "BOJAN PAJTIC",
+      "sort_name": "BOJAN PAJTIC",
+      "memberships": [
+        {
+          "person_id": "person/b0b5f755-199f-4638-85f2-743b3c22dfd8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6f7ac7ee-1462-49aa-b4e8-979044cc587a",
+      "name": "BOJAN TORBICA",
+      "sort_name": "BOJAN TORBICA",
+      "memberships": [
+        {
+          "person_id": "person/6f7ac7ee-1462-49aa-b4e8-979044cc587a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -482,7 +444,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -490,23 +452,67 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/4758daec-aea1-45fc-998a-9bf7084d20d7",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Borko_Stefanović.jpg",
-      "name": "BORISLAV STEFANOVIC",
-      "sort_name": "BORISLAV STEFANOVIC",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Borko_Stefanović.jpg"
-        }
-      ],
+      "id": "person/a031cbe1-76d3-4bdb-8408-08ce243238e3",
+      "name": "BORKA GRUBOR",
+      "sort_name": "BORKA GRUBOR",
       "memberships": [
         {
-          "person_id": "person/4758daec-aea1-45fc-998a-9bf7084d20d7",
+          "person_id": "person/a031cbe1-76d3-4bdb-8408-08ce243238e3",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/52962259-4130-46a4-b490-89b2afec00e0",
+      "name": "BOSKO OBRADOVIC",
+      "sort_name": "BOSKO OBRADOVIC",
+      "memberships": [
+        {
+          "person_id": "person/52962259-4130-46a4-b490-89b2afec00e0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cbf4ebed-ed46-4971-b6f5-60d8bdd8edc5",
+      "name": "BOZIDAR DELIC",
+      "sort_name": "BOZIDAR DELIC",
+      "memberships": [
+        {
+          "person_id": "person/cbf4ebed-ed46-4971-b6f5-60d8bdd8edc5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c810df23-1511-4b43-96e7-52996b768f6a",
+      "name": "BRANIMIR JOVANOVIC",
+      "sort_name": "BRANIMIR JOVANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/c810df23-1511-4b43-96e7-52996b768f6a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -523,8 +529,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2015-01-30",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -541,7 +546,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -549,16 +554,16 @@
       ]
     },
     {
-      "id": "person/479c1129-b42d-449f-b460-6e7d85a99107",
-      "name": "BRANKA BOSNjAK",
-      "sort_name": "BRANKA BOSNjAK",
+      "id": "person/b10ef8af-2f37-4a9f-8319-3fd92b0d2459",
+      "name": "BRANISLAV MIHAJLOVIC",
+      "sort_name": "BRANISLAV MIHAJLOVIC",
       "memberships": [
         {
-          "person_id": "person/479c1129-b42d-449f-b460-6e7d85a99107",
+          "person_id": "person/b10ef8af-2f37-4a9f-8319-3fd92b0d2459",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -566,51 +571,16 @@
       ]
     },
     {
-      "id": "person/ee95b632-1f88-499c-9516-50c8f9f1d85d",
-      "name": "BRANKA JANKOVIC",
-      "sort_name": "BRANKA JANKOVIC",
+      "id": "person/1fbc864e-a3ac-4621-ad76-83cf59265172",
+      "name": "BRANKA STAMENKOVIC",
+      "sort_name": "BRANKA STAMENKOVIC",
       "memberships": [
         {
-          "person_id": "person/ee95b632-1f88-499c-9516-50c8f9f1d85d",
+          "person_id": "person/1fbc864e-a3ac-4621-ad76-83cf59265172",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-10-03",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d967a511-c335-4793-8e02-942feb27c107",
-      "name": "BRANKA KARAVIDIC",
-      "sort_name": "BRANKA KARAVIDIC",
-      "memberships": [
-        {
-          "person_id": "person/d967a511-c335-4793-8e02-942feb27c107",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/e8290136-da32-4584-b2b6-50b45ec09a95",
-      "name": "BRANKO DJUROVIC",
-      "sort_name": "BRANKO prof. Dr DJUROVIC",
-      "memberships": [
-        {
-          "person_id": "person/e8290136-da32-4584-b2b6-50b45ec09a95",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -627,30 +597,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/ad1e85a7-133f-4f08-9663-e0d3c036dde5",
-      "name": "BRATIMIR VASILjEVIC",
-      "sort_name": "BRATIMIR VASILjEVIC",
-      "links": [
-        {
-          "url": "bratimir.vasiljevic",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ad1e85a7-133f-4f08-9663-e0d3c036dde5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -678,9 +625,26 @@
           "person_id": "person/cd37cb2b-0ab7-4a11-b64c-4ca4b921711e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
+          "legislative_period_id": "term/11"
         }
+      ]
+    },
+    {
+      "id": "person/fbe4976d-f29f-48b4-9641-cf10a8e478a0",
+      "name": "CEDOMIR JOVANOVIC",
+      "sort_name": "CEDOMIR JOVANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/fbe4976d-f29f-48b4-9641-cf10a8e478a0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "liberal_democratic_party_-_sda_sandzak",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -693,7 +657,41 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ff2440ba-d410-4cce-ba53-bd9210689c22",
+      "name": "DANICA BUKVIC",
+      "sort_name": "DANICA Dr BUKVIC",
+      "memberships": [
+        {
+          "person_id": "person/ff2440ba-d410-4cce-ba53-bd9210689c22",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e38c8e50-012c-4401-95e8-87c22dfa42e8",
+      "name": "DANIJELA STOJADINOVIC",
+      "sort_name": "DANIJELA STOJADINOVIC",
+      "memberships": [
+        {
+          "person_id": "person/e38c8e50-012c-4401-95e8-87c22dfa42e8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -710,81 +708,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/13b3f304-ee4e-4842-a629-43fc37e13610",
-      "name": "DEJAN KOVACEVIC",
-      "sort_name": "DEJAN KOVACEVIC",
-      "memberships": [
-        {
-          "person_id": "person/13b3f304-ee4e-4842-a629-43fc37e13610",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/dc97a31e-d007-4fd0-9023-1c0a60111f1c",
-      "name": "DEJAN MA CAPO",
-      "sort_name": "DEJAN MA CAPO",
-      "memberships": [
-        {
-          "person_id": "person/dc97a31e-d007-4fd0-9023-1c0a60111f1c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c54c81fa-7e40-4e76-b453-1987708ca419",
-      "name": "DEJAN MA RADENKOVIC",
-      "sort_name": "DEJAN MA RADENKOVIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "RadenkovicDejan"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c54c81fa-7e40-4e76-b453-1987708ca419",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
-        }
-      ]
-    },
-    {
-      "id": "person/4b291fc9-28a5-446b-844e-b2e7b98d437c",
-      "name": "DEJAN NEKTARIJEVIC",
-      "sort_name": "DEJAN Dr NEKTARIJEVIC",
-      "memberships": [
-        {
-          "person_id": "person/4b291fc9-28a5-446b-844e-b2e7b98d437c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -801,7 +725,41 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/934f6396-2890-4de3-b8a9-9da7e1a79328",
+      "name": "DEJAN SULKIC",
+      "sort_name": "DEJAN SULKIC",
+      "memberships": [
+        {
+          "person_id": "person/934f6396-2890-4de3-b8a9-9da7e1a79328",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b4cee973-2826-411a-a9b2-6fb2a6ebe755",
+      "name": "DESANKA REPAC",
+      "sort_name": "DESANKA REPAC",
+      "memberships": [
+        {
+          "person_id": "person/b4cee973-2826-411a-a9b2-6fb2a6ebe755",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -818,25 +776,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/4b81d75f-2c7d-4f45-bf7b-792ca6bb5986",
-      "name": "DJORDJE CABARKAPA",
-      "sort_name": "DJORDJE CABARKAPA",
-      "memberships": [
-        {
-          "person_id": "person/4b81d75f-2c7d-4f45-bf7b-792ca6bb5986",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "start_date": "2014-07-31",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -853,7 +793,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -870,42 +810,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a8b6e3b4-8f58-45a2-b77c-3ce529503a3a",
-      "name": "DJORDJE STOJSIC",
-      "sort_name": "DJORDJE STOJSIC",
-      "memberships": [
-        {
-          "person_id": "person/a8b6e3b4-8f58-45a2-b77c-3ce529503a3a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a69c51e2-49d4-47f5-be6d-5f6c981f2927",
-      "name": "DRAGAN ALEKSIC",
-      "sort_name": "DRAGAN ALEKSIC",
-      "memberships": [
-        {
-          "person_id": "person/a69c51e2-49d4-47f5-be6d-5f6c981f2927",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -922,7 +827,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "new_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -946,7 +851,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -954,51 +859,16 @@
       ]
     },
     {
-      "id": "person/61acbbf8-b39e-4109-871b-62fc87ec5350",
-      "name": "DRAGAN NIKOLIC",
-      "sort_name": "DRAGAN NIKOLIC",
+      "id": "person/0f904c17-df87-4c7a-9584-d4fb330b91bc",
+      "name": "DRAGAN SAVKIC",
+      "sort_name": "DRAGAN SAVKIC",
       "memberships": [
         {
-          "person_id": "person/61acbbf8-b39e-4109-871b-62fc87ec5350",
+          "person_id": "person/0f904c17-df87-4c7a-9584-d4fb330b91bc",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/de55bb9a-704f-4922-880d-944506548ee8",
-      "name": "DRAGAN PAUNOVIC",
-      "sort_name": "DRAGAN PAUNOVIC",
-      "memberships": [
-        {
-          "person_id": "person/de55bb9a-704f-4922-880d-944506548ee8",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/8d011e3c-9c08-4590-ad58-c277a948797c",
-      "name": "DRAGAN POLOVINA",
-      "sort_name": "DRAGAN POLOVINA",
-      "memberships": [
-        {
-          "person_id": "person/8d011e3c-9c08-4590-ad58-c277a948797c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-10-03",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1021,46 +891,21 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
     {
-      "gender": "male",
-      "id": "person/5f341a07-da50-45c9-ba56-f3ad2f540cdc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dragan_Šutanovac_091201-D-9880W-025.jpg",
-      "name": "DRAGAN SUTANOVAC",
-      "sort_name": "DRAGAN SUTANOVAC",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dragan_Šutanovac_091201-D-9880W-025.jpg"
-        }
-      ],
+      "id": "person/8f87bde0-71fd-4a50-9ab1-ad22be9380a4",
+      "name": "DRAGAN VELjKOVIĆ",
+      "sort_name": "DRAGAN VELjKOVIĆ",
       "memberships": [
         {
-          "person_id": "person/5f341a07-da50-45c9-ba56-f3ad2f540cdc",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/cce24986-a38b-4f32-ba8a-9e6fd81b473b",
-      "name": "DRAGAN TODOROVIC",
-      "sort_name": "DRAGAN TODOROVIC",
-      "memberships": [
-        {
-          "person_id": "person/cce24986-a38b-4f32-ba8a-9e6fd81b473b",
+          "person_id": "person/8f87bde0-71fd-4a50-9ab1-ad22be9380a4",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1083,7 +928,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/83ce5401-a254-4932-bfc6-4d963fd5fd0a",
+      "name": "DRAGANA KOSTIC",
+      "sort_name": "DRAGANA KOSTIC",
+      "memberships": [
+        {
+          "person_id": "person/83ce5401-a254-4932-bfc6-4d963fd5fd0a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1107,24 +969,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/50fea2c0-79a3-489e-9b6f-fc1e7959755b",
-      "name": "DRAGOLjUB ZINDOVIC",
-      "sort_name": "DRAGOLjUB ZINDOVIC",
-      "memberships": [
-        {
-          "person_id": "person/50fea2c0-79a3-489e-9b6f-fc1e7959755b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1153,7 +998,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
@@ -1167,7 +1012,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "new_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8b49e8c5-ac82-428d-be43-f2ce6069edfb",
+      "name": "DUBRAVKO BOJIC",
+      "sort_name": "DUBRAVKO BOJIC",
+      "memberships": [
+        {
+          "person_id": "person/8b49e8c5-ac82-428d-be43-f2ce6069edfb",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1184,7 +1046,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1192,17 +1054,16 @@
       ]
     },
     {
-      "id": "person/2e1c215c-8fbf-4688-90a2-e15dbec735de",
-      "name": "DUSAN JANKOVIC",
-      "sort_name": "DUSAN JANKOVIC",
+      "id": "person/d47be15e-a4cc-470a-9ca2-33d7742b2b53",
+      "name": "DUSAN BORKOVIC",
+      "sort_name": "DUSAN BORKOVIC",
       "memberships": [
         {
-          "person_id": "person/2e1c215c-8fbf-4688-90a2-e15dbec735de",
+          "person_id": "person/d47be15e-a4cc-470a-9ca2-33d7742b2b53",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-06-27",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1210,17 +1071,16 @@
       ]
     },
     {
-      "id": "person/8d75f567-42fa-4347-b559-61a4db4571ec",
-      "name": "DUSAN MILISAVLJEVIC",
-      "sort_name": "DUSAN Prof. Dr MILISAVLJEVIC",
+      "id": "person/8808bce7-4d1f-480c-8bac-d8be8ea36443",
+      "name": "DUSAN PAVLOVIC",
+      "sort_name": "DUSAN PAVLOVIC",
       "memberships": [
         {
-          "person_id": "person/8d75f567-42fa-4347-b559-61a4db4571ec",
+          "person_id": "person/8808bce7-4d1f-480c-8bac-d8be8ea36443",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "democratic_party",
-          "start_date": "2014-04-26",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1243,42 +1103,8 @@
           "person_id": "person/9a38c6d2-9c43-47cd-991d-5a1ba2e9ae89",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c7132054-18d6-4018-a567-9729764e4157",
-      "name": "DUSAN STUPAR",
-      "sort_name": "DUSAN STUPAR",
-      "memberships": [
-        {
-          "person_id": "person/c7132054-18d6-4018-a567-9729764e4157",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/77922577-95a2-4839-92d8-db349cbca005",
-      "name": "DUSICA NIKOLIC",
-      "sort_name": "DUSICA NIKOLIC",
-      "memberships": [
-        {
-          "person_id": "person/77922577-95a2-4839-92d8-db349cbca005",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1301,7 +1127,58 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7350c707-6b38-4a58-9674-d9f8fd5672ce",
+      "name": "DUSKO TARBUK",
+      "sort_name": "DUSKO TARBUK",
+      "memberships": [
+        {
+          "person_id": "person/7350c707-6b38-4a58-9674-d9f8fd5672ce",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/21e1c48d-13e7-46fd-ab0e-75d84a65b8ca",
+      "name": "DjORDjE KOMLENSKI",
+      "sort_name": "DjORDjE KOMLENSKI",
+      "memberships": [
+        {
+          "person_id": "person/21e1c48d-13e7-46fd-ab0e-75d84a65b8ca",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/96c4d284-e6e8-492a-bb63-a4ee25f706cf",
+      "name": "DjORDjE VUKADINOVIC",
+      "sort_name": "DjORDjE VUKADINOVIC",
+      "memberships": [
+        {
+          "person_id": "person/96c4d284-e6e8-492a-bb63-a4ee25f706cf",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1317,8 +1194,8 @@
           "person_id": "person/b0c332db-850b-4aef-8754-12a4d1af45bb",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1346,9 +1223,26 @@
           "person_id": "person/462a8c40-37e0-49e2-8318-eda4a4c8a143",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "sda_sandzak_–_party_of_democratic_action",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "liberal_democratic_party_-_sda_sandzak",
+          "legislative_period_id": "term/11"
         }
+      ]
+    },
+    {
+      "id": "person/dd9e0fcc-1d9b-4bf9-9330-ddd26f77739f",
+      "name": "FATMIR HASANI",
+      "sort_name": "FATMIR HASANI",
+      "memberships": [
+        {
+          "person_id": "person/dd9e0fcc-1d9b-4bf9-9330-ddd26f77739f",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1367,8 +1261,25 @@
           "person_id": "person/216b78a9-8be5-4ee7-a477-2d78a058576e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "social_democratic_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6ae9e24c-6a08-4840-aa2b-15935705b989",
+      "name": "GORAN CABRADI",
+      "sort_name": "GORAN CABRADI",
+      "memberships": [
+        {
+          "person_id": "person/6ae9e24c-6a08-4840-aa2b-15935705b989",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina_–_green_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1385,7 +1296,41 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8dad5583-45e2-4575-b6ed-601f5c0ff8b3",
+      "name": "GORAN JESIC",
+      "sort_name": "GORAN JESIC",
+      "memberships": [
+        {
+          "person_id": "person/8dad5583-45e2-4575-b6ed-601f5c0ff8b3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/08f7996e-6608-439b-8714-70b6e887e261",
+      "name": "GORAN KNEZEVIC",
+      "sort_name": "GORAN KNEZEVIC",
+      "memberships": [
+        {
+          "person_id": "person/08f7996e-6608-439b-8714-70b6e887e261",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1402,7 +1347,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1410,35 +1355,16 @@
       ]
     },
     {
-      "id": "person/b4e7f4cd-2900-4153-8a29-ab2cd1196346",
-      "name": "GORAN MLADENOVIC",
-      "sort_name": "GORAN MLADENOVIC",
+      "id": "person/d518679c-e998-4eef-b2ec-24aaa49477ec",
+      "name": "GORAN NIKOLIC",
+      "sort_name": "GORAN NIKOLIC",
       "memberships": [
         {
-          "person_id": "person/b4e7f4cd-2900-4153-8a29-ab2cd1196346",
+          "person_id": "person/d518679c-e998-4eef-b2ec-24aaa49477ec",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-10-03",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/11168361-6f15-488e-af57-4572a269eb74",
-      "name": "GORAN VUKADINOVIC",
-      "sort_name": "GORAN VUKADINOVIC",
-      "memberships": [
-        {
-          "person_id": "person/11168361-6f15-488e-af57-4572a269eb74",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1467,39 +1393,21 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
     {
-      "id": "person/b7449a6d-afc1-45da-97d8-e22279306933",
-      "name": "GORDANA TOPIC",
-      "sort_name": "GORDANA TOPIC",
+      "id": "person/b11dccd3-68a5-46cd-b2dd-de23f8e660b2",
+      "name": "GORDANA PREDIC",
+      "sort_name": "GORDANA PREDIC",
       "memberships": [
         {
-          "person_id": "person/b7449a6d-afc1-45da-97d8-e22279306933",
+          "person_id": "person/b11dccd3-68a5-46cd-b2dd-de23f8e660b2",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "start_date": "2014-07-31",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d69ce588-164c-441b-988f-11d483f20e68",
-      "name": "GORDANA ZORIC",
-      "sort_name": "GORDANA Dr ZORIC",
-      "memberships": [
-        {
-          "person_id": "person/d69ce588-164c-441b-988f-11d483f20e68",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "social_democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1507,35 +1415,16 @@
       ]
     },
     {
-      "id": "person/29bde815-be82-49fb-ad63-b2eca0571808",
-      "name": "GORJANA MARINKOVIC",
-      "sort_name": "GORJANA MARINKOVIC",
+      "id": "person/f93fbc26-d539-410d-b069-6e82805bcb9e",
+      "name": "GORICA GAJIC",
+      "sort_name": "GORICA GAJIC",
       "memberships": [
         {
-          "person_id": "person/29bde815-be82-49fb-ad63-b2eca0571808",
+          "person_id": "person/f93fbc26-d539-410d-b069-6e82805bcb9e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-12-17",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/f10b6e92-ad26-4259-b166-57b74f919df5",
-      "name": "GROZDANA BANAC",
-      "sort_name": "GROZDANA BANAC",
-      "memberships": [
-        {
-          "person_id": "person/f10b6e92-ad26-4259-b166-57b74f919df5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1552,7 +1441,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1569,81 +1458,11 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "id": "person/de92280d-7e43-4ebd-830f-cb4a51393ca4",
-      "name": "IRENA ALEKSIC",
-      "sort_name": "IRENA ALEKSIC",
-      "memberships": [
-        {
-          "person_id": "person/de92280d-7e43-4ebd-830f-cb4a51393ca4",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/1ca38fe6-06fb-4ec4-ae4f-3481a220c38c",
-      "name": "IVAN BAUER",
-      "sort_name": "IVAN Dr BAUER",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "bauerivan"
-        }
-      ],
-      "links": [
-        {
-          "url": "ivan.bauer.127",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1ca38fe6-06fb-4ec4-ae4f-3481a220c38c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ]
-    },
-    {
-      "id": "person/33ff8e42-efd9-42d2-9b69-c2e5b972dee3",
-      "name": "IVAN JOVANOVIC",
-      "sort_name": "IVAN JOVANOVIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "IvoJovanovic"
-        }
-      ],
-      "links": [
-        {
-          "url": "ds.ivanjovanovic",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/33ff8e42-efd9-42d2-9b69-c2e5b972dee3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "start_date": "2014-10-27",
-          "legislative_period_id": "term/10"
-        }
       ]
     },
     {
@@ -1668,21 +1487,55 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
     {
-      "id": "person/a6e41db9-3aa4-4ebb-8242-e5146e43f8d7",
-      "name": "IVANA DINIC",
-      "sort_name": "IVANA DINIC",
+      "id": "person/d43943dc-74b5-40c9-a704-ef4282580e3c",
+      "name": "IVAN MA KOSTIC",
+      "sort_name": "IVAN MA KOSTIC",
       "memberships": [
         {
-          "person_id": "person/a6e41db9-3aa4-4ebb-8242-e5146e43f8d7",
+          "person_id": "person/d43943dc-74b5-40c9-a704-ef4282580e3c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/39eac0ee-a09b-4f6d-97c7-36478997cf54",
+      "name": "IVAN MANOJLOVIC",
+      "sort_name": "IVAN MANOJLOVIC",
+      "memberships": [
+        {
+          "person_id": "person/39eac0ee-a09b-4f6d-97c7-36478997cf54",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a2c7c6ef-bab9-484a-bc6f-cbac317610f2",
+      "name": "IVANA NIKOLIC",
+      "sort_name": "IVANA NIKOLIC",
+      "memberships": [
+        {
+          "person_id": "person/a2c7c6ef-bab9-484a-bc6f-cbac317610f2",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1699,7 +1552,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1707,17 +1560,50 @@
       ]
     },
     {
-      "id": "person/f5fc19ba-892a-41ee-9a58-c72fefd0e386",
-      "name": "IVICA JEVTIC",
-      "sort_name": "IVICA JEVTIC",
+      "id": "person/17b1d7b3-9bd5-4a30-950a-55f424582c35",
+      "name": "IVICA DACIC",
+      "sort_name": "IVICA DACIC",
       "memberships": [
         {
-          "person_id": "person/f5fc19ba-892a-41ee-9a58-c72fefd0e386",
+          "person_id": "person/17b1d7b3-9bd5-4a30-950a-55f424582c35",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/52ff73ac-8e3e-48db-8665-4b995074f549",
+      "name": "IVICA TONCEV",
+      "sort_name": "IVICA TONCEV",
+      "memberships": [
+        {
+          "person_id": "person/52ff73ac-8e3e-48db-8665-4b995074f549",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e0d49575-45f7-415d-918f-c0f0be8e73f0",
+      "name": "JADRANKA JOVANOVIC",
+      "sort_name": "JADRANKA JOVANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/e0d49575-45f7-415d-918f-c0f0be8e73f0",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1725,23 +1611,50 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/cc993d2f-c81b-4433-8bdb-e82c52a52bc2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Janko_2.jpg",
-      "name": "JANKO VESELINOVIC",
-      "sort_name": "JANKO Dr VESELINOVIC",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Janko_2.jpg"
-        }
-      ],
+      "id": "person/5f3f4c2e-7b5b-43af-bec8-7d1241882ce9",
+      "name": "JAHJA FEHRATOVIC",
+      "sort_name": "JAHJA FEHRATOVIC",
       "memberships": [
         {
-          "person_id": "person/cc993d2f-c81b-4433-8bdb-e82c52a52bc2",
+          "person_id": "person/5f3f4c2e-7b5b-43af-bec8-7d1241882ce9",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e66d61df-72ec-4795-b2cb-82d43836d717",
+      "name": "JASMINA KARANAC",
+      "sort_name": "JASMINA KARANAC",
+      "memberships": [
+        {
+          "person_id": "person/e66d61df-72ec-4795-b2cb-82d43836d717",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/438f7638-91c0-4115-88d5-2debec2bcc79",
+      "name": "JASMINA NIKOLIC",
+      "sort_name": "JASMINA NIKOLIC",
+      "memberships": [
+        {
+          "person_id": "person/438f7638-91c0-4115-88d5-2debec2bcc79",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1758,7 +1671,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1775,7 +1688,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1783,17 +1696,16 @@
       ]
     },
     {
-      "id": "person/98c2f319-5d27-4618-95de-4a8578319ca9",
-      "name": "JELISAVETA PRIBOJAC",
-      "sort_name": "JELISAVETA PRIBOJAC",
+      "id": "person/b6b123cd-3d95-4bc3-9e69-c16d458b6dd0",
+      "name": "JELENA ZARIC KOVACEVIC",
+      "sort_name": "JELENA ZARIC KOVACEVIC",
       "memberships": [
         {
-          "person_id": "person/98c2f319-5d27-4618-95de-4a8578319ca9",
+          "person_id": "person/b6b123cd-3d95-4bc3-9e69-c16d458b6dd0",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-04-26",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1801,16 +1713,16 @@
       ]
     },
     {
-      "id": "person/35263afa-414c-46ce-9db1-d7eeb69deb9b",
-      "name": "JELISAVETA VELjKOVIC",
-      "sort_name": "JELISAVETA VELjKOVIC",
+      "id": "person/a1c0d512-c908-48cf-b47d-b4b59e19f514",
+      "name": "JOSIP BROZ",
+      "sort_name": "JOSIP BROZ",
       "memberships": [
         {
-          "person_id": "person/35263afa-414c-46ce-9db1-d7eeb69deb9b",
+          "person_id": "person/a1c0d512-c908-48cf-b47d-b4b59e19f514",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1818,63 +1730,20 @@
       ]
     },
     {
-      "id": "person/e10d1c74-5dd7-4e9d-b8c5-5df2856c51b9",
-      "name": "JEZDIMIR VUCETIC",
-      "sort_name": "JEZDIMIR Dr VUCETIC",
+      "id": "person/16ed340d-4cd2-4501-a511-82311ddb44eb",
+      "name": "JOVAN PALALIC",
+      "sort_name": "JOVAN PALALIC",
       "memberships": [
         {
-          "person_id": "person/e10d1c74-5dd7-4e9d-b8c5-5df2856c51b9",
+          "person_id": "person/16ed340d-4cd2-4501-a511-82311ddb44eb",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "id": "person/30a0e9c3-7479-46ec-977a-f1026f4431b4",
-      "name": "JOVAN MARKOVIC",
-      "sort_name": "JOVAN MARKOVIC",
-      "memberships": [
-        {
-          "person_id": "person/30a0e9c3-7479-46ec-977a-f1026f4431b4",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/912ba055-db0d-4a6f-bfd9-c11252a4e870",
-      "name": "JOVANA JOVANOVIC",
-      "sort_name": "JOVANA JOVANOVIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "jjovanoviceva"
-        }
-      ],
-      "links": [
-        {
-          "url": "jovana.j88",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/912ba055-db0d-4a6f-bfd9-c11252a4e870",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
-        }
       ]
     },
     {
@@ -1887,7 +1756,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/31376c54-39cd-4852-a348-a03c2336cf63",
+      "name": "JOVO OSTOJIC",
+      "sort_name": "JOVO OSTOJIC",
+      "memberships": [
+        {
+          "person_id": "person/31376c54-39cd-4852-a348-a03c2336cf63",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1916,25 +1802,8 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
-      ]
-    },
-    {
-      "id": "person/de1210b0-19ab-4572-a1cc-efac303c3322",
-      "name": "KATARINA SUSNjAR",
-      "sort_name": "KATARINA SUSNjAR",
-      "memberships": [
-        {
-          "person_id": "person/de1210b0-19ab-4572-a1cc-efac303c3322",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1947,7 +1816,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1955,34 +1824,16 @@
       ]
     },
     {
-      "id": "person/466350c0-55b6-4c14-87ff-a84d6e2cca74",
-      "name": "KRSTIMIR PANTIC",
-      "sort_name": "KRSTIMIR PANTIC",
+      "id": "person/9a9ac776-0570-41bf-9a52-d63d9a00cb4e",
+      "name": "KRSTO JANjUSEVIC",
+      "sort_name": "KRSTO JANjUSEVIC",
       "memberships": [
         {
-          "person_id": "person/466350c0-55b6-4c14-87ff-a84d6e2cca74",
+          "person_id": "person/9a9ac776-0570-41bf-9a52-d63d9a00cb4e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-04-26",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/01f37449-8ae5-426c-9cfd-d9a6747e9669",
-      "name": "LJILJANA NESTOROVIC",
-      "sort_name": "LJILJANA NESTOROVIC",
-      "memberships": [
-        {
-          "person_id": "person/01f37449-8ae5-426c-9cfd-d9a6747e9669",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -1999,7 +1850,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2016,7 +1867,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2033,7 +1884,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2041,33 +1892,16 @@
       ]
     },
     {
-      "id": "person/b8dda415-aad3-4045-bb31-5f0d20bc98bc",
-      "name": "LjILjANA BERONjA",
-      "sort_name": "LjILjANA Dr BERONjA",
+      "id": "person/b6b1874a-2a7a-4341-85a1-a48b4add27f8",
+      "name": "LjILjANA DjUROVIC",
+      "sort_name": "LjILjANA DjUROVIC",
       "memberships": [
         {
-          "person_id": "person/b8dda415-aad3-4045-bb31-5f0d20bc98bc",
+          "person_id": "person/b6b1874a-2a7a-4341-85a1-a48b4add27f8",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/923b1dc6-c661-4b95-a913-7e9d361729dd",
-      "name": "LjILjANA KOSORIC",
-      "sort_name": "LjILjANA KOSORIC",
-      "memberships": [
-        {
-          "person_id": "person/923b1dc6-c661-4b95-a913-7e9d361729dd",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_renewal_movement_–_demo-christian_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2084,7 +1918,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2092,16 +1926,50 @@
       ]
     },
     {
-      "id": "person/33aae2fe-a880-4f34-b135-09c3084afab1",
-      "name": "LÁSZLÓ VARGA",
-      "sort_name": "LÁSZLÓ VARGA",
+      "id": "person/9b094818-7666-4b1b-9275-64eb444c0c35",
+      "name": "LjILjANA MIHAJLOVIC",
+      "sort_name": "LjILjANA MIHAJLOVIC",
       "memberships": [
         {
-          "person_id": "person/33aae2fe-a880-4f34-b135-09c3084afab1",
+          "person_id": "person/9b094818-7666-4b1b-9275-64eb444c0c35",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/629892dd-54f6-463c-9969-4dacfa27fad1",
+      "name": "LjUBINKO RAKONjAC",
+      "sort_name": "LjUBINKO Dr RAKONjAC",
+      "memberships": [
+        {
+          "person_id": "person/629892dd-54f6-463c-9969-4dacfa27fad1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a1491696-fbca-462b-890d-4f417f616fc3",
+      "name": "LjUPKA MIHAJLOVSKA",
+      "sort_name": "LjUPKA MIHAJLOVSKA",
+      "memberships": [
+        {
+          "person_id": "person/a1491696-fbca-462b-890d-4f417f616fc3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2125,7 +1993,64 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0121ed9c-e4e3-4461-9ebc-85c84cad1ce3",
+      "name": "MAJA MACUZIC",
+      "sort_name": "MAJA MACUZIC",
+      "memberships": [
+        {
+          "person_id": "person/0121ed9c-e4e3-4461-9ebc-85c84cad1ce3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7c67a22e-6383-405e-8494-85a0ec6901a8",
+      "name": "MAJA VIDENOVIC",
+      "sort_name": "MAJA VIDENOVIC",
+      "links": [
+        {
+          "url": "Maja Videnovic",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7c67a22e-6383-405e-8494-85a0ec6901a8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/eb5b519e-94b2-4b7a-820a-f1afdfbb9488",
+      "name": "MARIJA JANjUSEVIC",
+      "sort_name": "MARIJA JANjUSEVIC",
+      "memberships": [
+        {
+          "person_id": "person/eb5b519e-94b2-4b7a-820a-f1afdfbb9488",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2142,7 +2067,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2165,7 +2090,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
@@ -2179,8 +2104,42 @@
           "person_id": "person/223b0432-79f3-4084-81d4-00a86334772a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/86253119-c8eb-4cf0-9b38-b319e2bdcc18",
+      "name": "MARINA RISTIC",
+      "sort_name": "MARINA RISTIC",
+      "memberships": [
+        {
+          "person_id": "person/86253119-c8eb-4cf0-9b38-b319e2bdcc18",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1ec6dd6e-0d9e-4cd1-bcb0-46c070302ee5",
+      "name": "MARINIKA TEPIC",
+      "sort_name": "MARINIKA TEPIC",
+      "memberships": [
+        {
+          "person_id": "person/1ec6dd6e-0d9e-4cd1-bcb0-46c070302ee5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina_–_green_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2197,7 +2156,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2221,7 +2180,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8bbd18f2-b6d5-451f-b05b-ea676e0e9b6d",
+      "name": "MARKO BLAGOJEVIC",
+      "sort_name": "MARKO BLAGOJEVIC",
+      "memberships": [
+        {
+          "person_id": "person/8bbd18f2-b6d5-451f-b05b-ea676e0e9b6d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2237,8 +2213,76 @@
           "person_id": "person/ad7d3ffb-b708-4100-9fc1-73a8c0a02b0a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "social_democratic_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bc6a0852-fb10-42a5-8892-ce92bfcfd707",
+      "name": "MARKO GAVRILOVIC",
+      "sort_name": "MARKO GAVRILOVIC",
+      "memberships": [
+        {
+          "person_id": "person/bc6a0852-fb10-42a5-8892-ce92bfcfd707",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e5047456-bfab-4ea0-b83b-8fee67facd4f",
+      "name": "MARKO MA MILENKOVIC",
+      "sort_name": "MARKO MA MILENKOVIC",
+      "memberships": [
+        {
+          "person_id": "person/e5047456-bfab-4ea0-b83b-8fee67facd4f",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ac2cc6ca-312a-40ee-ae56-041a085fb1a7",
+      "name": "MARKO PAREZANOVIC",
+      "sort_name": "MARKO PAREZANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/ac2cc6ca-312a-40ee-ae56-041a085fb1a7",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/08b089f8-a201-4192-997f-3cb50058e0e1",
+      "name": "MARKO ZELjUG",
+      "sort_name": "MARKO ZELjUG",
+      "memberships": [
+        {
+          "person_id": "person/08b089f8-a201-4192-997f-3cb50058e0e1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2255,7 +2299,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2263,16 +2307,33 @@
       ]
     },
     {
-      "id": "person/44d075f1-157e-4169-b0be-c1b3bcc38e32",
-      "name": "MILAN DJURICA",
-      "sort_name": "MILAN DJURICA",
+      "id": "person/b30d7d7d-3923-45b2-a9f2-d70b18c89d3c",
+      "name": "MIHAILO JOKIC",
+      "sort_name": "MIHAILO JOKIC",
       "memberships": [
         {
-          "person_id": "person/44d075f1-157e-4169-b0be-c1b3bcc38e32",
+          "person_id": "person/b30d7d7d-3923-45b2-a9f2-d70b18c89d3c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b0b01548-d8f1-4fee-ad74-af30b501c41b",
+      "name": "MILADIN SEVARLIC",
+      "sort_name": "MILADIN Prof. Dr SEVARLIC",
+      "memberships": [
+        {
+          "person_id": "person/b0b01548-d8f1-4fee-ad74-af30b501c41b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2289,41 +2350,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a0007e8e-a741-48a0-a76f-dc0e7a4d01d4",
-      "name": "MILAN KORAC",
-      "sort_name": "MILAN KORAC",
-      "memberships": [
-        {
-          "person_id": "person/a0007e8e-a741-48a0-a76f-dc0e7a4d01d4",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/78f2be19-4f85-4ecc-9771-1cfa222c7c4a",
-      "name": "MILAN KOVACEVIC",
-      "sort_name": "MILAN KOVACEVIC",
-      "memberships": [
-        {
-          "person_id": "person/78f2be19-4f85-4ecc-9771-1cfa222c7c4a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2340,7 +2367,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2348,86 +2375,20 @@
       ]
     },
     {
-      "id": "person/0e537eb1-d449-4ab1-b2d3-85e297037d6f",
-      "name": "MILAN LATKOVIC",
-      "sort_name": "MILAN Dr LATKOVIC",
-      "links": [
-        {
-          "url": "milan.latkovic.10",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/f73a4839-c8ee-4343-960a-1fec916cdd6c",
+      "name": "MILAN LAPCEVIC",
+      "sort_name": "MILAN LAPCEVIC",
       "memberships": [
         {
-          "person_id": "person/0e537eb1-d449-4ab1-b2d3-85e297037d6f",
+          "person_id": "person/f73a4839-c8ee-4343-960a-1fec916cdd6c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "id": "person/27c01b3a-7fd2-41b4-b704-f33304c6a5e7",
-      "name": "MILAN NOVAKOVIC",
-      "sort_name": "MILAN NOVAKOVIC",
-      "memberships": [
-        {
-          "person_id": "person/27c01b3a-7fd2-41b4-b704-f33304c6a5e7",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/e778cdf8-3317-4ee2-ba33-256469ac8344",
-      "name": "MILAN PETRIC",
-      "sort_name": "MILAN PETRIC",
-      "memberships": [
-        {
-          "person_id": "person/e778cdf8-3317-4ee2-ba33-256469ac8344",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/76f3d211-0502-492e-b2da-95ad1485f965",
-      "name": "MILAN STEVANOVIC",
-      "sort_name": "MILAN STEVANOVIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "milanpixel"
-        }
-      ],
-      "links": [
-        {
-          "url": "milan.stevanovic.1420",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/76f3d211-0502-492e-b2da-95ad1485f965",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
       ]
     },
     {
@@ -2440,7 +2401,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2469,7 +2430,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
@@ -2483,7 +2444,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2500,7 +2461,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2523,24 +2484,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/332e3aeb-aa6b-4b01-8ed9-6137c4177c64",
-      "name": "MILETA POSKURICA",
-      "sort_name": "MILETA POSKURICA",
-      "memberships": [
-        {
-          "person_id": "person/332e3aeb-aa6b-4b01-8ed9-6137c4177c64",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2557,7 +2501,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2573,8 +2517,8 @@
           "person_id": "person/bb7ba8de-38c3-4f7b-b349-33c04d657775",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialists’_movement_-_people's_peasant_party_-_united_peasant_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2582,50 +2526,16 @@
       ]
     },
     {
-      "id": "person/4161e20d-6d3e-4f7f-95cd-d0ed025ba646",
-      "name": "MILINKO ZIVKOVIC",
-      "sort_name": "MILINKO ZIVKOVIC",
+      "id": "person/5c14483f-18a5-4349-9757-7336fc72f122",
+      "name": "MILIMIR VUJADINOVIC",
+      "sort_name": "MILIMIR VUJADINOVIC",
       "memberships": [
         {
-          "person_id": "person/4161e20d-6d3e-4f7f-95cd-d0ed025ba646",
+          "person_id": "person/5c14483f-18a5-4349-9757-7336fc72f122",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/782b2327-a2e8-49be-a0f7-14d726c8fede",
-      "name": "MILISAV PETRONIJEVIC",
-      "sort_name": "MILISAV PETRONIJEVIC",
-      "memberships": [
-        {
-          "person_id": "person/782b2327-a2e8-49be-a0f7-14d726c8fede",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/ddb1acaf-faf2-46df-832d-c152c6fd30ca",
-      "name": "MILORAD CVETANOVIC",
-      "sort_name": "MILORAD CVETANOVIC",
-      "memberships": [
-        {
-          "person_id": "person/ddb1acaf-faf2-46df-832d-c152c6fd30ca",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2648,7 +2558,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2656,16 +2566,33 @@
       ]
     },
     {
-      "id": "person/8d2f04a9-8a9d-4f2f-a82b-2a48b74e7c1a",
-      "name": "MILOS TOSANIC",
-      "sort_name": "MILOS TOSANIC",
+      "id": "person/1e1c7d74-08f9-403a-99ca-877208958194",
+      "name": "MILORAD MIRCIC",
+      "sort_name": "MILORAD MIRCIC",
       "memberships": [
         {
-          "person_id": "person/8d2f04a9-8a9d-4f2f-a82b-2a48b74e7c1a",
+          "person_id": "person/1e1c7d74-08f9-403a-99ca-877208958194",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5f4c3254-aa2a-402a-9632-c97f76d9f35c",
+      "name": "MILOS BOSKOVIC",
+      "sort_name": "MILOS BOSKOVIC",
+      "memberships": [
+        {
+          "person_id": "person/5f4c3254-aa2a-402a-9632-c97f76d9f35c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2682,7 +2609,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c749e7c1-3fb8-4a56-89fa-175736ea75cd",
+      "name": "MILOVAN BOJIC",
+      "sort_name": "MILOVAN Prof. Dr BOJIC",
+      "memberships": [
+        {
+          "person_id": "person/c749e7c1-3fb8-4a56-89fa-175736ea75cd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2700,7 +2644,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/050eac06-fa05-4954-bbe4-29885612c8c7",
+      "name": "MILOVAN KRIVOKAPIC",
+      "sort_name": "MILOVAN KRIVOKAPIC",
+      "memberships": [
+        {
+          "person_id": "person/050eac06-fa05-4954-bbe4-29885612c8c7",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2724,7 +2685,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2732,16 +2693,16 @@
       ]
     },
     {
-      "id": "person/a44ad647-fdea-48fb-866a-62cd43063a8a",
-      "name": "MILjANA NIKOLIC",
-      "sort_name": "MILjANA NIKOLIC",
+      "id": "person/4932cf10-0300-4735-a50a-50241375c583",
+      "name": "MILjAN DAMJANOVIC",
+      "sort_name": "MILjAN DAMJANOVIC",
       "memberships": [
         {
-          "person_id": "person/a44ad647-fdea-48fb-866a-62cd43063a8a",
+          "person_id": "person/4932cf10-0300-4735-a50a-50241375c583",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2764,25 +2725,8 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
-      ]
-    },
-    {
-      "id": "person/b9784444-5665-4ccf-84e7-5a99d8140464",
-      "name": "MIODRAG NIKOLIC",
-      "sort_name": "MIODRAG NIKOLIC",
-      "memberships": [
-        {
-          "person_id": "person/b9784444-5665-4ccf-84e7-5a99d8140464",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2795,112 +2739,11 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "id": "person/17deb795-1d5c-4afc-910d-559768d7eb2f",
-      "name": "MIRJANA ANDRIC",
-      "sort_name": "MIRJANA ANDRIC",
-      "memberships": [
-        {
-          "person_id": "person/17deb795-1d5c-4afc-910d-559768d7eb2f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c7070917-8f11-4963-82ba-266912d2690d",
-      "name": "MIRJANA DJOKOVIC",
-      "sort_name": "MIRJANA DJOKOVIC",
-      "links": [
-        {
-          "url": "mirjana.djokovic.129",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c7070917-8f11-4963-82ba-266912d2690d",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d98c08ba-9e3d-4767-b5c9-f2bd853ddbda",
-      "name": "MIRJANA DRAGAS",
-      "sort_name": "MIRJANA DRAGAS",
-      "memberships": [
-        {
-          "person_id": "person/d98c08ba-9e3d-4767-b5c9-f2bd853ddbda",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/1b441a69-0d7f-48b6-be2f-1121364ccfed",
-      "name": "MIRJANA MARJANOVIC",
-      "sort_name": "MIRJANA MARJANOVIC",
-      "memberships": [
-        {
-          "person_id": "person/1b441a69-0d7f-48b6-be2f-1121364ccfed",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/bc8bb5f7-ebd9-4195-a5c9-9f2dcd388ca1",
-      "name": "MIRKO CIKIRIZ",
-      "sort_name": "MIRKO CIKIRIZ",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "CikirizSPO"
-        }
-      ],
-      "links": [
-        {
-          "url": "mirko.cikiriz",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bc8bb5f7-ebd9-4195-a5c9-9f2dcd388ca1",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_renewal_movement_–_demo-christian_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
       ]
     },
     {
@@ -2913,7 +2756,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2930,7 +2773,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2938,17 +2781,33 @@
       ]
     },
     {
-      "id": "person/eae3bc7b-0a76-44bd-a4ce-2cc736448e23",
-      "name": "MIROSLAV MARINKOVIC",
-      "sort_name": "MIROSLAV MARINKOVIC",
+      "id": "person/ed4d430d-0175-4649-ab0f-7fe0dd59e315",
+      "name": "MIROSLAV ALEKSIC",
+      "sort_name": "MIROSLAV ALEKSIC",
       "memberships": [
         {
-          "person_id": "person/eae3bc7b-0a76-44bd-a4ce-2cc736448e23",
+          "person_id": "person/ed4d430d-0175-4649-ab0f-7fe0dd59e315",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "start_date": "2015-10-22",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "social_democratic_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7a69384a-d6c3-499b-88cb-084eb063ceb3",
+      "name": "MIROSLAV LAZANSKI",
+      "sort_name": "MIROSLAV LAZANSKI",
+      "memberships": [
+        {
+          "person_id": "person/7a69384a-d6c3-499b-88cb-084eb063ceb3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2965,7 +2824,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "new_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5ec94c28-c681-4ff8-b4ed-9511c68b0e34",
+      "name": "MIROSLAVA STANKOVIC DjURICIC",
+      "sort_name": "MIROSLAVA STANKOVIC DjURICIC",
+      "memberships": [
+        {
+          "person_id": "person/5ec94c28-c681-4ff8-b4ed-9511c68b0e34",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2982,7 +2858,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "new_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -2990,33 +2866,16 @@
       ]
     },
     {
-      "id": "person/1221b585-6a0d-4e99-a519-e2f72b302ecf",
-      "name": "MLADEN LUKIC",
-      "sort_name": "MLADEN LUKIC",
+      "id": "person/5ae68d5d-5308-4c44-a598-3411204b27ba",
+      "name": "MOMCILO MANDIC",
+      "sort_name": "MOMCILO MANDIC",
       "memberships": [
         {
-          "person_id": "person/1221b585-6a0d-4e99-a519-e2f72b302ecf",
+          "person_id": "person/5ae68d5d-5308-4c44-a598-3411204b27ba",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/2f946a0e-7b8f-41ee-a64a-6ddbb5748808",
-      "name": "MOMIR STOJANOVIC",
-      "sort_name": "MOMIR STOJANOVIC",
-      "memberships": [
-        {
-          "person_id": "person/2f946a0e-7b8f-41ee-a64a-6ddbb5748808",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3033,7 +2892,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3056,21 +2915,21 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
     {
-      "id": "person/41447b0c-65bf-474b-9ae3-98328f07bdd1",
-      "name": "MUJO MUKOVIC",
-      "sort_name": "MUJO MUKOVIC",
+      "id": "person/4d266276-6377-4241-942b-72677b2ba155",
+      "name": "MUAMER ZUKORLIC",
+      "sort_name": "MUAMER ZUKORLIC",
       "memberships": [
         {
-          "person_id": "person/41447b0c-65bf-474b-9ae3-98328f07bdd1",
+          "person_id": "person/4d266276-6377-4241-942b-72677b2ba155",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3086,8 +2945,8 @@
           "person_id": "person/6ec81776-75f7-465a-8548-c68593386cd9",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina_–_green_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3095,16 +2954,67 @@
       ]
     },
     {
-      "id": "person/8b1666f9-618b-4c2c-872a-d3f70a9ad65c",
-      "name": "NADICA NIKOLIC TANASIJEVIC",
-      "sort_name": "NADICA NIKOLIC TANASIJEVIC",
+      "id": "person/65611133-60a5-4ac6-bbc3-b1585fe00122",
+      "name": "NATASA JOVANOVIC",
+      "sort_name": "NATASA JOVANOVIC",
       "memberships": [
         {
-          "person_id": "person/8b1666f9-618b-4c2c-872a-d3f70a9ad65c",
+          "person_id": "person/65611133-60a5-4ac6-bbc3-b1585fe00122",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6573df8a-eb77-47a6-b8e1-b4b8fe755b3b",
+      "name": "NATASA JOVANOVIC",
+      "sort_name": "NATASA JOVANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/6573df8a-eb77-47a6-b8e1-b4b8fe755b3b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9dd1049c-63fb-443b-872b-3fe00e15221f",
+      "name": "NATASA MICIC",
+      "sort_name": "NATASA MICIC",
+      "memberships": [
+        {
+          "person_id": "person/9dd1049c-63fb-443b-872b-3fe00e15221f",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "liberal_democratic_party_-_sda_sandzak",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d615dd00-6cf2-4a48-8382-73b7dc9266d0",
+      "name": "NATASA MIHAILOVIC VACIC",
+      "sort_name": "NATASA MIHAILOVIC VACIC",
+      "memberships": [
+        {
+          "person_id": "person/d615dd00-6cf2-4a48-8382-73b7dc9266d0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3121,7 +3031,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3129,16 +3039,16 @@
       ]
     },
     {
-      "id": "person/6c9f4393-61a1-4bde-9aa0-f2406eaccd1f",
-      "name": "NEBOJSA BERIC",
-      "sort_name": "NEBOJSA BERIC",
+      "id": "person/26699ba3-5c19-44bc-afbd-e028b59f0307",
+      "name": "NEMANJA SAROVIC",
+      "sort_name": "NEMANJA SAROVIC",
       "memberships": [
         {
-          "person_id": "person/6c9f4393-61a1-4bde-9aa0-f2406eaccd1f",
+          "person_id": "person/26699ba3-5c19-44bc-afbd-e028b59f0307",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3146,51 +3056,16 @@
       ]
     },
     {
-      "id": "person/964292d1-bec8-46ad-8c1c-2f4babf51a94",
-      "name": "NEBOJSA PETROVIC",
-      "sort_name": "NEBOJSA Prof Dr PETROVIC",
+      "id": "person/fcfd6b1d-5787-4780-b64c-eb1ab25d8f27",
+      "name": "NENAD BOZIC",
+      "sort_name": "NENAD BOZIC",
       "memberships": [
         {
-          "person_id": "person/964292d1-bec8-46ad-8c1c-2f4babf51a94",
+          "person_id": "person/fcfd6b1d-5787-4780-b64c-eb1ab25d8f27",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/1745c524-bb6b-411b-a2ef-8e1dc746db8a",
-      "name": "NEBOJSA TATOMIR",
-      "sort_name": "NEBOJSA TATOMIR",
-      "memberships": [
-        {
-          "person_id": "person/1745c524-bb6b-411b-a2ef-8e1dc746db8a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/b14afed3-4ab1-4f72-9136-607707c5c052",
-      "name": "NEDJO JOVANOVIC",
-      "sort_name": "NEDJO JOVANOVIC",
-      "memberships": [
-        {
-          "person_id": "person/b14afed3-4ab1-4f72-9136-607707c5c052",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3213,8 +3088,8 @@
           "person_id": "person/9f7f48d2-03af-4cf8-8b40-75a2fea63bd5",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina_–_green_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3222,23 +3097,16 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/612361f3-f29f-40c7-ba22-9e00ef615610",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nesagalija.jpg",
-      "name": "NENAD MILOSAVLjEVIC",
-      "sort_name": "NENAD MILOSAVLjEVIC",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nesagalija.jpg"
-        }
-      ],
+      "id": "person/949b838f-96d9-42a5-8e56-3b955a78d0e2",
+      "name": "NENAD KONSTANTINOVIC",
+      "sort_name": "NENAD KONSTANTINOVIC",
       "memberships": [
         {
-          "person_id": "person/612361f3-f29f-40c7-ba22-9e00ef615610",
+          "person_id": "person/949b838f-96d9-42a5-8e56-3b955a78d0e2",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "social_democratic_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3246,76 +3114,16 @@
       ]
     },
     {
-      "id": "person/e47e7eca-13d5-4e96-b2f5-94279c961333",
-      "name": "NENAD MITROVIC",
-      "sort_name": "NENAD MITROVIC",
+      "id": "person/aac65523-b57d-4d2f-b8c5-00c647507a29",
+      "name": "NENAD MILIC",
+      "sort_name": "NENAD MILIC",
       "memberships": [
         {
-          "person_id": "person/e47e7eca-13d5-4e96-b2f5-94279c961333",
+          "person_id": "person/aac65523-b57d-4d2f-b8c5-00c647507a29",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/2b1271a3-19c5-4468-a19d-106ea7daa8de",
-      "name": "NENAD NIKOLIC",
-      "sort_name": "NENAD NIKOLIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "nenadnikolic"
-        }
-      ],
-      "links": [
-        {
-          "url": "nikolic.nenad",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2b1271a3-19c5-4468-a19d-106ea7daa8de",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ]
-    },
-    {
-      "id": "person/b8f7d4f8-c040-4130-9003-6ffeec409e11",
-      "name": "NEVENA STOJANOVIC",
-      "sort_name": "NEVENA STOJANOVIC",
-      "memberships": [
-        {
-          "person_id": "person/b8f7d4f8-c040-4130-9003-6ffeec409e11",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/3e9a6420-78ae-4c43-a0f1-a2e73a304e0f",
-      "name": "NEVENKA MILOSEVIC",
-      "sort_name": "NEVENKA MILOSEVIC",
-      "memberships": [
-        {
-          "person_id": "person/3e9a6420-78ae-4c43-a0f1-a2e73a304e0f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "liberal_democratic_party_-_sda_sandzak",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3332,7 +3140,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3340,33 +3148,16 @@
       ]
     },
     {
-      "id": "person/e98ec0a1-7b7b-4456-a754-7ad158380326",
-      "name": "NINOSLAV GIRIC",
-      "sort_name": "NINOSLAV Dr GIRIC",
+      "id": "person/901e0bbe-4c9d-4991-b091-be9b4a2fd1f5",
+      "name": "NIKOLA SAVIC",
+      "sort_name": "NIKOLA SAVIC",
       "memberships": [
         {
-          "person_id": "person/e98ec0a1-7b7b-4456-a754-7ad158380326",
+          "person_id": "person/901e0bbe-4c9d-4991-b091-be9b4a2fd1f5",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/5379cf03-d44f-4a23-8a29-a582cc4dc7f5",
-      "name": "NINOSLAV STOJADINOVIC",
-      "sort_name": "NINOSLAV Dr STOJADINOVIC",
-      "memberships": [
-        {
-          "person_id": "person/5379cf03-d44f-4a23-8a29-a582cc4dc7f5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3383,7 +3174,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3391,16 +3182,16 @@
       ]
     },
     {
-      "id": "person/01e99082-8cdb-4166-8799-47946410532c",
-      "name": "OBRAD ISAILOVIC",
-      "sort_name": "OBRAD Dr ISAILOVIC",
+      "id": "person/ca418105-b04f-42df-ae7c-fd308e576d40",
+      "name": "OGNjEN PANTOVIC",
+      "sort_name": "OGNjEN PANTOVIC",
       "memberships": [
         {
-          "person_id": "person/01e99082-8cdb-4166-8799-47946410532c",
+          "person_id": "person/ca418105-b04f-42df-ae7c-fd308e576d40",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3416,8 +3207,8 @@
           "person_id": "person/878bafef-3b05-4985-9b4e-2287396e3385",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "league_of_social_democrats_of_vojvodina_–_green_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3425,39 +3216,16 @@
       ]
     },
     {
-      "id": "person/b24a6a98-8c53-4d0e-a8e6-bcac7a5a4ea8",
-      "name": "OLGICA BATIC",
-      "sort_name": "OLGICA BATIC",
+      "id": "person/2601aaa1-2601-4a94-a57d-c97f1c8decaf",
+      "name": "OLIVERA OGNjANOVIC",
+      "sort_name": "OLIVERA OGNjANOVIC",
       "memberships": [
         {
-          "person_id": "person/b24a6a98-8c53-4d0e-a8e6-bcac7a5a4ea8",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_renewal_movement_–_demo-christian_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/8a7a1991-07c2-48a1-ae59-13416329be4c",
-      "name": "OLIVERA PAULjESKIC",
-      "sort_name": "OLIVERA PAULjESKIC",
-      "links": [
-        {
-          "url": "olivera.pauljeskic",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8a7a1991-07c2-48a1-ae59-13416329be4c",
+          "person_id": "person/2601aaa1-2601-4a94-a57d-c97f1c8decaf",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3480,7 +3248,41 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/15a1599b-4f91-46e1-a986-6402e07078a9",
+      "name": "OSTOJA MIJAILOVIC",
+      "sort_name": "OSTOJA MIJAILOVIC",
+      "memberships": [
+        {
+          "person_id": "person/15a1599b-4f91-46e1-a986-6402e07078a9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/045066ef-418a-4769-b251-031a140e57a4",
+      "name": "PETAR JOJIC",
+      "sort_name": "PETAR JOJIC",
+      "memberships": [
+        {
+          "person_id": "person/045066ef-418a-4769-b251-031a140e57a4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3497,24 +3299,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/44ab0e48-1287-49f7-a332-3c8354d3373f",
-      "name": "PREDRAG MIJATOVIC",
-      "sort_name": "PREDRAG Dr MIJATOVIC",
-      "memberships": [
-        {
-          "person_id": "person/44ab0e48-1287-49f7-a332-3c8354d3373f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3531,7 +3316,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3539,16 +3324,16 @@
       ]
     },
     {
-      "id": "person/c434ac7c-5e7e-404c-b9fb-fcf8c44c6102",
-      "name": "RADOSLAV JOVIC",
-      "sort_name": "RADOSLAV Dr JOVIC",
+      "id": "person/4806783d-3e02-4df0-a337-1486e0d6cd17",
+      "name": "RADOSLAV COKIC",
+      "sort_name": "RADOSLAV COKIC",
       "memberships": [
         {
-          "person_id": "person/c434ac7c-5e7e-404c-b9fb-fcf8c44c6102",
+          "person_id": "person/4806783d-3e02-4df0-a337-1486e0d6cd17",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3556,16 +3341,16 @@
       ]
     },
     {
-      "id": "person/b9509e7b-bbfd-4f13-abdb-676e71e62b99",
-      "name": "RIZA HALIMI",
-      "sort_name": "RIZA HALIMI",
+      "id": "person/5cfc92d6-3c46-42b1-a31f-c583c8e7e6aa",
+      "name": "RADOSLAV MILOJICIC",
+      "sort_name": "RADOSLAV MILOJICIC",
       "memberships": [
         {
-          "person_id": "person/b9509e7b-bbfd-4f13-abdb-676e71e62b99",
+          "person_id": "person/5cfc92d6-3c46-42b1-a31f-c583c8e7e6aa",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "sda_sandzak_–_party_of_democratic_action",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3573,70 +3358,16 @@
       ]
     },
     {
-      "id": "person/4f3fc90d-c361-4b74-8c27-8f0fc5550f33",
-      "name": "SABINA DAZDAREVIC",
-      "sort_name": "SABINA DAZDAREVIC",
+      "id": "person/74e8973f-8403-4b33-87d3-e993ba20d758",
+      "name": "RADOVAN JANCIC",
+      "sort_name": "RADOVAN JANCIC",
       "memberships": [
         {
-          "person_id": "person/4f3fc90d-c361-4b74-8c27-8f0fc5550f33",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "sda_sandzak_–_party_of_democratic_action",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/297368f7-cc4c-45a0-834a-272283a114be",
-      "name": "SAIP KAMBERI",
-      "sort_name": "SAIP KAMBERI",
-      "memberships": [
-        {
-          "person_id": "person/297368f7-cc4c-45a0-834a-272283a114be",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "sda_sandzak_–_party_of_democratic_action",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/3627405e-ab7c-418f-8173-4ea80a5fe8b5",
-      "name": "SANjA NIKOLIC",
-      "sort_name": "SANjA NIKOLIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "sanjanpakao"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3627405e-ab7c-418f-8173-4ea80a5fe8b5",
+          "person_id": "person/74e8973f-8403-4b33-87d3-e993ba20d758",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ]
-    },
-    {
-      "id": "person/ad0340dd-3ec2-4afd-8ff1-3d0ff6615595",
-      "name": "SASA MAKSIMOVIC",
-      "sort_name": "SASA MAKSIMOVIC",
-      "memberships": [
-        {
-          "person_id": "person/ad0340dd-3ec2-4afd-8ff1-3d0ff6615595",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3644,16 +3375,16 @@
       ]
     },
     {
-      "id": "person/75f64698-48a3-424b-a4a1-68ff9e3b267e",
-      "name": "SASA MIRKOVIC",
-      "sort_name": "SASA MIRKOVIC",
+      "id": "person/94293a97-3fbb-4d25-b8c2-e1b6314ea74d",
+      "name": "RASIM LJAJIC",
+      "sort_name": "RASIM LJAJIC",
       "memberships": [
         {
-          "person_id": "person/75f64698-48a3-424b-a4a1-68ff9e3b267e",
+          "person_id": "person/94293a97-3fbb-4d25-b8c2-e1b6314ea74d",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "social_democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3661,16 +3392,50 @@
       ]
     },
     {
-      "id": "person/b5da4735-823f-4a21-8e37-28e7d762303e",
-      "name": "SINISA MAKSIMOVIC",
-      "sort_name": "SINISA MAKSIMOVIC",
+      "id": "person/9b54d321-2dd6-46c4-af76-4f4823ab866e",
+      "name": "RATKO JANKOV",
+      "sort_name": "RATKO JANKOV",
       "memberships": [
         {
-          "person_id": "person/b5da4735-823f-4a21-8e37-28e7d762303e",
+          "person_id": "person/9b54d321-2dd6-46c4-af76-4f4823ab866e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e7bdd603-4481-4654-a567-15b893d4e7a6",
+      "name": "SANDA RASKOVIC IVIC",
+      "sort_name": "SANDA Dr RASKOVIC IVIC",
+      "memberships": [
+        {
+          "person_id": "person/e7bdd603-4481-4654-a567-15b893d4e7a6",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e537647d-db0d-490f-8a51-e6f27090b0aa",
+      "name": "SASA RADULOVIC",
+      "sort_name": "SASA RADULOVIC",
+      "memberships": [
+        {
+          "person_id": "person/e537647d-db0d-490f-8a51-e6f27090b0aa",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3700,21 +3465,21 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
     {
-      "id": "person/88f9fe46-5058-46fa-b98e-a6fd1306de15",
-      "name": "SLOBODAN GVOZDENOVIC",
-      "sort_name": "SLOBODAN Dr GVOZDENOVIC",
+      "id": "person/cb381316-1203-4bbb-9b15-c6259d9ad33a",
+      "name": "SLAVISA BULATOVIC",
+      "sort_name": "SLAVISA BULATOVIC",
       "memberships": [
         {
-          "person_id": "person/88f9fe46-5058-46fa-b98e-a6fd1306de15",
+          "person_id": "person/cb381316-1203-4bbb-9b15-c6259d9ad33a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3722,17 +3487,16 @@
       ]
     },
     {
-      "id": "person/5ebfd2c2-1416-4ef3-b008-f5a39650c6ba",
-      "name": "SLOBODAN HOMEN",
-      "sort_name": "SLOBODAN HOMEN",
+      "id": "person/f9f4379d-6dfd-4b51-85a4-768f3dd4d7ec",
+      "name": "SLAVISA RISTIC",
+      "sort_name": "SLAVISA RISTIC",
       "memberships": [
         {
-          "person_id": "person/5ebfd2c2-1416-4ef3-b008-f5a39650c6ba",
+          "person_id": "person/f9f4379d-6dfd-4b51-85a4-768f3dd4d7ec",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia",
-          "start_date": "2014-06-05",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "democratic_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3740,34 +3504,16 @@
       ]
     },
     {
-      "id": "person/4a1f698f-8c92-412d-8774-8d16aac62e5b",
-      "name": "SLOBODAN PERIC",
-      "sort_name": "SLOBODAN PERIC",
+      "id": "person/a29d00a2-d9d4-47c9-ad8d-0ad81c1d8f9b",
+      "name": "SNEZANA B. PETROVIC",
+      "sort_name": "SNEZANA B. PETROVIC",
       "memberships": [
         {
-          "person_id": "person/4a1f698f-8c92-412d-8774-8d16aac62e5b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/f7d145fa-7133-4762-bf9c-ee69ea54df7d",
-      "name": "SLOBODAN VELICKOVIC",
-      "sort_name": "SLOBODAN VELICKOVIC",
-      "memberships": [
-        {
-          "person_id": "person/f7d145fa-7133-4762-bf9c-ee69ea54df7d",
+          "person_id": "person/a29d00a2-d9d4-47c9-ad8d-0ad81c1d8f9b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "start_date": "2016-02-01",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3775,23 +3521,67 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/94e54c47-c67f-443d-ba59-d9166b52e2dd",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Snezana_Malovic.jpg",
-      "name": "SNEZANA MALOVIC",
-      "sort_name": "SNEZANA MALOVIC",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Snezana_Malovic.jpg"
-        }
-      ],
+      "id": "person/3535fbcb-bbeb-47a2-be73-e0ee10f55897",
+      "name": "SNEZANA BOGOSAVLjEVIC BOSKOVIC",
+      "sort_name": "SNEZANA Prof. Dr BOGOSAVLjEVIC BOSKOVIC",
       "memberships": [
         {
-          "person_id": "person/94e54c47-c67f-443d-ba59-d9166b52e2dd",
+          "person_id": "person/3535fbcb-bbeb-47a2-be73-e0ee10f55897",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "boris_tadic_–_social_democratic_party,_together_for_serbia,_greens_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/dd18910d-f35f-4944-9baa-fc26445a083e",
+      "name": "SNEZANA PAUNOVIC",
+      "sort_name": "SNEZANA PAUNOVIC",
+      "memberships": [
+        {
+          "person_id": "person/dd18910d-f35f-4944-9baa-fc26445a083e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c7f9201d-2432-4205-bce9-91827f458dc8",
+      "name": "SNEZANA R. PETROVIC",
+      "sort_name": "SNEZANA R. PETROVIC",
+      "memberships": [
+        {
+          "person_id": "person/c7f9201d-2432-4205-bce9-91827f458dc8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3cbb5727-d727-4522-b77a-e147767138dc",
+      "name": "SONjA PAVLOVIC",
+      "sort_name": "SONjA PAVLOVIC",
+      "memberships": [
+        {
+          "person_id": "person/3cbb5727-d727-4522-b77a-e147767138dc",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3808,7 +3598,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3816,23 +3606,16 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/9393981e-be29-48ce-9a46-56742fff280f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/SRDJAN_DRAGOJEVIC-PHOTO1.jpg",
-      "name": "SRDJAN DRAGOJEVIC",
-      "sort_name": "SRDJAN DRAGOJEVIC",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/SRDJAN_DRAGOJEVIC-PHOTO1.jpg"
-        }
-      ],
+      "id": "person/c6d7a9d9-c7d8-43c2-b765-f168df8fbef3",
+      "name": "SRBISLAV FILIPOVIC",
+      "sort_name": "SRBISLAV FILIPOVIC",
       "memberships": [
         {
-          "person_id": "person/9393981e-be29-48ce-9a46-56742fff280f",
+          "person_id": "person/c6d7a9d9-c7d8-43c2-b765-f168df8fbef3",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3849,7 +3632,58 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/db2e3753-f82f-485a-8745-a7bac857baae",
+      "name": "SRDjAN NOGO",
+      "sort_name": "SRDjAN NOGO",
+      "memberships": [
+        {
+          "person_id": "person/db2e3753-f82f-485a-8745-a7bac857baae",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3805757f-c671-43de-88b3-a1301ed65232",
+      "name": "SRETO PERIC",
+      "sort_name": "SRETO PERIC",
+      "memberships": [
+        {
+          "person_id": "person/3805757f-c671-43de-88b3-a1301ed65232",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/da0dfb75-f68b-4991-a146-c6b53dee9c67",
+      "name": "STANIJA KOMPIROVIC",
+      "sort_name": "STANIJA KOMPIROVIC",
+      "memberships": [
+        {
+          "person_id": "person/da0dfb75-f68b-4991-a146-c6b53dee9c67",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3872,7 +3706,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
@@ -3892,8 +3726,8 @@
           "person_id": "person/801ca565-a5f0-423c-b9bc-9150c22685d0",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "sda_sandzak_–_party_of_democratic_action",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "liberal_democratic_party_-_sda_sandzak",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3901,50 +3735,33 @@
       ]
     },
     {
-      "id": "person/edf12ded-f517-4d28-a5c5-5e0d20a648f8",
-      "name": "SUZANA SARAC",
-      "sort_name": "SUZANA SARAC",
+      "id": "person/1e50317e-f9e9-4358-a7ec-b417126f2eef",
+      "name": "SVETLANA KOZIC",
+      "sort_name": "SVETLANA KOZIC",
       "memberships": [
         {
-          "person_id": "person/edf12ded-f517-4d28-a5c5-5e0d20a648f8",
+          "person_id": "person/1e50317e-f9e9-4358-a7ec-b417126f2eef",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b37eb034-95d3-4f36-a67f-d9b29333909f",
+      "name": "SVETLANA NIKOLIC PAVLOVIC",
+      "sort_name": "SVETLANA NIKOLIC PAVLOVIC",
+      "memberships": [
+        {
+          "person_id": "person/b37eb034-95d3-4f36-a67f-d9b29333909f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/68883eab-f073-41e3-9452-fda17406e7cb",
-      "name": "SUZANA SPASOJEVIC",
-      "sort_name": "SUZANA SPASOJEVIC",
-      "memberships": [
-        {
-          "person_id": "person/68883eab-f073-41e3-9452-fda17406e7cb",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/6501456a-d115-4a0b-9692-d32846a10078",
-      "name": "SVETISLAV VUKMIRICA",
-      "sort_name": "SVETISLAV VUKMIRICA",
-      "memberships": [
-        {
-          "person_id": "person/6501456a-d115-4a0b-9692-d32846a10078",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3967,7 +3784,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3975,16 +3792,16 @@
       ]
     },
     {
-      "id": "person/3797f88e-dc76-4110-9e1c-87bcf610cb50",
-      "name": "VANjA VUKIC",
-      "sort_name": "VANjA VUKIC",
+      "id": "person/42448180-2048-43e2-98d0-9ce766f5d634",
+      "name": "TATJANA MACURA",
+      "sort_name": "TATJANA MACURA",
       "memberships": [
         {
-          "person_id": "person/3797f88e-dc76-4110-9e1c-87bcf610cb50",
+          "person_id": "person/42448180-2048-43e2-98d0-9ce766f5d634",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -3992,22 +3809,50 @@
       ]
     },
     {
-      "id": "person/a3e7a579-4e38-471c-9af2-8ba11e35846a",
-      "name": "VELIBOR STOJKOVIC",
-      "sort_name": "VELIBOR STOJKOVIC",
-      "links": [
-        {
-          "url": "veliborstojkoviclibe",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/69783db0-3104-40a0-8b6b-c0044be2b1b6",
+      "name": "TIJANA DAVIDOVAC",
+      "sort_name": "TIJANA DAVIDOVAC",
       "memberships": [
         {
-          "person_id": "person/a3e7a579-4e38-471c-9af2-8ba11e35846a",
+          "person_id": "person/69783db0-3104-40a0-8b6b-c0044be2b1b6",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3d38e719-4a57-49e7-9370-94322a8861b9",
+      "name": "TOMISLAV LjUBENOVIC",
+      "sort_name": "TOMISLAV LjUBENOVIC",
+      "memberships": [
+        {
+          "person_id": "person/3d38e719-4a57-49e7-9370-94322a8861b9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/27ff1efb-86d9-4574-9e03-00f7d86f7f99",
+      "name": "TOMISLAV ZIGMANOV",
+      "sort_name": "TOMISLAV ZIGMANOV",
+      "memberships": [
+        {
+          "person_id": "person/27ff1efb-86d9-4574-9e03-00f7d86f7f99",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4024,41 +3869,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "new_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/96a7fbd5-2dc4-4369-a0b1-c54440889da6",
-      "name": "VELINKA TOSIC",
-      "sort_name": "VELINKA TOSIC",
-      "memberships": [
-        {
-          "person_id": "person/96a7fbd5-2dc4-4369-a0b1-c54440889da6",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/96e822b8-f63f-435a-b1e2-820b10791cd0",
-      "name": "VERA PAUNOVIC",
-      "sort_name": "VERA PAUNOVIC",
-      "memberships": [
-        {
-          "person_id": "person/96e822b8-f63f-435a-b1e2-820b10791cd0",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4075,7 +3886,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e7be5a3f-be77-414a-aa1d-caa0e4569284",
+      "name": "VEROLJUB STEVANOVIC",
+      "sort_name": "VEROLJUB STEVANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/e7be5a3f-be77-414a-aa1d-caa0e4569284",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4092,24 +3920,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/9a64cc2f-fb39-4a6e-8083-4d49ab3a7905",
-      "name": "VESNA BESAROVIC",
-      "sort_name": "VESNA Prof. Dr BESAROVIC",
-      "memberships": [
-        {
-          "person_id": "person/9a64cc2f-fb39-4a6e-8083-4d49ab3a7905",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4126,7 +3937,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4143,7 +3954,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4151,16 +3962,16 @@
       ]
     },
     {
-      "id": "person/f3c4eb72-3b5f-4904-86cc-86949e95272c",
-      "name": "VESNA MARTINOVIĆ",
-      "sort_name": "VESNA MARTINOVIĆ",
+      "id": "person/fe2465b4-0b26-4f38-acf1-6ef83bf91ffd",
+      "name": "VESNA NIKOLIC VUKAJLOVIC",
+      "sort_name": "VESNA NIKOLIC VUKAJLOVIC",
       "memberships": [
         {
-          "person_id": "person/f3c4eb72-3b5f-4904-86cc-86949e95272c",
+          "person_id": "person/fe2465b4-0b26-4f38-acf1-6ef83bf91ffd",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "democratic_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4177,7 +3988,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4185,17 +3996,16 @@
       ]
     },
     {
-      "id": "person/8557e27f-fe43-4be8-841a-4ce230e07aac",
-      "name": "VESNA SIMIĆ",
-      "sort_name": "VESNA Dr SIMIĆ",
+      "id": "person/07586821-1229-4626-b559-d24fbf2b24cf",
+      "name": "VJERICA RADETA",
+      "sort_name": "VJERICA RADETA",
       "memberships": [
         {
-          "person_id": "person/8557e27f-fe43-4be8-841a-4ce230e07aac",
+          "person_id": "person/07586821-1229-4626-b559-d24fbf2b24cf",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4203,56 +4013,16 @@
       ]
     },
     {
-      "id": "person/3e92281b-6ec6-4f3c-9568-d0804c9969f7",
-      "name": "VIOLETA LUTOVAC",
-      "sort_name": "VIOLETA LUTOVAC",
-      "links": [
-        {
-          "url": "lutovac",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/521a7a7f-8630-47af-a69d-eabd3adc6474",
+      "name": "VLADAN ZAGRADjANIN",
+      "sort_name": "VLADAN ZAGRADjANIN",
       "memberships": [
         {
-          "person_id": "person/3e92281b-6ec6-4f3c-9568-d0804c9969f7",
+          "person_id": "person/521a7a7f-8630-47af-a69d-eabd3adc6474",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/e1276ee5-5d3c-444a-bc2d-965eaa58e044",
-      "name": "VLADAN MILOSEVIC",
-      "sort_name": "VLADAN MILOSEVIC",
-      "memberships": [
-        {
-          "person_id": "person/e1276ee5-5d3c-444a-bc2d-965eaa58e044",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/17803a75-7f0a-4ff1-85bd-423e56d48d2c",
-      "name": "VLADICA DIMITROV",
-      "sort_name": "VLADICA DIMITROV",
-      "memberships": [
-        {
-          "person_id": "person/17803a75-7f0a-4ff1-85bd-423e56d48d2c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4281,8 +4051,25 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
+      ]
+    },
+    {
+      "id": "person/377938c7-b90c-48a4-aa69-387887d73282",
+      "name": "VLADIMIR DjURIC",
+      "sort_name": "VLADIMIR DjURIC",
+      "memberships": [
+        {
+          "person_id": "person/377938c7-b90c-48a4-aa69-387887d73282",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "enough_is_enough",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4301,7 +4088,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "social_democratic_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ]
     },
@@ -4315,37 +4102,11 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "id": "person/a67eddc5-eb32-4e27-bd1e-d8df3786186e",
-      "name": "VLADIMIR PAVICEVIC",
-      "sort_name": "VLADIMIR PAVICEVIC",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "vpavicevic"
-        }
-      ],
-      "links": [
-        {
-          "url": "vladimir.pavicevic",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a67eddc5-eb32-4e27-bd1e-d8df3786186e",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/10"
-        }
       ]
     },
     {
@@ -4358,7 +4119,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4375,8 +4136,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "start_date": "2014-05-10",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a33e52ca-9143-4840-aa51-76babd4bc746",
+      "name": "VOJISLAV SESELj",
+      "sort_name": "VOJISLAV Prof. Dr SESELj",
+      "memberships": [
+        {
+          "person_id": "person/a33e52ca-9143-4840-aa51-76babd4bc746",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4393,24 +4170,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "united_serbia",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/061fb50b-b2dd-40b1-9186-181c7f1b4815",
-      "name": "VUCETA TOSKOVIC",
-      "sort_name": "VUCETA TOSKOVIC",
-      "memberships": [
-        {
-          "person_id": "person/061fb50b-b2dd-40b1-9186-181c7f1b4815",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4427,7 +4187,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1d4c0590-f561-4576-8b87-bb9a69114907",
+      "name": "ZARKO KORAC",
+      "sort_name": "ZARKO Dr KORAC",
+      "memberships": [
+        {
+          "person_id": "person/1d4c0590-f561-4576-8b87-bb9a69114907",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "liberal_democratic_party_-_sda_sandzak",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4444,7 +4221,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4468,7 +4245,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3a5a877c-fd84-46fe-9425-a80ab9171c8a",
+      "name": "ZDRAVKO STANKOVIC",
+      "sort_name": "ZDRAVKO STANKOVIC",
+      "memberships": [
+        {
+          "person_id": "person/3a5a877c-fd84-46fe-9425-a80ab9171c8a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4485,7 +4279,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4507,8 +4301,8 @@
           "person_id": "person/c384d750-087a-4ca0-926f-cb7340fa7c4a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_renewal_movement_–_demo-christian_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4516,33 +4310,16 @@
       ]
     },
     {
-      "id": "person/d2c2f560-c353-4bad-8ec7-877074663805",
-      "name": "ZIVAN DJURISIC",
-      "sort_name": "ZIVAN DJURISIC",
+      "id": "person/b4dc449a-1a2f-4309-93db-049088f4de60",
+      "name": "ZIVKO VRCELj",
+      "sort_name": "ZIVKO VRCELj",
       "memberships": [
         {
-          "person_id": "person/d2c2f560-c353-4bad-8ec7-877074663805",
+          "person_id": "person/b4dc449a-1a2f-4309-93db-049088f4de60",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/90bc0007-4799-4677-8ee4-8bc2f0853aa6",
-      "name": "ZLATA DJERIC",
-      "sort_name": "ZLATA DJERIC",
-      "memberships": [
-        {
-          "person_id": "person/90bc0007-4799-4677-8ee4-8bc2f0853aa6",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "new_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4564,42 +4341,8 @@
           "person_id": "person/7084b363-25bf-4774-900e-78234b49e510",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a2a07ece-309c-4d9a-a2cc-a48e5ccf9892",
-      "name": "ZORAN ANTIC",
-      "sort_name": "ZORAN ANTIC",
-      "memberships": [
-        {
-          "person_id": "person/a2a07ece-309c-4d9a-a2cc-a48e5ccf9892",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/03ab5ca2-0c66-4a0f-8082-80224023a4ae",
-      "name": "ZORAN BABIC",
-      "sort_name": "ZORAN BABIC",
-      "memberships": [
-        {
-          "person_id": "person/03ab5ca2-0c66-4a0f-8082-80224023a4ae",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4622,7 +4365,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4630,22 +4373,33 @@
       ]
     },
     {
-      "id": "person/6c92fb7d-ddda-4d58-901e-29745adf23ff",
-      "name": "ZORAN JOZIC",
-      "sort_name": "ZORAN JOZIC",
-      "links": [
-        {
-          "url": "zoran.jozic.94",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/ea50b5ce-77c5-43ad-bb7d-4163daa536e0",
+      "name": "ZORAN DRAGISIC",
+      "sort_name": "ZORAN Prof. Dr DRAGISIC",
       "memberships": [
         {
-          "person_id": "person/6c92fb7d-ddda-4d58-901e-29745adf23ff",
+          "person_id": "person/ea50b5ce-77c5-43ad-bb7d-4163daa536e0",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d5707e4e-11e3-4dbe-ab61-7be3827f9376",
+      "name": "ZORAN KRASIC",
+      "sort_name": "ZORAN KRASIC",
+      "memberships": [
+        {
+          "person_id": "person/d5707e4e-11e3-4dbe-ab61-7be3827f9376",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_radical_party",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4662,7 +4416,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4670,16 +4424,16 @@
       ]
     },
     {
-      "id": "person/97914800-da86-478c-86a1-9f84fdac47aa",
-      "name": "ZORAN PRALICA",
-      "sort_name": "ZORAN PRALICA",
+      "id": "person/17dbae32-7d3d-4584-a0e9-c306b28330a2",
+      "name": "ZORAN RADOJICIC",
+      "sort_name": "ZORAN RADOJICIC",
       "memberships": [
         {
-          "person_id": "person/97914800-da86-478c-86a1-9f84fdac47aa",
+          "person_id": "person/17dbae32-7d3d-4584-a0e9-c306b28330a2",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "serbian_progressive_party",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "dveri",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4708,9 +4462,26 @@
           "person_id": "person/19eccb50-63dc-4044-9270-a54d4f3141ec",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "democratic_party",
+          "legislative_period_id": "term/11"
         }
+      ]
+    },
+    {
+      "id": "person/47636006-c63f-43b5-99f0-6ca28b1e990e",
+      "name": "ZVONIMIR DjOKIC",
+      "sort_name": "ZVONIMIR DjOKIC",
+      "memberships": [
+        {
+          "person_id": "person/47636006-c63f-43b5-99f0-6ca28b1e990e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4723,7 +4494,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_serbia",
-          "legislative_period_id": "term/10"
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
@@ -4745,8 +4516,8 @@
           "person_id": "person/0c0ee673-9484-4983-ac38-cf50df851aa4",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
-          "legislative_period_id": "term/10"
+          "on_behalf_of_id": "alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
+          "legislative_period_id": "term/11"
         }
       ],
       "contact_details": [
