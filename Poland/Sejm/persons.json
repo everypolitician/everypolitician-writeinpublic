@@ -1,7 +1,7 @@
 {
-  "total": 468,
+  "total": 469,
   "page": 1,
-  "per_page": 468,
+  "per_page": 469,
   "has_more": false,
   "result": [
     {
@@ -479,6 +479,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "25-8",
           "end_date": "2016-05-14",
           "legislative_period_id": "term/8"
         }
@@ -3032,6 +3033,26 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "27-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e20dcb19-b706-48d5-8bb2-25112c049c44",
+      "name": "Grzegorz Raczak",
+      "sort_name": "Grzegorz Raczak",
+      "memberships": [
+        {
+          "person_id": "person/e20dcb19-b706-48d5-8bb2-25112c049c44",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "25-8",
+          "start_date": "2016-06-08",
           "legislative_period_id": "term/8"
         }
       ],
@@ -7553,12 +7574,12 @@
     {
       "gender": "male",
       "id": "person/2c1e22b5-3052-4524-a6b9-e74f3539fd36",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mieczysław_Baszko_Sejm_2016.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mieczysław_Baszko_Sejm_2016a.jpg",
       "name": "Mieczysław Baszko",
       "sort_name": "Mieczysław Baszko",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mieczysław_Baszko_Sejm_2016.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mieczysław_Baszko_Sejm_2016a.jpg"
         }
       ],
       "memberships": [
