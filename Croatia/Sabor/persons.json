@@ -1,7 +1,7 @@
 {
-  "total": 167,
+  "total": 169,
   "page": 1,
-  "per_page": 167,
+  "per_page": 169,
   "has_more": false,
   "result": [
     {
@@ -970,6 +970,25 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/6th",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5ced573c-6f5d-4008-b7d4-132397518225",
+      "name": "Dražen Pros",
+      "sort_name": "Dražen Pros",
+      "memberships": [
+        {
+          "person_id": "person/5ced573c-6f5d-4008-b7d4-132397518225",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/2nd",
+          "start_date": "2016-06-03",
           "legislative_period_id": "term/8"
         }
       ],
@@ -3687,6 +3706,25 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/7th",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9a8d2c32-492a-4fcc-98d3-73beb9a9357e",
+      "name": "Tomislav Ćorić",
+      "sort_name": "Tomislav Ćorić",
+      "memberships": [
+        {
+          "person_id": "person/9a8d2c32-492a-4fcc-98d3-73beb9a9357e",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/1st",
+          "start_date": "2016-06-03",
           "legislative_period_id": "term/8"
         }
       ],
