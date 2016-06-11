@@ -208,10 +208,23 @@
     },
     {
       "email": "anne.paulin@ft.dk",
+      "gender": "female",
       "id": "person/2f5ad02d-cbb6-41d4-b6c1-239709109420",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Anne%20Paulin/Anne_Paulin_133.jpg.ashx",
       "name": "Anne Paulin",
       "sort_name": "Anne Paulin",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "paulin_anne"
+        }
+      ],
+      "links": [
+        {
+          "url": "AnnePaulin2",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Anne%20Paulin/Anne_Paulin_133.jpg.ashx"
@@ -226,9 +239,6 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2581,6 +2591,7 @@
     },
     {
       "email": "lars.aslan.rasmussen@ft.dk",
+      "gender": "male",
       "id": "person/e9652315-056c-4890-a92f-4d31a96dfa40",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lars%20Aslan%20Rasmussen/Lars_Aslan_Rasmussen_133.jpg.ashx",
       "name": "Lars Aslan Rasmussen",
@@ -4062,6 +4073,7 @@
     },
     {
       "email": "Per.Husted@ft.dk",
+      "gender": "male",
       "id": "person/7d09e6d5-ff51-467d-bbf0-4e9d48f0f65b",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2009_1/133x133_CV/Per%20husted%20jpg.ashx",
       "name": "Per Husted",
