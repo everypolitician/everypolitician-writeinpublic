@@ -1,7 +1,7 @@
 {
-  "total": 443,
+  "total": 444,
   "page": 1,
-  "per_page": 443,
+  "per_page": 444,
   "has_more": false,
   "result": [
     {
@@ -10865,7 +10865,7 @@
       "gender": "male",
       "id": "person/81bd4fe2-ba29-4d77-8e3d-caaf29fdac6a",
       "image": "https://theunitedstates.io/images/congress/original/R000570.jpg",
-      "name": "Paul Ryan",
+      "name": "Paul D. Ryan",
       "sort_name": "Ryan, Paul",
       "contact_details": [
         {
@@ -14764,6 +14764,32 @@
           "area_id": "ocd-division/country:us/state:nc/cd:3",
           "legislative_period_id": "term/114"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3673c952-2a0d-4788-b414-52671746ad72",
+      "image": "https://theunitedstates.io/images/congress/original/D000626.jpg",
+      "name": "Warren Davidson",
+      "sort_name": "Davidson, Warren",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/D000626.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3673c952-2a0d-4788-b414-52671746ad72",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:oh/cd:8",
+          "start_date": "2016-06-09",
+          "legislative_period_id": "term/114"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
-  "total": 55,
+  "total": 56,
   "page": 1,
-  "per_page": 55,
+  "per_page": 56,
   "has_more": false,
   "result": [
     {
@@ -600,6 +600,30 @@
           "organization_id": "chamber/congress",
           "role": "member",
           "on_behalf_of_id": "uni",
+          "area_id": "area/province_sud",
+          "legislative_period_id": "term/4"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a1cb347a-7a6d-4580-a76a-72412424bc8d",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg",
+      "name": "Léonard Sam",
+      "sort_name": "Sam, Léonard",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a1cb347a-7a6d-4580-a76a-72412424bc8d",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "ce",
           "area_id": "area/province_sud",
           "legislative_period_id": "term/4"
         }
