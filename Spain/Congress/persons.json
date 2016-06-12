@@ -2535,10 +2535,16 @@
     },
     {
       "gender": "male",
-      "id": "person/912a11f5-741c-4937-8a40-ef884230d9b8",
+      "id": "person/8a9762b0-3826-4f81-9dda-e33f28a4f674",
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg",
-      "name": "Francisco Domingo Cabrera García",
+      "name": "Francisco Domingo Cabrera",
       "sort_name": "Cabrera García, Francisco Domingo",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Francisco_DCG"
+        }
+      ],
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/351_11.jpg"
@@ -2546,7 +2552,7 @@
       ],
       "memberships": [
         {
-          "person_id": "person/912a11f5-741c-4937-8a40-ef884230d9b8",
+          "person_id": "person/8a9762b0-3826-4f81-9dda-e33f28a4f674",
           "organization_id": "chamber/congreso_de_los_diputados",
           "role": "member",
           "on_behalf_of_id": "GP",
@@ -2554,9 +2560,6 @@
           "start_date": "2016-04-19",
           "legislative_period_id": "term/11"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {

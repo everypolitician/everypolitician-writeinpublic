@@ -1,26 +1,27 @@
 {
-  "total": 27,
+  "total": 42,
   "page": 1,
-  "per_page": 27,
+  "per_page": 42,
   "has_more": false,
   "result": [
     {
-      "id": "person/4e3b66cb-2217-4047-b53f-3ec2f4f50d9b",
-      "image": "http://www.parliament.na/images/nationalcouncil/m_coma.JPG",
-      "name": "!Coma Moses (DECEASED)",
-      "sort_name": "!Coma Moses (DECEASED)",
+      "email": "j.antsino@parliament.na",
+      "id": "person/7fb5f0fb-e1f2-476e-b41f-62ef7ce3deed",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Antsino.jpg",
+      "name": "Antsino, Johannes Hishidimbwa",
+      "sort_name": "Antsino, Johannes Hishidimbwa",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/m_coma.JPG"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Antsino.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4e3b66cb-2217-4047-b53f-3ec2f4f50d9b",
+          "person_id": "person/7fb5f0fb-e1f2-476e-b41f-62ef7ce3deed",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "party/unknown",
-          "legislative_period_id": "term/4"
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -44,7 +45,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -52,23 +53,23 @@
       ]
     },
     {
-      "email": "t.diergaardt@parliament.na",
-      "id": "person/5b4aa06e-bacb-4f29-a0aa-d6b58005ac33",
-      "image": "http://www.parliament.na/images/nationalcouncil/197_hon.t._diergaardt.jpg",
-      "name": "Diergaardt Theo Vivian",
-      "sort_name": "Diergaardt Theo Vivian",
+      "email": "s.boois@parliament.na",
+      "id": "person/02f51d6b-21d1-4265-bf37-53a5d42f61da",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Booys.jpg",
+      "name": "Booys, Steve Biko",
+      "sort_name": "Booys, Steve Biko",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/197_hon.t._diergaardt.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Booys.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5b4aa06e-bacb-4f29-a0aa-d6b58005ac33",
+          "person_id": "person/02f51d6b-21d1-4265-bf37-53a5d42f61da",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -76,23 +77,143 @@
       ]
     },
     {
-      "email": "h.gaobaeb@parliament.na",
-      "id": "person/410c5b3d-70d5-4d3a-a802-351fa416e7c2",
-      "image": "http://www.parliament.na/images/nationalcouncil/587_hendrik_goabaeb_(udf).jpg",
-      "name": "Gaobaeb Hendrik",
-      "sort_name": "Gaobaeb Hendrik",
+      "email": "s.dukeleni@parliament.na",
+      "id": "person/ccafc378-21a4-48de-860c-25638af38376",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Dukeleni.jpg",
+      "name": "Dukeleni, Simon Christy",
+      "sort_name": "Dukeleni, Simon Christy",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/587_hendrik_goabaeb_(udf).jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Dukeleni.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/410c5b3d-70d5-4d3a-a802-351fa416e7c2",
+          "person_id": "person/ccafc378-21a4-48de-860c-25638af38376",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "UDF",
-          "legislative_period_id": "term/4"
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "p.efraim@parliament.na",
+      "id": "person/8abffe38-5633-4992-af7c-57c22f088f96",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ephriam.jpg",
+      "name": "Ephraim, Paulus Amukoshi",
+      "sort_name": "Ephraim, Paulus Amukoshi",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ephriam.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8abffe38-5633-4992-af7c-57c22f088f96",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "f.ghauz@parliament.na",
+      "id": "person/e5b4132a-eb24-474a-88fd-6d6fdbac93d4",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ghauz.jpg",
+      "name": "Ghauz, Fransina",
+      "sort_name": "Ghauz, Fransina",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ghauz.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e5b4132a-eb24-474a-88fd-6d6fdbac93d4",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.hamutenya@parliament.na",
+      "id": "person/cd7a6814-bf7f-42d9-ab24-f307232be964",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Hamutenya.jpg",
+      "name": "Hamutenya Johannes Tuhafeni",
+      "sort_name": "Hamutenya Johannes Tuhafeni",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Hamutenya.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cd7a6814-bf7f-42d9-ab24-f307232be964",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "l.shinana@parliament.na",
+      "id": "person/bddc0032-deee-4ece-9808-ee9e3e034bd4",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kaishungu.jpg",
+      "name": "Kaishungu-Shinana, Lonia",
+      "sort_name": "Kaishungu-Shinana, Lonia",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kaishungu.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bddc0032-deee-4ece-9808-ee9e3e034bd4",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "w.kalipi@parliament.na",
+      "id": "person/bbf79378-01ed-4bd2-94a3-38efbed15995",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kalipi.jpg",
+      "name": "Kalipi, Werner",
+      "sort_name": "Kalipi, Werner",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kalipi.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bbf79378-01ed-4bd2-94a3-38efbed15995",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -102,12 +223,12 @@
     {
       "email": "a.kandjii@parliament.na",
       "id": "person/714abcba-742f-4b8b-bbfa-e0113b527b0e",
-      "image": "http://www.parliament.na/images/nationalcouncil/588_ambrosius_kandjii.jpg",
-      "name": "Kandjii Ambrosius",
-      "sort_name": "Kandjii Ambrosius",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kandjii.jpg",
+      "name": "Kandjii, Ambrosius",
+      "sort_name": "Kandjii, Ambrosius",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/588_ambrosius_kandjii.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kandjii.jpg"
         }
       ],
       "memberships": [
@@ -116,7 +237,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -124,23 +245,23 @@
       ]
     },
     {
-      "email": "h.kankoshi@parliament.na",
-      "id": "person/eadd78df-d9dc-401b-944e-326ae86b3170",
-      "image": "http://www.parliament.na/images/nationalcouncil/205_img_0069.jpg",
-      "name": "Kankoshi Henok Tangeni",
-      "sort_name": "Kankoshi Henok Tangeni",
+      "email": "c.kanguatjivi@parliament.na",
+      "id": "person/25de4241-f8d1-42cd-9e4b-995c404be620",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kanguatjivi.jpg",
+      "name": "Kanguatjivi, Cornelius Vejama",
+      "sort_name": "Kanguatjivi, Cornelius Vejama",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/205_img_0069.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kanguatjivi.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/eadd78df-d9dc-401b-944e-326ae86b3170",
+          "person_id": "person/25de4241-f8d1-42cd-9e4b-995c404be620",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -148,47 +269,23 @@
       ]
     },
     {
-      "email": "i.kapenambili@parliament.na",
-      "id": "person/294d2809-9f05-429f-bfe9-5f25841348f6",
-      "image": "http://www.parliament.na/images/nationalcouncil/589_isai_paulus_kapenambili.jpg",
-      "name": "Kapenambili Isai Paulus",
-      "sort_name": "Kapenambili Isai Paulus",
+      "email": "t.kanyele@parliament.na",
+      "id": "person/0db75ab4-a48c-4f47-be34-c8fb381522d3",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kanyele.jpg",
+      "name": "Kanyele, Titus",
+      "sort_name": "Kanyele, Titus",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/589_isai_paulus_kapenambili.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kanyele.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/294d2809-9f05-429f-bfe9-5f25841348f6",
+          "person_id": "person/0db75ab4-a48c-4f47-be34-c8fb381522d3",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "a.kapere@parliament.na",
-      "id": "person/dd2443f9-911c-43f4-ac4a-a331b41d7e5e",
-      "image": "http://www.parliament.na/images/Asser.jpg",
-      "name": "Kapere Asser Kuveri",
-      "sort_name": "Kapere Asser Kuveri",
-      "images": [
-        {
-          "url": "http://www.parliament.na/images/Asser.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dd2443f9-911c-43f4-ac4a-a331b41d7e5e",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -198,12 +295,12 @@
     {
       "email": "p.katamelo@parliament.na",
       "id": "person/c17c5661-f756-4ba1-9459-7ea25576e737",
-      "image": "http://www.parliament.na/images/nationalcouncil/590_phillipus_wido_katamelo.jpg",
-      "name": "Katamelo Phillipus Wido",
-      "sort_name": "Katamelo Phillipus Wido",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Katamelo.JPG",
+      "name": "Katamelo, Phillipus Wido",
+      "sort_name": "Katamelo, Phillipus Wido",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/590_phillipus_wido_katamelo.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Katamelo.JPG"
         }
       ],
       "memberships": [
@@ -212,7 +309,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -220,23 +317,47 @@
       ]
     },
     {
-      "email": "i.kaujeua@parliament.na",
-      "id": "person/4d2d100a-c8f2-45a1-a7bc-f21049030f65",
-      "image": "http://www.parliament.na/images/nationalcouncil/issaskar.jpg",
-      "name": "Kaujeua Issaskar Kaunako",
-      "sort_name": "Kaujeua Issaskar Kaunako",
+      "email": "b.kaula@parliament.na",
+      "id": "person/ef135125-4c34-44e4-ac37-33fd1893f939",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kaula.jpg",
+      "name": "Kaula, Betty Beatrice",
+      "sort_name": "Kaula, Betty Beatrice",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/issaskar.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kaula.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4d2d100a-c8f2-45a1-a7bc-f21049030f65",
+          "person_id": "person/ef135125-4c34-44e4-ac37-33fd1893f939",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "v.kauma@parliament.na",
+      "id": "person/94be9d63-29ab-4175-be05-06bde5d61df7",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kauma.jpg",
+      "name": "Kauma, Victoria Mbawo",
+      "sort_name": "Kauma, Victoria Mbawo",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kauma.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/94be9d63-29ab-4175-be05-06bde5d61df7",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -246,12 +367,12 @@
     {
       "email": "r.kavara@parliament.na",
       "id": "person/d231c681-64bf-4574-bc89-f1c1554942e7",
-      "image": "http://www.parliament.na/images/nationalcouncil/591_rosa_kunyanda_kavara.jpg",
-      "name": "Kavara Rosa Kunyanda",
-      "sort_name": "Kavara Rosa Kunyanda",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kavara.jpg",
+      "name": "Kavara, Rosa Kunyanda",
+      "sort_name": "Kavara, Rosa Kunyanda",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/591_rosa_kunyanda_kavara.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kavara.jpg"
         }
       ],
       "memberships": [
@@ -260,7 +381,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -268,23 +389,119 @@
       ]
     },
     {
-      "email": "a.martin@parliament.na",
-      "id": "person/d3d09755-a19c-4814-a170-abaf85167a67",
-      "image": "http://www.parliament.na/images/nationalcouncil/261_img_0052.jpg",
-      "name": "Martin Aram",
-      "sort_name": "Martin Aram",
+      "email": "p.kavhura@parliament.na",
+      "id": "person/fd282551-db7a-4fa4-a52a-2353c2b2ce9f",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kavhura.jpg",
+      "name": "Kavhura, Petrus Muyenga",
+      "sort_name": "Kavhura, Petrus Muyenga",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/261_img_0052.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kavhura.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d3d09755-a19c-4814-a170-abaf85167a67",
+          "person_id": "person/fd282551-db7a-4fa4-a52a-2353c2b2ce9f",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "p.kazongominja@parliament.na",
+      "id": "person/dd7e6032-e3f4-48e0-867e-ea8784aba063",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kazongominja.jpg",
+      "name": "Kazongominja, Peter Chance Kamanguisi Razungama",
+      "sort_name": "Kazongominja, Peter Chance Kamanguisi Razungama",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kazongominja.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dd7e6032-e3f4-48e0-867e-ea8784aba063",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "NUDO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "l.kuushomwa@parliament.na",
+      "id": "person/4db54377-ebdf-479e-b52e-1b3305a6d88f",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kuushomwa.jpg",
+      "name": "Kuushomwa, Lotto",
+      "sort_name": "Kuushomwa, Lotto",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Kuushomwa.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4db54377-ebdf-479e-b52e-1b3305a6d88f",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.likando@parliament.na",
+      "id": "person/2ad53c6d-7952-4e95-8a95-7f1c68f3f680",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Likando.jpg",
+      "name": "Likando, John Musialela",
+      "sort_name": "Likando, John Musialela",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Likando.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2ad53c6d-7952-4e95-8a95-7f1c68f3f680",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "l.mekundi@parliament.na",
+      "id": "person/150e25d5-7dfc-4305-8356-1023bb0ff96d",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mekundi.jpg",
+      "name": "Mekundi, Laina",
+      "sort_name": "Mekundi, Laina",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mekundi.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/150e25d5-7dfc-4305-8356-1023bb0ff96d",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -308,7 +525,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -316,23 +533,23 @@
       ]
     },
     {
-      "email": "n.muremi@parliament.na",
-      "id": "person/311445d2-6f02-4c91-a939-d21e4b762164",
-      "image": "http://www.parliament.na/images/nationalcouncil/592_nimrod_mbandu_muremi.jpg",
-      "name": "Muremi Nimrod Mbandu",
-      "sort_name": "Muremi Nimrod Mbandu",
+      "email": "l.muha@parliament.na",
+      "id": "person/0a4683b4-ff03-4108-82ec-8f4b83841bc9",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Muha.jpg",
+      "name": "Muha, Lukas Sinimbo",
+      "sort_name": "Muha, Lukas Sinimbo",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/592_nimrod_mbandu_muremi.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Muha.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/311445d2-6f02-4c91-a939-d21e4b762164",
+          "person_id": "person/0a4683b4-ff03-4108-82ec-8f4b83841bc9",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -340,23 +557,47 @@
       ]
     },
     {
-      "email": "jk.nakwafila@parliament.na",
-      "id": "person/c3b952f0-aa27-472a-9d14-cc1138e47b63",
-      "image": "http://www.parliament.na/images/nationalcouncil/354_johannes_nakwafila.jpg",
-      "name": "Nakwafila Johannes Kamati",
-      "sort_name": "Nakwafila Johannes Kamati",
+      "email": "j.muharukua@parliament.na",
+      "id": "person/ed33e0bd-2245-4e13-a216-1a09140aedca",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Muharukua.jpg",
+      "name": "Muharukua, Nguzu Johannes Pelser",
+      "sort_name": "Muharukua, Nguzu Johannes Pelser",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/354_johannes_nakwafila.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Muharukua.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c3b952f0-aa27-472a-9d14-cc1138e47b63",
+          "person_id": "person/ed33e0bd-2245-4e13-a216-1a09140aedca",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "DTA",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "n.mungenga@parliament.na",
+      "id": "person/8a0d9f9e-e5a1-4bd1-8ad2-96c23a8dd286",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mungenga.jpg",
+      "name": "Mungenga, Nico Herman",
+      "sort_name": "Mungenga, Nico Herman",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mungenga.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8a0d9f9e-e5a1-4bd1-8ad2-96c23a8dd286",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -364,23 +605,23 @@
       ]
     },
     {
-      "email": "n.nambili@parliament.na",
-      "id": "person/0a872cb4-7d19-4433-b663-5734caa947dc",
-      "image": "http://www.parliament.na/images/nationalcouncil/593_ndapewoshali_nangula_nambili.jpg",
-      "name": "Nambili Ndapewoshali",
-      "sort_name": "Nambili Ndapewoshali",
+      "email": "j.mupetami@parliament.na",
+      "id": "person/8ea524ad-4ad4-41ff-96f6-03edc5ef9088",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mupetami.jpg",
+      "name": "Mupetami, Joseph",
+      "sort_name": "Mupetami, Joseph",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/593_ndapewoshali_nangula_nambili.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mupetami.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0a872cb4-7d19-4433-b663-5734caa947dc",
+          "person_id": "person/8ea524ad-4ad4-41ff-96f6-03edc5ef9088",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -388,23 +629,23 @@
       ]
     },
     {
-      "email": "b.namwandi@parliament.na",
-      "id": "person/42a0a612-4f52-4f2b-9d68-5fd89b383d25",
-      "image": "http://www.parliament.na/images/nationalcouncil/312_hon._b._namwandi.jpg",
-      "name": "Namwandi Barakias",
-      "sort_name": "Namwandi Barakias",
+      "email": "w.mupya@parliament.na",
+      "id": "person/db247d4b-4ee9-4bc4-9e01-1732638f8806",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mupya.jpg",
+      "name": "Mupya, Weich Murcle Uapendura",
+      "sort_name": "Mupya, Weich Murcle Uapendura",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/312_hon._b._namwandi.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Mupya.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/42a0a612-4f52-4f2b-9d68-5fd89b383d25",
+          "person_id": "person/db247d4b-4ee9-4bc4-9e01-1732638f8806",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -412,47 +653,142 @@
       ]
     },
     {
-      "email": "k.nguvauva@gmail.com",
-      "id": "person/9cc765c7-ff54-4a3b-a063-04280c2be891",
-      "image": "http://www.parliament.na/images/nationalcouncil/kilus_img_0039.jpg",
-      "name": "Nguvauva Kilus",
-      "sort_name": "Nguvauva Kilus",
+      "email": "d.nakambare@parliament.na",
+      "id": "person/0b3e8f78-bc4e-40ed-94b0-10cd38e60980",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Nakambare.jpg",
+      "name": "Nakambare, Damian Haikera",
+      "sort_name": "Nakambare, Damian Haikera",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/kilus_img_0039.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Nakambare.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/9cc765c7-ff54-4a3b-a063-04280c2be891",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "party/unknown",
-          "legislative_period_id": "term/4"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "r.nhinda@parliament.na",
-      "id": "person/55d667a8-a479-4ba2-973e-ebb5ab22f100",
-      "image": "http://www.parliament.na/images/nationalcouncil/348_img_0015.jpg",
-      "name": "Nhinda Ruth Kepawa (DECEASED)",
-      "sort_name": "Nhinda Ruth Kepawa (DECEASED)",
-      "images": [
-        {
-          "url": "http://www.parliament.na/images/nationalcouncil/348_img_0015.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/55d667a8-a479-4ba2-973e-ebb5ab22f100",
+          "person_id": "person/0b3e8f78-bc4e-40ed-94b0-10cd38e60980",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "h.nambondi@parliament.na",
+      "id": "person/30773956-5ff7-4ab9-845a-e8951a20dc5f",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Nambondi.jpg",
+      "name": "Nambondi, Hans Linekela",
+      "sort_name": "Nambondi, Hans Linekela",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Nambondi.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/30773956-5ff7-4ab9-845a-e8951a20dc5f",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "r.namuhuja@parliament.na",
+      "id": "person/bcbe25bf-a3b7-49b7-90dd-e1c1722118e2",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Namuhuja.jpg",
+      "name": "Namuhuja, Ruusa Joyce Nangula",
+      "sort_name": "Namuhuja, Ruusa Joyce Nangula",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Namuhuja.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bcbe25bf-a3b7-49b7-90dd-e1c1722118e2",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2f44260f-4efa-420f-b6c3-8d6089ada2b2",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Nangolo.jpg",
+      "name": "Nangolo, Johannes",
+      "sort_name": "Nangolo, Johannes",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Nangolo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2f44260f-4efa-420f-b6c3-8d6089ada2b2",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.ndakunda@parliament.na",
+      "id": "person/150ea612-7569-4d96-8e36-9af1353d15e8",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ndakunda.jpg",
+      "name": "Ndakunda, Jason Nghihepa",
+      "sort_name": "Ndakunda, Jason Nghihepa",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ndakunda.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/150ea612-7569-4d96-8e36-9af1353d15e8",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.ndjago@parliament.na",
+      "id": "person/84947ed5-e6dd-436c-9a0a-2587d9e07604",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ndjago.jpg",
+      "name": "Ndjago, Melania",
+      "sort_name": "Ndjago, Melania",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Ndjago.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/84947ed5-e6dd-436c-9a0a-2587d9e07604",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -476,7 +812,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -484,23 +820,71 @@
       ]
     },
     {
-      "email": "b.shekutamba@parliament.na",
-      "id": "person/05c882d3-0a79-45f8-a043-5e66e807b9b2",
-      "image": "http://www.parliament.na/images/nationalcouncil/594_bernardinus_petrus_shekutamba.jpg",
-      "name": "Shekutamba Bernardinus Petrus",
-      "sort_name": "Shekutamba Bernardinus Petrus",
+      "email": "g.shiimi@parliament.na",
+      "id": "person/cb6d7162-7cb0-40d4-8b7e-035b841c3f40",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Shiimi.jpg",
+      "name": "Shiimi, Gerhard",
+      "sort_name": "Shiimi, Gerhard",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/594_bernardinus_petrus_shekutamba.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Shiimi.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/05c882d3-0a79-45f8-a043-5e66e807b9b2",
+          "person_id": "person/cb6d7162-7cb0-40d4-8b7e-035b841c3f40",
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.shikongo@parliament.na",
+      "id": "person/035bf580-e5ef-4c6e-90a8-f8825c51de6b",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Shikongo_Shipandeni.jpg",
+      "name": "Shikongo, Michael Mukoya Shipandeni",
+      "sort_name": "Shikongo, Michael Mukoya Shipandeni",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Shikongo_Shipandeni.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/035bf580-e5ef-4c6e-90a8-f8825c51de6b",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "p.shikongo@parliament.na",
+      "id": "person/18057690-1168-431f-a06b-e877bd6fae82",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Shikongo.jpg",
+      "name": "Shikongo, Phillip Haitange",
+      "sort_name": "Shikongo, Phillip Haitange",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Shikongo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/18057690-1168-431f-a06b-e877bd6fae82",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -524,31 +908,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "g.shitaleni@parliament.na",
-      "id": "person/fae66e02-38a4-4cfa-beda-9e3674e8dcbc",
-      "image": "http://www.parliament.na/images/nationalcouncil/595_germina_ndapua_shitaleni.jpg",
-      "name": "Shitaleni Germina Ndapua (DECEASED)",
-      "sort_name": "Shitaleni Germina Ndapua (DECEASED)",
-      "images": [
-        {
-          "url": "http://www.parliament.na/images/nationalcouncil/595_germina_ndapua_shitaleni.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fae66e02-38a4-4cfa-beda-9e3674e8dcbc",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -558,12 +918,12 @@
     {
       "email": "b.sibalatani@parliament.na",
       "id": "person/ba52377b-a522-42bb-83fb-4394cb70b52b",
-      "image": "http://www.parliament.na/images/nationalcouncil/357_img_0037.jpg",
-      "name": "Sibalatani Bernard Songa",
-      "sort_name": "Sibalatani Bernard Songa",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Sibalatani.JPG",
+      "name": "Sibalatani, Bernard Songa",
+      "sort_name": "Sibalatani, Bernard Songa",
       "images": [
         {
-          "url": "http://www.parliament.na/images/nationalcouncil/357_img_0037.jpg"
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Sibalatani.JPG"
         }
       ],
       "memberships": [
@@ -572,7 +932,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -596,31 +956,7 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "k.tjeundo@parliament.na",
-      "id": "person/5c4d45e0-c064-4a45-8db6-f14ed36f077e",
-      "image": "http://www.parliament.na/images/nationalcouncil/598_kazeongere_zeriapi_tjeundo_(dta).jpg",
-      "name": "Tjeundo Kazeongere Zeriapi",
-      "sort_name": "Tjeundo Kazeongere Zeriapi",
-      "images": [
-        {
-          "url": "http://www.parliament.na/images/nationalcouncil/598_kazeongere_zeriapi_tjeundo_(dta).jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5c4d45e0-c064-4a45-8db6-f14ed36f077e",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "DTA",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [
@@ -644,7 +980,31 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
-          "legislative_period_id": "term/4"
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.vanneel@parliament.na",
+      "id": "person/b546e49d-b7d8-4553-8b1a-9e1993e6ec7d",
+      "image": "http://www.parliament.na/images/nationalcouncil/5thparliament/Van_Neel.jpg",
+      "name": "Van Neel, Jeremias Gregory",
+      "sort_name": "Van Neel, Jeremias Gregory",
+      "images": [
+        {
+          "url": "http://www.parliament.na/images/nationalcouncil/5thparliament/Van_Neel.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b546e49d-b7d8-4553-8b1a-9e1993e6ec7d",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/5"
         }
       ],
       "contact_details": [

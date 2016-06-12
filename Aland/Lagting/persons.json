@@ -5,24 +5,24 @@
   "has_more": false,
   "result": [
     {
-      "email": "tony.asumaa@lagtinget.ax",
-      "gender": "male",
-      "id": "person/f4f995ae-126c-468f-8f26-deec1e26adc2",
-      "image": "http://www.lagtinget.ax/files/asumaa_tony.jpg",
-      "name": "Asumaa Tony",
-      "sort_name": "Asumaa Tony",
+      "email": "carina.aaltonen@lagtinget.ax",
+      "gender": "female",
+      "id": "person/e3aab23e-a883-4763-be0d-92e5936024e2",
+      "image": "http://www.lagtinget.ax/files/aaltonen_carina.jpg",
+      "name": "Aaltonen Carina",
+      "sort_name": "Aaltonen Carina",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/asumaa_tony.jpg"
+          "url": "http://www.lagtinget.ax/files/aaltonen_carina.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f4f995ae-126c-468f-8f26-deec1e26adc2",
+          "person_id": "person/e3aab23e-a883-4763-be0d-92e5936024e2",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "liberalerna",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Ålands_socialdemokrater",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -30,24 +30,23 @@
       ]
     },
     {
-      "email": "christian.beijar@lagtinget.ax",
-      "gender": "male",
-      "id": "person/58aff53c-e322-40e3-a8d2-49b672ae500c",
-      "image": "http://www.lagtinget.ax/files/beijar_christian.jpg",
-      "name": "Beijar Christian",
-      "sort_name": "Beijar Christian",
+      "email": "bert.haggblom@lagtinget.ax",
+      "id": "person/e787fced-a0c8-4c97-9c02-82198ff4a1c3",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8967m_mini.jpg",
+      "name": "Bert Häggblom",
+      "sort_name": "Bert Häggblom",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/beijar_christian.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8967m_mini.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/58aff53c-e322-40e3-a8d2-49b672ae500c",
+          "person_id": "person/e787fced-a0c8-4c97-9c02-82198ff4a1c3",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Ålands_socialdemokrater",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "obunden_samling",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -71,12 +70,40 @@
           "person_id": "person/2d97597a-4313-4ee9-a5bc-762c2608b4f9",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "moderat_samling_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "email": "johan.ehn@lagtinget.ax",
+      "gender": "male",
+      "id": "person/a539ff7e-cc05-4dfe-b068-a5969a0d9538",
+      "image": "http://www.lagtinget.ax/files/ehn_johan.jpg",
+      "name": "Ehn Johan",
+      "sort_name": "Ehn Johan",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ehnjohan"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/files/ehn_johan.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a539ff7e-cc05-4dfe-b068-a5969a0d9538",
+          "organization_id": "chamber/lagting",
+          "role": "member",
+          "on_behalf_of_id": "moderat_samling_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
+        }
       ]
     },
     {
@@ -97,76 +124,7 @@
           "organization_id": "chamber/lagting",
           "role": "member",
           "on_behalf_of_id": "Ålands_framtid",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "torbjorn.eliasson@lagtinget.ax",
-      "gender": "male",
-      "id": "person/5b06a945-d7f3-4290-8794-9372273aa22c",
-      "image": "http://www.lagtinget.ax/files/eliasson_torbjorn.jpg",
-      "name": "Eliasson Torbjörn",
-      "sort_name": "Eliasson Torbjörn",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/eliasson_torbjorn.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5b06a945-d7f3-4290-8794-9372273aa22c",
-          "organization_id": "chamber/lagting",
-          "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "anders.englund@agtinget.ax",
-      "gender": "male",
-      "id": "person/dd1cba32-c84c-4563-88a0-cb724a62ffce",
-      "name": "Englund Anders",
-      "sort_name": "Englund Anders",
-      "memberships": [
-        {
-          "person_id": "person/dd1cba32-c84c-4563-88a0-cb724a62ffce",
-          "organization_id": "chamber/lagting",
-          "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "anders.eriksson@lagtinget.ax",
-      "gender": "male",
-      "id": "person/069c61d9-e17f-46aa-aba9-1b255e3166e5",
-      "image": "http://www.lagtinget.ax/files/AndersEriksson.jpg",
-      "name": "Eriksson Anders",
-      "sort_name": "Eriksson Anders",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/AndersEriksson.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/069c61d9-e17f-46aa-aba9-1b255e3166e5",
-          "organization_id": "chamber/lagting",
-          "role": "member",
-          "on_behalf_of_id": "Ålands_framtid",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -190,8 +148,8 @@
           "person_id": "person/6338f4dd-223b-4900-8cf7-d632eaabdb0e",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "liberalerna",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -199,49 +157,23 @@
       ]
     },
     {
-      "email": "karl-johan.fogelstrom@lagtinget.ax",
-      "gender": "male",
-      "id": "person/88204fba-8f58-4add-9e16-2c9aba3ad44c",
-      "image": "http://www.lagtinget.ax/files/fogelstom_karljohan.jpg",
-      "name": "Fogelström Karl-Johan",
-      "sort_name": "Fogelström Karl-Johan",
+      "email": "fredrik.fredlund@lagtinget.ax",
+      "id": "person/ff7b67a7-d3bf-4179-801d-7005059524e6",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8847m.jpg",
+      "name": "Fredrik Fredlund",
+      "sort_name": "Fredrik Fredlund",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/fogelstom_karljohan.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8847m.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/88204fba-8f58-4add-9e16-2c9aba3ad44c",
+          "person_id": "person/ff7b67a7-d3bf-4179-801d-7005059524e6",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Ålands_socialdemokrater",
-          "legislative_period_id": "term/2011"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "john.hilander@lagtinget.ax",
-      "gender": "male",
-      "id": "person/294b101b-1db4-469e-9684-f3124f9cd061",
-      "image": "http://www.lagtinget.ax/files/hillander_copy2.jpg",
-      "name": "Hilander John",
-      "sort_name": "Hilander John",
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/hillander_copy2.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/294b101b-1db4-469e-9684-f3124f9cd061",
-          "organization_id": "chamber/lagting",
-          "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "obunden_samling",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -266,7 +198,7 @@
           "organization_id": "chamber/lagting",
           "role": "member",
           "on_behalf_of_id": "Ålands_socialdemokrater",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -284,8 +216,8 @@
           "person_id": "person/212c44f3-e91d-48ad-9476-ad3ea8998ab6",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "moderat_samling_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -293,24 +225,23 @@
       ]
     },
     {
-      "email": "gunnar.jansson@lagtinget.ax",
-      "gender": "male",
-      "id": "person/9dbf37cd-1a94-47f5-93ac-b7de0e34083b",
-      "image": "http://www.lagtinget.ax/files/jansson_gunnar.jpg",
-      "name": "Jansson Gunnar",
-      "sort_name": "Jansson Gunnar",
+      "email": "ingrid.johansson@lagtinget.ax",
+      "id": "person/b0a68ca9-8969-4d4b-b13d-8cc932256edb",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8976m.jpg",
+      "name": "Ingrid Johansson",
+      "sort_name": "Ingrid Johansson",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/jansson_gunnar.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8976m.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/9dbf37cd-1a94-47f5-93ac-b7de0e34083b",
+          "person_id": "person/b0a68ca9-8969-4d4b-b13d-8cc932256edb",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "liberalerna",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -334,8 +265,8 @@
           "person_id": "person/9969d9d7-ab81-4ab0-bd80-35e4c21d5b22",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -343,24 +274,23 @@
       ]
     },
     {
-      "email": "roger.jansson@lagtinget.ax",
-      "gender": "male",
-      "id": "person/1ab91134-5837-430d-855d-6acfdce78d86",
-      "image": "http://www.lagtinget.ax/files/jansson_roger.jpg",
-      "name": "Jansson Roger",
-      "sort_name": "Jansson Roger",
+      "email": "john.holmberg@lagtinget.ax",
+      "id": "person/f105a4a0-5fef-4be7-ab73-9376923491a7",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8979m.jpg",
+      "name": "John Holmberg",
+      "sort_name": "John Holmberg",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/jansson_roger.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8979m.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1ab91134-5837-430d-855d-6acfdce78d86",
+          "person_id": "person/f105a4a0-5fef-4be7-ab73-9376923491a7",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -385,7 +315,7 @@
           "organization_id": "chamber/lagting",
           "role": "member",
           "on_behalf_of_id": "Ålands_framtid",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -409,8 +339,8 @@
           "person_id": "person/b7892b68-4297-47ca-a4fa-00f343925655",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -435,7 +365,31 @@
           "organization_id": "chamber/lagting",
           "role": "member",
           "on_behalf_of_id": "Ålands_socialdemokrater",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "lars.haggblom@lagtinget.ax",
+      "id": "person/eaaac66c-4f27-4be1-ab50-a1332d4ec7d7",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8842m.jpg",
+      "name": "Lars Häggblom",
+      "sort_name": "Lars Häggblom",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_8842m.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/eaaac66c-4f27-4be1-ab50-a1332d4ec7d7",
+          "organization_id": "chamber/lagting",
+          "role": "member",
+          "on_behalf_of_id": "obunden_samling",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -459,8 +413,8 @@
           "person_id": "person/c1735663-4615-4bd7-bac6-68f206835bf3",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "moderat_samling_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -478,8 +432,8 @@
           "person_id": "person/36915827-7b54-4f98-8f0a-a54db2a41136",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -487,24 +441,23 @@
       ]
     },
     {
-      "email": "ake.mattson@lagtinget.ax",
-      "gender": "male",
-      "id": "person/c074f156-4e82-43ea-a999-2333b7b0f75c",
-      "image": "http://www.lagtinget.ax/files/mattsson_ake.jpg",
-      "name": "Mattsson Åke",
-      "sort_name": "Mattsson Åke",
+      "email": "mikael.lindholm@lagtinget.ax",
+      "id": "person/85f603f2-090d-4096-9c01-fd20b05caa56",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9003m.jpg",
+      "name": "Mikael Lindholm",
+      "sort_name": "Mikael Lindholm",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/mattsson_ake.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9003m.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c074f156-4e82-43ea-a999-2333b7b0f75c",
+          "person_id": "person/85f603f2-090d-4096-9c01-fd20b05caa56",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -512,24 +465,23 @@
       ]
     },
     {
-      "email": "mika.nordberg@lagtinget.ax",
-      "gender": "male",
-      "id": "person/a41f0372-a0b2-422a-b9f5-a04698a8205e",
-      "image": "http://www.lagtinget.ax/files/nordberg_mika.jpg",
-      "name": "Nordberg Mika",
-      "sort_name": "Nordberg Mika",
+      "email": "mikael.staffas@lagtinget.ax",
+      "id": "person/56e2d431-f22d-4f47-83b4-3bb88c61d7bb",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9582.jpg",
+      "name": "Mikael Staffas",
+      "sort_name": "Mikael Staffas",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/nordberg_mika.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9582.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a41f0372-a0b2-422a-b9f5-a04698a8205e",
+          "person_id": "person/56e2d431-f22d-4f47-83b4-3bb88c61d7bb",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -537,24 +489,48 @@
       ]
     },
     {
-      "email": "mats.peramaa@lagtinget.ax",
+      "email": "roger.nordlund@lagtinget.ax",
       "gender": "male",
-      "id": "person/884b6d85-564f-4f43-9e37-d5306e241cc5",
-      "image": "http://www.lagtinget.ax/files/peramaa_mats.jpg",
-      "name": "Perämaa Mats",
-      "sort_name": "Perämaa Mats",
+      "id": "person/7e3b4661-2fe0-4f15-9970-86b98701dee1",
+      "image": "http://www.lagtinget.ax/files/nordlund_roger.jpg",
+      "name": "Nordlund Roger",
+      "sort_name": "Nordlund Roger",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/peramaa_mats.jpg"
+          "url": "http://www.lagtinget.ax/files/nordlund_roger.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/884b6d85-564f-4f43-9e37-d5306e241cc5",
+          "person_id": "person/7e3b4661-2fe0-4f15-9970-86b98701dee1",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "liberalerna",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "pernilla.soderlund@lagtinget.ax",
+      "id": "person/bc2cf02e-a16f-42ba-ad65-bbb99c5e052b",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9145m.jpg",
+      "name": "Pernilla Söderlund",
+      "sort_name": "Pernilla Söderlund",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9145m.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bc2cf02e-a16f-42ba-ad65-bbb99c5e052b",
+          "organization_id": "chamber/lagting",
+          "role": "member",
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -578,8 +554,8 @@
           "person_id": "person/acdcf89a-6477-4afd-a65e-9989bd2a1af4",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -587,52 +563,24 @@
       ]
     },
     {
-      "email": "katrin.sjogrenoch@lagtinget.ax",
-      "gender": "female",
-      "id": "person/10995076-8cb9-43a8-b1e0-ed1af900ed70",
-      "image": "http://www.lagtinget.ax/files/sjogren_katrin.jpg",
-      "name": "Sjögren Katrin",
-      "sort_name": "Sjögren Katrin",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ksjgren"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.lagtinget.ax/files/sjogren_katrin.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/10995076-8cb9-43a8-b1e0-ed1af900ed70",
-          "organization_id": "chamber/lagting",
-          "role": "member",
-          "on_behalf_of_id": "liberalerna",
-          "legislative_period_id": "term/2011"
-        }
-      ]
-    },
-    {
-      "email": "roger.slotte@lagtinget.ax",
+      "email": "roger.eriksson@lagtinget.ax",
       "gender": "male",
-      "id": "person/25ac9df5-73ca-446b-8bc3-d91b80b7909b",
-      "image": "http://www.lagtinget.ax/files/slotte_roger.jpg",
-      "name": "Slotte Roger",
-      "sort_name": "Slotte Roger",
+      "id": "person/91e57380-374c-4173-b318-ac2fb765a5fc",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg",
+      "name": "Roger Eriksson",
+      "sort_name": "Roger Eriksson",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/slotte_roger.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9596.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/25ac9df5-73ca-446b-8bc3-d91b80b7909b",
+          "person_id": "person/91e57380-374c-4173-b318-ac2fb765a5fc",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Åländsk_center",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -640,24 +588,23 @@
       ]
     },
     {
-      "email": "barbro.sundback@lagtinget.ax",
-      "gender": "female",
-      "id": "person/3392297b-d394-4b04-a858-3738b2931335",
-      "image": "http://www.lagtinget.ax/files/sundback_barbro.jpg",
-      "name": "Sundback Barbro",
-      "sort_name": "Sundback Barbro",
+      "email": "stephan.toivonen@lagtinget.ax",
+      "id": "person/5ac098ff-5814-4362-b699-3304097997dc",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9158m.jpg",
+      "name": "Stephan Toivonen",
+      "sort_name": "Stephan Toivonen",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/sundback_barbro.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9158m.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3392297b-d394-4b04-a858-3738b2931335",
+          "person_id": "person/5ac098ff-5814-4362-b699-3304097997dc",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "Ålands_socialdemokrater",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "Åländsk_demokrati",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -681,8 +628,8 @@
           "person_id": "person/fe40bb08-5025-473d-af52-bf1e30ecc5e6",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "liberalerna",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "liberalerna_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -690,24 +637,72 @@
       ]
     },
     {
-      "email": "danne.sundman@lagtinget.ax",
-      "gender": "male",
-      "id": "person/4519dd08-5c45-4324-a257-591aaa03c3e8",
-      "image": "http://www.lagtinget.ax/files/sundman_danne.jpg",
-      "name": "Sundman Danne",
-      "sort_name": "Sundman Danne",
+      "email": "tage.silander@lagtinget.ax",
+      "id": "person/3608c81b-d668-4c5e-9e9e-c5a5633c603f",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9179m.jpg",
+      "name": "Tage Silander",
+      "sort_name": "Tage Silander",
       "images": [
         {
-          "url": "http://www.lagtinget.ax/files/sundman_danne.jpg"
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9179m.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4519dd08-5c45-4324-a257-591aaa03c3e8",
+          "person_id": "person/3608c81b-d668-4c5e-9e9e-c5a5633c603f",
           "organization_id": "chamber/lagting",
           "role": "member",
-          "on_behalf_of_id": "moderat_samling",
-          "legislative_period_id": "term/2011"
+          "on_behalf_of_id": "moderat_samling_på_Åland_r.f.",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tony.wikstrom@lagtinget.ax",
+      "id": "person/2f82348b-7b10-40d0-8d5a-6cac08845895",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9134m.jpg",
+      "name": "Tony Wikström",
+      "sort_name": "Tony Wikström",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9134m.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2f82348b-7b10-40d0-8d5a-6cac08845895",
+          "organization_id": "chamber/lagting",
+          "role": "member",
+          "on_behalf_of_id": "Ålands_socialdemokrater",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "veronica.thornroos@lagtinget.ax",
+      "gender": "female",
+      "id": "person/2c5d2e49-268b-49a6-990c-d77d14c2f5ad",
+      "image": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg",
+      "name": "Veronica Thörnroos",
+      "sort_name": "Veronica Thörnroos",
+      "images": [
+        {
+          "url": "http://www.lagtinget.ax/sites/www.lagtinget.ax/files/styles/person_image/public/portrait/des_9608.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c5d2e49-268b-49a6-990c-d77d14c2f5ad",
+          "organization_id": "chamber/lagting",
+          "role": "member",
+          "on_behalf_of_id": "Åländsk_center_r.f.",
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
@@ -732,7 +727,7 @@
           "organization_id": "chamber/lagting",
           "role": "member",
           "on_behalf_of_id": "Ålands_socialdemokrater",
-          "legislative_period_id": "term/2011"
+          "legislative_period_id": "term/2015"
         }
       ],
       "contact_details": [
