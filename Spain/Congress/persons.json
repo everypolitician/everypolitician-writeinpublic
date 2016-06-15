@@ -1730,7 +1730,7 @@
       "email": "montserrat@congreso.es",
       "gender": "female",
       "id": "person/0a50019c-3883-421c-a89f-efc0ff65d393",
-      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/239_11.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Dolors_Montserrat_2015_(cropped).jpg",
       "name": "Dolors Montserrat",
       "sort_name": "Montserrat Montserrat, Dolors",
       "contact_details": [
@@ -1747,7 +1747,7 @@
       ],
       "images": [
         {
-          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/239_11.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Dolors_Montserrat_2015_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -5527,7 +5527,7 @@
       "email": "lourdes.ciuro@congreso.es",
       "gender": "female",
       "id": "person/bc1025e8-ffac-421e-86f0-76d5c090b13c",
-      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/342_11.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lourdes_Ciuró_cropped.jpg",
       "name": "Lourdes Ciuró",
       "sort_name": "Ciuró i Buldó, Lourdes",
       "contact_details": [
@@ -5544,7 +5544,7 @@
       ],
       "images": [
         {
-          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/342_11.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lourdes_Ciuró_cropped.jpg"
         }
       ],
       "memberships": [
@@ -8841,6 +8841,12 @@
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/124_11.jpg",
       "name": "Pilar Rojo Noguera",
       "sort_name": "Rojo Noguera, Pilar",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "rojonoguera"
+        }
+      ],
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/124_11.jpg"
@@ -8855,9 +8861,6 @@
           "area_id": "area/pontevedra",
           "legislative_period_id": "term/11"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
