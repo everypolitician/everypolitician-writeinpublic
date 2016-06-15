@@ -1,7 +1,7 @@
 {
-  "total": 120,
+  "total": 121,
   "page": 1,
-  "per_page": 120,
+  "per_page": 121,
   "has_more": false,
   "result": [
     {
@@ -1340,6 +1340,23 @@
           "organization_id": "chamber/supreme_council",
           "role": "member",
           "on_behalf_of_id": "sdpk",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/45181968-3edb-4ffe-87db-b0fb87ba04f6",
+      "name": "Ormonov Ulugbek Zulpukarovich",
+      "sort_name": "Ormonov Ulugbek Zulpukarovich",
+      "memberships": [
+        {
+          "person_id": "person/45181968-3edb-4ffe-87db-b0fb87ba04f6",
+          "organization_id": "chamber/supreme_council",
+          "role": "member",
+          "on_behalf_of_id": "bir_bol",
           "legislative_period_id": "term/6"
         }
       ],
