@@ -1,7 +1,7 @@
 {
-  "total": 643,
+  "total": 644,
   "page": 1,
-  "per_page": 643,
+  "per_page": 644,
   "has_more": false,
   "result": [
     {
@@ -16860,6 +16860,35 @@
           "role": "member",
           "on_behalf_of_id": "ser",
           "area_id": "area/manche",
+          "legislative_period_id": "term/14"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/bf6cbf03-e9f3-4d89-9f85-3e28eedd2b65",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg",
+      "name": "Stéphanie Pernod Beaudon",
+      "sort_name": "Stéphanie Pernod Beaudon",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stefpernod"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/643183.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bf6cbf03-e9f3-4d89-9f85-3e28eedd2b65",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "lr",
+          "area_id": "area/ain",
+          "start_date": "2016-06-13",
           "legislative_period_id": "term/14"
         }
       ]
