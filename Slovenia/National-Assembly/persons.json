@@ -453,6 +453,31 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/98ddc266-133b-49e9-85f7-924a1dcf04e7",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P235",
+      "name": "Dr. Mirjam Bon Klanjšček",
+      "sort_name": "Bon Klanjšček Mirjam",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P235"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/98ddc266-133b-49e9-85f7-924a1dcf04e7",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "NP",
+          "area_id": "area/ii_nova_gorica_ii_10",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/82aef5a0-ff42-4e96-95d8-61328e030b1d",
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P257",
@@ -1660,31 +1685,6 @@
           "role": "member",
           "on_behalf_of_id": "NSi",
           "area_id": "area/i_kamnik_10",
-          "legislative_period_id": "term/7"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/98ddc266-133b-49e9-85f7-924a1dcf04e7",
-      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P235",
-      "name": "Mag. Mirjam Bon Klanjšček",
-      "sort_name": "Bon Klanjšček Mirjam",
-      "images": [
-        {
-          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P235"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/98ddc266-133b-49e9-85f7-924a1dcf04e7",
-          "organization_id": "chamber/državni_zbor",
-          "role": "member",
-          "on_behalf_of_id": "NP",
-          "area_id": "area/ii_nova_gorica_ii_10",
           "legislative_period_id": "term/7"
         }
       ],
