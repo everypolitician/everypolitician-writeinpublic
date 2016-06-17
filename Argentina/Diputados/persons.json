@@ -1,7 +1,7 @@
 {
-  "total": 388,
+  "total": 389,
   "page": 1,
-  "per_page": 388,
+  "per_page": 389,
   "has_more": false,
   "result": [
     {
@@ -7067,6 +7067,32 @@
           "role": "member",
           "on_behalf_of_id": "frente_para_la_victoria_-_pj",
           "area_id": "area/buenos_aires",
+          "start_date": "2015-12-10",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mpenalozam@diputados.gob.ar",
+      "id": "person/35798dde-ed7c-4161-97d3-714accf9105f",
+      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "name": "MARIA FLORENCIA PEÑALOZA MARIANETTI",
+      "sort_name": "PEÑALOZA MARIANETTI, MARIA FLORENCIA",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/35798dde-ed7c-4161-97d3-714accf9105f",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "compromiso_con_san_juan",
+          "area_id": "area/san_juan",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
         }
