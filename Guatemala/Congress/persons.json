@@ -1,7 +1,7 @@
 {
-  "total": 158,
+  "total": 160,
   "page": 1,
-  "per_page": 158,
+  "per_page": 160,
   "has_more": false,
   "result": [
     {
@@ -2017,6 +2017,32 @@
       ]
     },
     {
+      "email": "Jbautista@congreso.gob.gt",
+      "gender": "male",
+      "id": "person/3c3dbdc1-d90a-4ceb-8df2-70afac813204",
+      "image": "http://www.congreso.gob.gt/manager/images/604BBD27-3614-B39C-C794-07BA8B7B4999.jpg",
+      "name": "Juan Carlos Bautista Mejía",
+      "sort_name": "Juan Carlos Bautista Mejía",
+      "images": [
+        {
+          "url": "http://www.congreso.gob.gt/manager/images/604BBD27-3614-B39C-C794-07BA8B7B4999.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3c3dbdc1-d90a-4ceb-8df2-70afac813204",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "creo",
+          "area_id": "area/distrito_guatemala",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "congreso@congreso.gob.gt",
       "id": "person/db7c3957-f5a4-48aa-8095-28c97cd2e213",
       "image": "http://www.congreso.gob.gt/manager/images/34FC1CD4-0A3F-A5F0-3E6F-79925306CA2C.jpg",
@@ -2391,6 +2417,31 @@
           "role": "member",
           "on_behalf_of_id": "ac",
           "area_id": "area/distrito_guatemala",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "lcsamayoar@congreso.gob.gt",
+      "id": "person/c545e6b7-1f33-49b6-b6b4-1f257cd0d667",
+      "image": "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg",
+      "name": "Lucrecia Carola Samayoa Reyes",
+      "sort_name": "Lucrecia Carola Samayoa Reyes",
+      "images": [
+        {
+          "url": "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c545e6b7-1f33-49b6-b6b4-1f257cd0d667",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "une",
+          "area_id": "area/huehuetenango",
           "legislative_period_id": "term/8"
         }
       ],

@@ -4410,7 +4410,7 @@
           "person_id": "person/3e7ae901-bc37-47b5-bd00-9449ce98bac7",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "frente_de_la_concordia_misionero",
           "area_id": "area/misiones",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
@@ -7783,7 +7783,7 @@
           "person_id": "person/1c66eb30-8fce-4fdf-bebc-8dd9d1065a2d",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "frente_de_la_concordia_misionero",
           "area_id": "area/misiones",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
@@ -9846,7 +9846,7 @@
           "person_id": "person/954df93d-f530-4057-b7ab-cf1a82e9fff4",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_renovador_de_la_concordia_misiones_-_fpv-pj",
+          "on_behalf_of_id": "frente_de_la_concordia_misionero",
           "area_id": "area/misiones",
           "legislative_period_id": "term/133"
         }
@@ -9989,6 +9989,32 @@
           "area_id": "area/buenos_aires",
           "legislative_period_id": "term/133"
         }
+      ]
+    },
+    {
+      "email": "vsosacapurro@diputados.gob.ar",
+      "gender": "female",
+      "id": "person/cf7aea0c-fbb6-4db1-9c62-76b537d90039",
+      "image": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg",
+      "name": "SOLEDAD SOSA",
+      "sort_name": "SOSA , SOLEDAD",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cf7aea0c-fbb6-4db1-9c62-76b537d90039",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "frente_de_izquierda_y_de_los_trabajadores",
+          "area_id": "area/mendoza",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -10305,32 +10331,6 @@
           "on_behalf_of_id": "libres_del_sur",
           "area_id": "area/ciudad_de_buenos_aires",
           "start_date": "2015-12-10",
-          "legislative_period_id": "term/133"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "vsosacapurro@diputados.gob.ar",
-      "gender": "female",
-      "id": "person/cf7aea0c-fbb6-4db1-9c62-76b537d90039",
-      "image": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg",
-      "name": "VICTORIA SOLEDAD SOSA CAPURRO",
-      "sort_name": "SOSA CAPURRO, VICTORIA SOLEDAD",
-      "images": [
-        {
-          "url": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cf7aea0c-fbb6-4db1-9c62-76b537d90039",
-          "organization_id": "chamber/cámara_de_diputados",
-          "role": "member",
-          "on_behalf_of_id": "frente_de_izquierda_y_de_los_trabajadores",
-          "area_id": "area/mendoza",
           "legislative_period_id": "term/133"
         }
       ],
