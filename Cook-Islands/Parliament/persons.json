@@ -1,7 +1,7 @@
 {
-  "total": 24,
+  "total": 25,
   "page": 1,
-  "per_page": 24,
+  "per_page": 25,
   "has_more": false,
   "result": [
     {
@@ -209,6 +209,24 @@
           "role": "member",
           "on_behalf_of_id": "dp",
           "area_id": "area/nikao-panama",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/49f12138-60dc-4f12-9ad5-8ffa918148ed",
+      "name": "Rose Toki-Brown",
+      "sort_name": "Rose Toki-Brown",
+      "memberships": [
+        {
+          "person_id": "person/49f12138-60dc-4f12-9ad5-8ffa918148ed",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "cip",
+          "area_id": "area/teenui-mapumai",
           "legislative_period_id": "term/14"
         }
       ],
