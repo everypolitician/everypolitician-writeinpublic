@@ -1,7 +1,7 @@
 {
-  "total": 412,
+  "total": 413,
   "page": 1,
-  "per_page": 412,
+  "per_page": 413,
   "has_more": false,
   "result": [
     {
@@ -8698,6 +8698,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/västmanlands_län",
+          "end_date": "2016-08-14",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/cef4ed35-70a8-4ade-9a85-a882dbb563a4",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västmanlands_län",
+          "start_date": "2017-04-02",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -11511,6 +11521,33 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "area/västmanlands_län",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/4885cb27-e2cc-48f9-93a1-82b239528bb6",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0296384583518_max.jpg",
+      "name": "Åsa Eriksson",
+      "sort_name": "Åsa",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0296384583518_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4885cb27-e2cc-48f9-93a1-82b239528bb6",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västmanlands_län",
+          "start_date": "2016-08-15",
+          "end_date": "2017-04-01",
           "legislative_period_id": "term/2014"
         }
       ],

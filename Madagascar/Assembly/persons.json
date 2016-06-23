@@ -1,7 +1,7 @@
 {
-  "total": 151,
+  "total": 152,
   "page": 1,
-  "per_page": 151,
+  "per_page": 152,
   "has_more": false,
   "result": [
     {
@@ -2044,6 +2044,30 @@
           "role": "member",
           "on_behalf_of_id": "mapar",
           "area_id": "area/midongy_atsimo",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
+      "name": "RAMAHATODISOLOMANANA Voanalaroy",
+      "sort_name": "RAMAHATODISOLOMANANA Voanalaroy",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "indépendant",
+          "area_id": "area/brickaville",
           "legislative_period_id": "term/2013"
         }
       ],
