@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 102,
   "page": 1,
-  "per_page": 104,
+  "per_page": 102,
   "has_more": false,
   "result": [
     {
@@ -125,29 +125,6 @@
       ]
     },
     {
-      "id": "person/6ef4b228-71f6-41e8-8ea0-20714d359359",
-      "image": "http://www.parliament.gov.sg/sites/default/files/AzmoonAhmad_web.jpg",
-      "name": "Azmoon Ahmad",
-      "sort_name": "Azmoon Ahmad",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/AzmoonAhmad_web.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6ef4b228-71f6-41e8-8ea0-20714d359359",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "id": "person/13f773a3-93ec-4a91-9bed-0b19e306af79",
       "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo.jpg",
       "name": "Azmoon Bin Ahmad",
@@ -163,6 +140,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -402,6 +380,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "nominated_member_of_parliament",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -768,12 +747,12 @@
     },
     {
       "id": "person/34808b3b-d4ec-4e05-b2d9-b757c9396a20",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Ganesh%20Rajaram.jpg",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_0.jpg",
       "name": "Ganesh Rajaram",
       "sort_name": "Ganesh Rajaram",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Ganesh%20Rajaram.jpg"
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_0.jpg"
         }
       ],
       "memberships": [
@@ -782,6 +761,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1006,7 +986,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "person/789cf330-43c4-4030-b4d2-f29ac7078897",
       "image": "http://www.parliament.gov.sg/sites/default/files/IMG_6813%20Joan%20Pereira2_web.jpg",
       "name": "Joan Pereira",
@@ -1043,30 +1022,6 @@
       "memberships": [
         {
           "person_id": "person/a3217533-c6c9-4693-b713-544d651a0d1b",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "people’s_action_party",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b5e012a9-9035-40e6-bda3-ec451340c447",
-      "image": "http://www.parliament.gov.sg/sites/default/files/K%20Muralidharan%20Pillai_0.jpg",
-      "name": "K Muralidharan Pillai",
-      "sort_name": "K Muralidharan Pillai",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.sg/sites/default/files/K%20Muralidharan%20Pillai_0.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b5e012a9-9035-40e6-bda3-ec451340c447",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "people’s_action_party",
@@ -1117,6 +1072,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1174,12 +1130,12 @@
     },
     {
       "id": "person/ee96d979-5533-4ac5-8a70-56cc678065a9",
-      "image": "http://www.parliament.gov.sg/sites/default/files/Kok%20Heng%20Leun.jpg",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_1.jpg",
       "name": "Kok Heng Leun",
       "sort_name": "Kok Heng Leun",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/Kok%20Heng%20Leun.jpg"
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_1.jpg"
         }
       ],
       "memberships": [
@@ -1188,6 +1144,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1211,6 +1168,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "nominated_member_of_parliament",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1603,12 +1561,12 @@
     },
     {
       "id": "person/8afcf654-ed70-4f77-afdd-f513a4bc654a",
-      "image": "http://www.parliament.gov.sg/sites/default/files/MahdevMohan_Web.jpg",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_2.jpg",
       "name": "Mahdev Mohan",
       "sort_name": "Mahdev Mohan",
       "images": [
         {
-          "url": "http://www.parliament.gov.sg/sites/default/files/MahdevMohan_Web.jpg"
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_2.jpg"
         }
       ],
       "memberships": [
@@ -1617,6 +1575,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1951,6 +1910,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "nominated_member_of_parliament",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2309,6 +2269,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "nominated_member_of_parliament",
+          "start_date": "2016-03-22",
           "legislative_period_id": "term/13"
         }
       ],
