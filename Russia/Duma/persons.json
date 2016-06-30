@@ -1,7 +1,7 @@
 {
-  "total": 468,
+  "total": 469,
   "page": 1,
-  "per_page": 468,
+  "per_page": 469,
   "has_more": false,
   "result": [
     {
@@ -3553,6 +3553,30 @@
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
           "area_id": "area/Ивановская_область",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7eff5b99-4f37-445a-9cd5-ae825b6001cc",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "name": "Иванов Данил Сергеевич",
+      "sort_name": "Иванов Данил Сергеевич",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7eff5b99-4f37-445a-9cd5-ae825b6001cc",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Новосибирская_область",
           "legislative_period_id": "term/6"
         }
       ],
