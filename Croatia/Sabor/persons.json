@@ -1,7 +1,7 @@
 {
-  "total": 169,
+  "total": 170,
   "page": 1,
-  "per_page": 169,
+  "per_page": 170,
   "has_more": false,
   "result": [
     {
@@ -3656,6 +3656,31 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/5th",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/244e86a6-6a0c-4932-b186-b15956dc1643",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19582",
+      "name": "Tomislav Karamarko",
+      "sort_name": "Tomislav Karamarko",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19582"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/244e86a6-6a0c-4932-b186-b15956dc1643",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/9th",
           "legislative_period_id": "term/8"
         }
       ],

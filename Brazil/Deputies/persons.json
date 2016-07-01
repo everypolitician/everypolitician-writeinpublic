@@ -1,7 +1,7 @@
 {
-  "total": 576,
+  "total": 577,
   "page": 1,
-  "per_page": 576,
+  "per_page": 577,
   "has_more": false,
   "result": [
     {
@@ -4398,8 +4398,8 @@
       "gender": "male",
       "id": "person/73739284-ea92-4f33-9ddb-688d0612d77d",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178871.jpg",
-      "name": "EVAIR DE MELO",
-      "sort_name": "EVAIR DE MELO",
+      "name": "EVAIR VIEIRA DE MELO",
+      "sort_name": "EVAIR VIEIRA DE MELO",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178871.jpg"
@@ -6053,6 +6053,30 @@
           "role": "member",
           "on_behalf_of_id": "DEM",
           "area_id": "area/pa",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1281f1ec-9227-4680-86a8-9a259f2d8583",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/194592.jpg",
+      "name": "ILDON MARQUES",
+      "sort_name": "ILDON MARQUES",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/194592.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1281f1ec-9227-4680-86a8-9a259f2d8583",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSB",
+          "area_id": "area/ma",
           "legislative_period_id": "term/55"
         }
       ],
@@ -10858,6 +10882,7 @@
     },
     {
       "email": "dep.pastorlucianobraga@camara.leg.br",
+      "gender": "male",
       "id": "person/6bb81fc4-8510-46d0-8bee-d3770d5fa37b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193982.jpg",
       "name": "PASTOR LUCIANO BRAGA",
