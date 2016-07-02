@@ -1,7 +1,7 @@
 {
-  "total": 389,
+  "total": 390,
   "page": 1,
-  "per_page": 389,
+  "per_page": 390,
   "has_more": false,
   "result": [
     {
@@ -1067,7 +1067,7 @@
           "person_id": "person/424a530e-5d9a-49a4-9cc5-d612dedca5cf",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "peronismo_para_la_victoria",
           "area_id": "area/cordoba",
           "legislative_period_id": "term/133"
         }
@@ -1174,7 +1174,7 @@
           "person_id": "person/8c488fd8-7a36-485b-82b6-03607513302e",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "peronismo_para_la_victoria",
           "area_id": "area/corrientes",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
@@ -1323,12 +1323,12 @@
     {
       "email": "baustin@diputados.gob.ar",
       "id": "person/c42cdabb-8012-4c53-877e-4ea2c02e2a23",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/baustin.jpg",
       "name": "BRENDA LIS AUSTIN",
       "sort_name": "AUSTIN, BRENDA LIS",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/baustin.jpg"
         }
       ],
       "memberships": [
@@ -5832,7 +5832,7 @@
           "person_id": "person/aa61d44c-2f2f-4b40-a858-c329a8fb9d55",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "peronismo_para_la_victoria",
           "area_id": "area/buenos_aires",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
@@ -6072,7 +6072,7 @@
           "person_id": "person/13675ca1-0f46-41b4-af15-086f51c5468c",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "peronismo_para_la_victoria",
           "area_id": "area/santa_fe",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
@@ -7078,12 +7078,12 @@
     {
       "email": "mpenalozam@diputados.gob.ar",
       "id": "person/35798dde-ed7c-4161-97d3-714accf9105f",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/mpenalozam.jpg",
       "name": "MARIA FLORENCIA PEÑALOZA MARIANETTI",
       "sort_name": "PEÑALOZA MARIANETTI, MARIA FLORENCIA",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/mpenalozam.jpg"
         }
       ],
       "memberships": [
@@ -9147,7 +9147,7 @@
           "person_id": "person/985bb329-6f88-497b-8525-d40d449a7fa7",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "peronismo_para_la_victoria",
           "area_id": "area/buenos_aires",
           "legislative_period_id": "term/133"
         }
@@ -9872,7 +9872,7 @@
           "person_id": "person/e76e4b33-688c-489b-ac2e-cccfda5882ab",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "frente_para_la_victoria_-_pj",
+          "on_behalf_of_id": "peronismo_para_la_victoria",
           "area_id": "area/rio_negro",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
@@ -9992,12 +9992,37 @@
       ]
     },
     {
+      "email": "ssosa@diputados.gob.ar",
+      "id": "person/8fa651e7-4611-42ca-b128-16623c06f8e8",
+      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "name": "SOLEDAD SOSA",
+      "sort_name": "SOSA, SOLEDAD",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8fa651e7-4611-42ca-b128-16623c06f8e8",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "frente_de_izquierda_y_de_los_trabajadores",
+          "area_id": "area/mendoza",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "vsosacapurro@diputados.gob.ar",
       "gender": "female",
       "id": "person/cf7aea0c-fbb6-4db1-9c62-76b537d90039",
       "image": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg",
       "name": "SOLEDAD SOSA",
-      "sort_name": "SOSA , SOLEDAD",
+      "sort_name": "SOSA, SOLEDAD",
       "images": [
         {
           "url": "http://www4.hcdn.gob.ar/fotos/vsosacapurro.jpg"
