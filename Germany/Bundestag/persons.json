@@ -1,7 +1,7 @@
 {
-  "total": 648,
+  "total": 650,
   "page": 1,
-  "per_page": 648,
+  "per_page": 650,
   "has_more": false,
   "result": [
     {
@@ -4695,9 +4695,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/cba4fb00-25e8-43ca-919b-1a8ffeb84d71",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elfi_Scho-Antwerpes_(cropped).JPG",
       "name": "Elfi Scho-Antwerpes",
       "sort_name": "Scho-Antwerpes, Elfi!",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elfi_Scho-Antwerpes_(cropped).JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/cba4fb00-25e8-43ca-919b-1a8ffeb84d71",
@@ -8011,6 +8018,25 @@
       ]
     },
     {
+      "id": "person/287cef1a-4928-4e66-9fdd-aecbf501c574",
+      "name": "Iris Ripsam",
+      "sort_name": "Ripsam, Iris!",
+      "memberships": [
+        {
+          "person_id": "person/287cef1a-4928-4e66-9fdd-aecbf501c574",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/baden-württemberg",
+          "start_date": "2016-06-08",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/2d763147-713d-4b10-ab10-b472bc679656",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Korte,_Jan-1178.jpg",
@@ -9487,6 +9513,25 @@
           "on_behalf_of_id": "cdu",
           "area_id": "area/brandenburg",
           "end_date": "2015-09-04",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/00119d69-e8c7-4ee8-90ba-b5a90e4121e5",
+      "name": "Kathrin Rösel",
+      "sort_name": "Rosel, Kathrin!",
+      "memberships": [
+        {
+          "person_id": "person/00119d69-e8c7-4ee8-90ba-b5a90e4121e5",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/niedersachsen",
+          "start_date": "2016-06-04",
           "legislative_period_id": "term/18"
         }
       ],
@@ -14087,6 +14132,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/ba258c47-0e3c-45a9-8739-daaa5f61a383",
       "name": "Petra Rode-Bosse",
       "sort_name": "Rodebosse, Petra!",
@@ -14563,6 +14609,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/niedersachsen",
+          "end_date": "2016-06-03",
           "legislative_period_id": "term/18"
         }
       ],
@@ -17220,6 +17267,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/baden-württemberg",
+          "end_date": "2016-06-03",
           "legislative_period_id": "term/18"
         }
       ],
