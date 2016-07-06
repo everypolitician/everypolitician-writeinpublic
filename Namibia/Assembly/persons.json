@@ -1,7 +1,7 @@
 {
-  "total": 103,
+  "total": 104,
   "page": 1,
-  "per_page": 103,
+  "per_page": 104,
   "has_more": false,
   "result": [
     {
@@ -925,7 +925,7 @@
           "person_id": "person/c1ea27ce-78f3-4283-a8d5-61d046e5ba4f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "party/unknown",
+          "on_behalf_of_id": "SWAPO",
           "legislative_period_id": "term/6"
         }
       ],
@@ -1621,6 +1621,30 @@
       ]
     },
     {
+      "email": "m.nauyoma@parliament.na",
+      "id": "person/d498c690-ecc3-4360-83c5-1d7b65a5b7ce",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_nauyoma.jpg",
+      "name": "Nauyoma, Reinhold Madala",
+      "sort_name": "Nauyoma, Reinhold Madala",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_nauyoma.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d498c690-ecc3-4360-83c5-1d7b65a5b7ce",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "APP",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/da444f23-ef9a-46f7-bf2f-fdd84520c9a7",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_ndjoze_ojo.jpg",
@@ -1964,7 +1988,7 @@
           "person_id": "person/eac826f2-6c3c-4fe3-9c75-50b1b84cd6a7",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "SWAPO",
+          "on_behalf_of_id": "UDF",
           "legislative_period_id": "term/6"
         }
       ],
