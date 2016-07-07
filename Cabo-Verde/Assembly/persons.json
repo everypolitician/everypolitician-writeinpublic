@@ -1,21 +1,75 @@
 {
-  "total": 75,
+  "total": 73,
   "page": 1,
-  "per_page": 75,
+  "per_page": 73,
   "has_more": false,
   "result": [
     {
-      "id": "person/982e3c98-2060-4d7b-b8e7-aca6fbf9bff2",
-      "name": "Abraão Aníbal Fernandes Barbosa Vicente",
-      "sort_name": "Abraão Aníbal Fernandes Barbosa Vicente",
+      "id": "person/401d2e16-430f-46bb-9498-6afb4621323c",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=296",
+      "name": "Adilson Silva Fernandes",
+      "sort_name": "Adilson Silva Fernandes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=296"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/982e3c98-2060-4d7b-b8e7-aca6fbf9bff2",
+          "person_id": "person/401d2e16-430f-46bb-9498-6afb4621323c",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santo_antão",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fbc94b6e-ddeb-4031-8ae3-6425c6cfb62c",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=300",
+      "name": "Alberto Mendes Montrond",
+      "sort_name": "Alberto Mendes Montrond",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=300"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fbc94b6e-ddeb-4031-8ae3-6425c6cfb62c",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/américa",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1dce81ca-d9ca-4cb6-b2d1-8b301f74e58b",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=402",
+      "name": "Alcides Monteiro de Pina",
+      "sort_name": "Alcides Monteiro de Pina",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=402"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1dce81ca-d9ca-4cb6-b2d1-8b301f74e58b",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -23,17 +77,23 @@
       ]
     },
     {
-      "id": "person/6afa3116-6dcb-4c5f-9e9f-ee3b16da6e49",
-      "name": "Adalberto Higino Tavares Silva",
-      "sort_name": "Adalberto Higino Tavares Silva",
+      "id": "person/9765c7a5-e7f2-4ba9-867d-5d775ff4ab16",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=360",
+      "name": "Alexandre Dias Monteiro",
+      "sort_name": "Alexandre Dias Monteiro",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=360"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/6afa3116-6dcb-4c5f-9e9f-ee3b16da6e49",
+          "person_id": "person/9765c7a5-e7f2-4ba9-867d-5d775ff4ab16",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -41,53 +101,71 @@
       ]
     },
     {
-      "id": "person/5c28e2e8-f069-420c-895e-3540e00414c0",
-      "name": "Afonso Silva Mendes da Fonseca",
-      "sort_name": "Afonso Silva Mendes da Fonseca",
+      "id": "person/90ecbaea-bf6e-49c1-bab4-3256b42c1d12",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=325",
+      "name": "Américo Sabino Soares Nascimento",
+      "sort_name": "Américo Sabino Soares Nascimento",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=325"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/5c28e2e8-f069-420c-895e-3540e00414c0",
+          "person_id": "person/90ecbaea-bf6e-49c1-bab4-3256b42c1d12",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/são_nicolau",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7f23d282-414d-43ca-bb73-ff936d6c8589",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=326",
+      "name": "Ana Paula Dias Santos",
+      "sort_name": "Ana Paula Dias Santos",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=326"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7f23d282-414d-43ca-bb73-ff936d6c8589",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/sal",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bf0603ba-4dde-47b3-a58b-c66bedb932b3",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=327",
+      "name": "Ana Paula Elias Curado Moeda",
+      "sort_name": "Ana Paula Elias Curado Moeda",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=327"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bf0603ba-4dde-47b3-a58b-c66bedb932b3",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/156d9a48-7f3e-4128-b959-0bad0af23685",
-      "name": "Alcídio José Gonçalves Tavares",
-      "sort_name": "Alcídio José Gonçalves Tavares",
-      "memberships": [
-        {
-          "person_id": "person/156d9a48-7f3e-4128-b959-0bad0af23685",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a5381632-5e07-4a42-a6ab-9cafebd616b5",
-      "name": "Alexandre José Duarte Fonseca Pacheco de Novais",
-      "sort_name": "Alexandre José Duarte Fonseca Pacheco de Novais",
-      "memberships": [
-        {
-          "person_id": "person/a5381632-5e07-4a42-a6ab-9cafebd616b5",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -96,8 +174,14 @@
     },
     {
       "id": "person/58fb0f49-d05e-4f11-b9f4-c9943645611d",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=238",
       "name": "Anilda Ineida Monteiro Tavares",
       "sort_name": "Anilda Ineida Monteiro Tavares",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=238"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/58fb0f49-d05e-4f11-b9f4-c9943645611d",
@@ -105,25 +189,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c7d86897-c43e-4faa-b2d2-3361e6547107",
-      "name": "António Alberto Mendes Fernandes",
-      "sort_name": "António Alberto Mendes Fernandes",
-      "memberships": [
-        {
-          "person_id": "person/c7d86897-c43e-4faa-b2d2-3361e6547107",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -132,8 +198,14 @@
     },
     {
       "id": "person/a5555667-bd91-448b-9e0c-f55c6de430c8",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=205",
       "name": "António Delgado Monteiro",
       "sort_name": "António Delgado Monteiro",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=205"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a5555667-bd91-448b-9e0c-f55c6de430c8",
@@ -141,7 +213,7 @@
           "role": "member",
           "on_behalf_of_id": "UCID",
           "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -149,53 +221,23 @@
       ]
     },
     {
-      "id": "person/fa647d6c-540a-4db2-85e9-7936d99e0326",
-      "name": "António Jorge Delgado",
-      "sort_name": "António Jorge Delgado",
-      "memberships": [
+      "id": "person/dfaeb749-02bb-4fd2-b7af-970bec55b503",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=408",
+      "name": "Aníbal Azevedo Fonseca",
+      "sort_name": "Aníbal Azevedo Fonseca",
+      "images": [
         {
-          "person_id": "person/fa647d6c-540a-4db2-85e9-7936d99e0326",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "MPD",
-          "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=408"
         }
       ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/df43d355-a62d-4614-a9c7-608f4a65195d",
-      "name": "Aristides Raimundo Lima",
-      "sort_name": "Aristides Raimundo Lima",
       "memberships": [
         {
-          "person_id": "person/df43d355-a62d-4614-a9c7-608f4a65195d",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/boa_vista",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c396db6a-d586-4798-abad-d7d941550b2e",
-      "name": "Arlindo Nascimento do Rosário",
-      "sort_name": "Arlindo Nascimento do Rosário",
-      "memberships": [
-        {
-          "person_id": "person/c396db6a-d586-4798-abad-d7d941550b2e",
+          "person_id": "person/dfaeb749-02bb-4fd2-b7af-970bec55b503",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santo_antão",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -203,35 +245,23 @@
       ]
     },
     {
-      "id": "person/ffd908b8-eedf-4e26-b362-8e0c80f921bc",
-      "name": "Armindo Cipriano Maurício",
-      "sort_name": "Armindo Cipriano Maurício",
+      "id": "person/0d315acb-d6da-413a-a24a-93420fdf5dac",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=355",
+      "name": "Armindo João da Luz",
+      "sort_name": "Armindo João da Luz",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=355"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/ffd908b8-eedf-4e26-b362-8e0c80f921bc",
+          "person_id": "person/0d315acb-d6da-413a-a24a-93420fdf5dac",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "PAICV",
+          "on_behalf_of_id": "MPD",
           "area_id": "area/santo_antão",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/f175cc76-1acf-4d28-83b0-e0e2db2b3b0f",
-      "name": "Arnaldo Andrade Ramos",
-      "sort_name": "Arnaldo Andrade Ramos",
-      "memberships": [
-        {
-          "person_id": "person/f175cc76-1acf-4d28-83b0-e0e2db2b3b0f",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/europa",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -240,8 +270,14 @@
     },
     {
       "id": "person/db911be5-7971-4fec-ba17-49c24e82a370",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=231",
       "name": "Austelino Tavares Correia",
       "sort_name": "Austelino Tavares Correia",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=231"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/db911be5-7971-4fec-ba17-49c24e82a370",
@@ -249,25 +285,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/452c9c92-15fc-4525-97e4-844384d4201c",
-      "name": "Basílio Mosso Ramos",
-      "sort_name": "Basílio Mosso Ramos",
-      "memberships": [
-        {
-          "person_id": "person/452c9c92-15fc-4525-97e4-844384d4201c",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/sal",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -276,8 +294,14 @@
     },
     {
       "id": "person/93696b7c-07ff-4a64-a676-2b1215188a95",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=266",
       "name": "Carlos Alberto Delgado",
       "sort_name": "Carlos Alberto Delgado",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=266"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/93696b7c-07ff-4a64-a676-2b1215188a95",
@@ -285,7 +309,7 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/santo_antão",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -293,17 +317,47 @@
       ]
     },
     {
-      "id": "person/c312cbb6-eee8-43a4-9071-0293994be681",
-      "name": "Carlos Alberto Wahnon de Carvalho Veiga",
-      "sort_name": "Carlos Alberto Wahnon de Carvalho Veiga",
+      "id": "person/62c52dfd-f491-4f53-9fd9-7999ef12fe66",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=295",
+      "name": "Carlos Alberto Gonçalves Lopes",
+      "sort_name": "Carlos Alberto Gonçalves Lopes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=295"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/c312cbb6-eee8-43a4-9071-0293994be681",
+          "person_id": "person/62c52dfd-f491-4f53-9fd9-7999ef12fe66",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/fogo",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5e2232d6-74e4-4bc6-aed7-abaea5dc4a44",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=361",
+      "name": "Carlos Miguel Afonseca Monteiro",
+      "sort_name": "Carlos Miguel Afonseca Monteiro",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=361"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5e2232d6-74e4-4bc6-aed7-abaea5dc4a44",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -311,52 +365,23 @@
       ]
     },
     {
-      "id": "person/be33ebfc-a04f-49ed-a217-cbd192027dca",
-      "name": "Carlos Antonio Silva Ramos",
-      "sort_name": "Carlos Antonio Silva Ramos",
-      "memberships": [
+      "id": "person/a087ef6b-70b8-470f-8431-28fc7737b456",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=299",
+      "name": "Celita Annie Alfama Pereira",
+      "sort_name": "Celita Annie Alfama Pereira",
+      "images": [
         {
-          "person_id": "person/be33ebfc-a04f-49ed-a217-cbd192027dca",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/são_nicolau",
-          "legislative_period_id": "term/8"
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=299"
         }
       ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/b346526c-6679-411b-9656-5ad2bc6493ed",
-      "name": "Carlos Tavares Rodrigues",
-      "sort_name": "Carlos Tavares Rodrigues",
       "memberships": [
         {
-          "person_id": "person/b346526c-6679-411b-9656-5ad2bc6493ed",
+          "person_id": "person/a087ef6b-70b8-470f-8431-28fc7737b456",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "party/unknown",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d9f2d22d-17d5-489e-aa76-8a7b138b1cb7",
-      "name": "Cláudia Sofia Marques Rodrigues",
-      "sort_name": "Cláudia Sofia Marques Rodrigues",
-      "memberships": [
-        {
-          "person_id": "person/d9f2d22d-17d5-489e-aa76-8a7b138b1cb7",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -365,8 +390,14 @@
     },
     {
       "id": "person/96a4a1bd-d20a-46e3-bc95-0865094449df",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=209",
       "name": "Clóvis Isildo Barbosa da Silva",
       "sort_name": "Clóvis Isildo Barbosa da Silva",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=209"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/96a4a1bd-d20a-46e3-bc95-0865094449df",
@@ -374,7 +405,7 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/brava",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -382,17 +413,23 @@
       ]
     },
     {
-      "id": "person/f82701f4-e123-4aab-a724-3a7c96e51ea5",
-      "name": "Cândido Rodrigues",
-      "sort_name": "Cândido Rodrigues",
+      "id": "person/6debbc70-94ae-427c-b58c-700aa3cd1faf",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=301",
+      "name": "Damião da Cruz Medina",
+      "sort_name": "Damião da Cruz Medina",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=301"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/f82701f4-e123-4aab-a724-3a7c96e51ea5",
+          "person_id": "person/6debbc70-94ae-427c-b58c-700aa3cd1faf",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/américa",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santo_antão",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -400,17 +437,23 @@
       ]
     },
     {
-      "id": "person/a66a3f1e-c40a-41a9-82fe-9b34b8caa331",
-      "name": "Daniel Augusto Melo Lima Évora",
-      "sort_name": "Daniel Augusto Melo Lima Évora",
+      "id": "person/9f4784e1-1dbd-4124-8db3-7fa06eb3ce4c",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=399",
+      "name": "David Elias Mendes Gomes",
+      "sort_name": "David Elias Mendes Gomes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=399"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/a66a3f1e-c40a-41a9-82fe-9b34b8caa331",
+          "person_id": "person/9f4784e1-1dbd-4124-8db3-7fa06eb3ce4c",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/sal",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -418,17 +461,23 @@
       ]
     },
     {
-      "id": "person/b9ed8195-f5d9-4c3d-bb6c-746b2f9cc0ad",
+      "id": "person/d92e4e2a-3780-465a-8d70-6f38c5996324",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=312",
       "name": "David Lima Gomes",
       "sort_name": "David Lima Gomes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=312"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/b9ed8195-f5d9-4c3d-bb6c-746b2f9cc0ad",
+          "person_id": "person/d92e4e2a-3780-465a-8d70-6f38c5996324",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/brava",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -436,17 +485,23 @@
       ]
     },
     {
-      "id": "person/2d0ddace-50a7-4f0c-b95f-6c6f8236665a",
-      "name": "Dúnia Alice Monteiro Moreira de Almeida Pereira",
-      "sort_name": "Dúnia Alice Monteiro Moreira de Almeida Pereira",
+      "id": "person/95eed99a-26b3-4681-baf8-031385e941f1",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=348",
+      "name": "Dora Oriana Gomes Pires dos Reis",
+      "sort_name": "Dora Oriana Gomes Pires dos Reis",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=348"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/2d0ddace-50a7-4f0c-b95f-6c6f8236665a",
+          "person_id": "person/95eed99a-26b3-4681-baf8-031385e941f1",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "UCID",
+          "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -455,8 +510,14 @@
     },
     {
       "id": "person/f6c1f0cb-5567-4d15-b7a6-62df476f041f",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=212",
       "name": "Emanuel Alberto Duarte Barbosa",
       "sort_name": "Emanuel Alberto Duarte Barbosa",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=212"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f6c1f0cb-5567-4d15-b7a6-62df476f041f",
@@ -464,7 +525,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/europa",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -473,8 +534,14 @@
     },
     {
       "id": "person/5f99c500-e9c1-4a83-a6d3-9966b39f7ea9",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=253",
       "name": "Estêvão Barros Rodrigues",
       "sort_name": "Estêvão Barros Rodrigues",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=253"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5f99c500-e9c1-4a83-a6d3-9966b39f7ea9",
@@ -482,7 +549,7 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/África",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -490,71 +557,23 @@
       ]
     },
     {
-      "id": "person/575c14fa-b079-4ac2-acde-cb631b8aab14",
-      "name": "Euclides Eurico Nunes Pina",
-      "sort_name": "Euclides Eurico Nunes Pina",
+      "id": "person/cb7b73cc-0636-4be1-bad9-e236fce2a8d6",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=330",
+      "name": "Eva Verona Teixeira Andrade Ortet",
+      "sort_name": "Eva Verona Teixeira Andrade Ortet",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=330"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/575c14fa-b079-4ac2-acde-cb631b8aab14",
+          "person_id": "person/cb7b73cc-0636-4be1-bad9-e236fce2a8d6",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/b5a20ad8-b410-4594-bb30-3e5c9f244355",
-      "name": "Euclides Vaz Cardoso Centeio",
-      "sort_name": "Euclides Vaz Cardoso Centeio",
-      "memberships": [
-        {
-          "person_id": "person/b5a20ad8-b410-4594-bb30-3e5c9f244355",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/35c54e4b-6e2d-4b8c-9540-1becf9d4536b",
-      "name": "Eunice Andrade da Silva Spencer Lopes",
-      "sort_name": "Eunice Andrade da Silva Spencer Lopes",
-      "memberships": [
-        {
-          "person_id": "person/35c54e4b-6e2d-4b8c-9540-1becf9d4536b",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "MPD",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/86d4a0d7-7289-41bf-bb77-f837cca5ad7c",
-      "name": "Eurico Correia Monteiro",
-      "sort_name": "Eurico Correia Monteiro",
-      "memberships": [
-        {
-          "person_id": "person/86d4a0d7-7289-41bf-bb77-f837cca5ad7c",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "MPD",
           "area_id": "area/fogo",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -562,53 +581,23 @@
       ]
     },
     {
-      "id": "person/1b14ea7d-1016-4923-9c84-3f88d474b1d4",
-      "name": "Eva Sulamita Monteiro Caldeira Marques",
-      "sort_name": "Eva Sulamita Monteiro Caldeira Marques",
-      "memberships": [
-        {
-          "person_id": "person/1b14ea7d-1016-4923-9c84-3f88d474b1d4",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "MPD",
-          "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/f7cee335-496d-468b-a4d8-4cfbfa61a750",
+      "id": "person/6fb0e9bc-0546-4125-87d9-7b5e010a7b26",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=331",
       "name": "Felisberto Alves Vieira",
       "sort_name": "Felisberto Alves Vieira",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=331"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/f7cee335-496d-468b-a4d8-4cfbfa61a750",
+          "person_id": "person/6fb0e9bc-0546-4125-87d9-7b5e010a7b26",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/749bcd6a-a9d0-47e6-8f03-4575e0959d3c",
-      "name": "Fernando Eíisio Leboucher Freire de Andrade",
-      "sort_name": "Fernando Eíisio Leboucher Freire de Andrade",
-      "memberships": [
-        {
-          "person_id": "person/749bcd6a-a9d0-47e6-8f03-4575e0959d3c",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "MPD",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -617,8 +606,14 @@
     },
     {
       "id": "person/5b9f46b9-cc9e-44ce-9959-933ecc81c225",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=258",
       "name": "Fernando Jorge Spencer Ferreira Frederico",
       "sort_name": "Fernando Jorge Spencer Ferreira Frederico",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=258"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5b9f46b9-cc9e-44ce-9959-933ecc81c225",
@@ -626,7 +621,7 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/maio",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -634,35 +629,23 @@
       ]
     },
     {
-      "id": "person/b691c55b-97a5-48a5-bb68-144892660364",
-      "name": "Fernando Lopes Robalo",
-      "sort_name": "Fernando Lopes Robalo",
-      "memberships": [
+      "id": "person/060c1d8a-1358-4de0-994d-f3617c50560d",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=308",
+      "name": "Filipe Alves Gomes dos Santos",
+      "sort_name": "Filipe Alves Gomes dos Santos",
+      "images": [
         {
-          "person_id": "person/b691c55b-97a5-48a5-bb68-144892660364",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=308"
         }
       ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/e1e0c610-8dde-4307-9410-aa267333fb5e",
-      "name": "Filipe Baptista Gomes Furtado",
-      "sort_name": "Filipe Baptista Gomes Furtado",
       "memberships": [
         {
-          "person_id": "person/e1e0c610-8dde-4307-9410-aa267333fb5e",
+          "person_id": "person/060c1d8a-1358-4de0-994d-f3617c50560d",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "area_id": "area/fogo",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -671,8 +654,14 @@
     },
     {
       "id": "person/53f42794-1127-402e-93a7-eec35410d25a",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=243",
       "name": "Filomena Mendes Gonçalves",
       "sort_name": "Filomena Mendes Gonçalves",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=243"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/53f42794-1127-402e-93a7-eec35410d25a",
@@ -680,7 +669,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -689,8 +678,14 @@
     },
     {
       "id": "person/8efe2ab1-0d20-42fd-b226-322359c30a26",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=268",
       "name": "Filomena de Fátima Ribeiro Vieira",
       "sort_name": "Filomena de Fátima Ribeiro Vieira",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=268"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/8efe2ab1-0d20-42fd-b226-322359c30a26",
@@ -698,7 +693,7 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -706,17 +701,23 @@
       ]
     },
     {
-      "id": "person/bdb1ba5c-1899-4d6a-a9a2-e2a6504bc276",
-      "name": "Graça Maria Lopes de Carvalho Sanches",
-      "sort_name": "Graça Maria Lopes de Carvalho Sanches",
+      "id": "person/d78922da-3704-4f22-acfd-bcb84c10291f",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=395",
+      "name": "Francisco Correia Pereira",
+      "sort_name": "Francisco Correia Pereira",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=395"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/bdb1ba5c-1899-4d6a-a9a2-e2a6504bc276",
+          "person_id": "person/d78922da-3704-4f22-acfd-bcb84c10291f",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "area_id": "area/europa",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -724,17 +725,23 @@
       ]
     },
     {
-      "id": "person/35edb0fc-6d4c-46bd-ba56-75c7cdb7785d",
-      "name": "Hermes Silva Santos",
-      "sort_name": "Hermes Silva Santos",
+      "id": "person/0a56d880-dfbe-4cf3-b017-2e582348f2ed",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=356",
+      "name": "Francisco Marcelino Lopes Correia",
+      "sort_name": "Francisco Marcelino Lopes Correia",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=356"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/35edb0fc-6d4c-46bd-ba56-75c7cdb7785d",
+          "person_id": "person/0a56d880-dfbe-4cf3-b017-2e582348f2ed",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/sal",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -742,17 +749,71 @@
       ]
     },
     {
-      "id": "person/9eb08b3f-d7c6-4c40-b37d-023745fd1d53",
-      "name": "Humberto André Cardoso Duarte",
-      "sort_name": "Humberto André Cardoso Duarte",
+      "id": "person/d242bf80-b86c-4fe9-b207-b9f4ca0203e4",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=357",
+      "name": "Georgina Maria Duarte Gemiê",
+      "sort_name": "Georgina Maria Duarte Gemiê",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=357"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/9eb08b3f-d7c6-4c40-b37d-023745fd1d53",
+          "person_id": "person/d242bf80-b86c-4fe9-b207-b9f4ca0203e4",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/sal",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f87a9b21-fd6c-4964-8755-b1ffeba9cb57",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=310",
+      "name": "Humberto Elísio Lélis Sousa Duarte",
+      "sort_name": "Humberto Elísio Lélis Sousa Duarte",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=310"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f87a9b21-fd6c-4964-8755-b1ffeba9cb57",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d6fa0917-19e8-41d6-ab96-eacdd6752856",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=401",
+      "name": "Hélio de Jesus Pina Sanches",
+      "sort_name": "Hélio de Jesus Pina Sanches",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=401"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d6fa0917-19e8-41d6-ab96-eacdd6752856",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -761,16 +822,22 @@
     },
     {
       "id": "person/ec96ed3d-4492-48b6-abb6-939dd30769be",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=244",
       "name": "Isa Filomena Pereira Soares da Costa",
       "sort_name": "Isa Filomena Pereira Soares da Costa",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=244"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ec96ed3d-4492-48b6-abb6-939dd30769be",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -778,17 +845,23 @@
       ]
     },
     {
-      "id": "person/cdb93d3b-cd2e-4452-b659-af22282fb9d1",
-      "name": "Janine Tatiana Santos Lélis",
-      "sort_name": "Janine Tatiana Santos Lélis",
+      "id": "person/901739a4-9fc2-49fb-ad1e-60003d48750a",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=388",
+      "name": "Janira Isabel Fonseca Hopffer Almada",
+      "sort_name": "Janira Isabel Fonseca Hopffer Almada",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=388"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/cdb93d3b-cd2e-4452-b659-af22282fb9d1",
+          "person_id": "person/901739a4-9fc2-49fb-ad1e-60003d48750a",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "MPD",
-          "area_id": "area/sal",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -797,8 +870,14 @@
     },
     {
       "id": "person/072b2449-c6f1-4390-a1e7-e56c50cb5e06",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=246",
       "name": "Joana Gomes Rosa",
       "sort_name": "Joana Gomes Rosa",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=246"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/072b2449-c6f1-4390-a1e7-e56c50cb5e06",
@@ -806,25 +885,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/maio",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/73e9c95e-e477-4cc1-9bf4-56544ba1d598",
-      "name": "Joanilda Lúcia Silva Alves",
-      "sort_name": "Joanilda Lúcia Silva Alves",
-      "memberships": [
-        {
-          "person_id": "person/73e9c95e-e477-4cc1-9bf4-56544ba1d598",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/fogo",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -833,8 +894,14 @@
     },
     {
       "id": "person/b3d98322-ffb5-42a3-abeb-871284def76e",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=222",
       "name": "Jorge Arcanjo Livramento Nogueira",
       "sort_name": "Jorge Arcanjo Livramento Nogueira",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=222"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b3d98322-ffb5-42a3-abeb-871284def76e",
@@ -842,7 +909,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/fogo",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -851,34 +918,22 @@
     },
     {
       "id": "person/0b4ef795-d7db-40f6-ae2d-0c87806a615a",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=247",
       "name": "Jorge Pedro Maurício dos Santos",
       "sort_name": "Jorge Pedro Maurício dos Santos",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=247"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0b4ef795-d7db-40f6-ae2d-0c87806a615a",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/fc8ff75a-5580-436b-9663-ffa324299690",
-      "name": "Joselito Monteiro Fonseca",
-      "sort_name": "Joselito Monteiro Fonseca",
-      "memberships": [
-        {
-          "person_id": "person/fc8ff75a-5580-436b-9663-ffa324299690",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
           "area_id": "area/santo_antão",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -886,17 +941,23 @@
       ]
     },
     {
-      "id": "person/e30d8274-6dc1-4059-95d2-9f889d1cf06a",
-      "name": "José Cristiano de Jesus Monteiro",
-      "sort_name": "José Cristiano de Jesus Monteiro",
+      "id": "person/a7a84ffe-91b3-427f-aabe-256877dce048",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=316",
+      "name": "José Eduardo Mendes Moreno",
+      "sort_name": "José Eduardo Mendes Moreno",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=316"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/e30d8274-6dc1-4059-95d2-9f889d1cf06a",
+          "person_id": "person/a7a84ffe-91b3-427f-aabe-256877dce048",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/américa",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -905,8 +966,14 @@
     },
     {
       "id": "person/acf30393-b2c5-4c58-b8a8-1003bafc6bfb",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=248",
       "name": "José Filomeno Monteiro",
       "sort_name": "José Filomeno Monteiro",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=248"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/acf30393-b2c5-4c58-b8a8-1003bafc6bfb",
@@ -914,7 +981,31 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bde74d34-9097-4950-8b82-a9f8990638c5",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=335",
+      "name": "José Jorge Monteiro Silva",
+      "sort_name": "José Jorge Monteiro Silva",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=335"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bde74d34-9097-4950-8b82-a9f8990638c5",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -923,8 +1014,14 @@
     },
     {
       "id": "person/b6f60dd0-75ec-4658-9810-6d28840c7cf1",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=210",
       "name": "José Luís Lima Santos",
       "sort_name": "José Luís Lima Santos",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=210"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b6f60dd0-75ec-4658-9810-6d28840c7cf1",
@@ -932,7 +1029,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/boa_vista",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -940,17 +1037,23 @@
       ]
     },
     {
-      "id": "person/7e11cd5c-74c0-481c-ab1a-c268bca8ce8e",
-      "name": "José Manuel Gomes Andrade",
-      "sort_name": "José Manuel Gomes Andrade",
+      "id": "person/26fd5a9d-d8b4-48b9-8a4d-08c6f97903e5",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=317",
+      "name": "José Luís do Livramento Monteiro Alves de Brito",
+      "sort_name": "José Luís do Livramento Monteiro Alves de Brito",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=317"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/7e11cd5c-74c0-481c-ab1a-c268bca8ce8e",
+          "person_id": "person/26fd5a9d-d8b4-48b9-8a4d-08c6f97903e5",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "PAICV",
+          "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -959,8 +1062,14 @@
     },
     {
       "id": "person/0d28f2ea-ee91-4a33-b98a-2b1f429b4808",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=271",
       "name": "José Manuel Sanches Tavares",
       "sort_name": "José Manuel Sanches Tavares",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=271"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0d28f2ea-ee91-4a33-b98a-2b1f429b4808",
@@ -968,7 +1077,199 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3c4d1490-0f8f-4c53-918e-e4886d0e9ed3",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=319",
+      "name": "José Manuel Soares Tavares",
+      "sort_name": "José Manuel Soares Tavares",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=319"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3c4d1490-0f8f-4c53-918e-e4886d0e9ed3",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0fa1862f-7d29-45f3-a63a-20761a7b3544",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=347",
+      "name": "José Maria Fernandes da Veiga",
+      "sort_name": "José Maria Fernandes da Veiga",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=347"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0fa1862f-7d29-45f3-a63a-20761a7b3544",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1e58df2c-2804-467e-88ff-d8058752f22d",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=337",
+      "name": "José Maria Gomes da Veiga",
+      "sort_name": "José Maria Gomes da Veiga",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=337"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e58df2c-2804-467e-88ff-d8058752f22d",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/24d530ab-f4e8-4718-9325-a66a86cf871f",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=396",
+      "name": "João Baptista Correia Pereira",
+      "sort_name": "João Baptista Correia Pereira",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=396"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/24d530ab-f4e8-4718-9325-a66a86cf871f",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f001c26b-c08d-4c23-bc6a-a59a5c69476a",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=314",
+      "name": "João Gomes Duarte",
+      "sort_name": "João Gomes Duarte",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=314"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f001c26b-c08d-4c23-bc6a-a59a5c69476a",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/43ea0e95-e7fc-4996-990c-675843d50b07",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=313",
+      "name": "João da Luz Gomes",
+      "sort_name": "João da Luz Gomes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=313"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/43ea0e95-e7fc-4996-990c-675843d50b07",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a9786cd9-86f9-460f-8b18-c8a75e056a04",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=397",
+      "name": "João de Brito Lopes de Pina",
+      "sort_name": "João de Brito Lopes de Pina",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=397"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9786cd9-86f9-460f-8b18-c8a75e056a04",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/américa",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c0c354af-56c9-4b44-b215-4f46b1bd3468",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=334",
+      "name": "João do Carmo Brito Soares",
+      "sort_name": "João do Carmo Brito Soares",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=334"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c0c354af-56c9-4b44-b215-4f46b1bd3468",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
+          "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -977,8 +1278,14 @@
     },
     {
       "id": "person/6d2bf6d4-7cdf-43de-8dea-bc587a008ef5",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=206",
       "name": "João dos Santos Luís",
       "sort_name": "João dos Santos Luís",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=206"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/6d2bf6d4-7cdf-43de-8dea-bc587a008ef5",
@@ -986,7 +1293,7 @@
           "role": "member",
           "on_behalf_of_id": "UCID",
           "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -994,17 +1301,23 @@
       ]
     },
     {
-      "id": "person/b0d8214d-43e8-4ff0-af6b-cc57c8e27bf1",
-      "name": "Justiniano Jorge Lopes de Sena",
-      "sort_name": "Justiniano Jorge Lopes de Sena",
+      "id": "person/bf2aee9b-a256-4bcd-8bc8-0d9cb89f10c3",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=338",
+      "name": "Julião Correia Varela",
+      "sort_name": "Julião Correia Varela",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=338"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/b0d8214d-43e8-4ff0-af6b-cc57c8e27bf1",
+          "person_id": "person/bf2aee9b-a256-4bcd-8bc8-0d9cb89f10c3",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1013,16 +1326,22 @@
     },
     {
       "id": "person/e71662f8-1bd5-4611-9db7-00813f227a61",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=221",
       "name": "Júlio Lopes Correia",
       "sort_name": "Júlio Lopes Correia",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=221"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e71662f8-1bd5-4611-9db7-00813f227a61",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/fogo",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1030,53 +1349,23 @@
       ]
     },
     {
-      "id": "person/7a201ba5-72ac-44c1-a811-a8e0a5a5c598",
-      "name": "Leão Monteiro Lopes",
-      "sort_name": "Leão Monteiro Lopes",
+      "id": "person/e67df9dc-e6ed-493d-8f05-61f21dadc033",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=362",
+      "name": "Luís Carlos dos Santos Silva",
+      "sort_name": "Luís Carlos dos Santos Silva",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=362"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/7a201ba5-72ac-44c1-a811-a8e0a5a5c598",
+          "person_id": "person/e67df9dc-e6ed-493d-8f05-61f21dadc033",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/santo_antão",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c5837589-8602-4a59-bc0a-3164137b1db1",
-      "name": "Lívio Fernandes Lopes",
-      "sort_name": "Lívio Fernandes Lopes",
-      "memberships": [
-        {
-          "person_id": "person/c5837589-8602-4a59-bc0a-3164137b1db1",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/fogo",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/d5435ccf-ea24-4f8f-a4ca-127f142dd21d",
-      "name": "Maria Fernanda Mendes Varela",
-      "sort_name": "Maria Fernanda Mendes Varela",
-      "memberships": [
-        {
-          "person_id": "person/d5435ccf-ea24-4f8f-a4ca-127f142dd21d",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1084,17 +1373,71 @@
       ]
     },
     {
-      "id": "person/94a55e74-1c84-476d-a53c-26041a657a1e",
-      "name": "Maria da Luz Rocha Monteiro",
-      "sort_name": "Maria da Luz Rocha Monteiro",
+      "id": "person/8951607c-bb39-4192-9bc7-9e274377339f",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=320",
+      "name": "Lúcia Maria Mendes Gonçalves dos Passos",
+      "sort_name": "Lúcia Maria Mendes Gonçalves dos Passos",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=320"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/94a55e74-1c84-476d-a53c-26041a657a1e",
+          "person_id": "person/8951607c-bb39-4192-9bc7-9e274377339f",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/41c19336-291f-47bc-b1e0-23df68ccb7a7",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=340",
+      "name": "Manuel Inocêncio Sousa",
+      "sort_name": "Manuel Inocêncio Sousa",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=340"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/41c19336-291f-47bc-b1e0-23df68ccb7a7",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/402a5c03-d558-487d-9983-f1f331af1da8",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=321",
+      "name": "Maria Celeste Fonseca",
+      "sort_name": "Maria Celeste Fonseca",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=321"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/402a5c03-d558-487d-9983-f1f331af1da8",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1103,8 +1446,14 @@
     },
     {
       "id": "person/e6121cc2-b176-4e11-b4f1-cfbc6c0f8c68",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=251",
       "name": "Miguel Pedro Sousa Monteiro",
       "sort_name": "Miguel Pedro Sousa Monteiro",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=251"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e6121cc2-b176-4e11-b4f1-cfbc6c0f8c68",
@@ -1112,7 +1461,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1120,17 +1469,47 @@
       ]
     },
     {
-      "id": "person/59340217-3e42-4ccc-a90f-f0e8af6b39fb",
-      "name": "Mário Ramos Pereira Silva",
-      "sort_name": "Mário Ramos Pereira Silva",
+      "id": "person/c7b22fef-e971-40c6-a693-1642f48c7b70",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=322",
+      "name": "Mircéia Isidora Araújo Delgado",
+      "sort_name": "Mircéia Isidora Araújo Delgado",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=322"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/59340217-3e42-4ccc-a90f-f0e8af6b39fb",
+          "person_id": "person/c7b22fef-e971-40c6-a693-1642f48c7b70",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
+          "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f757d849-973c-4359-84f9-4078f2d6ce5d",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=342",
+      "name": "Moisés António do Espírito Santo Tavares Borges",
+      "sort_name": "Moisés António do Espírito Santo Tavares Borges",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=342"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f757d849-973c-4359-84f9-4078f2d6ce5d",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1139,8 +1518,14 @@
     },
     {
       "id": "person/5277109f-cab2-4ae3-b739-d395570b1e75",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=225",
       "name": "Nelson do Rosário Brito",
       "sort_name": "Nelson do Rosário Brito",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=225"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5277109f-cab2-4ae3-b739-d395570b1e75",
@@ -1148,7 +1533,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/são_nicolau",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1157,8 +1542,14 @@
     },
     {
       "id": "person/0ac47fd2-cc8f-4e6f-b51f-b49f65400548",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=208",
       "name": "Nilda Maria Gonçalves de Pina Fernandes",
       "sort_name": "Nilda Maria Gonçalves de Pina Fernandes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=208"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0ac47fd2-cc8f-4e6f-b51f-b49f65400548",
@@ -1166,7 +1557,7 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1175,16 +1566,22 @@
     },
     {
       "id": "person/52f2d393-7bff-4309-80df-90846c20e2d5",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=264",
       "name": "Nuias Mendes Barbosa Silva",
       "sort_name": "Nuias Mendes Barbosa Silva",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=264"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/52f2d393-7bff-4309-80df-90846c20e2d5",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_sul",
-          "legislative_period_id": "term/8"
+          "area_id": "area/fogo",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1192,17 +1589,23 @@
       ]
     },
     {
-      "id": "person/d88ccb48-fe48-4b0b-8ce8-979c24882eb5",
-      "name": "Orlanda Maria Duarte Santos Ferreira",
-      "sort_name": "Orlanda Maria Duarte Santos Ferreira",
+      "id": "person/4a53d0bc-5076-460b-9cb5-12cd9df33bbd",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=344",
+      "name": "Odailson Jorge da Luz Bandeira",
+      "sort_name": "Odailson Jorge da Luz Bandeira",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=344"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/d88ccb48-fe48-4b0b-8ce8-979c24882eb5",
+          "person_id": "person/4a53d0bc-5076-460b-9cb5-12cd9df33bbd",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "MPD",
+          "on_behalf_of_id": "PAICV",
           "area_id": "area/santo_antão",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1211,8 +1614,14 @@
     },
     {
       "id": "person/146ffc20-ed5c-4c78-a7a2-9d2f57339770",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=234",
       "name": "Orlando Pereira Dias",
       "sort_name": "Orlando Pereira Dias",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=234"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/146ffc20-ed5c-4c78-a7a2-9d2f57339770",
@@ -1220,7 +1629,7 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/África",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1228,35 +1637,23 @@
       ]
     },
     {
-      "id": "person/cd54eb30-570b-490c-8a3d-6d4f1e4c0833",
-      "name": "Paulo Noel Rendall de Oliveira Martins",
-      "sort_name": "Paulo Noel Rendall de Oliveira Martins",
-      "memberships": [
+      "id": "person/c85d90eb-42f1-4ef1-ad4e-27a0f935b489",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=359",
+      "name": "Paulo Jorge Lima Veiga",
+      "sort_name": "Paulo Jorge Lima Veiga",
+      "images": [
         {
-          "person_id": "person/cd54eb30-570b-490c-8a3d-6d4f1e4c0833",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/são_vicente",
-          "legislative_period_id": "term/8"
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=359"
         }
       ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/0b96de21-b0da-4700-98bb-5825d45499c8",
-      "name": "Pedro Alexandre Tavares Rocha",
-      "sort_name": "Pedro Alexandre Tavares Rocha",
       "memberships": [
         {
-          "person_id": "person/0b96de21-b0da-4700-98bb-5825d45499c8",
+          "person_id": "person/c85d90eb-42f1-4ef1-ad4e-27a0f935b489",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1264,17 +1661,23 @@
       ]
     },
     {
-      "id": "person/51988c1f-b4be-478b-9dc1-b832662c1f43",
-      "name": "Pedro Amante de Ramiro Furtado",
-      "sort_name": "Pedro Amante de Ramiro Furtado",
+      "id": "person/c67d8dae-22bc-4c0a-921a-ba1377ae1393",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=324",
+      "name": "Rui Alberto de Figueiredo Soares",
+      "sort_name": "Rui Alberto de Figueiredo Soares",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=324"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/51988c1f-b4be-478b-9dc1-b832662c1f43",
+          "person_id": "person/c67d8dae-22bc-4c0a-921a-ba1377ae1393",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1282,17 +1685,23 @@
       ]
     },
     {
-      "id": "person/47c09711-c4cb-4ebb-ae42-70362d23c89d",
-      "name": "Sidónio Fontes Lima Monteiro",
-      "sort_name": "Sidónio Fontes Lima Monteiro",
+      "id": "person/6e0cb299-a7a7-4668-a504-798196a8d920",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=363",
+      "name": "Rui Mendes Semedo",
+      "sort_name": "Rui Mendes Semedo",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=363"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/47c09711-c4cb-4ebb-ae42-70362d23c89d",
+          "person_id": "person/6e0cb299-a7a7-4668-a504-798196a8d920",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/américa",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1300,17 +1709,23 @@
       ]
     },
     {
-      "id": "person/3811b73b-f78c-4803-9dc3-d335cc9d7162",
-      "name": "Susete Soares Muniz",
-      "sort_name": "Susete Soares Muniz",
+      "id": "person/d6b702c3-8326-41a4-bc76-02228c4b6ab3",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=345",
+      "name": "Vera Helena Pires Almeida da Cruz",
+      "sort_name": "Vera Helena Pires Almeida da Cruz",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=345"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/3811b73b-f78c-4803-9dc3-d335cc9d7162",
+          "person_id": "person/d6b702c3-8326-41a4-bc76-02228c4b6ab3",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "area_id": "area/santo_antão",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1318,35 +1733,23 @@
       ]
     },
     {
-      "id": "person/f5b0c229-5ea9-4741-b8a1-f0b7f3c90155",
-      "name": "Vanusa Tatiana Fernandes Cardoso",
-      "sort_name": "Vanusa Tatiana Fernandes Cardoso",
-      "memberships": [
+      "id": "person/0e2b5186-eab9-464a-a3e6-5552cc88261e",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=346",
+      "name": "Walter Emanuel da Silva Évora",
+      "sort_name": "Walter Emanuel da Silva Évora",
+      "images": [
         {
-          "person_id": "person/f5b0c229-5ea9-4741-b8a1-f0b7f3c90155",
-          "organization_id": "chamber/assembleia_nacional",
-          "role": "member",
-          "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=346"
         }
       ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/3e201716-1393-4088-a923-1ac49e19b5ee",
-      "name": "Virgínia baesa cabral Gonçalves",
-      "sort_name": "Virgínia baesa cabral Gonçalves",
       "memberships": [
         {
-          "person_id": "person/3e201716-1393-4088-a923-1ac49e19b5ee",
+          "person_id": "person/0e2b5186-eab9-464a-a3e6-5552cc88261e",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "PAICV",
-          "area_id": "area/santiago_norte",
-          "legislative_period_id": "term/8"
+          "area_id": "area/boa_vista",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [

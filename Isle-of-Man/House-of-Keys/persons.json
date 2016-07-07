@@ -1,7 +1,7 @@
 {
-  "total": 28,
+  "total": 29,
   "page": 1,
-  "per_page": 28,
+  "per_page": 29,
   "has_more": false,
   "result": [
     {
@@ -260,6 +260,25 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/douglas_west",
+          "legislative_period_id": "term/2011"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/01f8c289-72f7-4b9c-affc-f8fe77c896ca",
+      "name": "Geoffrey Boot",
+      "sort_name": "Geoffrey Boot",
+      "memberships": [
+        {
+          "person_id": "person/01f8c289-72f7-4b9c-affc-f8fe77c896ca",
+          "organization_id": "chamber/house_of_keys",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/glenfaba",
           "legislative_period_id": "term/2011"
         }
       ],
