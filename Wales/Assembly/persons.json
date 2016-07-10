@@ -1631,41 +1631,6 @@
       ]
     },
     {
-      "email": "Sian.Gwenllian@assembly.wales",
-      "gender": "female",
-      "id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
-      "image": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg",
-      "name": "Sian Gwenllian",
-      "sort_name": "Sian Gwenllian",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "siangwenfelin"
-        }
-      ],
-      "links": [
-        {
-          "url": "SianGwenllianACAM",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
-          "organization_id": "chamber/national_assembly_for_wales",
-          "role": "member",
-          "on_behalf_of_id": "plaid_cymru",
-          "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:arfon",
-          "legislative_period_id": "term/5"
-        }
-      ]
-    },
-    {
       "email": "Simon.Thomas@assembly.wales",
       "gender": "male",
       "id": "person/c5f3e87c-b887-4915-866f-9766395faeb2",
@@ -1696,6 +1661,41 @@
           "role": "member",
           "on_behalf_of_id": "plaid_cymru",
           "area_id": "ocd-division/country:gb-wls/region:mid_and_west_wales",
+          "legislative_period_id": "term/5"
+        }
+      ]
+    },
+    {
+      "email": "Sian.Gwenllian@assembly.wales",
+      "gender": "female",
+      "id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
+      "image": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg",
+      "name": "Siân Gwenllian",
+      "sort_name": "Siân Gwenllian",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "siangwenfelin"
+        }
+      ],
+      "links": [
+        {
+          "url": "SianGwenllianACAM",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "plaid_cymru",
+          "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:arfon",
           "legislative_period_id": "term/5"
         }
       ]
