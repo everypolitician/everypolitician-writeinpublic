@@ -1,7 +1,7 @@
 {
-  "total": 577,
+  "total": 578,
   "page": 1,
-  "per_page": 577,
+  "per_page": 578,
   "has_more": false,
   "result": [
     {
@@ -1947,6 +1947,30 @@
           "role": "member",
           "on_behalf_of_id": "PSDB",
           "area_id": "area/mg",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/79fe0990-9268-414e-acea-fc2d0e97ef9c",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74052.jpg",
+      "name": "BOSCO COSTA",
+      "sort_name": "BOSCO COSTA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74052.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/79fe0990-9268-414e-acea-fc2d0e97ef9c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "_unknown",
+          "area_id": "area/se",
           "legislative_period_id": "term/55"
         }
       ],
