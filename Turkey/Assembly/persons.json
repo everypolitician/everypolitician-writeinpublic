@@ -852,9 +852,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e9548353-85bd-4ce3-a2f8-711d0376bdb2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ali_İhsan_Yavuz.JPG",
       "name": "Ali İhsan Yavuz",
       "sort_name": "Ali İhsan Yavuz",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ali_İhsan_Yavuz.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e9548353-85bd-4ce3-a2f8-711d0376bdb2",
@@ -1217,8 +1224,14 @@
     },
     {
       "id": "person/c7cd9c82-e20b-42cf-af34-6bcebc350384",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aytug-atici.png",
       "name": "Aytuğ Atıcı",
       "sort_name": "Aytuğ Atıcı",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aytug-atici.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c7cd9c82-e20b-42cf-af34-6bcebc350384",
@@ -1500,14 +1513,8 @@
     {
       "gender": "male",
       "id": "person/90fcee66-dd4d-4d1f-a6b2-24360c96fb89",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bekir_Bozdağ_(cropped).jpeg",
       "name": "Bekir Bozdağ",
       "sort_name": "Bekir Bozdağ",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bekir_Bozdağ_(cropped).jpeg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/90fcee66-dd4d-4d1f-a6b2-24360c96fb89",
@@ -1910,6 +1917,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9ecfbe9d-57aa-4e9e-bb5c-c26c07a6d823",
       "name": "Canan Candemir Çelik",
       "sort_name": "Canan Candemir Çelik",
@@ -2253,8 +2261,14 @@
     {
       "gender": "male",
       "id": "person/7b1c53f9-357a-4d61-9cc1-2e348b032154",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Dengir_Mir_Mehmet_Fırat_2015-March_(cropped).jpg",
       "name": "Dengir Mir Mehmet Fırat",
       "sort_name": "Dengir Mir Mehmet Fırat",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Dengir_Mir_Mehmet_Fırat_2015-March_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7b1c53f9-357a-4d61-9cc1-2e348b032154",
@@ -2315,12 +2329,12 @@
     {
       "gender": "male",
       "id": "person/e0c3d800-3dc6-477f-8b78-18d8a8760bf6",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Devlet_Bahçeli.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bahçeli_VOA_2015_(cropped).jpg",
       "name": "Devlet Bahçeli",
       "sort_name": "Devlet Bahçeli",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Devlet_Bahçeli.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bahçeli_VOA_2015_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -2374,6 +2388,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/bf9beec5-33c9-4ccd-9948-d05e97a91249",
       "name": "Dilek Öcalan",
       "sort_name": "Dilek Öcalan",
@@ -2614,6 +2629,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/35db100c-1cc8-4cf8-ac8e-21f6d4eff6b9",
       "name": "Emin Haluk Ayhan",
       "sort_name": "Emin Haluk Ayhan",
@@ -2707,12 +2723,12 @@
     {
       "gender": "male",
       "id": "person/83166b8c-78f5-4500-b259-96e919711eb3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Engin_Altay.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Engin_Altay_cropped.jpg",
       "name": "Engin Altay",
       "sort_name": "Engin Altay",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Engin_Altay.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Engin_Altay_cropped.jpg"
         }
       ],
       "memberships": [
@@ -3140,6 +3156,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/864f6d0e-1e29-4537-a164-22e733c266fc",
       "name": "Faruk Özlü",
       "sort_name": "Faruk Özlü",
@@ -3195,9 +3212,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/05a888c7-2afc-4149-af4d-6ef2091b16de",
       "name": "Fatma Betül Sayan Kaya",
       "sort_name": "Fatma Betül Sayan Kaya",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "drbetulsayan"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/05a888c7-2afc-4149-af4d-6ef2091b16de",
@@ -3207,9 +3231,6 @@
           "area_id": "area/İstanbul_(ii)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3405,12 +3426,12 @@
     {
       "gender": "female",
       "id": "person/708682e6-4529-4011-bdcd-8b442618d72b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Figen_Yüksekdağ.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Figen_Yuksekdag_VOA.jpg",
       "name": "Figen Yüksekdağ",
       "sort_name": "Figen Yüksekdağ",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Figen_Yüksekdağ.png"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Figen_Yuksekdag_VOA.jpg"
         }
       ],
       "memberships": [
@@ -3571,6 +3592,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/8ed9cebc-d3d9-491e-afcb-4c8fbfac7af9",
       "name": "Gökcen Özdoğan Enç",
       "sort_name": "Gökcen Özdoğan Enç",
@@ -3646,8 +3668,14 @@
     {
       "gender": "male",
       "id": "person/75c51c1a-f157-4bce-9056-12647916d67e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gürsel_Tekin_(cropped).jpg",
       "name": "Gürsel Tekin",
       "sort_name": "Gürsel Tekin",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gürsel_Tekin_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/75c51c1a-f157-4bce-9056-12647916d67e",
@@ -4560,6 +4588,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ed32ef7a-cd6f-4d29-83d3-9fb7e9d41825",
       "name": "Kamil Okyay Sındır",
       "sort_name": "Kamil Okyay Sındır",
@@ -4720,8 +4749,14 @@
     {
       "gender": "male",
       "id": "person/213ec0d7-40a2-4ed6-810d-ca4c3e23c9ed",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Levent_Gök.jpg",
       "name": "Levent Gök",
       "sort_name": "Levent Gök",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Levent_Gök.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/213ec0d7-40a2-4ed6-810d-ca4c3e23c9ed",
@@ -4968,6 +5003,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/2ded6f00-263b-44a4-a9c4-94d6f02e531b",
       "name": "Mahmut Tanal",
       "sort_name": "Mahmut Tanal",
@@ -5174,6 +5210,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/81a1e981-4e6b-4139-ba96-59d8b5cad623",
       "name": "Mehmet Altay",
       "sort_name": "Mehmet Altay",
@@ -5707,6 +5744,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d516c691-277f-4ac9-8dee-075531c82ca6",
       "name": "Melike Basmacı",
       "sort_name": "Melike Basmacı",
@@ -5725,9 +5763,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/4e4210fc-b79d-45d9-ae7a-4c447847ca78",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Meral_Danış_Beştaş_at_Hayat_TV,_2015.jpg",
       "name": "Meral Danış Beştaş",
       "sort_name": "Meral Danış Beştaş",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Meral_Danış_Beştaş_at_Hayat_TV,_2015.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/4e4210fc-b79d-45d9-ae7a-4c447847ca78",
@@ -5956,12 +6001,18 @@
     {
       "gender": "male",
       "id": "person/e0114e80-799f-45be-abd4-bad2bf81f57a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mithat_Sancar_2015_(portrait).jpg",
       "name": "Mithat Sancar",
       "sort_name": "Mithat Sancar",
       "contact_details": [
         {
           "type": "twitter",
           "value": "mithatsancarr"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mithat_Sancar_2015_(portrait).jpg"
         }
       ],
       "memberships": [
@@ -6123,8 +6174,14 @@
     {
       "gender": "male",
       "id": "person/ab80c65f-a73e-4c2c-8f7e-decd37207fae",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Muharrem_İnce.jpg",
       "name": "Muharrem İnce",
       "sort_name": "Muharrem İnce",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Muharrem_İnce.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ab80c65f-a73e-4c2c-8f7e-decd37207fae",
@@ -6299,8 +6356,14 @@
     },
     {
       "id": "person/366aa779-0185-4688-bdc9-edc159110e69",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mustafa_ATAŞ.jpg",
       "name": "Mustafa Ataş",
       "sort_name": "Mustafa Ataş",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mustafa_ATAŞ.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/366aa779-0185-4688-bdc9-edc159110e69",
@@ -6538,8 +6601,14 @@
     {
       "gender": "male",
       "id": "person/36df5bbc-0c97-4ac0-92b9-3eff4b0a0106",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sezgin_Tanrıkulu_(cropped).jpg",
       "name": "Mustafa Sezgin Tanrıkulu",
       "sort_name": "Mustafa Sezgin Tanrıkulu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sezgin_Tanrıkulu_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/36df5bbc-0c97-4ac0-92b9-3eff4b0a0106",
@@ -7219,6 +7288,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/2cdd6bc2-9bb1-480d-9379-d0b5e5b9cc96",
       "name": "Nursel Aydoğan",
       "sort_name": "Nursel Aydoğan",
@@ -8115,8 +8185,14 @@
     {
       "gender": "female",
       "id": "person/c166f239-cdff-445f-bff4-565e7d9ae86e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Selma_Irmak_(cropped).jpg",
       "name": "Selma Irmak",
       "sort_name": "Selma Irmak",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Selma_Irmak_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c166f239-cdff-445f-bff4-565e7d9ae86e",
@@ -9875,8 +9951,14 @@
     {
       "gender": "male",
       "id": "person/b524428b-6fff-4f3b-9b63-d7e01c643e50",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/İdris_Baluken_(portrait).jpg",
       "name": "İdris Baluken",
       "sort_name": "İdris Baluken",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/İdris_Baluken_(portrait).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b524428b-6fff-4f3b-9b63-d7e01c643e50",
