@@ -1,7 +1,7 @@
 {
-  "total": 469,
+  "total": 470,
   "page": 1,
-  "per_page": 469,
+  "per_page": 470,
   "has_more": false,
   "result": [
     {
@@ -3014,6 +3014,26 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "30-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4d12c989-e634-48e4-b880-006269e0cdde",
+      "name": "Grzegorz Piechowiak",
+      "sort_name": "Grzegorz Piechowiak",
+      "memberships": [
+        {
+          "person_id": "person/4d12c989-e634-48e4-b880-006269e0cdde",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "38-8",
+          "start_date": "2016-07-19",
           "legislative_period_id": "term/8"
         }
       ],
@@ -6394,6 +6414,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "38-8",
           "end_date": "2016-06-30",
           "legislative_period_id": "term/8"
         }
