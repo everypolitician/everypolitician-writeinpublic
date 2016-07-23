@@ -1,7 +1,7 @@
 {
-  "total": 574,
+  "total": 576,
   "page": 1,
-  "per_page": 574,
+  "per_page": 576,
   "has_more": false,
   "result": [
     {
@@ -873,6 +873,30 @@
       ]
     },
     {
+      "id": "person/90c1de39-f854-48a6-bf2b-850ec2482e32",
+      "image": "http://dpr.go.id/doksigota/photo/1035_Andreas_Hugo_Pareira_.jpg",
+      "name": "Andreas Hugo Pareira",
+      "sort_name": "Andreas Hugo Pareira",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1035_Andreas_Hugo_Pareira_.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/90c1de39-f854-48a6-bf2b-850ec2482e32",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
+          "area_id": "area/nusa_tenggara_timur_i",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/8fd72616-b7a7-4a27-9580-ead0af6ecd7a",
       "image": "http://dpr.go.id/doksigota/photo/1386.jpg",
@@ -1364,6 +1388,30 @@
           "role": "member",
           "on_behalf_of_id": "great_indonesia_movement_party_faction",
           "area_id": "area/banten_ii",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/39761585-80b7-4e7c-8b66-efc6f99dc391",
+      "image": "http://dpr.go.id/doksigota/photo/286_DEWI_ARYANI_HILMAN,_S.Sos,_M.Si.jpg",
+      "name": "DEWI ARYANI HILMAN, S.Sos, M.Si",
+      "sort_name": "DEWI ARYANI HILMAN, S.Sos, M.Si",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/286_DEWI_ARYANI_HILMAN,_S.Sos,_M.Si.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/39761585-80b7-4e7c-8b66-efc6f99dc391",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
+          "area_id": "area/jawa_tengah_ix",
           "legislative_period_id": "term/18"
         }
       ],
@@ -5660,8 +5708,8 @@
     {
       "id": "person/08f91653-347a-4a16-99f0-411155ccaa8f",
       "image": "http://dpr.go.id/doksigota/photo/A-487_H._AMIN_SANTONO,S.SOS.jpg",
-      "name": "H. AMIN SANTONO,S.SOS,MM",
-      "sort_name": "H. AMIN SANTONO,S.SOS,MM",
+      "name": "H. AMIN SANTONO, S.SOS., MM.",
+      "sort_name": "H. AMIN SANTONO, S.SOS., MM.",
       "images": [
         {
           "url": "http://dpr.go.id/doksigota/photo/A-487_H._AMIN_SANTONO,S.SOS.jpg"
