@@ -1,7 +1,7 @@
 {
-  "total": 650,
+  "total": 651,
   "page": 1,
-  "per_page": 650,
+  "per_page": 651,
   "has_more": false,
   "result": [
     {
@@ -1490,7 +1490,7 @@
     {
       "gender": "male",
       "id": "person/c95417b7-ba93-47ba-94b6-7529a093abb5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Artur_Auernhammer_2013.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Artur_Auernhammer_-6451.jpg",
       "name": "Artur Auernhammer",
       "sort_name": "Auernhammer, Artur",
       "links": [
@@ -1501,7 +1501,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Artur_Auernhammer_2013.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Artur_Auernhammer_-6451.jpg"
         }
       ],
       "memberships": [
@@ -2235,6 +2235,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/WLP14-ri-0709-_Bettina_Kudla_(CDU).jpg",
       "name": "Bettina Kudla",
       "sort_name": "Kudla, Bettina!",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KudlaLeipzig"
+        }
+      ],
       "links": [
         {
           "url": "kudlaleipzig",
@@ -2255,9 +2261,6 @@
           "area_id": "area/sachsen",
           "legislative_period_id": "term/18"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3027,7 +3030,7 @@
     {
       "gender": "male",
       "id": "person/72b5e188-0df7-4608-93bd-463a1f6c5d9f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Huber,_Charles_M.-1120.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2014-09-11_-_Charles_M._Huber_MdB_-_8338.jpg",
       "name": "Charles M. Huber",
       "sort_name": "Huber, Karl-heinz!",
       "links": [
@@ -3038,7 +3041,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Huber,_Charles_M.-1120.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/2014-09-11_-_Charles_M._Huber_MdB_-_8338.jpg"
         }
       ],
       "memberships": [
@@ -4697,12 +4700,12 @@
     {
       "gender": "female",
       "id": "person/cba4fb00-25e8-43ca-919b-1a8ffeb84d71",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elfi_Scho-Antwerpes_(cropped).JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Empfang_der_Teilnehmer_des_Konzils_des_Ritterordens_des_Tempels_zu_Jerusalem_2015-0162.jpg",
       "name": "Elfi Scho-Antwerpes",
       "sort_name": "Scho-Antwerpes, Elfi!",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elfi_Scho-Antwerpes_(cropped).JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Empfang_der_Teilnehmer_des_Konzils_des_Ritterordens_des_Tempels_zu_Jerusalem_2015-0162.jpg"
         }
       ],
       "memberships": [
@@ -6562,7 +6565,13 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "mdb_stroebele"
+          "value": "MdB_Stroebele"
+        }
+      ],
+      "links": [
+        {
+          "url": "Hans-Christian-Ströbele-96698547915",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -9054,12 +9063,18 @@
     {
       "gender": "male",
       "id": "person/b8fad874-b6e8-4f3f-8856-dc9775d77221",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Karamba_Diaby_in_Halle_(14615409251)_(cropped).jpg",
       "name": "Karamba Diaby",
       "sort_name": "Diaby, Karamba!",
       "links": [
         {
           "url": "DrKarambaDiaby",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Karamba_Diaby_in_Halle_(14615409251)_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -9374,6 +9389,25 @@
       ]
     },
     {
+      "id": "person/7ef339ae-1646-46ac-a917-eb59af6009f8",
+      "name": "Karl-Heinz Wange",
+      "sort_name": "Wange, Karl-Heinz!",
+      "memberships": [
+        {
+          "person_id": "person/7ef339ae-1646-46ac-a917-eb59af6009f8",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/nordrhein-westfalen",
+          "start_date": "2016-07-06",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/e9e01962-0b9f-435e-aa8b-5ae4817af52e",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Möring,_Karsten-1654.jpg",
@@ -9521,9 +9555,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/00119d69-e8c7-4ee8-90ba-b5a90e4121e5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Roesel_Kathrin.jpg",
       "name": "Kathrin Rösel",
       "sort_name": "Rosel, Kathrin!",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Roesel_Kathrin.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/00119d69-e8c7-4ee8-90ba-b5a90e4121e5",
@@ -15367,6 +15408,18 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg",
       "name": "Sahra Wagenknecht",
       "sort_name": "Wagenknecht, Sahra!",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SWagenknecht"
+        }
+      ],
+      "links": [
+        {
+          "url": "sahra.wagenknecht",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg"
@@ -15381,9 +15434,6 @@
           "area_id": "area/nordrhein-westfalen",
           "legislative_period_id": "term/18"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -16052,6 +16102,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/nordrhein-westfalen",
+          "end_date": "2016-07-05",
           "legislative_period_id": "term/18"
         }
       ],
