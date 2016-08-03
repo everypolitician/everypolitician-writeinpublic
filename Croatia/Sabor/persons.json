@@ -998,8 +998,14 @@
     },
     {
       "id": "person/5ced573c-6f5d-4008-b7d4-132397518225",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46312",
       "name": "Dražen Pros",
       "sort_name": "Dražen Pros",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46312"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5ced573c-6f5d-4008-b7d4-132397518225",
@@ -2877,7 +2883,7 @@
           "person_id": "person/4a3cac7f-bab1-4d07-80ff-b5f6bd231e25",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "unknown",
+          "on_behalf_of_id": "most",
           "area_id": "area/4th",
           "legislative_period_id": "term/8"
         }
@@ -2953,7 +2959,7 @@
           "person_id": "person/85a67031-2cea-4755-bd19-7a9a17456629",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "labourists",
+          "on_behalf_of_id": "independent",
           "area_id": "area/8th",
           "legislative_period_id": "term/8"
         }
