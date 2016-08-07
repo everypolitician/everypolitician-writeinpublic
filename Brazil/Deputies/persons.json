@@ -1,7 +1,7 @@
 {
-  "total": 578,
+  "total": 579,
   "page": 1,
-  "per_page": 578,
+  "per_page": 579,
   "has_more": false,
   "result": [
     {
@@ -892,6 +892,30 @@
       ]
     },
     {
+      "id": "person/847e9c0c-11f1-42b1-9521-7acb7c3c3302",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/195143.jpg",
+      "name": "ANDRÉ AMARAL",
+      "sort_name": "ANDRÉ AMARAL",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/195143.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/847e9c0c-11f1-42b1-9521-7acb7c3c3302",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PMDB",
+          "area_id": "area/pb",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.andredepaula@camara.leg.br",
       "gender": "male",
       "id": "person/5b75295b-e2a0-41b7-a1ca-cd6f10405da6",
@@ -1022,6 +1046,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/25987da1-9622-44e6-9b31-a0477cfa8502",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74213.jpg",
       "name": "ANTONIO BALHMANN",
@@ -3514,6 +3539,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/85bc55dc-99b5-46bb-b107-60e2baaac4d8",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/185500.jpg",
       "name": "DEOCLIDES MACEDO",
@@ -4246,6 +4272,12 @@
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178883.jpg",
       "name": "ELIZIANE GAMA",
       "sort_name": "ELIZIANE GAMA",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "elizianegama"
+        }
+      ],
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178883.jpg"
@@ -4260,9 +4292,6 @@
           "area_id": "area/ma",
           "legislative_period_id": "term/55"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4659,6 +4688,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6a35800b-c612-43d3-9fe3-895c5538c4c0",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/190149.jpg",
       "name": "FABRICIO OLIVEIRA",
@@ -4738,6 +4768,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7fed310f-cec2-44b4-a24f-91cb3c743118",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/72442.jpg",
       "name": "FELIPE CARRERAS",
@@ -5126,6 +5157,7 @@
     },
     {
       "email": "dep.pastorfranklin@camara.leg.br",
+      "gender": "male",
       "id": "person/89cbc91e-2923-4769-b802-56373245dd03",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/186775.jpg",
       "name": "FRANKLIN LIMA",
@@ -7531,6 +7563,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/074d43b0-e7b0-4f05-8d83-36df3fb6036e",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141474.jpg",
       "name": "JULIÃO AMIN",
@@ -8783,6 +8816,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3f011bef-7bae-4bf9-8247-1178f28ef79e",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/151965.jpg",
       "name": "MAIA FILHO",
@@ -9119,6 +9153,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7f3894f6-bc1b-4b73-a092-559dc19f193b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178899.jpg",
       "name": "MARCIO MONTEIRO",
@@ -10733,6 +10768,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/137c0806-e653-491d-96e7-cab98e2bdeee",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/180545.jpg",
       "name": "OSMAR BERTOLDI",
@@ -11488,6 +11524,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a26ef6a9-0385-40fe-bfb5-73015e472733",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/80920.jpg",
       "name": "PENNA",
@@ -13650,6 +13687,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/512bfb85-5c5a-40c3-9937-0567440eebfa",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/73831.jpg",
       "name": "TAMPINHA",
