@@ -1,7 +1,7 @@
 {
-  "total": 152,
+  "total": 155,
   "page": 1,
-  "per_page": 152,
+  "per_page": 155,
   "has_more": false,
   "result": [
     {
@@ -55,6 +55,30 @@
       ]
     },
     {
+      "id": "person/c03074e1-4051-45fa-8603-b5b8725a3b51",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
+      "name": "ANDRIAMAROTIA Ludovic Edmond",
+      "sort_name": "ANDRIAMAROTIA Ludovic Edmond",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c03074e1-4051-45fa-8603-b5b8725a3b51",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "vp-mmm",
+          "area_id": "area/betioky_atsimo",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/8e4eaad9-d9cb-4213-a206-728a3cb80bd4",
       "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/4.jpg",
@@ -97,6 +121,30 @@
           "role": "member",
           "on_behalf_of_id": "indépendant",
           "area_id": "area/mandoto",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5552bab5-8700-4729-bb1d-21022e75db47",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
+      "name": "ANDRIAMIFALISON Réné Rakotonirina",
+      "sort_name": "ANDRIAMIFALISON Réné Rakotonirina",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5552bab5-8700-4729-bb1d-21022e75db47",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "mapar",
+          "area_id": "area/fandriana",
           "legislative_period_id": "term/2013"
         }
       ],
@@ -2053,12 +2101,12 @@
     },
     {
       "id": "person/45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png",
       "name": "RAMAHATODISOLOMANANA Voanalaroy",
       "sort_name": "RAMAHATODISOLOMANANA Voanalaroy",
       "images": [
         {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png"
         }
       ],
       "memberships": [
@@ -3490,6 +3538,30 @@
           "role": "member",
           "on_behalf_of_id": "indépendant",
           "area_id": "area/toliary_ii",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ef6e01b9-4785-4f7e-8c5e-ad9e26f725fb",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
+      "name": "ROGER Moussa Jassat",
+      "sort_name": "ROGER Moussa Jassat",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ef6e01b9-4785-4f7e-8c5e-ad9e26f725fb",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "mapar_ii",
+          "area_id": "area/ampanihy_andrefana",
           "legislative_period_id": "term/2013"
         }
       ],
