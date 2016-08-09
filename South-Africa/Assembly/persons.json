@@ -1,7 +1,7 @@
 {
-  "total": 399,
+  "total": 400,
   "page": 1,
-  "per_page": 399,
+  "per_page": 400,
   "has_more": false,
   "result": [
     {
@@ -2233,6 +2233,31 @@
           "role": "member",
           "on_behalf_of_id": "ANC",
           "area_id": "area/mpumalanga",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tlekau@nwpg.gov.za",
+      "id": "person/55a9d143-48ca-4696-85be-1e09695ae61e",
+      "image": "http://www.pa.org.za/static/images/person-210x210.jpg",
+      "name": "Dumile Nono Maloyi",
+      "sort_name": "Dumile Nono Maloyi",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/55a9d143-48ca-4696-85be-1e09695ae61e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ANC",
+          "area_id": "area/national",
           "legislative_period_id": "term/26"
         }
       ],
