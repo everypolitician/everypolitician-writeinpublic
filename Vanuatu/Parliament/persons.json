@@ -1,7 +1,7 @@
 {
-  "total": 52,
+  "total": 51,
   "page": 1,
-  "per_page": 52,
+  "per_page": 51,
   "has_more": false,
   "result": [
     {
@@ -376,8 +376,8 @@
       "gender": "male",
       "id": "person/f33ca411-e3c8-45bf-88a6-b3e7ea0e4390",
       "image": "http://parliament.gov.vu/images/bio/Ham_Lini.jpg",
-      "name": "Ham Lini",
-      "sort_name": "Ham Lini",
+      "name": "Ham Lini Vanuaroroa",
+      "sort_name": "Ham Lini Vanuaroroa",
       "images": [
         {
           "url": "http://parliament.gov.vu/images/bio/Ham_Lini.jpg"
@@ -876,8 +876,8 @@
     {
       "id": "person/ff359274-586d-41bb-ba88-fa6d85ca1d3c",
       "image": "http://parliament.gov.vu/images/bio/don.jpg",
-      "name": "Ps Ton Ken",
-      "sort_name": "Ps Ton Ken",
+      "name": "Ps Don Ken Stephen",
+      "sort_name": "Ps Don Ken Stephen",
       "images": [
         {
           "url": "http://parliament.gov.vu/images/bio/don.jpg"
@@ -1051,8 +1051,8 @@
     {
       "id": "person/af22f32e-5d6c-43d6-9030-6be262fc8737",
       "image": "http://parliament.gov.vu/images/bio/toara.jpg",
-      "name": "Toara Daniel",
-      "sort_name": "Toara Daniel",
+      "name": "Toara Kalo Daniel",
+      "sort_name": "Toara Kalo Daniel",
       "images": [
         {
           "url": "http://parliament.gov.vu/images/bio/toara.jpg"
@@ -1107,24 +1107,6 @@
           "role": "member",
           "on_behalf_of_id": "ump",
           "area_id": "area/tafea_outer_islands",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/2a4322f6-8a31-414c-90e0-7f9c5bd3506f",
-      "name": "Vacant",
-      "sort_name": "Vacant",
-      "memberships": [
-        {
-          "person_id": "person/2a4322f6-8a31-414c-90e0-7f9c5bd3506f",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/malo/aore",
           "legislative_period_id": "term/11"
         }
       ],
