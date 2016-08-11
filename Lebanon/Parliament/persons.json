@@ -1,7 +1,7 @@
 {
-  "total": 131,
+  "total": 130,
   "page": 1,
-  "per_page": 131,
+  "per_page": 130,
   "has_more": false,
   "result": [
     {
@@ -1463,6 +1463,24 @@
       ]
     },
     {
+      "id": "person/103873ce-6f60-4f75-8628-ec46aad72144",
+      "name": "Michael Helou",
+      "sort_name": "Michael Helou",
+      "memberships": [
+        {
+          "person_id": "person/103873ce-6f60-4f75-8628-ec46aad72144",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "free_patriotic_movement",
+          "area_id": "area/jezzine",
+          "legislative_period_id": "term/2009"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/29b613b8-bc6e-41d3-8e64-71209d3f1a3b",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Aoun.jpg",
@@ -1480,24 +1498,6 @@
           "role": "member",
           "on_behalf_of_id": "free_patriotic_movement",
           "area_id": "area/kesserwan",
-          "legislative_period_id": "term/2009"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/103873ce-6f60-4f75-8628-ec46aad72144",
-      "name": "Michel Helou",
-      "sort_name": "Michel Helou",
-      "memberships": [
-        {
-          "person_id": "person/103873ce-6f60-4f75-8628-ec46aad72144",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "free_patriotic_movement",
-          "area_id": "area/jezzine",
           "legislative_period_id": "term/2009"
         }
       ],
@@ -1974,8 +1974,8 @@
     {
       "gender": "male",
       "id": "person/5b821b53-5a8c-457d-b29c-1da6f023bc84",
-      "name": "Nohad el Machnouk",
-      "sort_name": "Nohad el Machnouk",
+      "name": "Nohad El Machnouk",
+      "sort_name": "Nohad El Machnouk",
       "memberships": [
         {
           "person_id": "person/5b821b53-5a8c-457d-b29c-1da6f023bc84",
@@ -2239,8 +2239,8 @@
     },
     {
       "id": "person/e6781850-b7b0-48ed-80d5-3ba42f15da07",
-      "name": "Shant Chinchinian / Jinjinian",
-      "sort_name": "Shant Chinchinian / Jinjinian",
+      "name": "Shant Chinchinian (Jinjinian)",
+      "sort_name": "Shant Chinchinian (Jinjinian)",
       "memberships": [
         {
           "person_id": "person/e6781850-b7b0-48ed-80d5-3ba42f15da07",
@@ -2274,31 +2274,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ed00b520-4d08-4071-93f0-3fba0b94867f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sleiman_Frangieh_2.jpg",
-      "name": "Sleiman Frangieh",
-      "sort_name": "Sleiman Frangieh",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sleiman_Frangieh_2.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ed00b520-4d08-4071-93f0-3fba0b94867f",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "marada_movement",
-          "area_id": "area/zgharta",
-          "legislative_period_id": "term/2009"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/9e6b9686-7fd5-4420-93dc-b4152be7a9f0",
       "name": "Strida Geagea",
@@ -2318,12 +2293,19 @@
       ]
     },
     {
-      "id": "person/ddf6a782-dfa0-40e6-af1d-2896c55a7f0d",
+      "gender": "male",
+      "id": "person/ed00b520-4d08-4071-93f0-3fba0b94867f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sleiman_Frangieh_2.jpg",
       "name": "Suleiman Frangieh",
       "sort_name": "Suleiman Frangieh",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sleiman_Frangieh_2.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/ddf6a782-dfa0-40e6-af1d-2896c55a7f0d",
+          "person_id": "person/ed00b520-4d08-4071-93f0-3fba0b94867f",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "marada_movement",
