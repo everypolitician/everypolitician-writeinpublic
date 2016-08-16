@@ -1,7 +1,7 @@
 {
-  "total": 203,
+  "total": 204,
   "page": 1,
-  "per_page": 203,
+  "per_page": 204,
   "has_more": false,
   "result": [
     {
@@ -1354,6 +1354,24 @@
           "area_id": "area/pirkanmaan",
           "legislative_period_id": "term/37"
         }
+      ]
+    },
+    {
+      "id": "person/ef2b7a5b-2379-4549-ac99-daf73f1db90e",
+      "name": "Harry Harkimo",
+      "sort_name": "Harry Harkimo",
+      "memberships": [
+        {
+          "person_id": "person/ef2b7a5b-2379-4549-ac99-daf73f1db90e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kok",
+          "area_id": "area/uudenmaan",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
