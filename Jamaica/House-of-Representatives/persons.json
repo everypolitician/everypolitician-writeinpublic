@@ -1,7 +1,7 @@
 {
-  "total": 63,
+  "total": 64,
   "page": 1,
-  "per_page": 63,
+  "per_page": 64,
   "has_more": false,
   "result": [
     {
@@ -286,6 +286,24 @@
           "role": "member",
           "on_behalf_of_id": "jamaica_labour_party",
           "area_id": "ocd-division/country:ja/parish:kingston/constituency:kingston_western",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8a25c651-beb5-4063-9f92-99d26657176a",
+      "name": "Dwayne Vaz",
+      "sort_name": "Dwayne Vaz",
+      "memberships": [
+        {
+          "person_id": "person/8a25c651-beb5-4063-9f92-99d26657176a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "people's_national_party",
+          "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_central",
           "legislative_period_id": "term/2016"
         }
       ],
