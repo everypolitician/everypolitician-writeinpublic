@@ -1,7 +1,7 @@
 {
-  "total": 470,
+  "total": 471,
   "page": 1,
-  "per_page": 470,
+  "per_page": 471,
   "has_more": false,
   "result": [
     {
@@ -5439,6 +5439,24 @@
       "memberships": [
         {
           "person_id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
+          "area_id": "20-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
+      "name": "Kinga Gajewska-Płochocka",
+      "sort_name": "Kinga Gajewska-Płochocka",
+      "memberships": [
+        {
+          "person_id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
