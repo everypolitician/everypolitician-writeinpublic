@@ -1,7 +1,7 @@
 {
-  "total": 579,
+  "total": 580,
   "page": 1,
-  "per_page": 579,
+  "per_page": 580,
   "has_more": false,
   "result": [
     {
@@ -10132,6 +10132,30 @@
           "role": "member",
           "on_behalf_of_id": "PT",
           "area_id": "area/ba",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a5d6b2f3-bd9d-428b-b719-c78a3f98f16c",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/195278.jpg",
+      "name": "MOISÉS DINIZ LIMA",
+      "sort_name": "MOISÉS DINIZ LIMA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/195278.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a5d6b2f3-bd9d-428b-b719-c78a3f98f16c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PCdoB",
+          "area_id": "area/ac",
           "legislative_period_id": "term/55"
         }
       ],
