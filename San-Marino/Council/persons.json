@@ -1,7 +1,7 @@
 {
-  "total": 62,
+  "total": 63,
   "page": 1,
-  "per_page": 62,
+  "per_page": 63,
   "has_more": false,
   "result": [
     {
@@ -140,6 +140,30 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "lista_pdcs_ns",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/993e567a-2c99-4412-aaa2-5ee055a6068f",
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016557_17000062_21_MularoniAnton.jpg",
+      "name": "Antonella Mularoni",
+      "sort_name": "Mularoni, Antonella",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17016557_17000062_21_MularoniAnton.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/993e567a-2c99-4412-aaa2-5ee055a6068f",
+          "organization_id": "chamber/grand_and_general_council",
+          "role": "member",
+          "on_behalf_of_id": "alleanza_popolare",
           "legislative_period_id": "term/2012"
         }
       ],
