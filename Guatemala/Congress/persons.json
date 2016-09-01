@@ -1,7 +1,7 @@
 {
-  "total": 160,
+  "total": 161,
   "page": 1,
-  "per_page": 160,
+  "per_page": 161,
   "has_more": false,
   "result": [
     {
@@ -1400,6 +1400,31 @@
           "role": "member",
           "on_behalf_of_id": "une",
           "area_id": "area/alta_verapaz",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hamelgarp@congreso.gob.gt",
+      "id": "person/1be2c20f-3ef1-442d-85d5-375cabb03372",
+      "image": "http://www.congreso.gob.gt/manager/images/FC0AC90E-CD80-E969-3FB3-C2762EDB2CD1.jpg",
+      "name": "Herber Armando Melgar Padilla",
+      "sort_name": "Herber Armando Melgar Padilla",
+      "images": [
+        {
+          "url": "http://www.congreso.gob.gt/manager/images/FC0AC90E-CD80-E969-3FB3-C2762EDB2CD1.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1be2c20f-3ef1-442d-85d5-375cabb03372",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "fcn",
+          "area_id": "area/chimaltenango",
           "legislative_period_id": "term/8"
         }
       ],
