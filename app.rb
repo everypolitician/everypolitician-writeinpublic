@@ -20,7 +20,8 @@ class RebuildLegislatureFiles
         country[:legislatures].each do |legislature|
           warn "#{country[:name]} - #{legislature[:name]}"
           legislative_period = legislature[:legislative_periods].first
-          csv = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/' + legislative_period[:csv]
+          raw_url_prefix = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/'
+          csv = raw_url_prefix + legislative_period[:csv]
           popolo = nil
           Dir.mktmpdir do |dir|
             csv_file = File.join(dir, 'out.csv')
@@ -56,6 +57,7 @@ class RebuildLegislatureFiles
             person_count: people.select { |p| !p[:end_date] }.size,
             people_with_contact_details: people.count { |p| !p[:email].to_s.empty? },
             popolo_json_url: legislature[:popolo_url],
+            popolo_json_master_url: raw_url_prefix + legislature[:popolo],
             url: "https://everypolitician-writeinpublic.herokuapp.com/#{country[:slug]}/#{legislature[:slug]}"
           }
         end
