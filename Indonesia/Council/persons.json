@@ -1,7 +1,7 @@
 {
-  "total": 578,
+  "total": 580,
   "page": 1,
-  "per_page": 578,
+  "per_page": 580,
   "has_more": false,
   "result": [
     {
@@ -2387,31 +2387,6 @@
     },
     {
       "gender": "male",
-      "id": "person/07458c16-212a-46cf-9b59-6b3337284ad6",
-      "image": "http://dpr.go.id/doksigota/photo/1637.jpg",
-      "name": "Dr. H. Adang Sudrajat, M.M., AV.",
-      "sort_name": "Dr. H. Adang Sudrajat, M.M., AV.",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/1637.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/07458c16-212a-46cf-9b59-6b3337284ad6",
-          "organization_id": "chamber/dewan_perwakilan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "prosperous_justice_party_faction",
-          "area_id": "area/jawa_barat_ii",
-          "legislative_period_id": "term/18"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/600e9285-1cd1-44fa-a419-c573ea0cd90e",
       "image": "http://dpr.go.id/doksigota/photo/104.jpg",
       "name": "Dr. H. DEDING ISHAK, S.H., M.M.",
@@ -2947,6 +2922,30 @@
           "role": "member",
           "on_behalf_of_id": "national_awakening_party_faction",
           "area_id": "area/jawa_timur_xi",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/36c92433-6f14-46b2-a8da-fbfcf4bf2dac",
+      "image": "http://dpr.go.id/doksigota/photo/1662.jpg",
+      "name": "Dr. Marlinda Irawati, SE., M.Si.",
+      "sort_name": "Dr. Marlinda Irawati, SE., M.Si.",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1662.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36c92433-6f14-46b2-a8da-fbfcf4bf2dac",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "golkar_party_faction",
+          "area_id": "area/jawa_tengah_x",
           "legislative_period_id": "term/18"
         }
       ],
@@ -13486,6 +13485,30 @@
       ]
     },
     {
+      "id": "person/774bfed4-6d4b-443d-9d48-0118f5dfc95c",
+      "image": "http://dpr.go.id/doksigota/photo/blankface.jpg",
+      "name": "SUTRIYONO, S.Pd., M.Si.",
+      "sort_name": "SUTRIYONO, S.Pd., M.Si.",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/blankface.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/774bfed4-6d4b-443d-9d48-0118f5dfc95c",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "prosperous_justice_party_faction",
+          "area_id": "area/jawa_tengah_iii",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/8166b15d-6bbc-4b0b-9552-c2ab2547015f",
       "image": "http://dpr.go.id/doksigota/photo/1494.jpg",
@@ -14152,6 +14175,31 @@
           "role": "member",
           "on_behalf_of_id": "national_democrat_party_faction",
           "area_id": "area/kalimantan_timur",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/07458c16-212a-46cf-9b59-6b3337284ad6",
+      "image": "http://dpr.go.id/doksigota/photo/1637.jpg",
+      "name": "dr. H. Adang Sudrajat, M.M., AV.",
+      "sort_name": "dr. H. Adang Sudrajat, M.M., AV.",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/1637.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/07458c16-212a-46cf-9b59-6b3337284ad6",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "prosperous_justice_party_faction",
+          "area_id": "area/jawa_barat_ii",
           "legislative_period_id": "term/18"
         }
       ],
