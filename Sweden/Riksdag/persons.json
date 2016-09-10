@@ -1,7 +1,7 @@
 {
-  "total": 414,
+  "total": 415,
   "page": 1,
-  "per_page": 414,
+  "per_page": 415,
   "has_more": false,
   "result": [
     {
@@ -713,6 +713,33 @@
           "area_id": "area/stockholms_kommun",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "email": "ann-britt.asebol@riksdagen.se",
+      "gender": "female",
+      "id": "person/c6de6b75-4a6a-4968-8385-f0ba3ba0a625",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71b2ece2-dcf7-4e51-aa4c-042cca81cf1e_max.jpg",
+      "name": "Ann-Britt Åsebol",
+      "sort_name": "Ann-Britt",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71b2ece2-dcf7-4e51-aa4c-042cca81cf1e_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c6de6b75-4a6a-4968-8385-f0ba3ba0a625",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/dalarnas_län",
+          "start_date": "2016-09-13",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -11970,6 +11997,7 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "area/dalarnas_län",
+          "end_date": "2016-09-12",
           "legislative_period_id": "term/2014"
         }
       ]
