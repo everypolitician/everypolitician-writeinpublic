@@ -1,7 +1,7 @@
 {
-  "total": 190,
+  "total": 192,
   "page": 1,
-  "per_page": 190,
+  "per_page": 192,
   "has_more": false,
   "result": [
     {
@@ -142,6 +142,31 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/50._Amma_Asante.jpg",
+      "name": "Amma Asante",
+      "sort_name": "Amma Asante",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/50._Amma_Asante.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
+          "end_date": "2016-09-07",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "a.bosman@tweedekamer.nl",
       "gender": "male",
       "id": "person/2203a1a1-6eb0-4fb0-9f20-72a42c0295bf",
@@ -249,6 +274,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "vvd",
+          "start_date": "2016-09-07",
           "legislative_period_id": "term/2012"
         }
       ]
@@ -832,6 +858,28 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f72d702d-d07d-4936-bdbc-f6fa4af057ef",
+      "name": "Daniël van der Ree",
+      "sort_name": "Daniël van der Ree",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "danielvanderree"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f72d702d-d07d-4936-bdbc-f6fa4af057ef",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "vvd",
+          "end_date": "2016-09-07",
+          "legislative_period_id": "term/2012"
+        }
       ]
     },
     {
@@ -5091,6 +5139,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "pvda",
+          "start_date": "2016-09-07",
           "legislative_period_id": "term/2012"
         }
       ]

@@ -1,7 +1,7 @@
 {
-  "total": 140,
+  "total": 141,
   "page": 1,
-  "per_page": 140,
+  "per_page": 141,
   "has_more": false,
   "result": [
     {
@@ -4251,6 +4251,40 @@
           "role": "member",
           "on_behalf_of_id": "alianza_pais",
           "area_id": "area/guayas",
+          "legislative_period_id": "term/2013"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/1c7a868c-7fee-42b0-adb3-5735553dd483",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15651-1472852655.jpg?itok=87-cpzkS",
+      "name": "Víctor Hugo Jaramillo Rodríguez",
+      "sort_name": "Víctor Hugo Jaramillo Rodríguez",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "charapano2016"
+        }
+      ],
+      "links": [
+        {
+          "url": "100013095670274",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15651-1472852655.jpg?itok=87-cpzkS"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1c7a868c-7fee-42b0-adb3-5735553dd483",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "alianza_pais",
+          "area_id": "area/zamora_chinchipe",
           "legislative_period_id": "term/2013"
         }
       ]
