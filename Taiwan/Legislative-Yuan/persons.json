@@ -1,7 +1,7 @@
 {
-  "total": 115,
+  "total": 116,
   "page": 1,
-  "per_page": 115,
+  "per_page": 116,
   "has_more": false,
   "result": [
     {
@@ -933,6 +933,32 @@
           "on_behalf_of_id": "dpp",
           "area_id": "area/6th_electoral_district,_new_taipei_city",
           "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/60b04c58-3f24-4ffe-8cf1-909fccf36d98",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90116.jpg",
+      "name": "Jeng-Liang Kuo",
+      "sort_name": "Kuo, Jeng-Liang",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90116.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/60b04c58-3f24-4ffe-8cf1-909fccf36d98",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "area_id": "area/nationwide",
+          "start_date": "2016-09-02",
           "legislative_period_id": "term/9"
         }
       ],
