@@ -1,36 +1,9 @@
 {
-  "total": 96,
+  "total": 92,
   "page": 1,
-  "per_page": 96,
+  "per_page": 92,
   "has_more": false,
   "result": [
-    {
-      "email": "senator.eggleston@aph.gov.au",
-      "gender": "male",
-      "id": "person/b6b705a5-0355-4f1c-8951-273aed19156d",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/4L6/upload_ref_binary/4L6.JPG",
-      "name": "Alan Eggleston",
-      "sort_name": "Eggleston, Alan",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/4L6/upload_ref_binary/4L6.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b6b705a5-0355-4f1c-8951-273aed19156d",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party_of_australia",
-          "area_id": "area/wa",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
     {
       "email": "senator.gallacher@aph.gov.au",
       "gender": "male",
@@ -56,7 +29,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -85,7 +58,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -113,7 +87,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -142,8 +116,27 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "id": "person/c92a9030-27d8-404f-b666-892e36d7da87",
+      "name": "Anthony Chisholm",
+      "sort_name": "Chisholm, Anthony",
+      "memberships": [
+        {
+          "person_id": "person/c92a9030-27d8-404f-b666-892e36d7da87",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "area/queensland",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -171,7 +164,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -193,8 +186,7 @@
           "role": "member",
           "on_behalf_of_id": "the_nationals",
           "area_id": "area/queensland",
-          "start_date": "2014-02-11",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -219,33 +211,8 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a84574bb-4f51-4c4d-98d7-5ba05b502278",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bob_Carr_in_2009.jpg",
-      "name": "Bob Carr",
-      "sort_name": "Carr, Bob",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bob_Carr_in_2009.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a84574bb-4f51-4c4d-98d7-5ba05b502278",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/nsw",
-          "end_date": "2013-10-24",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -283,32 +250,23 @@
           "role": "member",
           "on_behalf_of_id": "family_first_party",
           "area_id": "area/sa",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
     {
-      "email": "senator.mason@aph.gov.au",
-      "gender": "male",
-      "id": "person/2634d1ca-7e38-4458-a8f3-ae6da74a29b4",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84M/upload_ref_binary/84M.JPG",
-      "name": "Brett Mason",
-      "sort_name": "Mason, Brett",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84M/upload_ref_binary/84M.JPG"
-        }
-      ],
+      "id": "person/dc64384f-3d50-4021-934c-afafc23d789c",
+      "name": "Brian Burston",
+      "sort_name": "Burston, Brian",
       "memberships": [
         {
-          "person_id": "person/2634d1ca-7e38-4458-a8f3-ae6da74a29b4",
+          "person_id": "person/dc64384f-3d50-4021-934c-afafc23d789c",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "liberal_party_of_australia",
-          "area_id": "area/queensland",
-          "end_date": "2015-04-15",
-          "legislative_period_id": "term/44"
+          "on_behalf_of_id": "pauline_hanson's_one_nation",
+          "area_id": "area/nsw",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -340,7 +298,7 @@
           "role": "member",
           "on_behalf_of_id": "the_nationals",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -369,7 +327,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -397,7 +355,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -425,36 +383,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/queensland",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "email": "senator.milne@aph.gov.au",
-      "gender": "female",
-      "id": "person/044c2835-1a7b-4652-9df4-189d26a458e1",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/KA5/upload_ref_binary/KA5.JPG",
-      "name": "Christine Milne",
-      "sort_name": "Milne, Christine",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/KA5/upload_ref_binary/KA5.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/044c2835-1a7b-4652-9df4-189d26a458e1",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_greens",
-          "area_id": "area/tasmania",
-          "end_date": "2015-08-10",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -481,7 +411,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -515,7 +445,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/queensland",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -544,7 +474,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -572,7 +502,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -600,7 +530,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -623,7 +553,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -654,7 +584,8 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -689,8 +620,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_democratic_party",
           "area_id": "area/nsw",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -719,7 +649,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -747,9 +677,27 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/nsw",
-          "start_date": "2013-11-13",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "id": "person/4dcae960-6add-4eb7-9a7e-b6e9a487b226",
+      "name": "Derryn Hinch",
+      "sort_name": "Hinch, Derryn",
+      "memberships": [
+        {
+          "person_id": "person/4dcae960-6add-4eb7-9a7e-b6e9a487b226",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "derryn_hinch's_justice_party",
+          "area_id": "area/victoria",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -777,8 +725,8 @@
           "role": "member",
           "on_behalf_of_id": "palmer_united_party",
           "area_id": "area/wa",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -800,8 +748,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/sa",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -833,7 +781,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -870,7 +818,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -898,7 +846,7 @@
           "role": "member",
           "on_behalf_of_id": "the_nationals",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -921,17 +869,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/victoria",
-          "end_date": "2014-07-06",
-          "legislative_period_id": "term/44"
-        },
-        {
-          "person_id": "person/f733205a-e6b5-466e-a111-87b773f576b6",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/victoria",
-          "start_date": "2014-07-07",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -957,7 +895,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/queensland",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -988,18 +926,8 @@
           "role": "member",
           "on_behalf_of_id": "glenn_lazarus_team",
           "area_id": "area/queensland",
-          "start_date": "2014-07-01",
-          "end_date": "2015-03-12",
-          "legislative_period_id": "term/44"
-        },
-        {
-          "person_id": "person/2c087853-b69c-4677-adad-e8fc9b099d9f",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "glenn_lazarus_team",
-          "area_id": "area/queensland",
-          "start_date": "2015-03-13",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1028,34 +956,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/4c341988-b484-4e11-9383-11f3770a22d8",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG",
-      "name": "Helen Kroger",
-      "sort_name": "Kroger, Helen",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G1N/upload_ref_binary/G1N.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4c341988-b484-4e11-9383-11f3770a22d8",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party_of_australia",
-          "area_id": "area/victoria",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1083,7 +985,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1111,7 +1013,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/queensland",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1133,7 +1035,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -1162,20 +1064,9 @@
           "person_id": "person/fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "jacqui_lambie_network",
           "area_id": "area/tasmania",
-          "start_date": "2014-07-01",
-          "end_date": "2014-11-23",
-          "legislative_period_id": "term/44"
-        },
-        {
-          "person_id": "person/fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/tasmania",
-          "start_date": "2014-11-24",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1209,8 +1100,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/queensland",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1246,7 +1136,7 @@
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/victoria",
           "start_date": "2016-03-09",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1275,8 +1165,34 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/queensland",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "id": "person/25d08d84-ab20-4dd9-a6da-03bcc00e0be1",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266499/upload_ref_binary/266499.jpg",
+      "name": "Jane Hume",
+      "sort_name": "Hume, Jane",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266499/upload_ref_binary/266499.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/25d08d84-ab20-4dd9-a6da-03bcc00e0be1",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party_of_australia",
+          "area_id": "area/victoria",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1310,8 +1226,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/victoria",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1346,8 +1261,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/nsw",
-          "start_date": "2015-05-06",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1381,8 +1295,8 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/queensland",
-          "start_date": "2015-05-21",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1405,9 +1319,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/wa",
-          "start_date": "2014-07-01",
           "end_date": "2016-04-13",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -1438,62 +1351,9 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/queensland",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "email": "senator.faulkner@aph.gov.au",
-      "gender": "male",
-      "id": "person/91ed0aba-03e0-40df-a1bf-95b1c3128f48",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/5K4/upload_ref_binary/5K4.jpg",
-      "name": "John Faulkner",
-      "sort_name": "Faulkner, John",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/5K4/upload_ref_binary/5K4.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/91ed0aba-03e0-40df-a1bf-95b1c3128f48",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/nsw",
-          "end_date": "2015-02-06",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "senator.hogg@aph.gov.au",
-      "gender": "male",
-      "id": "person/6c2433de-08d7-402d-b2ac-d60b9f4d01df",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG",
-      "name": "John Hogg",
-      "sort_name": "Hogg, John",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7L6/upload_ref_binary/7L6.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6c2433de-08d7-402d-b2ac-d60b9f4d01df",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/queensland",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1515,17 +1375,8 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/victoria",
-          "end_date": "2014-09-04",
-          "legislative_period_id": "term/44"
-        },
-        {
-          "person_id": "person/8b0c6b42-84f5-4886-a026-0353b6a32cf4",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/victoria",
-          "start_date": "2014-09-04",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -1556,31 +1407,23 @@
           "role": "member",
           "on_behalf_of_id": "the_nationals",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
     {
-      "email": "senator.lundy@aph.gov.au",
-      "gender": "female",
-      "id": "person/a00901e6-0ecd-474a-bd0b-25e476fb6676",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7G6/upload_ref_binary/7G6.JPG",
-      "name": "Kate Lundy",
-      "sort_name": "Lundy, Kate",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/7G6/upload_ref_binary/7G6.JPG"
-        }
-      ],
+      "id": "person/da45dd59-aa31-497b-ade2-bdfca3d2b5e6",
+      "name": "Jonathon Duniam",
+      "sort_name": "Duniam, Jonathon",
       "memberships": [
         {
-          "person_id": "person/a00901e6-0ecd-474a-bd0b-25e476fb6676",
+          "person_id": "person/da45dd59-aa31-497b-ade2-bdfca3d2b5e6",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/act",
-          "end_date": "2015-03-24",
-          "legislative_period_id": "term/44"
+          "on_behalf_of_id": "liberal_party_of_australia",
+          "area_id": "area/tasmania",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -1612,8 +1455,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/act",
-          "start_date": "2015-03-26",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1642,7 +1484,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1677,7 +1519,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/queensland",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1706,35 +1548,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "email": "senator.thorp@aph.gov.au",
-      "gender": "female",
-      "id": "person/cdbd90ad-9f19-4c7a-bf47-dc9bbda4367e",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/183342/upload_ref_binary/183342.jpg",
-      "name": "Lin Thorp",
-      "sort_name": "Thorp, Lin",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/183342/upload_ref_binary/183342.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cdbd90ad-9f19-4c7a-bf47-dc9bbda4367e",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/tasmania",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1762,8 +1577,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/wa",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1792,19 +1606,19 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
     {
       "gender": "female",
       "id": "person/f0fdc1b6-97cd-400e-9270-1d33dc92ed59",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.jpg",
       "name": "Louise Pratt",
       "sort_name": "Pratt, Louise",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0T/upload_ref_binary/I0T.jpg"
         }
       ],
       "memberships": [
@@ -1814,8 +1628,46 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/wa",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/26ad0fd7-23cf-4268-8cce-473c838b0fbf",
+      "name": "Malarndirri McCarthy",
+      "sort_name": "McCarthy, Malarndirri",
+      "memberships": [
+        {
+          "person_id": "person/26ad0fd7-23cf-4268-8cce-473c838b0fbf",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "area/nt",
+          "start_date": "2016-07-02",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bbcc4637-f999-4f75-83b2-c86f0bb8402f",
+      "name": "Malcolm Roberts",
+      "sort_name": "Roberts, Malcolm",
+      "memberships": [
+        {
+          "person_id": "person/bbcc4637-f999-4f75-83b2-c86f0bb8402f",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "pauline_hanson's_one_nation",
+          "area_id": "area/queensland",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -1847,61 +1699,8 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "email": "senator.bishop@aph.gov.au",
-      "gender": "male",
-      "id": "person/092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg",
-      "name": "Mark Bishop",
-      "sort_name": "Bishop, Mark",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2L6/upload_ref_binary/2L6.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/wa",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/bc3e14b5-ca1f-47cb-89ef-9f2d0febbb6d",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG",
-      "name": "Mark Furner",
-      "sort_name": "Furner, Mark",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0P/upload_ref_binary/I0P.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bc3e14b5-ca1f-47cb-89ef-9f2d0febbb6d",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/queensland",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1928,7 +1727,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1957,35 +1756,8 @@
           "role": "member",
           "on_behalf_of_id": "the_nationals",
           "area_id": "area/queensland",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5f5d2117-0942-4dca-841c-1720d1ace335",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg",
-      "name": "Mehmet Tillem",
-      "sort_name": "Tillem, Mehmet",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/249499/upload_ref_binary/249499.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5f5d2117-0942-4dca-841c-1720d1ace335",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/victoria",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2019,7 +1791,7 @@
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/victoria",
           "end_date": "2016-02-28",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2047,7 +1819,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2081,8 +1853,27 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "id": "person/1c01023d-14f1-45e0-a069-f1ce45a25dcd",
+      "name": "Murray Watt",
+      "sort_name": "Watt, Murray",
+      "memberships": [
+        {
+          "person_id": "person/1c01023d-14f1-45e0-a069-f1ce45a25dcd",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "area/queensland",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2116,8 +1907,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/tasmania",
-          "start_date": "2015-08-19",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2144,9 +1934,9 @@
           "person_id": "person/d954072d-7cc3-4b81-81f7-124cf02695a1",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2169,7 +1959,7 @@
           "role": "member",
           "on_behalf_of_id": "country_liberal_party",
           "area_id": "area/nt",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -2200,7 +1990,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/nt",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2224,7 +2015,26 @@
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/wa",
           "start_date": "2016-04-28",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/88d336ef-5985-44c3-9715-6238b7e71aff",
+      "name": "Pauline Hanson",
+      "sort_name": "Hanson, Pauline",
+      "memberships": [
+        {
+          "person_id": "person/88d336ef-5985-44c3-9715-6238b7e71aff",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "pauline_hanson's_one_nation",
+          "area_id": "area/queensland",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -2255,43 +2065,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
-        }
-      ]
-    },
-    {
-      "email": "senator.wright@aph.gov.au",
-      "gender": "female",
-      "id": "person/237d09ec-a732-4191-b19b-8b4c7dd064b5",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/200287/upload_ref_binary/200287.jpg",
-      "name": "Penny Wright",
-      "sort_name": "Wright, Penny",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "pennywrites"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenatorPennyWright",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/200287/upload_ref_binary/200287.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/237d09ec-a732-4191-b19b-8b4c7dd064b5",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_greens",
-          "area_id": "area/sa",
-          "end_date": "2015-09-10",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2326,7 +2100,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2355,7 +2129,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2384,7 +2158,8 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/tasmania",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2419,7 +2194,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2453,8 +2228,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_motoring_enthusiast_party",
           "area_id": "area/victoria",
-          "start_date": "2014-07-01",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2489,32 +2264,24 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/sa",
-          "start_date": "2015-09-22",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
     {
-      "email": "senator.boswell@aph.gov.au",
-      "gender": "male",
-      "id": "person/f93a480f-8e42-4a7b-99d7-20f9a5cc096a",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/YE4/upload_ref_binary/YE4.JPG",
-      "name": "Ron Boswell",
-      "sort_name": "Boswell, Ron",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/YE4/upload_ref_binary/YE4.JPG"
-        }
-      ],
+      "id": "person/5ee10e9c-fe64-4e54-9414-dceffa0cd0ef",
+      "name": "Rod Culleton",
+      "sort_name": "Culleton, Rod",
       "memberships": [
         {
-          "person_id": "person/f93a480f-8e42-4a7b-99d7-20f9a5cc096a",
+          "person_id": "person/5ee10e9c-fe64-4e54-9414-dceffa0cd0ef",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "the_nationals",
-          "area_id": "area/queensland",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
+          "on_behalf_of_id": "pauline_hanson's_one_nation",
+          "area_id": "area/wa",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -2552,7 +2319,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/nsw",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2581,7 +2348,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2610,7 +2377,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2638,7 +2405,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2673,7 +2440,8 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "end_date": "2016-05-09",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2707,8 +2475,33 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/sa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "id": "person/6714e981-e55e-4576-a271-8e27e4d8d50f",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265982/upload_ref_binary/265982.jpg",
+      "name": "Skye Kakoschke-Moore",
+      "sort_name": "Kakoschke-Moore, Skye",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265982/upload_ref_binary/265982.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6714e981-e55e-4576-a271-8e27e4d8d50f",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "nick_xenophon_team",
+          "area_id": "area/sa",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2730,7 +2523,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/victoria",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -2762,40 +2555,29 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/tasmania",
-          "end_date": "2014-07-06",
-          "legislative_period_id": "term/44"
-        },
-        {
-          "person_id": "person/39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party_of_australia",
-          "area_id": "area/tasmania",
-          "start_date": "2014-07-07",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     },
     {
-      "gender": "female",
-      "id": "person/b5a7d866-6f2c-4cf6-a04e-d26e3213335d",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg",
-      "name": "Sue Boyce",
-      "sort_name": "Boyce, Sue",
+      "id": "person/9b18d569-545a-41d7-a680-ea0d7819a8f4",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/76760/upload_ref_binary/76760.jpg",
+      "name": "Stirling Griff",
+      "sort_name": "Griff, Stirling",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6V/upload_ref_binary/H6V.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/76760/upload_ref_binary/76760.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b5a7d866-6f2c-4cf6-a04e-d26e3213335d",
+          "person_id": "person/9b18d569-545a-41d7-a680-ea0d7819a8f4",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "liberal_party_of_australia",
-          "area_id": "area/queensland",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
+          "on_behalf_of_id": "nick_xenophon_team",
+          "area_id": "area/sa",
+          "start_date": "2016-07-01",
+          "legislative_period_id": "term/45"
         }
       ],
       "contact_details": [
@@ -2826,35 +2608,8 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/wa",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
-      ]
-    },
-    {
-      "email": "senator.stephens@aph.gov.au",
-      "gender": "female",
-      "id": "person/72d03e5d-8c81-492e-8dfe-914f5889c62a",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOS/upload_ref_binary/00AOS.jpg",
-      "name": "Ursula Stephens",
-      "sort_name": "Stephens, Ursula",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOS/upload_ref_binary/00AOS.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/72d03e5d-8c81-492e-8dfe-914f5889c62a",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/nsw",
-          "end_date": "2014-06-30",
-          "legislative_period_id": "term/44"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2888,7 +2643,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party_of_australia",
           "area_id": "area/act",
-          "legislative_period_id": "term/44"
+          "legislative_period_id": "term/45"
         }
       ]
     }
