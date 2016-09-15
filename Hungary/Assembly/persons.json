@@ -1,7 +1,7 @@
 {
-  "total": 199,
+  "total": 201,
   "page": 1,
-  "per_page": 199,
+  "per_page": 201,
   "has_more": false,
   "result": [
     {
@@ -921,6 +921,24 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "jobbik",
+          "legislative_period_id": "term/40"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e902bb96-f4b9-4be0-9c32-6f55f84a9d84",
+      "name": "Dr. Hadházy, Ákos",
+      "sort_name": "Dr. Hadházy, Ákos",
+      "memberships": [
+        {
+          "person_id": "person/e902bb96-f4b9-4be0-9c32-6f55f84a9d84",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "lmp",
+          "start_date": "2016-09-12",
           "legislative_period_id": "term/40"
         }
       ],
@@ -3675,6 +3693,31 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "fidesz",
+          "legislative_period_id": "term/40"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "pinter.tamas@parlament.hu",
+      "id": "person/0c307842-da0d-4ea6-abd4-6c375a619137",
+      "image": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D98568",
+      "name": "Pintér, Tamás",
+      "sort_name": "Pintér, Tamás",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D98568"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0c307842-da0d-4ea6-abd4-6c375a619137",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "jobbik",
+          "start_date": "2016-09-12",
           "legislative_period_id": "term/40"
         }
       ],
