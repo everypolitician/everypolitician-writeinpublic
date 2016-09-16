@@ -1,7 +1,7 @@
 {
-  "total": 108,
+  "total": 109,
   "page": 1,
-  "per_page": 108,
+  "per_page": 109,
   "has_more": false,
   "result": [
     {
@@ -620,6 +620,7 @@
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/402-NI",
           "start_date": "2016-05-07",
+          "end_date": "2016-08-18",
           "legislative_period_id": "term/5"
         }
       ],
@@ -1987,6 +1988,25 @@
           "on_behalf_of_id": "dup",
           "area_id": "uk.org.publicwhip/cons/406-NI",
           "start_date": "2016-05-07",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/13abb14b-6f59-4224-82c7-924bed914e2b",
+      "name": "Philip McGuigan",
+      "sort_name": "Philip McGuigan",
+      "memberships": [
+        {
+          "person_id": "person/13abb14b-6f59-4224-82c7-924bed914e2b",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "sinn-fein",
+          "area_id": "uk.org.publicwhip/cons/402-NI",
+          "start_date": "2016-08-30",
           "legislative_period_id": "term/5"
         }
       ],
