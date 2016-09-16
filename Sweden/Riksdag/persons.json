@@ -1,7 +1,7 @@
 {
-  "total": 415,
+  "total": 417,
   "page": 1,
-  "per_page": 415,
+  "per_page": 417,
   "has_more": false,
   "result": [
     {
@@ -2098,6 +2098,16 @@
           "role": "member",
           "on_behalf_of_id": "KD",
           "area_id": "area/stockholms_kommun",
+          "end_date": "2016-10-10",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/f460c985-ec58-4f1d-af96-bd10711fb648",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-05-01",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -6961,6 +6971,7 @@
       ]
     },
     {
+      "email": "laila.naraghi@riksdagen.se",
       "gender": "female",
       "id": "person/f4ba8f2e-a7ba-44d9-ad19-f0051117d584",
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f65cb6f1-7001-4e8e-8d32-89d534577ab0_max.jpg",
@@ -10268,6 +10279,16 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "area/värmlands_län",
+          "end_date": "2016-09-13",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/c9225b21-3f1c-4500-8895-5b06ff4e0c46",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/värmlands_län",
+          "start_date": "2016-10-31",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -10328,6 +10349,34 @@
           "area_id": "area/uppsala_län",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "email": "pal.jonson@riksdagen.se",
+      "gender": "male",
+      "id": "person/b2acd426-7cde-4bbe-9d55-ffd3991f7f06",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/057d1c7b-e668-4acc-8167-5d8dc68db0af_max.jpg",
+      "name": "Pål Jonson",
+      "sort_name": "Pål",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/057d1c7b-e668-4acc-8167-5d8dc68db0af_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b2acd426-7cde-4bbe-9d55-ffd3991f7f06",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/värmlands_län",
+          "start_date": "2016-09-14",
+          "end_date": "2016-10-30",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -10692,6 +10741,7 @@
       ]
     },
     {
+      "email": "roland.gustbee@riksdagen.se",
       "gender": "male",
       "id": "person/9c11d103-0fd0-46f4-ab20-67fdc162af7f",
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/24ce10dd-f0ea-48b5-811c-5808ff0d4252_max.jpg",
@@ -11361,6 +11411,34 @@
           "start_date": "2016-06-07",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "email": "stefan.svanstrom@riksdagen.se",
+      "gender": "male",
+      "id": "person/1cb57bff-e5ff-4f13-aa7e-b856b4451c29",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c6d9b5a-cef4-4344-9c3f-04883f2875a5_max.jpg",
+      "name": "Stefan Svanström",
+      "sort_name": "Stefan",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c6d9b5a-cef4-4344-9c3f-04883f2875a5_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1cb57bff-e5ff-4f13-aa7e-b856b4451c29",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2016-10-11",
+          "end_date": "2017-04-30",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
