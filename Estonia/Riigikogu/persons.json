@@ -1,7 +1,7 @@
 {
-  "total": 129,
+  "total": 130,
   "page": 1,
-  "per_page": 129,
+  "per_page": 130,
   "has_more": false,
   "result": [
     {
@@ -2409,6 +2409,7 @@
           "role": "member",
           "on_behalf_of_id": "RE",
           "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "end_date": "2016-09-12",
           "legislative_period_id": "term/13"
         }
       ]
@@ -3120,6 +3121,33 @@
           "role": "member",
           "on_behalf_of_id": "SDE",
           "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rait.maruste@riigikogu.ee",
+      "gender": "male",
+      "id": "person/0e2ae024-efe8-49ff-b627-fa4a9305c9b8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RE_Rait_Maruste.jpg",
+      "name": "Rait Maruste",
+      "sort_name": "Rait Maruste",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RE_Rait_Maruste.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0e2ae024-efe8-49ff-b627-fa4a9305c9b8",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/tartu_linn",
+          "start_date": "2016-09-13",
           "legislative_period_id": "term/13"
         }
       ],
