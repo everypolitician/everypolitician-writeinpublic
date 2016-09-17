@@ -24,6 +24,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d03ac8e2-6cfb-4b02-aef2-fee72e7cd1d5",
       "name": "Andrew FAHIE",
       "sort_name": "Andrew FAHIE",
@@ -42,6 +43,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/b125238b-54a9-457f-9be3-2d937baa514d",
       "name": "Delores CHRISTOPHER",
       "sort_name": "Delores CHRISTOPHER",
@@ -62,8 +64,14 @@
     {
       "gender": "male",
       "id": "person/867d3b12-3553-443f-8491-15092118efdb",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/JulianFraser.jpg",
       "name": "Julian FRASER",
       "sort_name": "Julian FRASER",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/JulianFraser.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/867d3b12-3553-443f-8491-15092118efdb",
