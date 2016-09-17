@@ -1,7 +1,7 @@
 {
-  "total": 61,
+  "total": 62,
   "page": 1,
-  "per_page": 61,
+  "per_page": 62,
   "has_more": false,
   "result": [
     {
@@ -1243,12 +1243,12 @@
       "email": "s.mezec@gov.je",
       "gender": "male",
       "id": "person/9b5badd6-a2b0-4763-9a76-8dbb9469229d",
-      "image": "http://www.statesassembly.gov.je/PublishingImages/StatesMembers/AllItems/Mezec.jpg",
+      "image": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Deputy%20Sam%20Mezec.jpg",
       "name": "Samuel Yves Mezec",
       "sort_name": "Mezec, Samuel Yves",
       "images": [
         {
-          "url": "http://www.statesassembly.gov.je/PublishingImages/StatesMembers/AllItems/Mezec.jpg"
+          "url": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Deputy%20Sam%20Mezec.jpg"
         }
       ],
       "memberships": [
@@ -1258,6 +1258,31 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/st._helier",
+          "legislative_period_id": "term/2011"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "s.ferguson@gov.je",
+      "id": "person/4252078c-044e-479f-84ee-0e303f19b294",
+      "image": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Sarah%20Ferguson.jpg",
+      "name": "Sarah Craig Ferguson",
+      "sort_name": "Ferguson, Sarah Craig",
+      "images": [
+        {
+          "url": "http://www.statesassembly.gov.je/SiteCollectionImages/States%20Members/Sarah%20Ferguson.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4252078c-044e-479f-84ee-0e303f19b294",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/island-wide",
           "legislative_period_id": "term/2011"
         }
       ],
