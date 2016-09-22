@@ -1,7 +1,7 @@
 {
-  "total": 458,
+  "total": 459,
   "page": 1,
-  "per_page": 458,
+  "per_page": 459,
   "has_more": false,
   "result": [
     {
@@ -1559,6 +1559,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f4161865-7803-4af8-ab4b-9f1a19eab9e7",
       "image": "http://static.rada.gov.ua/dep_img8/d151_2.jpg",
       "name": "Богдан Руслан Дмитрович",
@@ -3425,6 +3426,31 @@
           "role": "member",
           "on_behalf_of_id": "2614",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/16b2af38-1f85-4359-aec8-94b02887e4a4",
+      "image": "http://static.rada.gov.ua/dep_img8/nf79.jpg",
+      "name": "Данілін Владислав Юрійович",
+      "sort_name": "Данілін Владислав Юрійович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf79.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/16b2af38-1f85-4359-aec8-94b02887e4a4",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2016-09-20",
           "legislative_period_id": "term/8"
         }
       ],
@@ -7817,6 +7843,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b3bb9791-523b-4e17-b2c5-b3b967dd85ee",
       "image": "http://static.rada.gov.ua/dep_img8/d206_2.jpg",
       "name": "Микитась Максим Вікторович",
@@ -8666,10 +8693,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0b1dca15-008b-49f7-bb61-185479544ad3",
       "image": "http://static.rada.gov.ua/dep_img8/d183_2.jpg",
       "name": "Одарченко Юрій Віталійович",
       "sort_name": "Одарченко Юрій Віталійович",
+      "links": [
+        {
+          "url": "kmpointernet",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/d183_2.jpg"
@@ -10020,6 +10054,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/5ed689cd-19b0-478b-b4bd-ac4e0025b966",
       "image": "http://static.rada.gov.ua/dep_img8/d27_2.jpg",
       "name": "Ричкова Тетяна Борисівна",
@@ -12304,6 +12339,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/44c45b5a-2af0-4f6c-bf34-0ef3f0f6840c",
       "image": "http://static.rada.gov.ua/dep_img8/d114_2.jpg",
       "name": "Шахов Сергій Володимирович",
