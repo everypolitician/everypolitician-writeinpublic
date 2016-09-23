@@ -1669,8 +1669,8 @@
       "gender": "male",
       "id": "person/247d7f37-a6d5-45ee-a140-c319281c12ec",
       "image": "http://dpr.go.id/doksigota/photo/1590.jpg",
-      "name": "DR. H. ANDI AKMAL PASLUDDIN, S.P., M.M.",
-      "sort_name": "DR. H. ANDI AKMAL PASLUDDIN, S.P., M.M.",
+      "name": "DR. H. ANDI AKMAL PASLUDDIN, M.M.",
+      "sort_name": "DR. H. ANDI AKMAL PASLUDDIN, M.M.",
       "images": [
         {
           "url": "http://dpr.go.id/doksigota/photo/1590.jpg"
@@ -1708,6 +1708,31 @@
           "role": "member",
           "on_behalf_of_id": "people’s_conscience_party_faction",
           "area_id": "area/jawa_timur_viii",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/bea3a8d6-e993-4428-9580-a3cfd734a4f0",
+      "image": "http://dpr.go.id/doksigota/photo/390.jpg",
+      "name": "DR. H. JAZULI JUWAINI, M.A.",
+      "sort_name": "DR. H. JAZULI JUWAINI, M.A.",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/390.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bea3a8d6-e993-4428-9580-a3cfd734a4f0",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "prosperous_justice_party_faction",
+          "area_id": "area/banten_iii",
           "legislative_period_id": "term/18"
         }
       ],
@@ -4539,31 +4564,6 @@
     },
     {
       "gender": "male",
-      "id": "person/3988e217-d159-4cee-91cb-5b0a3c0052ac",
-      "image": "http://dpr.go.id/doksigota/photo/552_Drs._M._MARTRI_AGOENG_.jpg",
-      "name": "Drs. M. MARTRI AGOENG",
-      "sort_name": "Drs. M. MARTRI AGOENG",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/552_Drs._M._MARTRI_AGOENG_.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3988e217-d159-4cee-91cb-5b0a3c0052ac",
-          "organization_id": "chamber/dewan_perwakilan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "prosperous_justice_party_faction",
-          "area_id": "area/jawa_tengah_iv",
-          "legislative_period_id": "term/18"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/e1e73253-219e-4c63-b94c-6bba7f4a8c20",
       "image": "http://dpr.go.id/doksigota/photo/83_Drs._MOHAMMAD_TOHA,_S.Sos.,_M.Si..jpg",
       "name": "Drs. MOHAMMAD TOHA, S.Sos., M.Si.",
@@ -6789,31 +6789,6 @@
           "role": "member",
           "on_behalf_of_id": "national_mandate_party_faction",
           "area_id": "area/papua",
-          "legislative_period_id": "term/18"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/bea3a8d6-e993-4428-9580-a3cfd734a4f0",
-      "image": "http://dpr.go.id/doksigota/photo/390.jpg",
-      "name": "H. JAZULI JUWAINI, Lc., M.A.",
-      "sort_name": "H. JAZULI JUWAINI, Lc., M.A.",
-      "images": [
-        {
-          "url": "http://dpr.go.id/doksigota/photo/390.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bea3a8d6-e993-4428-9580-a3cfd734a4f0",
-          "organization_id": "chamber/dewan_perwakilan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "prosperous_justice_party_faction",
-          "area_id": "area/banten_iii",
           "legislative_period_id": "term/18"
         }
       ],
@@ -11492,6 +11467,31 @@
           "role": "member",
           "on_behalf_of_id": "indonesian_democratic_party_of_struggle_faction",
           "area_id": "area/jawa_timur_i",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/3988e217-d159-4cee-91cb-5b0a3c0052ac",
+      "image": "http://dpr.go.id/doksigota/photo/552_Drs._M._MARTRI_AGOENG_.jpg",
+      "name": "M. MARTRI AGOENG, S.H.",
+      "sort_name": "M. MARTRI AGOENG, S.H.",
+      "images": [
+        {
+          "url": "http://dpr.go.id/doksigota/photo/552_Drs._M._MARTRI_AGOENG_.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3988e217-d159-4cee-91cb-5b0a3c0052ac",
+          "organization_id": "chamber/dewan_perwakilan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "prosperous_justice_party_faction",
+          "area_id": "area/jawa_tengah_iv",
           "legislative_period_id": "term/18"
         }
       ],

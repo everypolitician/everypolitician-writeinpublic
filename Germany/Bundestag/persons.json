@@ -1,7 +1,7 @@
 {
-  "total": 651,
+  "total": 652,
   "page": 1,
-  "per_page": 651,
+  "per_page": 652,
   "has_more": false,
   "result": [
     {
@@ -8899,6 +8899,25 @@
       ]
     },
     {
+      "id": "person/94110b34-a85d-436d-9b77-7d5002d2348b",
+      "name": "Jürgen Coße",
+      "sort_name": "Cosse, Hurgen!",
+      "memberships": [
+        {
+          "person_id": "person/94110b34-a85d-436d-9b77-7d5002d2348b",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "spd",
+          "area_id": "area/nordrhein-westfalen",
+          "start_date": "2016-09-01",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/2aaffe6f-af5f-4162-beda-380e8054ca83",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hardt,_Jürgen-8952.jpg",
@@ -14179,6 +14198,7 @@
           "role": "member",
           "on_behalf_of_id": "spd",
           "area_id": "area/nordrhein-westfalen",
+          "end_date": "2016-08-31",
           "legislative_period_id": "term/18"
         }
       ],
