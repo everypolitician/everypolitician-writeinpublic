@@ -1,7 +1,7 @@
 {
-  "total": 91,
+  "total": 93,
   "page": 1,
-  "per_page": 91,
+  "per_page": 93,
   "has_more": false,
   "result": [
     {
@@ -2256,6 +2256,30 @@
       ]
     },
     {
+      "id": "person/teja_ljubič",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P304",
+      "name": "Teja Ljubič",
+      "sort_name": "Ljubič Teja",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P304"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/teja_ljubič",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SMC",
+          "area_id": "area/ii_ilirska_bistrica_7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/7946523a-bd3f-4cfa-af0f-fb636742d2e8",
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P242",
@@ -2450,6 +2474,30 @@
           "role": "member",
           "on_behalf_of_id": "ZL",
           "area_id": "area/iii_ljubljana_-_center_7",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/vlasta_počkaj",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P303",
+      "name": "Vlasta Počkaj",
+      "sort_name": "Počkaj Vlasta",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P303"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/vlasta_počkaj",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SMC",
+          "area_id": "area/ii_sežana_6",
           "legislative_period_id": "term/7"
         }
       ],
