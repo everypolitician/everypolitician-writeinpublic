@@ -1,7 +1,7 @@
 {
-  "total": 161,
+  "total": 162,
   "page": 1,
-  "per_page": 161,
+  "per_page": 162,
   "has_more": false,
   "result": [
     {
@@ -1451,6 +1451,32 @@
           "role": "member",
           "on_behalf_of_id": "fcn",
           "area_id": "area/escuintla",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hgarciag@congreso.gob.gt",
+      "gender": "male",
+      "id": "person/addaf1e4-54fa-4c26-ab79-b3b79ed2ad40",
+      "image": "http://www.congreso.gob.gt/manager/images/BCDE2B56-F438-F2B0-4B09-9D8E0A11DFD0.jpg",
+      "name": "Hugo Fernando García Gudiel",
+      "sort_name": "Hugo Fernando García Gudiel",
+      "images": [
+        {
+          "url": "http://www.congreso.gob.gt/manager/images/BCDE2B56-F438-F2B0-4B09-9D8E0A11DFD0.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/addaf1e4-54fa-4c26-ab79-b3b79ed2ad40",
+          "organization_id": "chamber/congress",
+          "role": "member",
+          "on_behalf_of_id": "lider",
+          "area_id": "area/distrito_central",
           "legislative_period_id": "term/8"
         }
       ],
