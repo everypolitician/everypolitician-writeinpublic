@@ -1,7 +1,7 @@
 {
-  "total": 348,
+  "total": 349,
   "page": 1,
-  "per_page": 348,
+  "per_page": 349,
   "has_more": false,
   "result": [
     {
@@ -1217,6 +1217,31 @@
           "role": "member",
           "on_behalf_of_id": "pmln",
           "area_id": "area/na-161_(sahiwal-ii)",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/chaudhary_muhammad_tufail",
+      "image": "http://www.na.gov.pk/uploads/images/na-162%20sch%20stufail.jpg",
+      "name": "Chaudhary Muhammad Tufail",
+      "sort_name": "Chaudhary Muhammad Tufail",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/uploads/images/na-162%20sch%20stufail.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/chaudhary_muhammad_tufail",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "pmln",
+          "area_id": "area/na-162_(sahiwal-iii)",
+          "start_date": "2016-09-29",
           "legislative_period_id": "term/14"
         }
       ],
