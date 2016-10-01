@@ -1,7 +1,7 @@
 {
-  "total": 417,
+  "total": 418,
   "page": 1,
-  "per_page": 417,
+  "per_page": 418,
   "has_more": false,
   "result": [
     {
@@ -1725,6 +1725,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/västerbottens_län",
+          "end_date": "2016-09-30",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/dde11845-a788-4505-949f-cc6c17100d06",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västerbottens_län",
+          "start_date": "2017-04-02",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -8381,6 +8391,33 @@
           "area_id": "area/malmö_kommun",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/7fb06f81-d462-4936-8d9e-dab77e4128a0",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ef99f19-4d1a-11d6-ae8d-0040ca16a6a7_max.jpg",
+      "name": "Marie-Louise Rönnmark",
+      "sort_name": "Marie-Louise",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ef99f19-4d1a-11d6-ae8d-0040ca16a6a7_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7fb06f81-d462-4936-8d9e-dab77e4128a0",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västerbottens_län",
+          "start_date": "2016-10-01",
+          "end_date": "2016-10-15",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
