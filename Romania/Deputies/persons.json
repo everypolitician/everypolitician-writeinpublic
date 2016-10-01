@@ -1144,6 +1144,7 @@
     },
     {
       "email": "florinbirsasteanu@cdep.ro",
+      "gender": "male",
       "id": "person/73cb7bd5-f8c5-4cc0-ae25-2b9fcc9e4dbf",
       "image": "http://www.cdep.ro/parlamentari/l2012/Birsasteanu_Florica.jpg",
       "name": "Bîrsăşteanu Florică",
@@ -3545,7 +3546,7 @@
           "person_id": "person/eaa9fd85-187d-47e7-baeb-57bf7af3c036",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "psd",
+          "on_behalf_of_id": "non-attached",
           "area_id": "34",
           "legislative_period_id": "term/2012"
         }
@@ -5227,7 +5228,7 @@
           "person_id": "person/1b2a1e6f-3444-4f11-b417-742865064af4",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "psd",
+          "on_behalf_of_id": "non-attached",
           "area_id": "27",
           "legislative_period_id": "term/2012"
         }
@@ -8173,6 +8174,7 @@
       ]
     },
     {
+      "email": "petre.roman@cdep.ro",
       "gender": "male",
       "id": "person/29a9d4f8-44fb-43b8-9d75-4571d98c7eda",
       "image": "http://www.cdep.ro/img/judete/judet08.jpg",
@@ -8190,7 +8192,6 @@
           "role": "member",
           "on_behalf_of_id": "pnl",
           "area_id": "8",
-          "end_date": "2015-02-09",
           "legislative_period_id": "term/2012"
         }
       ],
