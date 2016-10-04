@@ -1,7 +1,7 @@
 {
-  "total": 116,
+  "total": 117,
   "page": 1,
-  "per_page": 116,
+  "per_page": 117,
   "has_more": false,
   "result": [
     {
@@ -2128,6 +2128,32 @@
           "on_behalf_of_id": "dpp",
           "area_id": "area/4th_electoral_district,_kaohsiung_city",
           "start_date": "2016-02-01",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0d05a3c7-c608-4bae-b771-287176e18bd4",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90117.jpg",
+      "name": "Tai-Yuan Chiu",
+      "sort_name": "Chiu, Tai-Yuan",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90117.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0d05a3c7-c608-4bae-b771-287176e18bd4",
+          "organization_id": "chamber/legislative_yuan",
+          "role": "member",
+          "on_behalf_of_id": "dpp",
+          "area_id": "area/nationwide",
+          "start_date": "2016-10-04",
           "legislative_period_id": "term/9"
         }
       ],
