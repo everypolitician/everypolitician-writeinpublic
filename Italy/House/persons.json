@@ -1,7 +1,7 @@
 {
-  "total": 665,
+  "total": 666,
   "page": 1,
-  "per_page": 665,
+  "per_page": 666,
   "has_more": false,
   "result": [
     {
@@ -4621,6 +4621,7 @@
           "role": "member",
           "on_behalf_of_id": "scelta_civica_per_l'italia",
           "area_id": "VII",
+          "end_date": "2016-09-28",
           "legislative_period_id": "term/17"
         }
       ]
@@ -15578,6 +15579,32 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/37623b88-0330-4aa3-bee9-d5ee954c01f4",
+      "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/981/original_d306981.jpg",
+      "name": "MENORELLO Domenico",
+      "sort_name": "MENORELLO Domenico",
+      "images": [
+        {
+          "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/981/original_d306981.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/37623b88-0330-4aa3-bee9-d5ee954c01f4",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "scelta_civica_per_l'italia",
+          "area_id": "VII",
+          "start_date": "2016-09-30",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "MERLO_R@camera.it",
       "gender": "male",
       "id": "person/24bf14b6-dd2e-4d6b-8432-bf18d4275e4e",
@@ -23450,6 +23477,16 @@
           "role": "member",
           "on_behalf_of_id": "scelta_civica_per_l'italia",
           "area_id": "XXV",
+          "end_date": "2016-09-28",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/04893422-4bb4-427b-9ed7-2012c86a2928",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "misto_-_non_iscritto_ad_alcuna_componente_politica",
+          "area_id": "XXV",
+          "start_date": "2016-09-28",
           "legislative_period_id": "term/17"
         }
       ]
