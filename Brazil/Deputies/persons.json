@@ -1,7 +1,7 @@
 {
-  "total": 580,
+  "total": 581,
   "page": 1,
-  "per_page": 580,
+  "per_page": 581,
   "has_more": false,
   "result": [
     {
@@ -12064,6 +12064,30 @@
           "role": "member",
           "on_behalf_of_id": "PP",
           "area_id": "area/pr",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b61eefcc-1c77-4214-b8ce-14d130d20721",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg",
+      "name": "RICARDO BENTINHO",
+      "sort_name": "RICARDO BENTINHO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b61eefcc-1c77-4214-b8ce-14d130d20721",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PRB",
+          "area_id": "area/sp",
           "legislative_period_id": "term/55"
         }
       ],
