@@ -1,7 +1,7 @@
 {
-  "total": 126,
+  "total": 127,
   "page": 1,
-  "per_page": 126,
+  "per_page": 127,
   "has_more": false,
   "result": [
     {
@@ -2237,6 +2237,30 @@
           "role": "member",
           "on_behalf_of_id": "UPC",
           "area_id": "area/kadiogo",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b912a749-9bb9-4144-9d65-35c515e4f2ec",
+      "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/",
+      "name": "M. ZANZE Zinakou Alfred",
+      "sort_name": "M. ZANZE Zinakou Alfred",
+      "images": [
+        {
+          "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b912a749-9bb9-4144-9d65-35c515e4f2ec",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "UPC",
           "legislative_period_id": "term/7"
         }
       ],
