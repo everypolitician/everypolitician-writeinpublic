@@ -255,6 +255,40 @@
     },
     {
       "gender": "male",
+      "id": "person/e7eb5b01-8378-4b35-a8bb-ae398166b738",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P238",
+      "name": "Dr. Anže Logar",
+      "sort_name": "Logar Anže",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AnzeLog"
+        }
+      ],
+      "links": [
+        {
+          "url": "anze.logar.75",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P238"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e7eb5b01-8378-4b35-a8bb-ae398166b738",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SDS",
+          "area_id": "area/iii_ljubljana_-_vič-rudnik_iv_6",
+          "legislative_period_id": "term/7"
+        }
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/f7d20ca0-e611-444f-9541-4427a9aabb16",
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P248",
       "name": "Dr. Bojan Dobovšek",
@@ -1405,40 +1439,6 @@
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e7eb5b01-8378-4b35-a8bb-ae398166b738",
-      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P238",
-      "name": "Mag. Anže Logar",
-      "sort_name": "Logar Anže",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "AnzeLog"
-        }
-      ],
-      "links": [
-        {
-          "url": "anze.logar.75",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P238"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e7eb5b01-8378-4b35-a8bb-ae398166b738",
-          "organization_id": "chamber/državni_zbor",
-          "role": "member",
-          "on_behalf_of_id": "SDS",
-          "area_id": "area/iii_ljubljana_-_vič-rudnik_iv_6",
-          "legislative_period_id": "term/7"
-        }
       ]
     },
     {
