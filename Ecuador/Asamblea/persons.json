@@ -560,40 +560,6 @@
     },
     {
       "gender": "male",
-      "id": "person/6ba066e9-7e94-4db9-9b34-10277202ead0",
-      "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD",
-      "name": "Castulo René Yandún Pozo",
-      "sort_name": "Castulo René Yandún Pozo",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "reneyandun"
-        }
-      ],
-      "links": [
-        {
-          "url": "rene.yandunp",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6ba066e9-7e94-4db9-9b34-10277202ead0",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "otros_movimientos",
-          "area_id": "area/carchi",
-          "legislative_period_id": "term/2013"
-        }
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/c2b05203-a39e-43b9-938f-b76a9e0db512",
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-295-1394983038.png?itok=86E5MH0K",
       "name": "Christian Humberto Viteri López",
@@ -690,6 +656,40 @@
           "role": "member",
           "on_behalf_of_id": "_madera_de_guerrero",
           "area_id": "area/asambleísta_nacional",
+          "legislative_period_id": "term/2013"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6ba066e9-7e94-4db9-9b34-10277202ead0",
+      "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD",
+      "name": "Cástulo René Yandún Pozo",
+      "sort_name": "Cástulo René Yandún Pozo",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "reneyandun"
+        }
+      ],
+      "links": [
+        {
+          "url": "rene.yandunp",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-183-1394804337.png?itok=HNPs8IpD"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6ba066e9-7e94-4db9-9b34-10277202ead0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "otros_movimientos",
+          "area_id": "area/carchi",
           "legislative_period_id": "term/2013"
         }
       ]
@@ -3906,7 +3906,7 @@
           "person_id": "person/ca8d807b-419d-4ca7-8f5f-e5b6b1da7782",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "independientes",
+          "on_behalf_of_id": "otros_movimientos",
           "area_id": "area/santa_elena",
           "legislative_period_id": "term/2013"
         }
@@ -4583,7 +4583,7 @@
           "person_id": "person/a2e68c14-c072-4c48-bb22-33782fbbdb7a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "alianza_pais",
+          "on_behalf_of_id": "independientes",
           "area_id": "area/galápagos",
           "legislative_period_id": "term/2013"
         }
