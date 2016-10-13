@@ -1,7 +1,7 @@
 {
-  "total": 168,
+  "total": 169,
   "page": 1,
-  "per_page": 168,
+  "per_page": 169,
   "has_more": false,
   "result": [
     {
@@ -3383,6 +3383,30 @@
           "role": "member",
           "on_behalf_of_id": "partido_social_de_unidad_nacional",
           "area_id": "area/vichada",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f2f78314-bd95-4e9a-9194-0ab6ab21426f",
+      "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
+      "name": "NEVARDO ENEIRO RINCÓN VERGARA",
+      "sort_name": "NEVARDO ENEIRO RINCÓN VERGARA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f2f78314-bd95-4e9a-9194-0ab6ab21426f",
+          "organization_id": "chamber/cámara_de_representantes",
+          "role": "member",
+          "on_behalf_of_id": "partido_liberal_colombiano",
+          "area_id": "area/arauca",
           "legislative_period_id": "term/2014"
         }
       ],
