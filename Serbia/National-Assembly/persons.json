@@ -1,7 +1,7 @@
 {
-  "total": 256,
+  "total": 265,
   "page": 1,
-  "per_page": 256,
+  "per_page": 265,
   "has_more": false,
   "result": [
     {
@@ -1704,7 +1704,7 @@
       ]
     },
     {
-      "id": "person/4e623577-97fa-476e-a42e-4eee674cdda7",
+      "id": "person/1ca38fe6-06fb-4ec4-ae4f-3481a220c38c",
       "name": "IVAN BAUER",
       "sort_name": "IVAN Dr BAUER",
       "contact_details": [
@@ -1715,13 +1715,13 @@
       ],
       "links": [
         {
-          "url": "drivanbauer",
+          "url": "ivan.bauer.127",
           "note": "facebook"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4e623577-97fa-476e-a42e-4eee674cdda7",
+          "person_id": "person/1ca38fe6-06fb-4ec4-ae4f-3481a220c38c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "social_democratic_party_of_serbia",
@@ -1998,6 +1998,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/43584341-c11d-4237-93fa-d35e41920c7e",
+      "name": "JELENA VUJIC OBRADOVIC",
+      "sort_name": "JELENA VUJIC OBRADOVIC",
+      "memberships": [
+        {
+          "person_id": "person/43584341-c11d-4237-93fa-d35e41920c7e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "united_serbia",
+          "start_date": "2016-10-06",
           "legislative_period_id": "term/11"
         }
       ],
@@ -2927,6 +2945,24 @@
       ]
     },
     {
+      "id": "person/782b2327-a2e8-49be-a0f7-14d726c8fede",
+      "name": "MILISAV PETRONIJEVIC",
+      "sort_name": "MILISAV PETRONIJEVIC",
+      "memberships": [
+        {
+          "person_id": "person/782b2327-a2e8-49be-a0f7-14d726c8fede",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "start_date": "2016-10-06",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/09ed0c3e-e4a3-4754-b634-19f1b9138433",
       "name": "MILORAD MIJATOVIC",
       "sort_name": "MILORAD Dr MIJATOVIC",
@@ -3273,6 +3309,24 @@
       ]
     },
     {
+      "id": "person/1221b585-6a0d-4e99-a519-e2f72b302ecf",
+      "name": "MLADEN LUKIC",
+      "sort_name": "MLADEN LUKIC",
+      "memberships": [
+        {
+          "person_id": "person/1221b585-6a0d-4e99-a519-e2f72b302ecf",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "start_date": "2016-10-06",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/5ae68d5d-5308-4c44-a598-3411204b27ba",
       "name": "MOMCILO MANDIC",
       "sort_name": "MOMCILO MANDIC",
@@ -3461,6 +3515,24 @@
       ]
     },
     {
+      "id": "person/b14afed3-4ab1-4f72-9136-607707c5c052",
+      "name": "NEDJO JOVANOVIC",
+      "sort_name": "NEDJO JOVANOVIC",
+      "memberships": [
+        {
+          "person_id": "person/b14afed3-4ab1-4f72-9136-607707c5c052",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "start_date": "2016-10-06",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/26699ba3-5c19-44bc-afbd-e028b59f0307",
       "name": "NEMANJA SAROVIC",
       "sort_name": "NEMANJA SAROVIC",
@@ -3565,12 +3637,12 @@
       ]
     },
     {
-      "id": "person/4c3a9f80-b9bd-4fcc-aa9d-c8d7cd3f023d",
+      "id": "person/e47e7eca-13d5-4e96-b2f5-94279c961333",
       "name": "NENAD MITROVIC",
       "sort_name": "NENAD MITROVIC",
       "memberships": [
         {
-          "person_id": "person/4c3a9f80-b9bd-4fcc-aa9d-c8d7cd3f023d",
+          "person_id": "person/e47e7eca-13d5-4e96-b2f5-94279c961333",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
@@ -3774,6 +3846,24 @@
       ]
     },
     {
+      "id": "person/21c2bf9b-0426-4009-a81c-6695551d6492",
+      "name": "PREDRAG JELENKOVIC",
+      "sort_name": "PREDRAG Dr JELENKOVIC",
+      "memberships": [
+        {
+          "person_id": "person/21c2bf9b-0426-4009-a81c-6695551d6492",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_party_of_serbia",
+          "start_date": "2016-10-06",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/38f5bc54-60a8-4c20-a6b7-eb4b02e54f43",
       "name": "RADMILO KOSTIC",
       "sort_name": "RADMILO KOSTIC",
@@ -3800,6 +3890,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c434ac7c-5e7e-404c-b9fb-fcf8c44c6102",
+      "name": "RADOSLAV JOVIC",
+      "sort_name": "RADOSLAV Dr JOVIC",
+      "memberships": [
+        {
+          "person_id": "person/c434ac7c-5e7e-404c-b9fb-fcf8c44c6102",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "start_date": "2016-10-06",
           "legislative_period_id": "term/11"
         }
       ],
@@ -4237,6 +4345,24 @@
       ]
     },
     {
+      "id": "person/d11d3317-d1ea-47c7-bb2e-a8a8b958ed5b",
+      "name": "STUDENKA KOVACEVIC",
+      "sort_name": "STUDENKA KOVACEVIC",
+      "memberships": [
+        {
+          "person_id": "person/d11d3317-d1ea-47c7-bb2e-a8a8b958ed5b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "serbian_progressive_party",
+          "start_date": "2016-10-06",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/801ca565-a5f0-423c-b9bc-9150c22685d0",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sulejman_Ugljanin_MC.jpg",
@@ -4407,6 +4533,24 @@
       ]
     },
     {
+      "id": "person/96e822b8-f63f-435a-b1e2-820b10791cd0",
+      "name": "VERA PAUNOVIC",
+      "sort_name": "VERA PAUNOVIC",
+      "memberships": [
+        {
+          "person_id": "person/96e822b8-f63f-435a-b1e2-820b10791cd0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "party_of_united_pensioners_of_serbia",
+          "start_date": "2016-10-06",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/12650b61-1c3a-4ec5-ab22-04c45e032916",
       "name": "VEROLJUB ARSIC",
       "sort_name": "VEROLJUB ARSIC",
@@ -4457,6 +4601,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "serbian_progressive_party",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6cd3813d-733f-4e92-8489-ea2119444316",
+      "name": "VESNA IVKOVIC",
+      "sort_name": "VESNA IVKOVIC",
+      "memberships": [
+        {
+          "person_id": "person/6cd3813d-733f-4e92-8489-ea2119444316",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "socialist_party_of_serbia",
+          "start_date": "2016-10-06",
           "legislative_period_id": "term/11"
         }
       ],
