@@ -1,7 +1,7 @@
 {
-  "total": 141,
+  "total": 142,
   "page": 1,
-  "per_page": 141,
+  "per_page": 142,
   "has_more": false,
   "result": [
     {
@@ -1731,6 +1731,40 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/c11cdd1c-28cc-4f05-a243-598df1b6950c",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15666-1476389062.jpg?itok=Qyw7QSnA",
+      "name": "Italia Luisa Jijón Buendía",
+      "sort_name": "Italia Luisa Jijón Buendía",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "italiajijonb"
+        }
+      ],
+      "links": [
+        {
+          "url": "100013247295884",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15666-1476389062.jpg?itok=Qyw7QSnA"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c11cdd1c-28cc-4f05-a243-598df1b6950c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "alianza_pais",
+          "area_id": "area/esmeraldas",
+          "legislative_period_id": "term/2013"
+        }
       ]
     },
     {
