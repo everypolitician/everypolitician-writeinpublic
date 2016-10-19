@@ -1,7 +1,7 @@
 {
-  "total": 581,
+  "total": 582,
   "page": 1,
-  "per_page": 581,
+  "per_page": 582,
   "has_more": false,
   "result": [
     {
@@ -12793,6 +12793,31 @@
           "role": "member",
           "on_behalf_of_id": "PRB",
           "area_id": "area/rj",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/c3345ae6-7a42-469b-92e7-b2af8672b263",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/146949.jpg",
+      "name": "ROSINHA DA ADEFAL",
+      "sort_name": "ROSINHA DA ADEFAL",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/146949.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c3345ae6-7a42-469b-92e7-b2af8672b263",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "S.PART.",
+          "area_id": "area/al",
           "legislative_period_id": "term/55"
         }
       ],
