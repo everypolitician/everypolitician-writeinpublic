@@ -1,7 +1,7 @@
 {
-  "total": 115,
+  "total": 116,
   "page": 1,
-  "per_page": 115,
+  "per_page": 116,
   "has_more": false,
   "result": [
     {
@@ -1730,6 +1730,29 @@
       ]
     },
     {
+      "id": "person/572707cb-0242-4cfb-bd91-c5384d0ab7df",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "name": "Oleg Ogor",
+      "sort_name": "Ogor Oleg",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/572707cb-0242-4cfb-bd91-c5384d0ab7df",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "10",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Oleg.Reidman@parlament.md",
       "gender": "male",
       "id": "person/a4513b3a-6ef7-4741-ae08-e257d73f4a30",
@@ -2324,7 +2347,7 @@
           "person_id": "person/114a8dc7-be54-4c35-907b-08c8b8715c0c",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "10",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
