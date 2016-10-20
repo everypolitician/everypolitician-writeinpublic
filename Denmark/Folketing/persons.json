@@ -1,7 +1,7 @@
 {
-  "total": 195,
+  "total": 197,
   "page": 1,
-  "per_page": 195,
+  "per_page": 197,
   "has_more": false,
   "result": [
     {
@@ -614,6 +614,31 @@
       ]
     },
     {
+      "email": "carsten.kudsk@ft.dk",
+      "id": "person/b9a4a1f5-b79c-4681-be95-e5296e27a795",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Carsten%20Kudsk/Carsten_Kudsk_133.jpg.ashx",
+      "name": "Carsten Kudsk",
+      "sort_name": "Carsten Kudsk",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Carsten%20Kudsk/Carsten_Kudsk_133.jpg.ashx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b9a4a1f5-b79c-4681-be95-e5296e27a795",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
+          "area_id": "area/funen",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "christian.juhl@ft.dk",
       "gender": "male",
       "id": "person/6c42404a-621c-4b54-87c4-2f5aa4258a2c",
@@ -887,6 +912,31 @@
           "role": "member",
           "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
           "area_id": "area/east_jutland",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "danny.malkowski@ft.dk",
+      "id": "person/72911273-3fb1-484f-9d34-cbdeb074bdd4",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Danny%20K%20Malkowski/Danny_K_Malkowski_133.jpg.ashx",
+      "name": "Danny K. Malkowski",
+      "sort_name": "Danny K. Malkowski",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Danny%20K%20Malkowski/Danny_K_Malkowski_133.jpg.ashx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/72911273-3fb1-484f-9d34-cbdeb074bdd4",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "ACA585B8-A1C1-4440-A657-A3A00C2859E6",
+          "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
       ],
@@ -2553,7 +2603,7 @@
       "email": "kirsten.normann.andersen@ft.dk",
       "gender": "female",
       "id": "person/e9cf3409-c0fd-4507-8025-aa1807b0a9f9",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Kirsten%20Normann%20Andersen/Kirsten_Normann_Andersen_133.jpg.ashx",
       "name": "Kirsten Normann Andersen",
       "sort_name": "Kirsten Normann Andersen",
       "contact_details": [
@@ -2564,7 +2614,7 @@
       ],
       "images": [
         {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx"
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Kirsten%20Normann%20Andersen/Kirsten_Normann_Andersen_133.jpg.ashx"
         }
       ],
       "memberships": [
@@ -2985,7 +3035,7 @@
       "email": "lotte.rod@ft.dk",
       "gender": "female",
       "id": "person/ce3ab57e-8da1-459e-a502-5d008ba73fe9",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Lotte%20Rod/Lotte_Rod_133.jpg.ashx",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Lotte_Rod/Lotte_Rodx133.jpg.ashx",
       "name": "Lotte Rod",
       "sort_name": "Lotte Rod",
       "contact_details": [
@@ -3002,7 +3052,7 @@
       ],
       "images": [
         {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Lotte%20Rod/Lotte_Rod_133.jpg.ashx"
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Lotte_Rod/Lotte_Rodx133.jpg.ashx"
         }
       ],
       "memberships": [
@@ -4459,7 +4509,7 @@
       ]
     },
     {
-      "email": "postformand@ft.dk / dfpksekr@ft.dk",
+      "email": "postformand@ft.dk",
       "gender": "female",
       "id": "person/b6308bbe-e659-4247-824b-b671aebb55f7",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Pia%20Kjaersgaard/Pia_Kjaersgaard_133.jpg.ashx",
@@ -5101,8 +5151,8 @@
       "gender": "male",
       "id": "person/489a9f45-1d9e-47e1-adbd-a01c576fe557",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Soren%20Pape/Soren_Pape_133.jpg.ashx",
-      "name": "Søren Pape",
-      "sort_name": "Søren Pape",
+      "name": "Søren Pape Poulsen",
+      "sort_name": "Søren Pape Poulsen",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Soren%20Pape/Soren_Pape_133.jpg.ashx"
@@ -5190,6 +5240,12 @@
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Thomas%20Danielsen/Thomas_Danielsen_133.jpg.ashx",
       "name": "Thomas Danielsen",
       "sort_name": "Thomas Danielsen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "thdanielsen"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Thomas%20Danielsen/Thomas_Danielsen_133.jpg.ashx"
@@ -5204,9 +5260,6 @@
           "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5498,6 +5551,18 @@
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Ulla%20Sandbaek/Ulla_Sandbaek_133.jpg.ashx",
       "name": "Ulla Sandbæk",
       "sort_name": "Ulla Sandbæk",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "usandbaek"
+        }
+      ],
+      "links": [
+        {
+          "url": "UllaSandbaekAlternativet",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Ulla%20Sandbaek/Ulla_Sandbaek_133.jpg.ashx"
@@ -5512,9 +5577,6 @@
           "area_id": "area/greater_copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
