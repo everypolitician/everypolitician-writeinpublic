@@ -1,7 +1,7 @@
 {
-  "total": 197,
+  "total": 198,
   "page": 1,
-  "per_page": 197,
+  "per_page": 198,
   "has_more": false,
   "result": [
     {
@@ -5508,6 +5508,25 @@
           "role": "member",
           "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
           "area_id": "area/south_jutland",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "torbjorn.jacobsen@ft.dk",
+      "id": "person/a7b7510e-3f43-423b-bf83-a6cd4512af86",
+      "name": "Tórbjørn Jacobsen",
+      "sort_name": "Tórbjørn Jacobsen",
+      "memberships": [
+        {
+          "person_id": "person/a7b7510e-3f43-423b-bf83-a6cd4512af86",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "87C3A582-50DB-46EE-A0C3-C6B916E84353",
+          "area_id": "area/the_faroe_islands",
           "legislative_period_id": "term/2015"
         }
       ],
