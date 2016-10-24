@@ -2524,7 +2524,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_kommun",
+          "area_id": "area/kalmar_län",
           "start_date": "2015-02-03",
           "end_date": "2015-03-10",
           "legislative_period_id": "term/2014"
@@ -2534,7 +2534,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_kommun",
+          "area_id": "area/kalmar_län",
           "start_date": "2015-03-11",
           "end_date": "2015-03-31",
           "legislative_period_id": "term/2014"
@@ -2544,9 +2544,19 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_kommun",
+          "area_id": "area/kalmar_län",
           "start_date": "2016-06-14",
           "end_date": "2016-07-28",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/ba5b71ea-20be-449c-927f-be07fe3724ee",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "SD",
+          "area_id": "area/kalmar_län",
+          "start_date": "2016-10-19",
+          "end_date": "2016-11-20",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -3395,6 +3405,16 @@
           "area_id": "area/Östergötlands_län",
           "start_date": "2016-04-18",
           "end_date": "2017-01-01",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/558b2007-1e8a-41f1-b116-03bd37ffdf0e",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/Östergötlands_län",
+          "start_date": "2017-02-27",
+          "end_date": "2017-06-30",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -5968,6 +5988,16 @@
           "on_behalf_of_id": "S",
           "area_id": "area/Östergötlands_län",
           "start_date": "2016-01-01",
+          "end_date": "2017-02-26",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/f5c944b7-503d-42ef-a8df-ab9c37eefbdd",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/Östergötlands_län",
+          "start_date": "2017-07-01",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -8437,7 +8467,7 @@
           "on_behalf_of_id": "S",
           "area_id": "area/västerbottens_län",
           "start_date": "2016-10-01",
-          "end_date": "2017-01-12",
+          "end_date": "2017-04-01",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -9470,7 +9500,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "lavesson"
+          "value": "oloflavesson"
         }
       ],
       "links": [
@@ -9687,6 +9717,16 @@
           "role": "member",
           "on_behalf_of_id": "SD",
           "area_id": "area/kalmar_län",
+          "end_date": "2016-10-18",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/2982923f-dae8-4270-b953-da137ac2ae65",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "SD",
+          "area_id": "area/kalmar_län",
+          "start_date": "2016-11-21",
           "legislative_period_id": "term/2014"
         }
       ]
