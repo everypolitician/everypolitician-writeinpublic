@@ -1,28 +1,9 @@
 {
-  "total": 49,
+  "total": 40,
   "page": 1,
-  "per_page": 49,
+  "per_page": 40,
   "has_more": false,
   "result": [
-    {
-      "email": "Hunter.Adam@deputies.gov.gg",
-      "id": "person/cf186769-790b-4538-8eb2-b9154e86bf71",
-      "name": "A. Hunter Adam",
-      "sort_name": "A. Hunter Adam",
-      "memberships": [
-        {
-          "person_id": "person/cf186769-790b-4538-8eb2-b9154e86bf71",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
     {
       "email": "al.brouard@deputies.gov.gg",
       "id": "person/22e754e3-7656-4673-9dde-a3c7f1c274a9",
@@ -35,7 +16,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/west",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -43,65 +24,22 @@
       ]
     },
     {
-      "email": "allister.langlois@deputies.gov.gg",
-      "id": "person/0834c5ff-9cc5-42b7-aeaa-818cc61cfaa5",
-      "name": "Allister H. Langlois",
-      "sort_name": "Allister H. Langlois",
+      "email": "Andrea.Dudley-Owen@deputies.gov.gg",
+      "id": "person/05a0f315-5bb3-45c9-a8c6-1326c859d7c9",
+      "name": "Andrea Dudley-Owen",
+      "sort_name": "Andrea Dudley-Owen",
       "memberships": [
         {
-          "person_id": "person/0834c5ff-9cc5-42b7-aeaa-818cc61cfaa5",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_south",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "lelievre@fsmail.net",
-      "gender": "male",
-      "id": "person/7a7232be-622f-4bb1-8c40-87419c926ca9",
-      "name": "Andrew R. Le Lievre",
-      "sort_name": "Andrew R. Le Lievre",
-      "memberships": [
-        {
-          "person_id": "person/7a7232be-622f-4bb1-8c40-87419c926ca9",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Arrun.Wilkie@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/ff2138c8-e8f8-4456-9c16-a4ed53fbb871",
-      "name": "Arrun M. Wilkie",
-      "sort_name": "Arrun M. Wilkie",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ArrunWilkie"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ff2138c8-e8f8-4456-9c16-a4ed53fbb871",
+          "person_id": "person/05a0f315-5bb3-45c9-a8c6-1326c859d7c9",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/west",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -117,7 +55,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -142,9 +80,28 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_south",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_south",
+          "legislative_period_id": "term/2016"
         }
+      ]
+    },
+    {
+      "email": "Carl.Meerveld@deputies.gov.gg",
+      "id": "person/f5931853-9425-45fb-b32c-a942e3eccec3",
+      "name": "Carl Meerveld",
+      "sort_name": "Carl Meerveld",
+      "memberships": [
+        {
+          "person_id": "person/f5931853-9425-45fb-b32c-a942e3eccec3",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/st_sampson",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -158,8 +115,8 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -185,53 +142,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "Darren.Duquemin@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/7bb1ec99-1b27-48ba-916c-9f3261adc9eb",
-      "name": "Darren J. Duquemin",
-      "sort_name": "Darren J. Duquemin",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "darrenduquemin"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7bb1ec99-1b27-48ba-916c-9f3261adc9eb",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "dai@cwgsy.net",
-      "gender": "male",
-      "id": "person/0a9eba4a-124c-46ee-9a5c-301943824d40",
-      "name": "David A. Inglis",
-      "sort_name": "David A. Inglis",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "DavidInglisGsy"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0a9eba4a-124c-46ee-9a5c-301943824d40",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/west",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -254,7 +165,8 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
+          "end_date": "2016-07-05",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -277,45 +189,23 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/west",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ]
     },
     {
-      "email": "elis.bebb@gmail.com",
-      "id": "person/2a86f938-d509-4eaf-b24f-46ccb056ff79",
-      "name": "Elis G. Bebb",
-      "sort_name": "Elis G. Bebb",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ElisBebb"
-        }
-      ],
+      "email": "Dawn.Tindall@deputies.gov.gg",
+      "id": "person/1bb10dfe-4424-4f6a-a2fb-ba2d08f3315a",
+      "name": "Dawn Tindall",
+      "sort_name": "Dawn Tindall",
       "memberships": [
         {
-          "person_id": "person/2a86f938-d509-4eaf-b24f-46ccb056ff79",
+          "person_id": "person/1bb10dfe-4424-4f6a-a2fb-ba2d08f3315a",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "Francis.Quin@deputies.gov.gg",
-      "id": "person/41f38b5b-60a4-4e5e-bd8f-02e0a6637a33",
-      "name": "Francis W. Quin",
-      "sort_name": "Francis W. Quin",
-      "memberships": [
-        {
-          "person_id": "person/41f38b5b-60a4-4e5e-bd8f-02e0a6637a33",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/south-east",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_south",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -323,24 +213,30 @@
       ]
     },
     {
-      "email": "Garry.Collins@deputies.gov.gg",
-      "id": "person/f4ae0bb0-5382-4105-a4e6-012974134b3b",
-      "name": "Garry M. Collins",
-      "sort_name": "Garry M. Collins",
+      "email": "Emilie.Yerby@deputies.gov.gg",
+      "id": "person/6aa87b00-5723-46d3-b732-19c566f7228f",
+      "name": "Emilie Yerby",
+      "sort_name": "Emilie Yerby",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "GarryCollinsGue"
+          "value": "emilieyerby"
+        }
+      ],
+      "links": [
+        {
+          "url": "emilie.yerby",
+          "note": "facebook"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f4ae0bb0-5382-4105-a4e6-012974134b3b",
+          "person_id": "person/6aa87b00-5723-46d3-b732-19c566f7228f",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/west",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -356,14 +252,20 @@
           "value": "gavinstpier"
         }
       ],
+      "links": [
+        {
+          "url": "gavin.stpier",
+          "note": "facebook"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/320594a7-8505-457f-8a84-c18561b4455e",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._sampson",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_sampson",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -378,8 +280,7 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/alderney_representative",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -397,14 +298,20 @@
           "value": "HeidiSoulsby"
         }
       ],
+      "links": [
+        {
+          "url": "Deputy-Heidi-Soulsby-389977751018516",
+          "note": "facebook"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a65d0059-362b-4db9-9a05-1c762afc4011",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/south-east",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/south_east",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -419,8 +326,80 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_south",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_south",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Jane.Stephens@deputies.gov.gg",
+      "id": "person/a5ae4fb0-8225-4b30-b63a-64e0d5e75a7b",
+      "name": "Jane Stephens",
+      "sort_name": "Jane Stephens",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jstephensgsy"
+        }
+      ],
+      "links": [
+        {
+          "url": "JaneStephensGsy",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a5ae4fb0-8225-4b30-b63a-64e0d5e75a7b",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/st_sampson",
+          "legislative_period_id": "term/2016"
+        }
+      ]
+    },
+    {
+      "email": "jennifer.merrett@deputies.gov.gg",
+      "id": "person/f2d3f823-5d10-4f66-8269-723d3e0bbc5c",
+      "name": "Jennifer Merrett",
+      "sort_name": "Jennifer Merrett",
+      "memberships": [
+        {
+          "person_id": "person/f2d3f823-5d10-4f66-8269-723d3e0bbc5c",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/st_sampson",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Jeremy.Smithies@deputies.gov.gg",
+      "id": "person/6babfb68-4be9-48e0-873d-f12e68b0005f",
+      "name": "Jeremy Smithies",
+      "sort_name": "Jeremy Smithies",
+      "links": [
+        {
+          "url": "jeremy.smithies",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6babfb68-4be9-48e0-873d-f12e68b0005f",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/vale",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -444,8 +423,8 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -468,31 +447,27 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ]
     },
     {
-      "email": "Kevin.Stewart@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/1d770029-1592-434e-9434-f00b6ac82965",
-      "name": "Kevin A. Stewart",
-      "sort_name": "Kevin A. Stewart",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "kevinstewartgsy"
-        }
-      ],
+      "email": "Joe.Mooney@deputies.gov.gg",
+      "id": "person/2eff98d2-95ec-4fbc-a2d6-d7bb701ef108",
+      "name": "Joseph Mooney",
+      "sort_name": "Joseph Mooney",
       "memberships": [
         {
-          "person_id": "person/1d770029-1592-434e-9434-f00b6ac82965",
+          "person_id": "person/2eff98d2-95ec-4fbc-a2d6-d7bb701ef108",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._sampson",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -507,7 +482,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -525,12 +500,34 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "email": "Lindsay.DeSausmarez@deputies.gov.gg",
+      "id": "person/dbac54e0-ffcc-4125-aa62-5e3f2ca7ae7a",
+      "name": "Lindsay De Sausmarez",
+      "sort_name": "Lindsay De Sausmarez",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "lindsay_gsy"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dbac54e0-ffcc-4125-aa62-5e3f2ca7ae7a",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/south_east",
+          "legislative_period_id": "term/2016"
+        }
       ]
     },
     {
@@ -544,8 +541,7 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/alderney_representative",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -570,8 +566,33 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._sampson",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_sampson",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Marc.Leadbeater@deputies.gov.gg",
+      "id": "person/bc80dae6-e7c5-4f30-99ae-3e14ea4cdca6",
+      "name": "Marc Leadbeater",
+      "sort_name": "Marc Leadbeater",
+      "links": [
+        {
+          "url": "votemarcleadbeater",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bc80dae6-e7c5-4f30-99ae-3e14ea4cdca6",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -591,27 +612,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Martin.Storey@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/e88fa42f-8ee3-4a7e-ad85-338e9557fe60",
-      "name": "Martin J. Storey",
-      "sort_name": "Martin J. Storey",
-      "memberships": [
-        {
-          "person_id": "person/e88fa42f-8ee3-4a7e-ad85-338e9557fe60",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -637,7 +638,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -654,47 +655,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mike.ohara@cwgsy.net",
-      "gender": "male",
-      "id": "person/e5e619cf-d153-45b8-920e-924e4cdb5cfb",
-      "name": "Michael G. O'Hara",
-      "sort_name": "Michael G. O'Hara",
-      "memberships": [
-        {
-          "person_id": "person/e5e619cf-d153-45b8-920e-924e4cdb5cfb",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/south-east",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Mike.Hadley@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/c38b874b-e9ba-42eb-b023-7ae395c57582",
-      "name": "Michael P. J. Hadley",
-      "sort_name": "Michael P. J. Hadley",
-      "memberships": [
-        {
-          "person_id": "person/c38b874b-e9ba-42eb-b023-7ae395c57582",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/south-east",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -719,51 +680,8 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "Neil.Harvey@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/b6d46b0f-24ef-42c6-b7ee-8f3b08ff87e1",
-      "name": "Neil Harvey",
-      "sort_name": "Neil Harvey",
-      "memberships": [
-        {
-          "person_id": "person/b6d46b0f-24ef-42c6-b7ee-8f3b08ff87e1",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/alderney_representative",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Paul.Luxon@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/8d947ab2-464a-4ddc-bcfd-149f6137e211",
-      "name": "Paul A. Luxon",
-      "sort_name": "Paul A. Luxon",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "paul_luxon"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8d947ab2-464a-4ddc-bcfd-149f6137e211",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/south-east",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
@@ -778,8 +696,8 @@
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._sampson",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_sampson",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -787,19 +705,18 @@
       ]
     },
     {
-      "email": "Peter.Harwood@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/a556d367-f9ac-452e-baae-c248b0938d1c",
-      "name": "Peter A. Harwood",
-      "sort_name": "Peter A. Harwood",
+      "email": "Peter.Ferbrache@deputies.gov.gg",
+      "id": "person/0fbbad6c-d0ca-445d-9817-8a490c07f3cb",
+      "name": "Peter Ferbrache",
+      "sort_name": "Peter Ferbrache",
       "memberships": [
         {
-          "person_id": "person/a556d367-f9ac-452e-baae-c248b0938d1c",
+          "person_id": "person/0fbbad6c-d0ca-445d-9817-8a490c07f3cb",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_south",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_south",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -807,210 +724,59 @@
       ]
     },
     {
-      "email": "Peter.Sherbourne@deputies.gov.gg",
-      "id": "person/9bcf918f-e618-450d-9c13-59fbb8a7a557",
-      "name": "Peter A. Sherbourne",
-      "sort_name": "Peter A. Sherbourne",
+      "email": "rufusroffey@yahoo.co.uk",
+      "id": "person/53ec7543-9d2b-4d53-9d3e-ccfb83bffcfe",
+      "name": "Peter Roffey",
+      "sort_name": "Peter Roffey",
+      "memberships": [
+        {
+          "person_id": "person/53ec7543-9d2b-4d53-9d3e-ccfb83bffcfe",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/south_east",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Rhian.Tooley@deputies.gov.gg",
+      "id": "person/03293134-a82d-4d2c-bf77-5eb46caf889e",
+      "name": "Rhian Tooley",
+      "sort_name": "Rhian Tooley",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "Sherbs1"
+          "value": "RhianGsy"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/9bcf918f-e618-450d-9c13-59fbb8a7a557",
+          "person_id": "person/03293134-a82d-4d2c-bf77-5eb46caf889e",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
+          "area_id": "area/st_peter_port_south",
+          "legislative_period_id": "term/2016"
         }
       ]
     },
     {
-      "email": "Peter.Gillson@gov.gg",
-      "gender": "male",
-      "id": "person/0a85ff4b-c495-44f9-9b33-4141e6e2b09a",
-      "name": "Peter L. Gillson",
-      "sort_name": "Peter L. Gillson",
+      "email": "Richard.Graham@deputies.gov.gg",
+      "id": "person/945d6d7d-4b6b-430e-b341-ef7cdeb30a74",
+      "name": "Richard Graham",
+      "sort_name": "Richard Graham",
       "memberships": [
         {
-          "person_id": "person/0a85ff4b-c495-44f9-9b33-4141e6e2b09a",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._sampson",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Richard.Conder@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/7304e050-e141-475e-bbd4-9afbeb4be566",
-      "name": "Richard Conder",
-      "sort_name": "Richard Conder",
-      "memberships": [
-        {
-          "person_id": "person/7304e050-e141-475e-bbd4-9afbeb4be566",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_north",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Robert.Jones@deputies.gov.gg",
-      "id": "person/84d2583a-725e-4444-bcf8-8bda48ed3f39",
-      "name": "Robert A. Jones",
-      "sort_name": "Robert A. Jones",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "deputyrobjones"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/84d2583a-725e-4444-bcf8-8bda48ed3f39",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_south",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "Robert.Sillars@deputies.gov.gg",
-      "id": "person/511db5d0-9ad7-4ea0-8d77-563da49e5734",
-      "name": "Robert W. Sillars",
-      "sort_name": "Robert W. Sillars",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "RobertWSillars"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/511db5d0-9ad7-4ea0-8d77-563da49e5734",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/south-east",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "Roger.Perrot@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/2b2f38bf-b57f-43ab-89a2-6afd924adea3",
-      "name": "Roger A. Perrot",
-      "sort_name": "Roger A. Perrot",
-      "memberships": [
-        {
-          "person_id": "person/2b2f38bf-b57f-43ab-89a2-6afd924adea3",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/west",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Roger.Domaille@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/16b52004-d66c-479d-949b-b61050d86abe",
-      "name": "Roger Domaille",
-      "sort_name": "Roger Domaille",
-      "memberships": [
-        {
-          "person_id": "person/16b52004-d66c-479d-949b-b61050d86abe",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._peter_port_south",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Sandra.James@deputies.gov.gg",
-      "id": "person/f157f548-0e79-46af-97fc-9886aeeabaf8",
-      "name": "Sandra A. James",
-      "sort_name": "Sandra A. James",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "DepSandraJames"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f157f548-0e79-46af-97fc-9886aeeabaf8",
+          "person_id": "person/945d6d7d-4b6b-430e-b341-ef7cdeb30a74",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/castel",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "Scott.Ogier@deputies.gov.gg",
-      "gender": "male",
-      "id": "person/e116bd8c-1d90-4e23-9811-611ba321cdee",
-      "name": "Scott J. Ogier",
-      "sort_name": "Scott J. Ogier",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "DeputyOgier"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e116bd8c-1d90-4e23-9811-611ba321cdee",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/st._sampson",
-          "legislative_period_id": "term/2012"
-        }
-      ]
-    },
-    {
-      "email": "tonyspruce@cwgsy.net",
-      "gender": "male",
-      "id": "person/56154f65-50cd-47e1-b9c3-0e9f5b9c8cf9",
-      "name": "Tony Spruce",
-      "sort_name": "Tony Spruce",
-      "memberships": [
-        {
-          "person_id": "person/56154f65-50cd-47e1-b9c3-0e9f5b9c8cf9",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/vale",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1018,26 +784,97 @@
       ]
     },
     {
-      "email": "yvonne.burford@deputies.gov.gg",
-      "gender": "female",
-      "id": "person/47ebccc8-b779-49aa-a800-eb45b48e3dad",
-      "name": "Yvonne Burford",
-      "sort_name": "Yvonne Burford",
+      "email": "Robert.Prow@deputies.gov.gg",
+      "id": "person/b52853fd-1b7c-4e43-a6e0-e1d496adbab4",
+      "name": "Robert Prow",
+      "sort_name": "Robert Prow",
+      "memberships": [
+        {
+          "person_id": "person/b52853fd-1b7c-4e43-a6e0-e1d496adbab4",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/south_east",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Sarah.HansmannRouxel@deputies.gov.gg",
+      "id": "person/04a746ac-2b85-4a93-81c6-d87b6cd750e1",
+      "name": "Sarah Hansmann Rouxel",
+      "sort_name": "Sarah Hansmann Rouxel",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "YvonneBurford"
+          "value": "SarahHRouxel"
+        }
+      ],
+      "links": [
+        {
+          "url": "SarahHansmannRouxel",
+          "note": "facebook"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/47ebccc8-b779-49aa-a800-eb45b48e3dad",
+          "person_id": "person/04a746ac-2b85-4a93-81c6-d87b6cd750e1",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/vale",
+          "legislative_period_id": "term/2016"
+        }
+      ]
+    },
+    {
+      "email": "Shane.Langlois@deputies.gov.gg",
+      "id": "person/f4f811eb-6f6e-40fb-a5ba-2c08e850dfe5",
+      "name": "Shane Langlois",
+      "sort_name": "Shane Langlois",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "shanelanglois"
+        }
+      ],
+      "links": [
+        {
+          "url": "Shane.L.Langlois",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f4f811eb-6f6e-40fb-a5ba-2c08e850dfe5",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/west",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2016"
         }
+      ]
+    },
+    {
+      "email": "Victoria.Oliver@deputies.gov.ggvictoria1.oliver@icloud.com",
+      "id": "person/d1585336-1ab4-44a1-b5e9-5812a9f72bdc",
+      "name": "Victoria Oliver",
+      "sort_name": "Victoria Oliver",
+      "memberships": [
+        {
+          "person_id": "person/d1585336-1ab4-44a1-b5e9-5812a9f72bdc",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/south_east",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
       ]
     }
   ]
