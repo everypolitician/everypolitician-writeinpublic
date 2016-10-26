@@ -1,7 +1,7 @@
 {
-  "total": 168,
+  "total": 169,
   "page": 1,
-  "per_page": 168,
+  "per_page": 169,
   "has_more": false,
   "result": [
     {
@@ -3654,6 +3654,15 @@
           "role": "member",
           "on_behalf_of_id": "cd&v",
           "area_id": "area/oost-vlaanderen",
+          "end_date": "2016-10-27",
+          "legislative_period_id": "term/54"
+        },
+        {
+          "person_id": "person/6102ee1a-7991-4b7c-8952-5a3c3c64d472",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "cd&v",
+          "area_id": "area/oost-vlaanderen",
           "start_date": "2014-10-11",
           "legislative_period_id": "term/54"
         },
@@ -4244,6 +4253,25 @@
           "on_behalf_of_id": "mr",
           "area_id": "area/waals-brabant",
           "start_date": "2014-10-14",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0e9859bd-8205-4116-9dd2-3f916deae237",
+      "name": "Vincent Van Peteghem",
+      "sort_name": "Vincent Van Peteghem",
+      "memberships": [
+        {
+          "person_id": "person/0e9859bd-8205-4116-9dd2-3f916deae237",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "cd&v",
+          "area_id": "area/oost-vlaanderen",
+          "start_date": "2016-10-27",
           "legislative_period_id": "term/54"
         }
       ],
