@@ -2734,6 +2734,32 @@
       ]
     },
     {
+      "email": "dep.cesarsouza@camara.leg.br",
+      "gender": "male",
+      "id": "person/4bc84bdf-379e-45bb-9339-c210a4d62611",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73720.jpg",
+      "name": "CESAR SOUZA",
+      "sort_name": "CESAR SOUZA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73720.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4bc84bdf-379e-45bb-9339-c210a4d62611",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PSD",
+          "area_id": "area/sc",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.chicoalencar@camara.leg.br",
       "gender": "male",
       "id": "person/1ac1d356-debb-41bf-8122-910697cb0e23",
@@ -3090,32 +3116,6 @@
           "role": "member",
           "on_behalf_of_id": "PSB",
           "area_id": "area/ac",
-          "legislative_period_id": "term/55"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dep.cesarsouza@camara.leg.br",
-      "gender": "male",
-      "id": "person/4bc84bdf-379e-45bb-9339-c210a4d62611",
-      "image": "http://www.camara.gov.br/internet/deputado/bandep/73720.jpg",
-      "name": "CÉSAR SOUZA",
-      "sort_name": "CÉSAR SOUZA",
-      "images": [
-        {
-          "url": "http://www.camara.gov.br/internet/deputado/bandep/73720.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4bc84bdf-379e-45bb-9339-c210a4d62611",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PSD",
-          "area_id": "area/sc",
           "legislative_period_id": "term/55"
         }
       ],
