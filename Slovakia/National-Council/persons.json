@@ -106,6 +106,7 @@
     },
     {
       "email": "andrej_danko@nrsr.sk",
+      "gender": "male",
       "id": "person/96f658c7-6b1a-4095-8873-9a7f218bc309",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140",
       "name": "Andrej Danko",
@@ -131,6 +132,7 @@
     },
     {
       "email": "andrej_hrnciar@nrsr.sk",
+      "gender": "male",
       "id": "person/5d5f3db3-0442-4a41-b20b-04236e5a7e15",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=881&ImageWidth=140",
       "name": "Andrej Hrnčiar",
@@ -206,6 +208,7 @@
     },
     {
       "email": "anton_hrnko@nrsr.sk",
+      "gender": "male",
       "id": "person/a0a3b309-0a4c-4435-94a6-cdbb8333f3f5",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=382&ImageWidth=140",
       "name": "Anton Hrnko",
@@ -257,6 +260,7 @@
     },
     {
       "email": "boris_kollar@nrsr.sk",
+      "gender": "male",
       "id": "person/a9091640-8448-4b11-8da4-d997fc9d6c63",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=917&ImageWidth=140",
       "name": "Boris Kollár",
@@ -437,6 +441,7 @@
     },
     {
       "email": "dusan_tittel@nrsr.sk",
+      "gender": "male",
       "id": "person/5497aa68-c140-4df0-975a-38adab16377d",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140",
       "name": "Dušan Tittel",
@@ -666,6 +671,7 @@
     },
     {
       "email": "eugen_jurzyca@nrsr.sk",
+      "gender": "male",
       "id": "person/b4c691bb-31c5-49b0-8db6-19b14a44ffa8",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=796&ImageWidth=140",
       "name": "Eugen Jurzyca",
@@ -1228,6 +1234,7 @@
     },
     {
       "email": "jozef_mihal@nrsr.sk",
+      "gender": "male",
       "id": "person/330f5263-a35e-45eb-8ca7-c40487b31259",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=809&ImageWidth=140",
       "name": "Jozef Mihál",
@@ -1661,6 +1668,7 @@
     },
     {
       "email": "katarina_machackova@nrsr.sk",
+      "gender": "female",
       "id": "person/973d4927-0437-4ba4-b160-47a7a6a5875b",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=958&ImageWidth=140",
       "name": "Katarína Macháčková",
@@ -1788,10 +1796,17 @@
     },
     {
       "email": "marian_kotleba@nrsr.sk",
+      "gender": "male",
       "id": "person/4cab336f-3a4c-45f7-82ab-4f193c08469f",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=944&ImageWidth=140",
       "name": "Marian Kotleba",
       "sort_name": "Marian Kotleba",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarianKotleba"
+        }
+      ],
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=944&ImageWidth=140"
@@ -1806,9 +1821,6 @@
           "area_id": "area/banskobystrický",
           "legislative_period_id": "term/7"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1968,6 +1980,7 @@
     },
     {
       "email": "martin_klus@nrsr.sk",
+      "gender": "male",
       "id": "person/33a0b2fd-f878-4a2b-b26e-beceb1f2aff9",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=963&ImageWidth=140",
       "name": "Martin Klus",
@@ -3394,6 +3407,7 @@
     },
     {
       "email": "tibor_jancula@nrsr.sk",
+      "gender": "male",
       "id": "person/0a765565-cfc8-42c4-ac96-315c27156c13",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=978&ImageWidth=140",
       "name": "Tibor Jančula",
@@ -3444,6 +3458,7 @@
     },
     {
       "email": "viera_dubacova@nrsr.sk",
+      "gender": "female",
       "id": "person/580440f8-ab17-49b8-9343-0d715cd6074e",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=911&ImageWidth=140",
       "name": "Viera Dubačová",
