@@ -1,7 +1,7 @@
 {
-  "total": 129,
+  "total": 131,
   "page": 1,
-  "per_page": 129,
+  "per_page": 131,
   "has_more": false,
   "result": [
     {
@@ -376,6 +376,24 @@
           "role": "member",
           "on_behalf_of_id": "nacional",
           "area_id": "area/francisco_morazán",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9969a31c-59d7-4118-812c-92ad94c0eb3a",
+      "name": "David Reyes",
+      "sort_name": "David Reyes",
+      "memberships": [
+        {
+          "person_id": "person/9969a31c-59d7-4118-812c-92ad94c0eb3a",
+          "organization_id": "chamber/national_congress",
+          "role": "member",
+          "on_behalf_of_id": "pac",
+          "area_id": "area/choluteca",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1131,6 +1149,24 @@
           "organization_id": "chamber/national_congress",
           "role": "member",
           "on_behalf_of_id": "liberal",
+          "area_id": "area/valle",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e6a59da6-3522-4489-a311-5b419763e441",
+      "name": "José Tomás Zambrano Molina",
+      "sort_name": "José Tomás Zambrano Molina",
+      "memberships": [
+        {
+          "person_id": "person/e6a59da6-3522-4489-a311-5b419763e441",
+          "organization_id": "chamber/national_congress",
+          "role": "member",
+          "on_behalf_of_id": "nacional",
           "area_id": "area/valle",
           "legislative_period_id": "term/8"
         }

@@ -1,7 +1,7 @@
 {
-  "total": 44,
+  "total": 47,
   "page": 1,
-  "per_page": 44,
+  "per_page": 47,
   "has_more": false,
   "result": [
     {
@@ -185,6 +185,25 @@
       ]
     },
     {
+      "email": "bebk@inatsisartut.gl",
+      "id": "person/2fd68637-f1c3-4f47-871a-16e4ab976336",
+      "name": "Bendt B. Kristiansen",
+      "sort_name": "Bendt B. Kristiansen",
+      "memberships": [
+        {
+          "person_id": "person/2fd68637-f1c3-4f47-871a-16e4ab976336",
+          "organization_id": "chamber/inatsisartut",
+          "role": "member",
+          "on_behalf_of_id": "inuit_ataqatigiit",
+          "start_date": "2016-10-31",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dekl@inatsisartut.gl",
       "gender": "female",
       "id": "person/4ccf30f6-c072-4256-b30c-26b4b58d173f",
@@ -279,6 +298,25 @@
           "organization_id": "chamber/inatsisartut",
           "role": "member",
           "on_behalf_of_id": "partii_naleraq",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hefl@inatsisartut.gl",
+      "id": "person/ca94ae2f-c269-4ba6-bff0-c426530e1cb6",
+      "name": "Henrik Fleischer",
+      "sort_name": "Henrik Fleischer",
+      "memberships": [
+        {
+          "person_id": "person/ca94ae2f-c269-4ba6-bff0-c426530e1cb6",
+          "organization_id": "chamber/inatsisartut",
+          "role": "member",
+          "on_behalf_of_id": "partii_naleraq",
+          "start_date": "2016-10-31",
           "legislative_period_id": "term/12"
         }
       ],
@@ -563,7 +601,7 @@
       ]
     },
     {
-      "email": "knkr@nanoq.gl",
+      "email": "knkr@inatsisartut.gl",
       "gender": "male",
       "id": "person/c1e79ec4-a683-41f6-a7b0-c7968bd18a51",
       "image": "http://www.ina.gl/media/personfiler/234532/2010.09.17%20Start%20EM%202010%2000916.jpg",
@@ -638,7 +676,7 @@
       ]
     },
     {
-      "email": "kuko@nanoq.gl",
+      "email": "makh@inatsisartut.gl",
       "id": "person/698fb6e6-d7a7-47b8-90a6-42e858ff0753",
       "image": "http://www.ina.gl/media/personfiler/2478643/Mala.jpg",
       "name": "Mala Høy Kuko",
@@ -822,7 +860,7 @@
       ]
     },
     {
-      "email": "nivi@nanoq.gl",
+      "email": "niol@inatsisartut.gl",
       "gender": "female",
       "id": "person/467ef2a6-860b-44e3-9df9-46be8570c175",
       "image": "http://www.ina.gl/media/personfiler/2482814/Nivi.jpg",
@@ -942,6 +980,7 @@
           "role": "member",
           "on_behalf_of_id": "demokraatit",
           "start_date": "2015-11-03",
+          "end_date": "2016-10-30",
           "legislative_period_id": "term/12"
         }
       ],
@@ -950,7 +989,7 @@
       ]
     },
     {
-      "email": "rave@nanoq.gl",
+      "email": "rave@inatsisartut.gl",
       "gender": "female",
       "id": "person/fdb6d465-ecc4-4a40-ae4a-f769b59db3a4",
       "image": "http://www.ina.gl/media/personfiler/2462756/Randi%20Vestergaard%20Evaldsen%202014.12%20-%2015505.jpg",
@@ -987,6 +1026,12 @@
           "value": "saraolsvig"
         }
       ],
+      "links": [
+        {
+          "url": "IAsaraolsvig",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.ina.gl/media/personfiler/720255/Sara%20Olsvig%20-%2007669.jpg"
@@ -1021,6 +1066,7 @@
           "role": "member",
           "on_behalf_of_id": "atassut",
           "start_date": "2015-11-03",
+          "end_date": "2016-10-30",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1046,6 +1092,7 @@
           "organization_id": "chamber/inatsisartut",
           "role": "member",
           "on_behalf_of_id": "atassut",
+          "end_date": "2016-10-30",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1096,6 +1143,26 @@
           "organization_id": "chamber/inatsisartut",
           "role": "member",
           "on_behalf_of_id": "demokraatit",
+          "end_date": "2016-10-30",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "viols@inatsisartut.gl",
+      "id": "person/809927a5-e75b-4c31-9099-09e3a92e3084",
+      "name": "Villy Olsvig",
+      "sort_name": "Villy Olsvig",
+      "memberships": [
+        {
+          "person_id": "person/809927a5-e75b-4c31-9099-09e3a92e3084",
+          "organization_id": "chamber/inatsisartut",
+          "role": "member",
+          "on_behalf_of_id": "inuit_ataqatigiit",
+          "start_date": "2016-10-31",
           "legislative_period_id": "term/12"
         }
       ],
