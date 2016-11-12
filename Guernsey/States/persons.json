@@ -1,7 +1,7 @@
 {
-  "total": 40,
+  "total": 41,
   "page": 1,
-  "per_page": 40,
+  "per_page": 41,
   "has_more": false,
   "result": [
     {
@@ -681,6 +681,34 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/st_peter_port_north",
+          "legislative_period_id": "term/2016"
+        }
+      ]
+    },
+    {
+      "email": "neilinder@live.com",
+      "id": "person/7fa09ba9-19d3-4706-8883-c6302b03cf9d",
+      "name": "Neil Inder",
+      "sort_name": "Neil Inder",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "tothevale"
+        }
+      ],
+      "links": [
+        {
+          "url": "InderVale",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7fa09ba9-19d3-4706-8883-c6302b03cf9d",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/vale",
           "legislative_period_id": "term/2016"
         }
       ]
