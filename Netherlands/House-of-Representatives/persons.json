@@ -1,7 +1,7 @@
 {
-  "total": 192,
+  "total": 193,
   "page": 1,
-  "per_page": 192,
+  "per_page": 193,
   "has_more": false,
   "result": [
     {
@@ -144,12 +144,12 @@
     {
       "gender": "female",
       "id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/50._Amma_Asante.jpg",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8353_0.jpg?itok=WW7A7bIB",
       "name": "Amma Asante",
-      "sort_name": "Amma Asante",
+      "sort_name": "Asante, A.A.",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/50._Amma_Asante.jpg"
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8353_0.jpg?itok=WW7A7bIB"
         }
       ],
       "memberships": [
@@ -159,6 +159,14 @@
           "role": "member",
           "on_behalf_of_id": "pvda",
           "end_date": "2016-09-07",
+          "legislative_period_id": "term/2012"
+        },
+        {
+          "person_id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
+          "start_date": "2016-09-07",
           "legislative_period_id": "term/2012"
         }
       ],
@@ -869,14 +877,21 @@
       ]
     },
     {
+      "email": "d.vdree@tweedekamer.nl",
       "gender": "male",
       "id": "person/f72d702d-d07d-4936-bdbc-f6fa4af057ef",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8354_0.jpg?itok=TkX4k2pv",
       "name": "Daniël van der Ree",
-      "sort_name": "Daniël van der Ree",
+      "sort_name": "Ree, D.A. van der",
       "contact_details": [
         {
           "type": "twitter",
           "value": "danielvanderree"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8354_0.jpg?itok=TkX4k2pv"
         }
       ],
       "memberships": [
@@ -2110,6 +2125,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "pvda",
+          "end_date": "2016-11-07",
           "legislative_period_id": "term/2012"
         },
         {
@@ -2831,6 +2847,14 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "pvda",
+          "start_date": "2013-06-10",
+          "legislative_period_id": "term/2012"
+        },
+        {
+          "person_id": "person/04114856-c55f-4931-9036-ba0f3d3365e4",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
           "start_date": "2013-09-03",
           "end_date": "2016-03-01",
           "legislative_period_id": "term/2012"
@@ -3220,6 +3244,14 @@
           "on_behalf_of_id": "pvda",
           "end_date": "2015-09-22",
           "legislative_period_id": "term/2012"
+        },
+        {
+          "person_id": "person/7794dd1e-45c4-4dfd-9321-3dfeb637b27f",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
+          "start_date": "2016-01-11",
+          "legislative_period_id": "term/2012"
         }
       ]
     },
@@ -3447,6 +3479,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "pvda",
+          "end_date": "2015-11-03",
           "legislative_period_id": "term/2012"
         }
       ]
@@ -4431,6 +4464,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/e382e3cf-90a7-41ec-88b9-77ef4b23dc52",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8355_0.jpg?itok=3Q3CA4F9",
+      "name": "Rien van der Velde",
+      "sort_name": "Velde, R. van der",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8355_0.jpg?itok=3Q3CA4F9"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e382e3cf-90a7-41ec-88b9-77ef4b23dc52",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
+          "start_date": "2016-10-25",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "r.grashoff@tweedekamer.nl",
       "gender": "male",
       "id": "person/da32763c-103e-4229-afe7-3cfd6f03a4c7",
@@ -5168,6 +5226,14 @@
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/e9acedd0-e27e-4b23-93e8-ef20c39f95e8",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
+          "end_date": "2016-09-07",
+          "legislative_period_id": "term/2012"
+        },
         {
           "person_id": "person/e9acedd0-e27e-4b23-93e8-ef20c39f95e8",
           "organization_id": "chamber/tweede_kamer",

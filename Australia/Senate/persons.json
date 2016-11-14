@@ -123,8 +123,14 @@
     {
       "gender": "male",
       "id": "person/c92a9030-27d8-404f-b666-892e36d7da87",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/39801/upload_ref_binary/39801.jpg",
       "name": "Anthony Chisholm",
       "sort_name": "Chisholm, Anthony",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/39801/upload_ref_binary/39801.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c92a9030-27d8-404f-b666-892e36d7da87",
@@ -250,6 +256,15 @@
           "role": "member",
           "on_behalf_of_id": "family_first_party",
           "area_id": "area/sa",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/7ddaf281-92a1-4554-9aab-0f09f804af77",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "family_first_party",
+          "area_id": "area/sa",
+          "end_date": "2016-11-01",
           "legislative_period_id": "term/45"
         }
       ]
