@@ -1,7 +1,7 @@
 {
-  "total": 338,
+  "total": 339,
   "page": 1,
-  "per_page": 338,
+  "per_page": 339,
   "has_more": false,
   "result": [
     {
@@ -3642,6 +3642,25 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/9ea16fcb-3938-4d8c-91c4-240f37857943",
+      "name": "Glen Motz",
+      "sort_name": "Glen Motz",
+      "memberships": [
+        {
+          "person_id": "person/9ea16fcb-3938-4d8c-91c4-240f37857943",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "area/alberta_(medicine_hat—cardston—warner)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "gord.brown@parl.gc.ca",
       "gender": "male",
       "id": "person/33475893-cc35-428c-8e68-d1f137a929d5",
@@ -3963,7 +3982,7 @@
           "person_id": "person/7401da7f-0c23-4295-a6eb-19860d1e1eb9",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "liberal",
+          "on_behalf_of_id": "independent",
           "area_id": "area/the_north_(nunavut)",
           "legislative_period_id": "term/42"
         }
