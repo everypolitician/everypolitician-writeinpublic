@@ -1,7 +1,7 @@
 {
-  "total": 196,
+  "total": 200,
   "page": 1,
-  "per_page": 196,
+  "per_page": 200,
   "has_more": false,
   "result": [
     {
@@ -667,31 +667,6 @@
     },
     {
       "gender": "male",
-      "id": "person/151d196e-5026-4bd2-b5aa-92662578063a",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2952&type=deputado",
-      "name": "Carlos Cesar",
-      "sort_name": "Carlos Cesar",
-      "images": [
-        {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2952&type=deputado"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/151d196e-5026-4bd2-b5aa-92662578063a",
-          "organization_id": "chamber/assembleia_da_república",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/açores",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/5b5da872-ff20-479e-9e92-04fe922db63f",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=3963&type=deputado",
       "name": "Carlos Costa Neves",
@@ -708,6 +683,31 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/151d196e-5026-4bd2-b5aa-92662578063a",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2952&type=deputado",
+      "name": "Carlos César",
+      "sort_name": "Carlos César",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2952&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/151d196e-5026-4bd2-b5aa-92662578063a",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/açores",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1811,6 +1811,54 @@
       ]
     },
     {
+      "id": "person/3549efb4-d27a-4931-b9ab-099caa0e6d79",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2300&type=deputado",
+      "name": "Ilda Araújo Novo",
+      "sort_name": "Ilda Araújo Novo",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2300&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3549efb4-d27a-4931-b9ab-099caa0e6d79",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "area/viana_do_castelo",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3042d7e6-e670-42f2-9f97-61512de37b5c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4291&type=deputado",
+      "name": "Inês Lamego",
+      "sort_name": "Inês Lamego",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4291&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3042d7e6-e670-42f2-9f97-61512de37b5c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/aveiro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/ec27a871-57b3-4cc0-8904-cf97696582f4",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4064&type=deputado",
@@ -1930,6 +1978,31 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/abf4778c-2471-47fb-9a90-94ae74261be5",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1600&type=deputado",
+      "name": "Jamila Madeira",
+      "sort_name": "Jamila Madeira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1600&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/abf4778c-2471-47fb-9a90-94ae74261be5",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/faro",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2237,6 +2310,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/44c4d442-9dfa-4353-b371-69ef419c1caf",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1620&type=deputado",
       "name": "José António Silva",
@@ -2261,6 +2335,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ea60acc4-653f-468e-9148-f50482242b7c",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=183&type=deputado",
       "name": "José Apolinário",
@@ -2285,6 +2360,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/355896a2-4cc2-466e-9fc5-caf4213b175d",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=77&type=deputado",
       "name": "José Cesário",
@@ -2478,6 +2554,30 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7823d5ef-54bd-4d91-9888-a27d96169e7b",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4210&type=deputado",
+      "name": "José Rui Cruz",
+      "sort_name": "José Rui Cruz",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4210&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7823d5ef-54bd-4d91-9888-a27d96169e7b",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/viseu",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2843,6 +2943,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/ea407eb6-6519-40ad-86d4-41862efa2ffa",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4551&type=deputado",
       "name": "Júlia Rodrigues",
@@ -3215,6 +3316,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/1447e2c5-0a1e-494b-b911-e77704df73ce",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4476&type=deputado",
       "name": "Maria Celeste Cardoso",
@@ -3544,6 +3646,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3f4a04c7-7e27-4168-b308-ad579f0fdb10",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4162&type=deputado",
       "name": "Moisés Ferreira",
@@ -4275,6 +4378,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a97add93-b2b5-4dc0-9d35-2a4c1bb271b9",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=469&type=deputado",
       "name": "Porfírio Silva",
@@ -4907,6 +5011,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5c3180be-2bb9-4956-a691-190d4c0e5877",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1290&type=deputado",
       "name": "Álvaro Castelo Branco",
