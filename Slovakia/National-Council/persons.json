@@ -1,7 +1,7 @@
 {
-  "total": 150,
+  "total": 152,
   "page": 1,
-  "per_page": 150,
+  "per_page": 152,
   "has_more": false,
   "result": [
     {
@@ -1685,6 +1685,32 @@
           "role": "member",
           "on_behalf_of_id": "#sieŤ",
           "area_id": "area/trenčiansky",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ladislav_andreansky@nrsr.sk",
+      "gender": "male",
+      "id": "person/22b2b440-cf80-4ef8-b3d5-0978b60bf50a",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a7e9273a394ad5dbc388/image.jpeg",
+      "name": "Ladislav Andreánsky",
+      "sort_name": "Andreánsky, Ladislav",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a7e9273a394ad5dbc388/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/22b2b440-cf80-4ef8-b3d5-0978b60bf50a",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "smer_–_sociálna_demokracia",
+          "area_id": "area/Žilinský_kraj",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3607,6 +3633,30 @@
           "role": "member",
           "on_behalf_of_id": "most-hÍd",
           "area_id": "area/banskobystrický",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/eef9b900-89c7-449a-b6b5-97df8bf8374b",
+      "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=983&ImageWidth=140",
+      "name": "Zuzana Zimenová",
+      "sort_name": "Zuzana Zimenová",
+      "images": [
+        {
+          "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=983&ImageWidth=140"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/eef9b900-89c7-449a-b6b5-97df8bf8374b",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "#sieŤ",
+          "area_id": "area/trnavský",
           "legislative_period_id": "term/7"
         }
       ],
