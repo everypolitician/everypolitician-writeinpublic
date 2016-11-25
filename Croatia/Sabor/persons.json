@@ -1,7 +1,7 @@
 {
-  "total": 170,
+  "total": 172,
   "page": 1,
-  "per_page": 170,
+  "per_page": 172,
   "has_more": false,
   "result": [
     {
@@ -344,6 +344,31 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/3rd",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/136c9198-bf2e-4a63-be36-9ba3866d4175",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Božidar_Kalmeta.jpg",
+      "name": "Božidar Kalmeta",
+      "sort_name": "Božidar Kalmeta",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Božidar_Kalmeta.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/136c9198-bf2e-4a63-be36-9ba3866d4175",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/9th",
           "legislative_period_id": "term/8"
         }
       ],
@@ -2626,6 +2651,24 @@
           "role": "member",
           "on_behalf_of_id": "sdss",
           "area_id": "area/12th",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5d85ad5b-3d01-4700-971c-1430f76840b7",
+      "name": "Milijan Brkić",
+      "sort_name": "Milijan Brkić",
+      "memberships": [
+        {
+          "person_id": "person/5d85ad5b-3d01-4700-971c-1430f76840b7",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/4th",
           "legislative_period_id": "term/8"
         }
       ],
