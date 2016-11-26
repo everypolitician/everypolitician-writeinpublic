@@ -1,7 +1,7 @@
 {
-  "total": 51,
+  "total": 52,
   "page": 1,
-  "per_page": 51,
+  "per_page": 52,
   "has_more": false,
   "result": [
     {
@@ -1095,7 +1095,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "gc",
-          "area_id": "area/shepherds_outer_islands",
+          "area_id": "area/shepherds_island",
           "legislative_period_id": "term/11"
         }
       ],
@@ -1138,6 +1138,24 @@
           "role": "member",
           "on_behalf_of_id": "ump",
           "area_id": "area/tafea_outer_islands",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6443c33c-e525-4c3c-9b91-2a6290a42c57",
+      "name": "Uri Warawara",
+      "sort_name": "Uri Warawara",
+      "memberships": [
+        {
+          "person_id": "person/6443c33c-e525-4c3c-9b91-2a6290a42c57",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "gjp",
+          "area_id": "area/malo/aore",
           "legislative_period_id": "term/11"
         }
       ],
