@@ -1,7 +1,7 @@
 {
-  "total": 444,
+  "total": 447,
   "page": 1,
-  "per_page": 444,
+  "per_page": 447,
   "has_more": false,
   "result": [
     {
@@ -2500,6 +2500,32 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/18b150a1-ad72-4cfd-b6a6-9bafe4239580",
+      "image": "https://theunitedstates.io/images/congress/original/H001050.jpg",
+      "name": "Colleen Hanabusa",
+      "sort_name": "Hanabusa, Colleen",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/H001050.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/18b150a1-ad72-4cfd-b6a6-9bafe4239580",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:hi/cd:1",
+          "start_date": "2016-11-14",
+          "legislative_period_id": "term/114"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/19315ae9-0b4a-4535-b583-a7adef58396a",
       "image": "https://theunitedstates.io/images/congress/original/P000258.jpg",
@@ -4141,6 +4167,32 @@
           "area_id": "ocd-division/country:us/state:ca/cd:50",
           "legislative_period_id": "term/114"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a5e618b5-4d87-45e5-b209-8db211d23235",
+      "image": "https://theunitedstates.io/images/congress/original/E000296.jpg",
+      "name": "Dwight Evans",
+      "sort_name": "Evans, Dwight",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/E000296.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a5e618b5-4d87-45e5-b209-8db211d23235",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:pa/cd:2",
+          "start_date": "2016-11-14",
+          "legislative_period_id": "term/114"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -6003,6 +6055,32 @@
           "area_id": "ocd-division/country:us/state:oh/cd:16",
           "legislative_period_id": "term/114"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/0ea38091-2b71-4f9f-bacf-296d00b7cbb9",
+      "image": "https://theunitedstates.io/images/congress/original/C001108.jpg",
+      "name": "James Comer",
+      "sort_name": "Comer, James",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/C001108.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ea38091-2b71-4f9f-bacf-296d00b7cbb9",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:ky/cd:1",
+          "start_date": "2016-11-14",
+          "legislative_period_id": "term/114"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -9871,6 +9949,12 @@
       "image": "https://theunitedstates.io/images/congress/original/C001037.jpg",
       "name": "Michael E. Capuano",
       "sort_name": "Capuano, Michael",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RepMikeCapuano"
+        }
+      ],
       "links": [
         {
           "url": "RepMichaelCapuano",
@@ -9891,9 +9975,6 @@
           "area_id": "ocd-division/country:us/state:ma/cd:7",
           "legislative_period_id": "term/114"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
