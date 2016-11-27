@@ -1,7 +1,7 @@
 {
-  "total": 652,
+  "total": 654,
   "page": 1,
-  "per_page": 652,
+  "per_page": 654,
   "has_more": false,
   "result": [
     {
@@ -2187,6 +2187,25 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/nordrhein-westfalen",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9bab2cc8-14fa-424b-b8df-3f86527f339d",
+      "name": "Bettina Bähr-Losse",
+      "sort_name": "Bahr-Losse, Bettina!",
+      "memberships": [
+        {
+          "person_id": "person/9bab2cc8-14fa-424b-b8df-3f86527f339d",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "spd",
+          "area_id": "area/nordrhein-westfalen",
+          "start_date": "2016-10-01",
           "legislative_period_id": "term/18"
         }
       ],
@@ -7204,6 +7223,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/niedersachsen",
+          "end_date": "2016-10-31",
           "legislative_period_id": "term/18"
         }
       ],
@@ -13769,6 +13789,7 @@
           "role": "member",
           "on_behalf_of_id": "spd",
           "area_id": "area/nordrhein-westfalen",
+          "end_date": "2016-09-30",
           "legislative_period_id": "term/18"
         }
       ]
@@ -14497,6 +14518,25 @@
           "area_id": "area/baden-württemberg",
           "legislative_period_id": "term/18"
         }
+      ]
+    },
+    {
+      "id": "person/88f7c5ea-3e63-4f0d-8b3a-bd11568811cd",
+      "name": "Rainer Hajek",
+      "sort_name": "Hajek, Rainer!",
+      "memberships": [
+        {
+          "person_id": "person/88f7c5ea-3e63-4f0d-8b3a-bd11568811cd",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/niedersachsen",
+          "start_date": "2016-11-01",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
