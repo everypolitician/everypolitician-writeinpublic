@@ -1,7 +1,7 @@
 {
-  "total": 169,
+  "total": 170,
   "page": 1,
-  "per_page": 169,
+  "per_page": 170,
   "has_more": false,
   "result": [
     {
@@ -1860,6 +1860,31 @@
           "role": "member",
           "on_behalf_of_id": "partido_cambio_radical",
           "area_id": "area/bolivar",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hernan.calvache@camara.gov.co",
+      "id": "person/2755fd4f-662b-46e7-aae8-9b1444ac158d",
+      "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
+      "name": "HERNÁN GUSTAVO ESTUPIÑAN CALVACHE",
+      "sort_name": "HERNÁN GUSTAVO ESTUPIÑAN CALVACHE",
+      "images": [
+        {
+          "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2755fd4f-662b-46e7-aae8-9b1444ac158d",
+          "organization_id": "chamber/cámara_de_representantes",
+          "role": "member",
+          "on_behalf_of_id": "partido_liberal_colombiano",
+          "area_id": "area/nariÑo",
           "legislative_period_id": "term/2014"
         }
       ],
