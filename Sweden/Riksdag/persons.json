@@ -1,7 +1,7 @@
 {
-  "total": 418,
+  "total": 419,
   "page": 1,
-  "per_page": 418,
+  "per_page": 419,
   "has_more": false,
   "result": [
     {
@@ -3611,6 +3611,33 @@
           "area_id": "area/skåne_läns_södra",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/530f2aef-a468-43e4-b688-89cd4aeac05f",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/997ffdd9-964a-48e4-8dd3-202b36a5cd86_max.jpg",
+      "name": "Faradj Koliev",
+      "sort_name": "Faradj",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/997ffdd9-964a-48e4-8dd3-202b36a5cd86_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/530f2aef-a468-43e4-b688-89cd4aeac05f",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-01-09",
+          "end_date": "2017-06-30",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -7401,6 +7428,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_län",
+          "end_date": "2017-01-08",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/69e76c14-3567-4c43-aed3-93561ce6043d",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-07-01",
           "legislative_period_id": "term/2014"
         }
       ]
