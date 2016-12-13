@@ -1,7 +1,7 @@
 {
-  "total": 130,
+  "total": 137,
   "page": 1,
-  "per_page": 130,
+  "per_page": 137,
   "has_more": false,
   "result": [
     {
@@ -152,6 +152,7 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/harju-_ja_raplamaa",
           "start_date": "2015-04-09",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -254,6 +255,7 @@
           "role": "member",
           "on_behalf_of_id": "SDE",
           "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ]
@@ -472,6 +474,15 @@
           "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
           "end_date": "2015-04-08",
           "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/4ab03025-d72c-4b06-94b9-e23ec9d32e3a",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+          "start_date": "2016-11-23",
+          "legislative_period_id": "term/13"
         }
       ]
     },
@@ -500,6 +511,33 @@
           "role": "member",
           "on_behalf_of_id": "EVA",
           "area_id": "area/harju-_ja_raplamaa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "barbi.pilvre@riigikogu.ee",
+      "gender": "female",
+      "id": "person/0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg",
+      "name": "Barbi Pilvre",
+      "sort_name": "Barbi Pilvre",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+          "start_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -631,6 +669,24 @@
           "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
           "legislative_period_id": "term/13"
         }
+      ]
+    },
+    {
+      "id": "person/5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
+      "name": "Eevi Paasmäe",
+      "sort_name": "Eevi Paasmäe",
+      "memberships": [
+        {
+          "person_id": "person/5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "start_date": "2016-11-24",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -798,6 +854,15 @@
           "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
           "end_date": "2015-09-14",
           "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/03d7b8ee-b3b7-4548-a696-fd243ef706d3",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
+          "start_date": "2016-11-23",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -824,6 +889,15 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/võru-,_valga-_ja_põlvamaa",
           "end_date": "2015-04-08",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/võru-,_valga-_ja_põlvamaa",
+          "start_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -852,6 +926,15 @@
           "area_id": "area/harju-_ja_raplamaa",
           "start_date": "2015-04-09",
           "end_date": "2015-09-14",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/7d2af5ac-8100-4f0d-867d-787735a96723",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/harju-_ja_raplamaa",
+          "start_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1023,6 +1106,27 @@
       ]
     },
     {
+      "email": "helmut.hallemaa@riigikogu.ee",
+      "gender": "male",
+      "id": "person/24974763-c61d-4a42-9da1-ac8beb834dfa",
+      "name": "Helmut Hallemaa",
+      "sort_name": "Helmut Hallemaa",
+      "memberships": [
+        {
+          "person_id": "person/24974763-c61d-4a42-9da1-ac8beb834dfa",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/järva-_ja_viljandimaa",
+          "start_date": "2016-11-24",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Henn.Polluaas@riigikogu.ee",
       "gender": "male",
       "id": "person/bc938a7e-53f7-4163-9d7c-f8772f3160b3",
@@ -1118,6 +1222,7 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
           "start_date": "2015-04-09",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ]
@@ -1463,6 +1568,15 @@
           "area_id": "area/järva-_ja_viljandimaa",
           "end_date": "2015-04-08",
           "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/508adc11-672e-401d-bf60-7912e9ebf6fc",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/järva-_ja_viljandimaa",
+          "start_date": "2016-11-23",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1561,6 +1675,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/harju-_ja_raplamaa",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1599,6 +1714,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/pärnumaa",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ]
@@ -1650,6 +1766,7 @@
           "on_behalf_of_id": "SDE",
           "area_id": "area/hiiu-,_lääne-_ja_saaremaa",
           "start_date": "2015-09-16",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1981,6 +2098,15 @@
           "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
           "end_date": "2015-04-08",
           "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/e6279173-c122-46a0-a4e1-0155c8df817c",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+          "start_date": "2016-11-23",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -2013,6 +2139,7 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/järva-_ja_viljandimaa",
           "start_date": "2015-04-09",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2188,6 +2315,27 @@
       ]
     },
     {
+      "email": "liisa.oviir@riigikogu.ee",
+      "gender": "female",
+      "id": "person/cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
+      "name": "Liisa Oviir",
+      "sort_name": "Liisa Oviir",
+      "memberships": [
+        {
+          "person_id": "person/cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/harju-_ja_raplamaa",
+          "start_date": "2016-11-24",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Madis.Milling@riigikogu.ee",
       "gender": "male",
       "id": "person/5a8a4dd6-7a7f-4180-8d69-8a82370fc01a",
@@ -2238,6 +2386,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/järva-_ja_viljandimaa",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2411,6 +2560,15 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
           "end_date": "2016-09-12",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/e8cd9094-5cf9-4b4e-89bb-b1b60119cef3",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "start_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ]
@@ -2659,6 +2817,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/ida-virumaa",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2692,6 +2851,7 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/jõgeva-_ja_tartumaa",
           "start_date": "2015-04-09",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2757,6 +2917,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2992,6 +3153,7 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/järva-_ja_viljandimaa",
           "start_date": "2016-07-07",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3155,6 +3317,7 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/tartu_linn",
           "start_date": "2016-09-13",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3378,6 +3541,7 @@
           "on_behalf_of_id": "SDE",
           "area_id": "area/harju-_ja_raplamaa",
           "start_date": "2015-09-15",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ]
@@ -3434,6 +3598,15 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/harju-_ja_raplamaa",
           "end_date": "2015-04-08",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/6b71eefc-413d-4db6-88f0-d7ff845ebaf1",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/harju-_ja_raplamaa",
+          "start_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ]
@@ -3524,6 +3697,33 @@
           "role": "member",
           "on_behalf_of_id": "RE",
           "area_id": "area/jõgeva-_ja_tartumaa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tiit.terik@riigikogu.ee",
+      "gender": "male",
+      "id": "person/71bd38d5-bc6d-4819-bcba-0234ab7f694f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg",
+      "name": "Tiit Terik",
+      "sort_name": "Tiit Terik",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/71bd38d5-bc6d-4819-bcba-0234ab7f694f",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "start_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3628,6 +3828,25 @@
       ]
     },
     {
+      "email": "toomas.vainaste@riigikogu.ee",
+      "id": "person/354ef3a8-150a-4226-9442-c8fcf780dfc0",
+      "name": "Toomas Väinaste",
+      "sort_name": "Toomas Väinaste",
+      "memberships": [
+        {
+          "person_id": "person/354ef3a8-150a-4226-9442-c8fcf780dfc0",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "start_date": "2016-11-24",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Uno.Kaskpeit@riigikogu.ee",
       "gender": "male",
       "id": "person/d71f2c0b-5847-47bd-91e0-ee98bb98d6ba",
@@ -3705,6 +3924,15 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/jõgeva-_ja_tartumaa",
           "end_date": "2015-04-08",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/173df2d0-3584-4a91-bd88-abd1799f83d6",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "RE",
+          "area_id": "area/jõgeva-_ja_tartumaa",
+          "start_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3803,6 +4031,7 @@
           "on_behalf_of_id": "SDE",
           "area_id": "area/harju-_ja_raplamaa",
           "start_date": "2015-09-15",
+          "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3993,6 +4222,25 @@
           "on_behalf_of_id": "RE",
           "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
           "start_date": "2015-04-09",
+          "end_date": "2016-11-23",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5603c46f-d8f8-41d6-9957-472c68f34c27",
+      "name": "Vladimir Arhipov",
+      "sort_name": "Vladimir Arhipov",
+      "memberships": [
+        {
+          "person_id": "person/5603c46f-d8f8-41d6-9957-472c68f34c27",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "start_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
