@@ -1,7 +1,7 @@
 {
-  "total": 657,
+  "total": 658,
   "page": 1,
-  "per_page": 657,
+  "per_page": 658,
   "has_more": false,
   "result": [
     {
@@ -2744,6 +2744,29 @@
           "role": "member",
           "on_behalf_of_id": "labour",
           "area_id": "uk.org.publicwhip/cons/174",
+          "legislative_period_id": "term/56"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/cc09dec7-d157-43ea-a3dd-9805753c2e17",
+      "name": "Caroline Johnson",
+      "sort_name": "Johnson, Dr Caroline",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "drcarolinej"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cc09dec7-d157-43ea-a3dd-9805753c2e17",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "uk.org.publicwhip/cons/511",
+          "start_date": "2016-12-08",
           "legislative_period_id": "term/56"
         }
       ]
@@ -17668,11 +17691,12 @@
       ]
     },
     {
+      "email": "sarah.olney.mp@parliament.uk",
       "gender": "female",
       "id": "person/2e21bbae-e95a-47e3-a50d-5e3480c9e0a1",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sarah_Olney,_Liberal_Democrat_candidate_in_Richmond_Park_by-election,_pictured_in_Richmond_Park.jpg",
       "name": "Sarah Olney",
-      "sort_name": "Sarah Olney",
+      "sort_name": "Olney, Sarah",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sarah_Olney,_Liberal_Democrat_candidate_in_Richmond_Park_by-election,_pictured_in_Richmond_Park.jpg"
@@ -18477,6 +18501,7 @@
           "role": "member",
           "on_behalf_of_id": "conservative",
           "area_id": "uk.org.publicwhip/cons/511",
+          "end_date": "2016-11-04",
           "legislative_period_id": "term/56"
         }
       ],
