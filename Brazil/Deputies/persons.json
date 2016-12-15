@@ -1,7 +1,7 @@
 {
-  "total": 582,
+  "total": 583,
   "page": 1,
-  "per_page": 582,
+  "per_page": 583,
   "has_more": false,
   "result": [
     {
@@ -910,6 +910,7 @@
       ]
     },
     {
+      "email": "dep.andreamaral@camara.leg.br",
       "id": "person/847e9c0c-11f1-42b1-9521-7acb7c3c3302",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/195143.jpg",
       "name": "ANDRÉ AMARAL",
@@ -2011,6 +2012,7 @@
       ]
     },
     {
+      "email": "dep.boscocosta@camara.leg.br",
       "gender": "male",
       "id": "person/79fe0990-9268-414e-acea-fc2d0e97ef9c",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74052.jpg",
@@ -2026,7 +2028,7 @@
           "person_id": "person/79fe0990-9268-414e-acea-fc2d0e97ef9c",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "_unknown",
+          "on_behalf_of_id": "PROS",
           "area_id": "area/se",
           "legislative_period_id": "term/55"
         }
@@ -6217,6 +6219,7 @@
       ]
     },
     {
+      "email": "dep.ildonmarques@camara.leg.br",
       "gender": "male",
       "id": "person/1281f1ec-9227-4680-86a8-9a259f2d8583",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/194592.jpg",
@@ -10316,6 +10319,7 @@
       ]
     },
     {
+      "email": "dep.moisesdiniz@camara.leg.br",
       "id": "person/a5d6b2f3-bd9d-428b-b719-c78a3f98f16c",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/195278.jpg",
       "name": "MOISÉS DINIZ",
@@ -10577,6 +10581,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bf3d5cb4-dc55-4d9a-8718-fa30e1f28c4b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193069.jpg",
       "name": "NELSON NAHIM",
@@ -10974,6 +10979,7 @@
       ]
     },
     {
+      "email": "dep.osmarbertoldi@camara.leg.br",
       "gender": "male",
       "id": "person/137c0806-e653-491d-96e7-cab98e2bdeee",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/180545.jpg",
@@ -10989,7 +10995,7 @@
           "person_id": "person/137c0806-e653-491d-96e7-cab98e2bdeee",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PMB",
+          "on_behalf_of_id": "DEM",
           "area_id": "area/pr",
           "legislative_period_id": "term/55"
         }
@@ -11781,6 +11787,30 @@
       ]
     },
     {
+      "id": "person/0ec1e56c-44de-4920-bf7b-4c5640064a96",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg",
+      "name": "POLLYANA GAMA",
+      "sort_name": "POLLYANA GAMA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ec1e56c-44de-4920-bf7b-4c5640064a96",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "PPS",
+          "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.pompeodemattos@camara.leg.br",
       "gender": "male",
       "id": "person/9e58633a-790b-45b2-b614-751e54cff945",
@@ -12264,6 +12294,7 @@
       ]
     },
     {
+      "email": "dep.ricardobentinho@camara.leg.br",
       "id": "person/b61eefcc-1c77-4214-b8ce-14d130d20721",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg",
       "name": "RICARDO BENTINHO",
@@ -13020,6 +13051,7 @@
       ]
     },
     {
+      "email": "dep.rosinhadaadefal@camara.leg.br",
       "gender": "female",
       "id": "person/c3345ae6-7a42-469b-92e7-b2af8672b263",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/146949.jpg",
@@ -13035,7 +13067,7 @@
           "person_id": "person/c3345ae6-7a42-469b-92e7-b2af8672b263",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "S.PART.",
+          "on_behalf_of_id": "PTdoB",
           "area_id": "area/al",
           "legislative_period_id": "term/55"
         }
