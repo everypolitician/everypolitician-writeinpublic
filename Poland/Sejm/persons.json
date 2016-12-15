@@ -1,7 +1,7 @@
 {
-  "total": 471,
+  "total": 470,
   "page": 1,
-  "per_page": 471,
+  "per_page": 470,
   "has_more": false,
   "result": [
     {
@@ -873,8 +873,14 @@
     {
       "gender": "female",
       "id": "person/59ea5f84-d8f6-48f3-9fdc-9f3bd8a5f922",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Anna_Kwiecień_Sejm_2016.jpg",
       "name": "Anna Kwiecień",
       "sort_name": "Anna Kwiecień",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Anna_Kwiecień_Sejm_2016.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/59ea5f84-d8f6-48f3-9fdc-9f3bd8a5f922",
@@ -5488,33 +5494,15 @@
     },
     {
       "gender": "female",
-      "id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
+      "id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinga_Gajewska-Płochocka.jpg",
-      "name": "Kinga Gajewska",
-      "sort_name": "Kinga Gajewska",
+      "name": "Kinga Gajewska-Płochocka",
+      "sort_name": "Kinga Gajewska-Płochocka",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinga_Gajewska-Płochocka.jpg"
         }
       ],
-      "memberships": [
-        {
-          "person_id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
-          "organization_id": "chamber/sejm",
-          "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
-          "area_id": "20-8",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
-      "name": "Kinga Gajewska-Płochocka",
-      "sort_name": "Kinga Gajewska-Płochocka",
       "memberships": [
         {
           "person_id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
@@ -11106,8 +11094,14 @@
     {
       "gender": "male",
       "id": "person/51d161b2-17af-4ec5-b279-1d6cbc1dfb5f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zbigniew_Sosnowski_Sejm_2016.JPG",
       "name": "Zbigniew Sosnowski",
       "sort_name": "Zbigniew Sosnowski",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zbigniew_Sosnowski_Sejm_2016.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/51d161b2-17af-4ec5-b279-1d6cbc1dfb5f",

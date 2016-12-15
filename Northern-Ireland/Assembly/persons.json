@@ -1,7 +1,7 @@
 {
-  "total": 109,
+  "total": 110,
   "page": 1,
-  "per_page": 109,
+  "per_page": 110,
   "has_more": false,
   "result": [
     {
@@ -1120,6 +1120,7 @@
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/38-NI",
           "start_date": "2016-05-07",
+          "end_date": "2016-12-01",
           "legislative_period_id": "term/5"
         }
       ],
@@ -2584,6 +2585,26 @@
           "on_behalf_of_id": "dup",
           "area_id": "uk.org.publicwhip/cons/400-NI",
           "start_date": "2016-05-07",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6008a823-de3d-4997-82cb-42ab0711d44d",
+      "name": "Órlaithí Flynn",
+      "sort_name": "Órlaithí Flynn",
+      "memberships": [
+        {
+          "person_id": "person/6008a823-de3d-4997-82cb-42ab0711d44d",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "sinn-fein",
+          "area_id": "uk.org.publicwhip/cons/38-NI",
+          "start_date": "2016-12-02",
           "legislative_period_id": "term/5"
         }
       ],
