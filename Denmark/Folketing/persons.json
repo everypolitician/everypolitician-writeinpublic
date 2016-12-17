@@ -1,7 +1,7 @@
 {
-  "total": 198,
+  "total": 200,
   "page": 1,
-  "per_page": 198,
+  "per_page": 200,
   "has_more": false,
   "result": [
     {
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "email": "anders.johansson@ft.dk",
+      "email": "Anders.Johansson@ft.dk",
       "gender": "male",
       "id": "person/dac018ed-b46e-46ce-a07c-170dff80d15b",
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Anders%20Johansson/Anders_Johansson_133.jpg.ashx",
@@ -495,6 +495,25 @@
           "area_id": "area/zealand",
           "legislative_period_id": "term/2015"
         }
+      ]
+    },
+    {
+      "email": "Brigitte.Jerkel@ft.dk",
+      "id": "person/b3e3818b-ca48-4015-85f4-fb888df63c44",
+      "name": "Brigitte Klintskov Jerkel",
+      "sort_name": "Brigitte Klintskov Jerkel",
+      "memberships": [
+        {
+          "person_id": "person/b3e3818b-ca48-4015-85f4-fb888df63c44",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
+          "area_id": "area/zealand",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4159,6 +4178,25 @@
           "role": "member",
           "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
           "area_id": "area/north_jutland",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Orla.Osterby@ft.dk",
+      "id": "person/07931c6f-81e9-4cfe-b994-70e72c985c9c",
+      "name": "Orla Østerby",
+      "sort_name": "Orla Østerby",
+      "memberships": [
+        {
+          "person_id": "person/07931c6f-81e9-4cfe-b994-70e72c985c9c",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
+          "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
       ],
