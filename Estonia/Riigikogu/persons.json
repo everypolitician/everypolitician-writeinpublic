@@ -1,7 +1,7 @@
 {
-  "total": 137,
+  "total": 144,
   "page": 1,
-  "per_page": 137,
+  "per_page": 144,
   "has_more": false,
   "result": [
     {
@@ -29,6 +29,32 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/tartu_linn",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/2ff6f13d-b5e0-4948-811a-b60281e6f653",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Maatee_Aet.IMG_2928.JPG",
+      "name": "Aet Maatee",
+      "sort_name": "Aet Maatee",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Maatee_Aet.IMG_2928.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2ff6f13d-b5e0-4948-811a-b60281e6f653",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-11-24",
+          "end_date": "2016-11-25",
           "legislative_period_id": "term/13"
         }
       ],
@@ -119,6 +145,24 @@
           "role": "member",
           "on_behalf_of_id": "RE",
           "area_id": "area/harju-_ja_raplamaa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
+      "name": "Alar Nääme",
+      "sort_name": "Alar Nääme",
+      "memberships": [
+        {
+          "person_id": "person/77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-12-10",
           "legislative_period_id": "term/13"
         }
       ],
@@ -519,6 +563,32 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/695cff26-9439-4391-bf17-f60856aa9331",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarapuu,_Arvo.IMG_5545.JPG",
+      "name": "Arvo Sarapuu",
+      "sort_name": "Arvo Sarapuu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarapuu,_Arvo.IMG_5545.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/695cff26-9439-4391-bf17-f60856aa9331",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2016-12-05",
+          "end_date": "2016-12-06",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "barbi.pilvre@riigikogu.ee",
       "gender": "female",
       "id": "person/0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
@@ -682,6 +752,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "start_date": "2016-11-24",
+          "end_date": "2016-12-09",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1191,6 +1262,26 @@
       ]
     },
     {
+      "email": "igor.kravtsenko@riigikogu.ee",
+      "id": "person/a1e48234-395a-4d6c-b2f8-777db773c5d1",
+      "name": "Igor Kravtšenko",
+      "sort_name": "Igor Kravtšenko",
+      "memberships": [
+        {
+          "person_id": "person/a1e48234-395a-4d6c-b2f8-777db773c5d1",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "start_date": "2016-12-06",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Imre.Sooaar@riigikogu.ee",
       "gender": "male",
       "id": "person/dddd7e0d-18de-495e-a5b1-3355d86b3a54",
@@ -1225,6 +1316,33 @@
           "end_date": "2016-11-23",
           "legislative_period_id": "term/13"
         }
+      ]
+    },
+    {
+      "email": "inara.luigas@riigikogu.ee",
+      "gender": "female",
+      "id": "person/be215647-b37d-439b-81fe-fd0f4f2c332c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/KE_Inara_Luigas.jpg",
+      "name": "Inara Luigas",
+      "sort_name": "Inara Luigas",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/KE_Inara_Luigas.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/be215647-b37d-439b-81fe-fd0f4f2c332c",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "SDE",
+          "area_id": "area/võru-,_valga-_ja_põlvamaa",
+          "start_date": "2016-11-25",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2593,6 +2711,7 @@
           "on_behalf_of_id": "SDE",
           "area_id": "area/pärnumaa",
           "start_date": "2015-04-09",
+          "end_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2655,6 +2774,26 @@
           "on_behalf_of_id": "IRL",
           "area_id": "area/lääne-virumaa",
           "end_date": "2015-04-08",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "marko.sorin@riigikogu.ee",
+      "id": "person/7543bb1d-1f30-49dc-985e-de023d6235ca",
+      "name": "Marko Šorin",
+      "sort_name": "Marko Šorin",
+      "memberships": [
+        {
+          "person_id": "person/7543bb1d-1f30-49dc-985e-de023d6235ca",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/pärnumaa",
+          "start_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2818,6 +2957,15 @@
           "on_behalf_of_id": "KESK",
           "area_id": "area/ida-virumaa",
           "end_date": "2016-11-23",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/1d3c8a79-3acc-438b-b4d4-cc1cb5f74408",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/ida-virumaa",
+          "start_date": "2016-12-10",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3396,6 +3544,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/tallinna_mustamäe_ja_nõmme_linnaosa",
+          "end_date": "2016-12-05",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3668,6 +3817,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "area_id": "area/võru-,_valga-_ja_põlvamaa",
+          "end_date": "2016-12-10",
           "legislative_period_id": "term/13"
         }
       ]
@@ -3788,6 +3938,26 @@
           "role": "member",
           "on_behalf_of_id": "RE",
           "area_id": "area/pärnumaa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "toomas.paur@riigikogu.ee",
+      "id": "person/114fbc7c-a136-4547-bbc3-8a573c913724",
+      "name": "Toomas Paur",
+      "sort_name": "Toomas Paur",
+      "memberships": [
+        {
+          "person_id": "person/114fbc7c-a136-4547-bbc3-8a573c913724",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "KESK",
+          "area_id": "area/võru-,_valga-_ja_põlvamaa",
+          "start_date": "2016-12-11",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4241,6 +4411,7 @@
           "role": "member",
           "on_behalf_of_id": "KESK",
           "start_date": "2016-11-24",
+          "end_date": "2016-11-24",
           "legislative_period_id": "term/13"
         }
       ],
