@@ -1,7 +1,7 @@
 {
-  "total": 419,
+  "total": 421,
   "page": 1,
-  "per_page": 419,
+  "per_page": 421,
   "has_more": false,
   "result": [
     {
@@ -4349,6 +4349,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/norrbottens_län",
+          "end_date": "2017-01-31",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/d1690525-8533-48d2-87fa-2ab8a9f327d4",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/norrbottens_län",
+          "start_date": "2017-08-02",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -5151,6 +5161,16 @@
           "on_behalf_of_id": "KD",
           "area_id": "area/stockholms_län",
           "start_date": "2016-03-05",
+          "end_date": "2017-01-11",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/8a766c25-6fda-4684-9119-bf6843a504bd",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-02-13",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -7723,6 +7743,16 @@
           "area_id": "area/norrbottens_län",
           "start_date": "2015-09-01",
           "end_date": "2016-04-04",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/53c375c9-9610-459e-b345-b1d0cff90b06",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/norrbottens_län",
+          "start_date": "2017-02-01",
+          "end_date": "2017-08-01",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -10364,6 +10394,32 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/b85a4f8b-29cb-42a1-87bd-4c9cdf651f90",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e6e190d-6f11-496a-a26c-5f4a8a662a77_max.jpg",
+      "name": "Petra Ekerum",
+      "sort_name": "Petra",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4e6e190d-6f11-496a-a26c-5f4a8a662a77_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b85a4f8b-29cb-42a1-87bd-4c9cdf651f90",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västra_götalands_läns_västra",
+          "start_date": "2017-01-10",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "petter.loberg@riksdagen.se",
       "gender": "male",
       "id": "person/5cb26de3-6543-406e-837e-59508cf98896",
@@ -11005,6 +11061,16 @@
           "start_date": "2016-01-14",
           "end_date": "2016-03-04",
           "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/d51ef631-925f-4fb3-82ff-e630506b2e90",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-01-12",
+          "end_date": "2017-02-12",
+          "legislative_period_id": "term/2014"
         }
       ],
       "contact_details": [
@@ -11386,6 +11452,33 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/c91b7131-7f1e-46c9-8d58-1c1c6585c39a",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c86f1b-2c88-4ad2-8659-92c728971622_max.jpg",
+      "name": "Sofia Modigh",
+      "sort_name": "Sofia",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/34c86f1b-2c88-4ad2-8659-92c728971622_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c91b7131-7f1e-46c9-8d58-1c1c6585c39a",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-01-02",
+          "end_date": "2017-04-30",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "solveig.zander@riksdagen.se",
       "gender": "female",
       "id": "person/d4c43319-738e-4004-b626-6f2c604de799",
@@ -11600,7 +11693,7 @@
           "on_behalf_of_id": "KD",
           "area_id": "area/stockholms_kommun",
           "start_date": "2016-10-11",
-          "end_date": "2017-04-30",
+          "end_date": "2017-01-01",
           "legislative_period_id": "term/2014"
         }
       ],
