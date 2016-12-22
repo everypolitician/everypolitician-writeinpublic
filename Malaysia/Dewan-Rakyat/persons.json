@@ -775,8 +775,8 @@
     {
       "gender": "male",
       "id": "person/f499c0c4-c14e-4b46-8424-a3dc3380d5a9",
-      "name": "Charles Santiago",
-      "sort_name": "Charles Santiago",
+      "name": "Charles Anthony R. Santiago",
+      "sort_name": "Charles Anthony R. Santiago",
       "memberships": [
         {
           "person_id": "person/f499c0c4-c14e-4b46-8424-a3dc3380d5a9",
@@ -1959,8 +1959,8 @@
       "gender": "male",
       "id": "person/3cead93a-4d56-4fbc-a9a2-6b07c296a70d",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yang_Berhormat_Khairy_Jamaluddin_Abu_Bakar.jpg",
-      "name": "Khairy Jamaluddin",
-      "sort_name": "Khairy Jamaluddin",
+      "name": "Khairy Jamaluddin Abu Bakar",
+      "sort_name": "Khairy Jamaluddin Abu Bakar",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yang_Berhormat_Khairy_Jamaluddin_Abu_Bakar.jpg"
@@ -2776,6 +2776,25 @@
           "role": "member",
           "on_behalf_of_id": "PAS",
           "area_id": "P035-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/72399acf-ef60-4f0e-9111-18deb48eccb6",
+      "name": "Mohd Shafie Apdal",
+      "sort_name": "Mohd Shafie Apdal",
+      "memberships": [
+        {
+          "person_id": "person/72399acf-ef60-4f0e-9111-18deb48eccb6",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "UMNO",
+          "area_id": "P189-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3755,25 +3774,6 @@
           "role": "member",
           "on_behalf_of_id": "UMNO",
           "area_id": "P042-13",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/72399acf-ef60-4f0e-9111-18deb48eccb6",
-      "name": "Shafie Apdal",
-      "sort_name": "Shafie Apdal",
-      "memberships": [
-        {
-          "person_id": "person/72399acf-ef60-4f0e-9111-18deb48eccb6",
-          "organization_id": "chamber/dewan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "UMNO",
-          "area_id": "P189-13",
           "legislative_period_id": "term/13"
         }
       ],
