@@ -736,6 +736,31 @@
     },
     {
       "gender": "male",
+      "id": "person/7c66122a-3677-43ef-93d3-b52fbbea52df",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Budiman_Zohdi_Picture.png",
+      "name": "Budiman Mohd Zohdi",
+      "sort_name": "Budiman Mohd Zohdi",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Budiman_Zohdi_Picture.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7c66122a-3677-43ef-93d3-b52fbbea52df",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "UMNO",
+          "area_id": "P093-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/aca09441-f9c3-41c1-bfb0-9faeb4625ad0",
       "name": "Bung Moktar Radin",
       "sort_name": "Bung Moktar Radin",
@@ -1333,7 +1358,7 @@
           "person_id": "person/8c9f0635-13ec-41a1-b58d-9828325597ab",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PKR",
+          "on_behalf_of_id": "WARISAN",
           "area_id": "P174-13",
           "legislative_period_id": "term/13"
         }
@@ -1363,8 +1388,8 @@
     {
       "gender": "male",
       "id": "person/f3638ea0-233b-44ac-ba16-74ab227d6755",
-      "name": "Irmohizan Ibrahim",
-      "sort_name": "Irmohizan Ibrahim",
+      "name": "Irmohizam Ibrahim",
+      "sort_name": "Irmohizam Ibrahim",
       "memberships": [
         {
           "person_id": "person/f3638ea0-233b-44ac-ba16-74ab227d6755",
@@ -1858,8 +1883,8 @@
       "gender": "male",
       "id": "person/6fdda8d7-3922-44f5-8cd6-7c4131291a6e",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Karpal_Singh.jpg",
-      "name": "Karpal Singh",
-      "sort_name": "Karpal Singh",
+      "name": "Karpal Singh Ram Singh",
+      "sort_name": "Karpal Singh Ram Singh",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Karpal_Singh.jpg"
@@ -1939,7 +1964,7 @@
           "person_id": "person/6e1093b6-14dc-466f-9aef-a8cda38b20a4",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PAN",
+          "on_behalf_of_id": "AMANAH",
           "area_id": "P108-13",
           "legislative_period_id": "term/13"
         }
@@ -2244,24 +2269,6 @@
       ]
     },
     {
-      "id": "person/4c871198-4871-4087-9bbc-3ddbf02406ce",
-      "name": "Madius Tangau",
-      "sort_name": "Madius Tangau",
-      "memberships": [
-        {
-          "person_id": "person/4c871198-4871-4087-9bbc-3ddbf02406ce",
-          "organization_id": "chamber/dewan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "UPKO",
-          "area_id": "P170-13",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "male",
       "id": "person/c7cbca80-d46f-4cea-bf1f-c2234f448c20",
       "name": "Mah Siew Keong",
@@ -2311,24 +2318,6 @@
           "role": "member",
           "on_behalf_of_id": "PAS",
           "area_id": "P008-13",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/94d6f120-94eb-4c99-b12c-7aea1f13f624",
-      "name": "Manivannan Gowindasamy",
-      "sort_name": "Manivannan Gowindasamy",
-      "memberships": [
-        {
-          "person_id": "person/94d6f120-94eb-4c99-b12c-7aea1f13f624",
-          "organization_id": "chamber/dewan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "PKR",
-          "area_id": "P109-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2441,6 +2430,24 @@
           "role": "member",
           "on_behalf_of_id": "PRS",
           "area_id": "P202-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/215033cf-9262-411d-b738-2b866520df27",
+      "name": "Mastura Mohd Yazid",
+      "sort_name": "Mastura Mohd Yazid",
+      "memberships": [
+        {
+          "person_id": "person/215033cf-9262-411d-b738-2b866520df27",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "UMNO",
+          "area_id": "P067-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2563,7 +2570,7 @@
           "person_id": "person/5a77d153-908a-487b-a1d4-47a68a3aabbf",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PAN",
+          "on_behalf_of_id": "AMANAH",
           "area_id": "P113-13",
           "legislative_period_id": "term/13"
         }
@@ -2644,7 +2651,7 @@
           "person_id": "person/f934fecb-8efb-4adb-ba15-5fd2f30d97bd",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PAN",
+          "on_behalf_of_id": "AMANAH",
           "area_id": "P031-13",
           "legislative_period_id": "term/13"
         }
@@ -2737,7 +2744,7 @@
           "person_id": "person/72399acf-ef60-4f0e-9111-18deb48eccb6",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "UMNO",
+          "on_behalf_of_id": "WARISAN",
           "area_id": "P189-13",
           "legislative_period_id": "term/13"
         }
@@ -2780,7 +2787,7 @@
           "person_id": "person/aa6cc641-ffa0-4747-8c23-931768e02062",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "UMNO",
+          "on_behalf_of_id": "PPBM",
           "area_id": "P143-13",
           "legislative_period_id": "term/13"
         }
@@ -2799,7 +2806,7 @@
           "person_id": "person/1ebb6468-32cd-4399-beb9-b9752df61822",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PAN",
+          "on_behalf_of_id": "AMANAH",
           "area_id": "P057-13",
           "legislative_period_id": "term/13"
         }
@@ -3157,8 +3164,8 @@
     {
       "gender": "female",
       "id": "person/2a6fa3ff-396f-4dc5-9c16-399ff86efb08",
-      "name": "Noriah Kasnon",
-      "sort_name": "Noriah Kasnon",
+      "name": "Noriah binti Kasnon",
+      "sort_name": "Noriah binti Kasnon",
       "memberships": [
         {
           "person_id": "person/2a6fa3ff-396f-4dc5-9c16-399ff86efb08",
@@ -3376,7 +3383,7 @@
           "person_id": "person/39ec68ec-527a-44a8-ab07-9b0fb9ad4b4f",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "IND",
+          "on_behalf_of_id": "BN",
           "area_id": "P078-13",
           "legislative_period_id": "term/13"
         }
@@ -3435,7 +3442,7 @@
           "person_id": "person/7adf62f5-8286-4483-820f-940ef6af654d",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PAN",
+          "on_behalf_of_id": "AMANAH",
           "area_id": "P036-13",
           "legislative_period_id": "term/13"
         }
@@ -3619,25 +3626,6 @@
           "role": "member",
           "on_behalf_of_id": "PBB",
           "area_id": "P197-13",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2d659ef3-cf9f-49c1-9d47-835d0a3f4965",
-      "name": "S. Manikavasagam",
-      "sort_name": "S. Manikavasagam",
-      "memberships": [
-        {
-          "person_id": "person/2d659ef3-cf9f-49c1-9d47-835d0a3f4965",
-          "organization_id": "chamber/dewan_rakyat",
-          "role": "member",
-          "on_behalf_of_id": "PKR",
-          "area_id": "P109-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3899,7 +3887,7 @@
           "person_id": "person/440aa609-2ad4-457a-9473-db96ef516108",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "PAN",
+          "on_behalf_of_id": "AMANAH",
           "area_id": "P111-13",
           "legislative_period_id": "term/13"
         }
@@ -4438,6 +4426,25 @@
     },
     {
       "gender": "male",
+      "id": "person/807d13fe-8f58-4194-95e1-4d9a539061f0",
+      "name": "Wilfred Madius Tangau",
+      "sort_name": "Wilfred Madius Tangau",
+      "memberships": [
+        {
+          "person_id": "person/807d13fe-8f58-4194-95e1-4d9a539061f0",
+          "organization_id": "chamber/dewan_rakyat",
+          "role": "member",
+          "on_behalf_of_id": "UPKO",
+          "area_id": "P170-13",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/da9ab52d-9267-4a05-8281-caf4b65c0d90",
       "name": "William Leong Jee Keen",
       "sort_name": "William Leong Jee Keen",
@@ -4464,7 +4471,7 @@
           "person_id": "person/7b85a810-7b9f-448c-8191-1b3165fc31c3",
           "organization_id": "chamber/dewan_rakyat",
           "role": "member",
-          "on_behalf_of_id": "TERAS",
+          "on_behalf_of_id": "BN",
           "area_id": "P205-13",
           "legislative_period_id": "term/13"
         }
