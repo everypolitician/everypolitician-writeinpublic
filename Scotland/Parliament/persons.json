@@ -1,7 +1,7 @@
 {
-  "total": 129,
+  "total": 130,
   "page": 1,
-  "per_page": 129,
+  "per_page": 130,
   "has_more": false,
   "result": [
     {
@@ -145,6 +145,7 @@
           "on_behalf_of_id": "conservative",
           "area_id": "uk.org.publicwhip/cons/10721",
           "start_date": "2016-05-07",
+          "end_date": "2016-12-07",
           "legislative_period_id": "term/5"
         }
       ]
@@ -259,8 +260,20 @@
     {
       "gender": "female",
       "id": "person/16e2407b-c800-43b9-a994-fb32c34644a6",
+      "image": "https://pbs.twimg.com/profile_images/765829552664879104/E2dm6sgX.jpg",
       "name": "Alison Harris",
       "sort_name": "Alison Harris",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlisonHarrisMSP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/765829552664879104/E2dm6sgX.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/16e2407b-c800-43b9-a994-fb32c34644a6",
@@ -271,9 +284,6 @@
           "start_date": "2016-05-07",
           "legislative_period_id": "term/5"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -535,6 +545,26 @@
           "start_date": "2016-05-07",
           "legislative_period_id": "term/5"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+      "name": "Bill Bowman",
+      "sort_name": "Bill Bowman",
+      "memberships": [
+        {
+          "person_id": "person/c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+          "organization_id": "chamber/scottish_parliament",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "uk.org.publicwhip/cons/10721",
+          "start_date": "2016-12-21",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
