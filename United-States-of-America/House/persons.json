@@ -6249,6 +6249,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ca/cd:44",
+          "end_date": "2016-12-04",
           "legislative_period_id": "term/114"
         }
       ]
@@ -14223,40 +14224,6 @@
     },
     {
       "gender": "male",
-      "id": "person/c37b2c21-2647-49e9-911b-b32d6806700f",
-      "image": "https://theunitedstates.io/images/congress/original/Y000064.jpg",
-      "name": "Todd C. Young",
-      "sort_name": "Young, Todd",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "RepToddYoung"
-        }
-      ],
-      "links": [
-        {
-          "url": "RepToddYoung",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/Y000064.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c37b2c21-2647-49e9-911b-b32d6806700f",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:in/cd:9",
-          "legislative_period_id": "term/114"
-        }
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/36ce9566-7b3c-436a-b036-a5d767cfe6d0",
       "image": "https://theunitedstates.io/images/congress/original/R000592.jpg",
       "name": "Todd Rokita",
@@ -14285,6 +14252,40 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:in/cd:4",
+          "legislative_period_id": "term/114"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c37b2c21-2647-49e9-911b-b32d6806700f",
+      "image": "https://theunitedstates.io/images/congress/original/Y000064.jpg",
+      "name": "Todd Young",
+      "sort_name": "Young, Todd",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RepToddYoung"
+        }
+      ],
+      "links": [
+        {
+          "url": "RepToddYoung",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/Y000064.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c37b2c21-2647-49e9-911b-b32d6806700f",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:in/cd:9",
           "legislative_period_id": "term/114"
         }
       ]
