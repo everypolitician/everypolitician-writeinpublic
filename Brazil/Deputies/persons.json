@@ -1,7 +1,7 @@
 {
-  "total": 583,
+  "total": 587,
   "page": 1,
-  "per_page": 583,
+  "per_page": 587,
   "has_more": false,
   "result": [
     {
@@ -2921,7 +2921,7 @@
           "person_id": "person/a7c9b340-16bd-4392-89d7-ee73c12f1321",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "pr",
+          "on_behalf_of_id": "prb",
           "area_id": "area/rj",
           "legislative_period_id": "term/55"
         }
@@ -3492,6 +3492,30 @@
       ]
     },
     {
+      "id": "person/761374c6-71b7-4e08-be15-8240990f6529",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/196357.jpg",
+      "name": "DEJORGE PATRÍCIO",
+      "sort_name": "DEJORGE PATRÍCIO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/196357.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/761374c6-71b7-4e08-be15-8240990f6529",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pr",
+          "area_id": "area/rj",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.delegadoedsonmoreira@camara.leg.br",
       "gender": "male",
       "id": "person/91140e79-24ab-4fbd-9a59-3604e8a4fc9b",
@@ -3510,6 +3534,32 @@
           "role": "member",
           "on_behalf_of_id": "pr",
           "area_id": "area/mg",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.fernandofrancischini@camara.leg.br",
+      "gender": "male",
+      "id": "person/bff3557b-494b-4223-9f26-0398fd2cd48a",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/160646.jpg",
+      "name": "DELEGADO FRANCISCHINI",
+      "sort_name": "DELEGADO FRANCISCHINI",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/160646.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bff3557b-494b-4223-9f26-0398fd2cd48a",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "sd",
+          "area_id": "area/pr",
           "legislative_period_id": "term/55"
         }
       ],
@@ -4921,32 +4971,6 @@
           "role": "member",
           "on_behalf_of_id": "psb",
           "area_id": "area/pe",
-          "legislative_period_id": "term/55"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dep.fernandofrancischini@camara.leg.br",
-      "gender": "male",
-      "id": "person/bff3557b-494b-4223-9f26-0398fd2cd48a",
-      "image": "http://www.camara.gov.br/internet/deputado/bandep/160646.jpg",
-      "name": "FERNANDO FRANCISCHINI",
-      "sort_name": "FERNANDO FRANCISCHINI",
-      "images": [
-        {
-          "url": "http://www.camara.gov.br/internet/deputado/bandep/160646.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bff3557b-494b-4223-9f26-0398fd2cd48a",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "sd",
-          "area_id": "area/pr",
           "legislative_period_id": "term/55"
         }
       ],
@@ -8370,6 +8394,30 @@
           "role": "member",
           "on_behalf_of_id": "psdb",
           "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/233b9c16-4d4a-4919-b073-b290649d8ceb",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/81366.jpg",
+      "name": "LUANA COSTA",
+      "sort_name": "LUANA COSTA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/81366.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/233b9c16-4d4a-4919-b073-b290649d8ceb",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "psb",
+          "area_id": "area/ma",
           "legislative_period_id": "term/55"
         }
       ],
@@ -12216,6 +12264,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/f54ab227-376f-421a-ae99-cbb952438964",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/171620.jpg",
+      "name": "RENATO ANDRADE",
+      "sort_name": "RENATO ANDRADE",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/171620.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f54ab227-376f-421a-ae99-cbb952438964",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pp",
+          "area_id": "area/mg",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.renatomolling@camara.leg.br",
       "gender": "male",
       "id": "person/0562f53f-a13c-4bb2-9e96-385e2e78122e",
@@ -13257,6 +13330,30 @@
           "role": "member",
           "on_behalf_of_id": "pp",
           "area_id": "area/df",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c7336edb-f419-4a25-abd2-dbbd059f1e60",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg",
+      "name": "SABINO CASTELO BRANCO",
+      "sort_name": "SABINO CASTELO BRANCO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c7336edb-f419-4a25-abd2-dbbd059f1e60",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ptb",
+          "area_id": "area/am",
           "legislative_period_id": "term/55"
         }
       ],
