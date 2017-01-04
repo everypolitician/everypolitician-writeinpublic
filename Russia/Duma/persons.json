@@ -1,7 +1,7 @@
 {
-  "total": 450,
+  "total": 452,
   "page": 1,
-  "per_page": 450,
+  "per_page": 452,
   "has_more": false,
   "result": [
     {
@@ -31,12 +31,12 @@
     },
     {
       "id": "person/7f582309-4d2b-4225-b0f6-107e754a3d3f",
-      "image": "http://www.duma.gov.ru/upload/iblock/347/347b0ce2e8702dccc6fc25ea99ce1ce8.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/3cc/3cc673e3c0529aa9c43f54b859bd415d.jpg",
       "name": "Авдеев Александр Александрович",
       "sort_name": "Авдеев Александр Александрович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/347/347b0ce2e8702dccc6fc25ea99ce1ce8.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/3cc/3cc673e3c0529aa9c43f54b859bd415d.jpg"
         }
       ],
       "memberships": [
@@ -70,6 +70,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -93,6 +94,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -102,12 +104,12 @@
     },
     {
       "id": "person/609a34c3-3e08-4d76-9bb2-7713d62ba7ce",
-      "image": "http://www.duma.gov.ru/upload/iblock/214/214fb05832e1752967819367bf03b758.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/ccc/ccc8cc97e80e2a9826c2b8b6c788ba93.jpg",
       "name": "Азимов Рахим Азизбоевич",
       "sort_name": "Азимов Рахим Азизбоевич",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/214/214fb05832e1752967819367bf03b758.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/ccc/ccc8cc97e80e2a9826c2b8b6c788ba93.jpg"
         }
       ],
       "memberships": [
@@ -191,6 +193,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -239,6 +242,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Карелия,_Ленинградская_область,_Мурманская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -312,6 +316,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Москва",
           "legislative_period_id": "term/7"
         }
       ],
@@ -336,6 +341,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Калмыкия,_Астраханская_область,_Волгоградская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -360,6 +366,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -384,6 +391,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -408,6 +416,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -438,6 +447,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Красноярский_край,_Город_Москва",
           "legislative_period_id": "term/7"
         }
       ]
@@ -532,6 +542,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Оренбургская_область,_Самарская_область,_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -555,6 +566,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Крым,_город_Севастополь",
           "legislative_period_id": "term/7"
         }
       ],
@@ -579,6 +591,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -588,12 +601,12 @@
     },
     {
       "id": "person/0784f5b1-6c54-4b08-8411-07ed6f84c120",
-      "image": "http://www.duma.gov.ru/upload/iblock/1ef/1ef62fe5a68953dcc4c6acdfb09055e0.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/295/2955b7b0c487cfc76c6e77e8d8a16b4a.jpg",
       "name": "Барышев Андрей Викторович",
       "sort_name": "Барышев Андрей Викторович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/1ef/1ef62fe5a68953dcc4c6acdfb09055e0.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/295/2955b7b0c487cfc76c6e77e8d8a16b4a.jpg"
         }
       ],
       "memberships": [
@@ -633,6 +646,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -660,6 +674,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -732,6 +747,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -780,6 +796,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Удмуртская_Республика,_Кировская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -828,6 +845,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Камчатский_край,_Хабаровский_край,_Амурская_область,_Магаданская_область,_Еврейская_автономная_область,_Чукотский_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -851,6 +869,32 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Оренбургская_область,_Самарская_область,_Ульяновская_область",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b93a2b38-34ff-4168-8be9-43df4daf442c",
+      "image": "http://www.duma.gov.ru/upload/iblock/1d8/1d8bc03e0638c3f04cbde6e69a74df4b.jpg",
+      "name": "Бессараб Светлана Викторовна",
+      "sort_name": "Бессараб Светлана Викторовна",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/upload/iblock/1d8/1d8bc03e0638c3f04cbde6e69a74df4b.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b93a2b38-34ff-4168-8be9-43df4daf442c",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
+          "start_date": "2016-12-06",
           "legislative_period_id": "term/7"
         }
       ],
@@ -947,6 +991,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Ингушетия,_Кабардино-Балкарская_Республика,_Карачаево-Черкесская_Республика,_Республика_Северная_Осетия_–_Алания,_Чеченская_Республика,_Ставропольский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -970,6 +1015,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -994,6 +1040,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Владимирская_область,_Воронежская_область,_Липецкая_область,_Рязанская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1018,6 +1065,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1235,6 +1283,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Санкт-Петербург",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1258,6 +1307,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Тюменская_область,_Ханты-Мансийский_автономный_округ_–_Югра,_Ямало-Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1282,6 +1332,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Белгородская_область,_Курская_область,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1305,6 +1356,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1328,6 +1380,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Бурятия,_Забайкальский_край,_Иркутская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1425,6 +1478,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Свердловская_область,_Пермский_край,_Ханты-Мансийский_автономный_округ_-_Югра_(Тюменская_область)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1563,6 +1617,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Брянская_область,_Калужская_область,_Смоленская_область,_Тульская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -1584,6 +1639,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Удмуртская_Республика,_Пермский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1608,6 +1664,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Вологодская_область,_Калининградская_область,_Новгородская_область,_Псковская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1680,6 +1737,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Свердловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1703,6 +1761,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/город_Москва,_Владимирская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1727,6 +1786,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1750,6 +1810,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1773,6 +1834,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Забайкальский_край,_Республика_Бурятия",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1797,6 +1859,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1820,6 +1883,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1893,6 +1957,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Коми,_Архангельская_область,_Кировская_область,_Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1942,6 +2007,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Курганская_область,_Челябинская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1966,6 +2032,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Белгородская_область,_Воронежская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -1990,6 +2057,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2014,6 +2082,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2037,6 +2106,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2060,6 +2130,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Ингушетия",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2084,6 +2155,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан,_Республика_Ингушетия,_Кабардино-Балкарская_Республика,_Карачаево-Черкесская_Республика,_Республика_Северная_Осетия_–_Алания,_Чеченская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2108,6 +2180,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Новосибирская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2131,6 +2204,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2155,6 +2229,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Челябинская_область,_Оренбургская_область,_Самарская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2179,6 +2254,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Кабардино-Балкарская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2203,6 +2279,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2226,6 +2303,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Белгородская_область,_Курская_область,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2249,6 +2327,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2347,6 +2426,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Москва",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2370,6 +2450,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Тюменская_область,_Ханты-Мансийский_автономный_округ_–_Югра,_Ямало-Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2443,6 +2524,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2539,6 +2621,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Владимирская_область,_Воронежская_область,_Липецкая_область,_Рязанская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2588,6 +2671,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Оренбургская_область,_Самарская_область,_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2635,6 +2719,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Саха_(Якутия)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2665,6 +2750,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ]
@@ -2736,6 +2822,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Брянская_область,_Калужская_область,_Тульская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2856,6 +2943,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Чеченская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2880,6 +2968,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Курганская_область,_Тюменская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2986,12 +3075,12 @@
     },
     {
       "id": "person/ae3d475a-82c0-4af8-9b0a-bb31d8ce74fd",
-      "image": "http://www.duma.gov.ru/upload/iblock/74c/74c9a36393e53f87a2e85addad667c21.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/bf3/bf37620560f5b9478ebb1c3b4d984ffc.jpg",
       "name": "Евтушенко Ирина Дмитриевна",
       "sort_name": "Евтушенко Ирина Дмитриевна",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/74c/74c9a36393e53f87a2e85addad667c21.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/bf3/bf37620560f5b9478ebb1c3b4d984ffc.jpg"
         }
       ],
       "memberships": [
@@ -3000,6 +3089,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3024,6 +3114,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Свердловская_область,_Ханты-Мансийский_автономный_округ_–_Югра,_Ямало-Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3072,6 +3163,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3121,6 +3213,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Коми,_Архангельская_область,_Ненецкий_автономный_округ,_Ямало-Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3282,6 +3375,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ]
@@ -3315,6 +3409,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Новосибирская_область,_Омская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -3397,6 +3492,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Карелия,_Ленинградская_область,_Мурманская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -3526,12 +3622,12 @@
     },
     {
       "id": "person/3fd81120-fc46-48bd-926e-4aceb9f1e14a",
-      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "image": "http://www.duma.gov.ru/upload/iblock/778/778ff3b61a631bef5bdc0af0e7bc257a.jpg",
       "name": "Земцов Николай Георгиевич",
       "sort_name": "Земцов Николай Георгиевич",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+          "url": "http://www.duma.gov.ru/upload/iblock/778/778ff3b61a631bef5bdc0af0e7bc257a.jpg"
         }
       ],
       "memberships": [
@@ -3540,6 +3636,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Белгородская_область,_Курская_область,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3563,6 +3660,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3642,6 +3740,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ]
@@ -3663,6 +3762,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Ивановская_область,_Костромская_область,_Тверская_область,_Ярославская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3711,6 +3811,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Калужская_область,_Курская_область,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3735,6 +3836,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Ростовская_область,_Курская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -3867,6 +3969,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Удмуртская_Республика,_Пермский_край",
           "legislative_period_id": "term/7"
         }
       ]
@@ -3922,12 +4025,12 @@
     },
     {
       "id": "person/6345c4e8-45b4-4aeb-9026-2a3236e09ddd",
-      "image": "http://www.duma.gov.ru/upload/iblock/a21/a212275519ade2ed9ffc7d97625fd1e5.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/8a1/8a1c177b9e6ad1587d64e4e56ab6f194.jpg",
       "name": "Ишсарин Рамзил Рафаилович",
       "sort_name": "Ишсарин Рамзил Рафаилович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/a21/a212275519ade2ed9ffc7d97625fd1e5.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/8a1/8a1c177b9e6ad1587d64e4e56ab6f194.jpg"
         }
       ],
       "memberships": [
@@ -3936,6 +4039,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4120,6 +4224,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Оренбургская_область,_Самарская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -4165,6 +4270,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4198,12 +4304,12 @@
     },
     {
       "id": "person/a83cdafa-3c73-462d-91b3-0221d7e7607c",
-      "image": "http://www.duma.gov.ru/upload/iblock/43a/43a600db5d74c5474dad776d153d5948.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/98d/98dd6ea4fdfb76c2363abc2a377966a4.jpg",
       "name": "Карамышев Виктор Николаевич",
       "sort_name": "Карамышев Виктор Николаевич",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/43a/43a600db5d74c5474dad776d153d5948.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/98d/98dd6ea4fdfb76c2363abc2a377966a4.jpg"
         }
       ],
       "memberships": [
@@ -4237,6 +4343,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4336,6 +4443,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Тюменская_область,_Ханты-Мансийский_автономный_округ_–_Югра,_Ямало-Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4359,6 +4467,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4383,6 +4492,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Оренбургская_область,_Республика_Карелия,_Пензенская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4392,12 +4502,12 @@
     },
     {
       "id": "person/a7d8effc-7b92-4d79-b02a-758d88cf2a33",
-      "image": "http://www.duma.gov.ru/upload/iblock/aaa/aaa23078b14b0a64497184940dc38d19.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/6f7/6f7033d9e762b294b75e67ba03c5d5b7.jpg",
       "name": "Катенев Владимир Иванович",
       "sort_name": "Катенев Владимир Иванович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/aaa/aaa23078b14b0a64497184940dc38d19.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/6f7/6f7033d9e762b294b75e67ba03c5d5b7.jpg"
         }
       ],
       "memberships": [
@@ -4456,6 +4566,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4505,6 +4616,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4528,6 +4640,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4576,6 +4689,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Бурятия,_Забайкальский_край,_Иркутская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4599,6 +4713,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4794,6 +4909,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4818,6 +4934,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4842,6 +4959,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Приморский_край,_Хабаровский_край,_Сахалинская_область,_Еврейская_автономная_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4889,6 +5007,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4912,6 +5031,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4960,6 +5080,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Омская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4983,6 +5104,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5056,6 +5178,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Свердловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5080,6 +5203,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5104,6 +5228,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Москва",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5127,6 +5252,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Калужская_область,_Липецкая_область,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5150,6 +5276,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5271,6 +5398,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Владимирская_область,_Воронежская_область,_Липецкая_область,_Рязанская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5295,6 +5423,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5342,6 +5471,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5365,6 +5495,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/город_Санкт-Петербург,_Архангельская_область,_Ленинградская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5374,12 +5505,12 @@
     },
     {
       "id": "person/7ab289df-5bcf-4584-bffd-bb5d70dee3b3",
-      "image": "http://www.duma.gov.ru/upload/iblock/922/9229f973f2501928d78e2bb4900e2309.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/2c1/2c1a249780c2478d1fc7ca5d94d7a207.jpg",
       "name": "Ламейкин Дмитрий Викторович",
       "sort_name": "Ламейкин Дмитрий Викторович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/922/9229f973f2501928d78e2bb4900e2309.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/2c1/2c1a249780c2478d1fc7ca5d94d7a207.jpg"
         }
       ],
       "memberships": [
@@ -5419,6 +5550,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ]
@@ -5452,6 +5584,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Владимирская_область,_Рязанская_область,_Тульская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -5497,6 +5630,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5600,6 +5734,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Краснодарский_край,_одномандатные_округа:_Славянский_№_48,_Тихорецкий_№_51,_Армавирский_№_52,_Каневской_№_53,_Иркутская_область,_Калининградская_область",
           "legislative_period_id": "term/7"
         }
       ]
@@ -5645,6 +5780,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Брянская_область,_Калужская_область,_Смоленская_область,_Тульская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5668,6 +5804,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Карелия,_Ленинградская_область,_Мурманская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5716,6 +5853,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Владимирская_область,_Воронежская_область,_Липецкая_область,_Рязанская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5763,6 +5901,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Северная_Осетия_–_Алания",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5886,6 +6025,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5910,6 +6050,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Ульяновская_область,_Республика_Мордовия,_Чувашская_Республика_-_Чувашия",
           "legislative_period_id": "term/7"
         }
       ],
@@ -5981,6 +6122,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Кабардино-Балкарская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6028,6 +6170,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6052,6 +6195,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6076,6 +6220,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6167,6 +6312,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ]
@@ -6260,6 +6406,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Новгородская_область,_Тверская_область,_Псковская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6332,6 +6479,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6430,6 +6578,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Краснодарский_край,_одномандатные_округа:_Краснодарский_№_46,_Красноармейский_№_47,_Туапсинский_№_49,_Сочинский_№_50,_Республика_Адыгея_(Адыгея),_Ставропольский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6478,6 +6627,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Красноярский_край_–_Красноярский_одномандатный_избирательный_округ_№_54,_Красноярский_край_–_Енисейский_одномандатный_избирательный_округ_№_57,_Республика_Тыва,_Республика_Хакасия",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6527,6 +6677,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Ивановская_область,_Костромская_область,_Ярославская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6550,6 +6701,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Бурятия,_Забайкальский_край,_Иркутская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6573,6 +6725,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Чувашская_Республика_–_Чувашия,_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6621,6 +6774,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6645,6 +6799,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/город_Санкт-Петербург,_Приморский_край,_Сахалинская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6669,6 +6824,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6717,6 +6873,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6740,6 +6897,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6837,6 +6995,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан,_Республика_Татарстан_(Татарстан),_Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6894,12 +7053,12 @@
     },
     {
       "id": "person/a30d99e5-8a82-40e2-8255-a122bacf49ff",
-      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "image": "http://www.duma.gov.ru/upload/iblock/ce0/ce0ce90923d5905b968837f025d45709.jpg",
       "name": "Осадчий Николай Иванович",
       "sort_name": "Осадчий Николай Иванович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+          "url": "http://www.duma.gov.ru/upload/iblock/ce0/ce0ce90923d5905b968837f025d45709.jpg"
         }
       ],
       "memberships": [
@@ -6908,6 +7067,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Адыгея_(Адыгея),_Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6917,12 +7077,12 @@
     },
     {
       "id": "person/84aabe9e-048f-48db-b64a-ef899b44aabe",
-      "image": "http://www.duma.gov.ru/upload/iblock/f41/f41de17103281041b5839254183dfafb.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/202/2027d8aec1cb3f166ac3f4d479ab0ba4.jpg",
       "name": "Осипов Илья Владимирович",
       "sort_name": "Осипов Илья Владимирович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/f41/f41de17103281041b5839254183dfafb.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/202/2027d8aec1cb3f166ac3f4d479ab0ba4.jpg"
         }
       ],
       "memberships": [
@@ -6931,6 +7091,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Ивановская_область,_Костромская_область,_Тверская_область,_Ярославская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -6954,6 +7115,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7075,6 +7237,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Ленинградская_область,_город_Санкт-Петербург",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7109,12 +7272,12 @@
     {
       "gender": "male",
       "id": "person/f3d2ffd5-bad3-45e5-9a58-80146d7c8f64",
-      "image": "http://www.duma.gov.ru/upload/iblock/521/52102b1f7fd7e5c7930ffb394c64834c.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/e47/e470dcf911b9cfa7050cfea9bafa64d9.jpg",
       "name": "Пахомов Сергей Александрович",
       "sort_name": "Пахомов Сергей Александрович",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/521/52102b1f7fd7e5c7930ffb394c64834c.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/e47/e470dcf911b9cfa7050cfea9bafa64d9.jpg"
         }
       ],
       "memberships": [
@@ -7147,6 +7310,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Челябинская_область,_Курганская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7170,6 +7334,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Новосибирская_область,_Омская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7194,6 +7359,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Свердловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7217,6 +7383,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7266,6 +7433,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Санкт-Петербург",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7289,6 +7457,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Брянская_область,_Калужская_область,_Смоленская_область,_Тульская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7363,6 +7532,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Приморский_край,_Сахалинская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7386,6 +7556,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7410,6 +7581,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Липецкая_область,_Пензенская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7459,6 +7631,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Саха_(Якутия),_Забайкальский_край,_Камчатский_край,_Амурская_область,_Магаданская_область,_Чукотский_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7482,6 +7655,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Крым,_город_Севастополь",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7555,6 +7729,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Иркутская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7603,6 +7778,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Тюменская_область,_Ханты-Мансийский_автономный_округ_–_Югра,_Ямало-Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7706,6 +7882,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/город_Москва,_Город_Москва",
           "legislative_period_id": "term/7"
         }
       ]
@@ -7727,6 +7904,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Владимирская_область,_Воронежская_область,_Липецкая_область,_Рязанская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7776,6 +7954,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Курганская_область,_Тюменская_область,_Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7800,6 +7979,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Москва",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7824,6 +8004,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7876,6 +8057,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Оренбургская_область,_Самарская_область,_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7948,6 +8130,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -7971,6 +8154,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Кемеровская_область,_Красноярский_край,_Омская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8022,6 +8206,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Коми,_Архангельская_область,_Кировская_область,_Ненецкий_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8046,6 +8231,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Новосибирская_область,_Республика_Калмыкия,_Омская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8070,6 +8256,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8141,6 +8328,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8164,6 +8352,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8187,6 +8376,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Удмуртская_Республика,_Пермский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8210,6 +8400,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Владимирская_область,_Воронежская_область,_Липецкая_область,_Рязанская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8234,6 +8425,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Чеченская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8258,6 +8450,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Дагестан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8282,6 +8475,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8306,6 +8500,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Московская_область,_одномандатные_округа:_Коломенский_№_119,_Люберецкий_№_121,_Орехово-Зуевский_№_123,_Подольский_№_124,_Серпуховский_№_126,_Ивановская_область,_Костромская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8330,6 +8525,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8354,6 +8550,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Республика_Саха_(Якутия),_Камчатский_край,_Хабаровский_край,_Амурская_область,_Магаданская_область,_Сахалинская_область,_Еврейская_автономная_область,_Чукотский_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8377,6 +8574,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/город_Москва",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8401,6 +8599,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Чеченская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8522,6 +8721,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8570,6 +8770,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Оренбургская_область,_Самарская_область,_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8594,6 +8795,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Татарстан_(Татарстан),_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8690,6 +8892,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8763,6 +8966,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Белгородская_область,_Курская_область,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8787,6 +8991,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8892,6 +9097,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -8988,6 +9194,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Белгородская_область,_Республика_Северная_Осетия_-_Алания,_Орловская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9012,6 +9219,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Карачаево-Черкесская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9035,6 +9243,32 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Московская_область,_одномандатные_округа:_Балашихинский_№_117,_Дмитровский_№_118,_Красногорский_№_120,_Одинцовский_№_122,_Сергиево-Посадский_№_125,_Щелковский_№_127,_Республика_Алтай,_Алтайский_край",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b5bc299b-ae4f-4c2a-b3d2-5f770acd5d0f",
+      "image": "http://www.duma.gov.ru/upload/iblock/747/747f4d9a9b19975aeeaf7b2c13269fe9.jpg",
+      "name": "Суббот Валентин Владимирович",
+      "sort_name": "Суббот Валентин Владимирович",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/upload/iblock/747/747f4d9a9b19975aeeaf7b2c13269fe9.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b5bc299b-ae4f-4c2a-b3d2-5f770acd5d0f",
+          "organization_id": "chamber/duma",
+          "role": "member",
+          "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Брянская_область,_Калужская_область,_Смоленская_область,_Тульская_область",
+          "start_date": "2016-11-09",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9087,6 +9321,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Республика_Башкортостан,_одномандатные_округа:_Уфимский_№_3,_Благовещенский_№_4,_Белорецкий_№_5,_Республика_Ингушетия,_Удмуртская_Республика",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9135,6 +9370,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Ханты-Мансийский_автономный_округ_–_Югра,_Ямало-Ненецкий_автономный_округ,_Тюменская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9183,6 +9419,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9232,6 +9469,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/все_субъекты_Российской_Федерации",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9281,6 +9519,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Республика_Тыва,_Республика_Хакасия,_Алтайский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9305,6 +9544,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Московская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9329,6 +9569,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Ивановская_область,_Костромская_область,_Тверская_область,_Ярославская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9377,6 +9618,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Ставропольский_край,_Астраханская_область,_Ростовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9425,6 +9667,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Краснодарский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9472,6 +9715,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Свердловская_область_–_Березовский_одномандатный_избирательный_округ_№_170,_Свердловская_область_–_Асбестовский_одномандатный_избирательный_округ_№_172,_Карачаево-Черкесская_Республика,_Приморский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9546,6 +9790,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Брянская_область,_Калужская_область,_Смоленская_область,_Тульская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9605,12 +9850,12 @@
     },
     {
       "id": "person/f2750031-031c-4243-aa9a-71c90943bd89",
-      "image": "http://www.duma.gov.ru/upload/iblock/25a/25a0ffd118504198989310fd10394df7.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/ce7/ce7ed96415166ee43bb66eba739402f2.jpg",
       "name": "Фаррахов Айрат Закиевич",
       "sort_name": "Фаррахов Айрат Закиевич",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/25a/25a0ffd118504198989310fd10394df7.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/ce7/ce7ed96415166ee43bb66eba739402f2.jpg"
         }
       ],
       "memberships": [
@@ -9619,6 +9864,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9643,6 +9889,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Вологодская_область,_Калининградская_область,_Новгородская_область,_Псковская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9715,6 +9962,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9739,6 +9987,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Алтай,_Алтайский_край,_Кемеровская_область,_Томская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9762,6 +10011,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9909,6 +10159,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Адыгея_(Адыгея)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -9958,6 +10209,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10005,6 +10257,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10014,12 +10267,12 @@
     },
     {
       "id": "person/72712247-0f8c-4843-a13e-bcabde937eaa",
-      "image": "http://www.duma.gov.ru/upload/iblock/e33/e33158d883748965c9fb48eab34a7563.jpg",
+      "image": "http://www.duma.gov.ru/upload/iblock/aca/aca1cd355e378ca22f83501c8134b42a.jpg",
       "name": "Цыбизова Татьяна Игоревна",
       "sort_name": "Цыбизова Татьяна Игоревна",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/upload/iblock/e33/e33158d883748965c9fb48eab34a7563.jpg"
+          "url": "http://www.duma.gov.ru/upload/iblock/aca/aca1cd355e378ca22f83501c8134b42a.jpg"
         }
       ],
       "memberships": [
@@ -10053,6 +10306,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Татарстан_(Татарстан)",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10077,6 +10331,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Вологодская_область,_Новгородская_область,_Тверская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10125,6 +10380,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Кировская_область,_Республика_Коми,_Республика_Марий_Эл",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10221,6 +10477,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/город_Москва,_Воронежская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10244,6 +10501,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Волгоградская_область,_Пензенская_область,_Саратовская_область,_Тамбовская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10293,6 +10551,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Тыва,_Республика_Хакасия,_Красноярский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10317,6 +10576,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия,_Нижегородская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10391,6 +10651,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Оренбургская_область,_Самарская_область,_Ульяновская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10414,6 +10675,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Алтай,_Республика_Бурятия,_Республика_Тыва,_Алтайский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10461,6 +10723,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«СПРАВЕДЛИВАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Калмыкия,_Астраханская_область,_Калининградская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10484,6 +10747,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Крым,_город_Севастополь",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10508,6 +10772,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Рязанская_область,_Тамбовская_область,_Липецкая_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10531,6 +10796,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Свердловская_область,_одномандатные_округа:_Нижнетагильский_№_171,_Первоуральский_№_173,_Серовский_№_174,_Республика_Дагестан,_Пермский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10554,6 +10820,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Курганская_область,_Челябинская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10578,6 +10845,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Тыва,_Республика_Хакасия,_Красноярский_край",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10625,6 +10893,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "ЛДПР",
+          "area_id": "area/Республика_Крым,_Чеченская_Республика,_Город_Севастополь",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10722,6 +10991,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Марий_Эл,_Республика_Мордовия,_Чувашская_Республика_–_Чувашия",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10842,6 +11112,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10896,6 +11167,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "КПРФ",
+          "area_id": "area/Республика_Башкортостан",
           "legislative_period_id": "term/7"
         }
       ]
@@ -10917,6 +11189,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Курганская_область,_Челябинская_область",
           "legislative_period_id": "term/7"
         }
       ],
@@ -10941,6 +11214,7 @@
           "organization_id": "chamber/duma",
           "role": "member",
           "on_behalf_of_id": "«ЕДИНАЯ_РОССИЯ»",
+          "area_id": "area/Камчатский_край,_Хабаровский_край,_Амурская_область,_Магаданская_область,_Еврейская_автономная_область,_Чукотский_автономный_округ",
           "legislative_period_id": "term/7"
         }
       ],
