@@ -504,6 +504,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/691c4371-e09c-4fa3-a106-ef9a2fe3c72a",
       "image": "http://www.duma.gov.ru/upload/iblock/361/3619a6f91634680389cfc5660504ce26.jpg",
       "name": "Балыбердин Алексей Владимирович",
@@ -603,6 +604,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0784f5b1-6c54-4b08-8411-07ed6f84c120",
       "image": "http://www.duma.gov.ru/upload/iblock/295/2955b7b0c487cfc76c6e77e8d8a16b4a.jpg",
       "name": "Барышев Андрей Викторович",
@@ -761,6 +763,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/500490f9-f469-40b7-8edd-2f9a6ca88a41",
       "image": "http://www.duma.gov.ru/upload/iblock/276/27644f7c68b851eed9722029b68ff5a6.jpg",
       "name": "Белик Дмитрий Анатольевич",
@@ -956,6 +959,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4e3633ee-6dba-4c18-995d-474f65a880e7",
       "image": "http://www.duma.gov.ru/upload/iblock/1ae/1aea179e168ecb28c83005cdde1a4df3.jpg",
       "name": "Бикбаев Ильдар Зинурович",
@@ -1005,6 +1009,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bacd21d8-a0c3-42b8-a58d-731bb113bfa8",
       "image": "http://www.duma.gov.ru/upload/iblock/e31/e3145e8023487187552ff42e3b227c0a.jpg",
       "name": "Блоцкий Владимир Николаевич",
@@ -1079,6 +1084,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/29f54c4c-3b96-4ccf-a5c4-cbae90b629ef",
       "image": "http://www.duma.gov.ru/upload/iblock/ce9/ce98fc31e8963698bb1fd140ac75f083.jpg",
       "name": "Боева Наталья Дмитриевна",
@@ -1127,6 +1133,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d6706dce-5160-438b-a300-3dbbb91db318",
       "image": "http://www.duma.gov.ru/upload/iblock/7c0/7c07566d10abf3ee8cd6b1976f050825.jpg",
       "name": "Бокк Владимир Владимирович",
@@ -1273,10 +1280,23 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/abf90408-e8e0-4a9f-b88c-6c55bdc05de3",
       "image": "http://www.duma.gov.ru/upload/iblock/6fc/6fcb808cae9fef4eb855ec9166e5ab2d.jpg",
       "name": "Боярский Сергей Михайлович",
       "sort_name": "Боярский Сергей Михайлович",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sergeyboyarskiy"
+        }
+      ],
+      "links": [
+        {
+          "url": "Сергей-Михайлович-Боярский-119331791498015",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/6fc/6fcb808cae9fef4eb855ec9166e5ab2d.jpg"
@@ -1291,9 +1311,6 @@
           "area_id": "area/город_Санкт-Петербург",
           "legislative_period_id": "term/7"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2198,10 +2215,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d5a99dfe-07bc-4930-a8b9-1b3c88f9905c",
       "image": "http://www.duma.gov.ru/upload/iblock/6fa/6fa2783e1b566ae8462e7de564049dc8.jpg",
       "name": "Ганиев Фарит Глюсович",
       "sort_name": "Ганиев Фарит Глюсович",
+      "links": [
+        {
+          "url": "Ganiev.Farit",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/6fa/6fa2783e1b566ae8462e7de564049dc8.jpg"
@@ -2892,6 +2916,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/00966c8d-8f85-41df-8aea-5f65e2b79677",
       "image": "http://www.duma.gov.ru/upload/iblock/045/045055496feb793bae880d02319e2d9b.jpg",
       "name": "Дивинский Игорь Борисович",
@@ -3040,6 +3065,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d51407ca-f1f3-48ee-a70f-ffb3670853ad",
       "image": "http://www.duma.gov.ru/upload/iblock/3e0/3e065378c028c9920b8a4a14b3a3b53c.jpg",
       "name": "Духанина Любовь Николаевна",
@@ -3163,6 +3189,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d503fdd6-5f80-4ff6-994b-5a5614b04db2",
       "image": "http://www.duma.gov.ru/upload/iblock/f79/f790d99b91e6111fe44695d8171ff33b.jpg",
       "name": "Елыкомов Валерий Анатольевич",
@@ -4766,6 +4793,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6d7c141b-2dbf-4811-b241-4d2d4bab106b",
       "image": "http://www.duma.gov.ru/upload/iblock/8f2/8f207849a89b940a4f999ff5dc07b21b.jpg",
       "name": "Ковпак Лев Игоревич",
@@ -5111,6 +5139,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5d6568d8-1bb3-4795-b573-8f6cdaf38380",
       "image": "http://www.duma.gov.ru/upload/iblock/622/622d872f15f6e4d758357c6032b24ada.jpg",
       "name": "Кравченко Денис Борисович",
@@ -5283,6 +5312,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/1952e2ae-76df-40ca-a95b-f277ffd11311",
       "image": "http://www.duma.gov.ru/upload/iblock/89f/89f3c499fc18c0da2f8b10140735430c.jpg",
       "name": "Кувшинова Наталья Сергеевна",
@@ -5331,6 +5361,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1f2cfea0-8f6c-45ec-b02d-24bc65ea04f5",
       "image": "http://www.duma.gov.ru/upload/iblock/424/4244de6b16e2f185778ec86e180a053e.jpg",
       "name": "Кудрявцев Максим Георгиевич",
@@ -5526,10 +5557,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7ab289df-5bcf-4584-bffd-bb5d70dee3b3",
       "image": "http://www.duma.gov.ru/upload/iblock/2c1/2c1a249780c2478d1fc7ca5d94d7a207.jpg",
       "name": "Ламейкин Дмитрий Викторович",
       "sort_name": "Ламейкин Дмитрий Викторович",
+      "links": [
+        {
+          "url": "dmitriy.lameykin",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/2c1/2c1a249780c2478d1fc7ca5d94d7a207.jpg"
@@ -6417,6 +6455,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c79435ab-1485-4584-8903-79cd0dd0f82a",
       "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
       "name": "Морозов Антон Юрьевич",
@@ -6465,6 +6504,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a8dff63f-3c56-484b-9b74-48e5e744fcfa",
       "image": "http://www.duma.gov.ru/upload/iblock/1a6/1a66ef8645ab2748d352a06ff7d1ea86.jpg",
       "name": "Москвин Денис Павлович",
@@ -6712,6 +6752,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1e6de242-6977-4e9e-9c2d-b1f863a7ebf0",
       "image": "http://www.duma.gov.ru/upload/iblock/2b0/2b0a1e710138fa60400b28eaa20f3f36.jpg",
       "name": "Николаев Николай Петрович",
@@ -6760,6 +6801,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/91997cef-3070-47bc-bea4-1e6d97696455",
       "image": "http://www.duma.gov.ru/upload/iblock/f3b/f3bfd849a0c13b9d429e7b31827690b2.jpg",
       "name": "Николаева Виктория Викторовна",
@@ -6958,6 +7000,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/72ebce58-180e-4b85-b5ef-3aa4fe60332d",
       "image": "http://www.duma.gov.ru/upload/iblock/03a/03aaa3af53727b37da9d5f3ac5ad3f8c.jpg",
       "name": "Окунева Ольга Владимировна",
@@ -8182,6 +8225,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1bf85b6d-1a93-4b35-971b-9699c43592ef",
       "image": "http://www.duma.gov.ru/upload/iblock/615/61550c1d475e1a580c14f92d3ba1e14f.jpg",
       "name": "Рыжак Николай Иванович",
@@ -8436,6 +8480,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/e1549ec8-ee86-40e4-ac8d-d3b963715c10",
       "image": "http://www.duma.gov.ru/upload/iblock/7a0/7a045f1634be585df756b531e18f92e3.jpg",
       "name": "Сапрыкина Татьяна Васильевна",
@@ -8782,6 +8827,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/06dc48db-55d3-45ed-ab21-304657fce511",
       "image": "http://www.duma.gov.ru/upload/iblock/a3b/a3b21e190cec0586b6b7c0b74ab794c0.jpg",
       "name": "Силанов Алексей Николаевич",
@@ -8881,6 +8927,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3bd809e4-1e85-4b12-93b2-fc08651843f9",
       "image": "http://www.duma.gov.ru/upload/iblock/28f/28f894574b1776fb2e98ba6334212e7e.jpg",
       "name": "Ситников Алексей Владимирович",
@@ -9054,6 +9101,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/00f9c1e6-5296-4d1b-9e69-d142c6bd23bf",
       "image": "http://www.duma.gov.ru/upload/iblock/56b/56b2dd7e920a67316e10429c9ad3d7a7.jpg",
       "name": "Слыщенко Константин Григорьевич",
@@ -9284,6 +9332,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/144ffd4d-f827-4b36-a820-754adb7b2b12",
       "image": "http://www.duma.gov.ru/upload/iblock/404/4045fe2d7b08ee00ba173e90ab77f5bf.jpg",
       "name": "Строкова Елена Викторовна",
@@ -9910,6 +9959,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f2750031-031c-4243-aa9a-71c90943bd89",
       "image": "http://www.duma.gov.ru/upload/iblock/ce7/ce7ed96415166ee43bb66eba739402f2.jpg",
       "name": "Фаррахов Айрат Закиевич",
