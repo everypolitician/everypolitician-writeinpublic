@@ -1,7 +1,7 @@
 {
-  "total": 272,
+  "total": 277,
   "page": 1,
-  "per_page": 272,
+  "per_page": 277,
   "has_more": false,
   "result": [
     {
@@ -485,8 +485,8 @@
       "gender": "female",
       "id": "person/c02a50d7-f411-4fa8-a843-fe5dff800a16",
       "image": "http://www.parliament.gh/userfiles/mps/140_SULEMANA_ALIJATA.jpg",
-      "name": "Alijata Sulemana",
-      "sort_name": "Alijata Sulemana",
+      "name": "Alijata Sulemana Gbentie (Hajia)",
+      "sort_name": "Alijata Sulemana Gbentie (Hajia)",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/140_SULEMANA_ALIJATA.jpg"
@@ -509,8 +509,8 @@
     {
       "id": "person/47b79dad-e854-4429-b9cc-8a0042e2ad30",
       "image": "http://www.parliament.gh/userfiles/mps/28_ANDOH_AMA_POMAA.jpg",
-      "name": "Ama Pomaa Andoh (Mrs)",
-      "sort_name": "Ama Pomaa Andoh (Mrs)",
+      "name": "Ama Pomaa Boateng",
+      "sort_name": "Ama Pomaa Boateng",
       "images": [
         {
           "url": "http://www.parliament.gh/userfiles/mps/28_ANDOH_AMA_POMAA.jpg"
@@ -558,14 +558,8 @@
     {
       "email": "amadumosesy@yahoo.com",
       "id": "person/e3bf249b-a45f-4cb4-8917-fa5faa53456a",
-      "image": "http://www.parliament.gh/userfiles/mps/",
       "name": "Amadu Moses Yahaya",
       "sort_name": "Amadu Moses Yahaya",
-      "images": [
-        {
-          "url": "http://www.parliament.gh/userfiles/mps/"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/e3bf249b-a45f-4cb4-8917-fa5faa53456a",
@@ -1134,6 +1128,24 @@
       ]
     },
     {
+      "id": "person/ec1e28a9-4510-4095-9e8b-0774f8f5def2",
+      "name": "Benson Tongo Baba",
+      "sort_name": "Benson Tongo Baba",
+      "memberships": [
+        {
+          "person_id": "person/ec1e28a9-4510-4095-9e8b-0774f8f5def2",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "national_democratic_congress",
+          "area_id": "area/talensi,_upper_east",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/efa6b301-ab97-49c9-b92b-44a18118c63e",
       "image": "http://www.parliament.gh/userfiles/mps/AHIAFOR_BENARD.jpg",
@@ -1251,6 +1263,30 @@
           "role": "member",
           "on_behalf_of_id": "national_democratic_congress",
           "area_id": "area/bortianor_ngleshie_amanfrom,_greater_accra",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1ccf81de-0949-4232-8c7d-9f6421123834",
+      "image": "http://www.parliament.gh/userfiles/mps/Hon_Acheampong_Bryan.jpg",
+      "name": "Bryan Acheampong",
+      "sort_name": "Bryan Acheampong",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/Hon_Acheampong_Bryan.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1ccf81de-0949-4232-8c7d-9f6421123834",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "new_patriotic_party",
+          "area_id": "area/abetifi,_eastern",
           "legislative_period_id": "term/6"
         }
       ],
@@ -1537,14 +1573,8 @@
     {
       "gender": "male",
       "id": "person/b401187c-3258-432a-8ddf-9f16fa504239",
-      "image": "http://www.parliament.gh/userfiles/mps/133_YEMOH_DAOUD_ANUM_.jpg",
       "name": "Daoud Anum Yemoh",
       "sort_name": "Daoud Anum Yemoh",
-      "images": [
-        {
-          "url": "http://www.parliament.gh/userfiles/mps/133_YEMOH_DAOUD_ANUM_.jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/b401187c-3258-432a-8ddf-9f16fa504239",
@@ -2178,6 +2208,30 @@
           "role": "member",
           "on_behalf_of_id": "national_democratic_congress",
           "area_id": "area/ningo_prampram,_greater_accra",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/980405ea-a15a-439c-936b-88eeb7000b2c",
+      "image": "http://www.parliament.gh/userfiles/mps/Afful.jpg",
+      "name": "Eric Afful",
+      "sort_name": "Eric Afful",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/Afful.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/980405ea-a15a-439c-936b-88eeb7000b2c",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "national_democratic_congress",
+          "area_id": "area/amenfi_west,_western",
           "legislative_period_id": "term/6"
         }
       ],
@@ -2865,6 +2919,30 @@
       ]
     },
     {
+      "id": "person/ae6f9024-7fbd-47b4-b99f-2844bf59c627",
+      "image": "http://www.parliament.gh/userfiles/mps/HON_TWUM_AMPOFO_GIFTY_PICTURE.jpg",
+      "name": "Gifty Twum-Ampofo",
+      "sort_name": "Gifty Twum-Ampofo",
+      "images": [
+        {
+          "url": "http://www.parliament.gh/userfiles/mps/HON_TWUM_AMPOFO_GIFTY_PICTURE.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ae6f9024-7fbd-47b4-b99f-2844bf59c627",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "new_patriotic_party",
+          "area_id": "area/abuakwa_north,_eastern",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/31e5420d-6830-4d96-b92a-493c86234dc1",
       "image": "http://www.parliament.gh/userfiles/mps/246_ADDO_GRACE_MS_1.jpg",
@@ -2942,12 +3020,12 @@
     {
       "gender": "male",
       "id": "person/8b6c1aa1-6ab8-463f-9d0d-2dab68118d5f",
-      "image": "http://www.parliament.gh/userfiles/mps/96_IDDRISU_HARUNA.jpg",
+      "image": "http://www.parliament.gh/userfiles/mps/image.jpeg",
       "name": "Haruna Iddrisu",
       "sort_name": "Haruna Iddrisu",
       "images": [
         {
-          "url": "http://www.parliament.gh/userfiles/mps/96_IDDRISU_HARUNA.jpg"
+          "url": "http://www.parliament.gh/userfiles/mps/image.jpeg"
         }
       ],
       "memberships": [
@@ -3282,7 +3360,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "new_patriotic_party",
-          "area_id": "area/zabzugu_,_northern",
+          "area_id": "area/zabzugu,_northern",
           "legislative_period_id": "term/6"
         }
       ],
@@ -4897,6 +4975,24 @@
       ]
     },
     {
+      "id": "person/05489fa3-3818-40b0-8aaf-63402dd5a08f",
+      "name": "Masoud Baba Abdul-Rahman",
+      "sort_name": "Masoud Baba Abdul-Rahman",
+      "memberships": [
+        {
+          "person_id": "person/05489fa3-3818-40b0-8aaf-63402dd5a08f",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "national_democratic_congress",
+          "area_id": "area/pru_east,_brong_ahafo",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mapuozaa@yahoo.com",
       "gender": "male",
       "id": "person/6b8c9c1a-f945-42be-85d8-5e20c0d6ad60",
@@ -4975,12 +5071,12 @@
     {
       "gender": "male",
       "id": "person/625a6d15-0e0c-4ad3-977c-667c0bd2734a",
-      "image": "http://www.parliament.gh/userfiles/mps/151_PREMPEH_MATTHEW_OPOKU_DR_1.jpg",
+      "image": "http://www.parliament.gh/userfiles/mps/PREMPEH_Mathew_Opoku.jpg",
       "name": "Matthew Opoku Prempeh (Dr.)",
       "sort_name": "Matthew Opoku Prempeh (Dr.)",
       "images": [
         {
-          "url": "http://www.parliament.gh/userfiles/mps/151_PREMPEH_MATTHEW_OPOKU_DR_1.jpg"
+          "url": "http://www.parliament.gh/userfiles/mps/PREMPEH_Mathew_Opoku.jpg"
         }
       ],
       "memberships": [
@@ -5338,7 +5434,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "national_democratic_congress",
-          "area_id": "area/sene_east,_brong_ahafo",
+          "area_id": "area/atebubu_amantin,_brong_ahafo",
           "legislative_period_id": "term/6"
         }
       ],
@@ -6116,7 +6212,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "national_democratic_congress",
-          "area_id": "area/assin_north,_central",
+          "area_id": "area/assin_central,_central",
           "legislative_period_id": "term/6"
         }
       ],
