@@ -5,9 +5,16 @@
   "has_more": false,
   "result": [
     {
+      "gender": "male",
       "id": "person/a6167883-c2a9-433f-a686-626b1da3ccc8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Allen_Chastanet_2016.jpg",
       "name": "Allen Chastanet",
       "sort_name": "Allen Chastanet",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Allen_Chastanet_2016.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a6167883-c2a9-433f-a686-626b1da3ccc8",
@@ -66,6 +73,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/19ea1e52-0beb-48da-8203-6dcba348739d",
       "name": "Dominic Fedee",
       "sort_name": "Dominic Fedee",
@@ -313,6 +321,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/13a7a205-7300-435e-a54d-8fe2bb3720bb",
       "name": "Sarah Flood-Beaubrun",
       "sort_name": "Sarah Flood-Beaubrun",
