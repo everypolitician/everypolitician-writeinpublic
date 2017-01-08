@@ -108,8 +108,8 @@
       "gender": "male",
       "id": "person/15baf44a-e9cc-48f5-829b-8640b56e892c",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/e_castro.jpg",
-      "name": "Edmond George Castro Deputy Speaker",
-      "sort_name": "Edmond George Castro Deputy Speaker",
+      "name": "Edmond George Castro",
+      "sort_name": "Edmond George Castro",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/e_castro.jpg"
@@ -172,6 +172,31 @@
           "role": "member",
           "on_behalf_of_id": "united_democratic_party",
           "area_id": "area/cayo_west",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/01112d05-5dcc-4718-af1e-18df2c26eb2d",
+      "image": "http://nationalassembly.gov.bz/images/house_of_rep/f_marin.jpg",
+      "name": "Florencio Julian Marin Jr.",
+      "sort_name": "Florencio Julian Marin Jr.",
+      "images": [
+        {
+          "url": "http://nationalassembly.gov.bz/images/house_of_rep/f_marin.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/01112d05-5dcc-4718-af1e-18df2c26eb2d",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "people's_united_party",
+          "area_id": "area/corozal_south_east",
           "legislative_period_id": "term/2012"
         }
       ],
@@ -247,31 +272,6 @@
           "role": "member",
           "on_behalf_of_id": "united_democratic_party",
           "area_id": "area/albert",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/01112d05-5dcc-4718-af1e-18df2c26eb2d",
-      "image": "http://nationalassembly.gov.bz/images/house_of_rep/f_marin.jpg",
-      "name": "Hon Florencio Julian Marin Jr.",
-      "sort_name": "Hon Florencio Julian Marin Jr.",
-      "images": [
-        {
-          "url": "http://nationalassembly.gov.bz/images/house_of_rep/f_marin.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/01112d05-5dcc-4718-af1e-18df2c26eb2d",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "people's_united_party",
-          "area_id": "area/corozal_south_east",
           "legislative_period_id": "term/2012"
         }
       ],
@@ -608,8 +608,8 @@
       "gender": "male",
       "id": "person/bc6383b8-c755-4f1c-b8ea-ace3f1d87994",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/s_musa.jpg",
-      "name": "Rt. Said Wilbert Musa",
-      "sort_name": "Rt. Said Wilbert Musa",
+      "name": "Said Wilbert Musa",
+      "sort_name": "Said Wilbert Musa",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/s_musa.jpg"
