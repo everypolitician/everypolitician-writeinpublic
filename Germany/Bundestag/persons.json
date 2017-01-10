@@ -1,7 +1,7 @@
 {
-  "total": 654,
+  "total": 655,
   "page": 1,
-  "per_page": 654,
+  "per_page": 655,
   "has_more": false,
   "result": [
     {
@@ -2195,6 +2195,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9bab2cc8-14fa-424b-b8df-3f86527f339d",
       "name": "Bettina Bähr-Losse",
       "sort_name": "Bahr-Losse, Bettina!",
@@ -8086,6 +8087,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/287cef1a-4928-4e66-9fdd-aecbf501c574",
       "name": "Iris Ripsam",
       "sort_name": "Ripsam, Iris!",
@@ -9468,6 +9470,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7ef339ae-1646-46ac-a917-eb59af6009f8",
       "name": "Karl-Heinz Wange",
       "sort_name": "Wange, Karl-Heinz!",
@@ -11910,6 +11913,25 @@
       ]
     },
     {
+      "id": "person/1b55c29d-a28b-4d72-bb22-577196db3f2c",
+      "name": "Mathias Edwin Höschel",
+      "sort_name": "Hoschel, Mathias!",
+      "memberships": [
+        {
+          "person_id": "person/1b55c29d-a28b-4d72-bb22-577196db3f2c",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/nordrhein-westfalen",
+          "start_date": "2016-12-07",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/60c68c23-195e-45b5-ae8e-947f816a4037",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mathias_Middelberg.jpg",
@@ -13934,6 +13956,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/nordrhein-westfalen",
+          "end_date": "2016-11-26",
           "legislative_period_id": "term/18"
         }
       ],
@@ -14521,6 +14544,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/88f7c5ea-3e63-4f0d-8b3a-bd11568811cd",
       "name": "Rainer Hajek",
       "sort_name": "Hajek, Rainer!",
@@ -15130,8 +15154,8 @@
     {
       "gender": "female",
       "id": "person/74990528-4174-4e0c-829f-fd8337f69117",
-      "name": "Ronja Schmitt",
-      "sort_name": "Schmitt, Ronja!",
+      "name": "Ronja Kemmer",
+      "sort_name": "Kemmer, Ronja!",
       "memberships": [
         {
           "person_id": "person/74990528-4174-4e0c-829f-fd8337f69117",
