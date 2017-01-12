@@ -1,7 +1,7 @@
 {
-  "total": 193,
+  "total": 194,
   "page": 1,
-  "per_page": 193,
+  "per_page": 194,
   "has_more": false,
   "result": [
     {
@@ -39,6 +39,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7883_0.jpg?itok=WLkPLP7h",
       "name": "Agnes Wolbert",
       "sort_name": "Wolbert, A.G.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "agneswolbert"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7883_0.jpg?itok=WLkPLP7h"
@@ -52,9 +58,6 @@
           "on_behalf_of_id": "pvda",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -142,6 +145,7 @@
       ]
     },
     {
+      "email": "a.asante@tweedekamer.nl",
       "gender": "female",
       "id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8353_0.jpg?itok=WW7A7bIB",
@@ -153,14 +157,6 @@
         }
       ],
       "memberships": [
-        {
-          "person_id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
-          "organization_id": "chamber/tweede_kamer",
-          "role": "member",
-          "on_behalf_of_id": "pvda",
-          "end_date": "2016-09-07",
-          "legislative_period_id": "term/2012"
-        },
         {
           "person_id": "person/e96180ac-d384-48be-8578-4f11a869f65f",
           "organization_id": "chamber/tweede_kamer",
@@ -283,14 +279,6 @@
           "role": "member",
           "on_behalf_of_id": "vvd",
           "end_date": "2016-09-07",
-          "legislative_period_id": "term/2012"
-        },
-        {
-          "person_id": "person/f16349f1-af33-43f2-a2b7-2052aefd84fc",
-          "organization_id": "chamber/tweede_kamer",
-          "role": "member",
-          "on_behalf_of_id": "vvd",
-          "start_date": "2016-09-07",
           "legislative_period_id": "term/2012"
         }
       ]
@@ -562,6 +550,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8180_0.jpg?itok=O-3inqxF",
       "name": "Barbara Visser",
       "sort_name": "Visser, B.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BarbaraVVD"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8180_0.jpg?itok=O-3inqxF"
@@ -575,9 +569,6 @@
           "on_behalf_of_id": "vvd",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -809,6 +800,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8317_0.jpg?itok=QZ8DCe6r",
       "name": "Chantal Nijkerken-de Haan",
       "sort_name": "Nijkerken-de Haan, C.N.A.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cnijkerken"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8317_0.jpg?itok=QZ8DCe6r"
@@ -823,9 +820,6 @@
           "start_date": "2015-03-31",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -900,14 +894,6 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "vvd",
-          "end_date": "2016-09-07",
-          "legislative_period_id": "term/2012"
-        },
-        {
-          "person_id": "person/f72d702d-d07d-4936-bdbc-f6fa4af057ef",
-          "organization_id": "chamber/tweede_kamer",
-          "role": "member",
-          "on_behalf_of_id": "vvd",
           "start_date": "2016-09-07",
           "legislative_period_id": "term/2012"
         }
@@ -943,6 +929,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "pvda",
+          "end_date": "2016-12-12",
           "legislative_period_id": "term/2012"
         }
       ]
@@ -982,7 +969,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "ch666rlie"
+          "value": "ducohoogland"
         }
       ],
       "images": [
@@ -1114,7 +1101,7 @@
       "email": "e.dijkgraaf@tweedekamer.nl",
       "gender": "male",
       "id": "person/fe2dc3f4-4071-4591-b20e-ab39411fe0b9",
-      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8064_0.jpg?itok=p4M3I2gM",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8064_2.jpg?itok=-rsuHrXe",
       "name": "Elbert Dijkgraaf",
       "sort_name": "Dijkgraaf, E.",
       "contact_details": [
@@ -1125,7 +1112,7 @@
       ],
       "images": [
         {
-          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8064_0.jpg?itok=p4M3I2gM"
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8064_2.jpg?itok=-rsuHrXe"
         }
       ],
       "memberships": [
@@ -1167,12 +1154,43 @@
       ]
     },
     {
+      "email": "e.unver@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/637c2a84-e5b2-4649-adf8-d16dbaafa989",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8358.jpg?itok=d36x4hdG",
+      "name": "Emre Ünver",
+      "sort_name": "Ünver, E.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8358.jpg?itok=d36x4hdG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/637c2a84-e5b2-4649-adf8-d16dbaafa989",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "pvda",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "e.bruins@tweedekamer.nl",
       "gender": "male",
       "id": "person/8684e52d-2632-4384-a4bc-350e099cc421",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8349_0.jpg?itok=E6dAU65T",
       "name": "Eppo Bruins",
       "sort_name": "Bruins, E.E.W.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "eppobruins"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8349_0.jpg?itok=E6dAU65T"
@@ -1187,9 +1205,6 @@
           "start_date": "2015-12-02",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1199,6 +1214,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8293_0.jpg?itok=zseAiFyM",
       "name": "Eric Smaling",
       "sort_name": "Smaling, E.M.A.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EricSmaling"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8293_0.jpg?itok=zseAiFyM"
@@ -1213,9 +1234,6 @@
           "start_date": "2013-05-14",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1225,6 +1243,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8321.jpg?itok=v1thLEvA",
       "name": "Erik Ronnes",
       "sort_name": "Ronnes, H.A.G.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ErikRonnes"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8321.jpg?itok=v1thLEvA"
@@ -1239,9 +1263,6 @@
           "start_date": "2015-05-20",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1336,6 +1357,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7855.jpg?itok=bdPSi8bW",
       "name": "Fatma Koşer Kaya",
       "sort_name": "Koşer Kaya, F.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "fatmad66"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7855.jpg?itok=bdPSi8bW"
@@ -1350,9 +1377,6 @@
           "start_date": "2015-08-19",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1540,7 +1564,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "geertwildersPVV"
+          "value": "geertwilderspvv"
         }
       ],
       "images": [
@@ -1788,7 +1812,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "Harryvandesp"
+          "value": "harryvandesp"
         }
       ],
       "links": [
@@ -1941,6 +1965,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8297_0.jpg?itok=qvkmRa44",
       "name": "Henk Leenders",
       "sort_name": "Leenders, H.J.M.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "henkleenders"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8297_0.jpg?itok=qvkmRa44"
@@ -1964,9 +1994,6 @@
           "start_date": "2014-09-09",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2133,14 +2160,6 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "onafhankelijk",
-          "start_date": "2016-11-07",
-          "legislative_period_id": "term/2012"
-        },
-        {
-          "person_id": "person/df2c3b1e-6ee8-4acd-a225-e053f68a30dc",
-          "organization_id": "chamber/tweede_kamer",
-          "role": "member",
-          "on_behalf_of_id": "pvda",
           "start_date": "2016-11-07",
           "legislative_period_id": "term/2012"
         }
@@ -2318,6 +2337,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8311_0.jpg?itok=JkzfHiWi",
       "name": "Jeroen van Wijngaarden",
       "sort_name": "Wijngaarden, J. Van",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "vanwijngaardenj"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8311_0.jpg?itok=JkzfHiWi"
@@ -2332,9 +2357,6 @@
           "start_date": "2014-07-01",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2520,6 +2542,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8094_0.jpg?itok=Gt_KatI0",
       "name": "Joram van Klaveren",
       "sort_name": "Klaveren, J.J. van",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JoramvKlaveren"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8094_0.jpg?itok=Gt_KatI0"
@@ -2542,9 +2570,6 @@
           "start_date": "2014-03-21",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2554,6 +2579,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8329_0.jpg?itok=e-APAQ0m",
       "name": "Joyce Vermue",
       "sort_name": "Vermue, J.G.P.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "joycevermue"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8329_0.jpg?itok=e-APAQ0m"
@@ -2568,9 +2599,6 @@
           "start_date": "2015-09-22",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2608,6 +2636,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8342_0.jpg?itok=47wRcMzs",
       "name": "Judith Swinkels",
       "sort_name": "Swinkels, J.C.M.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "judswink"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8342_0.jpg?itok=47wRcMzs"
@@ -2622,9 +2656,6 @@
           "start_date": "2015-11-03",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2707,7 +2738,7 @@
       "email": "C.vdStaaij@tweedekamer.nl",
       "gender": "male",
       "id": "person/ab598845-9b5c-479a-8d9a-27b3e88b4d4b",
-      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/6373_0.jpg?itok=NRgrTBrm",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/6373_2.jpg?itok=bmUKAT8F",
       "name": "Kees van der Staaij",
       "sort_name": "Staaij, C.G. van der",
       "contact_details": [
@@ -2718,7 +2749,7 @@
       ],
       "images": [
         {
-          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/6373_0.jpg?itok=NRgrTBrm"
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/6373_2.jpg?itok=bmUKAT8F"
         }
       ],
       "memberships": [
@@ -2868,6 +2899,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8320_0.jpg?itok=1Agd14fu",
       "name": "Leendert de Lange",
       "sort_name": "Lange, L.A. de",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "leendertdelange"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8320_0.jpg?itok=1Agd14fu"
@@ -2882,9 +2919,6 @@
           "start_date": "2015-03-30",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3022,6 +3056,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8088_0.jpg?itok=puwW8AOA",
       "name": "Louis Bontes",
       "sort_name": "Bontes, L.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Louis_Bontes"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8088_0.jpg?itok=puwW8AOA"
@@ -3044,9 +3084,6 @@
           "start_date": "2013-10-29",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3324,6 +3361,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8295_0.jpg?itok=JLGYgYiZ",
       "name": "Marith Volp",
       "sort_name": "Volp, M.J.J.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "marithvolp"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8295_0.jpg?itok=JLGYgYiZ"
@@ -3338,9 +3381,6 @@
           "start_date": "2013-09-03",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3491,6 +3531,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8312_0.jpg?itok=E48XAJI5",
       "name": "Martijn van Helvert",
       "sort_name": "Helvert, M.J.F. van",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Martijncda"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8312_0.jpg?itok=E48XAJI5"
@@ -3505,9 +3551,6 @@
           "start_date": "2014-11-12",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3517,6 +3560,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7919_0.jpg?itok=Dd69eI7p",
       "name": "Martin Bosma",
       "sort_name": "Bosma, M.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Martinbosma_pvv"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7919_0.jpg?itok=Dd69eI7p"
@@ -3530,9 +3579,6 @@
           "on_behalf_of_id": "pvv",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3680,6 +3726,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8303_0.jpg?itok=zXuOeR7p",
       "name": "Michiel van Nispen",
       "sort_name": "Nispen, M. van",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MichielvNispen"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8303_0.jpg?itok=zXuOeR7p"
@@ -3694,9 +3746,6 @@
           "start_date": "2014-04-02",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3790,6 +3839,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8350_0.jpg?itok=oW-FTTJf",
       "name": "Mustafa Amhaouch",
       "sort_name": "Amhaouch, M.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MustafaAmhaouch"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8350_0.jpg?itok=oW-FTTJf"
@@ -3804,9 +3859,6 @@
           "start_date": "2016-01-12",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4050,6 +4102,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8302_0.jpg?itok=yDZy2bss",
       "name": "Perjan Moors",
       "sort_name": "Moors, P.J.M.J.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "perjanmoors"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8302_0.jpg?itok=yDZy2bss"
@@ -4064,9 +4122,6 @@
           "start_date": "2014-01-14",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4161,6 +4216,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8181_0.jpg?itok=SpqqGaQF",
       "name": "Pieter Duisenberg",
       "sort_name": "Duisenberg, P.J.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PDuisenberg"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8181_0.jpg?itok=SpqqGaQF"
@@ -4174,9 +4235,6 @@
           "on_behalf_of_id": "vvd",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4298,6 +4356,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7888_2.jpg?itok=loJSVJ8y",
       "name": "Raymond de Roon",
       "sort_name": "Roon, R. de",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "r_deroonpvv"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/7888_2.jpg?itok=loJSVJ8y"
@@ -4311,9 +4375,6 @@
           "on_behalf_of_id": "pvv",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4464,11 +4525,18 @@
       ]
     },
     {
+      "email": "r.vdvelde@tweedekamer.nl",
       "gender": "male",
       "id": "person/e382e3cf-90a7-41ec-88b9-77ef4b23dc52",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8355_0.jpg?itok=3Q3CA4F9",
       "name": "Rien van der Velde",
       "sort_name": "Velde, R. van der",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RienvdVelde"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8355_0.jpg?itok=3Q3CA4F9"
@@ -4483,9 +4551,6 @@
           "start_date": "2016-10-25",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4495,6 +4560,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8042_0.jpg?itok=yU1r6Y18",
       "name": "Rik Grashoff",
       "sort_name": "Grashoff, H.J.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "rikgrashoff"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8042_0.jpg?itok=yU1r6Y18"
@@ -4509,9 +4580,6 @@
           "start_date": "2015-05-20",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4547,7 +4615,7 @@
       "email": "r.bisschop@tweedekamer.nl",
       "gender": "male",
       "id": "person/9158137c-f034-4e5b-81c8-6f30c1e638c8",
-      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8150_0.jpg?itok=Alg2F3CH",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8150_2.jpg?itok=-lDMS_u2",
       "name": "Roelof Bisschop",
       "sort_name": "Bisschop, R.",
       "contact_details": [
@@ -4558,7 +4626,7 @@
       ],
       "images": [
         {
-          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8150_0.jpg?itok=Alg2F3CH"
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8150_2.jpg?itok=-lDMS_u2"
         }
       ],
       "memberships": [
@@ -4578,6 +4646,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8292_0.jpg?itok=-S1zDTPm",
       "name": "Roelof van Laar",
       "sort_name": "Laar, R.P. van",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Roelof"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8292_0.jpg?itok=-S1zDTPm"
@@ -4592,9 +4666,6 @@
           "start_date": "2013-05-14",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4748,6 +4819,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8296_0.jpg?itok=jzbyYmjQ",
       "name": "Rudmer Heerema",
       "sort_name": "Heerema, R.J.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RudmerHeerema"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8296_0.jpg?itok=jzbyYmjQ"
@@ -4762,9 +4839,6 @@
           "start_date": "2013-09-03",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4817,6 +4891,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8351_0.jpg?itok=2w4kFDZC",
       "name": "Salima Belhaj",
       "sort_name": "Belhaj, S.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SalimaBelhaj"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8351_0.jpg?itok=2w4kFDZC"
@@ -4831,9 +4911,6 @@
           "start_date": "2016-01-26",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5233,14 +5310,6 @@
           "on_behalf_of_id": "pvda",
           "end_date": "2016-09-07",
           "legislative_period_id": "term/2012"
-        },
-        {
-          "person_id": "person/e9acedd0-e27e-4b23-93e8-ef20c39f95e8",
-          "organization_id": "chamber/tweede_kamer",
-          "role": "member",
-          "on_behalf_of_id": "pvda",
-          "start_date": "2016-09-07",
-          "legislative_period_id": "term/2012"
         }
       ]
     },
@@ -5304,6 +5373,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8225_0.jpg?itok=r6TFKPw_",
       "name": "Tjitske Siderius",
       "sort_name": "Siderius, T.E.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TjitskeSiderius"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8225_0.jpg?itok=r6TFKPw_"
@@ -5327,9 +5402,6 @@
           "start_date": "2014-02-06",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5489,6 +5561,12 @@
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8294_0.jpg?itok=gObMDIus",
       "name": "Yasemin Çegerek",
       "sort_name": "Cegerek, Y.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "yasemincegerek"
+        }
+      ],
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8294_0.jpg?itok=gObMDIus"
@@ -5512,9 +5590,6 @@
           "start_date": "2013-12-12",
           "legislative_period_id": "term/2012"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
