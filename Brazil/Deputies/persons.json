@@ -1,7 +1,7 @@
 {
-  "total": 587,
+  "total": 596,
   "page": 1,
-  "per_page": 587,
+  "per_page": 596,
   "has_more": false,
   "result": [
     {
@@ -185,6 +185,30 @@
           "role": "member",
           "on_behalf_of_id": "psb",
           "area_id": "area/mt",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a9fbbf3f-c2c0-4def-81f8-cdbade27f4e3",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/196359.jpg",
+      "name": "ADÉRMIS MARINI",
+      "sort_name": "ADÉRMIS MARINI",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/196359.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9fbbf3f-c2c0-4def-81f8-cdbade27f4e3",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "psdb",
+          "area_id": "area/sp",
           "legislative_period_id": "term/55"
         }
       ],
@@ -911,6 +935,7 @@
     },
     {
       "email": "dep.andreamaral@camara.leg.br",
+      "gender": "male",
       "id": "person/847e9c0c-11f1-42b1-9521-7acb7c3c3302",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/195143.jpg",
       "name": "ANDRÉ AMARAL",
@@ -1561,6 +1586,34 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/11be616c-a7fe-4f58-b070-166e2a11fa27",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/160581.jpg",
+      "name": "ASSIS MELO",
+      "sort_name": "ASSIS MELO",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "deputadoassis"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/160581.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/11be616c-a7fe-4f58-b070-166e2a11fa27",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pcdob",
+          "area_id": "area/rs",
+          "legislative_period_id": "term/55"
+        }
       ]
     },
     {
@@ -6434,6 +6487,30 @@
       ]
     },
     {
+      "id": "person/e8b81756-b0e6-438c-9a93-ccb24797db33",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/196378.jpg",
+      "name": "IZAQUE SILVA",
+      "sort_name": "IZAQUE SILVA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/196378.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e8b81756-b0e6-438c-9a93-ccb24797db33",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "psdb",
+          "area_id": "area/sp",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.jaimemartins@camara.leg.br",
       "gender": "male",
       "id": "person/4645f95e-45c9-4415-8b60-c4fe4821a0c8",
@@ -8402,6 +8479,30 @@
       ]
     },
     {
+      "id": "person/3f225b75-d2ed-4581-9812-b1fbb9514a10",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/196358.jpg",
+      "name": "LOURIVAL GOMES",
+      "sort_name": "LOURIVAL GOMES",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/196358.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3f225b75-d2ed-4581-9812-b1fbb9514a10",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ptn",
+          "area_id": "area/rj",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/233b9c16-4d4a-4919-b073-b290649d8ceb",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/81366.jpg",
       "name": "LUANA COSTA",
@@ -9250,6 +9351,30 @@
           "role": "member",
           "on_behalf_of_id": "pmdb",
           "area_id": "area/pi",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e23dc1b0-e836-444f-9a38-0a0898643bbb",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/195826.jpg",
+      "name": "MARCELO DELAROLI",
+      "sort_name": "MARCELO DELAROLI",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/195826.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e23dc1b0-e836-444f-9a38-0a0898643bbb",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pr",
+          "area_id": "area/rj",
           "legislative_period_id": "term/55"
         }
       ],
@@ -10377,6 +10502,7 @@
     },
     {
       "email": "dep.moisesdiniz@camara.leg.br",
+      "gender": "male",
       "id": "person/a5d6b2f3-bd9d-428b-b719-c78a3f98f16c",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/195278.jpg",
       "name": "MOISÉS DINIZ",
@@ -10898,6 +11024,30 @@
           "role": "member",
           "on_behalf_of_id": "prp",
           "area_id": "area/al",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0feb1530-9705-476f-8e44-0dceee8ec871",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/66179.jpg",
+      "name": "NORMA AYUB",
+      "sort_name": "NORMA AYUB",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/66179.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0feb1530-9705-476f-8e44-0dceee8ec871",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "dem",
+          "area_id": "area/es",
           "legislative_period_id": "term/55"
         }
       ],
@@ -11844,6 +11994,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/0ec1e56c-44de-4920-bf7b-4c5640064a96",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg",
       "name": "POLLYANA GAMA",
@@ -12377,6 +12528,7 @@
     },
     {
       "email": "dep.ricardobentinho@camara.leg.br",
+      "gender": "male",
       "id": "person/b61eefcc-1c77-4214-b8ce-14d130d20721",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/0.jpg",
       "name": "RICARDO BENTINHO",
@@ -13339,6 +13491,31 @@
           "role": "member",
           "on_behalf_of_id": "pp",
           "area_id": "area/df",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/691ffe85-20b8-4012-8bc3-ec8dacb67dc1",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/141522.jpg",
+      "name": "SABINO CASTELO BRANCO",
+      "sort_name": "SABINO CASTELO BRANCO",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/141522.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/691ffe85-20b8-4012-8bc3-ec8dacb67dc1",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ptb",
+          "area_id": "area/am",
           "legislative_period_id": "term/55"
         }
       ],
@@ -14367,6 +14544,30 @@
       ]
     },
     {
+      "id": "person/481d2cb9-d8df-4b7d-ae6a-9b014dc311a8",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/195866.jpg",
+      "name": "VAIDON OLIVEIRA",
+      "sort_name": "VAIDON OLIVEIRA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/195866.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/481d2cb9-d8df-4b7d-ae6a-9b014dc311a8",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "psdc",
+          "area_id": "area/ce",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.valamelio@camara.leg.br",
       "gender": "male",
       "id": "person/72e35473-d263-4e52-ac9e-376365d2fa9f",
@@ -15254,6 +15455,30 @@
           "role": "member",
           "on_behalf_of_id": "pdt",
           "area_id": "area/pe",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/55ac9f2b-8cdd-416f-b2d5-b64336985447",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/73992.jpg",
+      "name": "YEDA CRUSIUS",
+      "sort_name": "YEDA CRUSIUS",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/73992.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/55ac9f2b-8cdd-416f-b2d5-b64336985447",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "psdb",
+          "area_id": "area/rs",
           "legislative_period_id": "term/55"
         }
       ],
