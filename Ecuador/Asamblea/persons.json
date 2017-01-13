@@ -1,7 +1,7 @@
 {
-  "total": 142,
+  "total": 143,
   "page": 1,
-  "per_page": 142,
+  "per_page": 143,
   "has_more": false,
   "result": [
     {
@@ -2333,6 +2333,40 @@
           "role": "member",
           "on_behalf_of_id": "alianza_pais",
           "area_id": "area/cotopaxi",
+          "legislative_period_id": "term/2013"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c5f9c9d6-4010-4804-a168-c1c7cfeffab1",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15732-1483542409.jpg?itok=V8coLF1E",
+      "name": "Luís Lorenzo Sanango Aucacama",
+      "sort_name": "Luís Lorenzo Sanango Aucacama",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "luislsanango"
+        }
+      ],
+      "links": [
+        {
+          "url": "luis.sanangoaucacama",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15732-1483542409.jpg?itok=V8coLF1E"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c5f9c9d6-4010-4804-a168-c1c7cfeffab1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "alianza_pais",
+          "area_id": "area/cañar",
           "legislative_period_id": "term/2013"
         }
       ]
