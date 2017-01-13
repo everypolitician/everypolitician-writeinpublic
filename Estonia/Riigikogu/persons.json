@@ -1,7 +1,7 @@
 {
-  "total": 144,
+  "total": 145,
   "page": 1,
-  "per_page": 144,
+  "per_page": 145,
   "has_more": false,
   "result": [
     {
@@ -1663,6 +1663,7 @@
           "role": "member",
           "on_behalf_of_id": "IRL",
           "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
+          "end_date": "2016-12-15",
           "legislative_period_id": "term/13"
         }
       ]
@@ -3850,6 +3851,27 @@
           "role": "member",
           "on_behalf_of_id": "RE",
           "area_id": "area/jõgeva-_ja_tartumaa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tiina.kangro@riigikogu.ee",
+      "gender": "female",
+      "id": "person/2ef163b7-4c24-4991-813f-9188119bd632",
+      "name": "Tiina Kangro",
+      "sort_name": "Tiina Kangro",
+      "memberships": [
+        {
+          "person_id": "person/2ef163b7-4c24-4991-813f-9188119bd632",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "IRL",
+          "area_id": "area/harju-_ja_raplamaa",
+          "start_date": "2016-12-16",
           "legislative_period_id": "term/13"
         }
       ],
