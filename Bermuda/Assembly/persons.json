@@ -1,7 +1,7 @@
 {
-  "total": 37,
+  "total": 38,
   "page": 1,
-  "per_page": 37,
+  "per_page": 38,
   "has_more": false,
   "result": [
     {
@@ -459,6 +459,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "26",
+          "end_date": "2016-11-04",
           "legislative_period_id": "term/2012"
         }
       ],
@@ -615,6 +616,24 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "02",
+          "legislative_period_id": "term/2012"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+      "name": "Neville Tyrrell",
+      "sort_name": "Neville Tyrrell",
+      "memberships": [
+        {
+          "person_id": "person/d7e3f96e-f6a1-4d2a-9eee-f08682b06da9",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "Independent",
+          "area_id": "26",
           "legislative_period_id": "term/2012"
         }
       ],
