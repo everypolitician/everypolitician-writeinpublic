@@ -1,7 +1,7 @@
 {
-  "total": 80,
+  "total": 82,
   "page": 1,
-  "per_page": 80,
+  "per_page": 82,
   "has_more": false,
   "result": [
     {
@@ -23,6 +23,31 @@
           "role": "member",
           "on_behalf_of_id": "PLRA",
           "area_id": "area/cordillera",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "aldovera@diputados.gov.py",
+      "id": "person/106f2e61-8dfc-4d76-bdc9-271078209bd9",
+      "image": "http://www.diputados.gov.py/fotos/cv/P222.jpg",
+      "name": "Aldo Efrain Vera Arnold",
+      "sort_name": "Vera Arnold, Aldo Efrain",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P222.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/106f2e61-8dfc-4d76-bdc9-271078209bd9",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "AP",
+          "area_id": "area/capital",
           "legislative_period_id": "term/2013"
         }
       ],
@@ -967,7 +992,7 @@
       ]
     },
     {
-      "email": "hlezme@diputados.gov.py",
+      "email": "hlesme@diputados.gov.py",
       "gender": "male",
       "id": "person/3aecaa8d-7804-4826-9611-3ff88acb0e04",
       "image": "http://www.diputados.gov.py/fotos/cv/P277.jpg",
@@ -1788,7 +1813,7 @@
           "person_id": "person/1163c944-badf-4250-afd9-ce807ee2899f",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "IND",
+          "on_behalf_of_id": "ANR",
           "area_id": "area/san_pedro",
           "legislative_period_id": "term/2013"
         }
@@ -1893,6 +1918,31 @@
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
           "on_behalf_of_id": "PEN",
+          "area_id": "area/central",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ricardonunez@diputados.gov.py",
+      "id": "person/2c8a9b6f-386c-4aed-95f2-09940d212879",
+      "image": "http://www.diputados.gov.py/fotos/cv/P233.jpg",
+      "name": "Ricardo Núñez Insfrán",
+      "sort_name": "Núñez Insfrán, Ricardo",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P233.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c8a9b6f-386c-4aed-95f2-09940d212879",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ANR",
           "area_id": "area/central",
           "legislative_period_id": "term/2013"
         }
