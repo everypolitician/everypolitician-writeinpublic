@@ -1,7 +1,7 @@
 {
-  "total": 203,
+  "total": 204,
   "page": 1,
-  "per_page": 203,
+  "per_page": 204,
   "has_more": false,
   "result": [
     {
@@ -2282,6 +2282,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "0",
+          "end_date": "2017-02-26",
           "legislative_period_id": "term/50"
         }
       ],
@@ -4559,6 +4560,26 @@
           "on_behalf_of_id": "136",
           "area_id": "0",
           "start_date": "2015-12-08",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/50d64ed4-9855-46ab-b8e8-7157a689264e",
+      "name": "Ursula Schneider Schüttel",
+      "sort_name": "Schneider Schüttel, Ursula",
+      "memberships": [
+        {
+          "person_id": "person/50d64ed4-9855-46ab-b8e8-7157a689264e",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "0",
+          "start_date": "2017-02-27",
           "legislative_period_id": "term/50"
         }
       ],
