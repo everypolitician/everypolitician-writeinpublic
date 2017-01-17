@@ -1,7 +1,7 @@
 {
-  "total": 73,
+  "total": 77,
   "page": 1,
-  "per_page": 73,
+  "per_page": 77,
   "has_more": false,
   "result": [
     {
@@ -189,6 +189,29 @@
           "role": "member",
           "on_behalf_of_id": "MPD",
           "area_id": "area/santiago_norte",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c7d86897-c43e-4faa-b2d2-3361e6547107",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=259",
+      "name": "António Alberto Mendes Fernandes",
+      "sort_name": "António Alberto Mendes Fernandes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=259"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c7d86897-c43e-4faa-b2d2-3361e6547107",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "_unknown",
           "legislative_period_id": "term/9"
         }
       ],
@@ -1181,6 +1204,30 @@
       ]
     },
     {
+      "id": "person/5696f75b-3aad-4448-b51e-29ad64eb3e5c",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=413",
+      "name": "João Carlos Cabral Varela Semedo",
+      "sort_name": "João Carlos Cabral Varela Semedo",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=413"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5696f75b-3aad-4448-b51e-29ad64eb3e5c",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/f001c26b-c08d-4c23-bc6a-a59a5c69476a",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=314",
       "name": "João Gomes Duarte",
@@ -1445,6 +1492,30 @@
       ]
     },
     {
+      "id": "person/a9278755-a76c-4638-9b79-2da4bedeba4d",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=410",
+      "name": "Maria Roberto Nascimento",
+      "sort_name": "Maria Roberto Nascimento",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=410"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9278755-a76c-4638-9b79-2da4bedeba4d",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santo_antão",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/e6121cc2-b176-4e11-b4f1-cfbc6c0f8c68",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=251",
       "name": "Miguel Pedro Sousa Monteiro",
@@ -1457,6 +1528,30 @@
       "memberships": [
         {
           "person_id": "person/e6121cc2-b176-4e11-b4f1-cfbc6c0f8c68",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f68cf17a-0c77-4e1d-826d-c43fb3dfe890",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=409",
+      "name": "Milton Nascimento de Sena Paiva",
+      "sort_name": "Milton Nascimento de Sena Paiva",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=409"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f68cf17a-0c77-4e1d-826d-c43fb3dfe890",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
