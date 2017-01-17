@@ -1,7 +1,7 @@
 {
-  "total": 200,
+  "total": 282,
   "page": 1,
-  "per_page": 200,
+  "per_page": 282,
   "has_more": false,
   "result": [
     {
@@ -82,6 +82,30 @@
       ]
     },
     {
+      "id": "person/e840fcea-0a7b-42d9-b179-bc6b62f6006d",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5930&type=deputado",
+      "name": "Alexandre Quintanilha",
+      "sort_name": "Alexandre Quintanilha",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5930&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e840fcea-0a7b-42d9-b179-bc6b62f6006d",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/6f8f89e7-1eda-4e50-aa6f-6bab886f999e",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=3919&type=deputado",
@@ -114,8 +138,8 @@
       "gender": "female",
       "id": "person/e7431c45-9c70-4e08-9813-dc2f160785ed",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1212&type=deputado",
-      "name": "Ana Catarina Mendonça Mendes",
-      "sort_name": "Ana Catarina Mendonça Mendes",
+      "name": "Ana Catarina Mendonça",
+      "sort_name": "Ana Catarina Mendonça",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1212&type=deputado"
@@ -128,6 +152,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/96f0be75-fa5d-4c33-800a-c53cc4473655",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5705&type=deputado",
+      "name": "Ana Mesquita",
+      "sort_name": "Ana Mesquita",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5705&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/96f0be75-fa5d-4c33-800a-c53cc4473655",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "pcp",
+          "area_id": "area/lisboa",
           "legislative_period_id": "term/13"
         }
       ],
@@ -153,6 +201,30 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/coimbra",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b8a7f41a-eaef-4d27-94f5-0d2372fbe2cf",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5678&type=deputado",
+      "name": "Ana Passos",
+      "sort_name": "Ana Passos",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5678&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b8a7f41a-eaef-4d27-94f5-0d2372fbe2cf",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/faro",
           "legislative_period_id": "term/13"
         }
       ],
@@ -187,6 +259,30 @@
       ]
     },
     {
+      "id": "person/94d7bb07-10e3-437c-bfbc-645be43a20ae",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5748&type=deputado",
+      "name": "Ana Rita Bessa",
+      "sort_name": "Ana Rita Bessa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5748&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/94d7bb07-10e3-437c-bfbc-645be43a20ae",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/d6ba2ca2-16bd-4c35-abdc-860f3323f1c8",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4435&type=deputado",
@@ -212,6 +308,30 @@
       ]
     },
     {
+      "id": "person/6d465c19-ff8a-4427-9780-9e653ce8aeb6",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5900&type=deputado",
+      "name": "Ana Virgínia Pereira",
+      "sort_name": "Ana Virgínia Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5900&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6d465c19-ff8a-4427-9780-9e653ce8aeb6",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "pcp",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/bf4fd3d5-96cc-42a9-96c3-bdf3261be666",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4396&type=deputado",
@@ -229,6 +349,78 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/eaa94a2b-19ca-4292-a2ac-761fad67c33e",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6050&type=deputado",
+      "name": "André Pinotes Batista",
+      "sort_name": "André Pinotes Batista",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6050&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/eaa94a2b-19ca-4292-a2ac-761fad67c33e",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7c9dee37-4ced-4a8d-9a1b-8b8972191ad3",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5777&type=deputado",
+      "name": "André Silva",
+      "sort_name": "André Silva",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5777&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7c9dee37-4ced-4a8d-9a1b-8b8972191ad3",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "pan",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cca33a69-9b0f-41a6-ad24-86e2f22a51ce",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6127&type=deputado",
+      "name": "António Borges",
+      "sort_name": "António Borges",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6127&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cca33a69-9b0f-41a6-ad24-86e2f22a51ce",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/viseu",
           "legislative_period_id": "term/13"
         }
       ],
@@ -304,6 +496,54 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bc228fa7-cc27-4461-a8c6-0ffe619abaa4",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5645&type=deputado",
+      "name": "António Costa Silva",
+      "sort_name": "António Costa Silva",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5645&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bc228fa7-cc27-4461-a8c6-0ffe619abaa4",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/Évora",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bb1ed64c-d5e1-4392-ba4f-bb075ff49a38",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5676&type=deputado",
+      "name": "António Eusébio",
+      "sort_name": "António Eusébio",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5676&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bb1ed64c-d5e1-4392-ba4f-bb075ff49a38",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/faro",
           "legislative_period_id": "term/13"
         }
       ],
@@ -392,6 +632,150 @@
       ]
     },
     {
+      "id": "person/7a91f2ed-6f7a-418a-878a-5c28657be5db",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6137&type=deputado",
+      "name": "António Lima Costa",
+      "sort_name": "António Lima Costa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6137&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7a91f2ed-6f7a-418a-878a-5c28657be5db",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/viseu",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/51fda6bc-fde5-4c50-94bc-8a59b8112f92",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6120&type=deputado",
+      "name": "António Rodrigues",
+      "sort_name": "António Rodrigues",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6120&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/51fda6bc-fde5-4c50-94bc-8a59b8112f92",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/viana_do_castelo",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3b1ea347-bd0e-470e-b531-42aece7569b5",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6197&type=deputado",
+      "name": "António Sales",
+      "sort_name": "António Sales",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6197&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3b1ea347-bd0e-470e-b531-42aece7569b5",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/leiria",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/17fd36d2-252a-48da-84b8-6f971961393f",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5489&type=deputado",
+      "name": "António Topa",
+      "sort_name": "António Topa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5489&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/17fd36d2-252a-48da-84b8-6f971961393f",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/aveiro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ca3362fb-d5be-4ea7-9f97-1f82244b75f2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6148&type=deputado",
+      "name": "António Ventura",
+      "sort_name": "António Ventura",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6148&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ca3362fb-d5be-4ea7-9f97-1f82244b75f2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/açores",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c449f93a-2a62-4293-99e0-9045a29000e2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5752&type=deputado",
+      "name": "Armando Soares",
+      "sort_name": "Armando Soares",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5752&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c449f93a-2a62-4293-99e0-9045a29000e2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/6d29ecb2-d9f5-4fc3-b302-b85e240ce777",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2010&type=deputado",
@@ -459,6 +843,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1a0878d5-3b94-4908-8d50-5b4e88da0674",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6147&type=deputado",
+      "name": "Berta Cabral",
+      "sort_name": "Berta Cabral",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6147&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1a0878d5-3b94-4908-8d50-5b4e88da0674",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/açores",
           "legislative_period_id": "term/13"
         }
       ],
@@ -609,6 +1017,54 @@
           "role": "member",
           "on_behalf_of_id": "pcp",
           "area_id": "area/braga",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0cd0bb2d-3692-4f4c-af07-eee23c70e9fa",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5933&type=deputado",
+      "name": "Carla Sousa",
+      "sort_name": "Carla Sousa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5933&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0cd0bb2d-3692-4f4c-af07-eee23c70e9fa",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/16ef64be-eb05-49c2-b4e3-a986c45105e5",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5501&type=deputado",
+      "name": "Carla Tavares",
+      "sort_name": "Carla Tavares",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5501&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/16ef64be-eb05-49c2-b4e3-a986c45105e5",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/aveiro",
           "legislative_period_id": "term/13"
         }
       ],
@@ -768,6 +1224,30 @@
       ]
     },
     {
+      "id": "person/a3b272e9-6591-49e9-87f4-c8923b5544fd",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6187&type=deputado",
+      "name": "Carlos Pereira",
+      "sort_name": "Carlos Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6187&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a3b272e9-6591-49e9-87f4-c8923b5544fd",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/madeira",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/9743cd33-71e1-4dc6-8095-2572a2f39600",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2104&type=deputado",
@@ -796,8 +1276,8 @@
       "gender": "male",
       "id": "person/a30018e9-24c6-4dd2-b08b-d0f149754062",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4437&type=deputado",
-      "name": "Carlos Silva",
-      "sort_name": "Carlos Silva",
+      "name": "Carlos Santos Silva",
+      "sort_name": "Carlos Santos Silva",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4437&type=deputado"
@@ -1048,6 +1528,78 @@
       ]
     },
     {
+      "id": "person/69912528-8569-4699-8daa-0751a49aa5c4",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5831&type=deputado",
+      "name": "Diogo Leão",
+      "sort_name": "Diogo Leão",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5831&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/69912528-8569-4699-8daa-0751a49aa5c4",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/109dff67-a640-4a8e-87c9-e368f2fde20a",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5950&type=deputado",
+      "name": "Domicília Costa",
+      "sort_name": "Domicília Costa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5950&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/109dff67-a640-4a8e-87c9-e368f2fde20a",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1e719e4f-eb02-47d8-b480-512f6eb3fe2b",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5529&type=deputado",
+      "name": "Domingos Pereira",
+      "sort_name": "Domingos Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5529&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e719e4f-eb02-47d8-b480-512f6eb3fe2b",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/braga",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/75a7e659-c06c-47f5-a5f9-d9918bb3aafb",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4170&type=deputado",
@@ -1153,31 +1705,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado",
-      "name": "Eduardo Ferro Rodrigues",
-      "sort_name": "Eduardo Ferro Rodrigues",
-      "images": [
-        {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
-          "organization_id": "chamber/assembleia_da_república",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "area/lisboa",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/3cd53585-9bf8-46c8-a8e3-62863f69b10d",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4209&type=deputado",
@@ -1228,6 +1755,30 @@
       ]
     },
     {
+      "id": "person/54d0ecfb-537a-4d1b-9cf8-c8a818170b32",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6119&type=deputado",
+      "name": "Emília Cerqueira",
+      "sort_name": "Emília Cerqueira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6119&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/54d0ecfb-537a-4d1b-9cf8-c8a818170b32",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/viana_do_castelo",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/ac00ec43-f3e2-40f2-8e41-4cac56ef6b6c",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4394&type=deputado",
@@ -1245,6 +1796,54 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d9203958-784c-4c5d-bade-62de14244a9b",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6139&type=deputado",
+      "name": "Eugénia Duarte",
+      "sort_name": "Eugénia Duarte",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6139&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d9203958-784c-4c5d-bade-62de14244a9b",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/viseu",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2143371f-dee2-4c27-964c-ebaf03c85235",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5600&type=deputado",
+      "name": "Eurico Brilhante Dias",
+      "sort_name": "Eurico Brilhante Dias",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5600&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2143371f-dee2-4c27-964c-ebaf03c85235",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/castelo_branco",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1381,6 +1980,30 @@
       ]
     },
     {
+      "id": "person/56abfa59-8042-45cf-bdae-96de365e8f04",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5500&type=deputado",
+      "name": "Fernando Rocha Andrade",
+      "sort_name": "Fernando Rocha Andrade",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5500&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/56abfa59-8042-45cf-bdae-96de365e8f04",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/aveiro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/e97e7816-5151-4dc6-b56f-0a33782c0ab2",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4152&type=deputado",
@@ -1407,22 +2030,46 @@
     },
     {
       "gender": "male",
-      "id": "person/19b5dbc3-cd09-45b9-ad2c-380ebd092d33",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4353&type=deputado",
-      "name": "Fialho Isaac",
-      "sort_name": "Fialho Isaac",
+      "id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado",
+      "name": "Ferro Rodrigues",
+      "sort_name": "Ferro Rodrigues",
       "images": [
         {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4353&type=deputado"
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/19b5dbc3-cd09-45b9-ad2c-380ebd092d33",
+          "person_id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/61a17036-d6c5-48f9-876e-0a0ee608156e",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5751&type=deputado",
+      "name": "Filipe Anacoreta Correia",
+      "sort_name": "Filipe Anacoreta Correia",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5751&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/61a17036-d6c5-48f9-876e-0a0ee608156e",
           "organization_id": "chamber/assembleia_da_república",
           "role": "member",
           "on_behalf_of_id": "cds-pp",
-          "area_id": "area/leiria",
+          "area_id": "area/lisboa",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1435,8 +2082,8 @@
       "gender": "male",
       "id": "person/25b3fe0f-49fd-44a9-b7a7-8ab90947b3ca",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4172&type=deputado",
-      "name": "Filipe Lobo D' Ávila",
-      "sort_name": "Filipe Lobo D' Ávila",
+      "name": "Filipe Lobo d'Ávila",
+      "sort_name": "Filipe Lobo d'Ávila",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4172&type=deputado"
@@ -1474,6 +2121,54 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/aveiro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b5d1e20a-5ce6-474c-8371-46910d271585",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5985&type=deputado",
+      "name": "Firmino Pereira",
+      "sort_name": "Firmino Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5985&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b5d1e20a-5ce6-474c-8371-46910d271585",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d8299ef8-9391-45ae-9671-226592ee25a9",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6051&type=deputado",
+      "name": "Francisca Parreira",
+      "sort_name": "Francisca Parreira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6051&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8299ef8-9391-45ae-9671-226592ee25a9",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/setúbal",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1608,11 +2303,35 @@
       ]
     },
     {
+      "id": "person/f1cc54c9-6683-4f9e-8372-6be8aab614be",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5830&type=deputado",
+      "name": "Graça Fonseca",
+      "sort_name": "Graça Fonseca",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5830&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f1cc54c9-6683-4f9e-8372-6be8aab614be",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/6dda5aea-9391-4468-9bc4-a108d123dde6",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4059&type=deputado",
-      "name": "Heitor de Sousa",
-      "sort_name": "Heitor de Sousa",
+      "name": "Heitor Sousa",
+      "sort_name": "Heitor Sousa",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4059&type=deputado"
@@ -1633,32 +2352,27 @@
       ]
     },
     {
-      "email": "hamaral@cds.parlamento.pt",
-      "gender": "male",
-      "id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado",
-      "name": "Helder Amaral",
-      "sort_name": "Helder Amaral",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "helderamaralcds"
-        }
-      ],
+      "id": "person/d6398962-26ee-4d5c-ac05-972d4e9948a9",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5607&type=deputado",
+      "name": "Helena Freitas",
+      "sort_name": "Helena Freitas",
       "images": [
         {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado"
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5607&type=deputado"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
+          "person_id": "person/d6398962-26ee-4d5c-ac05-972d4e9948a9",
           "organization_id": "chamber/assembleia_da_república",
           "role": "member",
-          "on_behalf_of_id": "cds-pp",
-          "area_id": "area/viseu",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/coimbra",
           "legislative_period_id": "term/13"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1679,6 +2393,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/81497406-2ae4-4c22-b581-89063ba87e32",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5490&type=deputado",
+      "name": "Helga Correia",
+      "sort_name": "Helga Correia",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5490&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/81497406-2ae4-4c22-b581-89063ba87e32",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/aveiro",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1741,6 +2479,30 @@
       ]
     },
     {
+      "id": "person/0ec3e71f-dd17-4ec1-9cfc-c119d594b018",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6013&type=deputado",
+      "name": "Hugo Costa",
+      "sort_name": "Hugo Costa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6013&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ec3e71f-dd17-4ec1-9cfc-c119d594b018",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/santarém",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/2238dec0-25ec-4a5e-9661-a5d5244e85ea",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4300&type=deputado",
@@ -1791,6 +2553,35 @@
       ]
     },
     {
+      "email": "hamaral@cds.parlamento.pt",
+      "gender": "male",
+      "id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado",
+      "name": "Hélder Amaral",
+      "sort_name": "Hélder Amaral",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "helderamaralcds"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "area/viseu",
+          "legislative_period_id": "term/13"
+        }
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/92fd4915-20c8-4ecc-8cd0-42530837b75f",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2132&type=deputado",
@@ -1832,6 +2623,30 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "area/viana_do_castelo",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/70808dbe-dcd0-4e11-8019-5de0c37a4f6f",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6136&type=deputado",
+      "name": "Inês Domingos",
+      "sort_name": "Inês Domingos",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6136&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/70808dbe-dcd0-4e11-8019-5de0c37a4f6f",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/viseu",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1889,6 +2704,31 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/1c52b035-e7a0-46e5-bc34-4b3ff15036b7",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4452&type=deputado",
+      "name": "Isabel Alves Moreira",
+      "sort_name": "Isabel Alves Moreira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4452&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1c52b035-e7a0-46e5-bc34-4b3ff15036b7",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "isaneto@cds.parlamento.pt",
       "gender": "female",
       "id": "person/7a137c07-bdda-4e87-a45d-052ddd1c35c6",
@@ -1906,31 +2746,6 @@
           "organization_id": "chamber/assembleia_da_república",
           "role": "member",
           "on_behalf_of_id": "cds-pp",
-          "area_id": "area/lisboa",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1c52b035-e7a0-46e5-bc34-4b3ff15036b7",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4452&type=deputado",
-      "name": "Isabel Moreira",
-      "sort_name": "Isabel Moreira",
-      "images": [
-        {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4452&type=deputado"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1c52b035-e7a0-46e5-bc34-4b3ff15036b7",
-          "organization_id": "chamber/assembleia_da_república",
-          "role": "member",
-          "on_behalf_of_id": "ps",
           "area_id": "area/lisboa",
           "legislative_period_id": "term/13"
         }
@@ -1966,6 +2781,30 @@
       ]
     },
     {
+      "id": "person/345204bf-7f2a-4590-a3ef-e933b202bc95",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5854&type=deputado",
+      "name": "Isabel Pires",
+      "sort_name": "Isabel Pires",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5854&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/345204bf-7f2a-4590-a3ef-e933b202bc95",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/7209b8d5-e637-4870-9d93-02c7cc86a355",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2103&type=deputado",
@@ -1983,6 +2822,54 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ed13ded3-4803-4f96-a257-b7064d28439e",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6138&type=deputado",
+      "name": "Isaura Pedro",
+      "sort_name": "Isaura Pedro",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6138&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ed13ded3-4803-4f96-a257-b7064d28439e",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/viseu",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5a488e91-0212-41e9-89b0-0e453684b9f6",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6048&type=deputado",
+      "name": "Ivan Gonçalves",
+      "sort_name": "Ivan Gonçalves",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6048&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5a488e91-0212-41e9-89b0-0e453684b9f6",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/setúbal",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2084,6 +2971,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f6d9971c-2cb8-4fd2-bc4f-b74f5c651be2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6063&type=deputado",
+      "name": "Joana Mortágua",
+      "sort_name": "Joana Mortágua",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6063&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f6d9971c-2cb8-4fd2-bc4f-b74f5c651be2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/setúbal",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2195,8 +3106,8 @@
       "gender": "male",
       "id": "person/835b3307-1c1b-44a4-a684-2967afc879f4",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4194&type=deputado",
-      "name": "Jorge Costa",
-      "sort_name": "Jorge Costa",
+      "name": "Jorge Duarte Costa",
+      "sort_name": "Jorge Duarte Costa",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4194&type=deputado"
@@ -2209,6 +3120,54 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a4ad327b-20f8-4d9a-a2d1-755f200d1182",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5855&type=deputado",
+      "name": "Jorge Falcato Simões",
+      "sort_name": "Jorge Falcato Simões",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5855&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a4ad327b-20f8-4d9a-a2d1-755f200d1182",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bb2e8a2a-9986-4343-b27d-67277ac926c2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5587&type=deputado",
+      "name": "Jorge Gomes",
+      "sort_name": "Jorge Gomes",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5587&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bb2e8a2a-9986-4343-b27d-67277ac926c2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/bragança",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2358,6 +3317,30 @@
           "organization_id": "chamber/assembleia_da_república",
           "role": "member",
           "on_behalf_of_id": "ps",
+          "area_id": "area/faro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/adcebc00-e740-4d03-ac9a-d114dfb1e9f6",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5685&type=deputado",
+      "name": "José Carlos Barros",
+      "sort_name": "José Carlos Barros",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5685&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/adcebc00-e740-4d03-ac9a-d114dfb1e9f6",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
           "area_id": "area/faro",
           "legislative_period_id": "term/13"
         }
@@ -2664,6 +3647,30 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8ae5bfcb-890a-4651-b939-0c64b2bed9f2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6158&type=deputado",
+      "name": "João Azevedo Castro",
+      "sort_name": "João Azevedo Castro",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6158&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8ae5bfcb-890a-4651-b939-0c64b2bed9f2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/açores",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2981,6 +3988,78 @@
       ]
     },
     {
+      "id": "person/1d1c1f1f-ddbd-4d98-a249-8babb002100a",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6157&type=deputado",
+      "name": "Lara Martinho",
+      "sort_name": "Lara Martinho",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6157&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1d1c1f1f-ddbd-4d98-a249-8babb002100a",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/açores",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b0b12c82-ad36-4a4b-9be3-f84f53efb2ef",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5580&type=deputado",
+      "name": "Laura Monteiro Magalhães",
+      "sort_name": "Laura Monteiro Magalhães",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5580&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b0b12c82-ad36-4a4b-9be3-f84f53efb2ef",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/braga",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4e67f35c-b862-4a8e-8b0d-f22515851624",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5989&type=deputado",
+      "name": "Leonel Costa",
+      "sort_name": "Leonel Costa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5989&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4e67f35c-b862-4a8e-8b0d-f22515851624",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/f5bc5372-86b2-40c3-be4b-554ebf113888",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4555&type=deputado",
@@ -3031,6 +4110,30 @@
       ]
     },
     {
+      "id": "person/f92eac2b-73fd-4d88-a30a-a31f9c3633b6",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5677&type=deputado",
+      "name": "Luís Graça",
+      "sort_name": "Luís Graça",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5677&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f92eac2b-73fd-4d88-a30a-a31f9c3633b6",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/faro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/f6e5daa9-b972-42d2-8b9c-11a5ac352b08",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4364&type=deputado",
@@ -3073,6 +4176,30 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/eda3a062-7a6d-4cd5-b47f-ec21afc8c14d",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5949&type=deputado",
+      "name": "Luís Monteiro",
+      "sort_name": "Luís Monteiro",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5949&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/eda3a062-7a6d-4cd5-b47f-ec21afc8c14d",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/porto",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3157,6 +4284,30 @@
       ]
     },
     {
+      "id": "person/2b61c69c-48cc-44c4-b4aa-e387467da2ad",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5531&type=deputado",
+      "name": "Luís Soares",
+      "sort_name": "Luís Soares",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5531&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2b61c69c-48cc-44c4-b4aa-e387467da2ad",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/braga",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/116dfce3-fa49-4815-aa46-d919057f78b2",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4148&type=deputado",
@@ -3174,6 +4325,30 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/452e9342-2df1-402d-9dcd-c8add1e72b53",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6188&type=deputado",
+      "name": "Luís Vilhena",
+      "sort_name": "Luís Vilhena",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6188&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/452e9342-2df1-402d-9dcd-c8add1e72b53",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/madeira",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3207,6 +4382,54 @@
       ]
     },
     {
+      "id": "person/6bc9abcf-2167-42ff-b902-44a741bfb935",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5493&type=deputado",
+      "name": "Lília Ana Águas",
+      "sort_name": "Lília Ana Águas",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5493&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6bc9abcf-2167-42ff-b902-44a741bfb935",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "area/aveiro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fa33f6e9-bb82-4cbc-a20d-909fa19f00bb",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5528&type=deputado",
+      "name": "Manuel Caldeira Cabral",
+      "sort_name": "Manuel Caldeira Cabral",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5528&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fa33f6e9-bb82-4cbc-a20d-909fa19f00bb",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/braga",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/b35054cb-b2b3-4e08-b1d3-913dc57592d3",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1434&type=deputado",
@@ -3224,6 +4447,55 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/castelo_branco",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/19b5dbc3-cd09-45b9-ad2c-380ebd092d33",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4353&type=deputado",
+      "name": "Manuel Isaac",
+      "sort_name": "Manuel Isaac",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4353&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/19b5dbc3-cd09-45b9-ad2c-380ebd092d33",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "area/leiria",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/57a798ad-7b1d-41bd-8e46-7c8458b47010",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5618&type=deputado",
+      "name": "Manuel Rodrigues",
+      "sort_name": "Manuel Rodrigues",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5618&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/57a798ad-7b1d-41bd-8e46-7c8458b47010",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/coimbra",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3282,6 +4554,54 @@
       ]
     },
     {
+      "id": "person/ded849bf-5bc5-4cde-a2be-15a89184bc75",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6207&type=deputado",
+      "name": "Margarida Balseiro Lopes",
+      "sort_name": "Margarida Balseiro Lopes",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6207&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ded849bf-5bc5-4cde-a2be-15a89184bc75",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/leiria",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4e1298b8-7dcd-4cfa-bd17-c4f9132d42d2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5617&type=deputado",
+      "name": "Margarida Mano",
+      "sort_name": "Margarida Mano",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5617&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4e1298b8-7dcd-4cfa-bd17-c4f9132d42d2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/coimbra",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/8c03a520-aef9-46a9-8991-add035cbacc7",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=3339&type=deputado",
@@ -3311,8 +4631,8 @@
       "gender": "female",
       "id": "person/bd30bf88-4cc2-43d9-a183-0791fd534f66",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1594&type=deputado",
-      "name": "Maria Antónia de Almeida Santos",
-      "sort_name": "Maria Antónia de Almeida Santos",
+      "name": "Maria Antónia Almeida Santos",
+      "sort_name": "Maria Antónia Almeida Santos",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1594&type=deputado"
@@ -3325,6 +4645,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/guarda",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8b893308-5cc9-460b-844a-8ed0a3929dc9",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5530&type=deputado",
+      "name": "Maria Augusta Santos",
+      "sort_name": "Maria Augusta Santos",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5530&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8b893308-5cc9-460b-844a-8ed0a3929dc9",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/braga",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3383,6 +4727,30 @@
       ]
     },
     {
+      "id": "person/d3053d9d-163c-4174-8b1a-b5ef9055d965",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5984&type=deputado",
+      "name": "Maria Germana Rocha",
+      "sort_name": "Maria Germana Rocha",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5984&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d3053d9d-163c-4174-8b1a-b5ef9055d965",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/ed89afd4-307d-463d-b7cc-f50925d2bb03",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4354&type=deputado",
@@ -3425,6 +4793,54 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ed62c191-6ee1-4d26-a23a-dff322684403",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5856&type=deputado",
+      "name": "Maria Luísa Cabral",
+      "sort_name": "Maria Luísa Cabral",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5856&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ed62c191-6ee1-4d26-a23a-dff322684403",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/768f201e-4557-47db-991e-284bdeba71b3",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6126&type=deputado",
+      "name": "Maria Manuel Leitão Marques",
+      "sort_name": "Maria Manuel Leitão Marques",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6126&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/768f201e-4557-47db-991e-284bdeba71b3",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/viseu",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3486,8 +4902,8 @@
       "gender": "female",
       "id": "person/4841e29c-7dfe-413b-b9ff-0d96e4267a33",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4193&type=deputado",
-      "name": "Maria das Mercês Borges",
-      "sort_name": "Maria das Mercês Borges",
+      "name": "Maria das Mercês Soares",
+      "sort_name": "Maria das Mercês Soares",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4193&type=deputado"
@@ -3525,6 +4941,30 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/614898f0-497a-4023-853a-5da595810b00",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6128&type=deputado",
+      "name": "Marisabel Moutela",
+      "sort_name": "Marisabel Moutela",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6128&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/614898f0-497a-4023-853a-5da595810b00",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/viseu",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3576,6 +5016,54 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9d214e5b-3ad2-4d47-a87f-924fa0c7b781",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5986&type=deputado",
+      "name": "Miguel Morgado",
+      "sort_name": "Miguel Morgado",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5986&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9d214e5b-3ad2-4d47-a87f-924fa0c7b781",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0d35371f-555b-49f6-b0d6-1f843092038b",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5582&type=deputado",
+      "name": "Miguel Peixoto",
+      "sort_name": "Miguel Peixoto",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5582&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0d35371f-555b-49f6-b0d6-1f843092038b",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/braga",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3688,6 +5176,30 @@
       ]
     },
     {
+      "id": "person/414b3c20-4faa-4a29-ba60-22bcbd4d652e",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5829&type=deputado",
+      "name": "Mário Centeno",
+      "sort_name": "Mário Centeno",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5829&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/414b3c20-4faa-4a29-ba60-22bcbd4d652e",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/aa60aac6-723e-454a-9a19-62491c5d9d9e",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4326&type=deputado",
@@ -3705,6 +5217,30 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/beja",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/56fc08d0-af8c-4f78-9ddb-29173ed16a62",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5635&type=deputado",
+      "name": "Norberto Patinho",
+      "sort_name": "Norberto Patinho",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5635&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/56fc08d0-af8c-4f78-9ddb-29173ed16a62",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/Évora",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3893,6 +5429,30 @@
       ]
     },
     {
+      "id": "person/c232c37d-0703-4c87-9d88-74ec5645c090",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6037&type=deputado",
+      "name": "Patrícia Fonseca",
+      "sort_name": "Patrícia Fonseca",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6037&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c232c37d-0703-4c87-9d88-74ec5645c090",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "area/santarém",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/6effad94-05b1-44ea-b559-e5ecf1e6a49f",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4197&type=deputado",
@@ -3935,6 +5495,78 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/997721c8-5e6b-4036-bda3-38e1cd942942",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6165&type=deputado",
+      "name": "Paulino Ascenção",
+      "sort_name": "Paulino Ascenção",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6165&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/997721c8-5e6b-4036-bda3-38e1cd942942",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "area/madeira",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/27c12f24-44be-4fdf-a9fe-4734acbf7b18",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5836&type=deputado",
+      "name": "Paulo Duarte Marques",
+      "sort_name": "Paulo Duarte Marques",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5836&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/27c12f24-44be-4fdf-a9fe-4734acbf7b18",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/354e290d-8c80-4a8a-bbf7-8b6a74dcd97c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6178&type=deputado",
+      "name": "Paulo Neves",
+      "sort_name": "Paulo Neves",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6178&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/354e290d-8c80-4a8a-bbf7-8b6a74dcd97c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/madeira",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4061,6 +5693,30 @@
           "role": "member",
           "on_behalf_of_id": "pcp",
           "area_id": "area/faro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5dcc5575-696c-4c70-84de-ffa58506f3f1",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6045&type=deputado",
+      "name": "Paulo Trigo Pereira",
+      "sort_name": "Paulo Trigo Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6045&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5dcc5575-696c-4c70-84de-ffa58506f3f1",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/setúbal",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4376,8 +6032,8 @@
       "gender": "male",
       "id": "person/2717b165-8d60-466b-a6cb-6aea0c42f24d",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1993&type=deputado",
-      "name": "Pedro do ó Ramos",
-      "sort_name": "Pedro do ó Ramos",
+      "name": "Pedro do Ó Ramos",
+      "sort_name": "Pedro do Ó Ramos",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1993&type=deputado"
@@ -4426,8 +6082,8 @@
       "gender": "female",
       "id": "person/ef43f4f8-a97f-453a-9101-f43455e27f24",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2106&type=deputado",
-      "name": "Regina Bastos",
-      "sort_name": "Regina Bastos",
+      "name": "Regina Ramos Bastos",
+      "sort_name": "Regina Ramos Bastos",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2106&type=deputado"
@@ -4523,6 +6179,54 @@
       ]
     },
     {
+      "id": "person/183852a6-8dfc-479f-b7fc-7183afac1e0d",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5835&type=deputado",
+      "name": "Ricardo Leão",
+      "sort_name": "Ricardo Leão",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5835&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/183852a6-8dfc-479f-b7fc-7183afac1e0d",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b9a21884-a61b-4026-bf6a-9087f1be37f2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6046&type=deputado",
+      "name": "Ricardo Mourinho",
+      "sort_name": "Ricardo Mourinho",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6046&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b9a21884-a61b-4026-bf6a-9087f1be37f2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/9caff5e9-f27c-4905-97b8-beb9d349d384",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4104&type=deputado",
@@ -4548,12 +6252,36 @@
       ]
     },
     {
+      "id": "person/3ee7e120-6140-477f-a4b0-3c0410931f0d",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6149&type=deputado",
+      "name": "Rosa Dart",
+      "sort_name": "Rosa Dart",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6149&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3ee7e120-6140-477f-a4b0-3c0410931f0d",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/açores",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "albernaz@ps.parlamento.pt",
       "gender": "female",
       "id": "person/8ff1310b-c2e2-42b7-981d-2705592b790d",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=204&type=deputado",
-      "name": "Rosa Maria Bastos Albernaz",
-      "sort_name": "Rosa Maria Bastos Albernaz",
+      "name": "Rosa Maria Albernaz",
+      "sort_name": "Rosa Maria Albernaz",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=204&type=deputado"
@@ -4566,6 +6294,78 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/aveiro",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c70d1643-c264-4202-9c2a-28a09c3ec4c6",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6177&type=deputado",
+      "name": "Rubina Berardo",
+      "sort_name": "Rubina Berardo",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6177&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c70d1643-c264-4202-9c2a-28a09c3ec4c6",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/madeira",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7ef61f16-7f2c-459a-92c2-9accf5fba31c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5833&type=deputado",
+      "name": "Rui Riso",
+      "sort_name": "Rui Riso",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5833&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7ef61f16-7f2c-459a-92c2-9accf5fba31c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/99dbd476-ec7b-441b-b253-2586e25a5848",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5581&type=deputado",
+      "name": "Rui Silva",
+      "sort_name": "Rui Silva",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5581&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/99dbd476-ec7b-441b-b253-2586e25a5848",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/braga",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4591,6 +6391,30 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e8e9b1df-0070-486d-95e0-996c697f3332",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5749&type=deputado",
+      "name": "Sandra Pereira",
+      "sort_name": "Sandra Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5749&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e8e9b1df-0070-486d-95e0-996c697f3332",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/lisboa",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4649,6 +6473,78 @@
       ]
     },
     {
+      "id": "person/175d1c48-a4a0-473f-9fc1-ae4b201129d8",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6176&type=deputado",
+      "name": "Sara Madruga da Costa",
+      "sort_name": "Sara Madruga da Costa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6176&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/175d1c48-a4a0-473f-9fc1-ae4b201129d8",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/madeira",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9b8cf9d8-a591-4ad3-b3ca-7164695845f9",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6049&type=deputado",
+      "name": "Sofia Araújo",
+      "sort_name": "Sofia Araújo",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6049&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9b8cf9d8-a591-4ad3-b3ca-7164695845f9",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b2592d3a-46eb-4075-975e-05ee1d8ba35c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6081&type=deputado",
+      "name": "Sonia dos Reis",
+      "sort_name": "Sonia dos Reis",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6081&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b2592d3a-46eb-4075-975e-05ee1d8ba35c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/setúbal",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/02ac562b-80e4-4a37-b50d-34136600bdb6",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1944&type=deputado",
@@ -4666,6 +6562,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/lisboa",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/43d30463-0e19-4ebc-8034-49f599dfe2e6",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5491&type=deputado",
+      "name": "Susana Lamas",
+      "sort_name": "Susana Lamas",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5491&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/43d30463-0e19-4ebc-8034-49f599dfe2e6",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/aveiro",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4808,6 +6728,30 @@
       ]
     },
     {
+      "id": "person/deef3501-6506-41f9-8bc6-006f05c7f0f2",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5988&type=deputado",
+      "name": "Teresa Candeias",
+      "sort_name": "Teresa Candeias",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5988&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/deef3501-6506-41f9-8bc6-006f05c7f0f2",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/4cef0a57-e53f-4d22-9baf-eade2184db35",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4389&type=deputado",
@@ -4875,6 +6819,30 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/porto",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b14c5ff6-ecad-4dd6-9089-3b924ed904d1",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6112&type=deputado",
+      "name": "Tiago Brandão Rodrigues",
+      "sort_name": "Tiago Brandão Rodrigues",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6112&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b14c5ff6-ecad-4dd6-9089-3b924ed904d1",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/viana_do_castelo",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5037,8 +7005,8 @@
       "gender": "male",
       "id": "person/5c3180be-2bb9-4956-a691-190d4c0e5877",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1290&type=deputado",
-      "name": "Álvaro Castelo Branco",
-      "sort_name": "Álvaro Castelo Branco",
+      "name": "Álvaro Castello-Branco",
+      "sort_name": "Álvaro Castello-Branco",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1290&type=deputado"
