@@ -1,7 +1,7 @@
 {
-  "total": 417,
+  "total": 416,
   "page": 1,
-  "per_page": 417,
+  "per_page": 416,
   "has_more": false,
   "result": [
     {
@@ -6013,6 +6013,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5c7ccba8-f883-4dc7-b7e3-f2a315a41674",
       "image": "http://www.cdep.ro/parlamentari/l2012/Munteanu_Ioan.jpg",
       "name": "Munteanu Ioan",
@@ -8414,32 +8415,6 @@
     },
     {
       "gender": "male",
-      "id": "person/47a76caa-4851-43ef-b63f-f511198b5f57",
-      "image": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg",
-      "name": "Silaghi Ovidiu Ioan",
-      "sort_name": "Ovidiu Ioan SILAGHI",
-      "images": [
-        {
-          "url": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/47a76caa-4851-43ef-b63f-f511198b5f57",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "alde",
-          "area_id": "32",
-          "start_date": "2014-06-11",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/78932d3b-45c0-47b2-9c89-b6492441c781",
       "image": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg",
       "name": "Silaghi Ovidiu Ioan",
@@ -8457,6 +8432,15 @@
           "on_behalf_of_id": "pnl",
           "area_id": "32",
           "end_date": "2013-09-03",
+          "legislative_period_id": "term/2012"
+        },
+        {
+          "person_id": "person/78932d3b-45c0-47b2-9c89-b6492441c781",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "alde",
+          "area_id": "32",
+          "start_date": "2014-06-11",
           "legislative_period_id": "term/2012"
         }
       ],
