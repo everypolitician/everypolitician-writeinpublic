@@ -1,11 +1,11 @@
 {
-  "total": 47,
+  "total": 48,
   "page": 1,
-  "per_page": 47,
+  "per_page": 48,
   "has_more": false,
   "result": [
     {
-      "email": "jamtshoc@nab.gov.bt",
+      "email": "cjamtsho@nab.gov.bt",
       "gender": "male",
       "id": "person/a0fa5cf3-c345-4731-af9b-ad98a1ec5064",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/choida-jamtsho.jpg",
@@ -31,15 +31,41 @@
       ]
     },
     {
-      "email": "dgyaltshen@nab.gov.bt",
+      "email": "ddorji@mfa.gov.bt",
+      "gender": "male",
+      "id": "person/d9fd66a3-1f08-4635-b706-25928fa6456c",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg",
+      "name": "Damcho Dorji",
+      "sort_name": "Damcho Dorji",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d9fd66a3-1f08-4635-b706-25928fa6456c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/khatoed_laya",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dgyaltshen@mohca.gov.bt",
       "gender": "male",
       "id": "person/40ce533e-7193-410e-bd38-c418468d89f8",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dawa-gyeltshen.jpg",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dgyaltshen.JPG",
       "name": "Dawa Gyaltshen",
       "sort_name": "Dawa Gyaltshen",
       "images": [
         {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dawa-gyeltshen.jpg"
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dgyaltshen.JPG"
         }
       ],
       "memberships": [
@@ -84,7 +110,33 @@
       ]
     },
     {
-      "email": "ddukpa@nab.gov.bt",
+      "email": "dndhungyel@moic.gov.bt",
+      "gender": "male",
+      "id": "person/6b61a9ec-c269-466a-a7b6-dbbf7c701b04",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg",
+      "name": "Dina Nath Dhungyel",
+      "sort_name": "Dina Nath Dhungyel",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6b61a9ec-c269-466a-a7b6-dbbf7c701b04",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/phuentshogpelri_samtse",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dophudukpa@nab.gov.bt",
       "gender": "male",
       "id": "person/241b0a4a-c926-443f-8e2e-bd9a658cdcaa",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/dophu-dukpa.jpg",
@@ -102,6 +154,32 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/kabisa_talog",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dchoden@mowhs.gov.bt",
+      "gender": "female",
+      "id": "person/87e4847d-73a9-4359-abdc-5190cbf239dc",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg",
+      "name": "Dorji Choden",
+      "sort_name": "Dorji Choden",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/87e4847d-73a9-4359-abdc-5190cbf239dc",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/thrimshing",
           "legislative_period_id": "term/2"
         }
       ],
@@ -136,7 +214,7 @@
       ]
     },
     {
-      "email": "ol@nab.gov.bt",
+      "email": "pgyamtsho@nab.gov.bt",
       "gender": "male",
       "id": "person/538f982c-d528-4f6a-a3fc-4ecdaf9b1446",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pema-gyamtsho.jpg",
@@ -266,6 +344,32 @@
       ]
     },
     {
+      "email": "jzangpo@nab.gov.bt",
+      "gender": "male",
+      "id": "person/0a450d5f-6932-4daf-a01d-7ee72ddd5f90",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg",
+      "name": "Jigme Zangpo",
+      "sort_name": "Jigme Zangpo",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0a450d5f-6932-4daf-a01d-7ee72ddd5f90",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/monggar",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "kdorji@nab.gov.bt",
       "gender": "male",
       "id": "person/f7c23c1e-1b0a-4100-9717-6289a33b0c41",
@@ -344,7 +448,7 @@
       ]
     },
     {
-      "email": "kezangd@nab.gov.bt",
+      "email": "kezangwangmo@nab.gov.bt",
       "gender": "female",
       "id": "person/d316b6ea-ab4e-4653-a2d8-9fa16720d441",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/kezang-wangmo.jpg",
@@ -451,12 +555,12 @@
       "email": "kuenga@nab.gov.bt",
       "gender": "male",
       "id": "person/ad2fe0bb-ab0d-4ffb-9b00-2547d63c1554",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Kuenga.JPG",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Kuenga.jpg",
       "name": "Kuenga",
       "sort_name": "Kuenga",
       "images": [
         {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Kuenga.JPG"
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Kuenga.jpg"
         }
       ],
       "memberships": [
@@ -474,15 +578,15 @@
       ]
     },
     {
-      "email": "lekeydorji@nab.gov.bt",
+      "email": "lekeyd@moea.gov.bt",
       "gender": "male",
       "id": "person/de3385ea-a9be-4913-a278-ca7196131ad3",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lekey-dorji.jpg",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/LLekeyd.jpg",
       "name": "Lekey Dorji",
       "sort_name": "Lekey Dorji",
       "images": [
         {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lekey-dorji.jpg"
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/LLekeyd.jpg"
         }
       ],
       "memberships": [
@@ -500,7 +604,7 @@
       ]
     },
     {
-      "email": "pm@nab.gov.bt",
+      "email": "ttobgay@cabinet.gov.bt",
       "gender": "male",
       "id": "person/06801ad6-c94d-450d-8678-900ebeb472ac",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonchen-tshering-tobgay.jpg",
@@ -535,292 +639,6 @@
       ]
     },
     {
-      "email": "mohca@nab.gov.bt",
-      "gender": "male",
-      "id": "person/d9fd66a3-1f08-4635-b706-25928fa6456c",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg",
-      "name": "Lyonpo Damcho Dorji",
-      "sort_name": "Lyonpo Damcho Dorji",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Lyonpo-Damcho-Dorji.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d9fd66a3-1f08-4635-b706-25928fa6456c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/khatoed_laya",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "moic@nab.gov.bt",
-      "gender": "male",
-      "id": "person/6b61a9ec-c269-466a-a7b6-dbbf7c701b04",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg",
-      "name": "Lyonpo Dina Nath Dhungyel",
-      "sort_name": "Lyonpo Dina Nath Dhungyel",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dn-dungyel.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6b61a9ec-c269-466a-a7b6-dbbf7c701b04",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/phuentshogpelri_samtse",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mowhs@nab.gov.bt",
-      "gender": "female",
-      "id": "person/87e4847d-73a9-4359-abdc-5190cbf239dc",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg",
-      "name": "Lyonpo Dorji Choden",
-      "sort_name": "Lyonpo Dorji Choden",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-dorji-choden.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/87e4847d-73a9-4359-abdc-5190cbf239dc",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/thrimshing",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "speaker@nab.gov.bt",
-      "gender": "male",
-      "id": "person/0a450d5f-6932-4daf-a01d-7ee72ddd5f90",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg",
-      "name": "Lyonpo Jigme Zangpo",
-      "sort_name": "Lyonpo Jigme Zangpo",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-jigme-zangpo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0a450d5f-6932-4daf-a01d-7ee72ddd5f90",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/monggar",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "moe@nab.gov.bt",
-      "gender": "male",
-      "id": "person/7952ffd9-f40e-4bc7-a404-344ed1a69f4c",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-mingbo-dukpa.jpg",
-      "name": "Lyonpo Mingbo Dukpa",
-      "sort_name": "Lyonpo Mingbo Dukpa",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-mingbo-dukpa.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7952ffd9-f40e-4bc7-a404-344ed1a69f4c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/dewathang_gomdar",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "moh@nab.gov.bt",
-      "gender": "male",
-      "id": "person/1f6dcc19-dbee-445c-8cb4-88644a6825bd",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg",
-      "name": "Lyonpo Namgay Dorji",
-      "sort_name": "Lyonpo Namgay Dorji",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1f6dcc19-dbee-445c-8cb4-88644a6825bd",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/draagteng_langthil",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "molhr@nab.gov.bt",
-      "gender": "male",
-      "id": "person/fa570e89-ddbf-4c3a-8e3e-62b8efd36d30",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg",
-      "name": "Lyonpo Ngeema Sangay Tshempo",
-      "sort_name": "Lyonpo Ngeema Sangay Tshempo",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fa570e89-ddbf-4c3a-8e3e-62b8efd36d30",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/lhamoi_dzingkha_tashiding",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "moea@nab.gov.bt",
-      "gender": "male",
-      "id": "person/45af3621-d325-49c8-88ff-941260fe6112",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg",
-      "name": "Lyonpo Norbu Wangchuk",
-      "sort_name": "Lyonpo Norbu Wangchuk",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/45af3621-d325-49c8-88ff-941260fe6112",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/kanglung_samkhar_udzorong",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mofa@nab.gov.bt",
-      "gender": "male",
-      "id": "person/f7948c27-88e2-4893-b653-e2ffe58edb62",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-rinzin-dorji.jpg",
-      "name": "Lyonpo Rinzin Dorji",
-      "sort_name": "Lyonpo Rinzin Dorji",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-rinzin-dorji.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f7948c27-88e2-4893-b653-e2ffe58edb62",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/shompangkha",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "moh@nab.gov.bt",
-      "gender": "male",
-      "id": "person/4d1e5b6e-d3a9-4181-ad01-8e5896d0a04e",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg",
-      "name": "Lyonpo Tandin Wangchuk",
-      "sort_name": "Lyonpo Tandin Wangchuk",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4d1e5b6e-d3a9-4181-ad01-8e5896d0a04e",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/athang_thedtsho",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "moaf@nab.gov.bt",
-      "gender": "male",
-      "id": "person/828f2fef-d260-426c-a435-5529118e1fe3",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg",
-      "name": "Lyonpo Yeshey Dorji",
-      "sort_name": "Lyonpo Yeshey Dorji",
-      "images": [
-        {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/828f2fef-d260-426c-a435-5529118e1fe3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/maenbi_tsaenkhar",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "mkchhetri@nab.gov.bt",
       "gender": "male",
       "id": "person/8224990f-4449-4425-a46f-a8bb46cb4d91",
@@ -847,6 +665,84 @@
       ]
     },
     {
+      "email": "mdukpa@nab.gov.bt",
+      "gender": "male",
+      "id": "person/7952ffd9-f40e-4bc7-a404-344ed1a69f4c",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-mingbo-dukpa.jpg",
+      "name": "Mingbo Dukpa",
+      "sort_name": "Mingbo Dukpa",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-mingbo-dukpa.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7952ffd9-f40e-4bc7-a404-344ed1a69f4c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/dewathang_gomdar",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "namgay@mof.gov.bt",
+      "gender": "male",
+      "id": "person/1f6dcc19-dbee-445c-8cb4-88644a6825bd",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg",
+      "name": "Namgay Dorji",
+      "sort_name": "Namgay Dorji",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-namgay-dorji1.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1f6dcc19-dbee-445c-8cb4-88644a6825bd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/draagteng_langthil",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "nstshempo@molhr.gov.bt",
+      "gender": "male",
+      "id": "person/fa570e89-ddbf-4c3a-8e3e-62b8efd36d30",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg",
+      "name": "Ngeema Sangay Tshempo",
+      "sort_name": "Ngeema Sangay Tshempo",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-ngeema-sangay-tshemp.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fa570e89-ddbf-4c3a-8e3e-62b8efd36d30",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/lhamoi_dzingkha_tashiding",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "nzangpo@nab.gov.bt",
       "gender": "male",
       "id": "person/b429c47c-c69e-47f7-a8d6-42067b921f19",
@@ -865,6 +761,32 @@
           "role": "member",
           "on_behalf_of_id": "DPT",
           "area_id": "area/nubi_tangsibji",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "minister@education.gov.bt",
+      "gender": "male",
+      "id": "person/45af3621-d325-49c8-88ff-941260fe6112",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg",
+      "name": "Norbu Wangchuk",
+      "sort_name": "Norbu Wangchuk",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-norbu-wangchuk.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/45af3621-d325-49c8-88ff-941260fe6112",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/kanglung_samkhar_udzorong",
           "legislative_period_id": "term/2"
         }
       ],
@@ -928,12 +850,12 @@
       "email": "pdrukpa@nab.gov.bt",
       "gender": "male",
       "id": "person/a420aa97-6077-44b8-be36-7f0879a2eed4",
-      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pema-drukpa.jpg",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pd.jpg",
       "name": "Pema Drukpa",
       "sort_name": "Pema Drukpa",
       "images": [
         {
-          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pema-drukpa.jpg"
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/pd.jpg"
         }
       ],
       "memberships": [
@@ -977,7 +899,33 @@
       ]
     },
     {
-      "email": "rgamtsho@nab.gov.bt",
+      "email": "rinzindorji@nab.gov.bt",
+      "gender": "male",
+      "id": "person/f7948c27-88e2-4893-b653-e2ffe58edb62",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Rdorji.jpg",
+      "name": "Rinzin Dorji.",
+      "sort_name": "Rinzin Dorji.",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/Rdorji.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f7948c27-88e2-4893-b653-e2ffe58edb62",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/shompangkha",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rjamtsho@nab.gov.bt",
       "gender": "male",
       "id": "person/8173a460-90bf-4e68-a305-691335fa0f9f",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/rinzin-gamtsho.jpg",
@@ -1003,7 +951,7 @@
       ]
     },
     {
-      "email": "rrchhetri@nab.gov.bt",
+      "email": "rchhetri@nab.gov.bt",
       "gender": "male",
       "id": "person/c61165d0-7051-4689-be0c-0dacd47a2d27",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/ritu-raj-chhetri.jpg",
@@ -1029,7 +977,7 @@
       ]
     },
     {
-      "email": "sddorjee@nab.gov.bt",
+      "email": "sdorjee@nab.gov.bt",
       "gender": "male",
       "id": "person/e8433745-0c1a-4143-b2fe-f6d90f39a942",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/sonam-dondup-dorjee.jpg",
@@ -1055,7 +1003,33 @@
       ]
     },
     {
-      "email": "tksubba@nab.gov.bt",
+      "email": "twangchuk@health.gov.bt",
+      "gender": "male",
+      "id": "person/4d1e5b6e-d3a9-4181-ad01-8e5896d0a04e",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg",
+      "name": "Tandin Wangchuk",
+      "sort_name": "Tandin Wangchuk",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-tandin-wangchuk.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4d1e5b6e-d3a9-4181-ad01-8e5896d0a04e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/athang_thedtsho",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tbsubba@nab.gov.bt",
       "gender": "male",
       "id": "person/69d08f95-ffe7-42cd-8d28-82efd06b6570",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/tek-bahadur-subha.jpg",
@@ -1073,6 +1047,32 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/dophuchen_tading",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tshering@nab.gov.bt",
+      "id": "person/a0dd8f0f-9cfa-42d3-bb59-1a92216c4b94",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2016/tshering_mp.jpg",
+      "name": "Tshering",
+      "sort_name": "Tshering",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2016/tshering_mp.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a0dd8f0f-9cfa-42d3-bb59-1a92216c4b94",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/north_thimphu",
+          "start_date": "2016-11-10",
           "legislative_period_id": "term/2"
         }
       ],
@@ -1107,7 +1107,7 @@
       ]
     },
     {
-      "email": "ugyenw2012@nab.gov.bt",
+      "email": "uwangdi@nab.gov.bt",
       "gender": "male",
       "id": "person/69ab73ad-d986-42d9-8ea0-36a12649862a",
       "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/ugyen-wangdi.jpg",
@@ -1151,6 +1151,32 @@
           "role": "member",
           "on_behalf_of_id": "DPT",
           "area_id": "area/bartsham_shongphu",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ydorji@moaf.gov.bt",
+      "gender": "male",
+      "id": "person/828f2fef-d260-426c-a435-5529118e1fe3",
+      "image": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg",
+      "name": "Yeshey Dorji",
+      "sort_name": "Yeshey Dorji",
+      "images": [
+        {
+          "url": "http://www.nab.gov.bt/assets/uploads/images/member/thumb/2014/lyonpo-yeshey-dorji.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/828f2fef-d260-426c-a435-5529118e1fe3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/maenbi_tsaenkhar",
           "legislative_period_id": "term/2"
         }
       ],
