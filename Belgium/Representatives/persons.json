@@ -1,7 +1,7 @@
 {
-  "total": 169,
+  "total": 170,
   "page": 1,
-  "per_page": 169,
+  "per_page": 170,
   "has_more": false,
   "result": [
     {
@@ -301,6 +301,26 @@
           "start_date": "2016-04-29",
           "legislative_period_id": "term/54"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/35fdc34b-2207-45d1-93cf-eebb15872462",
+      "name": "Annick Lambrecht",
+      "sort_name": "Annick Lambrecht",
+      "memberships": [
+        {
+          "person_id": "person/35fdc34b-2207-45d1-93cf-eebb15872462",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "sp.a",
+          "area_id": "area/west-vlaanderen",
+          "start_date": "2017-01-12",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2084,6 +2104,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/west-vlaanderen",
+          "end_date": "2017-01-12",
           "legislative_period_id": "term/54"
         }
       ],
