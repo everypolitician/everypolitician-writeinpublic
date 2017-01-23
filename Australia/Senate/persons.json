@@ -1,7 +1,7 @@
 {
-  "total": 93,
+  "total": 77,
   "page": 1,
-  "per_page": 93,
+  "per_page": 77,
   "has_more": false,
   "result": [
     {
@@ -29,36 +29,6 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/sa",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
-      "email": "senator.mcewen@aph.gov.au",
-      "gender": "female",
-      "id": "person/50bb2c37-2937-4120-9d5b-8fab706c09d6",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5E/upload_ref_binary/E5E.jpg",
-      "name": "Anne McEwen",
-      "sort_name": "McEwen, Anne",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Senator_McEwen"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5E/upload_ref_binary/E5E.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/50bb2c37-2937-4120-9d5b-8fab706c09d6",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/sa",
-          "end_date": "2016-05-09",
           "legislative_period_id": "term/45"
         }
       ]
@@ -121,6 +91,7 @@
       ]
     },
     {
+      "email": "senator.chisholm@aph.gov.au",
       "gender": "male",
       "id": "person/c92a9030-27d8-404f-b666-892e36d7da87",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/39801/upload_ref_binary/39801.jpg",
@@ -200,32 +171,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/143868a4-a562-4d3b-b50c-e134e4eb2b5b",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C16/upload_ref_binary/C16.jpg",
-      "name": "Bill Heffernan",
-      "sort_name": "Heffernan, Bill",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/C16/upload_ref_binary/C16.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/143868a4-a562-4d3b-b50c-e134e4eb2b5b",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party",
-          "area_id": "area/nsw",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "senator.day@aph.gov.au",
       "gender": "male",
       "id": "person/7ddaf281-92a1-4554-9aab-0f09f804af77",
@@ -256,20 +201,13 @@
           "role": "member",
           "on_behalf_of_id": "family_first_party",
           "area_id": "area/sa",
-          "legislative_period_id": "term/45"
-        },
-        {
-          "person_id": "person/7ddaf281-92a1-4554-9aab-0f09f804af77",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "family_first_party",
-          "area_id": "area/sa",
           "end_date": "2016-11-01",
           "legislative_period_id": "term/45"
         }
       ]
     },
     {
+      "email": "senator.burston@aph.gov.au",
       "gender": "male",
       "id": "person/dc64384f-3d50-4021-934c-afafc23d789c",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/207807/upload_ref_binary/207807.jpg",
@@ -582,35 +520,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AON/upload_ref_binary/00AON.JPG",
-      "name": "David Johnston",
-      "sort_name": "Johnston, David",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenJohnston"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AON/upload_ref_binary/00AON.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party",
-          "area_id": "area/wa",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
       "email": "senator.leyonhjelm@aph.gov.au",
       "gender": "male",
       "id": "person/08d1256c-cb2d-4115-bca3-88d19a2bb414",
@@ -703,6 +612,7 @@
       ]
     },
     {
+      "email": "senator.hinch@aph.gov.au",
       "gender": "male",
       "id": "person/4dcae960-6add-4eb7-9a7e-b6e9a487b226",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2O4/upload_ref_binary/2O4.jpg",
@@ -725,36 +635,6 @@
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "email": "senator.wang@aph.gov.au",
-      "gender": "male",
-      "id": "person/2c029580-c7cf-4f76-99da-b0beb3f265f4",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250045/upload_ref_binary/250045.jpg",
-      "name": "Dio Wang",
-      "sort_name": "Wang, Dio",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenatorZWang"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250045/upload_ref_binary/250045.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2c029580-c7cf-4f76-99da-b0beb3f265f4",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "palmer_united_party",
-          "area_id": "area/wa",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
       ]
     },
     {
@@ -926,35 +806,6 @@
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2c087853-b69c-4677-adad-e8fc9b099d9f",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/108616/upload_ref_binary/108616.jpg",
-      "name": "Glenn Lazarus",
-      "sort_name": "Lazarus, Glenn",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenatorLazarus"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/108616/upload_ref_binary/108616.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2c087853-b69c-4677-adad-e8fc9b099d9f",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/queensland",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
       ]
     },
     {
@@ -1166,36 +1017,7 @@
       ]
     },
     {
-      "email": "senator.mclucas@aph.gov.au",
-      "gender": "female",
-      "id": "person/2b2081df-2fe3-43d5-9886-c8d01bef443e",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84L/upload_ref_binary/84L.JPG",
-      "name": "Jan McLucas",
-      "sort_name": "McLucas, Jan",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "JanMcLucas"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84L/upload_ref_binary/84L.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2b2081df-2fe3-43d5-9886-c8d01bef443e",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/queensland",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
+      "email": "senator.hume@aph.gov.au",
       "gender": "female",
       "id": "person/25d08d84-ab20-4dd9-a6da-03bcc00e0be1",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266499/upload_ref_binary/266499.jpg",
@@ -1291,124 +1113,6 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/3812108f-9ee7-4972-948e-44e3d23a3982",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg",
-      "name": "Jo Lindgren",
-      "sort_name": "Lindgren, Jo",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "senatorlindgren"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenatorLindgren",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/258337/upload_ref_binary/258337.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3812108f-9ee7-4972-948e-44e3d23a3982",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party",
-          "area_id": "area/queensland",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
-      "email": "senator.bullock@aph.gov.au",
-      "gender": "male",
-      "id": "person/dd773e82-9df9-4d82-9b56-165af6a07f38",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243237/upload_ref_binary/243237.jpg",
-      "name": "Joe Bullock",
-      "sort_name": "Bullock, Joe",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243237/upload_ref_binary/243237.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dd773e82-9df9-4d82-9b56-165af6a07f38",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/wa",
-          "end_date": "2016-04-13",
-          "legislative_period_id": "term/45"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/8b0eb988-e462-4b8a-a947-4970b143b8de",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84N/upload_ref_binary/84N.jpg",
-      "name": "Joe Ludwig",
-      "sort_name": "Ludwig, Joe",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenatorLudwig"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/84N/upload_ref_binary/84N.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8b0eb988-e462-4b8a-a947-4970b143b8de",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/queensland",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
-      "email": "senator.madigan@aph.gov.au",
-      "gender": "male",
-      "id": "person/8b0c6b42-84f5-4886-a026-0353b6a32cf4",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217571/upload_ref_binary/217571.jpg",
-      "name": "John Madigan",
-      "sort_name": "Madigan, John",
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/217571/upload_ref_binary/217571.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8b0c6b42-84f5-4886-a026-0353b6a32cf4",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/victoria",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "male",
       "id": "person/3375e2b5-b29f-48b4-a5c0-b30b6b703745",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG",
@@ -1437,6 +1141,7 @@
       ]
     },
     {
+      "email": "senator.duniam@aph.gov.au",
       "gender": "male",
       "id": "person/da45dd59-aa31-497b-ade2-bdfca3d2b5e6",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/263418/upload_ref_binary/263418.jpg",
@@ -1696,6 +1401,7 @@
       ]
     },
     {
+      "email": "Senator.McCarthy@aph.gov.au",
       "gender": "female",
       "id": "person/26ad0fd7-23cf-4268-8cce-473c838b0fbf",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/122087/upload_ref_binary/122087.jpg",
@@ -1721,6 +1427,7 @@
       ]
     },
     {
+      "email": "senator.roberts@aph.gov.au",
       "gender": "male",
       "id": "person/bbcc4637-f999-4f75-83b2-c86f0bb8402f",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266524/upload_ref_binary/266524.jpg",
@@ -1832,41 +1539,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/a263008a-ea71-4dd7-b348-8e73a6289b54",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/XT4/upload_ref_binary/XT4.JPG",
-      "name": "Michael Ronaldson",
-      "sort_name": "Ronaldson, Michael",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "senronno"
-        }
-      ],
-      "links": [
-        {
-          "url": "senronno",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/XT4/upload_ref_binary/XT4.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a263008a-ea71-4dd7-b348-8e73a6289b54",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party",
-          "area_id": "area/victoria",
-          "end_date": "2016-02-28",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/26c73bfa-9bd8-43e0-99d7-9183da991280",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0M/upload_ref_binary/I0M.jpg",
@@ -1929,6 +1601,7 @@
       ]
     },
     {
+      "email": "senator.watt@aph.gov.au",
       "gender": "male",
       "id": "person/1c01023d-14f1-45e0-a069-f1ce45a25dcd",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/245759/upload_ref_binary/245759.jpg",
@@ -2044,35 +1717,6 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/aba5ca15-f15d-4e27-8a42-efa664aa4c0c",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CDK/upload_ref_binary/CDK.jpg",
-      "name": "Nova Peris",
-      "sort_name": "Peris, Nova",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "NovaPeris"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CDK/upload_ref_binary/CDK.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/aba5ca15-f15d-4e27-8a42-efa664aa4c0c",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/nt",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
       "email": "senator.dodson@aph.gov.au",
       "gender": "male",
       "id": "person/2b42c839-2f04-4d0d-b803-bdae7e428341",
@@ -2099,6 +1743,7 @@
       ]
     },
     {
+      "email": "senator.hanson@aph.gov.au",
       "gender": "female",
       "id": "person/88d336ef-5985-44c3-9715-6238b7e71aff",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BK6/upload_ref_binary/BK6.jpg",
@@ -2216,36 +1861,6 @@
       ]
     },
     {
-      "email": "senator.colbeck@aph.gov.au",
-      "gender": "male",
-      "id": "person/a411ea63-c0a8-4df7-b88b-872390ceff4d",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOL/upload_ref_binary/00AOL.JPG",
-      "name": "Richard Colbeck",
-      "sort_name": "Colbeck, Richard",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "richardmcolbeck"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOL/upload_ref_binary/00AOL.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a411ea63-c0a8-4df7-b88b-872390ceff4d",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party",
-          "area_id": "area/tasmania",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
       "email": "senator.dinatale@aph.gov.au",
       "gender": "male",
       "id": "person/41e4f552-da12-45d9-b849-0bc36e1bb006",
@@ -2281,77 +1896,7 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/4abf00d1-54c9-4396-9430-0d44e3f06866",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250024/upload_ref_binary/250024.jpg",
-      "name": "Ricky Muir",
-      "sort_name": "Muir, Ricky",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Ricky_Muir"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenatorRickyMuir",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/250024/upload_ref_binary/250024.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4abf00d1-54c9-4396-9430-0d44e3f06866",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_motoring_enthusiast_party",
-          "area_id": "area/victoria",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
-      "email": "senator.simms@aph.gov.au",
-      "gender": "male",
-      "id": "person/5beff085-580f-4893-8f58-ffd637b8cc1b",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg",
-      "name": "Robert Simms",
-      "sort_name": "Simms, Robert",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SimmsRobert"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenatorRobertSimms",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/170166/upload_ref_binary/170166.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5beff085-580f-4893-8f58-ffd637b8cc1b",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_greens",
-          "area_id": "area/sa",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
+      "email": "senator.culleton@aph.gov.au",
       "gender": "male",
       "id": "person/5ee10e9c-fe64-4e54-9414-dceffa0cd0ef",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg",
@@ -2498,42 +2043,6 @@
       ]
     },
     {
-      "email": "senator.edwards@aph.gov.au",
-      "gender": "male",
-      "id": "person/8b96a7d6-f769-49d4-b577-1c6a76de1d88",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225307/upload_ref_binary/225307.jpg",
-      "name": "Sean Edwards",
-      "sort_name": "Edwards, Sean",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SeanC_Edwards"
-        }
-      ],
-      "links": [
-        {
-          "url": "Sean.Edwards.Clare",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/225307/upload_ref_binary/225307.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8b96a7d6-f769-49d4-b577-1c6a76de1d88",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "liberal_party",
-          "area_id": "area/sa",
-          "end_date": "2016-05-09",
-          "legislative_period_id": "term/45"
-        }
-      ]
-    },
-    {
       "gender": "male",
       "id": "person/21da000d-f8ca-41a2-bcf8-0bbf45547fcb",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/H6X/upload_ref_binary/H6X.jpg",
@@ -2568,6 +2077,7 @@
       ]
     },
     {
+      "email": "senator.kakoschke-moore@aph.gov.au",
       "gender": "female",
       "id": "person/6714e981-e55e-4576-a271-8e27e4d8d50f",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265982/upload_ref_binary/265982.jpg",
@@ -2605,14 +2115,6 @@
         }
       ],
       "memberships": [
-        {
-          "person_id": "person/9a016d4d-f26b-4b85-a026-f2eba23de3b8",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "australian_labor_party",
-          "area_id": "area/victoria",
-          "legislative_period_id": "term/45"
-        },
         {
           "person_id": "person/9a016d4d-f26b-4b85-a026-f2eba23de3b8",
           "organization_id": "chamber/senate",
@@ -2657,6 +2159,7 @@
       ]
     },
     {
+      "email": "senator.griff@aph.gov.au",
       "gender": "male",
       "id": "person/9b18d569-545a-41d7-a680-ea0d7819a8f4",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/76760/upload_ref_binary/76760.jpg",
