@@ -1910,7 +1910,7 @@
       "email": "john.alexander.mp@aph.gov.au",
       "gender": "male",
       "id": "person/010ba615-63c1-466b-a425-5d127e12b8c3",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/m3m.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/M3M.jpg",
       "name": "John Alexander",
       "sort_name": "Alexander, John",
       "contact_details": [
@@ -1927,7 +1927,7 @@
       ],
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/m3m.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/M3M.jpg"
         }
       ],
       "memberships": [
@@ -4259,6 +4259,18 @@
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/181810/upload_ref_binary/181810.jpg",
       "name": "Susan Templeman",
       "sort_name": "Templeman, Susan",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stemplemanmp"
+        }
+      ],
+      "links": [
+        {
+          "url": "susan.templeman",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/181810/upload_ref_binary/181810.jpg"
@@ -4273,9 +4285,6 @@
           "area_id": "ocd-division/country:au/state:nsw/federal_electorate:macquarie",
           "legislative_period_id": "term/45"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
