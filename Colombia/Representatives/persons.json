@@ -1,7 +1,7 @@
 {
-  "total": 170,
+  "total": 171,
   "page": 1,
-  "per_page": 170,
+  "per_page": 171,
   "has_more": false,
   "result": [
     {
@@ -1465,6 +1465,30 @@
       ]
     },
     {
+      "id": "person/300f4d1b-6c6c-4e61-9716-8071b0cf8186",
+      "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
+      "name": "EULER ALDEMAR MARTÍNEZ RODRÍGUEZ",
+      "sort_name": "EULER ALDEMAR MARTÍNEZ RODRÍGUEZ",
+      "images": [
+        {
+          "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/300f4d1b-6c6c-4e61-9716-8071b0cf8186",
+          "organization_id": "chamber/cámara_de_representantes",
+          "role": "member",
+          "on_behalf_of_id": "partido_opcion_ciudadana",
+          "area_id": "area/nariÑo",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "fabio.arroyave@camara.gov.co",
       "gender": "male",
       "id": "person/3bf4445d-cbdb-4490-a70e-720f1772c182",
@@ -1917,6 +1941,7 @@
     },
     {
       "email": "hernan.calvache@camara.gov.co",
+      "gender": "male",
       "id": "person/2755fd4f-662b-46e7-aae8-9b1444ac158d",
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
       "name": "HERNÁN GUSTAVO ESTUPIÑAN CALVACHE",
