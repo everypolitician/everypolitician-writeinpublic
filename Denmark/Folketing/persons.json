@@ -1,7 +1,7 @@
 {
-  "total": 201,
+  "total": 202,
   "page": 1,
-  "per_page": 201,
+  "per_page": 202,
   "has_more": false,
   "result": [
     {
@@ -4919,6 +4919,31 @@
           "role": "member",
           "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
           "area_id": "area/funen",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "sanne.bjorn@ft.dk",
+      "id": "person/551d408f-bc55-4983-8059-29fbf78d4bd7",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Sanne_Bjoern/Sanne_Bjoern_133.jpg.ashx",
+      "name": "Sanne Bjørn",
+      "sort_name": "Sanne Bjørn",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Sanne_Bjoern/Sanne_Bjoern_133.jpg.ashx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/551d408f-bc55-4983-8059-29fbf78d4bd7",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "FD18DB48-CB3E-40EA-98B5-1CE0AFA56E69",
+          "area_id": "area/western_jutland",
           "legislative_period_id": "term/2015"
         }
       ],
