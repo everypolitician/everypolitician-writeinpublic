@@ -1,7 +1,7 @@
 {
-  "total": 421,
+  "total": 422,
   "page": 1,
-  "per_page": 421,
+  "per_page": 422,
   "has_more": false,
   "result": [
     {
@@ -452,6 +452,16 @@
           "area_id": "area/stockholms_län",
           "start_date": "2015-11-01",
           "end_date": "2016-04-30",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/6821a64d-37c2-43f7-9eec-2a486d1e496a",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-04-01",
+          "end_date": "2017-08-31",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -4058,6 +4068,33 @@
           "on_behalf_of_id": "M",
           "area_id": "area/gotlands_län",
           "end_date": "2015-01-18",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/d4713a4a-65d5-47a0-a2c9-bc769ca14144",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_max.jpg",
+      "name": "Gustaf Lantz",
+      "sort_name": "Gustaf",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d4713a4a-65d5-47a0-a2c9-bc769ca14144",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/uppsala_län",
+          "start_date": "2017-04-24",
+          "end_date": "2017-12-31",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -11259,6 +11296,17 @@
           "on_behalf_of_id": "S",
           "area_id": "area/uppsala_län",
           "start_date": "2014-10-03",
+          "end_date": "2017-04-23",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/ad04ca8f-2de7-40d3-a733-d89839020ef9",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/uppsala_län",
+          "start_date": "2017-04-24",
+          "end_date": "2017-12-31",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -11350,6 +11398,17 @@
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_län",
           "start_date": "2014-10-03",
+          "end_date": "2017-03-31",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/42d8231b-3fc9-40b3-81da-da17dc929557",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-04-01",
+          "end_date": "2017-08-31",
           "legislative_period_id": "term/2014"
         }
       ]
