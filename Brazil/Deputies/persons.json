@@ -1,7 +1,7 @@
 {
-  "total": 596,
+  "total": 597,
   "page": 1,
-  "per_page": 596,
+  "per_page": 597,
   "has_more": false,
   "result": [
     {
@@ -5550,7 +5550,7 @@
           "person_id": "person/7b3ecba7-680a-4eec-9a03-4357a0c7f52c",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "pros",
+          "on_behalf_of_id": "psb",
           "area_id": "area/mg",
           "legislative_period_id": "term/55"
         }
@@ -12860,6 +12860,30 @@
       ]
     },
     {
+      "id": "person/f4e9613d-45a5-49d1-9ce5-1ee22ace92ae",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/91208.jpg",
+      "name": "ROBINSON ALMEIDA",
+      "sort_name": "ROBINSON ALMEIDA",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/91208.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f4e9613d-45a5-49d1-9ce5-1ee22ace92ae",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pt",
+          "area_id": "area/ba",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dep.rocha@camara.leg.br",
       "gender": "male",
       "id": "person/e0423ed1-f3a9-44d6-8deb-589ffb671a7f",
@@ -14567,7 +14591,7 @@
           "person_id": "person/481d2cb9-d8df-4b7d-ae6a-9b014dc311a8",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "psdc",
+          "on_behalf_of_id": "dem",
           "area_id": "area/ce",
           "legislative_period_id": "term/55"
         }
