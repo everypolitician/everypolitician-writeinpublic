@@ -1,7 +1,7 @@
 {
-  "total": 470,
+  "total": 471,
   "page": 1,
-  "per_page": 470,
+  "per_page": 471,
   "has_more": false,
   "result": [
     {
@@ -7399,6 +7399,24 @@
       ]
     },
     {
+      "id": "person/858cee00-0fa2-465a-920c-8ab22eb679b0",
+      "name": "Małgorzata Janowska",
+      "sort_name": "Małgorzata Janowska",
+      "memberships": [
+        {
+          "person_id": "person/858cee00-0fa2-465a-920c-8ab22eb679b0",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "posłowie_niezrzeszeni",
+          "area_id": "10-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/e650e9b1-3378-4ce0-aaed-9678358380a1",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sejm_7.11.2012_06.JPG",
@@ -9005,6 +9023,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "area_id": "10-8",
           "end_date": "2017-01-19",
           "legislative_period_id": "term/8"
         }
