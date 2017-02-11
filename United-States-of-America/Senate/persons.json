@@ -1,7 +1,7 @@
 {
-  "total": 100,
+  "total": 101,
   "page": 1,
-  "per_page": 100,
+  "per_page": 101,
   "has_more": false,
   "result": [
     {
@@ -332,12 +332,12 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "catherinefornv"
+          "value": "sencortezmasto"
         }
       ],
       "links": [
         {
-          "url": "catherinecortezmasto",
+          "url": "SenatorCortezMasto",
           "note": "facebook"
         }
       ],
@@ -627,7 +627,7 @@
       "gender": "male",
       "id": "person/74bc69a6-7ee0-4595-ba64-a0c044ae3ca4",
       "image": "https://theunitedstates.io/images/congress/original/S001198.jpg",
-      "name": "Daniel Sullivan",
+      "name": "Dan Sullivan",
       "sort_name": "Sullivan, Dan",
       "contact_details": [
         {
@@ -1219,6 +1219,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:al",
+          "end_date": "2017-02-08",
           "legislative_period_id": "term/115"
         }
       ]
@@ -1467,6 +1468,18 @@
       "image": "https://theunitedstates.io/images/congress/original/K000393.jpg",
       "name": "John Kennedy",
       "sort_name": "Kennedy, John",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenJohnKennedy"
+        }
+      ],
+      "links": [
+        {
+          "url": "JohnKennedyLouisiana",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://theunitedstates.io/images/congress/original/K000393.jpg"
@@ -1481,9 +1494,6 @@
           "area_id": "ocd-division/country:us/state:la",
           "legislative_period_id": "term/115"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1822,6 +1832,32 @@
     },
     {
       "gender": "male",
+      "id": "person/acca6a8f-3f84-46b1-b7e1-5bf198126614",
+      "image": "https://theunitedstates.io/images/congress/original/S001202.jpg",
+      "name": "Luther Strange",
+      "sort_name": "Strange, Luther",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001202.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/acca6a8f-3f84-46b1-b7e1-5bf198126614",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:al",
+          "start_date": "2017-02-09",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/a9188b04-84c2-4821-9748-3b4a4fb3ec52",
       "image": "https://theunitedstates.io/images/congress/original/R000595.jpg",
       "name": "Marco Rubio",
@@ -1863,7 +1899,13 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "governorhassan"
+          "value": "Senatorhassan"
+        }
+      ],
+      "links": [
+        {
+          "url": "SenatorHassan",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -1892,6 +1934,12 @@
         {
           "type": "twitter",
           "value": "SenatorCantwell"
+        }
+      ],
+      "links": [
+        {
+          "url": "senatorcantwell",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -2989,12 +3037,12 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "RepDuckworth"
+          "value": "SenDuckworth"
         }
       ],
       "links": [
         {
-          "url": "CongresswomanTammyDuckworth",
+          "url": "SenDuckworth",
           "note": "facebook"
         }
       ],
