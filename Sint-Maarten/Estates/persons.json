@@ -212,6 +212,29 @@
       ]
     },
     {
+      "id": "person/c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
+      "image": "http://www.sxmparliament.org/images/samuel.jpg",
+      "name": "Rodolphe E. Samuel",
+      "sort_name": "Rodolphe E. Samuel",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/samuel.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
+          "organization_id": "chamber/estates",
+          "role": "member",
+          "on_behalf_of_id": "national_alliance",
+          "legislative_period_id": "term/2"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/52f1c83c-0ed1-4d56-9123-4416572b8b81",
       "image": "http://www.sxmparliament.org/images/s-williams.jpg",
       "name": "Sarah A. Wescot-Williams",
@@ -362,29 +385,6 @@
       "memberships": [
         {
           "person_id": "person/953183ed-61df-43fd-bf33-9c142f774128",
-          "organization_id": "chamber/estates",
-          "role": "member",
-          "on_behalf_of_id": "national_alliance",
-          "legislative_period_id": "term/2"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
-      "image": "http://www.sxmparliament.org/images/samuel.jpg",
-      "name": "drs. Rodolphe E. Samuel",
-      "sort_name": "drs. Rodolphe E. Samuel",
-      "images": [
-        {
-          "url": "http://www.sxmparliament.org/images/samuel.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
           "organization_id": "chamber/estates",
           "role": "member",
           "on_behalf_of_id": "national_alliance",
