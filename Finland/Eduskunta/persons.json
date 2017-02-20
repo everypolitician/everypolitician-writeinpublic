@@ -1,7 +1,7 @@
 {
-  "total": 203,
+  "total": 205,
   "page": 1,
-  "per_page": 203,
+  "per_page": 205,
   "has_more": false,
   "result": [
     {
@@ -2154,7 +2154,7 @@
     {
       "gender": "male",
       "id": "person/ce53ee81-ed75-40a9-b100-9ef7c3b67e5f",
-      "image": "https://pbs.twimg.com/profile_images/718420478235283456/QObQ0oks.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Mykkänen.jpg",
       "name": "Kai Mykkänen",
       "sort_name": "Kai Mykkänen",
       "contact_details": [
@@ -2165,7 +2165,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/718420478235283456/QObQ0oks.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Mykkänen.jpg"
         }
       ],
       "memberships": [
@@ -3687,6 +3687,7 @@
           "role": "member",
           "on_behalf_of_id": "kesk",
           "area_id": "area/helsingin",
+          "end_date": "2017-02-01",
           "legislative_period_id": "term/37"
         }
       ]
@@ -3861,6 +3862,34 @@
       ]
     },
     {
+      "email": "paula.lehtomaki@eduskunta.fi",
+      "gender": "female",
+      "id": "person/4b3bad19-f195-4492-9bd1-d7275690c17f",
+      "image": "http://kansanmuisti.fi/media/images/members/lehtomaki-paula.jpg",
+      "name": "Paula Lehtomäki",
+      "sort_name": "Lehtomäki Paula",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/lehtomaki-paula.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4b3bad19-f195-4492-9bd1-d7275690c17f",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/helsingin",
+          "start_date": "2017-02-01",
+          "end_date": "2017-02-09",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "paula.risikko@eduskunta.fi",
       "gender": "female",
       "id": "person/8c78ba81-cbc7-43e1-98da-109d2860dc6d",
@@ -3943,6 +3972,35 @@
           "role": "member",
           "on_behalf_of_id": "vihr",
           "area_id": "area/helsingin",
+          "legislative_period_id": "term/37"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e036c8a3-58fe-4bfd-b4ec-67ac49eb49f7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pekka_Puska.JPG",
+      "name": "Pekka Puska",
+      "sort_name": "Pekka Puska",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PekkaPuska1"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pekka_Puska.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e036c8a3-58fe-4bfd-b4ec-67ac49eb49f7",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "kesk",
+          "area_id": "area/helsingin",
+          "start_date": "2017-02-09",
           "legislative_period_id": "term/37"
         }
       ]
