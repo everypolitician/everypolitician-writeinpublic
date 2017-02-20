@@ -1,7 +1,7 @@
 {
-  "total": 422,
+  "total": 423,
   "page": 1,
-  "per_page": 422,
+  "per_page": 423,
   "has_more": false,
   "result": [
     {
@@ -830,7 +830,7 @@
           "person_id": "person/ad780824-0221-4de7-b5c7-c6c9ec1ce9fc",
           "organization_id": "chamber/riksdag",
           "role": "member",
-          "on_behalf_of_id": "SD",
+          "on_behalf_of_id": "IND",
           "area_id": "area/västerbottens_län",
           "legislative_period_id": "term/2014"
         }
@@ -7214,6 +7214,33 @@
       ]
     },
     {
+      "email": "lars.beckman@riksdagen.se",
+      "gender": "male",
+      "id": "person/d9050e1b-84bb-4e96-93d2-193652320f45",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db90fc94-9496-4748-9b84-bcfadc24af74_max.jpg",
+      "name": "Lars Beckman",
+      "sort_name": "Lars",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db90fc94-9496-4748-9b84-bcfadc24af74_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d9050e1b-84bb-4e96-93d2-193652320f45",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/gävleborgs_län",
+          "start_date": "2017-02-15",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "lars.a.eriksson@riksdagen.se",
       "gender": "male",
       "id": "person/21e3c342-f389-4640-9e7e-de78d5ae0949",
@@ -8183,6 +8210,7 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "area/gävleborgs_län",
+          "end_date": "2017-02-14",
           "legislative_period_id": "term/2014"
         }
       ]
