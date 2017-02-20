@@ -5,6 +5,7 @@
   "has_more": false,
   "result": [
     {
+      "gender": "male",
       "id": "person/6b0cdd74-7960-478f-ac93-d230f486a5b9",
       "image": "http://www.nass.gov.ng/images/mps/808.jpg",
       "name": "ABARIBE ENYNNAYA",
@@ -78,6 +79,7 @@
     },
     {
       "email": "adamu.abdullahi@gmail.com",
+      "gender": "male",
       "id": "person/9de46243-685e-4902-81d4-b3e01faa93d5",
       "image": "http://www.nass.gov.ng/images/mps/852.jpg",
       "name": "ABDULLAHI ADAMU",
@@ -128,6 +130,7 @@
     },
     {
       "email": "senabuibrahim@gmail.com",
+      "gender": "male",
       "id": "person/c5294fd9-3acc-460a-b6ab-e548fc20e3d8",
       "image": "http://www.nass.gov.ng/images/mps/879.jpg",
       "name": "ABU IBRAHIM",
@@ -152,9 +155,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/fa3e73e7-98b9-45f8-befb-3ba0884a8783",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Abubakar_kyari.png",
       "name": "ABUBAKAR KYARI",
       "sort_name": "ABUBAKAR KYARI",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Abubakar_kyari.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/fa3e73e7-98b9-45f8-befb-3ba0884a8783",
@@ -292,6 +302,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/df13478a-638f-4cec-8c58-360fc80eb1b0",
       "image": "http://www.nass.gov.ng/images/mps/511.jpg",
       "name": "ALIMIKHENA FRANCIS",
@@ -515,6 +526,7 @@
     },
     {
       "email": "bagemade@gmail.com",
+      "gender": "male",
       "id": "person/faa4b925-8dba-42af-a672-ef6621e6cb76",
       "image": "http://www.nass.gov.ng/images/mps/532.jpg",
       "name": "BARNABAS GEMADE",
@@ -539,6 +551,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/cf5aea30-b4fc-4eeb-b827-dd023e9ad0e6",
       "image": "http://www.nass.gov.ng/images/mps/888.jpg",
       "name": "BASSEY AKPAN",
@@ -640,6 +653,7 @@
     },
     {
       "email": "abs@sarakimail.com",
+      "gender": "male",
       "id": "person/223679e6-ac35-4ced-944b-b1109d9e4b1d",
       "image": "http://www.nass.gov.ng/images/mps/536.jpg",
       "name": "BUKOLA SARAKI",
@@ -665,6 +679,7 @@
     },
     {
       "email": "burujikashamu@yahoo.com",
+      "gender": "male",
       "id": "person/fcc1e6c2-aabb-40d2-ab6c-88d0ccfa17b9",
       "image": "http://www.nass.gov.ng/images/mps/870.jpg",
       "name": "BURUJI KASHAMU",
@@ -707,10 +722,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/13721811-4357-419c-8ca7-8f1170b36f1a",
       "image": "http://www.nass.gov.ng/images/mps/941.jpg",
       "name": "Ben Murray-Bruce",
       "sort_name": "Ben Murray-Bruce",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "benmurraybruce"
+        }
+      ],
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/941.jpg"
@@ -725,13 +747,11 @@
           "area_id": "area/bayelsa_east,_bayelsa_state",
           "legislative_period_id": "term/8"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "igboss@gmail.com",
+      "gender": "male",
       "id": "person/7c177f56-169a-4779-8b3f-a78776877c37",
       "image": "http://www.nass.gov.ng/images/mps/17.jpg",
       "name": "DAVID MARK",
@@ -831,6 +851,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/10ab1957-94a3-4d99-b31d-6236c624921e",
       "image": "http://www.nass.gov.ng/images/mps/714.jpg",
       "name": "EMMANUEL BWACHA, CON",
@@ -856,6 +877,7 @@
     },
     {
       "email": "ANSSDUE@yahoo.com",
+      "gender": "male",
       "id": "person/c780556b-6602-4089-a6c3-05e03c001a52",
       "image": "http://www.shineyoureye.org/media_root/images/ubah-andy-emmanuel-nnamdi",
       "name": "EMMANUEL UBA",
@@ -905,6 +927,7 @@
     },
     {
       "email": "senfatimatrajirasaki@gmail.com",
+      "gender": "female",
       "id": "person/0577f346-e883-4e1d-94eb-e3050d5c15f1",
       "image": "http://www.nass.gov.ng/images/mps/942.jpg",
       "name": "Fatimat Raji-Rasaki",
@@ -930,6 +953,7 @@
     },
     {
       "email": "georgeakume55@yahoo.com",
+      "gender": "male",
       "id": "person/a393d852-9ca7-49de-ad3e-6a190f4da47b",
       "image": "http://www.nass.gov.ng/images/mps/866.jpg",
       "name": "GEORGE AKUME",
@@ -954,6 +978,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4c8ec63d-76c5-4452-934e-4c67e672b9d5",
       "image": "http://www.nass.gov.ng/images/mps/876.jpg",
       "name": "GEORGE SEKIBO",
@@ -1156,6 +1181,7 @@
     },
     {
       "email": "degun_200@yahoo.com",
+      "gender": "male",
       "id": "person/eb86eee9-9d7e-42f1-b99d-331e8f55a8cd",
       "image": "http://www.nass.gov.ng/images/mps/758.jpg",
       "name": "Isiaka Adeleke",
@@ -1357,6 +1383,7 @@
     },
     {
       "email": "lidanijoshua@gmail.com",
+      "gender": "male",
       "id": "person/2696e29d-79f3-4db3-b50e-31ceeaae2ae0",
       "image": "http://www.nass.gov.ng/images/mps/810.jpg",
       "name": "JOSHUA MOLTOBOK",
@@ -1407,6 +1434,7 @@
     },
     {
       "email": "kabir.marafa@yahoo.com",
+      "gender": "male",
       "id": "person/54a8e92e-5a77-40f8-bc12-3d22a6d61913",
       "image": "http://www.nass.gov.ng/images/mps/514.jpg",
       "name": "KABIR GARBA",
@@ -1531,6 +1559,7 @@
     },
     {
       "email": "dinomelaye@yahoo.com",
+      "gender": "male",
       "id": "person/fab3dfb2-07dd-4eb3-b3f0-6196667924e4",
       "image": "http://www.nass.gov.ng/images/mps/522.jpg",
       "name": "MELAYE DINO",
@@ -1606,6 +1635,7 @@
     },
     {
       "email": "shaabalafiagi@yahoo.com",
+      "gender": "male",
       "id": "person/bbf841d2-a7b3-4ac5-a319-d8bdcdf7440f",
       "image": "http://www.nass.gov.ng/images/mps/783.jpg",
       "name": "MOHAMMED LAFIAGI",
@@ -1631,6 +1661,7 @@
     },
     {
       "email": "malindume@yahoo.com",
+      "gender": "male",
       "id": "person/16f44adf-2bc8-469d-aef1-5d04bfc3a6b9",
       "image": "http://www.nass.gov.ng/images/mps/409.jpg",
       "name": "MOHAMMED NDUME",
@@ -1681,6 +1712,7 @@
     },
     {
       "email": "senatoraliero@yahoo.com",
+      "gender": "male",
       "id": "person/7d3a587c-194a-43b6-ba2e-04581d9aa783",
       "image": "http://www.nass.gov.ng/images/mps/742.jpg",
       "name": "MUHAMMAD ADAMU",
@@ -1901,6 +1933,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ec8587fd-11f3-48f1-a830-267b8a5ad524",
       "name": "OLAKA NWOGU",
       "sort_name": "OLAKA NWOGU",
@@ -1945,6 +1978,7 @@
     },
     {
       "email": "info@oluremitinubu.com",
+      "gender": "female",
       "id": "person/5744450e-41b7-4d7d-b81a-83f42f34437d",
       "image": "http://www.nass.gov.ng/images/mps/718.jpg",
       "name": "OLUREMI TINUBU",
@@ -1970,6 +2004,7 @@
     },
     {
       "email": "solaadeyeye@yahoo.com",
+      "gender": "male",
       "id": "person/c5e2f0e7-e8c7-43b0-a126-2c15d4d17fe6",
       "image": "http://www.nass.gov.ng/images/mps/877.jpg",
       "name": "OLUSOLA ADEYEYE",
@@ -2069,6 +2104,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/452c8d72-b078-40fd-8d0c-cfff8cb199fa",
       "image": "http://www.nass.gov.ng/images/mps/812.jpg",
       "name": "OSINAKACHUKWU IDEOZU",
@@ -2186,6 +2222,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bd2e8ef2-956f-4ab0-8655-d8074b90a8ae",
       "image": "http://www.nass.gov.ng/images/mps/716.jpg",
       "name": "PHILIP TANIMU",
@@ -2236,6 +2273,7 @@
     },
     {
       "email": "sborofice@yahoo.com",
+      "gender": "male",
       "id": "person/62948032-2e2f-4962-b37e-7f082e722b47",
       "image": "http://www.nass.gov.ng/images/mps/818.jpg",
       "name": "ROBERT BOROFFICE",
@@ -2261,6 +2299,7 @@
     },
     {
       "email": "rose_oko@yahoo.com",
+      "gender": "female",
       "id": "person/cb162d89-ba46-49cc-84f3-a7d3ee25e62e",
       "image": "http://www.shineyoureye.org/media_root/images/rose-okoji-ok",
       "name": "ROSE OKO",
@@ -2385,6 +2424,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/96885e3b-9207-4db4-ab27-ceda4dff7d2e",
       "image": "http://www.nass.gov.ng/images/mps/157.jpg",
       "name": "SULEIMAN ADOKWE",
@@ -2434,6 +2474,7 @@
     },
     {
       "email": "smnszif@yahoo.com",
+      "gender": "male",
       "id": "person/7babc3b9-ede9-44f7-a2cc-af49aba7f70c",
       "image": "http://www.nass.gov.ng/images/mps/894.jpg",
       "name": "SULEIMAN NAZIF",
@@ -2658,6 +2699,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f95eee1d-5f81-4813-8164-7e1cc908e878",
       "image": "http://www.nass.gov.ng/images/mps/962.jpg",
       "name": "Yusuf Yusuf",
