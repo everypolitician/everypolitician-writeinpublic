@@ -1,7 +1,7 @@
 {
-  "total": 109,
+  "total": 112,
   "page": 1,
-  "per_page": 109,
+  "per_page": 112,
   "has_more": false,
   "result": [
     {
@@ -344,6 +344,24 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/nasarawa_north,_nassarawa_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/78a5c98d-8bbb-45ec-8faa-937d77a93191",
+      "name": "ATAI USMAN",
+      "sort_name": "ATAI USMAN",
+      "memberships": [
+        {
+          "person_id": "person/78a5c98d-8bbb-45ec-8faa-937d77a93191",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/kogi_east,_kogi_state",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1104,6 +1122,31 @@
       ]
     },
     {
+      "email": "hussainian.hse@gmail.com",
+      "id": "person/244d7026-f7a3-4334-ad1c-8a9a8dca123f",
+      "image": "http://www.nass.gov.ng/images/mps/519.jpg",
+      "name": "HUSSAIN SALIHU",
+      "sort_name": "HUSSAIN SALIHU",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/519.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/244d7026-f7a3-4334-ad1c-8a9a8dca123f",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/nasarawa_south,_nassarawa_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ibrahimgabir1@yahoo.com",
       "gender": "male",
       "id": "person/830b56fc-139a-4122-a60d-fd64fcaa8796",
@@ -1525,6 +1568,31 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/anambra_central,_anambra_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f8a2b149-a5ae-43c2-a3de-249c8da9e5fe",
+      "image": "http://www.nass.gov.ng/images/mps/204.jpg",
+      "name": "MAGNUS ABE",
+      "sort_name": "MAGNUS ABE",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/204.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f8a2b149-a5ae-43c2-a3de-249c8da9e5fe",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/rivers_south_east,_rivers_state",
           "legislative_period_id": "term/8"
         }
       ],
