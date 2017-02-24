@@ -1,7 +1,7 @@
 {
-  "total": 459,
+  "total": 460,
   "page": 1,
-  "per_page": 459,
+  "per_page": 460,
   "has_more": false,
   "result": [
     {
@@ -776,6 +776,16 @@
           "role": "member",
           "on_behalf_of_id": "2615",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "end_date": "2017-02-21",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/022c3a2d-6b80-4d76-82ff-a057903c9f04",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2017-02-22",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1344,6 +1354,31 @@
           "role": "member",
           "on_behalf_of_id": "Позафракційні",
           "area_id": "24",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f3b228a6-146b-4f80-92f8-e02e2cf2c54b",
+      "image": "http://static.rada.gov.ua/dep_img8/nf80.jpg",
+      "name": "Бендюженко Федір Володимирович",
+      "sort_name": "Бендюженко Федір Володимирович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf80.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f3b228a6-146b-4f80-92f8-e02e2cf2c54b",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2017-02-21",
           "legislative_period_id": "term/8"
         }
       ],
