@@ -1,7 +1,7 @@
 {
-  "total": 128,
+  "total": 130,
   "page": 1,
-  "per_page": 128,
+  "per_page": 130,
   "has_more": false,
   "result": [
     {
@@ -957,12 +957,12 @@
     {
       "gender": "male",
       "id": "person/5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg",
       "name": "Erik Morón Osinaga",
       "sort_name": "Erik Morón Osinaga",
       "images": [
         {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg"
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg"
         }
       ],
       "memberships": [
@@ -1172,6 +1172,30 @@
           "role": "member",
           "on_behalf_of_id": "mas",
           "area_id": "area/la_paz",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/88d95fd1-47f3-47bb-aa91-7a247fc5910d",
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/flores.cf.jpg",
+      "name": "Franklin Richard Flores Cordova",
+      "sort_name": "Franklin Richard Flores Cordova",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/flores.cf.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/88d95fd1-47f3-47bb-aa91-7a247fc5910d",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "mas",
+          "area_id": "C - 18",
           "legislative_period_id": "term/2015"
         }
       ],
@@ -3022,6 +3046,30 @@
           "role": "member",
           "on_behalf_of_id": "mas",
           "area_id": "C - 34",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2814821f-99e8-4b2e-8c6e-9a4785ac35de",
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/ramirez.mv.jpg",
+      "name": "Victor Marcian Ramirez Medina",
+      "sort_name": "Victor Marcian Ramirez Medina",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/ramirez.mv.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2814821f-99e8-4b2e-8c6e-9a4785ac35de",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "mas",
+          "area_id": "area/la_paz",
           "legislative_period_id": "term/2015"
         }
       ],
