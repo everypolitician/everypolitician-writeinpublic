@@ -1,7 +1,7 @@
 {
-  "total": 392,
+  "total": 394,
   "page": 1,
-  "per_page": 392,
+  "per_page": 394,
   "has_more": false,
   "result": [
     {
@@ -7883,6 +7883,25 @@
       ]
     },
     {
+      "id": "person/c591f65f-27de-4fab-9f9e-0bc4ef0cb5ee",
+      "name": "Orieta Cecilia Vera Gonzalez",
+      "sort_name": "Vera Gonzalez, Orieta Cecilia",
+      "memberships": [
+        {
+          "person_id": "person/c591f65f-27de-4fab-9f9e-0bc4ef0cb5ee",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "coalicion_civica",
+          "area_id": "area/catamarca",
+          "start_date": "2015-12-10",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/e7f16edf-3e22-4b65-8774-6bc419f5409c",
       "name": "Oscar Alberto Macias",
@@ -9380,6 +9399,24 @@
           "on_behalf_of_id": "federal_unidos_por_una_nueva_argentina",
           "area_id": "area/santa_fe",
           "start_date": "2015-12-10",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0cc7eeba-f10c-4a8c-a0e4-339a1610bfe3",
+      "name": "Veronica Carolina Couly",
+      "sort_name": "Couly, Veronica Carolina",
+      "memberships": [
+        {
+          "person_id": "person/0cc7eeba-f10c-4a8c-a0e4-339a1610bfe3",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "federal_unidos_por_una_nueva_argentina",
+          "area_id": "area/buenos_aires",
           "legislative_period_id": "term/133"
         }
       ],
