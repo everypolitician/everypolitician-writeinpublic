@@ -1,15 +1,15 @@
 {
-  "total": 18,
+  "total": 19,
   "page": 1,
-  "per_page": 18,
+  "per_page": 19,
   "has_more": false,
   "result": [
     {
       "gender": "female",
       "id": "person/bc90e735-84e6-4d8b-a8aa-05aa8c95c07f",
       "image": "https://lh5.googleusercontent.com/-j8C1vgFGa-Q/VE_todgs8gI/AAAAAAAAAOo/hDlNlutEmSQ/w721-h577-no/hon-akierra-missick.png",
-      "name": "Akierra Mary Deanne Missick",
-      "sort_name": "Akierra Mary Deanne Missick",
+      "name": "Akierra M. Missick",
+      "sort_name": "Akierra M. Missick",
       "images": [
         {
           "url": "https://lh5.googleusercontent.com/-j8C1vgFGa-Q/VE_todgs8gI/AAAAAAAAAOo/hDlNlutEmSQ/w721-h577-no/hon-akierra-missick.png"
@@ -33,8 +33,8 @@
       "gender": "female",
       "id": "person/0bab1627-2702-4bd3-a4e5-a4e9a262fa90",
       "image": "https://lh3.googleusercontent.com/-25MXEVeNxU0/VE_too2B1JI/AAAAAAAAAOY/VKD4gUOR-Vs/w721-h577-no/hon-amanda-misick.JPG",
-      "name": "Amanda Missick",
-      "sort_name": "Amanda Missick",
+      "name": "Amanda A. Misick",
+      "sort_name": "Amanda A. Misick",
       "images": [
         {
           "url": "https://lh3.googleusercontent.com/-25MXEVeNxU0/VE_too2B1JI/AAAAAAAAAOY/VKD4gUOR-Vs/w721-h577-no/hon-amanda-misick.JPG"
@@ -46,7 +46,7 @@
           "organization_id": "chamber/house_of_assembly",
           "role": "member",
           "on_behalf_of_id": "pnp",
-          "area_id": "area/cheshire_hall_and_richmond_hill",
+          "area_id": "area/cheshire_hall_&_richmond_hill",
           "legislative_period_id": "term/2012"
         }
       ],
@@ -129,31 +129,21 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/22455c9a-c96e-4e5b-87ab-fb315acc48b6",
-      "image": "https://lh6.googleusercontent.com/--SCaVgExEkA/VE_tnGEk6bI/AAAAAAAAAN4/eJTSCXVfF_g/w721-h577-no/dr-rufus-ewing.JPG",
-      "name": "Dr. Rufus Washington Ewing",
-      "sort_name": "Dr. Rufus Washington Ewing",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "docrewing"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lh6.googleusercontent.com/--SCaVgExEkA/VE_tnGEk6bI/AAAAAAAAAN4/eJTSCXVfF_g/w721-h577-no/dr-rufus-ewing.JPG"
-        }
-      ],
+      "id": "person/115262f1-45e6-4a17-ae36-86c31bcdd57d",
+      "name": "Edwin Astwood",
+      "sort_name": "Edwin Astwood",
       "memberships": [
         {
-          "person_id": "person/22455c9a-c96e-4e5b-87ab-fb315acc48b6",
+          "person_id": "person/115262f1-45e6-4a17-ae36-86c31bcdd57d",
           "organization_id": "chamber/house_of_assembly",
           "role": "member",
-          "on_behalf_of_id": "pnp",
-          "area_id": "area/all_island_district",
+          "on_behalf_of_id": "pdm",
+          "area_id": "area/grand_turk_south",
           "legislative_period_id": "term/2012"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -234,8 +224,8 @@
       "gender": "female",
       "id": "person/962d6976-377d-4758-bb66-bb47638aeef5",
       "image": "https://lh5.googleusercontent.com/-pNXe7tMdaaM/VE_tqz8oydI/AAAAAAAAAPU/jzLK8GTUfbA/w721-h577-no/hon-josephine-conolly.JPG",
-      "name": "Josephine Conolly",
-      "sort_name": "Josephine Conolly",
+      "name": "Josephine Connolly",
+      "sort_name": "Josephine Connolly",
       "images": [
         {
           "url": "https://lh5.googleusercontent.com/-pNXe7tMdaaM/VE_tqz8oydI/AAAAAAAAAPU/jzLK8GTUfbA/w721-h577-no/hon-josephine-conolly.JPG"
@@ -308,8 +298,8 @@
       "gender": "female",
       "id": "person/51931afb-361d-4d2a-9873-c692d6e79b78",
       "image": "https://lh3.googleusercontent.com/-8Bwmp2S-Zfg/VE_tran2tWI/AAAAAAAAAPs/gU4ajC-hMsk/w721-h577-no/hon-porsha-stubbs-smith.JPG",
-      "name": "Porsha Monique Stubbs-Smith",
-      "sort_name": "Porsha Monique Stubbs-Smith",
+      "name": "Porsha Monique Stubbs Smith",
+      "sort_name": "Porsha Monique Stubbs Smith",
       "images": [
         {
           "url": "https://lh3.googleusercontent.com/-8Bwmp2S-Zfg/VE_tran2tWI/AAAAAAAAAPs/gU4ajC-hMsk/w721-h577-no/hon-porsha-stubbs-smith.JPG"
@@ -333,8 +323,8 @@
       "gender": "male",
       "id": "person/ffdcdd70-e20a-4892-adcf-aeb38cddfa3d",
       "image": "https://lh6.googleusercontent.com/-Obv6dn5OE5s/VE_tr2MJ8sI/AAAAAAAAAPw/tx-dFCrpWBA/w721-h577-no/hon-ricardo-don-hue-gardiner.JPG",
-      "name": "Ricardo Don-Hue Gardiner",
-      "sort_name": "Ricardo Don-Hue Gardiner",
+      "name": "Ricardo Don Hue Gardiner",
+      "sort_name": "Ricardo Don Hue Gardiner",
       "images": [
         {
           "url": "https://lh6.googleusercontent.com/-Obv6dn5OE5s/VE_tr2MJ8sI/AAAAAAAAAPw/tx-dFCrpWBA/w721-h577-no/hon-ricardo-don-hue-gardiner.JPG"
@@ -346,12 +336,40 @@
           "organization_id": "chamber/house_of_assembly",
           "role": "member",
           "on_behalf_of_id": "pnp",
-          "area_id": "area/north_and_middle_caicos",
+          "area_id": "area/north_&_middle_caicos",
           "legislative_period_id": "term/2012"
         }
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/22455c9a-c96e-4e5b-87ab-fb315acc48b6",
+      "image": "https://lh6.googleusercontent.com/--SCaVgExEkA/VE_tnGEk6bI/AAAAAAAAAN4/eJTSCXVfF_g/w721-h577-no/dr-rufus-ewing.JPG",
+      "name": "Rufus Washington Ewing",
+      "sort_name": "Rufus Washington Ewing",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "docrewing"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/--SCaVgExEkA/VE_tnGEk6bI/AAAAAAAAAN4/eJTSCXVfF_g/w721-h577-no/dr-rufus-ewing.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/22455c9a-c96e-4e5b-87ab-fb315acc48b6",
+          "organization_id": "chamber/house_of_assembly",
+          "role": "member",
+          "on_behalf_of_id": "pnp",
+          "area_id": "area/all_island_district",
+          "legislative_period_id": "term/2012"
+        }
       ]
     },
     {
@@ -407,8 +425,8 @@
       "gender": "female",
       "id": "person/3a810402-92a4-405f-af00-7a80690c5217",
       "image": "https://lh3.googleusercontent.com/-PhisVKBnhGU/VE_tt4TmZFI/AAAAAAAAAQ0/HPXv54geCmU/w721-h577-no/hon-sharlene-cartwright-robinson.png",
-      "name": "Sharlene Linette Catrwright-Robinson",
-      "sort_name": "Sharlene Linette Catrwright-Robinson",
+      "name": "Sharlene Linette Cartwright Robinson",
+      "sort_name": "Sharlene Linette Cartwright Robinson",
       "images": [
         {
           "url": "https://lh3.googleusercontent.com/-PhisVKBnhGU/VE_tt4TmZFI/AAAAAAAAAQ0/HPXv54geCmU/w721-h577-no/hon-sharlene-cartwright-robinson.png"
