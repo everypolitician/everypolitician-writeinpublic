@@ -167,6 +167,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a5378a9f-a33c-4366-b2ac-89d6c8cfcb84",
       "name": "Abdullah SHAHID",
       "sort_name": "Abdullah SHAHID",
@@ -203,9 +204,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e911c088-9292-47ff-bdc0-69fe6b69c91a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Maldives_President_Abdulla_Yameen_Cropped.jpg",
       "name": "Abdullah YAMEEN",
       "sort_name": "Abdullah YAMEEN",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Maldives_President_Abdulla_Yameen_Cropped.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e911c088-9292-47ff-bdc0-69fe6b69c91a",
@@ -275,6 +283,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/593ccae1-f5b3-4a3f-97a6-3b9c9030f53b",
       "name": "Ahmed MAHLOOF",
       "sort_name": "Ahmed MAHLOOF",
@@ -653,6 +662,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/8bbb0ae9-1b88-4134-b625-1cb1257fd28f",
       "name": "Anaara NAEEM",
       "sort_name": "Anaara NAEEM",
@@ -851,6 +861,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b241ddf0-cd1c-43cb-b725-8a276dd9dc84",
       "name": "Ibrahim DIDI",
       "sort_name": "Ibrahim DIDI",
@@ -1013,6 +1024,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e6c630f3-71ef-4475-a8c6-8c1fa993689b",
       "name": "Ilham AHMED",
       "sort_name": "Ilham AHMED",
@@ -1085,9 +1097,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/039ac96c-e8cc-44f2-bd08-decd1d7fa80a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Paula_Dobriansky,_Under_Secretary_of_State_for_Democracy_and_Global_Affairs_with_Mariya_Ahmed_Didi_of_the_Maldives_March_7_2007_in_Washington.jpg",
       "name": "Mariya Ahmed DIDI",
       "sort_name": "Mariya Ahmed DIDI",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Paula_Dobriansky,_Under_Secretary_of_State_for_Democracy_and_Global_Affairs_with_Mariya_Ahmed_Didi_of_the_Maldives_March_7_2007_in_Washington.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/039ac96c-e8cc-44f2-bd08-decd1d7fa80a",
@@ -1265,9 +1284,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a6ce6153-798e-4730-83b4-3076c2076138",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mohamed_Nasheed_by_UNDP.jpg",
       "name": "Mohamed NASHEED",
       "sort_name": "Mohamed NASHEED",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mohamednasheed"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mohamed_Nasheed_by_UNDP.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a6ce6153-798e-4730-83b4-3076c2076138",
@@ -1277,15 +1309,19 @@
           "area_id": "area/kulhudhuhfushi_dhekunu",
           "legislative_period_id": "term/2014"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
+      "gender": "male",
       "id": "person/52b3aec2-06e8-45ab-a91a-a53f1eafff94",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Michele_J._Sison_with_Mohamed_Nazim.jpg",
       "name": "Mohamed NAZIM",
       "sort_name": "Mohamed NAZIM",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Michele_J._Sison_with_Mohamed_Nazim.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/52b3aec2-06e8-45ab-a91a-a53f1eafff94",
@@ -1355,9 +1391,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f668b3ee-6d72-424a-a8aa-e9a788f90cfa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Reeko_moosa_1.jpg",
       "name": "Moosa MANIK",
       "sort_name": "Moosa MANIK",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Reeko_moosa_1.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f668b3ee-6d72-424a-a8aa-e9a788f90cfa",
@@ -1427,6 +1470,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/936c66d8-4b01-4acd-8349-cfd0de5918a9",
       "name": "Qasim IBRAHIM",
       "sort_name": "Qasim IBRAHIM",
