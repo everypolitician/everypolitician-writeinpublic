@@ -1244,12 +1244,24 @@
     {
       "gender": "female",
       "id": "person/d55656ff-50ee-47af-a347-f11ae04043ad",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/MichelleOneill.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_O'Neill_taken_2017.jpg",
       "name": "Michelle O'Neill",
       "sort_name": "Michelle O'Neill",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "moneillsf"
+        }
+      ],
+      "links": [
+        {
+          "url": "michelle.oneill.sf",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/MichelleOneill.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_O'Neill_taken_2017.jpg"
         }
       ],
       "memberships": [
@@ -1261,9 +1273,6 @@
           "area_id": "uk.org.publicwhip/cons/375-NI",
           "legislative_period_id": "term/6"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1392,6 +1401,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b545831c-60dd-4628-82bc-543dcdc63677",
       "name": "Pat Catney",
       "sort_name": "Pat Catney",
