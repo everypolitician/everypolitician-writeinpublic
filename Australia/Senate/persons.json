@@ -461,6 +461,16 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "area/sa",
+          "end_date": "2017-02-07",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/507def8c-f3fd-4be5-8937-4ceaa26520ae",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_conservatives",
+          "area_id": "area/sa",
+          "start_date": "2017-02-07",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1115,7 +1125,7 @@
     {
       "gender": "male",
       "id": "person/3375e2b5-b29f-48b4-a5c0-b30b6b703745",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.jpg",
       "name": "John Williams",
       "sort_name": "Williams, John",
       "contact_details": [
@@ -1126,7 +1136,7 @@
       ],
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.jpg"
         }
       ],
       "memberships": [
@@ -1199,7 +1209,7 @@
       "email": "senator.carr@aph.gov.au",
       "gender": "male",
       "id": "person/e5965652-0ceb-4f21-a435-5883c8207885",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AW5/upload_ref_binary/AW5.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AW5/upload_ref_binary/AW5.jpg",
       "name": "Kim Carr",
       "sort_name": "Carr, Kim",
       "contact_details": [
@@ -1210,7 +1220,7 @@
       ],
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AW5/upload_ref_binary/AW5.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/AW5/upload_ref_binary/AW5.jpg"
         }
       ],
       "memberships": [
@@ -1230,6 +1240,12 @@
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247512/upload_ref_binary/247512.jpg",
       "name": "Kimberley Kitching",
       "sort_name": "Kitching, Kimberley",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "kimbakit"
+        }
+      ],
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247512/upload_ref_binary/247512.jpg"
@@ -1245,9 +1261,6 @@
           "start_date": "2016-10-25",
           "legislative_period_id": "term/45"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1684,7 +1697,7 @@
           "person_id": "person/d954072d-7cc3-4b81-81f7-124cf02695a1",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "area/sa",
           "legislative_period_id": "term/45"
         }
