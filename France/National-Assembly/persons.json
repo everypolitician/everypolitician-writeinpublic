@@ -1,7 +1,7 @@
 {
-  "total": 645,
+  "total": 646,
   "page": 1,
-  "per_page": 645,
+  "per_page": 646,
   "has_more": false,
   "result": [
     {
@@ -13320,6 +13320,32 @@
     },
     {
       "gender": "female",
+      "id": "person/2a8dabf2-d807-4592-9190-378b1a29fab4",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/342564.jpg",
+      "name": "Monique Lubin",
+      "sort_name": "Monique Lubin",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/342564.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2a8dabf2-d807-4592-9190-378b1a29fab4",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "ni",
+          "area_id": "40_3",
+          "start_date": "2017-03-22",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
       "id": "person/985ed860-570c-4f5a-9a3d-f858b43c65ec",
       "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/610729.jpg",
       "name": "Monique Orphé",
@@ -14203,6 +14229,7 @@
           "role": "member",
           "on_behalf_of_id": "ser",
           "area_id": "07_1",
+          "end_date": "2017-03-23",
           "legislative_period_id": "term/14"
         }
       ]
