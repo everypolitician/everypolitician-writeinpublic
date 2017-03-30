@@ -1,7 +1,7 @@
 {
-  "total": 118,
+  "total": 119,
   "page": 1,
-  "per_page": 118,
+  "per_page": 119,
   "has_more": false,
   "result": [
     {
@@ -346,6 +346,29 @@
       ]
     },
     {
+      "id": "person/c0a4ced0-94f5-4fc9-9007-477af4d71bfb",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "name": "Barbăroșie Alexandru",
+      "sort_name": "Alexandru Barbăroșie",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c0a4ced0-94f5-4fc9-9007-477af4d71bfb",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "11",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/fad37f90-6fc5-418f-8e90-393bf3d18f6f",
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=INwxtCLWH2s%3d&tabid=87&mid=476&language=en-US",
@@ -434,7 +457,7 @@
           "person_id": "person/855055e0-78a0-427d-8107-475a99ebe5cd",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "11",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
