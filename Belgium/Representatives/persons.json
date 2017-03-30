@@ -1,7 +1,7 @@
 {
-  "total": 170,
+  "total": 171,
   "page": 1,
-  "per_page": 170,
+  "per_page": 171,
   "has_more": false,
   "result": [
     {
@@ -4295,6 +4295,25 @@
       ]
     },
     {
+      "id": "person/4b408d3f-1c4a-4022-ad18-7641b08fb7ca",
+      "name": "Wim Van der Donckt",
+      "sort_name": "Wim Van der Donckt",
+      "memberships": [
+        {
+          "person_id": "person/4b408d3f-1c4a-4022-ad18-7641b08fb7ca",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "n-va",
+          "area_id": "area/antwerpen",
+          "start_date": "2017-03-09",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "wouter.beke@dekamer.be",
       "gender": "male",
       "id": "person/a8c0f97d-a621-4967-adb0-7b35914982a7",
@@ -4429,12 +4448,12 @@
       "email": "zuhal.demir@dekamer.be",
       "gender": "female",
       "id": "person/6ba58d06-eafd-41aa-81d7-3413161df9bf",
-      "image": "http://www.lachambre.be/site/wwwroot/images/cv/06142.gif",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/6142.gif",
       "name": "Zuhal Demir",
       "sort_name": "Demir Zuhal",
       "images": [
         {
-          "url": "http://www.lachambre.be/site/wwwroot/images/cv/06142.gif"
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/6142.gif"
         }
       ],
       "memberships": [
@@ -4444,6 +4463,7 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "end_date": "2017-03-09",
           "legislative_period_id": "term/54"
         }
       ],
