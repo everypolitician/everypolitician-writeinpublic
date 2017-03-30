@@ -819,6 +819,32 @@
       ]
     },
     {
+      "email": "dinomelaye@yahoo.com",
+      "gender": "male",
+      "id": "person/fab3dfb2-07dd-4eb3-b3f0-6196667924e4",
+      "image": "http://www.nass.gov.ng/images/mps/522.jpg",
+      "name": "DINO MELAYE",
+      "sort_name": "DINO MELAYE",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/522.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fab3dfb2-07dd-4eb3-b3f0-6196667924e4",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/kogi_west,_kogi_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "durofi@yahoo.com",
       "id": "person/49be506a-b95a-41a3-b08d-da58d97b3f28",
       "image": "http://www.nass.gov.ng/images/mps/819.jpg",
@@ -1618,32 +1644,6 @@
           "role": "member",
           "on_behalf_of_id": "APC",
           "area_id": "area/bauchi_south,_bauchi_state",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dinomelaye@yahoo.com",
-      "gender": "male",
-      "id": "person/fab3dfb2-07dd-4eb3-b3f0-6196667924e4",
-      "image": "http://www.nass.gov.ng/images/mps/522.jpg",
-      "name": "MELAYE DINO",
-      "sort_name": "MELAYE DINO",
-      "images": [
-        {
-          "url": "http://www.nass.gov.ng/images/mps/522.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fab3dfb2-07dd-4eb3-b3f0-6196667924e4",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "APC",
-          "area_id": "area/kogi_west,_kogi_state",
           "legislative_period_id": "term/8"
         }
       ],
