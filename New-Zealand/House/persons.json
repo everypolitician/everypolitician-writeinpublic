@@ -1,7 +1,7 @@
 {
-  "total": 120,
+  "total": 121,
   "page": 1,
-  "per_page": 120,
+  "per_page": 121,
   "has_more": false,
   "result": [
     {
@@ -282,6 +282,41 @@
       ]
     },
     {
+      "email": "Aupito.william.sio@parliament.govt.nz",
+      "gender": "male",
+      "id": "person/dd826092-7cbf-4791-a77b-e77602967b58",
+      "image": "https://www.parliament.nz/media/1378/sio-sua-william.C1kn1w.jpg",
+      "name": "Aupito William Sio",
+      "sort_name": "Sio, Aupito William",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "swsio_mp"
+        }
+      ],
+      "links": [
+        {
+          "url": "aupitowilliamsio",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/1378/sio-sua-william.C1kn1w.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dd826092-7cbf-4791-a77b-e77602967b58",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "labour_party",
+          "area_id": "area/māngere",
+          "legislative_period_id": "term/51"
+        }
+      ]
+    },
+    {
       "email": "Barbara.Kuriger@parliament.govt.nz",
       "gender": "female",
       "id": "person/4b920c22-3f42-4906-b151-87b57490bdfa",
@@ -352,7 +387,7 @@
       "email": "barry.coates@parliament.govt.nz",
       "gender": "male",
       "id": "person/ec3eda9b-60c0-4c93-81c0-1269eac4467e",
-      "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
+      "image": "https://www.parliament.nz/media/3046/coates-barry.DZZyzA.jpg",
       "name": "Barry Coates",
       "sort_name": "Coates, Barry",
       "contact_details": [
@@ -369,7 +404,7 @@
       ],
       "images": [
         {
-          "url": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg"
+          "url": "https://www.parliament.nz/media/3046/coates-barry.DZZyzA.jpg"
         }
       ],
       "memberships": [
@@ -1473,6 +1508,16 @@
           "role": "member",
           "on_behalf_of_id": "labour_party",
           "area_id": "area/list",
+          "end_date": "2017-02-25",
+          "legislative_period_id": "term/51"
+        },
+        {
+          "person_id": "person/424c23ae-6b23-48f5-b1a7-1c40111e42e7",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "labour_party",
+          "area_id": "area/mt_albert",
+          "start_date": "2017-02-25",
           "legislative_period_id": "term/51"
         }
       ]
@@ -3256,6 +3301,41 @@
       ]
     },
     {
+      "email": "Raymond.hou@parliament.govt.nz",
+      "id": "person/c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+      "image": "https://www.parliament.nz/media/3671/huo-raymond.DXlrgw.jpg",
+      "name": "Raymond Huo",
+      "sort_name": "Huo, Raymond",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RaymondHuo"
+        }
+      ],
+      "links": [
+        {
+          "url": "Raymond.Huo",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/3671/huo-raymond.DXlrgw.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "labour_party",
+          "area_id": "area/list",
+          "start_date": "2017-03-15",
+          "legislative_period_id": "term/51"
+        }
+      ]
+    },
+    {
       "email": "Ria.Bond@parliament.govt.nz",
       "gender": "female",
       "id": "person/67b99f79-886e-49f5-89c4-4e6ea0efaabe",
@@ -3779,41 +3859,6 @@
       ]
     },
     {
-      "email": "sua.william.sio@parliament.govt.nz",
-      "gender": "male",
-      "id": "person/dd826092-7cbf-4791-a77b-e77602967b58",
-      "image": "https://www.parliament.nz/media/1378/sio-sua-william.C1kn1w.jpg",
-      "name": "Su’a William Sio",
-      "sort_name": "Sio, Su'a William",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "swsio_mp"
-        }
-      ],
-      "links": [
-        {
-          "url": "suawilliamsio",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.parliament.nz/media/1378/sio-sua-william.C1kn1w.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dd826092-7cbf-4791-a77b-e77602967b58",
-          "organization_id": "chamber/new_zealand_parliament",
-          "role": "member",
-          "on_behalf_of_id": "labour_party",
-          "area_id": "area/māngere",
-          "legislative_period_id": "term/51"
-        }
-      ]
-    },
-    {
       "email": "teururoa.flavell@parliament.govt.nz",
       "gender": "male",
       "id": "person/d85334ce-5897-4072-b805-2083c4cf2f05",
@@ -4115,6 +4160,15 @@
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/995239c2-94c8-40d4-9343-839e60aaebea",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "nz_first",
+          "area_id": "area/list",
+          "end_date": "2015-04-23",
+          "legislative_period_id": "term/51"
+        },
         {
           "person_id": "person/995239c2-94c8-40d4-9343-839e60aaebea",
           "organization_id": "chamber/new_zealand_parliament",
