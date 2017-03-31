@@ -1,7 +1,7 @@
 {
-  "total": 302,
+  "total": 303,
   "page": 1,
-  "per_page": 302,
+  "per_page": 303,
   "has_more": false,
   "result": [
     {
@@ -775,6 +775,26 @@
           "role": "member",
           "on_behalf_of_id": "topotami",
           "area_id": "area/larissa",
+          "end_date": "2017-02-06",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/2fe68923-0774-4f93-a6d3-4ab712eb4d37",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/larissa",
+          "start_date": "2017-02-07",
+          "end_date": "2017-03-28",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/2fe68923-0774-4f93-a6d3-4ab712eb4d37",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "democraticcoalition",
+          "area_id": "area/larissa",
+          "start_date": "2017-03-29",
           "legislative_period_id": "term/17"
         }
       ]
@@ -851,6 +871,16 @@
           "role": "member",
           "on_behalf_of_id": "nd",
           "area_id": "area/viotia",
+          "end_date": "2017-02-16",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/ad89b0a5-063d-4308-9e5f-07404288ac27",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "nd",
+          "area_id": "area/viotia",
+          "start_date": "2017-02-17",
           "legislative_period_id": "term/17"
         }
       ],
@@ -1677,6 +1707,16 @@
           "on_behalf_of_id": "topotami",
           "area_id": "area/achaia",
           "start_date": "2016-10-18",
+          "end_date": "2017-01-24",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/bf425129-9ed1-423f-8c0c-925eb429bf02",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "nd",
+          "area_id": "area/achaia",
+          "start_date": "2017-01-25",
           "legislative_period_id": "term/17"
         }
       ],
@@ -3982,6 +4022,16 @@
           "role": "member",
           "on_behalf_of_id": "laikossyndesmoschrysiavgi",
           "area_id": "area/messinia",
+          "end_date": "2017-03-03",
+          "legislative_period_id": "term/17"
+        },
+        {
+          "person_id": "person/6f5cee17-63d3-415c-a968-1f25758dba84",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/messinia",
+          "start_date": "2017-03-04",
           "legislative_period_id": "term/17"
         }
       ],
@@ -4132,6 +4182,25 @@
           "area_id": "area/ileia",
           "legislative_period_id": "term/17"
         }
+      ]
+    },
+    {
+      "id": "person/c7c8f715-d4ac-458d-b26f-61087db121ff",
+      "name": "Koutsoumpas Andreas",
+      "sort_name": "Koutsoumpas Andreas",
+      "memberships": [
+        {
+          "person_id": "person/c7c8f715-d4ac-458d-b26f-61087db121ff",
+          "organization_id": "chamber/hellenic_parliament",
+          "role": "member",
+          "on_behalf_of_id": "nd",
+          "area_id": "area/viotia",
+          "start_date": "2017-02-22",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
