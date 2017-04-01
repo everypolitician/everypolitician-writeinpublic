@@ -1,7 +1,7 @@
 {
-  "total": 655,
+  "total": 656,
   "page": 1,
-  "per_page": 655,
+  "per_page": 656,
   "has_more": false,
   "result": [
     {
@@ -1036,6 +1036,26 @@
           "start_date": "2014-11-12",
           "legislative_period_id": "term/18"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/72f1363b-d2a7-4bdf-a566-01fe1aeeac48",
+      "name": "Angelika Krüger-Leißner",
+      "sort_name": "Krugerleissner, Angelika",
+      "memberships": [
+        {
+          "person_id": "person/72f1363b-d2a7-4bdf-a566-01fe1aeeac48",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "spd",
+          "area_id": "area/brandenburg",
+          "start_date": "2017-02-25",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -5520,6 +5540,7 @@
           "role": "member",
           "on_behalf_of_id": "spd",
           "area_id": "area/brandenburg",
+          "end_date": "2017-02-25",
           "legislative_period_id": "term/18"
         }
       ],
