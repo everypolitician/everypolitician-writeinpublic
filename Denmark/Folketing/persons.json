@@ -2189,8 +2189,14 @@
       "email": "johannes.lebech@ft.dk",
       "gender": "male",
       "id": "person/7bb67570-fa0f-4e10-aa02-09bd9cb3ecce",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Johanneslebech.JPG",
       "name": "Johannes Lebech",
       "sort_name": "Johannes Lebech",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Johanneslebech.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7bb67570-fa0f-4e10-aa02-09bd9cb3ecce",
@@ -4227,6 +4233,7 @@
     },
     {
       "email": "Orla.Osterby@ft.dk",
+      "gender": "female",
       "id": "person/07931c6f-81e9-4cfe-b994-70e72c985c9c",
       "name": "Orla Østerby",
       "sort_name": "Orla Østerby",
@@ -4958,6 +4965,12 @@
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Sarah%20Glerup/Sarah_Glerup_133.jpg.ashx",
       "name": "Sarah Glerup",
       "sort_name": "Sarah Glerup",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sarah_glerup"
+        }
+      ],
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Sarah%20Glerup/Sarah_Glerup_133.jpg.ashx"
@@ -4972,9 +4985,6 @@
           "area_id": "area/copenhagen",
           "legislative_period_id": "term/2015"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5637,8 +5647,14 @@
       "email": "torbjorn.jacobsen@ft.dk",
       "gender": "male",
       "id": "person/a7b7510e-3f43-423b-bf83-a6cd4512af86",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Torbjorn_Jacobsen_01_cut.jpg",
       "name": "Tórbjørn Jacobsen",
       "sort_name": "Tórbjørn Jacobsen",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Torbjorn_Jacobsen_01_cut.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a7b7510e-3f43-423b-bf83-a6cd4512af86",
