@@ -37,12 +37,12 @@
       "email": "agathe@inatsisartut.gl",
       "gender": "female",
       "id": "person/16f99345-b632-4426-9ab8-14b2033e487f",
-      "image": "http://www.ina.gl/media/personfiler/234537/2010.09.17%20Start%20EM%202010%2000896.jpg",
+      "image": "http://www.ina.gl/media/2527783/agathe.jpg",
       "name": "Agathe Fontain",
       "sort_name": "Agathe Fontain",
       "images": [
         {
-          "url": "http://www.ina.gl/media/personfiler/234537/2010.09.17%20Start%20EM%202010%2000896.jpg"
+          "url": "http://www.ina.gl/media/2527783/agathe.jpg"
         }
       ],
       "memberships": [
@@ -631,6 +631,24 @@
           "organization_id": "chamber/inatsisartut",
           "role": "member",
           "on_behalf_of_id": "atassut",
+          "end_date": "2017-01-29",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/c1e79ec4-a683-41f6-a7b0-c7968bd18a51",
+          "organization_id": "chamber/inatsisartut",
+          "role": "member",
+          "on_behalf_of_id": "loesgaenger",
+          "start_date": "2017-01-30",
+          "end_date": "2017-02-22",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/c1e79ec4-a683-41f6-a7b0-c7968bd18a51",
+          "organization_id": "chamber/inatsisartut",
+          "role": "member",
+          "on_behalf_of_id": "siumut",
+          "start_date": "2017-02-23",
           "legislative_period_id": "term/12"
         }
       ],
@@ -944,6 +962,15 @@
           "role": "member",
           "on_behalf_of_id": "loesgaenger",
           "start_date": "2016-05-23",
+          "end_date": "2017-02-22",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/2f830c08-28cf-4cad-9097-cb92234a2485",
+          "organization_id": "chamber/inatsisartut",
+          "role": "member",
+          "on_behalf_of_id": "partii_naleraq",
+          "start_date": "2017-02-23",
           "legislative_period_id": "term/12"
         }
       ],
@@ -978,6 +1005,7 @@
     },
     {
       "email": "phan@inatsisartut.gl",
+      "gender": "male",
       "id": "person/64571965-ed5f-48fb-afec-50aca546880a",
       "image": "http://www.ina.gl/media/personfiler/2677096/Poul%20Hansen%20-%2018580.jpg",
       "name": "Poul Hansen",
