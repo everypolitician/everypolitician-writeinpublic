@@ -3197,6 +3197,18 @@
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01260.gif",
       "name": "Peter Luykx",
       "sort_name": "Luykx Peter",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "peerlux"
+        }
+      ],
+      "links": [
+        {
+          "url": "peter.luykx.3",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.lachambre.be/site/wwwroot/images/cv/01260.gif"
@@ -3211,9 +3223,6 @@
           "area_id": "area/limburg",
           "legislative_period_id": "term/54"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4295,6 +4304,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4b408d3f-1c4a-4022-ad18-7641b08fb7ca",
       "name": "Wim Van der Donckt",
       "sort_name": "Wim Van der Donckt",
