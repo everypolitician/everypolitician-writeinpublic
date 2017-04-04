@@ -1,7 +1,7 @@
 {
-  "total": 77,
+  "total": 79,
   "page": 1,
-  "per_page": 77,
+  "per_page": 79,
   "has_more": false,
   "result": [
     {
@@ -579,6 +579,30 @@
       ]
     },
     {
+      "id": "person/ad8a32b8-0cf6-4901-a04f-44e9abb61cde",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10409",
+      "name": "Emanuel Jesus Correia Lopes",
+      "sort_name": "Emanuel Jesus Correia Lopes",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10409"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ad8a32b8-0cf6-4901-a04f-44e9abb61cde",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/5f99c500-e9c1-4a83-a6d3-9966b39f7ea9",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=253",
@@ -832,8 +856,8 @@
       "gender": "male",
       "id": "person/f87a9b21-fd6c-4964-8755-b1ffeba9cb57",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=310",
-      "name": "Humberto Elísio Lélis Sousa Duarte",
-      "sort_name": "Humberto Elísio Lélis Sousa Duarte",
+      "name": "Humberto Elísio Lélis Duarte",
+      "sort_name": "Humberto Elísio Lélis Duarte",
       "images": [
         {
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=310"
@@ -1445,6 +1469,30 @@
           "role": "member",
           "on_behalf_of_id": "PAICV",
           "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1f57a597-015d-4f1f-af14-2cdec3b14123",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10410",
+      "name": "Luís António Gomes Alves",
+      "sort_name": "Luís António Gomes Alves",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10410"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1f57a597-015d-4f1f-af14-2cdec3b14123",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/fogo",
           "legislative_period_id": "term/9"
         }
       ],
