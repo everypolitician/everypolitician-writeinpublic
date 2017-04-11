@@ -7595,30 +7595,6 @@
     },
     {
       "gender": "female",
-      "id": "person/e0fde1bd-2ead-47a6-8858-ca60bb2333c4",
-      "image": "http://www.na.gov.pk/uploads/images/294.jpg",
-      "name": "Shazia Farid",
-      "sort_name": "Shazia Farid",
-      "images": [
-        {
-          "url": "http://www.na.gov.pk/uploads/images/294.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e0fde1bd-2ead-47a6-8858-ca60bb2333c4",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "pmln",
-          "legislative_period_id": "term/14"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
       "id": "person/100df443-c45c-4737-b223-b1277e830bff",
       "image": "http://www.na.gov.pk/uploads/images/Shazia%20sMarri-.jpg",
       "name": "Shazia Marri",
@@ -7662,6 +7638,30 @@
           "on_behalf_of_id": "pmln",
           "area_id": "area/na-129_(lahore-xii)",
           "start_date": "2013-09-16",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/e0fde1bd-2ead-47a6-8858-ca60bb2333c4",
+      "image": "http://www.na.gov.pk/uploads/images/294.jpg",
+      "name": "Shazia Sohail Mir",
+      "sort_name": "Shazia Sohail Mir",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/uploads/images/294.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e0fde1bd-2ead-47a6-8858-ca60bb2333c4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "pmln",
           "legislative_period_id": "term/14"
         }
       ],
