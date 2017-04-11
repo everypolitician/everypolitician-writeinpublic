@@ -1,158 +1,48 @@
 {
-  "total": 26,
+  "total": 25,
   "page": 1,
-  "per_page": 26,
+  "per_page": 25,
   "has_more": false,
   "result": [
     {
-      "email": "christian.batliner@landtag.li",
+      "email": "juergen.beck@landtag.li",
       "gender": "male",
-      "id": "person/b7d6a174-3375-49a9-841a-eae7d5f4e48f",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/christian_batliner.jpg",
-      "name": "Batliner Christian",
-      "sort_name": "Batliner Christian",
+      "id": "person/3a191c1b-1529-49ff-8454-259b34525b96",
+      "image": "http://landtaglive.gmgnet.li/files/attachments/juergen_beck.jpg",
+      "name": "Beck Jürgen",
+      "sort_name": "Beck Jürgen",
       "images": [
         {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/christian_batliner.jpg"
+          "url": "http://landtaglive.gmgnet.li/files/attachments/juergen_beck.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b7d6a174-3375-49a9-841a-eae7d5f4e48f",
+          "person_id": "person/3a191c1b-1529-49ff-8454-259b34525b96",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "DU",
+          "area_id": "area/oberland",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "susanne.eberle-strub@landtag.li",
+      "id": "person/968972c5-7adc-49d8-8938-94c11b87e5c7",
+      "name": "Eberle-Strub Susanne",
+      "sort_name": "Eberle-Strub Susanne",
+      "memberships": [
+        {
+          "person_id": "person/968972c5-7adc-49d8-8938-94c11b87e5c7",
           "organization_id": "chamber/landtag",
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "manfred.batliner@landtag.li",
-      "gender": "male",
-      "id": "person/e7b606fc-d309-4470-ab1f-09fe1fd9f268",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/manfred_batliner.jpg",
-      "name": "Batliner Manfred",
-      "sort_name": "Batliner Manfred",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/manfred_batliner.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e7b606fc-d309-4470-ab1f-09fe1fd9f268",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "FBP",
-          "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "alois.beck@landtag.li",
-      "gender": "male",
-      "id": "person/20715a76-1b03-46c2-a77e-fae4545ee629",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/alois_beck.jpg",
-      "name": "Beck Alois",
-      "sort_name": "Beck Alois",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/alois_beck.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/20715a76-1b03-46c2-a77e-fae4545ee629",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "FBP",
-          "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "christoph.beck@landtag.li",
-      "gender": "male",
-      "id": "person/bf56ac5a-9307-4a99-9823-68c62a9b02eb",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/christoph_beck.jpg",
-      "name": "Beck Christoph",
-      "sort_name": "Beck Christoph",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/christoph_beck.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bf56ac5a-9307-4a99-9823-68c62a9b02eb",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "VU",
-          "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1a9e92f1-f6bb-465c-920d-52685f6d9687",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/gerold_buechel.jpg",
-      "name": "Büchel Gerold",
-      "sort_name": "Büchel Gerold",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/gerold_buechel.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1a9e92f1-f6bb-465c-920d-52685f6d9687",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "FBP",
-          "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "peter.buechel@landtag.li",
-      "gender": "male",
-      "id": "person/07040773-0519-4b99-95c9-0701a3c7e737",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/peter_buechel.jpg",
-      "name": "Büchel Peter",
-      "sort_name": "Büchel Peter",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/peter_buechel.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/07040773-0519-4b99-95c9-0701a3c7e737",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "VU",
-          "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -178,7 +68,7 @@
           "role": "member",
           "on_behalf_of_id": "DU",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -204,33 +94,7 @@
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "rainer.gopp@landtag.li",
-      "gender": "male",
-      "id": "person/c8a2be09-542f-42b7-b76c-774646ae33a8",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/rainer_gopp.jpg",
-      "name": "Gopp Rainer",
-      "sort_name": "Gopp Rainer",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/rainer_gopp.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c8a2be09-542f-42b7-b76c-774646ae33a8",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "FBP",
-          "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -256,7 +120,7 @@
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -282,7 +146,26 @@
           "role": "member",
           "on_behalf_of_id": "DU",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "johannes.hasler@landtag.li",
+      "id": "person/6ba9e125-feed-4d69-ad90-45b471f17b50",
+      "name": "Hasler Johannes",
+      "sort_name": "Hasler Johannes",
+      "memberships": [
+        {
+          "person_id": "person/6ba9e125-feed-4d69-ad90-45b471f17b50",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "FBP",
+          "area_id": "area/unterland",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -308,7 +191,45 @@
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "georg.kaufmann@landtag.li",
+      "id": "person/db2077a9-8e94-442c-827e-1283ff57c6e7",
+      "name": "Kaufmann Georg",
+      "sort_name": "Kaufmann Georg",
+      "memberships": [
+        {
+          "person_id": "person/db2077a9-8e94-442c-827e-1283ff57c6e7",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "FL",
+          "area_id": "area/oberland",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "manfred.kaufmann@landtag.li",
+      "id": "person/08533daa-8635-4e2b-9cab-3a8755797a7e",
+      "name": "Kaufmann Manfred",
+      "sort_name": "Kaufmann Manfred",
+      "memberships": [
+        {
+          "person_id": "person/08533daa-8635-4e2b-9cab-3a8755797a7e",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "VU",
+          "area_id": "area/oberland",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -334,33 +255,7 @@
           "role": "member",
           "on_behalf_of_id": "VU",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "helen.konzettbargetze@landtag.li",
-      "gender": "female",
-      "id": "person/778b1a2d-a54a-4cc2-8723-9d917354c61b",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/helen_konzett_bargetze.jpg",
-      "name": "Konzett Bargetze Helen",
-      "sort_name": "Konzett Bargetze Helen",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/helen_konzett_bargetze.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/778b1a2d-a54a-4cc2-8723-9d917354c61b",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "FL",
-          "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -386,7 +281,7 @@
           "role": "member",
           "on_behalf_of_id": "FL",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -412,7 +307,7 @@
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -438,7 +333,7 @@
           "role": "member",
           "on_behalf_of_id": "VU",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -446,25 +341,18 @@
       ]
     },
     {
-      "email": "wolfgang.marxer@landtag.li",
-      "gender": "male",
-      "id": "person/c27ec59d-0f3f-49b9-b947-72511aa20f16",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/wolfgang_marxer_634995651773507500.jpg",
-      "name": "Marxer Wolfgang",
-      "sort_name": "Marxer Wolfgang",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/wolfgang_marxer_634995651773507500.jpg"
-        }
-      ],
+      "email": "gunilla.marxer-kranz@landtag.li",
+      "id": "person/b094819e-e356-4ebc-bca3-66fc4a2b9daa",
+      "name": "Marxer-Kranz Gunilla",
+      "sort_name": "Marxer-Kranz Gunilla",
       "memberships": [
         {
-          "person_id": "person/c27ec59d-0f3f-49b9-b947-72511aa20f16",
+          "person_id": "person/b094819e-e356-4ebc-bca3-66fc4a2b9daa",
           "organization_id": "chamber/landtag",
           "role": "member",
-          "on_behalf_of_id": "FL",
+          "on_behalf_of_id": "VU",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -490,7 +378,7 @@
           "role": "member",
           "on_behalf_of_id": "FBP",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -498,25 +386,18 @@
       ]
     },
     {
-      "email": "judith.oehri@landtag.li",
-      "gender": "female",
-      "id": "person/78bd1408-f991-41cd-9507-b0d301047cc3",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/judith_oehri.jpg",
-      "name": "Oehri Judith",
-      "sort_name": "Oehri Judith",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/judith_oehri.jpg"
-        }
-      ],
+      "email": "daniel.oehry@landtag.li",
+      "id": "person/9cda707b-a494-4b53-bb62-a31efa8528ee",
+      "name": "Oehry Daniel",
+      "sort_name": "Oehry Daniel",
       "memberships": [
         {
-          "person_id": "person/78bd1408-f991-41cd-9507-b0d301047cc3",
+          "person_id": "person/9cda707b-a494-4b53-bb62-a31efa8528ee",
           "organization_id": "chamber/landtag",
           "role": "member",
-          "on_behalf_of_id": "VU",
+          "on_behalf_of_id": "FBP",
           "area_id": "area/unterland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -542,7 +423,7 @@
           "role": "member",
           "on_behalf_of_id": "DU",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -550,51 +431,75 @@
       ]
     },
     {
-      "email": "karin.ruedisser-quaderer@landtag.li",
-      "gender": "female",
-      "id": "person/0b4218ca-a5f6-47e2-b0de-4dc483d96c67",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/karin_ruedisser_quaderer.jpg",
-      "name": "Rüdisser-Quaderer Karin",
-      "sort_name": "Rüdisser-Quaderer Karin",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/karin_ruedisser_quaderer.jpg"
-        }
-      ],
+      "email": "thomas.rehak@landtag.li",
+      "id": "person/03b8b592-f7da-4e4b-8180-bfd215f093a4",
+      "name": "Rehak Thomas",
+      "sort_name": "Rehak Thomas",
       "memberships": [
         {
-          "person_id": "person/0b4218ca-a5f6-47e2-b0de-4dc483d96c67",
-          "organization_id": "chamber/landtag",
-          "role": "member",
-          "on_behalf_of_id": "VU",
-          "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "pio.schurti@landtag.li",
-      "gender": "male",
-      "id": "person/a583fcff-171d-4541-9fe6-ae310da0d880",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/pius_schurti.jpg",
-      "name": "Schurti Pio",
-      "sort_name": "Schurti Pio",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/pius_schurti.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a583fcff-171d-4541-9fe6-ae310da0d880",
+          "person_id": "person/03b8b592-f7da-4e4b-8180-bfd215f093a4",
           "organization_id": "chamber/landtag",
           "role": "member",
           "on_behalf_of_id": "DU",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "patrick.risch@landtag.li",
+      "id": "person/2c8ece03-0f2f-4bf7-84fb-1fa8590f9b69",
+      "name": "Risch Patrick",
+      "sort_name": "Risch Patrick",
+      "memberships": [
+        {
+          "person_id": "person/2c8ece03-0f2f-4bf7-84fb-1fa8590f9b69",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "FL",
+          "area_id": "area/unterland",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "daniel.seger@landtag.li",
+      "id": "person/1dcd3d33-931d-49cf-a002-591e0f5264f4",
+      "name": "Seger Daniel",
+      "sort_name": "Seger Daniel",
+      "memberships": [
+        {
+          "person_id": "person/1dcd3d33-931d-49cf-a002-591e0f5264f4",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "FBP",
+          "area_id": "area/oberland",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "guenter.vogt@landtag.li",
+      "id": "person/7c9e4123-146e-4a97-a388-ea5704671c7a",
+      "name": "Vogt Günter",
+      "sort_name": "Vogt Günter",
+      "memberships": [
+        {
+          "person_id": "person/7c9e4123-146e-4a97-a388-ea5704671c7a",
+          "organization_id": "chamber/landtag",
+          "role": "member",
+          "on_behalf_of_id": "VU",
+          "area_id": "area/oberland",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -620,7 +525,7 @@
           "role": "member",
           "on_behalf_of_id": "VU",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -646,7 +551,7 @@
           "role": "member",
           "on_behalf_of_id": "VU",
           "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -654,25 +559,18 @@
       ]
     },
     {
-      "email": "christine.wohlwend@landtag.li",
-      "gender": "female",
-      "id": "person/bfed0054-e9f5-4753-8c6b-9b7f68e17d81",
-      "image": "http://landtaglive.gmgnet.li/files/attachments/christine_wohlwend.jpg",
-      "name": "Wohlwend Christine",
-      "sort_name": "Wohlwend Christine",
-      "images": [
-        {
-          "url": "http://landtaglive.gmgnet.li/files/attachments/christine_wohlwend.jpg"
-        }
-      ],
+      "email": "mario.wohlwend@landtag.li",
+      "id": "person/2e496fff-336e-423d-9c17-673f7d6fed0e",
+      "name": "Wohlwend Mario",
+      "sort_name": "Wohlwend Mario",
       "memberships": [
         {
-          "person_id": "person/bfed0054-e9f5-4753-8c6b-9b7f68e17d81",
+          "person_id": "person/2e496fff-336e-423d-9c17-673f7d6fed0e",
           "organization_id": "chamber/landtag",
           "role": "member",
-          "on_behalf_of_id": "FBP",
-          "area_id": "area/oberland",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "VU",
+          "area_id": "area/unterland",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
