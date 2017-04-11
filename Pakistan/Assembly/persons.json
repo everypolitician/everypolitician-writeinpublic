@@ -1,7 +1,7 @@
 {
-  "total": 350,
+  "total": 349,
   "page": 1,
-  "per_page": 350,
+  "per_page": 349,
   "has_more": false,
   "result": [
     {
@@ -54,7 +54,7 @@
     },
     {
       "gender": "male",
-      "id": "person/5cfd9f16-901a-473d-8dcc-adb457ae2734",
+      "id": "person/f67e27f4-7419-425c-879b-c89672659464",
       "image": "http://www.na.gov.pk/uploads/images/258(1).jpg",
       "name": "Abdul Hakeem Baloch",
       "sort_name": "Abdul Hakeem Baloch",
@@ -65,38 +65,21 @@
       ],
       "memberships": [
         {
-          "person_id": "person/5cfd9f16-901a-473d-8dcc-adb457ae2734",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "pppp",
-          "area_id": "area/na-258_(karachi-xx)",
-          "start_date": "2016-12-14",
-          "legislative_period_id": "term/14"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f67e27f4-7419-425c-879b-c89672659464",
-      "image": "http://www.na.gov.pk/uploads/images/258.jpg",
-      "name": "Abdul Hakeem Baloch",
-      "sort_name": "Abdul Hakeem Baloch",
-      "images": [
-        {
-          "url": "http://www.na.gov.pk/uploads/images/258.jpg"
-        }
-      ],
-      "memberships": [
-        {
           "person_id": "person/f67e27f4-7419-425c-879b-c89672659464",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "pmln",
           "area_id": "area/na-258_(karachi-xx)",
           "end_date": "2016-05-26",
+          "legislative_period_id": "term/14"
+        },
+        {
+          "person_id": "person/f67e27f4-7419-425c-879b-c89672659464",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "pppp",
+          "area_id": "area/na-258_(karachi-xx)",
+          "start_date": "2016-12-14",
           "legislative_period_id": "term/14"
         }
       ],
