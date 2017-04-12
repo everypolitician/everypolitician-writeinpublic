@@ -1,54 +1,27 @@
 {
-  "total": 109,
+  "total": 110,
   "page": 1,
-  "per_page": 109,
+  "per_page": 110,
   "has_more": false,
   "result": [
     {
-      "email": "ageey@house.gov.by",
-      "gender": "male",
-      "id": "person/5ec20a81-a075-4465-a530-3805e1b316ad",
-      "image": "http://house.gov.by/files/images/ageev.jpg",
-      "name": "AGEEV ALEKSANDR",
-      "sort_name": "AGEEV ALEKSANDR",
+      "id": "person/656d9882-aaef-4ca4-9baf-9a032ac6347b",
+      "image": "http://house.gov.by/images/storage/person/000683_368555.jpg",
+      "name": "ADAMENKO EVGENIJ",
+      "sort_name": "ADAMENKO EVGENIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/ageev.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_368555.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5ec20a81-a075-4465-a530-3805e1b316ad",
+          "person_id": "person/656d9882-aaef-4ca4-9baf-9a032ac6347b",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "90",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2fa57e13-8a9f-43f6-85be-b29e33098868",
-      "image": "http://house.gov.by/files/images/alekseenko.jpg",
-      "name": "ALEKSEENKO VASILY",
-      "sort_name": "ALEKSEENKO VASILY",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/alekseenko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2fa57e13-8a9f-43f6-85be-b29e33098868",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "98",
-          "legislative_period_id": "term/5"
+          "area_id": "41",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -73,7 +46,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "22",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -81,25 +54,71 @@
       ]
     },
     {
-      "email": "apanasyuk@house.gov.by",
-      "gender": "male",
-      "id": "person/8fd9f65c-29ac-497c-9c02-542c647d4a7b",
-      "image": "http://house.gov.by/files/images/apanasjuk.jpg",
-      "name": "APANASYUK LEONID",
-      "sort_name": "APANASYUK LEONID",
+      "id": "person/aba2228e-a1d3-4e6c-bfd8-1eb5fecbc68b",
+      "image": "http://house.gov.by/images/storage/person/000683_178005.jpg",
+      "name": "ANISIM ELENA",
+      "sort_name": "ANISIM ELENA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/apanasjuk.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_178005.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8fd9f65c-29ac-497c-9c02-542c647d4a7b",
+          "person_id": "person/aba2228e-a1d3-4e6c-bfd8-1eb5fecbc68b",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "40",
-          "legislative_period_id": "term/5"
+          "area_id": "70",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e023d3f9-2cec-4f26-8f69-e6ca4d47816b",
+      "image": "http://house.gov.by/images/storage/person/000683_93153.jpg",
+      "name": "ATROSCHENKO PETR",
+      "sort_name": "ATROSCHENKO PETR",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_93153.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e023d3f9-2cec-4f26-8f69-e6ca4d47816b",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "61",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c38b61c4-f2e3-4bbd-b12d-76d2766161ef",
+      "image": "http://house.gov.by/images/storage/person/000683_175498.jpg",
+      "name": "BARANNIK VASILIJ",
+      "sort_name": "BARANNIK VASILIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_175498.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c38b61c4-f2e3-4bbd-b12d-76d2766161ef",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "62",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -124,7 +143,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "4",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -132,25 +151,23 @@
       ]
     },
     {
-      "email": "beresneva@house.gov.by",
-      "gender": "female",
-      "id": "person/30de3658-0178-48ac-a5fa-cb99c94e6f62",
-      "image": "http://house.gov.by/files/images/beresneva_1.jpg",
-      "name": "BERESNEVA ELENA",
-      "sort_name": "BERESNEVA ELENA",
+      "id": "person/51a9730c-ea7f-4c9e-a76d-0c2f1a0a135c",
+      "image": "http://house.gov.by/images/storage/person/000683_542865.jpg",
+      "name": "BOBOLOVICH ALEKSANDR",
+      "sort_name": "BOBOLOVICH ALEKSANDR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/beresneva_1.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_542865.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/30de3658-0178-48ac-a5fa-cb99c94e6f62",
+          "person_id": "person/51a9730c-ea7f-4c9e-a76d-0c2f1a0a135c",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "49",
-          "legislative_period_id": "term/5"
+          "area_id": "16",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -158,24 +175,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/7c5058ea-e4d5-4099-b378-8fb722b44f61",
-      "image": "http://house.gov.by/images/page16/bogdanovich.jpg",
-      "name": "BOGDANOVICH LARISA",
-      "sort_name": "BOGDANOVICH LARISA",
+      "id": "person/735e20a7-ef05-4947-93fa-c8e1cc123a72",
+      "image": "http://house.gov.by/images/storage/person/000683_248381.jpg",
+      "name": "BOBRIKOV SERGEJ",
+      "sort_name": "BOBRIKOV SERGEJ",
       "images": [
         {
-          "url": "http://house.gov.by/images/page16/bogdanovich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_248381.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/7c5058ea-e4d5-4099-b378-8fb722b44f61",
+          "person_id": "person/735e20a7-ef05-4947-93fa-c8e1cc123a72",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "3",
-          "legislative_period_id": "term/5"
+          "area_id": "109",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -183,51 +199,23 @@
       ]
     },
     {
-      "email": "boiko@house.gov.by",
-      "gender": "male",
-      "id": "person/2627b3be-1c95-4ab4-bb95-4252a2bd2b9e",
-      "image": "http://house.gov.by/files/images/bojko.jpg",
-      "name": "BOIKO ANATOLY",
-      "sort_name": "BOIKO ANATOLY",
+      "id": "person/fa8aa4a8-c2d6-479a-8685-a9eeae303f17",
+      "image": "http://house.gov.by/images/storage/person/000683_753721.jpg",
+      "name": "BOGDANOVICH ALEKSANDR",
+      "sort_name": "BOGDANOVICH ALEKSANDR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/bojko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_753721.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2627b3be-1c95-4ab4-bb95-4252a2bd2b9e",
+          "person_id": "person/fa8aa4a8-c2d6-479a-8685-a9eeae303f17",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "66",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "bokhan@house.gov.by",
-      "gender": "male",
-      "id": "person/40a20903-b05d-4b7f-b481-ba2d012a27e5",
-      "image": "http://house.gov.by/files/images/bohan.jpg",
-      "name": "BOKHAN SERGEY",
-      "sort_name": "BOKHAN SERGEY",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/bohan.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/40a20903-b05d-4b7f-b481-ba2d012a27e5",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "19",
-          "legislative_period_id": "term/5"
+          "area_id": "89",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -253,7 +241,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "93",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -261,25 +249,23 @@
       ]
     },
     {
-      "email": "busko@house.gov.by",
-      "gender": "male",
-      "id": "person/d8f902b8-42c3-4c63-a375-1cd85c4ed7cd",
-      "image": "http://house.gov.by/files/images/busjko.jpg",
-      "name": "BUSKO VITALY",
-      "sort_name": "BUSKO VITALY",
+      "id": "person/27821a45-bf98-4f48-8902-770dc5f20416",
+      "image": "http://house.gov.by/images/storage/person/000683_939131.jpg",
+      "name": "BRICH LEONID",
+      "sort_name": "BRICH LEONID",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/busjko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_939131.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d8f902b8-42c3-4c63-a375-1cd85c4ed7cd",
+          "person_id": "person/27821a45-bf98-4f48-8902-770dc5f20416",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "107",
-          "legislative_period_id": "term/5"
+          "area_id": "1",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -305,7 +291,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "47",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -313,25 +299,23 @@
       ]
     },
     {
-      "email": "cherevach@house.gov.by",
-      "gender": "male",
-      "id": "person/dfb843e3-ac71-4684-bba1-d1664e99c5aa",
-      "image": "http://house.gov.by/files/images/cherevach.jpg",
-      "name": "CHEREVACH VLADIMIR",
-      "sort_name": "CHEREVACH VLADIMIR",
+      "id": "person/c46b5cf8-61f9-42db-a2b7-6800f79ec0d6",
+      "image": "http://house.gov.by/images/storage/person/000683_588907.jpg",
+      "name": "CHEKAN VASILIJ",
+      "sort_name": "CHEKAN VASILIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/cherevach.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_588907.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/dfb843e3-ac71-4684-bba1-d1664e99c5aa",
+          "person_id": "person/c46b5cf8-61f9-42db-a2b7-6800f79ec0d6",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "97",
-          "legislative_period_id": "term/5"
+          "area_id": "19",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -339,24 +323,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/8108f50d-29e3-4133-941b-e7f8c7d6ce30",
-      "image": "http://house.gov.by/files/images/danilevich_1.jpg",
-      "name": "DANILEVICH TAISA",
-      "sort_name": "DANILEVICH TAISA",
+      "id": "person/ce8b20f9-fe57-4b98-8eeb-72db9673f4bb",
+      "image": "http://house.gov.by/images/storage/person/000683_864003.jpg",
+      "name": "CHUDOVICH VITALIJ",
+      "sort_name": "CHUDOVICH VITALIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/danilevich_1.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_864003.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8108f50d-29e3-4133-941b-e7f8c7d6ce30",
+          "person_id": "person/ce8b20f9-fe57-4b98-8eeb-72db9673f4bb",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "69",
-          "legislative_period_id": "term/5"
+          "area_id": "26",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -364,25 +347,47 @@
       ]
     },
     {
-      "email": "orsha_rik@tut.by",
-      "gender": "male",
-      "id": "person/3653432d-0cc7-4de5-8992-e95a401ccdfa",
-      "image": "http://house.gov.by/files/images/dedushkin.jpg",
-      "name": "DEDUSHKIN VLADIMIR",
-      "sort_name": "DEDUSHKIN VLADIMIR",
+      "id": "person/8e323344-bff5-4c85-b891-897a2d9f88fb",
+      "image": "http://house.gov.by/images/storage/person/000683_606829.jpg",
+      "name": "DASHKO ANATOLIJ",
+      "sort_name": "DASHKO ANATOLIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/dedushkin.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_606829.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3653432d-0cc7-4de5-8992-e95a401ccdfa",
+          "person_id": "person/8e323344-bff5-4c85-b891-897a2d9f88fb",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "27",
-          "legislative_period_id": "term/5"
+          "area_id": "3",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/724db392-45c9-4c41-a130-d399c4a2d30e",
+      "image": "http://house.gov.by/images/storage/person/000683_158066.jpg",
+      "name": "DEMIDOVICH VASILIJ",
+      "sort_name": "DEMIDOVICH VASILIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_158066.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/724db392-45c9-4c41-a130-d399c4a2d30e",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "12",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -407,8 +412,32 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "25",
-          "legislative_period_id": "term/5"
+          "area_id": "24",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7b85a016-abc9-4350-934e-624291f1b135",
+      "image": "http://house.gov.by/images/storage/person/000683_747645.jpg",
+      "name": "DJJACHENKO VJACHESLAV",
+      "sort_name": "DJJACHENKO VJACHESLAV",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_747645.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7b85a016-abc9-4350-934e-624291f1b135",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "40",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -433,8 +462,56 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "26",
-          "legislative_period_id": "term/5"
+          "area_id": "25",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fd17e77c-dce5-4cab-8e26-4f1b0ed92232",
+      "image": "http://house.gov.by/images/storage/person/000683_840760.jpg",
+      "name": "DOLGOSHEJ TAMARA",
+      "sort_name": "DOLGOSHEJ TAMARA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_840760.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fd17e77c-dce5-4cab-8e26-4f1b0ed92232",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "52",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1a1a8a32-3731-4467-8665-f49c9f5ce99f",
+      "image": "http://house.gov.by/images/storage/person/000683_231685.jpg",
+      "name": "DOROFEEVA IRINA",
+      "sort_name": "DOROFEEVA IRINA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_231685.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1a1a8a32-3731-4467-8665-f49c9f5ce99f",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "105",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -460,84 +537,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "10",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dudkin@house.gov.by",
-      "gender": "male",
-      "id": "person/f0dd40cc-e728-484b-b478-e5ce373f4943",
-      "image": "http://house.gov.by/files/images/dudkin.jpg",
-      "name": "DUDKIN SERGEY",
-      "sort_name": "DUDKIN SERGEY",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/dudkin.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f0dd40cc-e728-484b-b478-e5ce373f4943",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "92",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b7249d2b-bc12-4858-9d33-9466595682ad",
-      "image": "http://house.gov.by/files/images/9330ermantovich.jpg",
-      "name": "ERMANTOVICH LEONID",
-      "sort_name": "ERMANTOVICH LEONID",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/9330ermantovich.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b7249d2b-bc12-4858-9d33-9466595682ad",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "55",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "fesak@house.gov.by",
-      "gender": "male",
-      "id": "person/f45aa70b-5bcc-40c8-b27a-7ac7d78e7050",
-      "image": "http://house.gov.by/files/images/fesak.jpg",
-      "name": "FESAK VIKTOR",
-      "sort_name": "FESAK VIKTOR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/fesak.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f45aa70b-5bcc-40c8-b27a-7ac7d78e7050",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "31",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -562,7 +562,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "46",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -587,7 +587,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "65",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -595,24 +595,47 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/4fc3b277-3d8a-4310-a393-0f10f69c72e9",
-      "image": "http://house.gov.by/files/images/grickevich.jpg",
-      "name": "GRITSKEVICH GENNADY",
-      "sort_name": "GRITSKEVICH GENNADY",
+      "id": "person/1ec3c237-4d29-40bd-bd31-b13620556734",
+      "image": "http://house.gov.by/images/storage/person/000683_143567.jpg",
+      "name": "GAJDUK OKSANA",
+      "sort_name": "GAJDUK OKSANA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/grickevich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_143567.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4fc3b277-3d8a-4310-a393-0f10f69c72e9",
+          "person_id": "person/1ec3c237-4d29-40bd-bd31-b13620556734",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "17",
-          "legislative_period_id": "term/5"
+          "area_id": "100",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ae7977aa-7cf0-426c-be18-4a3fd7d18bad",
+      "image": "http://house.gov.by/images/storage/person/000683_686230.jpg",
+      "name": "GOBOROV DMITRIJ",
+      "sort_name": "GOBOROV DMITRIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_686230.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ae7977aa-7cf0-426c-be18-4a3fd7d18bad",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "90",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -637,8 +660,80 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
+          "area_id": "27",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8321088a-21f9-4af3-af43-b838507d3163",
+      "image": "http://house.gov.by/images/storage/person/000683_821967.jpg",
+      "name": "GURSKIJ DMITRIJ",
+      "sort_name": "GURSKIJ DMITRIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_821967.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8321088a-21f9-4af3-af43-b838507d3163",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "35",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cc29b5a3-ef5f-482f-b625-d3ad5a1c3f55",
+      "image": "http://house.gov.by/images/storage/person/000683_353500.jpg",
+      "name": "JAKUBOVICH TATJJANA",
+      "sort_name": "JAKUBOVICH TATJJANA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_353500.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cc29b5a3-ef5f-482f-b625-d3ad5a1c3f55",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "6",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/220fe082-7715-4f44-97d5-3eb2373fa0d4",
+      "image": "http://house.gov.by/images/storage/person/000683_408746.jpg",
+      "name": "JUNITSYN ANDREJ",
+      "sort_name": "JUNITSYN ANDREJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_408746.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/220fe082-7715-4f44-97d5-3eb2373fa0d4",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
           "area_id": "28",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -646,24 +741,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/42125542-034b-4894-a0f6-a199069e6374",
-      "image": "http://house.gov.by/files/images/img_7868_1.jpg",
-      "name": "GUMINSKY VIKTOR",
-      "sort_name": "GUMINSKY VIKTOR",
+      "id": "person/21a0f73f-7dcf-48d0-aede-e80418f02eb7",
+      "image": "http://house.gov.by/images/storage/person/000683_513410.jpg",
+      "name": "KACHINA LEONID",
+      "sort_name": "KACHINA LEONID",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/img_7868_1.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_513410.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/42125542-034b-4894-a0f6-a199069e6374",
+          "person_id": "person/21a0f73f-7dcf-48d0-aede-e80418f02eb7",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "63",
-          "legislative_period_id": "term/5"
+          "area_id": "9",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -671,25 +765,23 @@
       ]
     },
     {
-      "email": "gushcha@house.gov.by",
-      "gender": "male",
-      "id": "person/da11902a-f976-43a4-9994-c207fb784615",
-      "image": "http://house.gov.by/files/images/guscha.jpg",
-      "name": "GUSHCHA VALERY",
-      "sort_name": "GUSHCHA VALERY",
+      "id": "person/99f0a489-845c-4e2a-9f0f-a79cc7a5352a",
+      "image": "http://house.gov.by/images/storage/person/000683_713388.jpg",
+      "name": "KANANOVICH LJUDMILA",
+      "sort_name": "KANANOVICH LJUDMILA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/guscha.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_713388.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/da11902a-f976-43a4-9994-c207fb784615",
+          "person_id": "person/99f0a489-845c-4e2a-9f0f-a79cc7a5352a",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "54",
-          "legislative_period_id": "term/5"
+          "area_id": "72",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -697,25 +789,23 @@
       ]
     },
     {
-      "email": "ivanchenko@house.gov.by",
-      "gender": "male",
-      "id": "person/6409ecf1-bfb3-442b-a9cc-d89acc9ffd9f",
-      "image": "http://house.gov.by/files/images/ivanchenko.jpg",
-      "name": "IVANCHENKO NIKOLAI",
-      "sort_name": "IVANCHENKO NIKOLAI",
+      "id": "person/57c52566-f728-41a1-89de-eeef33be17e8",
+      "image": "http://house.gov.by/images/storage/person/000683_245956.jpg",
+      "name": "KANOPATSKAJA ANNA",
+      "sort_name": "KANOPATSKAJA ANNA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/ivanchenko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_245956.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6409ecf1-bfb3-442b-a9cc-d89acc9ffd9f",
+          "person_id": "person/57c52566-f728-41a1-89de-eeef33be17e8",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "70",
-          "legislative_period_id": "term/5"
+          "area_id": "97",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -723,51 +813,23 @@
       ]
     },
     {
-      "email": "kharitonchik@house.gov.by",
-      "gender": "male",
-      "id": "person/a8534495-f965-4e96-99f9-9231d2bbd735",
-      "image": "http://house.gov.by/files/images/haritonchik.jpg",
-      "name": "KHARITONCHIK DMITRY",
-      "sort_name": "KHARITONCHIK DMITRY",
+      "id": "person/1c4b0245-b350-4d4c-9718-f253018e6adc",
+      "image": "http://house.gov.by/images/storage/person/000683_758470.jpg",
+      "name": "KIRJJAK LILIJA",
+      "sort_name": "KIRJJAK LILIJA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/haritonchik.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_758470.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a8534495-f965-4e96-99f9-9231d2bbd735",
+          "person_id": "person/1c4b0245-b350-4d4c-9718-f253018e6adc",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "64",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kleshchuk@house.gov.by",
-      "gender": "female",
-      "id": "person/53ee5acf-97ab-4a4e-be44-48f6b2f2e0da",
-      "image": "http://house.gov.by/files/images/kleschuk.jpg",
-      "name": "KLESHCHUK INESSA",
-      "sort_name": "KLESHCHUK INESSA",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kleschuk.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/53ee5acf-97ab-4a4e-be44-48f6b2f2e0da",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "67",
-          "legislative_period_id": "term/5"
+          "area_id": "51",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -791,9 +853,9 @@
           "person_id": "person/1817b4f9-f835-4677-b8d2-441271d64027",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "KPB",
+          "on_behalf_of_id": "unknown",
           "area_id": "96",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -801,25 +863,23 @@
       ]
     },
     {
-      "email": "kokash@house.gov.by",
-      "gender": "male",
-      "id": "person/1d03c9a2-43f0-473b-adbb-3d0173978c0e",
-      "image": "http://house.gov.by/files/images/9311kokash.jpg",
-      "name": "KOKASH VALERY",
-      "sort_name": "KOKASH VALERY",
+      "id": "person/a3dbe43e-3d65-45f9-8e65-817537290276",
+      "image": "http://house.gov.by/images/storage/person/000683_135999.jpg",
+      "name": "KOLB IGOR",
+      "sort_name": "KOLB IGOR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/9311kokash.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_135999.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1d03c9a2-43f0-473b-adbb-3d0173978c0e",
+          "person_id": "person/a3dbe43e-3d65-45f9-8e65-817537290276",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "59",
-          "legislative_period_id": "term/5"
+          "area_id": "14",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -827,25 +887,23 @@
       ]
     },
     {
-      "email": "kokhanov@house.gov.by",
-      "gender": "male",
-      "id": "person/a14684ce-fd0a-4e2e-b0e7-bd183ac05442",
-      "image": "http://house.gov.by/files/images/kohanov.jpg",
-      "name": "KOKHANOV ANATOLY",
-      "sort_name": "KOKHANOV ANATOLY",
+      "id": "person/8bcd0d28-12a0-441a-8905-7613f8d5e1ec",
+      "image": "http://house.gov.by/images/storage/person/000683_775355.jpg",
+      "name": "KOLESNEVA ELENA",
+      "sort_name": "KOLESNEVA ELENA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/kohanov.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_775355.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a14684ce-fd0a-4e2e-b0e7-bd183ac05442",
+          "person_id": "person/8bcd0d28-12a0-441a-8905-7613f8d5e1ec",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "56",
-          "legislative_period_id": "term/5"
+          "area_id": "82",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -853,25 +911,47 @@
       ]
     },
     {
-      "email": "koltunov@house.gov.by",
-      "gender": "male",
-      "id": "person/232c7fd1-4d1e-4fc6-ae60-a3b681ab5636",
-      "image": "http://house.gov.by/files/images/koltunov.jpg",
-      "name": "KOLTUNOV NIKOLAI",
-      "sort_name": "KOLTUNOV NIKOLAI",
+      "id": "person/c444087f-e74e-440a-a099-f84017d9e91e",
+      "image": "http://house.gov.by/images/storage/person/000683_878399.jpg",
+      "name": "KOMAROVSKIJ IGOR",
+      "sort_name": "KOMAROVSKIJ IGOR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/koltunov.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_878399.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/232c7fd1-4d1e-4fc6-ae60-a3b681ab5636",
+          "person_id": "person/c444087f-e74e-440a-a099-f84017d9e91e",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "89",
-          "legislative_period_id": "term/5"
+          "area_id": "98",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b0cc1e97-408b-48aa-b27d-e6a2c8d8841a",
+      "image": "http://house.gov.by/images/storage/person/000683_629966.jpg",
+      "name": "KONONCHUK IGOR",
+      "sort_name": "KONONCHUK IGOR",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_629966.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b0cc1e97-408b-48aa-b27d-e6a2c8d8841a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "80",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -897,7 +977,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "81",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -905,25 +985,23 @@
       ]
     },
     {
-      "email": "konoplich@house.gov.by",
-      "gender": "male",
-      "id": "person/1d283ac6-cede-4ee9-a3ca-e619377ada56",
-      "image": "http://house.gov.by/files/images/konoplich.jpg",
-      "name": "KONOPLICH SERGEY",
-      "sort_name": "KONOPLICH SERGEY",
+      "id": "person/35496a62-7107-49c6-b8f4-49f94d8d9b11",
+      "image": "http://house.gov.by/images/storage/person/000683_951927.jpg",
+      "name": "KORZH IVAN",
+      "sort_name": "KORZH IVAN",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/konoplich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_951927.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1d283ac6-cede-4ee9-a3ca-e619377ada56",
+          "person_id": "person/35496a62-7107-49c6-b8f4-49f94d8d9b11",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "43",
-          "legislative_period_id": "term/5"
+          "area_id": "31",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -931,25 +1009,47 @@
       ]
     },
     {
-      "email": "kovalevich@house.gov.by",
-      "gender": "male",
-      "id": "person/0cb8bd89-8c06-42e1-b287-9de09d454f43",
-      "image": "http://house.gov.by/files/images/kovalevich.jpg",
-      "name": "KOVALEVICH LEONID",
-      "sort_name": "KOVALEVICH LEONID",
+      "id": "person/0d3df03a-d844-4362-a916-de5c38c86526",
+      "image": "http://house.gov.by/images/storage/person/000683_125234.jpg",
+      "name": "KOVALKO ADAM",
+      "sort_name": "KOVALKO ADAM",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/kovalevich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_125234.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0cb8bd89-8c06-42e1-b287-9de09d454f43",
+          "person_id": "person/0d3df03a-d844-4362-a916-de5c38c86526",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "11",
-          "legislative_period_id": "term/5"
+          "area_id": "59",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b851cedc-b376-42ef-a807-c77b3134e84a",
+      "image": "http://house.gov.by/images/storage/person/000683_221673.jpg",
+      "name": "KRALEVICH IRINA",
+      "sort_name": "KRALEVICH IRINA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_221673.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b851cedc-b376-42ef-a807-c77b3134e84a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "39",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -974,34 +1074,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "62",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kravtsov@house.gov.by",
-      "gender": "male",
-      "id": "person/7d3e61c5-484c-48a0-bf29-cd5dade3969e",
-      "image": "http://house.gov.by/files/images/kravcov.jpg",
-      "name": "KRAVTSOV VLADIMIR",
-      "sort_name": "KRAVTSOV VLADIMIR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kravcov.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7d3e61c5-484c-48a0-bf29-cd5dade3969e",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "83",
-          "legislative_period_id": "term/5"
+          "area_id": "63",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1025,9 +1099,9 @@
           "person_id": "person/4a671bc4-097e-4e19-ad0e-9de81ac0b3a5",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "KPB",
+          "on_behalf_of_id": "unknown",
           "area_id": "102",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1035,25 +1109,23 @@
       ]
     },
     {
-      "email": "kuchinskaya@house.gov.by",
-      "gender": "female",
-      "id": "person/ee2ca4a0-abb9-428a-b1de-bcfc7e9231ed",
-      "image": "http://house.gov.by/files/images/kuchinskaja.jpg",
-      "name": "KUCHINSKAYA NATALIA",
-      "sort_name": "KUCHINSKAYA NATALIA",
+      "id": "person/ccd705c6-0564-491e-8344-db393639bb3c",
+      "image": "http://house.gov.by/images/storage/person/000683_93268.jpg",
+      "name": "KURSEVICH VALENTINA",
+      "sort_name": "KURSEVICH VALENTINA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/kuchinskaja.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_93268.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ee2ca4a0-abb9-428a-b1de-bcfc7e9231ed",
+          "person_id": "person/ccd705c6-0564-491e-8344-db393639bb3c",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "53",
-          "legislative_period_id": "term/5"
+          "area_id": "77",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1061,129 +1133,23 @@
       ]
     },
     {
-      "email": "s_kulesh@house.gov.by",
-      "gender": "male",
-      "id": "person/19e908ae-a0f4-4122-8886-c4657d4242a8",
-      "image": "http://house.gov.by/files/images/kulesh.jpg",
-      "name": "KULESH STANISLAV",
-      "sort_name": "KULESH STANISLAV",
+      "id": "person/86724073-a534-486d-bff3-bc1d95423437",
+      "image": "http://house.gov.by/images/storage/person/000683_68376.jpg",
+      "name": "KURSEVICH VALERIJ",
+      "sort_name": "KURSEVICH VALERIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/kulesh.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_68376.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/19e908ae-a0f4-4122-8886-c4657d4242a8",
+          "person_id": "person/86724073-a534-486d-bff3-bc1d95423437",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "73",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kuzmich@house.gov.by",
-      "gender": "male",
-      "id": "person/d4a0dfbb-47aa-4a6d-8c38-e6eda4603a8c",
-      "image": "http://house.gov.by/files/images/kuzjmich.jpg",
-      "name": "KUZMICH ALEKSEY",
-      "sort_name": "KUZMICH ALEKSEY",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/kuzjmich.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d4a0dfbb-47aa-4a6d-8c38-e6eda4603a8c",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "KPB",
-          "area_id": "101",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "lazovskaya@house.gov.by",
-      "gender": "female",
-      "id": "person/f713d946-94d9-4dc1-9aa3-56947e5facb5",
-      "image": "http://house.gov.by/files/images/lazovskaja.jpg",
-      "name": "LAZOVSKAYA GALINA",
-      "sort_name": "LAZOVSKAYA GALINA",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/lazovskaja.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f713d946-94d9-4dc1-9aa3-56947e5facb5",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "72",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "leonenko@house.gov.by",
-      "gender": "female",
-      "id": "person/0b406a35-1e70-4bc7-81d9-84e0fc26efd0",
-      "image": "http://house.gov.by/files/images/9594leonenko.jpg",
-      "name": "LEONENKO VALENTINA",
-      "sort_name": "LEONENKO VALENTINA",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/9594leonenko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0b406a35-1e70-4bc7-81d9-84e0fc26efd0",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "KPB",
-          "area_id": "95",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "levitskaya@house.gov.by",
-      "gender": "female",
-      "id": "person/cdbca88d-1a12-47ac-93e4-f229a611bbb9",
-      "image": "http://house.gov.by/files/images/levickaja.jpg",
-      "name": "LEVITSKAYA ANNA",
-      "sort_name": "LEVITSKAYA ANNA",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/levickaja.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cdbca88d-1a12-47ac-93e4-f229a611bbb9",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "76",
-          "legislative_period_id": "term/5"
+          "area_id": "92",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1209,7 +1175,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "33",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1217,25 +1183,23 @@
       ]
     },
     {
-      "email": "liskovich@house.gov.by",
-      "gender": "male",
-      "id": "person/da3f0fad-e946-4e6a-8590-a440566c9851",
-      "image": "http://house.gov.by/files/images/liskovich.jpg",
-      "name": "LISKOVICH VIKTOR",
-      "sort_name": "LISKOVICH VIKTOR",
+      "id": "person/a2acc71c-6638-401d-a69b-4226e4a21ebe",
+      "image": "http://house.gov.by/images/storage/person/000683_426112.jpg",
+      "name": "LITVIN SERGEJ",
+      "sort_name": "LITVIN SERGEJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/liskovich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_426112.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/da3f0fad-e946-4e6a-8590-a440566c9851",
+          "person_id": "person/a2acc71c-6638-401d-a69b-4226e4a21ebe",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "51",
-          "legislative_period_id": "term/5"
+          "area_id": "53",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1243,25 +1207,23 @@
       ]
     },
     {
-      "email": "lopatina@house.gov.by",
-      "gender": "female",
-      "id": "person/b7e9a07a-50fb-477d-bb1e-3ce12e25e23f",
-      "image": "http://house.gov.by/files/images/lopatina_1.jpg",
-      "name": "LOPATINA ANNA",
-      "sort_name": "LOPATINA ANNA",
+      "id": "person/b15eb243-ad50-4d83-a54c-fe4656f8a86a",
+      "image": "http://house.gov.by/images/storage/person/000683_153145.jpg",
+      "name": "LOBACH JURIJ",
+      "sort_name": "LOBACH JURIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/lopatina_1.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_153145.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b7e9a07a-50fb-477d-bb1e-3ce12e25e23f",
+          "person_id": "person/b15eb243-ad50-4d83-a54c-fe4656f8a86a",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "35",
-          "legislative_period_id": "term/5"
+          "area_id": "71",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1269,24 +1231,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/3fd0d2ed-0744-40cd-a675-67cf138fb261",
-      "image": "http://house.gov.by/files/images/mandrovskaja.jpg",
-      "name": "MANDROVSKAYA ZINAIDA",
-      "sort_name": "MANDROVSKAYA ZINAIDA",
+      "id": "person/418ed491-b2ef-425c-b0ec-6c0e1baa4661",
+      "image": "http://house.gov.by/images/storage/person/000683_124141.jpg",
+      "name": "LUKASHOV ANATOLIJ",
+      "sort_name": "LUKASHOV ANATOLIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mandrovskaja.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_124141.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3fd0d2ed-0744-40cd-a675-67cf138fb261",
+          "person_id": "person/418ed491-b2ef-425c-b0ec-6c0e1baa4661",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "14",
-          "legislative_period_id": "term/5"
+          "area_id": "30",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1294,24 +1255,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/88673e4c-6bf5-4d40-8c37-f1628964b25d",
-      "image": "http://house.gov.by/files/images/mezhuev.jpg",
-      "name": "MEZHUEV ALEKSANDR",
-      "sort_name": "MEZHUEV ALEKSANDR",
+      "id": "person/71eb5e59-6eed-478c-bd11-c355eab171fe",
+      "image": "http://house.gov.by/images/storage/person/000683_589117.jpg",
+      "name": "MAKARINA KIBAK LJUDMILA",
+      "sort_name": "MAKARINA KIBAK LJUDMILA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mezhuev.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_589117.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/88673e4c-6bf5-4d40-8c37-f1628964b25d",
+          "person_id": "person/71eb5e59-6eed-478c-bd11-c355eab171fe",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "52",
-          "legislative_period_id": "term/5"
+          "area_id": "99",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1319,25 +1279,23 @@
       ]
     },
     {
-      "email": "mikhalkova@house.gov.by",
-      "gender": "female",
-      "id": "person/65725c45-4bf9-46f9-a1ae-ad44c1d85849",
-      "image": "http://house.gov.by/files/images/mihaljkova.jpg",
-      "name": "MIKHALKOVA LIUDMILA",
-      "sort_name": "MIKHALKOVA LIUDMILA",
+      "id": "person/bad55707-dd81-4086-94d4-e2257b1e4387",
+      "image": "http://house.gov.by/images/storage/person/000683_308083.jpg",
+      "name": "MARKEVICH ALEKSANDR",
+      "sort_name": "MARKEVICH ALEKSANDR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mihaljkova.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_308083.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/65725c45-4bf9-46f9-a1ae-ad44c1d85849",
+          "person_id": "person/bad55707-dd81-4086-94d4-e2257b1e4387",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "39",
-          "legislative_period_id": "term/5"
+          "area_id": "54",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1345,24 +1303,95 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/c80770ee-851f-4652-a5bc-7425071689a4",
-      "image": "http://house.gov.by/files/images/mihno.jpg",
-      "name": "MIKHNO VASILIY",
-      "sort_name": "MIKHNO VASILIY",
+      "id": "person/6a1d4199-0c52-4743-bf20-23507ff34314",
+      "image": "http://house.gov.by/images/storage/person/000683_257101.jpg",
+      "name": "MARKEVICH IVAN",
+      "sort_name": "MARKEVICH IVAN",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mihno.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_257101.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c80770ee-851f-4652-a5bc-7425071689a4",
+          "person_id": "person/6a1d4199-0c52-4743-bf20-23507ff34314",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "50",
-          "legislative_period_id": "term/5"
+          "area_id": "73",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bc2429e6-c0db-47d1-98d1-f903248913f0",
+      "image": "http://house.gov.by/images/storage/person/000683_102730.jpg",
+      "name": "MAROCHKOVA TATJJANA",
+      "sort_name": "MAROCHKOVA TATJJANA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_102730.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bc2429e6-c0db-47d1-98d1-f903248913f0",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "83",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/999e8147-8383-4a76-8dd8-617be7ff0fe7",
+      "image": "http://house.gov.by/images/storage/person/000683_772617.jpg",
+      "name": "MARTYNOV IGOR",
+      "sort_name": "MARTYNOV IGOR",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_772617.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/999e8147-8383-4a76-8dd8-617be7ff0fe7",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "23",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/62b6ec0d-2e8b-4ce0-8515-55ab80f86356",
+      "image": "http://house.gov.by/images/storage/person/000683_944655.jpg",
+      "name": "MARZALJUK IGOR",
+      "sort_name": "MARZALJUK IGOR",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_944655.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/62b6ec0d-2e8b-4ce0-8515-55ab80f86356",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "84",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1388,7 +1417,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "2",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1396,24 +1425,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/ea963c3f-cf8a-4c3a-b602-9ec37e07735c",
-      "image": "http://house.gov.by/files/images/mishur.jpg",
-      "name": "MISHUR ZHANNA",
-      "sort_name": "MISHUR ZHANNA",
+      "id": "person/a2469134-502d-4b44-a72e-7e2693788fd9",
+      "image": "http://house.gov.by/images/storage/person/000683_972641.jpg",
+      "name": "MILOVANOV MIXAIL",
+      "sort_name": "MILOVANOV MIXAIL",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mishur.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_972641.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ea963c3f-cf8a-4c3a-b602-9ec37e07735c",
+          "person_id": "person/a2469134-502d-4b44-a72e-7e2693788fd9",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "79",
-          "legislative_period_id": "term/5"
+          "area_id": "104",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1421,24 +1449,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/126ae66c-9d2a-4782-9035-8023e663dd83",
-      "image": "http://house.gov.by/files/images/morhat.jpg",
-      "name": "MORKHAT MECHISLAV",
-      "sort_name": "MORKHAT MECHISLAV",
+      "id": "person/8b25d3a3-e69e-4fb8-9658-08a334282213",
+      "image": "http://house.gov.by/images/storage/person/000683_21573.jpg",
+      "name": "MIROSH VIKTOR",
+      "sort_name": "MIROSH VIKTOR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/morhat.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_21573.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/126ae66c-9d2a-4782-9035-8023e663dd83",
+          "person_id": "person/8b25d3a3-e69e-4fb8-9658-08a334282213",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "29",
-          "legislative_period_id": "term/5"
+          "area_id": "21",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1446,25 +1473,23 @@
       ]
     },
     {
-      "email": "mozheiko@house.gov.by",
-      "gender": "male",
-      "id": "person/fdf601a4-88a0-4c0a-a3c2-e6976d5c9173",
-      "image": "http://house.gov.by/files/images/mozhejko.jpg",
-      "name": "MOZHEIKO LEONID",
-      "sort_name": "MOZHEIKO LEONID",
+      "id": "person/22289af5-b41f-4b8a-84ef-b55d5c66f8da",
+      "image": "http://house.gov.by/images/storage/person/000683_907128.jpg",
+      "name": "MISEVETS VITALIJ",
+      "sort_name": "MISEVETS VITALIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mozhejko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_907128.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fdf601a4-88a0-4c0a-a3c2-e6976d5c9173",
+          "person_id": "person/22289af5-b41f-4b8a-84ef-b55d5c66f8da",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "94",
-          "legislative_period_id": "term/5"
+          "area_id": "103",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1472,25 +1497,23 @@
       ]
     },
     {
-      "email": "murashko@house.gov.by",
-      "gender": "male",
-      "id": "person/ad354fd3-56d7-4728-b3a4-9ec2da029c1e",
-      "image": "http://house.gov.by/files/images/murashko.jpg",
-      "name": "MURASHKO ILYA",
-      "sort_name": "MURASHKO ILYA",
+      "id": "person/d5c4302c-7982-4b31-a95b-854ff3fa1b8a",
+      "image": "http://house.gov.by/images/storage/person/000683_92341.jpg",
+      "name": "MISKO MAKSIM",
+      "sort_name": "MISKO MAKSIM",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/murashko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_92341.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ad354fd3-56d7-4728-b3a4-9ec2da029c1e",
+          "person_id": "person/d5c4302c-7982-4b31-a95b-854ff3fa1b8a",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "75",
-          "legislative_period_id": "term/5"
+          "area_id": "108",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1498,25 +1521,71 @@
       ]
     },
     {
-      "email": "myakinnik@house.gov.by",
-      "gender": "male",
-      "id": "person/2e438a2e-837a-4fd5-bc37-ced16244d6c4",
-      "image": "http://house.gov.by/files/images/mjakinnik.jpg",
-      "name": "MYAKINNIK ALEKSANDR",
-      "sort_name": "MYAKINNIK ALEKSANDR",
+      "id": "person/ab054fd5-7bbe-4663-8d7d-e0e36c1aea88",
+      "image": "http://house.gov.by/images/storage/person/000683_384060.jpg",
+      "name": "MIXNEVICH VALENTIN",
+      "sort_name": "MIXNEVICH VALENTIN",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/mjakinnik.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_384060.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2e438a2e-837a-4fd5-bc37-ced16244d6c4",
+          "person_id": "person/ab054fd5-7bbe-4663-8d7d-e0e36c1aea88",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "77",
-          "legislative_period_id": "term/5"
+          "area_id": "56",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2638f005-2cf8-4eef-a88f-ea01f3c6ba97",
+      "image": "http://house.gov.by/images/storage/person/000683_731643.jpg",
+      "name": "MURINA JULIJA",
+      "sort_name": "MURINA JULIJA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_731643.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2638f005-2cf8-4eef-a88f-ea01f3c6ba97",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "69",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ccd91edf-1be8-4601-8439-a51470cf9528",
+      "image": "http://house.gov.by/images/storage/person/000683_995567.jpg",
+      "name": "MYCHKO OLGA",
+      "sort_name": "MYCHKO OLGA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_995567.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ccd91edf-1be8-4601-8439-a51470cf9528",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "110",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1542,7 +1611,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "37",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1567,8 +1636,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "57",
-          "legislative_period_id": "term/5"
+          "area_id": "55",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1594,7 +1663,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "91",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1602,25 +1671,23 @@
       ]
     },
     {
-      "email": "obolensky@house.gov.by",
-      "gender": "male",
-      "id": "person/61aa5f90-80ad-4ad9-8eaf-ad9e0d72834c",
-      "image": "http://house.gov.by/files/images/obolenskij_sajt.jpg",
-      "name": "OBOLENSKY EVGENY",
-      "sort_name": "OBOLENSKY EVGENY",
+      "id": "person/a324d7a0-fa3e-4a24-a106-4c13758bda2a",
+      "image": "http://house.gov.by/images/storage/person/000683_579798.jpg",
+      "name": "NEVAR IGOR",
+      "sort_name": "NEVAR IGOR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/obolenskij_sajt.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_579798.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/61aa5f90-80ad-4ad9-8eaf-ad9e0d72834c",
+          "person_id": "person/a324d7a0-fa3e-4a24-a106-4c13758bda2a",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "68",
-          "legislative_period_id": "term/5"
+          "area_id": "13",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1628,25 +1695,23 @@
       ]
     },
     {
-      "email": "palchyk@house.gov.bу",
-      "gender": "male",
-      "id": "person/bc82157d-db71-40a2-9645-968972d1f5fd",
-      "image": "http://house.gov.by/files/images/paljchik.jpg",
-      "name": "PALCHIK GENNADY",
-      "sort_name": "PALCHIK GENNADY",
+      "id": "person/4afb0631-fa62-44d5-a626-7174bea50d2d",
+      "image": "http://house.gov.by/images/storage/person/000683_11176.jpg",
+      "name": "NIZHEVICH LJUDMILA",
+      "sort_name": "NIZHEVICH LJUDMILA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/paljchik.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_11176.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bc82157d-db71-40a2-9645-968972d1f5fd",
+          "person_id": "person/4afb0631-fa62-44d5-a626-7174bea50d2d",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "100",
-          "legislative_period_id": "term/5"
+          "area_id": "66",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1654,24 +1719,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e752dbc5-48a0-4a79-9062-a9c0452ab453",
-      "image": "http://house.gov.by/files/images/papko.jpg",
-      "name": "PAPKO VASILY",
-      "sort_name": "PAPKO VASILY",
+      "id": "person/0fc8eb68-5722-433d-95b5-0b3b40f3f486",
+      "image": "http://house.gov.by/images/storage/person/000683_694309.jpg",
+      "name": "OSTAPJUK ELENA",
+      "sort_name": "OSTAPJUK ELENA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/papko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_694309.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e752dbc5-48a0-4a79-9062-a9c0452ab453",
+          "person_id": "person/0fc8eb68-5722-433d-95b5-0b3b40f3f486",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "24",
-          "legislative_period_id": "term/5"
+          "area_id": "36",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1679,24 +1743,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/8dff891e-a57c-4025-bf48-f06933fe013d",
-      "image": "http://house.gov.by/files/images/plaksickij.jpg",
-      "name": "PLAKSITSKY NIKOLAI",
-      "sort_name": "PLAKSITSKY NIKOLAI",
+      "id": "person/2a056a28-62c3-4eff-9d83-3223603f6237",
+      "image": "http://house.gov.by/images/storage/person/000683_235218.jpg",
+      "name": "PATSEVICH SERGEJ",
+      "sort_name": "PATSEVICH SERGEJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/plaksickij.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_235218.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8dff891e-a57c-4025-bf48-f06933fe013d",
+          "person_id": "person/2a056a28-62c3-4eff-9d83-3223603f6237",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "78",
-          "legislative_period_id": "term/5"
+          "area_id": "49",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1704,25 +1767,23 @@
       ]
     },
     {
-      "email": "pochinok@house.gov.by",
-      "gender": "male",
-      "id": "person/510f2f4e-aa34-4276-b23b-ddab88beaa8b",
-      "image": "http://house.gov.by/files/images/pochinok.jpg",
-      "name": "POCHINOK MIKHAIL",
-      "sort_name": "POCHINOK MIKHAIL",
+      "id": "person/2a020b76-b537-46c9-883e-2186349074fa",
+      "image": "http://house.gov.by/images/storage/person/000683_560035.jpg",
+      "name": "PETRASHOVA OLGA",
+      "sort_name": "PETRASHOVA OLGA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/pochinok.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_560035.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/510f2f4e-aa34-4276-b23b-ddab88beaa8b",
+          "person_id": "person/2a020b76-b537-46c9-883e-2186349074fa",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "34",
-          "legislative_period_id": "term/5"
+          "area_id": "86",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1730,25 +1791,47 @@
       ]
     },
     {
-      "email": "poleichuk@house.gov.by",
-      "gender": "male",
-      "id": "person/b850afed-4244-45c2-8d32-cda5424080c3",
-      "image": "http://house.gov.by/files/images/polejchuk.jpg",
-      "name": "POLEICHUK ALEKSANDR",
-      "sort_name": "POLEICHUK ALEKSANDR",
+      "id": "person/d08085d9-4ea7-40d1-a638-e51cc8001c03",
+      "image": "http://house.gov.by/images/storage/person/000683_646475.jpg",
+      "name": "PIRSHTUK BOLESLAV",
+      "sort_name": "PIRSHTUK BOLESLAV",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/polejchuk.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_646475.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b850afed-4244-45c2-8d32-cda5424080c3",
+          "person_id": "person/d08085d9-4ea7-40d1-a638-e51cc8001c03",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "15",
-          "legislative_period_id": "term/5"
+          "area_id": "44",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/26b2170f-cbc7-434b-9968-432d00593a0a",
+      "image": "http://house.gov.by/images/storage/person/000683_174826.jpg",
+      "name": "PISANIK LEONID",
+      "sort_name": "PISANIK LEONID",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_174826.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/26b2170f-cbc7-434b-9968-432d00593a0a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "43",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1774,7 +1857,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "5",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1782,50 +1865,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/3bf1cc0b-f007-46b9-9327-e3cf084f5c49",
-      "image": "http://house.gov.by/files/images/popkov.jpg",
-      "name": "POPKOV ALEKSANDR",
-      "sort_name": "POPKOV ALEKSANDR",
+      "id": "person/8428679d-8143-496d-8f6e-4f627f2227e2",
+      "image": "http://house.gov.by/images/storage/person/000683_725626.jpg",
+      "name": "POPKO OLGA",
+      "sort_name": "POPKO OLGA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/popkov.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_725626.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3bf1cc0b-f007-46b9-9327-e3cf084f5c49",
+          "person_id": "person/8428679d-8143-496d-8f6e-4f627f2227e2",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "30",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "puzyrevsky@house.gov.by",
-      "gender": "male",
-      "id": "person/36d4d862-6978-47be-9209-7413cc14cdb9",
-      "image": "http://house.gov.by/files/images/puzyrevskij.jpg",
-      "name": "PUZYREVSKY VLADIMIR",
-      "sort_name": "PUZYREVSKY VLADIMIR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/puzyrevskij.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/36d4d862-6978-47be-9209-7413cc14cdb9",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "8",
-          "legislative_period_id": "term/5"
+          "area_id": "57",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1851,7 +1907,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "42",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1859,25 +1915,47 @@
       ]
     },
     {
-      "email": "rozganov@house.gov.by",
-      "gender": "male",
-      "id": "person/65771f23-a25b-4e61-b5d2-d6c7cdc9f14b",
-      "image": "http://house.gov.by/files/images/rozganov.jpg",
-      "name": "ROZGANOV ALEKSANDR",
-      "sort_name": "ROZGANOV ALEKSANDR",
+      "id": "person/d8386cc8-7d2b-4670-817b-5ef7527d2809",
+      "image": "http://house.gov.by/images/storage/person/000683_253314.jpg",
+      "name": "RAZHANETS VALENTINA",
+      "sort_name": "RAZHANETS VALENTINA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/rozganov.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_253314.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/65771f23-a25b-4e61-b5d2-d6c7cdc9f14b",
+          "person_id": "person/d8386cc8-7d2b-4670-817b-5ef7527d2809",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "88",
-          "legislative_period_id": "term/5"
+          "area_id": "67",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/60f1cb6a-9010-424f-ba51-f7fab93daae5",
+      "image": "http://house.gov.by/images/storage/person/000683_952757.jpg",
+      "name": "REBKOVETS IVAN",
+      "sort_name": "REBKOVETS IVAN",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_952757.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/60f1cb6a-9010-424f-ba51-f7fab93daae5",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "15",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1901,8 +1979,8 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "74",
-          "legislative_period_id": "term/5"
+          "area_id": "50",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1910,25 +1988,23 @@
       ]
     },
     {
-      "email": "samoseiko@house.gov.by",
-      "gender": "male",
-      "id": "person/a00cd1e4-5abd-46ee-bf2a-18f732072254",
-      "image": "http://house.gov.by/files/images/pl2y9785.jpg",
-      "name": "SAMOSEIKO NIKOLAI",
-      "sort_name": "SAMOSEIKO NIKOLAI",
+      "id": "person/eb424c1f-dd95-4dcc-8697-856c99a64757",
+      "image": "http://house.gov.by/images/storage/person/000683_876877.jpg",
+      "name": "RYBAK ANDREJ",
+      "sort_name": "RYBAK ANDREJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/pl2y9785.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_876877.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a00cd1e4-5abd-46ee-bf2a-18f732072254",
+          "person_id": "person/eb424c1f-dd95-4dcc-8697-856c99a64757",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "105",
-          "legislative_period_id": "term/5"
+          "area_id": "68",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1936,25 +2012,71 @@
       ]
     },
     {
-      "email": "michail.savanovich@gmail.com",
-      "gender": "male",
-      "id": "person/3e337c86-e020-4922-95f3-a5837877afdf",
-      "image": "http://house.gov.by/files/images/pl2y9604.jpg",
-      "name": "SAVANOVICH MIKHAIL",
-      "sort_name": "SAVANOVICH MIKHAIL",
+      "id": "person/c361f21e-6c81-4a25-91f0-e329a7e0dd54",
+      "image": "http://house.gov.by/images/storage/person/000683_94956.jpg",
+      "name": "RYNEJSKAJA IRINA",
+      "sort_name": "RYNEJSKAJA IRINA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/pl2y9604.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_94956.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3e337c86-e020-4922-95f3-a5837877afdf",
+          "person_id": "person/c361f21e-6c81-4a25-91f0-e329a7e0dd54",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "104",
-          "legislative_period_id": "term/5"
+          "area_id": "78",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/14ebe41d-00a2-4c62-b975-d31658107e59",
+      "image": "http://house.gov.by/images/storage/person/000683_538273.jpg",
+      "name": "SAJGANOVA TATJJANA",
+      "sort_name": "SAJGANOVA TATJJANA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_538273.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/14ebe41d-00a2-4c62-b975-d31658107e59",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "95",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/69c0875f-bf45-44b3-a855-8185569b96fe",
+      "image": "http://house.gov.by/images/storage/person/000683_424396.jpg",
+      "name": "SAVKO VALERIJ",
+      "sort_name": "SAVKO VALERIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_424396.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/69c0875f-bf45-44b3-a855-8185569b96fe",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "60",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -1979,59 +2101,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "48",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "senkevich@house.gov.by",
-      "gender": "male",
-      "id": "person/3a4d232f-49a4-42e3-91f3-d5030b1d2c1d",
-      "image": "http://house.gov.by/files/images/senjkevich.jpg",
-      "name": "SENKEVICH EDUARD",
-      "sort_name": "SENKEVICH EDUARD",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/senjkevich.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3a4d232f-49a4-42e3-91f3-d5030b1d2c1d",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "85",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "shamal@house.gov.by",
-      "gender": "female",
-      "id": "person/25b8268f-1bcf-4445-9058-02230a542529",
-      "image": "http://house.gov.by/files/images/shamalj.jpg",
-      "name": "SHAMAL ELENA",
-      "sort_name": "SHAMAL ELENA",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shamalj.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/25b8268f-1bcf-4445-9058-02230a542529",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "80",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2057,33 +2127,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "45",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "shchetko@house.gov.byhttp://192.168.2.3/palata/",
-      "gender": "male",
-      "id": "person/0d47c3de-8b66-4cd2-a164-4bf4c2e005f6",
-      "image": "http://house.gov.by/files/images/schetjko.jpg",
-      "name": "SHCHETSKO VIKTOR",
-      "sort_name": "SHCHETSKO VIKTOR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/schetjko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0d47c3de-8b66-4cd2-a164-4bf4c2e005f6",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "61",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2109,7 +2153,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "106",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2117,24 +2161,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/acb0acee-c72c-4d2a-884c-0e5935b478ad",
-      "image": "http://house.gov.by/files/images/shikshnjan.jpg",
-      "name": "SHIKSHNYAN PETR",
-      "sort_name": "SHIKSHNYAN PETR",
+      "id": "person/efff085b-f6bd-46ee-ae69-e97a99607a8b",
+      "image": "http://house.gov.by/images/storage/person/000683_226908.jpg",
+      "name": "SHILOV VITALIJ",
+      "sort_name": "SHILOV VITALIJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/shikshnjan.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_226908.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/acb0acee-c72c-4d2a-884c-0e5935b478ad",
+          "person_id": "person/efff085b-f6bd-46ee-ae69-e97a99607a8b",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "23",
-          "legislative_period_id": "term/5"
+          "area_id": "32",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2142,25 +2185,23 @@
       ]
     },
     {
-      "email": "shilova@house.gov.by",
-      "gender": "female",
-      "id": "person/de75f37d-ce09-4c7c-a4bd-8d5610192c5a",
-      "image": "http://house.gov.by/files/images/shilov.jpg",
-      "name": "SHILOVA SVETLANA",
-      "sort_name": "SHILOVA SVETLANA",
+      "id": "person/0f5a3b37-010c-4b2d-a95c-b655095f2c6e",
+      "image": "http://house.gov.by/images/storage/person/000683_1479.jpg",
+      "name": "SOKOL ALEKSEJ",
+      "sort_name": "SOKOL ALEKSEJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/shilov.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_1479.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/de75f37d-ce09-4c7c-a4bd-8d5610192c5a",
+          "person_id": "person/0f5a3b37-010c-4b2d-a95c-b655095f2c6e",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "99",
-          "legislative_period_id": "term/5"
+          "area_id": "107",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2168,51 +2209,23 @@
       ]
     },
     {
-      "email": "shitko@house.gov.by",
-      "gender": "male",
-      "id": "person/234bfbc5-c337-4a99-8cda-3fc14bb10eb8",
-      "image": "http://house.gov.by/files/images/shitjko.jpg",
-      "name": "SHITKO VLADIMIR",
-      "sort_name": "SHITKO VLADIMIR",
+      "id": "person/a33e437b-21a7-4e2b-a3b1-e80a8019b1cb",
+      "image": "http://house.gov.by/images/storage/person/000683_728920.jpg",
+      "name": "SOLOVJEV PETR",
+      "sort_name": "SOLOVJEV PETR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/shitjko.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_728920.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/234bfbc5-c337-4a99-8cda-3fc14bb10eb8",
+          "person_id": "person/a33e437b-21a7-4e2b-a3b1-e80a8019b1cb",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "21",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "shostak@house.gov.by",
-      "gender": "male",
-      "id": "person/cf73ebf4-0e68-4000-aa51-c51884192155",
-      "image": "http://house.gov.by/files/images/shostak.jpg",
-      "name": "SHOSTAK PETR",
-      "sort_name": "SHOSTAK PETR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/shostak.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cf73ebf4-0e68-4000-aa51-c51884192155",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "38",
-          "legislative_period_id": "term/5"
+          "area_id": "87",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2237,7 +2250,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "58",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2245,24 +2258,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/b254643b-f9e6-438e-a9ca-35c939a04930",
-      "image": "http://house.gov.by/files/images/stankevich.jpg",
-      "name": "STANKEVICH IGOR",
-      "sort_name": "STANKEVICH IGOR",
+      "id": "person/0bfc02e7-0b97-46e5-825e-86902687adb6",
+      "image": "http://house.gov.by/images/storage/person/000683_7038.jpg",
+      "name": "STARINSKAJA TATJJANA",
+      "sort_name": "STARINSKAJA TATJJANA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/stankevich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_7038.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b254643b-f9e6-438e-a9ca-35c939a04930",
+          "person_id": "person/0bfc02e7-0b97-46e5-825e-86902687adb6",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "87",
-          "legislative_period_id": "term/5"
+          "area_id": "17",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2270,25 +2282,23 @@
       ]
     },
     {
-      "email": "starostina@house.gov.by",
-      "gender": "female",
-      "id": "person/36dff5a2-f1be-4b11-9850-bda45e456fc9",
-      "image": "http://house.gov.by/files/images/starostina.jpg",
-      "name": "STAROSTINA LIUDMILA",
-      "sort_name": "STAROSTINA LIUDMILA",
+      "id": "person/d3e5e6e3-7ee2-4253-9e19-11ae3cb5d418",
+      "image": "http://house.gov.by/images/storage/person/000683_998542.jpg",
+      "name": "STAROVOJTOV ALEKSANDR",
+      "sort_name": "STAROVOJTOV ALEKSANDR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/starostina.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_998542.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/36dff5a2-f1be-4b11-9850-bda45e456fc9",
+          "person_id": "person/d3e5e6e3-7ee2-4253-9e19-11ae3cb5d418",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "86",
-          "legislative_period_id": "term/5"
+          "area_id": "85",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2296,25 +2306,71 @@
       ]
     },
     {
-      "email": "stetsko@house.gov.by",
-      "gender": "male",
-      "id": "person/6863bc47-74a1-4f69-a6e5-9356f7e3008a",
-      "image": "http://house.gov.by/files/images/rsrsrr.jpg",
-      "name": "STETSKO ALEKSANDR",
-      "sort_name": "STETSKO ALEKSANDR",
+      "id": "person/f77ebb35-b211-4f31-85a3-5504af579764",
+      "image": "http://house.gov.by/images/storage/person/000683_975075.jpg",
+      "name": "STAROVOJTOVA ANNA",
+      "sort_name": "STAROVOJTOVA ANNA",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/rsrsrr.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_975075.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6863bc47-74a1-4f69-a6e5-9356f7e3008a",
+          "person_id": "person/f77ebb35-b211-4f31-85a3-5504af579764",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "6",
-          "legislative_period_id": "term/5"
+          "area_id": "101",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3aeacb47-7b65-4b6e-b8be-11ba088f1894",
+      "image": "http://house.gov.by/images/storage/person/000683_464051.jpg",
+      "name": "STATIVKO ZHANNA",
+      "sort_name": "STATIVKO ZHANNA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_464051.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3aeacb47-7b65-4b6e-b8be-11ba088f1894",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "8",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5aef4138-53d3-493e-b464-db60f032b107",
+      "image": "http://house.gov.by/images/storage/person/000683_804545.jpg",
+      "name": "TKACHUK ANATOLIJ",
+      "sort_name": "TKACHUK ANATOLIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_804545.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5aef4138-53d3-493e-b464-db60f032b107",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "11",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2340,7 +2396,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "20",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2348,331 +2404,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/4f0c655f-5e5c-4c94-a2d8-642a8bece64c",
-      "image": "http://house.gov.by/files/images/cydik.jpg",
-      "name": "TSYDIK VLADISLAV",
-      "sort_name": "TSYDIK VLADISLAV",
+      "id": "person/e3812967-2dee-4ea6-80dd-c666281ab076",
+      "image": "http://house.gov.by/images/storage/person/000683_69839.jpg",
+      "name": "TSUPRIK LEONID",
+      "sort_name": "TSUPRIK LEONID",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/cydik.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_69839.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4f0c655f-5e5c-4c94-a2d8-642a8bece64c",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "71",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "udodov@house.gov.by",
-      "gender": "male",
-      "id": "person/98c175be-8fb2-491f-bc16-bae8775fd9bf",
-      "image": "http://house.gov.by/files/images/udodov.jpg",
-      "name": "UDODOV ALEKSANDR",
-      "sort_name": "UDODOV ALEKSANDR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/udodov.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/98c175be-8fb2-491f-bc16-bae8775fd9bf",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "41",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ushkevich@house.gov.by",
-      "gender": "male",
-      "id": "person/b1963f7e-79ae-4312-94f2-ac5f0c12543d",
-      "image": "http://house.gov.by/files/images/ushkevich.jpg",
-      "name": "USHKEVICH SERGEY",
-      "sort_name": "USHKEVICH SERGEY",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/ushkevich.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b1963f7e-79ae-4312-94f2-ac5f0c12543d",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "60",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b299d252-7482-448a-bfcd-8ea228e72964",
-      "image": "http://house.gov.by/files/images/valevach.jpg",
-      "name": "VALEVACH ZYGMUND",
-      "sort_name": "VALEVACH ZYGMUND",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/valevach.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b299d252-7482-448a-bfcd-8ea228e72964",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "109",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "valyushitsky@house.gov.by",
-      "gender": "male",
-      "id": "person/2ca8f99b-6d7b-4642-b596-3f012a0242c9",
-      "image": "http://house.gov.by/files/images/valjushickij.jpg",
-      "name": "VALYUSHITSKY VIKTOR",
-      "sort_name": "VALYUSHITSKY VIKTOR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/valjushickij.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2ca8f99b-6d7b-4642-b596-3f012a0242c9",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "1",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "a7novich@mail.ru",
-      "gender": "male",
-      "id": "person/4a6ccdb7-4f74-4b06-b87c-08d8fcd59d35",
-      "image": "http://house.gov.by/files/images/vashkov.jpg",
-      "name": "VASHKOV ADAM",
-      "sort_name": "VASHKOV ADAM",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/vashkov.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4a6ccdb7-4f74-4b06-b87c-08d8fcd59d35",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "44",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "vasilenko@house.gov.by",
-      "gender": "male",
-      "id": "person/df3d524d-d481-4e18-b550-4a1ad652cc9f",
-      "image": "http://house.gov.by/files/images/vasilenko.jpg",
-      "name": "VASILENKO VLADIMIR",
-      "sort_name": "VASILENKO VLADIMIR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/vasilenko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/df3d524d-d481-4e18-b550-4a1ad652cc9f",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "84",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/98736e3c-d99f-4161-a2fa-5776684cad0e",
-      "image": "http://house.gov.by/files/images/veres_1.jpg",
-      "name": "VERES VALENTINA",
-      "sort_name": "VERES VALENTINA",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/veres_1.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/98736e3c-d99f-4161-a2fa-5776684cad0e",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "13",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7c249951-6ccf-4d37-b607-098a09c83fd4",
-      "image": "http://house.gov.by/files/images/volchenkov.jpg",
-      "name": "VOLCHENKOV ALEKSANDR",
-      "sort_name": "VOLCHENKOV ALEKSANDR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/volchenkov.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7c249951-6ccf-4d37-b607-098a09c83fd4",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "110",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/33f06b42-cd26-4d0e-afb6-c489795c67fb",
-      "image": "http://house.gov.by/files/images/volkov_mihail_mih.jpg",
-      "name": "VOLKOV MIKHAIL",
-      "sort_name": "VOLKOV MIKHAIL",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/volkov_mihail_mih.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/33f06b42-cd26-4d0e-afb6-c489795c67fb",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "82",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/cf20049c-3381-442b-96c6-464a76f091b1",
-      "image": "http://house.gov.by/files/images/volkov_mihail_nik.jpg",
-      "name": "VOLKOV MIKHAIL",
-      "sort_name": "VOLKOV MIKHAIL",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/volkov_mihail_nik.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cf20049c-3381-442b-96c6-464a76f091b1",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "18",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "yaroshevich@house.gov.by",
-      "gender": "male",
-      "id": "person/48ddaeaa-abed-4453-946b-58e57162fadb",
-      "image": "http://house.gov.by/files/images/jaroshevich_1.jpg",
-      "name": "YAROSHEVICH ALEKSANDR",
-      "sort_name": "YAROSHEVICH ALEKSANDR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/jaroshevich_1.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/48ddaeaa-abed-4453-946b-58e57162fadb",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "16",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "yazubets@house.gov.by",
-      "gender": "male",
-      "id": "person/124d96c6-f1c7-4886-8f45-2ab10394e9a4",
-      "image": "http://house.gov.by/files/images/jazubec.jpg",
-      "name": "YAZUBETS NIKOLAI",
-      "sort_name": "YAZUBETS NIKOLAI",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/jazubec.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/124d96c6-f1c7-4886-8f45-2ab10394e9a4",
+          "person_id": "person/e3812967-2dee-4ea6-80dd-c666281ab076",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "7",
-          "legislative_period_id": "term/5"
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2680,25 +2428,23 @@
       ]
     },
     {
-      "email": "yurkevich@house.gov.by",
-      "gender": "male",
-      "id": "person/3fa95b00-0c20-4173-affa-e9c0e2d8f42f",
-      "image": "http://house.gov.by/files/images/jurkevich.jpg",
-      "name": "YURKEVICH ALEKSANDR",
-      "sort_name": "YURKEVICH ALEKSANDR",
+      "id": "person/1d81822e-0b09-4422-b16a-edbb9432d717",
+      "image": "http://house.gov.by/images/storage/person/000683_946018.jpg",
+      "name": "ULAXOVICH NIKOLAJ",
+      "sort_name": "ULAXOVICH NIKOLAJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/jurkevich.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_946018.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3fa95b00-0c20-4173-affa-e9c0e2d8f42f",
+          "person_id": "person/1d81822e-0b09-4422-b16a-edbb9432d717",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "9",
-          "legislative_period_id": "term/5"
+          "area_id": "76",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2706,50 +2452,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/216b3bf8-e1df-4b87-aeee-bf81b11242e7",
-      "image": "http://house.gov.by/files/images/zhilinskij.jpg",
-      "name": "ZHILINSKY MARAT",
-      "sort_name": "ZHILINSKY MARAT",
+      "id": "person/56c08d97-0589-43ab-8172-b44767a99f42",
+      "image": "http://house.gov.by/images/storage/person/000683_922578.jpg",
+      "name": "VABISCHEVICH PETR",
+      "sort_name": "VABISCHEVICH PETR",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/zhilinskij.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_922578.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/216b3bf8-e1df-4b87-aeee-bf81b11242e7",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "KPB",
-          "area_id": "108",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "zhmailik@house.gov.by",
-      "gender": "male",
-      "id": "person/e2df1f3a-9d37-4ffe-830f-b58591799d87",
-      "image": "http://house.gov.by/files/images/zhmajlik.jpg",
-      "name": "ZHMAILIK VALERY",
-      "sort_name": "ZHMAILIK VALERY",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/zhmajlik.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e2df1f3a-9d37-4ffe-830f-b58591799d87",
+          "person_id": "person/56c08d97-0589-43ab-8172-b44767a99f42",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "32",
-          "legislative_period_id": "term/5"
+          "area_id": "75",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
@@ -2757,51 +2476,215 @@
       ]
     },
     {
-      "email": "zhuravskaya@house.gov.by",
-      "gender": "female",
-      "id": "person/a91bd679-9431-4b2f-807a-cd3aabfcd451",
-      "image": "http://house.gov.by/files/images/zhuravskaja.jpg",
-      "name": "ZHURAVSKAYA VALENTINA",
-      "sort_name": "ZHURAVSKAYA VALENTINA",
+      "id": "person/4c6e1905-d17c-4e07-8d1a-44365ec39715",
+      "image": "http://house.gov.by/images/storage/person/000683_742001.jpg",
+      "name": "VASILKOV NIKOLAJ",
+      "sort_name": "VASILKOV NIKOLAJ",
       "images": [
         {
-          "url": "http://house.gov.by/files/images/zhuravskaja.jpg"
+          "url": "http://house.gov.by/images/storage/person/000683_742001.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a91bd679-9431-4b2f-807a-cd3aabfcd451",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "KPB",
-          "area_id": "103",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "zozulja.a@mail.ru",
-      "gender": "male",
-      "id": "person/06984c70-a356-4565-ad44-b9acbe2fd997",
-      "image": "http://house.gov.by/files/images/zozulja.jpg",
-      "name": "ZOZULYA ALEKSANDR",
-      "sort_name": "ZOZULYA ALEKSANDR",
-      "images": [
-        {
-          "url": "http://house.gov.by/files/images/zozulja.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/06984c70-a356-4565-ad44-b9acbe2fd997",
+          "person_id": "person/4c6e1905-d17c-4e07-8d1a-44365ec39715",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "unknown",
-          "area_id": "12",
-          "legislative_period_id": "term/5"
+          "area_id": "38",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/79dcf875-10d6-47d3-a664-6e4e2feadd66",
+      "image": "http://house.gov.by/images/storage/person/000683_143690.jpg",
+      "name": "VLASEVICH VITALIJ",
+      "sort_name": "VLASEVICH VITALIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_143690.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/79dcf875-10d6-47d3-a664-6e4e2feadd66",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "79",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/25849a81-f295-4209-a205-cebd1375736d",
+      "image": "http://house.gov.by/images/storage/person/000683_770482.jpg",
+      "name": "VORONETSKIJ VALERIJ",
+      "sort_name": "VORONETSKIJ VALERIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_770482.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/25849a81-f295-4209-a205-cebd1375736d",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "94",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/687fdd46-c8af-48dd-a667-1fea3c877afa",
+      "image": "http://house.gov.by/images/storage/person/000683_734475.jpg",
+      "name": "XISCHENKO PETR",
+      "sort_name": "XISCHENKO PETR",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_734475.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/687fdd46-c8af-48dd-a667-1fea3c877afa",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "88",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7a4a3bfb-f0ef-45b2-830c-9c6be57ebefa",
+      "image": "http://house.gov.by/images/storage/person/000683_429201.jpg",
+      "name": "ZABLOTSKIJ DMITRIJ",
+      "sort_name": "ZABLOTSKIJ DMITRIJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_429201.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7a4a3bfb-f0ef-45b2-830c-9c6be57ebefa",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "64",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8df12b95-da57-4c64-af7e-4101280f27af",
+      "image": "http://house.gov.by/images/storage/person/000683_978997.jpg",
+      "name": "ZANKO SERGEJ",
+      "sort_name": "ZANKO SERGEJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_978997.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8df12b95-da57-4c64-af7e-4101280f27af",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "18",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/554aa5f0-fbfd-4307-ab86-bed651d0552f",
+      "image": "http://house.gov.by/images/storage/person/000683_33761.jpg",
+      "name": "ZEMCHENOK SERGEJ",
+      "sort_name": "ZEMCHENOK SERGEJ",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_33761.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/554aa5f0-fbfd-4307-ab86-bed651d0552f",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "29",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bfa615b0-590b-4c2c-b280-cf10c5a45a9b",
+      "image": "http://house.gov.by/images/storage/person/000683_84978.jpg",
+      "name": "ZHDANOVICH PAVEL",
+      "sort_name": "ZHDANOVICH PAVEL",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_84978.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bfa615b0-590b-4c2c-b280-cf10c5a45a9b",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "34",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5350a2c7-e6f5-4c15-8916-f6b86966c78c",
+      "image": "http://house.gov.by/images/storage/person/000683_926476.jpg",
+      "name": "ZHIBUL NATALJJA",
+      "sort_name": "ZHIBUL NATALJJA",
+      "images": [
+        {
+          "url": "http://house.gov.by/images/storage/person/000683_926476.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5350a2c7-e6f5-4c15-8916-f6b86966c78c",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "74",
+          "legislative_period_id": "term/6"
         }
       ],
       "contact_details": [
