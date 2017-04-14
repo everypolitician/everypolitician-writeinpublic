@@ -1,7 +1,7 @@
 {
-  "total": 31,
+  "total": 32,
   "page": 1,
-  "per_page": 31,
+  "per_page": 32,
   "has_more": false,
   "result": [
     {
@@ -516,6 +516,29 @@
           "role": "member",
           "on_behalf_of_id": "united_democratic_party",
           "area_id": "area/mesopotamia",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
+      "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "name": "Mrs. Laura Tucker-Longsworth",
+      "sort_name": "Mrs. Laura Tucker-Longsworth",
+      "images": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
           "legislative_period_id": "term/2015"
         }
       ],
