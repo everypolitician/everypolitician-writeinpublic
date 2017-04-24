@@ -1,7 +1,7 @@
 {
-  "total": 355,
+  "total": 356,
   "page": 1,
-  "per_page": 355,
+  "per_page": 356,
   "has_more": false,
   "result": [
     {
@@ -2966,6 +2966,24 @@
           "role": "member",
           "on_behalf_of_id": "bangladesh_awami_league",
           "area_id": "area/mymensingh",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e02e8699-1c84-448d-9894-705ab218e8eb",
+      "name": "Joya Sengupta",
+      "sort_name": "Joya Sengupta",
+      "memberships": [
+        {
+          "person_id": "person/e02e8699-1c84-448d-9894-705ab218e8eb",
+          "organization_id": "chamber/jatiyo_sangshad",
+          "role": "member",
+          "on_behalf_of_id": "bangladesh_awami_league",
+          "area_id": "area/sunamganj",
           "legislative_period_id": "term/10"
         }
       ],
@@ -6577,7 +6595,7 @@
           "person_id": "person/19188403-5ea9-423c-92f9-ba444085d842",
           "organization_id": "chamber/jatiyo_sangshad",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "bangladesh_awami_league",
           "area_id": "area/seat",
           "legislative_period_id": "term/10"
         }
@@ -6952,7 +6970,7 @@
           "person_id": "person/7012e102-0a6c-43ed-8050-500bdcc2e7fd",
           "organization_id": "chamber/jatiyo_sangshad",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "bangladesh_awami_league",
           "area_id": "area/seat",
           "legislative_period_id": "term/10"
         }
