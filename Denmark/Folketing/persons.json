@@ -1,7 +1,7 @@
 {
-  "total": 204,
+  "total": 205,
   "page": 1,
-  "per_page": 204,
+  "per_page": 205,
   "has_more": false,
   "result": [
     {
@@ -2745,6 +2745,25 @@
           "organization_id": "chamber/folketing",
           "role": "member",
           "on_behalf_of_id": "63F84EAA-8483-4115-A775-009467AF1593",
+          "area_id": "area/north_zealand",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "kristian.hegaard@ft.dk",
+      "id": "person/98daf18e-1f7a-4f88-baad-3c90f1a1c5dd",
+      "name": "Kristian Hegaard",
+      "sort_name": "Kristian Hegaard",
+      "memberships": [
+        {
+          "person_id": "person/98daf18e-1f7a-4f88-baad-3c90f1a1c5dd",
+          "organization_id": "chamber/folketing",
+          "role": "member",
+          "on_behalf_of_id": "FD18DB48-CB3E-40EA-98B5-1CE0AFA56E69",
           "area_id": "area/north_zealand",
           "legislative_period_id": "term/2015"
         }
