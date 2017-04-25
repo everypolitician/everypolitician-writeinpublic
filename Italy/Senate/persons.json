@@ -1,7 +1,7 @@
 {
-  "total": 322,
+  "total": 323,
   "page": 1,
-  "per_page": 322,
+  "per_page": 323,
   "has_more": false,
   "result": [
     {
@@ -299,7 +299,7 @@
           "person_id": "person/3a6ab211-29a1-46f8-ab85-b36fe65a7710",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "gruppo_misto",
+          "on_behalf_of_id": "grandi_autonomie_e_libertà",
           "area_id": "area/lazio",
           "legislative_period_id": "term/17"
         }
@@ -1792,6 +1792,31 @@
           "area_id": "area/puglia",
           "legislative_period_id": "term/17"
         }
+      ]
+    },
+    {
+      "email": "info@robertocassinelli.it",
+      "id": "person/f65fa958-9a8e-40fb-b2eb-59bb4a6640a0",
+      "image": "http://politici.openpolis.it/politician/picture?content_id=332699",
+      "name": "CASSINELLI Roberto",
+      "sort_name": "CASSINELLI Roberto",
+      "images": [
+        {
+          "url": "http://politici.openpolis.it/politician/picture?content_id=332699"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f65fa958-9a8e-40fb-b2eb-59bb4a6640a0",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "forza_italia_-_il_popolo_della_libertà_-_berlusconi_presidente",
+          "area_id": "area/liguria",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
