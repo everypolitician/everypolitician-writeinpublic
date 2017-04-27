@@ -1,7 +1,7 @@
 {
-  "total": 364,
+  "total": 366,
   "page": 1,
-  "per_page": 364,
+  "per_page": 366,
   "has_more": false,
   "result": [
     {
@@ -2020,30 +2020,6 @@
       ]
     },
     {
-      "id": "person/7d679377-c418-4ed0-89c3-f2992a32aa35",
-      "image": "http://www.nass.gov.ng/images/mps/896.jpg",
-      "name": "BROWN ONYERE",
-      "sort_name": "BROWN ONYERE",
-      "images": [
-        {
-          "url": "http://www.nass.gov.ng/images/mps/896.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7d679377-c418-4ed0-89c3-f2992a32aa35",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/degema/bonny,_rivers_state",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "id": "person/3acdf153-8e52-4c6a-854c-7a24869dd1b6",
       "image": "http://www.nass.gov.ng/images/mps/786.jpg",
       "name": "BULUS SOLOMON",
@@ -2166,6 +2142,30 @@
       ]
     },
     {
+      "id": "person/882b0aa5-5113-4bdb-81e2-1c47b0c781a4",
+      "image": "http://www.nass.gov.ng/images/mps/302.jpg",
+      "name": "CHINDA OGUNDU",
+      "sort_name": "CHINDA OGUNDU",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/302.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/882b0aa5-5113-4bdb-81e2-1c47b0c781a4",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/obio/akpor,_rivers_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/b17b20ef-a8a0-481b-abba-8a9ceedaed1e",
       "image": "http://www.nass.gov.ng/images/mps/571.jpg",
       "name": "CHUKWUEMEKA ANOHU",
@@ -2182,6 +2182,31 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/ihiala,_anambra_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/d9936274-8b09-43dd-8289-2bdc96c0dfe0",
+      "image": "http://www.nass.gov.ng/images/mps/671.jpg",
+      "name": "CHUKWUEMEKA UJAM",
+      "sort_name": "CHUKWUEMEKA UJAM",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/671.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d9936274-8b09-43dd-8289-2bdc96c0dfe0",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/nkanu_east/nkanu_west,_enugu_state",
           "legislative_period_id": "term/8"
         }
       ],
@@ -4464,6 +4489,24 @@
       ]
     },
     {
+      "id": "person/0e6c09f3-3b92-4bf4-9163-3175f142bbd8",
+      "name": "Johnson Oghuma",
+      "sort_name": "Johnson Oghuma",
+      "memberships": [
+        {
+          "person_id": "person/0e6c09f3-3b92-4bf4-9163-3175f142bbd8",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/etsako_east/west/central,_edo_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/3e672fe3-54fd-4fe6-89d5-0bc6a34b0afc",
       "image": "http://www.nass.gov.ng/images/mps/676.jpg",
       "name": "KABIR SHAIBU",
@@ -6634,6 +6677,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ed9e7d80-fafb-4d0a-93f9-a73adfd765db",
       "image": "http://www.nass.gov.ng/images/mps/577.jpg",
       "name": "PHILIP SHAIBU",
@@ -6818,6 +6862,30 @@
           "role": "member",
           "on_behalf_of_id": "APC",
           "area_id": "area/mallam_madori/kaugama,_jigawa_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7d679377-c418-4ed0-89c3-f2992a32aa35",
+      "image": "http://www.nass.gov.ng/images/mps/896.jpg",
+      "name": "Randolph Brown",
+      "sort_name": "Randolph Brown",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/896.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7d679377-c418-4ed0-89c3-f2992a32aa35",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/degema/bonny,_rivers_state",
           "legislative_period_id": "term/8"
         }
       ],
@@ -7873,31 +7941,6 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/ahoada_west/ogba_egbema,_rivers_state",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d9936274-8b09-43dd-8289-2bdc96c0dfe0",
-      "image": "http://www.nass.gov.ng/images/mps/671.jpg",
-      "name": "UJAM CHUKWUEMEKA",
-      "sort_name": "UJAM CHUKWUEMEKA",
-      "images": [
-        {
-          "url": "http://www.nass.gov.ng/images/mps/671.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d9936274-8b09-43dd-8289-2bdc96c0dfe0",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/nkanu_east/nkanu_west,_enugu_state",
           "legislative_period_id": "term/8"
         }
       ],
