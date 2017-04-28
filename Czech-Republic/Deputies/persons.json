@@ -89,6 +89,7 @@
     {
       "gender": "male",
       "id": "person/ba6f3f61-c1ec-457f-92ae-79575ead9377",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Andrej_Babiš_2015_Praha.JPG",
       "name": "Andrej Babiš",
       "sort_name": "Babiš, Andrej",
       "contact_details": [
@@ -101,6 +102,11 @@
         {
           "url": "AndrejBabis",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Andrej_Babiš_2015_Praha.JPG"
         }
       ],
       "memberships": [
@@ -617,8 +623,14 @@
     {
       "gender": "male",
       "id": "person/447b9610-ec0d-4bb4-b23c-72bba9b73e4c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ivan_Adamec.jpg",
       "name": "Ivan Adamec",
       "sort_name": "Adamec, Ivan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ivan_Adamec.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/447b9610-ec0d-4bb4-b23c-72bba9b73e4c",

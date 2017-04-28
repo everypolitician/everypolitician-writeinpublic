@@ -5,23 +5,17 @@
   "has_more": false,
   "result": [
     {
-      "email": "albert.fenech@gov.mt",
       "gender": "male",
       "id": "person/cae1b496-0001-4b94-adec-884cec06394b",
-      "image": "http://www.parlament.mt/file.aspx?f=33193",
       "name": "Albert Fenech",
       "sort_name": "Albert Fenech",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33193"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/cae1b496-0001-4b94-adec-884cec06394b",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "partit_nazzjonlista",
+          "on_behalf_of_id": "partit_nazzjonalista",
+          "end_date": "2015-04-05",
           "legislative_period_id": "term/12"
         }
       ],
@@ -631,8 +625,8 @@
       "gender": "male",
       "id": "person/f4d1c7e4-e0c7-41e7-83ee-5bb8c9fb2549",
       "image": "http://www.parlament.mt/file.aspx?f=55184",
-      "name": "Edward Zammit-Lewis",
-      "sort_name": "Edward Zammit-Lewis",
+      "name": "Edward Zammit Lewis",
+      "sort_name": "Edward Zammit Lewis",
       "images": [
         {
           "url": "http://www.parlament.mt/file.aspx?f=55184"
@@ -1000,23 +994,17 @@
       ]
     },
     {
-      "email": "joseph.r.cassar@parlament.mt",
       "gender": "male",
       "id": "person/9530ab81-5cfb-4278-ba84-66fdf42ae788",
-      "image": "http://www.parlament.mt/file.aspx?f=32365",
       "name": "Joe Cassar",
       "sort_name": "Joe Cassar",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32365"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/9530ab81-5cfb-4278-ba84-66fdf42ae788",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "partit_nazzjonlista",
+          "on_behalf_of_id": "partit_nazzjonalista",
+          "end_date": "2015-11-03",
           "legislative_period_id": "term/12"
         }
       ],
@@ -1274,23 +1262,17 @@
       ]
     },
     {
-      "email": "leo.brincat@parlament.mt",
       "gender": "male",
       "id": "person/d7eda5ac-6fb7-4431-af49-cf0f019b1edf",
-      "image": "http://www.parlament.mt/file.aspx?f=31727",
       "name": "Leo Brincat",
       "sort_name": "Leo Brincat",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31727"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/d7eda5ac-6fb7-4431-af49-cf0f019b1edf",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "partit_laburista",
+          "end_date": "2016-04-29",
           "legislative_period_id": "term/12"
         }
       ],
