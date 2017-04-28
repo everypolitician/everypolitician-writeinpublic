@@ -1,9 +1,28 @@
 {
-  "total": 148,
+  "total": 150,
   "page": 1,
-  "per_page": 148,
+  "per_page": 150,
   "has_more": false,
   "result": [
+    {
+      "email": "amarshania@parliament.ge",
+      "id": "person/45a4cf39-30a0-4c67-9418-c71a5badbe2c",
+      "name": "Ada Marshania",
+      "sort_name": "Ada Marshania",
+      "memberships": [
+        {
+          "person_id": "person/45a4cf39-30a0-4c67-9418-c71a5badbe2c",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "patriots_of_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "email": "ABobokhidze@parliament.ge",
       "gender": "male",
@@ -27,9 +46,9 @@
           "person_id": "person/bb7d8d43-14ef-4fe4-ab34-88ec562a8836",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_majoritarians",
-          "area_id": "area/tskaltubo",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -37,24 +56,37 @@
       ]
     },
     {
-      "email": "AMinashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/bde67527-800a-4940-a7af-96c4f9a756cf",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%9C%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%90%E1%83%99%E1%83%90%E1%83%99%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Akaki Minashvili",
-      "sort_name": "Akaki Minashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%9C%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%90%E1%83%99%E1%83%90%E1%83%99%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "azoidze@parliament.ge",
+      "id": "person/e704ccc3-35be-4ff6-8c0c-8e463e4804c2",
+      "name": "Akaki Zoidze",
+      "sort_name": "Akaki Zoidze",
       "memberships": [
         {
-          "person_id": "person/bde67527-800a-4940-a7af-96c4f9a756cf",
+          "person_id": "person/e704ccc3-35be-4ff6-8c0c-8e463e4804c2",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "aerqvania@parliament.ge",
+      "id": "person/676fd3df-3f0e-40cb-8ffa-29e59e924e1e",
+      "name": "Aleksandre Erkvania",
+      "sort_name": "Aleksandre Erkvania",
+      "memberships": [
+        {
+          "person_id": "person/676fd3df-3f0e-40cb-8ffa-29e59e924e1e",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -79,8 +111,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/isani",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -88,74 +120,19 @@
       ]
     },
     {
-      "email": "ATamazashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/ccaed334-dfb3-4ed8-9a14-9cae06352f89",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%90%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A1%E1%83%90%E1%83%9C%E1%83%93%E1%83%A0%E1%83%94_jpg_200x168_q85.jpg",
-      "name": "Aleqsandre Tamazashvili",
-      "sort_name": "Aleqsandre Tamazashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%90%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A1%E1%83%90%E1%83%9C%E1%83%93%E1%83%A0%E1%83%94_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "aokhanashvili@parliament.ge",
+      "id": "person/952ed36c-a0fd-4b55-a7b4-b0523d1221b9",
+      "name": "Anri Okhanashvili",
+      "sort_name": "Anri Okhanashvili",
       "memberships": [
         {
-          "person_id": "person/ccaed334-dfb3-4ed8-9a14-9cae06352f89",
+          "person_id": "person/952ed36c-a0fd-4b55-a7b4-b0523d1221b9",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "AMamedovi@parliament.ge",
-      "gender": "male",
-      "id": "person/273a33f0-1b61-4ed7-8386-655a1a84a72f",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%9B%E1%83%94%E1%83%93%E1%83%9D%E1%83%95%E1%83%98_%E1%83%90%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Ali Mamedovi",
-      "sort_name": "Ali Mamedovi",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%9B%E1%83%94%E1%83%93%E1%83%9D%E1%83%95%E1%83%98_%E1%83%90%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/273a33f0-1b61-4ed7-8386-655a1a84a72f",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "AMirotadze@parliament.ge",
-      "gender": "female",
-      "id": "person/0ed92fcf-42e4-45b9-9fa2-eea91c2629f7",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%A0%E1%83%9D%E1%83%A2%E1%83%90%E1%83%AB%E1%83%94_%E1%83%90%E1%83%9C%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Ani Mirotadze",
-      "sort_name": "Ani Mirotadze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%A0%E1%83%9D%E1%83%A2%E1%83%90%E1%83%AB%E1%83%94_%E1%83%90%E1%83%9C%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0ed92fcf-42e4-45b9-9fa2-eea91c2629f7",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_national_forum",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/party_list",
+          "start_date": "2017-02-10",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -179,9 +156,47 @@
           "person_id": "person/fbc2023d-3122-44b7-aa0e-534e55bbb0f5",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
-          "area_id": "area/khulo",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "73",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "akhabadze@parliament.ge",
+      "id": "person/a5e209b5-045c-4825-9f8b-dc0fad6101f9",
+      "name": "Archil Khabadze",
+      "sort_name": "Archil Khabadze",
+      "memberships": [
+        {
+          "person_id": "person/a5e209b5-045c-4825-9f8b-dc0fad6101f9",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "atalakvadze@parliament.ge",
+      "id": "person/132143fd-91f3-40e3-a947-9ff48049329f",
+      "name": "Archil Talakvadze",
+      "sort_name": "Archil Talakvadze",
+      "memberships": [
+        {
+          "person_id": "person/132143fd-91f3-40e3-a947-9ff48049329f",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "59",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -206,8 +221,7 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_united_national_movement",
-          "area_id": "area/marneuli",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -215,23 +229,18 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/c431f065-c65a-458b-95b7-d80163e3ddc0",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/Bidzina_Gujabidze_jpg_200x168_q85.jpg",
-      "name": "Bidzina Gujabidze",
-      "sort_name": "Bidzina Gujabidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/Bidzina_Gujabidze_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "bnatsvlishvili@parliament.ge",
+      "id": "person/0f437c3b-db09-43d2-a5eb-42cf6e9d3a9f",
+      "name": "Beka Natsvlishvili",
+      "sort_name": "Beka Natsvlishvili",
       "memberships": [
         {
-          "person_id": "person/c431f065-c65a-458b-95b7-d80163e3ddc0",
+          "person_id": "person/0f437c3b-db09-43d2-a5eb-42cf6e9d3a9f",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_conservatives",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_-_social-democrats\"",
+          "area_id": "10",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -239,54 +248,18 @@
       ]
     },
     {
-      "email": "ChTaktakishvili@parliament.ge",
-      "gender": "female",
-      "id": "person/804613d0-57d9-4ecb-8da0-5c5a52bf55d0",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%90%E1%83%A5%E1%83%97%E1%83%90%E1%83%A5%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%A9%E1%83%98%E1%83%9D%E1%83%A0%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Chiora Taqtaqishvili",
-      "sort_name": "Chiora Taqtaqishvili",
-      "links": [
-        {
-          "url": "%E1%83%A9%E1%83%98%E1%83%9D%E1%83%A0%E1%83%90-%E1%83%97%E1%83%90%E1%83%A5%E1%83%97%E1%83%90%E1%83%A5%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98-483157808398341",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%90%E1%83%A5%E1%83%97%E1%83%90%E1%83%A5%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%A9%E1%83%98%E1%83%9D%E1%83%A0%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "bodisharia@parliament.ge",
+      "id": "person/335e698f-5c81-41cc-9a3f-2642f0129fe5",
+      "name": "Beka Odisharia",
+      "sort_name": "Beka Odisharia",
       "memberships": [
         {
-          "person_id": "person/804613d0-57d9-4ecb-8da0-5c5a52bf55d0",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/95b87c65-7f57-465f-94db-11952e19e513",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/chkhetiani_darejan_jpg_200x168_q85.jpg",
-      "name": "Darejani Chkhetiani",
-      "sort_name": "Darejani Chkhetiani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/chkhetiani_darejan_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/95b87c65-7f57-465f-94db-11952e19e513",
+          "person_id": "person/335e698f-5c81-41cc-9a3f-2642f0129fe5",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "7",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -294,24 +267,73 @@
       ]
     },
     {
-      "email": "DLortkipanidze@parliament.ge",
-      "gender": "male",
-      "id": "person/78b1c9f2-af06-46f7-bd33-35b200c9b611",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A5%E1%83%98%E1%83%A4%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%97%E1%83%9D_jpg_200x168_q85.jpg",
-      "name": "Dato Lortqipanidze",
-      "sort_name": "Dato Lortqipanidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A5%E1%83%98%E1%83%A4%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%97%E1%83%9D_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "bgegidze@parliament.ge",
+      "id": "person/f531f4ff-2acc-4dbe-94b4-0d6b2fe7a6f6",
+      "name": "Bidzina Gegidze",
+      "sort_name": "Bidzina Gegidze",
       "memberships": [
         {
-          "person_id": "person/78b1c9f2-af06-46f7-bd33-35b200c9b611",
+          "person_id": "person/f531f4ff-2acc-4dbe-94b4-0d6b2fe7a6f6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "2",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dchichinadze@parliament.ge",
+      "id": "person/71599d17-e484-46c1-973d-77801525af07",
+      "name": "David Chichinadze",
+      "sort_name": "David Chichinadze",
+      "memberships": [
+        {
+          "person_id": "person/71599d17-e484-46c1-973d-77801525af07",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "9",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f793db79-eadc-4fa7-9a68-a1721c653bc2",
+      "name": "David Matikashvili",
+      "sort_name": "David Matikashvili",
+      "memberships": [
+        {
+          "person_id": "person/f793db79-eadc-4fa7-9a68-a1721c653bc2",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dsonghulashvili@parliament.ge",
+      "id": "person/01e96914-21a1-4781-bda8-d45241a7bac1",
+      "name": "David Songhulashvili",
+      "sort_name": "David Songhulashvili",
+      "memberships": [
+        {
+          "person_id": "person/01e96914-21a1-4781-bda8-d45241a7bac1",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "24",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -341,243 +363,8 @@
           "person_id": "person/94c068ba-3df7-42a3-81f7-fd98a7b8d972",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DBerdzenishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/b1ab176c-c03b-415c-99c7-d71873edd2eb",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%94%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Berdzenishvili",
-      "sort_name": "Davit Berdzenishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%94%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b1ab176c-c03b-415c-99c7-d71873edd2eb",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DBezhuashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/6716febb-d409-43de-a1bb-5e44bc37bd96",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%9F%E1%83%A3%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Bezhuashvili",
-      "sort_name": "Davit Bezhuashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%9F%E1%83%A3%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6716febb-d409-43de-a1bb-5e44bc37bd96",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "area_id": "area/tetritskaro",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DChachanidze@parliament.ge",
-      "gender": "male",
-      "id": "person/e2b61269-b824-43cd-86ae-20e8f116e192",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AD%E1%83%90%E1%83%95%E1%83%AD%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Chavchanidze",
-      "sort_name": "Davit Chavchanidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AD%E1%83%90%E1%83%95%E1%83%AD%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e2b61269-b824-43cd-86ae-20e8f116e192",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_majoritarians",
-          "area_id": "area/khoni",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DDarchiashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/9f39b56c-1e1e-4e91-b945-e045bf0f13e4",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%90%E1%83%A0%E1%83%A9%E1%83%98%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Darchiashvili",
-      "sort_name": "Davit Darchiashvili",
-      "links": [
-        {
-          "url": "David-Darchiashvili-63590558635",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%90%E1%83%A0%E1%83%A9%E1%83%98%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9f39b56c-1e1e-4e91-b945-e045bf0f13e4",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DDartsmelidze@parliament.ge",
-      "gender": "male",
-      "id": "person/fbb89035-7ebd-4e07-bb27-cdeb801d51ec",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%90%E1%83%A0%E1%83%AA%E1%83%9B%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Dartsmelidze",
-      "sort_name": "Davit Dartsmelidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%90%E1%83%A0%E1%83%AA%E1%83%9B%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fbb89035-7ebd-4e07-bb27-cdeb801d51ec",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_regions",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DOnoprishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/32b4e060-e55a-4ceb-b81b-e746f17b64ad",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%A4%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Onoprishvili",
-      "sort_name": "Davit Onoprishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%A4%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/32b4e060-e55a-4ceb-b81b-e746f17b64ad",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "area_id": "area/kaspi",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DSaganelidze@parliament.ge",
-      "gender": "male",
-      "id": "person/f35fb8fc-0f00-4f23-8a64-433f04ea9394",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%92%E1%83%90%E1%83%9C%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Saganelidze",
-      "sort_name": "Davit Saganelidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%92%E1%83%90%E1%83%9C%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f35fb8fc-0f00-4f23-8a64-433f04ea9394",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DUsupashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/097fb1a2-43fe-40f3-8ed9-3360cf0d7ea4",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A3%E1%83%A1%E1%83%A3%E1%83%A4%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg",
-      "name": "Davit Usupashvili",
-      "sort_name": "Davit Usupashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A3%E1%83%A1%E1%83%A3%E1%83%A4%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/097fb1a2-43fe-40f3-8ed9-3360cf0d7ea4",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "area_id": "area/saburtalo",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "DBasheleishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/e6c8b544-5697-4d4e-a7b1-07fb5df79785",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%90%E1%83%A8%E1%83%94%E1%83%9A%E1%83%94%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%94%E1%83%9B%E1%83%A3%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Demur Basheleishvili",
-      "sort_name": "Demur Basheleishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%90%E1%83%A8%E1%83%94%E1%83%9A%E1%83%94%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%93%E1%83%94%E1%83%9B%E1%83%A3%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e6c8b544-5697-4d4e-a7b1-07fb5df79785",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -602,8 +389,83 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/mtskheta",
-          "legislative_period_id": "term/8"
+          "area_id": "37",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dmkheidze@parliament.ge",
+      "id": "person/7f9f2823-52fa-47a5-964f-56a9c1bac389",
+      "name": "Dimitri Mkheidze",
+      "sort_name": "Dimitri Mkheidze",
+      "memberships": [
+        {
+          "person_id": "person/7f9f2823-52fa-47a5-964f-56a9c1bac389",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "georgian_dream_-_greens",
+          "area_id": "48",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dsamkharadze@parliament.ge",
+      "id": "person/9feab043-7fc7-4170-a25c-253092b95da9",
+      "name": "Dimitri Samkharadze",
+      "sort_name": "Dimitri Samkharadze",
+      "memberships": [
+        {
+          "person_id": "person/9feab043-7fc7-4170-a25c-253092b95da9",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dimitrits@parliament.ge",
+      "id": "person/0e869e6e-befe-45b8-a7fa-0c9ed11bdeaf",
+      "name": "Dimitri Tskitishvili",
+      "sort_name": "Dimitri Tskitishvili",
+      "memberships": [
+        {
+          "person_id": "person/0e869e6e-befe-45b8-a7fa-0c9ed11bdeaf",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "etoloraia@parliament.ge",
+      "id": "person/adde2a78-96a4-4fc4-9a5d-ef98d2ec4055",
+      "name": "Edisher Toloraia",
+      "sort_name": "Edisher Toloraia",
+      "memberships": [
+        {
+          "person_id": "person/adde2a78-96a4-4fc4-9a5d-ef98d2ec4055",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "66",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -634,7 +496,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -642,23 +505,17 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/661cf410-3665-4262-b0a2-5e9bafe250d2",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/4461_2_jpg_200x168_q85.jpg",
-      "name": "Ekaterine Kherkheulidze",
-      "sort_name": "Ekaterine Kherkheulidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/4461_2_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "ekhoshtaria@parliament.ge",
+      "id": "person/4a1169e8-7b31-4112-a963-a4b47a259837",
+      "name": "Elene Khoshtaria",
+      "sort_name": "Elene Khoshtaria",
       "memberships": [
         {
-          "person_id": "person/661cf410-3665-4262-b0a2-5e9bafe250d2",
+          "person_id": "person/4a1169e8-7b31-4112-a963-a4b47a259837",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "european_georgia",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -666,49 +523,56 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e338f207-213b-4e97-ae72-d049bf8ebcdd",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/4428_jpg_200x168_q85.jpg",
-      "name": "Eldar Kurtanidze",
-      "sort_name": "Eldar Kurtanidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/4428_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "egotsiridze@parliament.ge",
+      "id": "person/78ccd2d8-b78c-401e-b1c5-134d7f9468ae",
+      "name": "Elguja Gotsiridze",
+      "sort_name": "Elguja Gotsiridze",
       "memberships": [
         {
-          "person_id": "person/e338f207-213b-4e97-ae72-d049bf8ebcdd",
+          "person_id": "person/78ccd2d8-b78c-401e-b1c5-134d7f9468ae",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
+          "area_id": "50",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ekvitsiani@parliament.ge",
+      "id": "person/048e4de4-b3ab-4059-8353-07a3188906f0",
+      "name": "Emzar Kvitsiani",
+      "sort_name": "Emzar Kvitsiani",
+      "memberships": [
+        {
+          "person_id": "person/048e4de4-b3ab-4059-8353-07a3188906f0",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "patriots_of_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ematchavariani@parliament.ge",
+      "id": "person/60bce0bb-f018-4f5d-86b0-755264f0a045",
+      "name": "Endzela Machavariani",
+      "sort_name": "Endzela Machavariani",
+      "memberships": [
+        {
+          "person_id": "person/60bce0bb-f018-4f5d-86b0-755264f0a045",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "EChaphidze@parliament.ge",
-      "gender": "female",
-      "id": "person/5845a33d-0474-41d3-bbf5-99c3f5e90886",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%90%E1%83%A4%E1%83%98%E1%83%AB%E1%83%94_%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1%E1%83%9D_jpg_200x168_q85.jpg",
-      "name": "Eliso Chapidze",
-      "sort_name": "Eliso Chapidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%90%E1%83%A4%E1%83%98%E1%83%AB%E1%83%94_%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1%E1%83%9D_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5845a33d-0474-41d3-bbf5-99c3f5e90886",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/tkibuli",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -732,9 +596,9 @@
           "person_id": "person/a6a6b327-009a-4a89-bc79-da80785e070c",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_non-party,_independent_majoritarians",
-          "area_id": "area/ninotsminda",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_for_development_of_regions\"",
+          "area_id": "46",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -759,8 +623,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/dusheti",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -785,8 +649,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/borjomi",
-          "legislative_period_id": "term/8"
+          "area_id": "45",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -794,25 +658,18 @@
       ]
     },
     {
-      "email": "GGelashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/42bd64ad-2a50-4620-ab03-81008d116a4c",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%94%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%94%E1%83%9A%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Gela Gelashvili",
-      "sort_name": "Gela Gelashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%94%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%94%E1%83%9A%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gmikadze@parliament.ge",
+      "id": "person/dd767ad7-6fcb-4d3a-a8e6-9519160dfbbb",
+      "name": "Gela Mikadze",
+      "sort_name": "Gela Mikadze",
       "memberships": [
         {
-          "person_id": "person/42bd64ad-2a50-4620-ab03-81008d116a4c",
+          "person_id": "person/dd767ad7-6fcb-4d3a-a8e6-9519160dfbbb",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/sighnagi",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "patriots_of_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -837,8 +694,45 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/telavi",
-          "legislative_period_id": "term/8"
+          "area_id": "28",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "gmargvelashvili@parliament.ge",
+      "id": "person/eb689aa6-6fda-4c89-a2f2-cd70d358b759",
+      "name": "Genadi Margvelashvili",
+      "sort_name": "Genadi Margvelashvili",
+      "memberships": [
+        {
+          "person_id": "person/eb689aa6-6fda-4c89-a2f2-cd70d358b759",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "47",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "gbenashvili@parliament.ge",
+      "id": "person/095cce01-2fc5-4fad-b591-bd7eef24d6f5",
+      "name": "Gia Benashvili",
+      "sort_name": "Gia Benashvili",
+      "memberships": [
+        {
+          "person_id": "person/095cce01-2fc5-4fad-b591-bd7eef24d6f5",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -868,8 +762,9 @@
           "person_id": "person/b146ea1b-a39c-47cb-a504-c74816f54a5a",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_-_social-democrats\"",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -894,7 +789,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream_-_conservatives",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -918,8 +814,9 @@
           "person_id": "person/cecc764a-a369-4fd0-a7ed-afd343774d40",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -927,30 +824,18 @@
       ]
     },
     {
-      "email": "GBaramidze@parliament.ge",
-      "gender": "male",
-      "id": "person/e7f64c6e-09b3-42a5-bcc4-711781e2837a",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%9B%E1%83%98%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_1_jpg_200x168_q85.jpg",
-      "name": "Giorgi Baramidze",
-      "sort_name": "Giorgi Baramidze",
-      "links": [
-        {
-          "url": "%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98-%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%9B%E1%83%98%E1%83%AB%E1%83%94Giorgi-Baramidze-601057849927580",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%9B%E1%83%98%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_1_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gbegadze@parliament.ge",
+      "id": "person/dc619c72-b721-4387-aa2c-89c86df7ef8c",
+      "name": "Giorgi Begadze",
+      "sort_name": "Giorgi Begadze",
       "memberships": [
         {
-          "person_id": "person/e7f64c6e-09b3-42a5-bcc4-711781e2837a",
+          "person_id": "person/dc619c72-b721-4387-aa2c-89c86df7ef8c",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "georgian_dream_-_greens",
+          "area_id": "30",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -958,24 +843,17 @@
       ]
     },
     {
-      "email": "GGabashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/b917f598-1398-4667-b1c4-a16691e7cefc",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%90%E1%83%91%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Gabashvili",
-      "sort_name": "Giorgi Gabashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%90%E1%83%91%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gbokeria@parliament.ge",
+      "id": "person/5b940f6a-557a-4a5a-b443-bf2bdaee21b8",
+      "name": "Giorgi Bokeria",
+      "sort_name": "Giorgi Bokeria",
       "memberships": [
         {
-          "person_id": "person/b917f598-1398-4667-b1c4-a16691e7cefc",
+          "person_id": "person/5b940f6a-557a-4a5a-b443-bf2bdaee21b8",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "european_georgia",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -999,8 +877,9 @@
           "person_id": "person/07cd77bd-8b28-4b1b-95ed-12f2593515f9",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "georgian_dream_-_greens",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1024,59 +903,8 @@
           "person_id": "person/13795a29-865b-450d-a5e4-50049477e943",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_regions",
-          "area_id": "area/grujaani",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GTargamadze@parliament.ge",
-      "gender": "male",
-      "id": "person/9b5351d3-6719-4cb3-8a2a-dd2f624c64a3",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%95%E1%83%98_1_jpg_200x168_q85.jpg",
-      "name": "Giorgi Givi Targamadze",
-      "sort_name": "Giorgi Givi Targamadze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%90%E1%83%A0%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%95%E1%83%98_1_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9b5351d3-6719-4cb3-8a2a-dd2f624c64a3",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GGozalishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/4bb62584-abde-4d15-bd34-df06f92d9fd5",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%9D%E1%83%96%E1%83%90%E1%83%9A%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Gozalishvili",
-      "sort_name": "Giorgi Gozalishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%9D%E1%83%96%E1%83%90%E1%83%9A%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4bb62584-abde-4d15-bd34-df06f92d9fd5",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_non-party,_independent_majoritarians",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1112,8 +940,8 @@
           "person_id": "person/2aa6bac3-63da-4c20-92e4-727a9060a04d",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
         }
       ]
     },
@@ -1134,33 +962,9 @@
           "person_id": "person/4494aae3-0105-44e5-b6ed-b92b93307945",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GKarbelashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/50c1eb23-93a6-4b45-936b-737b50c80bd6",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%90%E1%83%A0%E1%83%91%E1%83%94%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Karbelashvili",
-      "sort_name": "Giorgi Karbelashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%90%E1%83%A0%E1%83%91%E1%83%94%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/50c1eb23-93a6-4b45-936b-737b50c80bd6",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1183,8 +987,10 @@
           "person_id": "person/2dae846e-cb6b-49dd-b93d-bafbc0a5f641",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "start_date": "2016-12-01",
+          "end_date": "1978-11-20",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1192,113 +998,18 @@
       ]
     },
     {
-      "email": "GKhechinashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/0acc17a9-d093-4b60-8cdf-b94996726bbb",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%94%E1%83%A9%E1%83%98%E1%83%9C%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Khechinashvili",
-      "sort_name": "Giorgi Khechinashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%94%E1%83%A9%E1%83%98%E1%83%9C%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gkopadze@parliament.ge",
+      "id": "person/0a773332-8de3-4090-8205-c8e44af40f96",
+      "name": "Giorgi Kopadze",
+      "sort_name": "Giorgi Kopadze",
       "memberships": [
         {
-          "person_id": "person/0acc17a9-d093-4b60-8cdf-b94996726bbb",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_national_forum",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GMeladze@parliament.ge",
-      "gender": "male",
-      "id": "person/e4c56e67-b24b-4bf8-91f7-c070ac689035",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Meladze",
-      "sort_name": "Giorgi Meladze",
-      "links": [
-        {
-          "url": "Giorgi-Meladze-211224938924160",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e4c56e67-b24b-4bf8-91f7-c070ac689035",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GPheikrishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/b7e0a809-d180-4602-bf72-4e0b52a262dc",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A4%E1%83%94%E1%83%98%E1%83%A5%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Peiqrishvili",
-      "sort_name": "Giorgi Peiqrishvili",
-      "links": [
-        {
-          "url": "%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98-%E1%83%A4%E1%83%94%E1%83%98%E1%83%A5%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98-%E1%83%92%E1%83%90%E1%83%A0%E1%83%93%E1%83%90%E1%83%91%E1%83%9C%E1%83%98%E1%83%A1-%E1%83%9B%E1%83%90%E1%83%9F%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A2%E1%83%90%E1%83%A0%E1%83%98-%E1%83%93%E1%83%94%E1%83%9E%E1%83%A3%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98-136420976550705",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A4%E1%83%94%E1%83%98%E1%83%A5%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b7e0a809-d180-4602-bf72-4e0b52a262dc",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
-          "area_id": "area/gardabani",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GKavtaradze@parliament.ge",
-      "gender": "male",
-      "id": "person/8ea71908-2940-435b-8273-4a50e63d5562",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A5%E1%83%90%E1%83%95%E1%83%97%E1%83%90%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Qavtaradze",
-      "sort_name": "Giorgi Qavtaradze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A5%E1%83%90%E1%83%95%E1%83%97%E1%83%90%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8ea71908-2940-435b-8273-4a50e63d5562",
+          "person_id": "person/0a773332-8de3-4090-8205-c8e44af40f96",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/zestaponi",
-          "legislative_period_id": "term/8"
+          "area_id": "44",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1306,30 +1017,17 @@
       ]
     },
     {
-      "email": "GTevdoradze@parliament.ge",
-      "gender": "male",
-      "id": "person/b4b3008f-eba8-48c4-8656-1312b9d2ffe0",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%94%E1%83%95%E1%83%93%E1%83%9D%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Tevdoradze",
-      "sort_name": "Giorgi Tevdoradze",
-      "links": [
-        {
-          "url": "GiorgiTevdoradzeofficial",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%94%E1%83%95%E1%83%93%E1%83%9D%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "glomia@parliament.ge",
+      "id": "person/fd5476cc-6ca5-4553-a34d-fafffc2630c6",
+      "name": "Giorgi Lomia",
+      "sort_name": "Giorgi Lomia",
       "memberships": [
         {
-          "person_id": "person/b4b3008f-eba8-48c4-8656-1312b9d2ffe0",
+          "person_id": "person/fd5476cc-6ca5-4553-a34d-fafffc2630c6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "patriots_of_georgia",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1337,30 +1035,18 @@
       ]
     },
     {
-      "email": "GTophadze@parliament.ge",
-      "gender": "male",
-      "id": "person/e5a217a6-2af5-4a59-89e1-e882e156efd8",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%9D%E1%83%A4%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Topadze",
-      "sort_name": "Giorgi Topadze",
-      "links": [
-        {
-          "url": "Gogi-Topadze%E1%83%92%E1%83%9D%E1%83%92%E1%83%98-%E1%83%97%E1%83%9D%E1%83%A4%E1%83%90%E1%83%AB%E1%83%94-100469589997213",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%97%E1%83%9D%E1%83%A4%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gmosidze@parliament.ge",
+      "id": "person/420bde1a-a363-4f0b-9dd9-f56c15460c7d",
+      "name": "Giorgi Mosidze",
+      "sort_name": "Giorgi Mosidze",
       "memberships": [
         {
-          "person_id": "person/e5a217a6-2af5-4a59-89e1-e882e156efd8",
+          "person_id": "person/420bde1a-a363-4f0b-9dd9-f56c15460c7d",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "11",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1368,24 +1054,17 @@
       ]
     },
     {
-      "email": "GTsagareishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/7f961c3d-1dc3-413b-a1b2-d8630489d294",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AA%E1%83%90%E1%83%92%E1%83%90%E1%83%A0%E1%83%94%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Tsagareishvili",
-      "sort_name": "Giorgi Tsagareishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AA%E1%83%90%E1%83%92%E1%83%90%E1%83%A0%E1%83%94%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gtotladze@parliament.ge",
+      "id": "person/3e147938-640b-404b-b07b-abba4f51173e",
+      "name": "Giorgi Totladze",
+      "sort_name": "Giorgi Totladze",
       "memberships": [
         {
-          "person_id": "person/7f961c3d-1dc3-413b-a1b2-d8630489d294",
+          "person_id": "person/3e147938-640b-404b-b07b-abba4f51173e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1393,30 +1072,18 @@
       ]
     },
     {
-      "email": "GVashadze@parliament.ge",
-      "gender": "male",
-      "id": "person/4da0e904-440c-4ecc-a7e2-a159f0860042",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%95%E1%83%90%E1%83%A8%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Giorgi Vashadze",
-      "sort_name": "Giorgi Vashadze",
-      "links": [
-        {
-          "url": "G.Vashadze",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%95%E1%83%90%E1%83%A8%E1%83%90%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gtugushi@parliament.ge",
+      "id": "person/b62a5377-4e65-4605-afe5-b8ecd7cd36f6",
+      "name": "Giorgi Tughushi",
+      "sort_name": "Giorgi Tughushi",
       "memberships": [
         {
-          "person_id": "person/4da0e904-440c-4ecc-a7e2-a159f0860042",
+          "person_id": "person/b62a5377-4e65-4605-afe5-b8ecd7cd36f6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1441,7 +1108,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "14",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1465,8 +1133,9 @@
           "person_id": "person/c4c775b4-065a-4853-9f62-f4b7f74a5c14",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "58",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1474,25 +1143,18 @@
       ]
     },
     {
-      "email": "GBukia@parliament.ge",
-      "gender": "male",
-      "id": "person/e630c228-57cc-49d8-b68b-ca0229aaa3d4",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%A3%E1%83%99%E1%83%98%E1%83%90_%E1%83%92%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%AB%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Goderdzi Bukia",
-      "sort_name": "Goderdzi Bukia",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%A3%E1%83%99%E1%83%98%E1%83%90_%E1%83%92%E1%83%9D%E1%83%93%E1%83%94%E1%83%A0%E1%83%AB%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gchankseliani@parliament.ge",
+      "id": "person/4bac7414-8b50-4315-9f7c-ab6c1ec22d1e",
+      "name": "Goderdzi Chankseliani",
+      "sort_name": "Goderdzi Chankseliani",
       "memberships": [
         {
-          "person_id": "person/e630c228-57cc-49d8-b68b-ca0229aaa3d4",
+          "person_id": "person/4bac7414-8b50-4315-9f7c-ab6c1ec22d1e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_non-party,_independent_majoritarians",
-          "area_id": "area/khobi",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_for_development_of_regions\"",
+          "area_id": "32",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1500,50 +1162,18 @@
       ]
     },
     {
-      "email": "GLiparteliani@parliament.ge",
-      "gender": "male",
-      "id": "person/a22e940e-f16e-4bf8-bc73-21ad82d94f9d",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%98%E1%83%9E%E1%83%90%E1%83%A0%E1%83%A2%E1%83%94%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%92%E1%83%9D%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Gogi Liparteliani",
-      "sort_name": "Gogi Liparteliani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%98%E1%83%9E%E1%83%90%E1%83%A0%E1%83%A2%E1%83%94%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%92%E1%83%9D%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "ggulordava@parliament.ge",
+      "id": "person/7d35a39e-4e30-45c8-a7db-7158289e82b6",
+      "name": "Goga Gulordava",
+      "sort_name": "Goga Gulordava",
       "memberships": [
         {
-          "person_id": "person/a22e940e-f16e-4bf8-bc73-21ad82d94f9d",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_non-party,_independent_majoritarians",
-          "area_id": "area/lentekhi",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "GZhvania@parliament.ge",
-      "gender": "male",
-      "id": "person/aa6633af-4a66-482a-8032-c41107bede6c",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9F%E1%83%95%E1%83%90%E1%83%9C%E1%83%98%E1%83%90_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Gogla Zhvania",
-      "sort_name": "Gogla Zhvania",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9F%E1%83%95%E1%83%90%E1%83%9C%E1%83%98%E1%83%90_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/aa6633af-4a66-482a-8032-c41107bede6c",
+          "person_id": "person/7d35a39e-4e30-45c8-a7db-7158289e82b6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "67",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1551,25 +1181,56 @@
       ]
     },
     {
-      "email": "GSanikidze@parliament.ge",
-      "gender": "male",
-      "id": "person/0ee7c2ad-1596-4c79-becd-b629a818d934",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%9C%E1%83%98%E1%83%99%E1%83%98%E1%83%AB%E1%83%94_%E1%83%92%E1%83%A3%E1%83%91%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Gubaz Sanikidze",
-      "sort_name": "Gubaz Sanikidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%9C%E1%83%98%E1%83%99%E1%83%98%E1%83%AB%E1%83%94_%E1%83%92%E1%83%A3%E1%83%91%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gmeshveliani@parliament.ge",
+      "id": "person/0e03d9c9-537e-4b84-9531-ad4f1648a48e",
+      "name": "Gogi Meshveliani",
+      "sort_name": "Gogi Meshveliani",
       "memberships": [
         {
-          "person_id": "person/0ee7c2ad-1596-4c79-becd-b629a818d934",
+          "person_id": "person/0e03d9c9-537e-4b84-9531-ad4f1648a48e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_national_forum",
-          "area_id": "area/kutaisi",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_for_development_of_regions\"",
+          "area_id": "33",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "grmikeladze@parliament.ge",
+      "id": "person/ad3cbd63-e680-4e9a-90fd-9a0bbb2dc0fb",
+      "name": "Grigol Mikeladze",
+      "sort_name": "Grigol Mikeladze",
+      "memberships": [
+        {
+          "person_id": "person/ad3cbd63-e680-4e9a-90fd-9a0bbb2dc0fb",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "55",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "gliluashvili@parliament.ge",
+      "id": "person/f60def96-889d-4b70-8c0c-111fa936a7bc",
+      "name": "Grigor Liluashvili",
+      "sort_name": "Grigor Liluashvili",
+      "memberships": [
+        {
+          "person_id": "person/f60def96-889d-4b70-8c0c-111fa936a7bc",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "54",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1594,7 +1255,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1602,25 +1264,18 @@
       ]
     },
     {
-      "email": "GMisabishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/eae892bc-c69d-4404-97d8-a9801e8922ef",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%A1%E1%83%90%E1%83%91%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%A3%E1%83%A0%E1%83%90%E1%83%9B_jpg_200x168_q85.jpg",
-      "name": "Guram Misabishvili",
-      "sort_name": "Guram Misabishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%A1%E1%83%90%E1%83%91%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%92%E1%83%A3%E1%83%A0%E1%83%90%E1%83%9B_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "gmacharashvili@parliament.ge",
+      "id": "person/3f79fa80-1fa1-416e-9297-e4ec35317a06",
+      "name": "Guram Macharashvili",
+      "sort_name": "Guram Macharashvili",
       "memberships": [
         {
-          "person_id": "person/eae892bc-c69d-4404-97d8-a9801e8922ef",
+          "person_id": "person/3f79fa80-1fa1-416e-9297-e4ec35317a06",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
-          "area_id": "area/senaki",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_for_development_of_regions\"",
+          "area_id": "26",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1628,50 +1283,18 @@
       ]
     },
     {
-      "email": "IShervashize@parliament.ge",
-      "gender": "male",
-      "id": "person/b0a5bfd4-d9f7-4903-a7e7-0784b711acd1",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%94%E1%83%A0%E1%83%95%E1%83%90%E1%83%A8%E1%83%98%E1%83%AB%E1%83%94_%E1%83%98%E1%83%90%E1%83%A8%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Iasha Shervashidze",
-      "sort_name": "Iasha Shervashidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%94%E1%83%A0%E1%83%95%E1%83%90%E1%83%A8%E1%83%98%E1%83%AB%E1%83%94_%E1%83%98%E1%83%90%E1%83%A8%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "inakashidze@parliament.ge",
+      "id": "person/0d13d233-79e0-4dfa-b0e8-603766fa7a18",
+      "name": "Ilia Nakashidze",
+      "sort_name": "Ilia Nakashidze",
       "memberships": [
         {
-          "person_id": "person/b0a5bfd4-d9f7-4903-a7e7-0784b711acd1",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "IJachvliani@parliament.ge",
-      "gender": "male",
-      "id": "person/782a0c6e-6603-4948-8420-e1712b1031f9",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%AD%E1%83%95%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%98%E1%83%9D%E1%83%A1%E1%83%94%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Ioseb Jachvliani",
-      "sort_name": "Ioseb Jachvliani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%AD%E1%83%95%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%98%E1%83%9D%E1%83%A1%E1%83%94%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/782a0c6e-6603-4948-8420-e1712b1031f9",
+          "person_id": "person/0d13d233-79e0-4dfa-b0e8-603766fa7a18",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/gldani",
-          "legislative_period_id": "term/8"
+          "area_id": "72",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1679,30 +1302,169 @@
       ]
     },
     {
-      "email": "IChikovani@parliament.ge",
-      "gender": "male",
-      "id": "person/4e340ae2-c0fd-4e22-bf75-c588047d6804",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%98%E1%83%A5%E1%83%9D%E1%83%95%E1%83%90%E1%83%9C%E1%83%98_%E1%83%98%E1%83%A0%E1%83%90%E1%83%99%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Irakli Chiqovani",
-      "sort_name": "Irakli Chiqovani",
-      "links": [
-        {
-          "url": "%E1%83%98%E1%83%A0%E1%83%90%E1%83%99%E1%83%9A%E1%83%98-%E1%83%A9%E1%83%98%E1%83%A5%E1%83%9D%E1%83%95%E1%83%90%E1%83%9C%E1%83%98-Irakli-Chikovani-269292139774975",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%98%E1%83%A5%E1%83%9D%E1%83%95%E1%83%90%E1%83%9C%E1%83%98_%E1%83%98%E1%83%A0%E1%83%90%E1%83%99%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "imakrakhidze@parliament.ge",
+      "id": "person/225950ee-7b1f-4027-aad2-f3a8da88c0ab",
+      "name": "Ioseb Makrakhidze",
+      "sort_name": "Ioseb Makrakhidze",
       "memberships": [
         {
-          "person_id": "person/4e340ae2-c0fd-4e22-bf75-c588047d6804",
+          "person_id": "person/225950ee-7b1f-4027-aad2-f3a8da88c0ab",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "41",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "i.beraia@parliament.ge",
+      "id": "person/74b51543-1be4-4359-9ba2-311a664fee60",
+      "name": "Irakli (Dachi) Beraia",
+      "sort_name": "Irakli (Dachi) Beraia",
+      "memberships": [
+        {
+          "person_id": "person/74b51543-1be4-4359-9ba2-311a664fee60",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "64",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "iabesadze@parliament.ge",
+      "id": "person/acdd36b6-c327-4c95-9745-6740ed722698",
+      "name": "Irakli Abesadze",
+      "sort_name": "Irakli Abesadze",
+      "memberships": [
+        {
+          "person_id": "person/acdd36b6-c327-4c95-9745-6740ed722698",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "iabuseridze@parliament.ge",
+      "id": "person/7b3bb222-83cc-49c4-844e-ca45d0ddce3c",
+      "name": "Irakli Abuseridze",
+      "sort_name": "Irakli Abuseridze",
+      "memberships": [
+        {
+          "person_id": "person/7b3bb222-83cc-49c4-844e-ca45d0ddce3c",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "georgian_dream_-_greens",
+          "area_id": "8",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "iberaia@parliament.ge",
+      "id": "person/66a25af3-02ae-47c8-9483-fd64d787bcbd",
+      "name": "Irakli Beraia",
+      "sort_name": "Irakli Beraia",
+      "memberships": [
+        {
+          "person_id": "person/66a25af3-02ae-47c8-9483-fd64d787bcbd",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "63",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ikhakhubia@parliament.ge",
+      "id": "person/0de8a52c-2c09-4ece-841d-8470209bed7c",
+      "name": "Irakli Khakhubia",
+      "sort_name": "Irakli Khakhubia",
+      "memberships": [
+        {
+          "person_id": "person/0de8a52c-2c09-4ece-841d-8470209bed7c",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "61",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ikobakhidze@parliament.ge",
+      "id": "person/0a6569e6-c218-4b18-a15c-877ffff9dbae",
+      "name": "Irakli Kobakhidze",
+      "sort_name": "Irakli Kobakhidze",
+      "memberships": [
+        {
+          "person_id": "person/0a6569e6-c218-4b18-a15c-877ffff9dbae",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ikovzanadze@parliament.ge",
+      "id": "person/27748cca-873c-4bed-be0b-6549f4c01a31",
+      "name": "Irakli Kovzanadze",
+      "sort_name": "Irakli Kovzanadze",
+      "memberships": [
+        {
+          "person_id": "person/27748cca-873c-4bed-be0b-6549f4c01a31",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "imezurnishvili@parliament.ge",
+      "id": "person/058852c7-1bf4-4d0f-a9bd-136134d55dae",
+      "name": "Irakli Mezurnishvili",
+      "sort_name": "Irakli Mezurnishvili",
+      "memberships": [
+        {
+          "person_id": "person/058852c7-1bf4-4d0f-a9bd-136134d55dae",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "39",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1727,7 +1489,64 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "27",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ishiolashvili@parliament.ge",
+      "id": "person/68db26aa-22fe-4d7a-9a3f-72eb853cf2ce",
+      "name": "Irakli Shiolashvili",
+      "sort_name": "Irakli Shiolashvili",
+      "memberships": [
+        {
+          "person_id": "person/68db26aa-22fe-4d7a-9a3f-72eb853cf2ce",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "25",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ipruidze@parliament.ge",
+      "id": "person/7873a63e-82c9-4c8b-8b86-b29d6bd3f0b2",
+      "name": "Irine Pruidze",
+      "sort_name": "Irine Pruidze",
+      "memberships": [
+        {
+          "person_id": "person/7873a63e-82c9-4c8b-8b86-b29d6bd3f0b2",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "iinashvili@parliament.ge",
+      "id": "person/4d8ed20c-f222-40f0-b3c5-3848a6f91254",
+      "name": "Irma Inashvili",
+      "sort_name": "Irma Inashvili",
+      "memberships": [
+        {
+          "person_id": "person/4d8ed20c-f222-40f0-b3c5-3848a6f91254",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "patriots_of_georgia",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1751,8 +1570,9 @@
           "person_id": "person/3a5e585d-7437-4568-8d32-5f4402adc531",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1760,24 +1580,18 @@
       ]
     },
     {
-      "email": "IKiguradze@parliament.ge",
-      "gender": "male",
-      "id": "person/a1bff441-ad00-42fa-b453-dd4916b38ce4",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%98%E1%83%A6%E1%83%A3%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%98%E1%83%95%E1%83%90%E1%83%9C%E1%83%94_jpg_200x168_q85.jpg",
-      "name": "Ivane Kighuradze",
-      "sort_name": "Ivane Kighuradze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%98%E1%83%A6%E1%83%A3%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%98%E1%83%95%E1%83%90%E1%83%9C%E1%83%94_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "idaseni@parliament.ge",
+      "id": "person/f308bb1a-24d0-4f76-ac7b-03fb5c858817",
+      "name": "Isko Daseni",
+      "sort_name": "Isko Daseni",
       "memberships": [
         {
-          "person_id": "person/a1bff441-ad00-42fa-b453-dd4916b38ce4",
+          "person_id": "person/f308bb1a-24d0-4f76-ac7b-03fb5c858817",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1785,25 +1599,36 @@
       ]
     },
     {
-      "email": "KButskhrikidze@parliament.ge",
-      "gender": "male",
-      "id": "person/b0d2c9be-029e-4bcf-b7cc-e9e106667ecc",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%A3%E1%83%AA%E1%83%AE%E1%83%A0%E1%83%98%E1%83%99%E1%83%98%E1%83%AB%E1%83%94_%E1%83%99%E1%83%90%E1%83%AE%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Kakha Butskhrikidze",
-      "sort_name": "Kakha Butskhrikidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%A3%E1%83%AA%E1%83%AE%E1%83%A0%E1%83%98%E1%83%99%E1%83%98%E1%83%AB%E1%83%94_%E1%83%99%E1%83%90%E1%83%AE%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "itsulaia@parliament.ge",
+      "id": "person/4eac281d-b6e4-4195-bd2a-87d568ad81df",
+      "name": "Ivliane Tsulaia",
+      "sort_name": "Ivliane Tsulaia",
       "memberships": [
         {
-          "person_id": "person/b0d2c9be-029e-4bcf-b7cc-e9e106667ecc",
+          "person_id": "person/4eac281d-b6e4-4195-bd2a-87d568ad81df",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_majoritarians",
-          "area_id": "area/terjola",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "15",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "kkuchava@parliament.ge",
+      "id": "person/2939d262-fe03-46bf-8b48-857daff1d862",
+      "name": "Kakhaber Kutchava",
+      "sort_name": "Kakhaber Kutchava",
+      "memberships": [
+        {
+          "person_id": "person/2939d262-fe03-46bf-8b48-857daff1d862",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1827,9 +1652,9 @@
           "person_id": "person/4f574651-c97c-4bb2-8c41-067c299123f5",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_non-party,_independent_majoritarians",
-          "area_id": "area/dmanisi",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_for_development_of_regions\"",
+          "area_id": "34",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1854,7 +1679,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1878,8 +1704,9 @@
           "person_id": "person/aa87b010-21f4-4ebe-95ef-cb6ffa13b7d5",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1887,24 +1714,56 @@
       ]
     },
     {
-      "email": "KDavitashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/1b782c85-1bfb-4d80-9c49-83b20c885563",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%99%E1%83%9D%E1%83%91%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Koba Davitashvili",
-      "sort_name": "Koba Davitashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%99%E1%83%9D%E1%83%91%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "kkobaladze@parliament.ge",
+      "id": "person/e4372c5a-a82e-4956-898f-0a5d680f3dc9",
+      "name": "Koba Kobaladze",
+      "sort_name": "Koba Kobaladze",
       "memberships": [
         {
-          "person_id": "person/1b782c85-1bfb-4d80-9c49-83b20c885563",
+          "person_id": "person/e4372c5a-a82e-4956-898f-0a5d680f3dc9",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "24",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "klursmanashvili@parliament.ge",
+      "id": "person/8a6a1dd7-6f6c-443b-acc8-5280b9c6fde2",
+      "name": "Koba Lursmanashvili",
+      "sort_name": "Koba Lursmanashvili",
+      "memberships": [
+        {
+          "person_id": "person/8a6a1dd7-6f6c-443b-acc8-5280b9c6fde2",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "51",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "knakaidze@parliament.ge",
+      "id": "person/357b7a2f-3340-4135-aeb8-084cf1e7ff1c",
+      "name": "Koba Nakaidze",
+      "sort_name": "Koba Nakaidze",
+      "memberships": [
+        {
+          "person_id": "person/357b7a2f-3340-4135-aeb8-084cf1e7ff1c",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "71",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1929,7 +1788,7 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1937,24 +1796,56 @@
       ]
     },
     {
-      "email": "KSubeliani@parliament.ge",
-      "gender": "male",
-      "id": "person/f626dabf-a252-4138-9c33-953a721ce5de",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%A3%E1%83%91%E1%83%94%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%99%E1%83%9D%E1%83%91%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Koba Subeliani",
-      "sort_name": "Koba Subeliani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%A3%E1%83%91%E1%83%94%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%99%E1%83%9D%E1%83%91%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "knarchemashvili@parliament.ge",
+      "id": "person/f380cc91-93e9-4366-b898-e2f073020444",
+      "name": "Koba Narchemashvili",
+      "sort_name": "Koba Narchemashvili",
       "memberships": [
         {
-          "person_id": "person/f626dabf-a252-4138-9c33-953a721ce5de",
+          "person_id": "person/f380cc91-93e9-4366-b898-e2f073020444",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_-_social-democrats\"",
+          "area_id": "49",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ldamenia@parliament.ge",
+      "id": "person/23f9bf38-f4ce-4087-842a-3e47155d9fa6",
+      "name": "Lasha Damenia",
+      "sort_name": "Lasha Damenia",
+      "memberships": [
+        {
+          "person_id": "person/23f9bf38-f4ce-4087-842a-3e47155d9fa6",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "lkeburia@parliament.ge",
+      "id": "person/935b57ac-a151-4d2f-b4f5-516e00e8bf9c",
+      "name": "Lela Keburia",
+      "sort_name": "Lela Keburia",
+      "memberships": [
+        {
+          "person_id": "person/935b57ac-a151-4d2f-b4f5-516e00e8bf9c",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1979,7 +1870,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1987,24 +1879,18 @@
       ]
     },
     {
-      "email": "LBerdzenishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/43a64365-bf30-4715-8c32-95b322f8fb70",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%94%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9A%E1%83%94%E1%83%95%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg",
-      "name": "Levan Berdzenishvili",
-      "sort_name": "Levan Berdzenishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%A0%E1%83%AB%E1%83%94%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9A%E1%83%94%E1%83%95%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "lbezhanidze@parliament.ge",
+      "id": "person/785e3ba8-df12-4823-ae8f-751e9fdddc7d",
+      "name": "Levan Bejanidze",
+      "sort_name": "Levan Bejanidze",
       "memberships": [
         {
-          "person_id": "person/43a64365-bf30-4715-8c32-95b322f8fb70",
+          "person_id": "person/785e3ba8-df12-4823-ae8f-751e9fdddc7d",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
+          "area_id": "69",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2012,24 +1898,18 @@
       ]
     },
     {
-      "email": "LBezhashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/2d84c1a1-7291-4493-af89-139c111db1fc",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%9F%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9A%E1%83%94%E1%83%95%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg",
-      "name": "Levan Bezhashvili",
-      "sort_name": "Levan Bezhashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%94%E1%83%9F%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9A%E1%83%94%E1%83%95%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "lgogichaishvili@parliament.ge",
+      "id": "person/c2c13758-b927-4198-ad92-8af53621a2d6",
+      "name": "Levan Gogichaishvili",
+      "sort_name": "Levan Gogichaishvili",
       "memberships": [
         {
-          "person_id": "person/2d84c1a1-7291-4493-af89-139c111db1fc",
+          "person_id": "person/c2c13758-b927-4198-ad92-8af53621a2d6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "6",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2037,25 +1917,18 @@
       ]
     },
     {
-      "email": "LKardava@parliament.ge",
-      "gender": "male",
-      "id": "person/22f2909d-201a-4330-a0d2-3b5fb142e3f1",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A5%E1%83%90%E1%83%A0%E1%83%93%E1%83%90%E1%83%95%E1%83%90_%E1%83%9A%E1%83%94%E1%83%95%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg",
-      "name": "Levan Qardava",
-      "sort_name": "Levan Qardava",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A5%E1%83%90%E1%83%A0%E1%83%93%E1%83%90%E1%83%95%E1%83%90_%E1%83%9A%E1%83%94%E1%83%95%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "lkobiashvili@parliament.ge",
+      "id": "person/54a8da6b-68a6-40e5-90ec-46aca9a00012",
+      "name": "Levan Kobiashvili",
+      "sort_name": "Levan Kobiashvili",
       "memberships": [
         {
-          "person_id": "person/22f2909d-201a-4330-a0d2-3b5fb142e3f1",
+          "person_id": "person/54a8da6b-68a6-40e5-90ec-46aca9a00012",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_majoritarians",
-          "area_id": "area/tsalenjikha",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "21",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2063,23 +1936,18 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/97a123e2-793f-4f9d-98fb-8dffdcb86b2d",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/4205_6_jpg_200x168_q85.jpg",
-      "name": "Levan Tarkhnishvili",
-      "sort_name": "Levan Tarkhnishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/4205_6_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "lkoberidze@parliament.ge",
+      "id": "person/783c3086-4858-4f41-910c-535a1bceb382",
+      "name": "Levani Koberidze",
+      "sort_name": "Levani Koberidze",
       "memberships": [
         {
-          "person_id": "person/97a123e2-793f-4f9d-98fb-8dffdcb86b2d",
+          "person_id": "person/783c3086-4858-4f41-910c-535a1bceb382",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "22",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2104,7 +1972,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2112,25 +1981,18 @@
       ]
     },
     {
-      "email": "MTsereteli@parliament.ge",
-      "gender": "male",
-      "id": "person/d41d7932-090f-4533-abc3-664b054a5dbc",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AC%E1%83%94%E1%83%A0%E1%83%94%E1%83%97%E1%83%94%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%90%E1%83%9A%E1%83%AE%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Malkhaz Tsereteli",
-      "sort_name": "Malkhaz Tsereteli",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AC%E1%83%94%E1%83%A0%E1%83%94%E1%83%97%E1%83%94%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%90%E1%83%9A%E1%83%AE%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "mchikovani@parliament.ge",
+      "id": "person/e50b3d7d-953f-490c-b3aa-5b2e43cc245f",
+      "name": "Mamuka Chikovani",
+      "sort_name": "Mamuka Chikovani",
       "memberships": [
         {
-          "person_id": "person/d41d7932-090f-4533-abc3-664b054a5dbc",
+          "person_id": "person/e50b3d7d-953f-490c-b3aa-5b2e43cc245f",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "area_id": "area/chiatura",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2138,50 +2000,18 @@
       ]
     },
     {
-      "email": "MVakhtangashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/8d3b5c80-6992-45f6-9e4a-66bed84e9461",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%95%E1%83%90%E1%83%AE%E1%83%A2%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%90%E1%83%9A%E1%83%AE%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Malkhaz Vakhtangashvili",
-      "sort_name": "Malkhaz Vakhtangashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%95%E1%83%90%E1%83%AE%E1%83%A2%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%90%E1%83%9A%E1%83%AE%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "mmdinaradze@parliament.ge",
+      "id": "person/ec6e2c65-904d-4a1d-941a-2a90906197c6",
+      "name": "Mamuka Mdinaradze",
+      "sort_name": "Mamuka Mdinaradze",
       "memberships": [
         {
-          "person_id": "person/8d3b5c80-6992-45f6-9e4a-66bed84e9461",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_national_forum",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "MaKobakhidze@parliament.ge",
-      "gender": "female",
-      "id": "person/8a8279a9-7bcb-49d5-8262-74cb96f93ce6",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%9D%E1%83%91%E1%83%90%E1%83%AE%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%90%E1%83%9C%E1%83%90%E1%83%9C%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Manana Kobakhidze",
-      "sort_name": "Manana Kobakhidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%9D%E1%83%91%E1%83%90%E1%83%AE%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%90%E1%83%9C%E1%83%90%E1%83%9C%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8a8279a9-7bcb-49d5-8262-74cb96f93ce6",
+          "person_id": "person/ec6e2c65-904d-4a1d-941a-2a90906197c6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/sachkhere",
-          "legislative_period_id": "term/8"
+          "area_id": "4",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2189,24 +2019,18 @@
       ]
     },
     {
-      "email": "MSajaia@parliament.ge",
-      "gender": "female",
-      "id": "person/d4f18b0b-056b-4226-9ace-d05e6d0c127a",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%AF%E1%83%90%E1%83%98%E1%83%90_%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%90%E1%83%9B_jpg_200x168_q85.jpg",
-      "name": "Mariam Sajaia",
-      "sort_name": "Mariam Sajaia",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%AF%E1%83%90%E1%83%98%E1%83%90_%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%90%E1%83%9B_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "mjashi@parliament.ge",
+      "id": "person/5b9aef5f-e5af-4b5c-8aee-b5ae00d8d1bd",
+      "name": "Mariam Jashi",
+      "sort_name": "Mariam Jashi",
       "memberships": [
         {
-          "person_id": "person/d4f18b0b-056b-4226-9ace-d05e6d0c127a",
+          "person_id": "person/5b9aef5f-e5af-4b5c-8aee-b5ae00d8d1bd",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "12",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2214,24 +2038,18 @@
       ]
     },
     {
-      "email": "MVerulashvili@parliament.ge",
-      "gender": "female",
-      "id": "person/16c2d33c-4d07-4669-84ac-37b4d062c939",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%95%E1%83%94%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%99%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Marika Verulashvili",
-      "sort_name": "Marika Verulashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%95%E1%83%94%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%99%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "mkvaraia@parliament.ge",
+      "id": "person/29c3cfa4-6a65-493e-94dd-9a03a8be9ce8",
+      "name": "Merab Kvaraia",
+      "sort_name": "Merab Kvaraia",
       "memberships": [
         {
-          "person_id": "person/16c2d33c-4d07-4669-84ac-37b4d062c939",
+          "person_id": "person/29c3cfa4-6a65-493e-94dd-9a03a8be9ce8",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "65",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2239,74 +2057,18 @@
       ]
     },
     {
-      "email": "MKachakhidze@parliament.ge",
-      "gender": "male",
-      "id": "person/2599462f-4220-4d83-b569-eb19de2dd305",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%90%E1%83%AD%E1%83%90%E1%83%AE%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%94%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Merab Kachakhidze",
-      "sort_name": "Merab Kachakhidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%90%E1%83%AD%E1%83%90%E1%83%AE%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%94%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "mkavelashvili@parliament.ge",
+      "id": "person/9d6564cf-b014-41ab-a6fa-dff4f89f4098",
+      "name": "Mikheil kavelashvili",
+      "sort_name": "Mikheil kavelashvili",
       "memberships": [
         {
-          "person_id": "person/2599462f-4220-4d83-b569-eb19de2dd305",
+          "person_id": "person/9d6564cf-b014-41ab-a6fa-dff4f89f4098",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_conservatives",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "MMachavariani@parliament.ge",
-      "gender": "male",
-      "id": "person/66deb174-4c40-4a08-bb48-ee73f00a2fbe",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%AD%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Mikheil Machavariani",
-      "sort_name": "Mikheil Machavariani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%AD%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/66deb174-4c40-4a08-bb48-ee73f00a2fbe",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "MMakharadze@parliament.ge",
-      "gender": "male",
-      "id": "person/ca5ce8ed-c9a9-4a40-a736-c306f12ab5fc",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%AE%E1%83%90%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A_jpg_200x168_q85.jpg",
-      "name": "Mikheil Makharadze",
-      "sort_name": "Mikheil Makharadze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%AE%E1%83%90%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ca5ce8ed-c9a9-4a40-a736-c306f12ab5fc",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "18",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2337,7 +2099,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2345,30 +2108,18 @@
       ]
     },
     {
-      "email": "MDumbadze@parliament.ge",
-      "gender": "male",
-      "id": "person/eb5254b8-defd-47e6-93ed-8c70bd41049c",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%A3%E1%83%9B%E1%83%91%E1%83%90%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%A3%E1%83%A0%E1%83%9B%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg",
-      "name": "Murman Dumbadze",
-      "sort_name": "Murman Dumbadze",
-      "links": [
-        {
-          "url": "Murman.Dumbadze.Official",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%A3%E1%83%9B%E1%83%91%E1%83%90%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%A3%E1%83%A0%E1%83%9B%E1%83%90%E1%83%9C_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "mvakhtangadze@parliament.ge",
+      "id": "person/e7ad85a8-5ad9-44f1-b5e6-127070d1352e",
+      "name": "Mukhran Vakhtangadze",
+      "sort_name": "Mukhran Vakhtangadze",
       "memberships": [
         {
-          "person_id": "person/eb5254b8-defd-47e6-93ed-8c70bd41049c",
+          "person_id": "person/e7ad85a8-5ad9-44f1-b5e6-127070d1352e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream_-_conservatives",
+          "area_id": "70",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2376,24 +2127,18 @@
       ]
     },
     {
-      "email": "NKeinishvili@parliament.ge",
-      "gender": "female",
-      "id": "person/66376f5f-4a6c-4eee-9186-da6c991f10f6",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A7%E1%83%94%E1%83%98%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9C%E1%83%90%E1%83%9C%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Nana Keinishvili",
-      "sort_name": "Nana Keinishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A7%E1%83%94%E1%83%98%E1%83%9C%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9C%E1%83%90%E1%83%9C%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "nchkheidze@parliament.ge",
+      "id": "person/46b1a40c-eef6-41c3-b7f5-b0ea944936d3",
+      "name": "Nato Chkheidze",
+      "sort_name": "Nato Chkheidze",
       "memberships": [
         {
-          "person_id": "person/66376f5f-4a6c-4eee-9186-da6c991f10f6",
+          "person_id": "person/46b1a40c-eef6-41c3-b7f5-b0ea944936d3",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "patriots_of_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2401,24 +2146,18 @@
       ]
     },
     {
-      "email": "NKiphshidze@parliament.ge",
-      "gender": "male",
-      "id": "person/e327a034-9c62-4726-8419-e83f54986c5b",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A7%E1%83%98%E1%83%A4%E1%83%A8%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9C%E1%83%98%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Nikolozi Kipshidze",
-      "sort_name": "Nikolozi Kipshidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A7%E1%83%98%E1%83%A4%E1%83%A8%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9C%E1%83%98%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "nmelia@parliament.ge",
+      "id": "person/85e24aab-1552-4d16-bf84-de90b481ed06",
+      "name": "Nikanori Melia",
+      "sort_name": "Nikanori Melia",
       "memberships": [
         {
-          "person_id": "person/e327a034-9c62-4726-8419-e83f54986c5b",
+          "person_id": "person/85e24aab-1552-4d16-bf84-de90b481ed06",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2442,8 +2181,9 @@
           "person_id": "person/99444b3a-a8ff-450a-823f-9a7ef202777e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream_-_conservatives",
+          "area_id": "5",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2451,100 +2191,18 @@
       ]
     },
     {
-      "email": "NEbanoidze@parliament.ge",
-      "gender": "male",
-      "id": "person/0693e269-abe3-476c-98d8-0df357b8c550",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%94%E1%83%91%E1%83%90%E1%83%9C%E1%83%9D%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9C%E1%83%9D%E1%83%93%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Nodar Ebanoidze",
-      "sort_name": "Nodar Ebanoidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%94%E1%83%91%E1%83%90%E1%83%9C%E1%83%9D%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9C%E1%83%9D%E1%83%93%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "ntsilosani@parliament.ge",
+      "id": "person/9d043ac2-5b7f-4494-9d9e-b9e3cf082f12",
+      "name": "Nino Tsilosani",
+      "sort_name": "Nino Tsilosani",
       "memberships": [
         {
-          "person_id": "person/0693e269-abe3-476c-98d8-0df357b8c550",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "NTsiklauri@parliament.ge",
-      "gender": "male",
-      "id": "person/77286b3f-02e9-4586-a1e7-81de5468e1fa",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AC%E1%83%98%E1%83%99%E1%83%9A%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9C%E1%83%A3%E1%83%92%E1%83%96%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Nugzar Tsiklauri",
-      "sort_name": "Nugzar Tsiklauri",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AC%E1%83%98%E1%83%99%E1%83%9A%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9C%E1%83%A3%E1%83%92%E1%83%96%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/77286b3f-02e9-4586-a1e7-81de5468e1fa",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "OMegrelidze@parliament.ge",
-      "gender": "male",
-      "id": "person/3060504a-d1c5-4ebf-993c-15371ee023c3",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%92%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Omar Megrelidze",
-      "sort_name": "Omar Megrelidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%92%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3060504a-d1c5-4ebf-993c-15371ee023c3",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_majoritarians",
-          "area_id": "area/shuakhevi",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ONishnianidze@parliament.ge",
-      "gender": "male",
-      "id": "person/e0a58e43-ea04-413e-8efb-8e97384d5312",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9C%E1%83%98%E1%83%A8%E1%83%9C%E1%83%98%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Omari Nishnianidze",
-      "sort_name": "Omari Nishnianidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9C%E1%83%98%E1%83%A8%E1%83%9C%E1%83%98%E1%83%90%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e0a58e43-ea04-413e-8efb-8e97384d5312",
+          "person_id": "person/9d043ac2-5b7f-4494-9d9e-b9e3cf082f12",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "60",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2569,7 +2227,7 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2577,24 +2235,18 @@
       ]
     },
     {
-      "email": "PBaratashvili",
-      "gender": "male",
-      "id": "person/fac1e04b-c77b-43e6-a4ab-9e07c0cd88b4",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%97%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%90%E1%83%90%E1%83%A2%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Paata Baratashvili",
-      "sort_name": "Paata Baratashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%97%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%90%E1%83%90%E1%83%A2%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "odanelia@parliament.ge",
+      "id": "person/f5e3a5a8-8f0b-4b3a-8e8c-3ad7af737877",
+      "name": "Otari Danelia",
+      "sort_name": "Otari Danelia",
       "memberships": [
         {
-          "person_id": "person/fac1e04b-c77b-43e6-a4ab-9e07c0cd88b4",
+          "person_id": "person/f5e3a5a8-8f0b-4b3a-8e8c-3ad7af737877",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "62",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2602,23 +2254,18 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/132af40b-0499-4a20-9a7b-9ccc5b6a918d",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%98%E1%83%99%E1%83%9C%E1%83%90%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9E%E1%83%90%E1%83%90%E1%83%A2%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Paata Kiknavelidze",
-      "sort_name": "Paata Kiknavelidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%98%E1%83%99%E1%83%9C%E1%83%90%E1%83%95%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9E%E1%83%90%E1%83%90%E1%83%A2%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "okakhidze@parliament.ge",
+      "id": "person/e3dcbb0c-6399-4a5d-95b5-2d8a055fbf85",
+      "name": "Otari Kakhidze",
+      "sort_name": "Otari Kakhidze",
       "memberships": [
         {
-          "person_id": "person/132af40b-0499-4a20-9a7b-9ccc5b6a918d",
+          "person_id": "person/e3dcbb0c-6399-4a5d-95b5-2d8a055fbf85",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2643,7 +2290,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream_-_conservatives",
-          "legislative_period_id": "term/8"
+          "area_id": "53",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2651,25 +2299,18 @@
       ]
     },
     {
-      "email": "PLejava@parliament.ge",
-      "gender": "male",
-      "id": "person/c14bd8d5-f616-47fb-8117-3c113fa7ba73",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%94%E1%83%9F%E1%83%90%E1%83%95%E1%83%90_%E1%83%9E%E1%83%90%E1%83%90%E1%83%A2%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Paata Lezhava",
-      "sort_name": "Paata Lezhava",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%94%E1%83%9F%E1%83%90%E1%83%95%E1%83%90_%E1%83%9E%E1%83%90%E1%83%90%E1%83%A2%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "pmkheidze@parliament.ge",
+      "id": "person/7cd6b638-886b-41b1-92e4-1e66e32f04d6",
+      "name": "Paata Mkheidze",
+      "sort_name": "Paata Mkheidze",
       "memberships": [
         {
-          "person_id": "person/c14bd8d5-f616-47fb-8117-3c113fa7ba73",
+          "person_id": "person/7cd6b638-886b-41b1-92e4-1e66e32f04d6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "area_id": "area/vani",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "faction_\"the_georgian_dream_for_development_of_regions\"",
+          "area_id": "29",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2693,101 +2334,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/kobuleti",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "PKublashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/22c77fcb-f25a-4be2-bc6b-893fe88c169e",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%A3%E1%83%91%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%90%E1%83%95%E1%83%9A%E1%83%94_jpg_200x168_q85.jpg",
-      "name": "Pavle Kublashvili",
-      "sort_name": "Pavle Kublashvili",
-      "links": [
-        {
-          "url": "pavle-kublashvili-109036015781007",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%A3%E1%83%91%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%90%E1%83%95%E1%83%9A%E1%83%94_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/22c77fcb-f25a-4be2-bc6b-893fe88c169e",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "PTsiskarishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/69f3a945-2cac-44ce-a778-ee63d6c4f570",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AA%E1%83%98%E1%83%A1%E1%83%99%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%94%E1%83%A2%E1%83%A0%E1%83%94_jpg_200x168_q85.jpg",
-      "name": "Petre Tsiskarishvili",
-      "sort_name": "Petre Tsiskarishvili",
-      "links": [
-        {
-          "url": "PetreTsiskarishvili",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AA%E1%83%98%E1%83%A1%E1%83%99%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%94%E1%83%A2%E1%83%A0%E1%83%94_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/69f3a945-2cac-44ce-a778-ee63d6c4f570",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "PSakvarelidze@parliament.ge",
-      "gender": "male",
-      "id": "person/4d475dc6-362c-4de2-a54c-ad296cfc695d",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%A7%E1%83%95%E1%83%90%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A4%E1%83%A0%E1%83%98%E1%83%93%E1%83%9D%E1%83%9C_jpg_200x168_q85.jpg",
-      "name": "Pridoni Sakvarelidze",
-      "sort_name": "Pridoni Sakvarelidze",
-      "links": [
-        {
-          "url": "%E1%83%92%E1%83%94%E1%83%9A%E1%83%90-%E1%83%A1%E1%83%90%E1%83%9B%E1%83%AE%E1%83%90%E1%83%A0%E1%83%90%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%97%E1%83%94%E1%83%9A%E1%83%90%E1%83%95%E1%83%98%E1%83%A1-%E1%83%9B%E1%83%90%E1%83%9F%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A2%E1%83%90%E1%83%A0%E1%83%90%E1%83%93-Gela-Samkharauli-for-Telavi-458884634141775",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A1%E1%83%90%E1%83%A7%E1%83%95%E1%83%90%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A4%E1%83%A0%E1%83%98%E1%83%93%E1%83%9D%E1%83%9C_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4d475dc6-362c-4de2-a54c-ad296cfc695d",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "legislative_period_id": "term/8"
+          "area_id": "68",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2823,82 +2371,116 @@
           "person_id": "person/df6e11a1-9d6f-4100-bb5b-4751fa716bba",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/9"
         }
       ]
     },
     {
-      "email": "RShavlokhashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/5ea40062-aa97-4a6d-8c40-3451fb61a14c",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%90%E1%83%95%E1%83%9A%E1%83%9D%E1%83%AE%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%A0%E1%83%94%E1%83%95%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Revaz Shavlokhashvili",
-      "sort_name": "Revaz Shavlokhashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%90%E1%83%95%E1%83%9A%E1%83%9D%E1%83%AE%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%A0%E1%83%94%E1%83%95%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "rionatamishvili@parliament.ge",
+      "id": "person/02820800-420d-4f29-91b7-72ae06e0d038",
+      "name": "Rati Ionatamishvili",
+      "sort_name": "Rati Ionatamishvili",
       "memberships": [
         {
-          "person_id": "person/5ea40062-aa97-4a6d-8c40-3451fb61a14c",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_conservatives",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "RAkhalaia@parliament.ge",
-      "gender": "male",
-      "id": "person/80954079-7112-45e7-889a-aa038175b46f",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%90%E1%83%AE%E1%83%90%E1%83%9A%E1%83%90%E1%83%98%E1%83%90_%E1%83%A0%E1%83%9D%E1%83%9A%E1%83%90%E1%83%9C%E1%83%93_jpg_200x168_q85.jpg",
-      "name": "Roland Akhalaia",
-      "sort_name": "Roland Akhalaia",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%90%E1%83%AE%E1%83%90%E1%83%9A%E1%83%90%E1%83%98%E1%83%90_%E1%83%A0%E1%83%9D%E1%83%9A%E1%83%90%E1%83%9C%E1%83%93_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/80954079-7112-45e7-889a-aa038175b46f",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "area_id": "area/zugdidi",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "RKhalvashi@parliament.ge",
-      "gender": "male",
-      "id": "person/d44b2ba6-1d4c-4b6d-b8a2-070a3bd78e00",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%90%E1%83%9A%E1%83%95%E1%83%90%E1%83%A8%E1%83%98_%E1%83%A0%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B_jpg_200x168_q85.jpg",
-      "name": "Rostom Khalvashi",
-      "sort_name": "Rostom Khalvashi",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%90%E1%83%9A%E1%83%95%E1%83%90%E1%83%A8%E1%83%98_%E1%83%A0%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%9B_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d44b2ba6-1d4c-4b6d-b8a2-070a3bd78e00",
+          "person_id": "person/02820800-420d-4f29-91b7-72ae06e0d038",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/khelvachauri",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rarveladze@parliament.ge",
+      "id": "person/1fd777c1-f447-4353-bc2d-1de943cebc23",
+      "name": "Revaz Arveladze",
+      "sort_name": "Revaz Arveladze",
+      "memberships": [
+        {
+          "person_id": "person/1fd777c1-f447-4353-bc2d-1de943cebc23",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rgotsiridze@parliament.ge",
+      "id": "person/bc6f7fa9-1b80-4c43-9801-85c1ae063681",
+      "name": "Roman Gotsiridze",
+      "sort_name": "Roman Gotsiridze",
+      "memberships": [
+        {
+          "person_id": "person/bc6f7fa9-1b80-4c43-9801-85c1ae063681",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_united_national_movement",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rkakulia@parliament.ge",
+      "id": "person/2797f157-88ed-4d30-be84-fdd99d603d18",
+      "name": "Roman Kakulia",
+      "sort_name": "Roman Kakulia",
+      "memberships": [
+        {
+          "person_id": "person/2797f157-88ed-4d30-be84-fdd99d603d18",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rmuchiashvili@parliament.ge",
+      "id": "person/f13a9e60-20ae-4e77-8ad5-cd3b2f870161",
+      "name": "Roman Muchiashvili",
+      "sort_name": "Roman Muchiashvili",
+      "memberships": [
+        {
+          "person_id": "person/f13a9e60-20ae-4e77-8ad5-cd3b2f870161",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "faction_\"the_georgian_dream_-_social-democrats\"",
+          "area_id": "23",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b993e646-1b3e-4e0d-8684-f7a00f2078f3",
+      "name": "Ruslan Gajiev",
+      "sort_name": "Ruslan Gajiev",
+      "memberships": [
+        {
+          "person_id": "person/b993e646-1b3e-4e0d-8684-f7a00f2078f3",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream_-_conservatives",
+          "area_id": "35",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2923,7 +2505,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2931,25 +2514,18 @@
       ]
     },
     {
-      "email": "SPetrosiani@parliament.ge",
-      "gender": "male",
-      "id": "person/129139d9-de82-442e-b2a5-e53aeb6d2d02",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9E%E1%83%94%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%A1%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%A1%E1%83%90%E1%83%9B%E1%83%95%E1%83%94%E1%83%9A_jpg_200x168_q85.jpg",
-      "name": "Samvel Petrosiani",
-      "sort_name": "Samvel Petrosiani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9E%E1%83%94%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%A1%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%A1%E1%83%90%E1%83%9B%E1%83%95%E1%83%94%E1%83%9A_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "ssamadashvili@parliament.ge",
+      "id": "person/25d887ee-7a61-4df2-b92b-bfcb29e543cf",
+      "name": "Salome Samadashvili",
+      "sort_name": "Salome Samadashvili",
       "memberships": [
         {
-          "person_id": "person/129139d9-de82-442e-b2a5-e53aeb6d2d02",
+          "person_id": "person/25d887ee-7a61-4df2-b92b-bfcb29e543cf",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_united_national_movement",
-          "area_id": "area/akhalkalaki",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2957,25 +2533,75 @@
       ]
     },
     {
-      "email": "SKhabuliani@parliament.ge",
-      "gender": "male",
-      "id": "person/f429edda-3787-4589-8bc1-09e09587d051",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%90%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%A1%E1%83%94%E1%83%A0%E1%83%92%E1%83%9D_jpg_200x168_q85.jpg",
-      "name": "Sergo Khabuliani",
-      "sort_name": "Sergo Khabuliani",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%90%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%A1%E1%83%94%E1%83%A0%E1%83%92%E1%83%9D_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "szurabishvili@parliament.ge",
+      "id": "person/c455db5b-cec0-445e-a3bf-144fb88b69cb",
+      "name": "Salome Zourabichvili",
+      "sort_name": "Salome Zourabichvili",
       "memberships": [
         {
-          "person_id": "person/f429edda-3787-4589-8bc1-09e09587d051",
+          "person_id": "person/c455db5b-cec0-445e-a3bf-144fb88b69cb",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_non-party,_independent_majoritarians",
-          "area_id": "area/tsageri",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "unknown",
+          "area_id": "1",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "smanukiani@parliament.ge",
+      "id": "person/e52afe9f-b167-4c23-9914-04096a7c2330",
+      "name": "Samvel Manukian",
+      "sort_name": "Samvel Manukian",
+      "memberships": [
+        {
+          "person_id": "person/e52afe9f-b167-4c23-9914-04096a7c2330",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "georgian_dream_-_greens",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "smirzoevi@parliament.ge",
+      "id": "person/f371b5c4-ba63-47c5-973c-0d60bc6002cb",
+      "name": "Savalan Mirzoevi",
+      "sort_name": "Savalan Mirzoevi",
+      "memberships": [
+        {
+          "person_id": "person/f371b5c4-ba63-47c5-973c-0d60bc6002cb",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "faction_\"the_georgian_dream_-_social-democrats\"",
+          "area_id": "31",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "skapanadze@parliament.ge",
+      "id": "person/a6d94470-55f1-40e1-baf0-ac9b2f834992",
+      "name": "Sergi Kapanadze",
+      "sort_name": "Sergi Kapanadze",
+      "memberships": [
+        {
+          "person_id": "person/a6d94470-55f1-40e1-baf0-ac9b2f834992",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3005,8 +2631,9 @@
           "person_id": "person/45d41141-3d9a-4832-b4be-3c4b8ffbc13e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3030,47 +2657,13 @@
           "person_id": "person/efba708e-6ba8-46d5-8ab9-bc6b80f6486e",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_national_forum",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "52",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "email": "SShavgulidze@parliament.ge",
-      "gender": "male",
-      "id": "person/f7941694-8f92-4d10-94bc-56bd6f7fcbc1",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%90%E1%83%95%E1%83%92%E1%83%A3%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A8%E1%83%90%E1%83%9A%E1%83%95%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Shalva Shavgulidze",
-      "sort_name": "Shalva Shavgulidze",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SShavgulidze"
-        }
-      ],
-      "links": [
-        {
-          "url": "shalvashavgulidzeforvake",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%90%E1%83%95%E1%83%92%E1%83%A3%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A8%E1%83%90%E1%83%9A%E1%83%95%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f7941694-8f92-4d10-94bc-56bd6f7fcbc1",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "area_id": "area/vake",
-          "legislative_period_id": "term/8"
-        }
       ]
     },
     {
@@ -3091,8 +2684,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/krtsanisi",
-          "legislative_period_id": "term/8"
+          "area_id": "13",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3100,109 +2693,18 @@
       ]
     },
     {
-      "email": "ShMalashkhia@parliament.ge",
-      "gender": "male",
-      "id": "person/5ab30ae1-10cd-4b64-887c-a4b0c399a0ff",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%A8%E1%83%AE%E1%83%98%E1%83%90_%E1%83%A8%E1%83%9D%E1%83%97%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Shota Malashkhia",
-      "sort_name": "Shota Malashkhia",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%A8%E1%83%AE%E1%83%98%E1%83%90_%E1%83%A8%E1%83%9D%E1%83%97%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "shshalelashvili@parliament.ge",
+      "id": "person/e2d46c8f-ed1e-4709-864f-5015d7055671",
+      "name": "Shota Shalelashvili",
+      "sort_name": "Shota Shalelashvili",
       "memberships": [
         {
-          "person_id": "person/5ab30ae1-10cd-4b64-887c-a4b0c399a0ff",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/3e1b6566-acc9-4bde-924f-99560c160c68",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/1746kordzaia_jpg_200x168_q85.jpg",
-      "name": "Tamari Kordzaia",
-      "sort_name": "Tamari Kordzaia",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "TamarKordzaia"
-        }
-      ],
-      "links": [
-        {
-          "url": "TamarKordzaiaOfficial",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/1746kordzaia_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3e1b6566-acc9-4bde-924f-99560c160c68",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "area_id": "area/nadzaladevi",
-          "legislative_period_id": "term/8"
-        }
-      ]
-    },
-    {
-      "email": "TaJapharidze@parliament.ge",
-      "gender": "male",
-      "id": "person/eae0f633-504e-4541-919e-ec98d39e699e",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Tamaz Japaridze",
-      "sort_name": "Tamaz Japaridze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/eae0f633-504e-4541-919e-ec98d39e699e",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/oni",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "TKacheishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/cfd62771-61d7-422b-99a8-2ff997ad2b55",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A7%E1%83%90%E1%83%AD%E1%83%94%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Tamaz Kacheishvili",
-      "sort_name": "Tamaz Kacheishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A7%E1%83%90%E1%83%AD%E1%83%94%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cfd62771-61d7-422b-99a8-2ff997ad2b55",
+          "person_id": "person/e2d46c8f-ed1e-4709-864f-5015d7055671",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3210,24 +2712,37 @@
       ]
     },
     {
-      "email": "TMechiauri@parliament.ge",
-      "gender": "male",
-      "id": "person/3406aafb-188f-476c-a8fa-408339fd0a76",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%AD%E1%83%98%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Tamazi Mechiauri",
-      "sort_name": "Tamazi Mechiauri",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%AD%E1%83%98%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "snozadze@parliament.ge",
+      "id": "person/68dd826f-edee-4a72-8cb3-b4808787e484",
+      "name": "Simon Nozadze",
+      "sort_name": "Simon Nozadze",
       "memberships": [
         {
-          "person_id": "person/3406aafb-188f-476c-a8fa-408339fd0a76",
+          "person_id": "person/68dd826f-edee-4a72-8cb3-b4808787e484",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
+          "area_id": "43",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "skatsarava@parliament.ge",
+      "id": "person/35e6b4fd-f124-403e-a9e7-960275118b6a",
+      "name": "Sofio Katsarava",
+      "sort_name": "Sofio Katsarava",
+      "memberships": [
+        {
+          "person_id": "person/35e6b4fd-f124-403e-a9e7-960275118b6a",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3235,81 +2750,17 @@
       ]
     },
     {
-      "email": "TShioshvili@parliament.ge",
-      "gender": "male",
-      "id": "person/db116ab9-5660-49fb-abd2-6b9eab475f0d",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%98%E1%83%9D%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Tamazi Shioshvili",
-      "sort_name": "Tamazi Shioshvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A8%E1%83%98%E1%83%9D%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%97%E1%83%90%E1%83%9B%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "skiladze@parliament.ge",
+      "id": "person/eb5b0320-8c6f-40ab-b0f1-1c5e5c334382",
+      "name": "Sopio Kiladze",
+      "sort_name": "Sopio Kiladze",
       "memberships": [
         {
-          "person_id": "person/db116ab9-5660-49fb-abd2-6b9eab475f0d",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "TLondaridze@parliament.ge",
-      "gender": "male",
-      "id": "person/29745594-3504-4e21-99d1-c1d0589e3f73",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%9D%E1%83%9C%E1%83%93%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A2%E1%83%90%E1%83%A0%E1%83%98%E1%83%94%E1%83%9A_jpg_200x168_q85.jpg",
-      "name": "Tariel Londaridze",
-      "sort_name": "Tariel Londaridze",
-      "links": [
-        {
-          "url": "londaridzetariel",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%9D%E1%83%9C%E1%83%93%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%A2%E1%83%90%E1%83%A0%E1%83%98%E1%83%94%E1%83%9A_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/29745594-3504-4e21-99d1-c1d0589e3f73",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_regions",
-          "area_id": "area/aspindza",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "TeJapharidze@parliament.ge",
-      "gender": "male",
-      "id": "person/cdfbf5d1-9cad-49ba-819b-f46268339abe",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%93%E1%83%9D_jpg_200x168_q85.jpg",
-      "name": "Tedo Japaridze",
-      "sort_name": "Tedo Japaridze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%93%E1%83%9D_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cdfbf5d1-9cad-49ba-819b-f46268339abe",
+          "person_id": "person/eb5b0320-8c6f-40ab-b0f1-1c5e5c334382",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3317,25 +2768,93 @@
       ]
     },
     {
-      "email": "TChkhaidze@parliament.ge",
-      "gender": "male",
-      "id": "person/8f817b65-7ae9-4ac4-b255-9c1488d03c5e",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%AE%E1%83%90%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%98%E1%83%9B%E1%83%A3%E1%83%A0%E1%83%90%E1%83%96_jpg_200x168_q85.jpg",
-      "name": "Teimuraz Chkhaidze",
-      "sort_name": "Teimuraz Chkhaidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%AE%E1%83%90%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%98%E1%83%9B%E1%83%A3%E1%83%A0%E1%83%90%E1%83%96_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "smakhatadze@parliament.ge",
+      "id": "person/e6880b37-fa21-4f0a-a529-5bdc27659797",
+      "name": "Sulkhan Makhatadze",
+      "sort_name": "Sulkhan Makhatadze",
       "memberships": [
         {
-          "person_id": "person/8f817b65-7ae9-4ac4-b255-9c1488d03c5e",
+          "person_id": "person/e6880b37-fa21-4f0a-a529-5bdc27659797",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "faction_\"the_georgian_dream_-_social-democrats\"",
+          "area_id": "56",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "skudba@parliament.ge",
+      "id": "person/f43412f9-7c1e-468f-935e-b463ee55fcca",
+      "name": "Svetlana Kudba",
+      "sort_name": "Svetlana Kudba",
+      "memberships": [
+        {
+          "person_id": "person/f43412f9-7c1e-468f-935e-b463ee55fcca",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/lanchkhuti",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tkhulordava@parliament.ge",
+      "id": "person/08dd2709-84fc-4c28-86e3-bd46d02a3451",
+      "name": "Tamar Khulordava",
+      "sort_name": "Tamar Khulordava",
+      "memberships": [
+        {
+          "person_id": "person/08dd2709-84fc-4c28-86e3-bd46d02a3451",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tchugoshvili@parliament.ge",
+      "id": "person/a3454418-bc01-43ec-84b7-62b73dd4ebf1",
+      "name": "Tamari Chugoshvili",
+      "sort_name": "Tamari Chugoshvili",
+      "memberships": [
+        {
+          "person_id": "person/a3454418-bc01-43ec-84b7-62b73dd4ebf1",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tnaveriani@parliament.ge",
+      "id": "person/2af71bad-1624-463e-b243-b2932a85b3c2",
+      "name": "Tamaz Naveriani",
+      "sort_name": "Tamaz Naveriani",
+      "memberships": [
+        {
+          "person_id": "person/2af71bad-1624-463e-b243-b2932a85b3c2",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "36",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3360,8 +2879,7 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/chokhatauri",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3369,23 +2887,18 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/649d0278-f051-4e08-8453-75e2ef4e8043",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/4507_1_jpg_200x168_q85.jpg",
-      "name": "Teimuraz Nergadze",
-      "sort_name": "Teimuraz Nergadze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/4507_1_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "tkokhreidze@parliament.ge",
+      "id": "person/0a661b74-db4c-4351-bfd7-897204cc3f91",
+      "name": "Teimuraz Kokhreidze",
+      "sort_name": "Teimuraz Kokhreidze",
       "memberships": [
         {
-          "person_id": "person/649d0278-f051-4e08-8453-75e2ef4e8043",
+          "person_id": "person/0a661b74-db4c-4351-bfd7-897204cc3f91",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3393,24 +2906,18 @@
       ]
     },
     {
-      "email": "TMaisuradze@parliament.ge",
-      "gender": "male",
-      "id": "person/13ef8946-784a-49c3-92f5-d90cb2e6180f",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%98%E1%83%A1%E1%83%A3%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%9B%E1%83%A3%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Temuri Maisuradze",
-      "sort_name": "Temuri Maisuradze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%98%E1%83%A1%E1%83%A3%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%9B%E1%83%A3%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "tgunava@parliament.ge",
+      "id": "person/98e2b87b-87f7-4220-a060-e447ee5920a6",
+      "name": "Tengiz Gunava",
+      "sort_name": "Tengiz Gunava",
       "memberships": [
         {
-          "person_id": "person/13ef8946-784a-49c3-92f5-d90cb2e6180f",
+          "person_id": "person/98e2b87b-87f7-4220-a060-e447ee5920a6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_national_forum",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "movement_for_liberty_-_european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3434,8 +2941,9 @@
           "person_id": "person/041be1e1-ec6f-4d8b-bcec-690b9209aa5d",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
+          "area_id": "42",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3460,7 +2968,7 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3468,77 +2976,18 @@
       ]
     },
     {
-      "email": "VKhmaladze@parliament.ge",
-      "gender": "male",
-      "id": "person/01927cfd-fb33-41ba-bcef-ec8ee7601e48",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%95%E1%83%90%E1%83%AE%E1%83%A2%E1%83%90%E1%83%9C%E1%83%92_jpg_200x168_q85.jpg",
-      "name": "Vakhtang Khmaladze",
-      "sort_name": "Vakhtang Khmaladze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%95%E1%83%90%E1%83%AE%E1%83%A2%E1%83%90%E1%83%9C%E1%83%92_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "tszurabiani@parliament.ge",
+      "id": "person/53418d1a-74d4-4c52-a13a-2d376d785de9",
+      "name": "Tsotne Zurabiani",
+      "sort_name": "Tsotne Zurabiani",
       "memberships": [
         {
-          "person_id": "person/01927cfd-fb33-41ba-bcef-ec8ee7601e48",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_republicans",
-          "area_id": "area/didube",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "VLemonjava@parliament.ge",
-      "gender": "male",
-      "id": "person/79e69ae6-9377-4da0-b7a8-5360569811cd",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%94%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%AF%E1%83%90%E1%83%95%E1%83%90_%E1%83%95%E1%83%90%E1%83%AE%E1%83%A2%E1%83%90%E1%83%9C%E1%83%92_jpg_200x168_q85.jpg",
-      "name": "Vakhtang Lemonjava",
-      "sort_name": "Vakhtang Lemonjava",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9A%E1%83%94%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%AF%E1%83%90%E1%83%95%E1%83%90_%E1%83%95%E1%83%90%E1%83%AE%E1%83%A2%E1%83%90%E1%83%9C%E1%83%92_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/79e69ae6-9377-4da0-b7a8-5360569811cd",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_regions",
-          "area_id": "area/chkhorotsku",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "VGelashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/4bb834f2-0056-48a6-8100-8a379a8540a2",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%94%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%95%E1%83%90%E1%83%9A%E1%83%94%E1%83%A0%E1%83%98_jpg_200x168_q85.jpg",
-      "name": "Valeri Gelashvili",
-      "sort_name": "Valeri Gelashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%92%E1%83%94%E1%83%9A%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%95%E1%83%90%E1%83%9A%E1%83%94%E1%83%A0%E1%83%98_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4bb834f2-0056-48a6-8100-8a379a8540a2",
+          "person_id": "person/53418d1a-74d4-4c52-a13a-2d376d785de9",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/khashuri",
-          "legislative_period_id": "term/8"
+          "area_id": "57",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3546,50 +2995,18 @@
       ]
     },
     {
-      "email": "VChitashvili@parliament.ge",
-      "gender": "male",
-      "id": "person/a5ab207c-630b-43f6-9bd7-0caee7ea3680",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%98%E1%83%A2%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%95%E1%83%90%E1%83%9F%E1%83%90_jpg_200x168_q85.jpg",
-      "name": "Vazha Chitashvili",
-      "sort_name": "Vazha Chitashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%98%E1%83%A2%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%95%E1%83%90%E1%83%9F%E1%83%90_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "vzardiashvili@parliament.ge",
+      "id": "person/b61918c9-e9cd-4282-90d6-776ee1b79e4b",
+      "name": "Vano Zardiashvili",
+      "sort_name": "Vano Zardiashvili",
       "memberships": [
         {
-          "person_id": "person/a5ab207c-630b-43f6-9bd7-0caee7ea3680",
+          "person_id": "person/b61918c9-e9cd-4282-90d6-776ee1b79e4b",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_regions",
-          "area_id": "area/akhaltsikhe",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "VDolidze@parliament.ge",
-      "gender": "male",
-      "id": "person/0ed2b698-4d0c-4071-887f-bb8046040345",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%9D%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%95%E1%83%98%E1%83%A5%E1%83%A2%E1%83%9D%E1%83%A0_jpg_200x168_q85.jpg",
-      "name": "Viqtor Dolidze",
-      "sort_name": "Viqtor Dolidze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%93%E1%83%9D%E1%83%9A%E1%83%98%E1%83%AB%E1%83%94_%E1%83%95%E1%83%98%E1%83%A5%E1%83%A2%E1%83%9D%E1%83%A0_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0ed2b698-4d0c-4071-887f-bb8046040345",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3614,8 +3031,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/mestia",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3646,8 +3063,27 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/tianeti",
-          "legislative_period_id": "term/8"
+          "area_id": "38",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "zgabunia@parliament.ge",
+      "id": "person/6c6fc2c1-c841-4e8a-92a4-9ad854e36d42",
+      "name": "Zaza Gabunia",
+      "sort_name": "Zaza Gabunia",
+      "memberships": [
+        {
+          "person_id": "person/6c6fc2c1-c841-4e8a-92a4-9ad854e36d42",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "georgian_dream_-_greens",
+          "area_id": "19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3670,9 +3106,28 @@
           "person_id": "person/104fdf0b-ba80-4dce-88b2-9ae75a7bcc00",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_majoritarians",
-          "area_id": "area/dedoflistskaro",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "european_georgia",
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "zkhutsishvili@parliament.ge",
+      "id": "person/af709ed6-80be-4471-bb20-05dc2040bd9d",
+      "name": "Zaza Khutsishvili",
+      "sort_name": "Zaza Khutsishvili",
+      "memberships": [
+        {
+          "person_id": "person/af709ed6-80be-4471-bb20-05dc2040bd9d",
+          "organization_id": "chamber/parliament_of_georgia",
+          "role": "member",
+          "on_behalf_of_id": "the_georgian_dream",
+          "area_id": "3",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3697,8 +3152,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/mtatsminda",
-          "legislative_period_id": "term/8"
+          "area_id": "15",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3706,168 +3161,17 @@
       ]
     },
     {
-      "email": "ZAbashidze@parliament.ge",
-      "gender": "male",
-      "id": "person/2fef5be2-2f31-42f7-b75c-d5119ea87829",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%90%E1%83%91%E1%83%90%E1%83%A8%E1%83%98%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Zurab Abashidze",
-      "sort_name": "Zurab Abashidze",
-      "links": [
-        {
-          "url": "Zurab-Abashidze-Official-Page-351100884985888",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%90%E1%83%91%E1%83%90%E1%83%A8%E1%83%98%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
+      "email": "zchiaberashvili@parliament.ge",
+      "id": "person/0e399b61-4cbf-46e2-ac26-7c489fdf1af6",
+      "name": "Zurab Chiaberashvili",
+      "sort_name": "Zurab Chiaberashvili",
       "memberships": [
         {
-          "person_id": "person/2fef5be2-2f31-42f7-b75c-d5119ea87829",
+          "person_id": "person/0e399b61-4cbf-46e2-ac26-7c489fdf1af6",
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
-          "on_behalf_of_id": "free_democrats",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ZChilingarishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/903553e0-1b0d-406d-ba9d-72b0098be908",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%98%E1%83%9A%E1%83%98%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Zurab Chilingarashvili",
-      "sort_name": "Zurab Chilingarashvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A9%E1%83%98%E1%83%9A%E1%83%98%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/903553e0-1b0d-406d-ba9d-72b0098be908",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement_-_regions",
-          "area_id": "area/adigeni",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ZJapharidze@parliament.ge",
-      "gender": "male",
-      "id": "person/2756d591-eeab-47eb-ac6b-a2d183585c06",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Zurab Japaridze",
-      "sort_name": "Zurab Japaridze",
-      "links": [
-        {
-          "url": "japaridzez",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2756d591-eeab-47eb-ac6b-a2d183585c06",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "out_of_faction",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ZMelikishvili@parliament.ge",
-      "gender": "male",
-      "id": "person/2987eeea-07e3-45e6-a964-7d40e7469fbd",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%9A%E1%83%98%E1%83%A5%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Zurab Meliqishvili",
-      "sort_name": "Zurab Meliqishvili",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%94%E1%83%9A%E1%83%98%E1%83%A5%E1%83%98%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2987eeea-07e3-45e6-a964-7d40e7469fbd",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_united_national_movement",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ZTkemaladze@parliament.ge",
-      "gender": "male",
-      "id": "person/599380f1-1928-4a4c-98fd-cc1d0d97bc24",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A2%E1%83%A7%E1%83%94%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Zurab Tkemaladze",
-      "sort_name": "Zurab Tkemaladze",
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%A2%E1%83%A7%E1%83%94%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/599380f1-1928-4a4c-98fd-cc1d0d97bc24",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream_-_entrepreneurs",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ZZviadauri@parliament.ge",
-      "gender": "male",
-      "id": "person/01436104-028f-4718-adf1-3333906aec33",
-      "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%96%E1%83%95%E1%83%98%E1%83%90%E1%83%93%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
-      "name": "Zurabi Zviadauri",
-      "sort_name": "Zurabi Zviadauri",
-      "links": [
-        {
-          "url": "%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91-%E1%83%96%E1%83%95%E1%83%98%E1%83%90%E1%83%93%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98-Zurab-Zviadauri-431712350242373",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%96%E1%83%95%E1%83%98%E1%83%90%E1%83%93%E1%83%90%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/01436104-028f-4718-adf1-3333906aec33",
-          "organization_id": "chamber/parliament_of_georgia",
-          "role": "member",
-          "on_behalf_of_id": "the_georgian_dream",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3892,8 +3196,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream",
-          "area_id": "area/ozurgeti",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3918,7 +3222,8 @@
           "organization_id": "chamber/parliament_of_georgia",
           "role": "member",
           "on_behalf_of_id": "the_georgian_dream_-_conservatives",
-          "legislative_period_id": "term/8"
+          "area_id": "area/party_list",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
