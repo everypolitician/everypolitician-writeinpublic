@@ -1,7 +1,7 @@
 {
-  "total": 172,
+  "total": 151,
   "page": 1,
-  "per_page": 172,
+  "per_page": 151,
   "has_more": false,
   "result": [
     {
@@ -22,8 +22,8 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/1st",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "start_date": "2017-03-10",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -46,9 +46,33 @@
           "person_id": "person/e09352ec-d388-43bd-a136-37f63e8b7072",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
+          "on_behalf_of_id": "unknown",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ff999b7d-369a-471c-b742-dd5fbe92b5e5",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47093&sp=170x219",
+      "name": "Ana-Marija Petin",
+      "sort_name": "Ana-Marija Petin",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47093&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ff999b7d-369a-471c-b742-dd5fbe92b5e5",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hss",
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -73,7 +97,31 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b98fd603-cf71-4b9b-8a98-42f4bff11c0c",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47057&sp=170x219",
+      "name": "Andro Krstulović Opara",
+      "sort_name": "Andro Krstulović Opara",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47057&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b98fd603-cf71-4b9b-8a98-42f4bff11c0c",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/10th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -98,7 +146,7 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -123,7 +171,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -131,50 +179,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/d9a604c3-f35b-48b5-931f-ea01b5b7bc1d",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44503",
-      "name": "Ante Župan",
-      "sort_name": "Ante Župan",
+      "id": "person/190eb5a1-12c8-494b-87da-a449df734a63",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47149&sp=170x219",
+      "name": "Anton Kliman",
+      "sort_name": "Anton Kliman",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44503"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47149&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d9a604c3-f35b-48b5-931f-ea01b5b7bc1d",
+          "person_id": "person/190eb5a1-12c8-494b-87da-a449df734a63",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/9th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a4836d20-5b09-40f7-8df6-5021fada7fb5",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44574",
-      "name": "Antun Vidaković",
-      "sort_name": "Antun Vidaković",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44574"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a4836d20-5b09-40f7-8df6-5021fada7fb5",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/8th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -199,7 +220,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -224,7 +245,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -232,25 +253,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/1fd919fe-d39b-4f0a-826e-3e7de5a7b140",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44434",
-      "name": "Biljana Gaća",
-      "sort_name": "Biljana Gaća",
+      "id": "person/90501406-222f-47f2-b0be-60798f15285c",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47122&sp=170x219",
+      "name": "Bernarda Topolko",
+      "sort_name": "Bernarda Topolko",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44434"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47122&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1fd919fe-d39b-4f0a-826e-3e7de5a7b140",
+          "person_id": "person/90501406-222f-47f2-b0be-60798f15285c",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/5th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hns",
+          "area_id": "area/3rd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -275,7 +294,32 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/21b549c1-3482-40cd-9b87-f273e9c2859f",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47025&sp=170x219",
+      "name": "Bojan Glavašević",
+      "sort_name": "Bojan Glavašević",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47025&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/21b549c1-3482-40cd-9b87-f273e9c2859f",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -299,8 +343,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "sdp",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/10th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -325,7 +369,31 @@
           "role": "member",
           "on_behalf_of_id": "ids",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cb86ff53-9453-4e3a-b6bd-8e408f345650",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47080&sp=170x219",
+      "name": "Boris Milošević",
+      "sort_name": "Boris Milošević",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47080&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cb86ff53-9453-4e3a-b6bd-8e408f345650",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdss",
+          "area_id": "area/12th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -350,32 +418,7 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/136c9198-bf2e-4a63-be36-9ba3866d4175",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Božidar_Kalmeta.jpg",
-      "name": "Božidar Kalmeta",
-      "sort_name": "Božidar Kalmeta",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Božidar_Kalmeta.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/136c9198-bf2e-4a63-be36-9ba3866d4175",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -400,7 +443,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/11th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -408,24 +451,66 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/21d53d0f-b633-406f-9272-7b47b9106335",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44550",
-      "name": "Branimir Glavaš",
-      "sort_name": "Branimir Glavaš",
+      "id": "person/2cbde03a-2e35-4fa1-a866-023e41b2d14c",
+      "name": "Božo Petrov",
+      "sort_name": "Božo Petrov",
+      "memberships": [
+        {
+          "person_id": "person/2cbde03a-2e35-4fa1-a866-023e41b2d14c",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "most",
+          "area_id": "area/10th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e9d5bf59-d0ba-4b96-8ac1-dd221058a7b4",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47008&sp=170x219",
+      "name": "Branimir Bunjac",
+      "sort_name": "Branimir Bunjac",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44550"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47008&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/21d53d0f-b633-406f-9272-7b47b9106335",
+          "person_id": "person/e9d5bf59-d0ba-4b96-8ac1-dd221058a7b4",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hdssb",
-          "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "human_blockade",
+          "area_id": "area/3rd",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/f90d3094-051a-44d6-a0e3-d1f809c5522e",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19575",
+      "name": "Branka Juričev-Martinčev",
+      "sort_name": "Branka Juričev-Martinčev",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19575"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f90d3094-051a-44d6-a0e3-d1f809c5522e",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/9th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -450,7 +535,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -475,7 +560,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -498,9 +583,33 @@
           "person_id": "person/91f5a54c-8ac6-4772-a561-4634e2b27ac2",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "hds",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/bf113281-c34e-4960-91d3-e939447647f9",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47020&sp=170x219",
+      "name": "Bruna Esih",
+      "sort_name": "Bruna Esih",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47020&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bf113281-c34e-4960-91d3-e939447647f9",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/1st",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -525,32 +634,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/be03770b-0754-499e-8e46-f4e7b967a9b2",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44456",
-      "name": "Damir Krstičević",
-      "sort_name": "Damir Krstičević",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44456"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/be03770b-0754-499e-8e46-f4e7b967a9b2",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -575,33 +659,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/7th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d5b5d660-c8ed-4a2b-80c8-ee3c2db07935",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19626",
-      "name": "Damir Rimac",
-      "sort_name": "Damir Rimac",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19626"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d5b5d660-c8ed-4a2b-80c8-ee3c2db07935",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/5th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -626,7 +684,31 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/58a86cc2-925d-4b84-ad54-2448ed11fe48",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47019&sp=170x217",
+      "name": "Darinko Dumbović",
+      "sort_name": "Darinko Dumbović",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47019&sp=170x217"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/58a86cc2-925d-4b84-ad54-2448ed11fe48",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "reformists",
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -651,7 +733,7 @@
           "role": "member",
           "on_behalf_of_id": "hsls",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -659,24 +741,17 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/92ba7300-47ab-483b-a827-1fd6491373e8",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44439",
-      "name": "Dario Hrebak",
-      "sort_name": "Dario Hrebak",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44439"
-        }
-      ],
+      "id": "person/2d69d106-cecd-43a1-b2ca-e66864e6e3ac",
+      "name": "Darko Horvat",
+      "sort_name": "Darko Horvat",
       "memberships": [
         {
-          "person_id": "person/92ba7300-47ab-483b-a827-1fd6491373e8",
+          "person_id": "person/2d69d106-cecd-43a1-b2ca-e66864e6e3ac",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hsls",
-          "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/3rd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -707,7 +782,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ]
     },
@@ -729,7 +804,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -760,8 +835,32 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
+      ]
+    },
+    {
+      "id": "person/cf8d8a3e-3cfc-44cb-ba14-7d510a3cf0af",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47062&sp=170x219",
+      "name": "Davor Lončar",
+      "sort_name": "Davor Lončar",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47062&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cf8d8a3e-3cfc-44cb-ba14-7d510a3cf0af",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/9th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -782,8 +881,8 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/5th",
-          "end_date": "2016-02-05",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-10-20",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -791,24 +890,24 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/6dfc6185-c076-4cb7-aecb-eecb8b7fcce8",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44474",
-      "name": "Davor Penić",
-      "sort_name": "Davor Penić",
+      "id": "person/84f1ac18-1286-4c66-857d-1593823421de",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47104&sp=170x219",
+      "name": "Davor Romić",
+      "sort_name": "Davor Romić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44474"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47104&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6dfc6185-c076-4cb7-aecb-eecb8b7fcce8",
+          "person_id": "person/84f1ac18-1286-4c66-857d-1593823421de",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "most",
+          "area_id": "area/1st",
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -833,33 +932,7 @@
           "role": "member",
           "on_behalf_of_id": "hss",
           "area_id": "area/5th",
-          "start_date": "2016-02-05",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e9d1410b-ed75-4735-92f8-75d94ca95639",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19812",
-      "name": "Davorin Mlakar",
-      "sort_name": "Davorin Mlakar",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19812"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e9d1410b-ed75-4735-92f8-75d94ca95639",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -890,7 +963,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ]
     },
@@ -918,29 +991,29 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/7th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ]
     },
     {
-      "gender": "female",
-      "id": "person/b67335d6-815e-43b8-9b24-03ce03479ed2",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19659",
-      "name": "Dragica Zgrebec",
-      "sort_name": "Dragica Zgrebec",
+      "id": "person/ee849d5b-8803-4f4f-a464-747273abbe62",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47106&sp=170x219",
+      "name": "Dragica Roščić",
+      "sort_name": "Dragica Roščić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19659"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47106&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b67335d6-815e-43b8-9b24-03ce03479ed2",
+          "person_id": "person/ee849d5b-8803-4f4f-a464-747273abbe62",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/10th",
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -969,9 +1042,9 @@
           "person_id": "person/7f60210c-de57-435c-9807-ed39f367e051",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hrid",
-          "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ]
     },
@@ -997,9 +1070,9 @@
           "person_id": "person/f88c6fd3-9898-4836-a6d3-035742eaa6f8",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "unknown",
+          "on_behalf_of_id": "hdz",
           "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ]
     },
@@ -1021,33 +1094,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/6th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5ced573c-6f5d-4008-b7d4-132397518225",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46312",
-      "name": "Dražen Pros",
-      "sort_name": "Dražen Pros",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46312"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5ced573c-6f5d-4008-b7d4-132397518225",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/2nd",
-          "start_date": "2016-06-03",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1072,7 +1119,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/12th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1097,7 +1144,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1122,7 +1169,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1145,9 +1192,9 @@
           "person_id": "person/6378d3dd-3605-47b3-be49-0f76f81a83d3",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "nz",
+          "on_behalf_of_id": "independent",
           "area_id": "area/12th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1172,7 +1219,31 @@
           "role": "member",
           "on_behalf_of_id": "ids",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8f10f088-dac5-4406-a239-ce72981c723b",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46987&sp=170x219",
+      "name": "Goran Aleksić",
+      "sort_name": "Goran Aleksić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46987&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8f10f088-dac5-4406-a239-ce72981c723b",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "snaga",
+          "area_id": "area/1st",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1197,7 +1268,7 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1222,32 +1293,7 @@
           "role": "member",
           "on_behalf_of_id": "hds",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0a1bb041-4048-4561-9eea-a5480862f6d8",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=24351",
-      "name": "Goran Marić",
-      "sort_name": "Goran Marić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=24351"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0a1bb041-4048-4561-9eea-a5480862f6d8",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1271,8 +1317,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/1st",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1303,29 +1349,28 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ]
     },
     {
-      "gender": "female",
-      "id": "person/3ef4bf9e-6bb4-437e-b824-74906f6d61d7",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44483",
-      "name": "Gordana Rusak",
-      "sort_name": "Gordana Rusak",
+      "id": "person/c8f5b400-d889-4162-a49d-e37ae542dc20",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47091&sp=170x219",
+      "name": "Grozdana Perić",
+      "sort_name": "Grozdana Perić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44483"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47091&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3ef4bf9e-6bb4-437e-b824-74906f6d61d7",
+          "person_id": "person/c8f5b400-d889-4162-a49d-e37ae542dc20",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/9th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1333,24 +1378,47 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/e7c0f78d-352a-45cd-9e55-e673d0ea8dee",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19635",
-      "name": "Gordana Sobol",
-      "sort_name": "Gordana Sobol",
+      "id": "person/939fe874-8a84-458c-8ba6-85ecd3a71f74",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47107&sp=170x219",
+      "name": "Hrvoje Runtić",
+      "sort_name": "Hrvoje Runtić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19635"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47107&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e7c0f78d-352a-45cd-9e55-e673d0ea8dee",
+          "person_id": "person/939fe874-8a84-458c-8ba6-85ecd3a71f74",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "most",
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ecdaf217-db9e-4bd9-aeec-f78136ae8162",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47136&sp=170x219",
+      "name": "Hrvoje Zekanović",
+      "sort_name": "Hrvoje Zekanović",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47136&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ecdaf217-db9e-4bd9-aeec-f78136ae8162",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hrast",
+          "area_id": "area/9th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1375,33 +1443,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d569b241-c88f-498c-a0c7-405328cffa88",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19585",
-      "name": "Igor Kolman",
-      "sort_name": "Igor Kolman",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19585"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d569b241-c88f-498c-a0c7-405328cffa88",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hns",
-          "area_id": "area/1st",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1426,32 +1468,7 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/74c2131c-72bf-4482-975b-b52240c300d1",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19522",
-      "name": "Ingrid Antičević Marinović",
-      "sort_name": "Ingrid Antičević Marinović",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19522"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/74c2131c-72bf-4482-975b-b52240c300d1",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1474,9 +1491,9 @@
           "person_id": "person/ab78b46d-38e6-453c-865c-bf138988dd3d",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hrid",
-          "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1501,7 +1518,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1524,9 +1541,9 @@
           "person_id": "person/87a58316-263a-40a2-a373-7b142d3b2d0e",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hsp_as",
+          "on_behalf_of_id": "hdz",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1551,32 +1568,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/528d6e2d-37d2-4dcd-8c2e-724d8b7e2013",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44452",
-      "name": "Ivan Kovačić",
-      "sort_name": "Ivan Kovačić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44452"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/528d6e2d-37d2-4dcd-8c2e-724d8b7e2013",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "most",
-          "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1601,7 +1593,7 @@
           "role": "member",
           "on_behalf_of_id": "ph",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1609,24 +1601,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/14f619c4-2140-4307-8de2-b51ebb5a1677",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44480",
-      "name": "Ivan Radić",
-      "sort_name": "Ivan Radić",
+      "id": "person/0a42fc71-537d-4157-a570-0c1f0945aa2d",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47092&sp=170x219",
+      "name": "Ivan Pernar",
+      "sort_name": "Ivan Pernar",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44480"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47092&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/14f619c4-2140-4307-8de2-b51ebb5a1677",
+          "person_id": "person/0a42fc71-537d-4157-a570-0c1f0945aa2d",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "human_blockade",
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1649,34 +1640,9 @@
           "person_id": "person/857c84ff-3bae-40b3-8c8a-f8466992e6ca",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "human_shield",
+          "on_behalf_of_id": "human_blockade",
           "area_id": "area/7th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5704e087-bc66-4d50-a54f-9d971903bb4a",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44495",
-      "name": "Ivan Tepeš",
-      "sort_name": "Ivan Tepeš",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44495"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5704e087-bc66-4d50-a54f-9d971903bb4a",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hsp_as",
-          "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1707,8 +1673,33 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
+      ]
+    },
+    {
+      "id": "person/36e41ebe-894f-4267-8734-2e3b51fca446",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47010&sp=170x219",
+      "name": "Ivan Ćelić",
+      "sort_name": "Ivan Ćelić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47010&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36e41ebe-894f-4267-8734-2e3b51fca446",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/7th",
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1729,7 +1720,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1737,24 +1728,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e4fc5801-e7ae-4db3-8c7c-5576aa4deaae",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19644",
-      "name": "Ivan Šuker",
-      "sort_name": "Ivan Šuker",
+      "id": "person/a1b16198-9973-48a7-8fdb-0e3b9c43d5b7",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47086&sp=170x219",
+      "name": "Ivana Ninčević-Lesandrić",
+      "sort_name": "Ivana Ninčević-Lesandrić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19644"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47086&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e4fc5801-e7ae-4db3-8c7c-5576aa4deaae",
+          "person_id": "person/a1b16198-9973-48a7-8fdb-0e3b9c43d5b7",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/11th",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "most",
+          "area_id": "area/10th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1779,57 +1769,7 @@
           "role": "member",
           "on_behalf_of_id": "ph",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5df9ac41-c5a5-48f5-8c2e-1ab5c5e1b474",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19574",
-      "name": "Ivo Jelušić",
-      "sort_name": "Ivo Jelušić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19574"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5df9ac41-c5a5-48f5-8c2e-1ab5c5e1b474",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d655186f-74ce-4979-8e55-4596720b17b9",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44473",
-      "name": "Jaroslav Pecnik",
-      "sort_name": "Jaroslav Pecnik",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44473"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d655186f-74ce-4979-8e55-4596720b17b9",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "labourists",
-          "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1853,58 +1793,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/7th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/ebbf13fd-c732-4fc2-aebe-36ce58c40fc0",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44561",
-      "name": "Jasna Matulić",
-      "sort_name": "Jasna Matulić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44561"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ebbf13fd-c732-4fc2-aebe-36ce58c40fc0",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "most",
           "area_id": "area/6th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/895dd8d8-60f2-4b83-bbc5-c50fd8dac24f",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44419",
-      "name": "Josip Bilaver",
-      "sort_name": "Josip Bilaver",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44419"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/895dd8d8-60f2-4b83-bbc5-c50fd8dac24f",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1929,33 +1819,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/8th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/6c8981b2-23a5-410d-8031-2b56211fd2eb",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44447",
-      "name": "Josip Katalinić",
-      "sort_name": "Josip Katalinić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44447"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6c8981b2-23a5-410d-8031-2b56211fd2eb",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "most",
-          "area_id": "area/7th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -1980,33 +1844,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/3rd",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f8558cb1-a75e-4f1d-9531-939901ce874e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19598",
-      "name": "Josip Leko",
-      "sort_name": "Josip Leko",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19598"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f8558cb1-a75e-4f1d-9531-939901ce874e",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2031,7 +1869,8 @@
           "role": "member",
           "on_behalf_of_id": "hdssb",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-11-04",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2056,32 +1895,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/3feddc12-f818-4886-bde0-b1564bcb1e86",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=43526",
-      "name": "Josipa Rimac",
-      "sort_name": "Josipa Rimac",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=43526"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3feddc12-f818-4886-bde0-b1564bcb1e86",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2106,7 +1920,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2114,24 +1928,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/fe532c97-0dff-4eec-bfb6-3d27bb988a19",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44465",
-      "name": "Juro Martinović",
-      "sort_name": "Juro Martinović",
+      "id": "person/bd0423c9-6782-471c-a469-e913efbc60e5",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47129&sp=170x219",
+      "name": "Kažimir Varda",
+      "sort_name": "Kažimir Varda",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44465"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47129&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fe532c97-0dff-4eec-bfb6-3d27bb988a19",
+          "person_id": "person/bd0423c9-6782-471c-a469-e913efbc60e5",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "ph",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "smsh",
+          "area_id": "area/2nd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2139,96 +1952,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/4872e36d-a0f1-4cd0-af31-d847639011c5",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=40160",
-      "name": "Karolina Leaković",
-      "sort_name": "Karolina Leaković",
+      "id": "person/c28ee55a-35d9-4688-bf4a-203137f956ff",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46999&sp=170x219",
+      "name": "Krešo Beljak",
+      "sort_name": "Krešo Beljak",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=40160"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46999&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4872e36d-a0f1-4cd0-af31-d847639011c5",
+          "person_id": "person/c28ee55a-35d9-4688-bf4a-203137f956ff",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/1st",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/9ae21a86-9a45-414f-8d96-70c1be0d2d4a",
-      "name": "Kristijan Rajšel",
-      "sort_name": "Kristijan Rajšel",
-      "memberships": [
-        {
-          "person_id": "person/9ae21a86-9a45-414f-8d96-70c1be0d2d4a",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
+          "on_behalf_of_id": "hss",
           "area_id": "area/7th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/6f5f40c5-8e2e-4a73-9351-939601e4af6e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44442",
-      "name": "Ladislav Ilčić",
-      "sort_name": "Ladislav Ilčić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44442"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6f5f40c5-8e2e-4a73-9351-939601e4af6e",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hrast",
-          "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/437f636d-96d1-4633-9797-c7fec05d8273",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44772",
-      "name": "Leon Žulj",
-      "sort_name": "Leon Žulj",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44772"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/437f636d-96d1-4633-9797-c7fec05d8273",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/4th",
-          "start_date": "2016-02-05",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2253,7 +1993,32 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/da7c42b6-9045-4b04-8514-0f4afafa9c12",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47066&sp=170x219",
+      "name": "Ljubica Lukačić",
+      "sort_name": "Ljubica Lukačić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47066&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/da7c42b6-9045-4b04-8514-0f4afafa9c12",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/1st",
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2278,7 +2043,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2286,25 +2051,24 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/48d15e46-6277-4fc8-8f97-55ff3054dd29",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44500",
-      "name": "Lucian Vukelić",
-      "sort_name": "Lucian Vukelić",
+      "id": "person/761a4ce7-a72e-47d2-b991-b59d27a14de3",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47009&sp=170x219",
+      "name": "Majda Burić",
+      "sort_name": "Majda Burić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44500"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47009&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/48d15e46-6277-4fc8-8f97-55ff3054dd29",
+          "person_id": "person/761a4ce7-a72e-47d2-b991-b59d27a14de3",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/8th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "area_id": "area/7th",
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2312,74 +2076,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/6ee895ad-bf1d-4d70-8589-a20d46d1c332",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44461",
-      "name": "Margareta Mađerić",
-      "sort_name": "Margareta Mađerić",
+      "id": "person/6564dbee-ad73-4ac5-ae42-67d1186114aa",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47039&sp=170x219",
+      "name": "Marija Jelkovac",
+      "sort_name": "Marija Jelkovac",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44461"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47039&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6ee895ad-bf1d-4d70-8589-a20d46d1c332",
+          "person_id": "person/6564dbee-ad73-4ac5-ae42-67d1186114aa",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/1st",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/3c8d12c6-6036-46c2-b74b-4fd2543009d4",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44421",
-      "name": "Marija Budimir",
-      "sort_name": "Marija Budimir",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44421"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3c8d12c6-6036-46c2-b74b-4fd2543009d4",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/5th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1ad49b61-e653-4ee9-8420-9d742382a01c",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=26347",
-      "name": "Marija Ilić",
-      "sort_name": "Marija Ilić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=26347"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1ad49b61-e653-4ee9-8420-9d742382a01c",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hsu",
-          "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/7th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2404,7 +2117,7 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2412,25 +2125,48 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/cf4ad39d-dc72-44ff-a024-ace16e41eecd",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44557",
-      "name": "Marijan Kustić",
-      "sort_name": "Marijan Kustić",
+      "id": "person/d47d7dcf-5d43-4f26-b500-2b20f4cd0e9f",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46992&sp=170x219",
+      "name": "Marijana Balić",
+      "sort_name": "Marijana Balić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44557"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46992&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/cf4ad39d-dc72-44ff-a024-ace16e41eecd",
+          "person_id": "person/d47d7dcf-5d43-4f26-b500-2b20f4cd0e9f",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/9th",
-          "start_date": "2016-02-05",
-          "legislative_period_id": "term/8"
+          "area_id": "area/5th",
+          "start_date": "2016-10-20",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5c69c12a-959a-4d61-bb09-5923f5ae9afe",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47115&sp=170x219",
+      "name": "Marin Škibola",
+      "sort_name": "Marin Škibola",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47115&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5c69c12a-959a-4d61-bb09-5923f5ae9afe",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/8th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2455,32 +2191,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d020dfd2-104f-4c46-a6f1-a67ad6ba8dbe",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44449",
-      "name": "Mario Klobučić",
-      "sort_name": "Mario Klobučić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44449"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d020dfd2-104f-4c46-a6f1-a67ad6ba8dbe",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "most",
-          "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2505,8 +2216,80 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/7th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-10-17",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2237e30e-5422-43a4-ac48-e5bed9af43c1",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47131&sp=170x219",
+      "name": "Marko Vešligaj",
+      "sort_name": "Marko Vešligaj",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47131&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2237e30e-5422-43a4-ac48-e5bed9af43c1",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/3rd",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/187edb3d-90b4-489b-8873-b10b268a74ba",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47134&sp=170x219",
+      "name": "Marko Vučetić",
+      "sort_name": "Marko Vučetić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47134&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/187edb3d-90b4-489b-8873-b10b268a74ba",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "most",
+          "area_id": "area/9th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a6dd1227-689e-4a8c-ac0b-b556e6f9a32e",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47111&sp=170x219",
+      "name": "Marko Šimić",
+      "sort_name": "Marko Šimić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47111&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a6dd1227-689e-4a8c-ac0b-b556e6f9a32e",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/5th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2531,8 +2314,8 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/10th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2540,25 +2323,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/bf6ab918-2709-40bd-a868-ef7066615c9e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19814",
-      "name": "Melita Mulić",
-      "sort_name": "Melita Mulić",
+      "id": "person/cd67c850-cad4-407a-aa80-f9c34951e5d0",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47065&sp=170x219",
+      "name": "Marta Luc-Polanc",
+      "sort_name": "Marta Luc-Polanc",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19814"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47065&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bf6ab918-2709-40bd-a868-ef7066615c9e",
+          "person_id": "person/cd67c850-cad4-407a-aa80-f9c34951e5d0",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "sdp",
-          "area_id": "area/1st",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "area_id": "area/5th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2566,25 +2347,48 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/54a21340-09bd-42d6-a38d-11f7327afaf8",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44485",
-      "name": "Melita Samoborec",
-      "sort_name": "Melita Samoborec",
+      "id": "person/b6fa49e6-1ddd-40f8-9964-375d634f5de9",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47022&sp=170x219",
+      "name": "Mato Franković",
+      "sort_name": "Mato Franković",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44485"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47022&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/54a21340-09bd-42d6-a38d-11f7327afaf8",
+          "person_id": "person/b6fa49e6-1ddd-40f8-9964-375d634f5de9",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hns",
-          "area_id": "area/2nd",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/10th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1767efd8-edf8-416e-9119-2e8d954c4659",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47012&sp=170x219",
+      "name": "Mato Čičak",
+      "sort_name": "Mato Čičak",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47012&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1767efd8-edf8-416e-9119-2e8d954c4659",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/6th",
+          "start_date": "2016-10-19",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2609,7 +2413,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/7th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2634,7 +2438,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/7th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2659,7 +2463,7 @@
           "role": "member",
           "on_behalf_of_id": "sdss",
           "area_id": "area/12th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2676,33 +2480,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/4th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/95c9a1c6-1ff6-4173-883b-180396d49cd7",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44490",
-      "name": "Milivoj Špika",
-      "sort_name": "Milivoj Špika",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44490"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/95c9a1c6-1ff6-4173-883b-180396d49cd7",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "buz",
-          "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/2nd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2727,7 +2506,7 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2758,32 +2537,7 @@
           "role": "member",
           "on_behalf_of_id": "sdss",
           "area_id": "area/12th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/fb9a5a43-fc26-4633-bc89-60d5124cc848",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44548",
-      "name": "Miodrag Demo",
-      "sort_name": "Miodrag Demo",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44548"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fb9a5a43-fc26-4633-bc89-60d5124cc848",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "bm_365",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2814,33 +2568,8 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/6th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2ed21ba4-ed94-4351-beb9-cc635ffc6e1e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44567",
-      "name": "Mirko Rašković",
-      "sort_name": "Mirko Rašković",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44567"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2ed21ba4-ed94-4351-beb9-cc635ffc6e1e",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/12th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2861,7 +2590,25 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/52a26069-c0ee-4ad9-bfae-785ef7dc4e8b",
+      "name": "Miro Kovač",
+      "sort_name": "Miro Kovač",
+      "memberships": [
+        {
+          "person_id": "person/52a26069-c0ee-4ad9-bfae-785ef7dc4e8b",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/9th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2886,8 +2633,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/2nd",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2911,8 +2657,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2937,7 +2683,7 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2945,25 +2691,47 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/d5de12d4-1c22-454a-9edf-e5f71e59a47a",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=26714",
-      "name": "Nada Murganić",
-      "sort_name": "Nada Murganić",
+      "id": "person/f529324b-51e5-4d7c-829e-02beb224603a",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47045&sp=170x219",
+      "name": "Mladen Karlić",
+      "sort_name": "Mladen Karlić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=26714"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47045&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d5de12d4-1c22-454a-9edf-e5f71e59a47a",
+          "person_id": "person/f529324b-51e5-4d7c-829e-02beb224603a",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/7th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "area_id": "area/5th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/64fa0917-aa2a-410b-a87e-5b8d862f4669",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47068&sp=170x219",
+      "name": "Mladen Mađer",
+      "sort_name": "Mladen Mađer",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47068&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/64fa0917-aa2a-410b-a87e-5b8d862f4669",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hss",
+          "area_id": "area/2nd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -2987,53 +2755,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hns",
-          "area_id": "area/7th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/85a67031-2cea-4755-bd19-7a9a17456629",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19646",
-      "name": "Nansi Tireli",
-      "sort_name": "Nansi Tireli",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19646"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/85a67031-2cea-4755-bd19-7a9a17456629",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "independent",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/25ce4e62-bb6c-48ea-b5c2-1761c873bea3",
-      "name": "Nenad Livun",
-      "sort_name": "Nenad Livun",
-      "memberships": [
-        {
-          "person_id": "person/25ce4e62-bb6c-48ea-b5c2-1761c873bea3",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/7th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3057,8 +2780,8 @@
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "sdp",
-          "area_id": "area/7th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3066,25 +2789,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/a47bf4ac-1f8b-4668-a70c-c100f131b9a1",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44475",
-      "name": "Nikša Peronja",
-      "sort_name": "Nikša Peronja",
+      "id": "person/d131a17f-2452-4670-bf04-8e2f6427b65f",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47028&sp=170x219",
+      "name": "Nikola Grmoja",
+      "sort_name": "Nikola Grmoja",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44475"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47028&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a47bf4ac-1f8b-4668-a70c-c100f131b9a1",
+          "person_id": "person/d131a17f-2452-4670-bf04-8e2f6427b65f",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/10th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "most",
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3109,32 +2830,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/9b4abd53-8e27-4a10-93b9-0c09fcc9f40a",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44425",
-      "name": "Pero Ćorić",
-      "sort_name": "Pero Ćorić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44425"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9b4abd53-8e27-4a10-93b9-0c09fcc9f40a",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hsp_as",
-          "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3159,7 +2855,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3184,7 +2880,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3209,7 +2905,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3234,64 +2930,11 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/56cd4a19-05c2-4e75-8f22-fc22664a2f0b",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44691",
-      "name": "Radimir Čačić",
-      "sort_name": "Radimir Čačić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44691"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/56cd4a19-05c2-4e75-8f22-fc22664a2f0b",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "reformists",
-          "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f5f8279b-350e-450c-adc5-f57cd54ab17d",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=40372",
-      "name": "Rajko Ostojić",
-      "sort_name": "Rajko Ostojić",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Rajko_Ostojic"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=40372"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f5f8279b-350e-450c-adc5-f57cd54ab17d",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
-        }
       ]
     },
     {
@@ -3312,7 +2955,31 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f1fd04b7-9361-4d45-b7bf-5109adca20b6",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47037&sp=170x219",
+      "name": "Robert Jankovics",
+      "sort_name": "Robert Jankovics",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47037&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f1fd04b7-9361-4d45-b7bf-5109adca20b6",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/12th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3337,7 +3004,7 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3346,24 +3013,23 @@
     },
     {
       "gender": "female",
-      "id": "person/edb87500-8ba7-49fe-ae0e-7d0557849c68",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44501",
-      "name": "Ružica Vukovac",
-      "sort_name": "Ružica Vukovac",
+      "id": "person/0f884fb3-d704-4a5e-811b-4c8275e24bcd",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19807",
+      "name": "Romana Jerković",
+      "sort_name": "Romana Jerković",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44501"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19807"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/edb87500-8ba7-49fe-ae0e-7d0557849c68",
+          "person_id": "person/0f884fb3-d704-4a5e-811b-4c8275e24bcd",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "most",
-          "area_id": "area/5th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/8th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3388,91 +3054,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/9th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1d9a182f-0dce-4218-a5fe-c9dee58e20a2",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44455",
-      "name": "Sandra Krpan",
-      "sort_name": "Sandra Krpan",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44455"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1d9a182f-0dce-4218-a5fe-c9dee58e20a2",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/8th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/64ec110d-3922-43ac-857b-b388ceef2038",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=45058",
-      "name": "Sandra Perković",
-      "sort_name": "Sandra Perković",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "perkovicsandra"
-        }
-      ],
-      "links": [
-        {
-          "url": "sandraperkovicfanpage",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=45058"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/64ec110d-3922-43ac-857b-b388ceef2038",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "bm_365",
-          "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/6b5351e4-6951-4d63-8750-be6b6d46b016",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44566",
-      "name": "Sanja Putica",
-      "sort_name": "Sanja Putica",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44566"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6b5351e4-6951-4d63-8750-be6b6d46b016",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/10th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3497,8 +3079,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/7th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3523,7 +3104,7 @@
           "role": "member",
           "on_behalf_of_id": "hsu",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3548,7 +3129,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3573,33 +3154,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/ef6777f4-9fa3-4235-bebb-3a4d2b49ada1",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44423",
-      "name": "Snježana Bužinec",
-      "sort_name": "Snježana Bužinec",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44423"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ef6777f4-9fa3-4235-bebb-3a4d2b49ada1",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/1st",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3624,7 +3179,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3632,24 +3187,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/0b943436-efa8-4b7f-a874-5f6c500a110e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44564",
-      "name": "Stipe Petrina",
-      "sort_name": "Stipe Petrina",
+      "id": "person/4bd935c3-149a-4dfe-b1ff-fbdcb8308201",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47053&sp=170x219",
+      "name": "Stjepan Kovač",
+      "sort_name": "Stjepan Kovač",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44564"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47053&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0b943436-efa8-4b7f-a874-5f6c500a110e",
+          "person_id": "person/4bd935c3-149a-4dfe-b1ff-fbdcb8308201",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "nlsp",
-          "area_id": "area/9th",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "sdp",
+          "area_id": "area/3rd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3658,24 +3212,23 @@
     },
     {
       "gender": "male",
-      "id": "person/2859417d-adbb-4179-b1af-71a8b7b67dfe",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44651",
-      "name": "Stjepan Pintarić",
-      "sort_name": "Stjepan Pintarić",
+      "id": "person/fb0b4bb4-e473-4e4e-bba9-637a677b215d",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=24981",
+      "name": "Tomislav Klarić",
+      "sort_name": "Tomislav Klarić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44651"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=24981"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2859417d-adbb-4179-b1af-71a8b7b67dfe",
+          "person_id": "person/fb0b4bb4-e473-4e4e-bba9-637a677b215d",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/4th",
-          "start_date": "2016-01-22",
-          "legislative_period_id": "term/8"
+          "area_id": "area/7th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3683,25 +3236,24 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/b89da258-a5e7-42c8-befa-d2ac5d453f75",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44457",
-      "name": "Svjetlana Lazić",
-      "sort_name": "Svjetlana Lazić",
+      "id": "person/8c033e24-fa95-41c4-9431-08f06311fab2",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47700&sp=170x217",
+      "name": "Tomislav Lipošćak",
+      "sort_name": "Tomislav Lipošćak",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44457"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47700&sp=170x217"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b89da258-a5e7-42c8-befa-d2ac5d453f75",
+          "person_id": "person/8c033e24-fa95-41c4-9431-08f06311fab2",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/6th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/7th",
+          "start_date": "2016-12-09",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3709,99 +3261,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/1f635e73-3673-47f7-853d-51871a6475e1",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19654",
-      "name": "Tanja Vrbat",
-      "sort_name": "Tanja Vrbat",
+      "id": "person/536e99ec-87a1-4508-b396-598a3601b576",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47089&sp=170x219",
+      "name": "Tomislav Panenić",
+      "sort_name": "Tomislav Panenić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19654"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47089&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1f635e73-3673-47f7-853d-51871a6475e1",
+          "person_id": "person/536e99ec-87a1-4508-b396-598a3601b576",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/8th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/20ca2a9d-2a0e-4ca6-95f9-5b38cda9c32b",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44770",
-      "name": "Tihomir Jakovina",
-      "sort_name": "Tihomir Jakovina",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44770"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/20ca2a9d-2a0e-4ca6-95f9-5b38cda9c32b",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
+          "on_behalf_of_id": "most",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/244e86a6-6a0c-4932-b186-b15956dc1643",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19582",
-      "name": "Tomislav Karamarko",
-      "sort_name": "Tomislav Karamarko",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19582"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/244e86a6-6a0c-4932-b186-b15956dc1643",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/9th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/8c8fb996-f4fd-4512-9ff6-8b89fa5218b1",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44451",
-      "name": "Tomislav Končevski",
-      "sort_name": "Tomislav Končevski",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44451"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8c8fb996-f4fd-4512-9ff6-8b89fa5218b1",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "labourists",
-          "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3826,58 +3302,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/7th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/9a8d2c32-492a-4fcc-98d3-73beb9a9357e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46181",
-      "name": "Tomislav Ćorić",
-      "sort_name": "Tomislav Ćorić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46181"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9a8d2c32-492a-4fcc-98d3-73beb9a9357e",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/1st",
-          "start_date": "2016-06-03",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/52165273-dcda-4812-a2a7-a8e1df1450de",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19546",
-      "name": "Tomislav Čuljak",
-      "sort_name": "Tomislav Čuljak",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19546"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/52165273-dcda-4812-a2a7-a8e1df1450de",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3900,35 +3325,9 @@
           "person_id": "person/85ea0d2b-75b5-48b8-b227-ec6a250eb44c",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
+          "on_behalf_of_id": "independent",
           "area_id": "area/4th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/deb50525-b64e-48d3-9728-e528d2f4bb92",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44420",
-      "name": "Tonči Bilić",
-      "sort_name": "Tonči Bilić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44420"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/deb50525-b64e-48d3-9728-e528d2f4bb92",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/10th",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3953,7 +3352,7 @@
           "role": "member",
           "on_behalf_of_id": "ids",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -3978,7 +3377,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/2nd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4003,7 +3402,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/12th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4011,25 +3410,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/bd83d516-0c88-4a47-9919-a556cd15623a",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44553",
-      "name": "Vesna Jakas",
-      "sort_name": "Vesna Jakas",
+      "id": "person/9d890928-32d4-4078-b07e-44962d1cb70b",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=46997&sp=170x219",
+      "name": "Vesna Bedeković",
+      "sort_name": "Vesna Bedeković",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44553"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=46997&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bd83d516-0c88-4a47-9919-a556cd15623a",
+          "person_id": "person/9d890928-32d4-4078-b07e-44962d1cb70b",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/2nd",
-          "end_date": "2016-01-30",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4060,7 +3457,7 @@
           "role": "member",
           "on_behalf_of_id": "hns",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ]
     },
@@ -4082,7 +3479,31 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/12th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/79a4c8d1-6727-4b04-986f-6631f74afe70",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47051&sp=170x219",
+      "name": "Vlatko Kopić",
+      "sort_name": "Vlatko Kopić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47051&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/79a4c8d1-6727-4b04-986f-6631f74afe70",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4107,7 +3528,7 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/5th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4115,99 +3536,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/3724e2df-3461-40dc-91bc-b1d7eaedad9d",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44645",
-      "name": "Zoran Milanović",
-      "sort_name": "Zoran Milanović",
+      "id": "person/316d8368-73d1-4c92-88d4-f19c32b06d91",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47032&sp=170x219",
+      "name": "Zlatko Hasanbegović",
+      "sort_name": "Zlatko Hasanbegović",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44645"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47032&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3724e2df-3461-40dc-91bc-b1d7eaedad9d",
+          "person_id": "person/316d8368-73d1-4c92-88d4-f19c32b06d91",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/1st",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/34762a60-4bdd-42bf-b41e-6a519cc89eae",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19820",
-      "name": "Zoran Vasić",
-      "sort_name": "Zoran Vasić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19820"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/34762a60-4bdd-42bf-b41e-6a519cc89eae",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "sdp",
-          "area_id": "area/6th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/44d6d2e2-3c37-49a6-87de-64a9faa16c3a",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=39235",
-      "name": "Šandor Juhas",
-      "sort_name": "Šandor Juhas",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=39235"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/44d6d2e2-3c37-49a6-87de-64a9faa16c3a",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/12th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/5b410469-f42f-4204-b6f2-581fd6e84e8a",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44429",
-      "name": "Štefanija Damjanović",
-      "sort_name": "Štefanija Damjanović",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44429"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5b410469-f42f-4204-b6f2-581fd6e84e8a",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hns",
-          "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/2nd",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4232,7 +3577,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/3rd",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4240,49 +3585,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/81405c33-ce14-4195-b53c-968866c90cec",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44431",
-      "name": "Željko Dilber",
-      "sort_name": "Željko Dilber",
+      "id": "person/fc2340d2-6fe8-4d33-86b4-ed1a355819bf",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47041&sp=170x219",
+      "name": "Željka Josić",
+      "sort_name": "Željka Josić",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44431"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47041&sp=170x219"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/81405c33-ce14-4195-b53c-968866c90cec",
+          "person_id": "person/fc2340d2-6fe8-4d33-86b4-ed1a355819bf",
           "organization_id": "chamber/sabor",
           "role": "member",
           "on_behalf_of_id": "hdz",
-          "area_id": "area/7th",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0a364e01-c870-4126-a10a-acb6eed87a06",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44433",
-      "name": "Željko Fiolić",
-      "sort_name": "Željko Fiolić",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44433"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0a364e01-c870-4126-a10a-acb6eed87a06",
-          "organization_id": "chamber/sabor",
-          "role": "member",
-          "on_behalf_of_id": "hdz",
-          "area_id": "area/7th",
-          "legislative_period_id": "term/8"
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4305,9 +3624,9 @@
           "person_id": "person/9c36b127-8bcb-4fbc-aa9b-0f1419ce71b4",
           "organization_id": "chamber/sabor",
           "role": "member",
-          "on_behalf_of_id": "hdz",
+          "on_behalf_of_id": "independent",
           "area_id": "area/11th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4332,7 +3651,79 @@
           "role": "member",
           "on_behalf_of_id": "sdp",
           "area_id": "area/8th",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/41b1dc85-5142-4101-a938-14495d42f1c8",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47058&sp=170x219",
+      "name": "Željko Lacković",
+      "sort_name": "Željko Lacković",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47058&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/41b1dc85-5142-4101-a938-14495d42f1c8",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/2nd",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/24ba4910-acf2-4189-b31d-c2f63e640ecf",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47061&sp=170x217",
+      "name": "Željko Lenart",
+      "sort_name": "Željko Lenart",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47061&sp=170x217"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/24ba4910-acf2-4189-b31d-c2f63e640ecf",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hss",
+          "area_id": "area/6th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/303d5803-758c-40e4-bccb-4d993a777d8f",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47102&sp=170x219",
+      "name": "Željko Raguž",
+      "sort_name": "Željko Raguž",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47102&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/303d5803-758c-40e4-bccb-4d993a777d8f",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/11th",
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
@@ -4357,7 +3748,7 @@
           "role": "member",
           "on_behalf_of_id": "hdz",
           "area_id": "area/1st",
-          "legislative_period_id": "term/8"
+          "legislative_period_id": "term/9"
         }
       ],
       "contact_details": [
