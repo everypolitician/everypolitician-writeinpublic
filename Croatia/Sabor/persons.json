@@ -1,7 +1,7 @@
 {
-  "total": 151,
+  "total": 153,
   "page": 1,
-  "per_page": 151,
+  "per_page": 153,
   "has_more": false,
   "result": [
     {
@@ -2739,6 +2739,31 @@
       ]
     },
     {
+      "id": "person/a34a3051-3208-4e90-a2e4-ebcb3142a8b8",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47128&sp=170x219",
+      "name": "Monika Udovičić",
+      "sort_name": "Monika Udovičić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47128&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a34a3051-3208-4e90-a2e4-ebcb3142a8b8",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/8th",
+          "end_date": "2016-10-27",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/430ce6bf-ce00-4b42-8d93-338447ce2fb7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19650",
@@ -2805,6 +2830,25 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/6th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/600b1503-99f2-4658-8a31-033dc67bffe4",
+      "name": "Nikolina Babić",
+      "sort_name": "Nikolina Babić",
+      "memberships": [
+        {
+          "person_id": "person/600b1503-99f2-4658-8a31-033dc67bffe4",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdz",
+          "area_id": "area/3rd",
+          "end_date": "2016-10-27",
           "legislative_period_id": "term/9"
         }
       ],
