@@ -1,7 +1,7 @@
 {
-  "total": 426,
+  "total": 427,
   "page": 1,
-  "per_page": 426,
+  "per_page": 427,
   "has_more": false,
   "result": [
     {
@@ -1211,6 +1211,16 @@
           "role": "member",
           "on_behalf_of_id": "KD",
           "area_id": "area/västra_götalands_läns_östra",
+          "end_date": "2017-05-02",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/e7fe7245-5060-4945-a309-eca0356b9acf",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/västra_götalands_läns_östra",
+          "start_date": "2017-11-02",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -1720,6 +1730,34 @@
           "start_date": "2015-07-04",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "email": "bjorn.rubenson@riksdagen.se",
+      "gender": "male",
+      "id": "person/ff29f0fb-8dec-4e9a-abec-85444869c3c1",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1b63cd86-7a44-4990-a17a-c8e47f44907b_max.jpg",
+      "name": "Björn Rubenson",
+      "sort_name": "Björn",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1b63cd86-7a44-4990-a17a-c8e47f44907b_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ff29f0fb-8dec-4e9a-abec-85444869c3c1",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "area/västra_götalands_läns_östra",
+          "start_date": "2017-05-03",
+          "end_date": "2017-11-01",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
