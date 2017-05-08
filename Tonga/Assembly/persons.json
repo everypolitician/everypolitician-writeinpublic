@@ -1,35 +1,9 @@
 {
-  "total": 26,
+  "total": 27,
   "page": 1,
-  "per_page": 26,
+  "per_page": 27,
   "has_more": false,
   "result": [
-    {
-      "email": "etuatelavulavu@gmail.com",
-      "gender": "male",
-      "id": "person/f347d0c4-d290-423b-b60a-9a8c306652c4",
-      "image": "http://parliament.gov.to/images/members/Lavulavu.png",
-      "name": "'Etuate Sungalu Lavulavu",
-      "sort_name": "'Etuate Sungalu Lavulavu",
-      "images": [
-        {
-          "url": "http://parliament.gov.to/images/members/Lavulavu.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f347d0c4-d290-423b-b60a-9a8c306652c4",
-          "organization_id": "chamber/legislative_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/vava'u_no._16",
-          "legislative_period_id": "term/2015"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
     {
       "email": "ekeaisake@yahoo.com",
       "gender": "male",
@@ -57,10 +31,43 @@
       ]
     },
     {
+      "email": "tuionetoa.pohiva@gmail.com",
+      "gender": "male",
+      "id": "person/b4d50232-f7c7-4246-a2e0-cf2f9c5e7769",
+      "image": "http://parliament.gov.to/images/members/Tuionetoa.png",
+      "name": "Dr. Pohiva Tu'i'onetoa",
+      "sort_name": "Dr. Pohiva Tu'i'onetoa",
+      "images": [
+        {
+          "url": "http://parliament.gov.to/images/members/Tuionetoa.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b4d50232-f7c7-4246-a2e0-cf2f9c5e7769",
+          "organization_id": "chamber/legislative_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/tongatapu_no._10",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "saiafaapea@hotmail.com",
+      "gender": "male",
       "id": "person/43c1af97-909b-40a1-91b8-c97981759a08",
+      "image": "http://parliament.gov.to/images/members/Sosai_Piukala.jpg",
       "name": "Dr. Saia Piukala",
       "sort_name": "Dr. Saia Piukala",
+      "images": [
+        {
+          "url": "http://parliament.gov.to/images/members/Sosai_Piukala.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/43c1af97-909b-40a1-91b8-c97981759a08",
@@ -76,13 +83,15 @@
       ]
     },
     {
+      "email": "mfusitua@gmail.com",
+      "gender": "male",
       "id": "person/81052422-6e1a-46a8-92e2-5815df7a9796",
-      "image": "http://parliament.gov.to/images/members/Lord%20Fusitua.png",
+      "image": "http://parliament.gov.to/images/members/Lord_Fusitua.jpg",
       "name": "Lord Fusitu'a",
       "sort_name": "Lord Fusitu'a",
       "images": [
         {
-          "url": "http://parliament.gov.to/images/members/Lord%20Fusitua.png"
+          "url": "http://parliament.gov.to/images/members/Lord_Fusitua.jpg"
         }
       ],
       "memberships": [
@@ -123,6 +132,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/45459e32-9b2f-4e97-8f1a-62a1168a6115",
       "image": "http://parliament.gov.to/images/members/Lord%20Havea%20Tuihaateiho.png",
       "name": "Lord Havea Tu'iha'ateiho",
@@ -172,6 +182,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/76ffadc5-ff93-4fbc-95d7-9dfef19f4409",
       "image": "http://parliament.gov.to/images/members/Lord%20Nuku.png",
       "name": "Lord Nuku",
@@ -221,6 +232,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0f7546fb-e953-4f29-b523-501632df1b07",
       "image": "http://parliament.gov.to/images/members/Lord%20Tuilakepa.png",
       "name": "Lord Tu'ilakepa",
@@ -245,6 +257,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/50801654-3e27-4595-9fe7-d35aed0684d1",
       "image": "http://parliament.gov.to/images/members/PM%20Lord%20Tuivakano.png",
       "name": "Lord Tu'ivakano",
@@ -269,6 +282,8 @@
       ]
     },
     {
+      "email": "albertvaea@gmail.com",
+      "gender": "male",
       "id": "person/eddb483b-215d-44e4-b4a7-fda5bc72adb3",
       "image": "http://parliament.gov.to/images/members/Lord%20Vaea.png",
       "name": "Lord Vaea",
@@ -319,10 +334,12 @@
       ]
     },
     {
+      "email": "penisimanififita@gmail.com",
+      "gender": "male",
       "id": "person/3d0e6364-06a7-454c-9393-b3ecd312f83d",
       "image": "http://parliament.gov.to/images/members/Fifita.png",
-      "name": "Penisimani Fifita",
-      "sort_name": "Penisimani Fifita",
+      "name": "Penisimani 'Epenisa Fifita",
+      "sort_name": "Penisimani 'Epenisa Fifita",
       "images": [
         {
           "url": "http://parliament.gov.to/images/members/Fifita.png"
@@ -343,6 +360,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3f49412c-65c7-4922-bb85-4123367f7d61",
       "image": "http://parliament.gov.to/images/members/Tei.png",
       "name": "Poasi Mataele Tei",
@@ -359,30 +377,6 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/tongatapu_no._6",
-          "legislative_period_id": "term/2015"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/b4d50232-f7c7-4246-a2e0-cf2f9c5e7769",
-      "image": "http://parliament.gov.to/images/members/Tuionetoa.png",
-      "name": "Pohiva Tu'i'onetoa",
-      "sort_name": "Pohiva Tu'i'onetoa",
-      "images": [
-        {
-          "url": "http://parliament.gov.to/images/members/Tuionetoa.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b4d50232-f7c7-4246-a2e0-cf2f9c5e7769",
-          "organization_id": "chamber/legislative_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/tongatapu_no._10",
           "legislative_period_id": "term/2015"
         }
       ],
@@ -443,6 +437,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/3c8b06e2-67b2-4d3a-9c29-e45dfd926e05",
+      "image": "http://parliament.gov.to/images/members/Fakahau.png",
+      "name": "Semisi Fakahau",
+      "sort_name": "Semisi Fakahau",
+      "images": [
+        {
+          "url": "http://parliament.gov.to/images/members/Fakahau.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3c8b06e2-67b2-4d3a-9c29-e45dfd926e05",
+          "organization_id": "chamber/legislative_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/tongatapu_no._8",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "misisika@gmail.com",
       "gender": "male",
       "id": "person/c1ec02d6-edfd-4f5b-b228-452d2d0b2066",
@@ -469,32 +488,8 @@
       ]
     },
     {
-      "email": "sirfakahau@yahoo.co.uk",
-      "id": "person/3c8b06e2-67b2-4d3a-9c29-e45dfd926e05",
-      "image": "http://parliament.gov.to/images/members/Fakahau.png",
-      "name": "Semisi Tauelangi Fakahau",
-      "sort_name": "Semisi Tauelangi Fakahau",
-      "images": [
-        {
-          "url": "http://parliament.gov.to/images/members/Fakahau.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3c8b06e2-67b2-4d3a-9c29-e45dfd926e05",
-          "organization_id": "chamber/legislative_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "area/tongatapu_no._8",
-          "legislative_period_id": "term/2015"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "siaosi.sovaleni@gmail.com",
+      "gender": "male",
       "id": "person/ab1456fe-78b7-4d3c-bdf7-5a46e6e213c0",
       "image": "http://parliament.gov.to/images/members/Sovaleni.png",
       "name": "Siaosi 'Ofakivahafolau Sovaleni",
@@ -520,9 +515,16 @@
     },
     {
       "email": "s.vunafaotusia@hotmail.com",
+      "gender": "male",
       "id": "person/c17ca30b-c386-43f9-97b4-9a97ed550f79",
+      "image": "http://parliament.gov.to/images/members/Vuna_Faotusia.jpg",
       "name": "Sione Vuna Fa'otusia",
       "sort_name": "Sione Vuna Fa'otusia",
+      "images": [
+        {
+          "url": "http://parliament.gov.to/images/members/Vuna_Faotusia.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c17ca30b-c386-43f9-97b4-9a97ed550f79",
@@ -538,7 +540,7 @@
       ]
     },
     {
-      "email": "fvakata@yahoo.com",
+      "email": "fvakata11@gmail.com",
       "gender": "male",
       "id": "person/349e3ca2-92f8-4bf9-8b75-92e0f92fa177",
       "image": "http://parliament.gov.to/images/members/F%20Vakata.png",
@@ -564,6 +566,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7a4e3885-d197-4c50-9a93-1c3912d8d6a9",
       "image": "http://parliament.gov.to/images/members/Lavemaau.png",
       "name": "Tevita Lavemaau",
@@ -589,6 +592,7 @@
     },
     {
       "email": "vosataka@gmail.com",
+      "gender": "male",
       "id": "person/5aff8c03-aaee-4c78-b5d8-8cd6c06b5664",
       "image": "http://parliament.gov.to/images/members/Taka.png",
       "name": "Veivosa Taka",
@@ -614,9 +618,16 @@
     },
     {
       "email": "peaeha@gmail.com",
+      "gender": "male",
       "id": "person/3a34de32-005c-435e-83cc-482c4f1c38ef",
+      "image": "http://parliament.gov.to/images/members/Manu_Hingano.jpg",
       "name": "Vili Manuopangai Faka'osiula Hingano",
       "sort_name": "Vili Manuopangai Faka'osiula Hingano",
+      "images": [
+        {
+          "url": "http://parliament.gov.to/images/members/Manu_Hingano.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/3a34de32-005c-435e-83cc-482c4f1c38ef",
@@ -624,6 +635,46 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/ha'apai_no._12",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2bff51d6-65d4-4a0c-9bf7-3fd9e3100b27",
+      "name": "‘Akosita Lavulavu",
+      "sort_name": "‘Akosita Lavulavu",
+      "memberships": [
+        {
+          "person_id": "person/2bff51d6-65d4-4a0c-9bf7-3fd9e3100b27",
+          "organization_id": "chamber/legislative_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/vavaʻu_16",
+          "start_date": "2016-07-14",
+          "legislative_period_id": "term/2015"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "etuatelavulavu@gmail.com",
+      "gender": "male",
+      "id": "person/f347d0c4-d290-423b-b60a-9a8c306652c4",
+      "name": "‘Etuate Lavulavu",
+      "sort_name": "‘Etuate Lavulavu",
+      "memberships": [
+        {
+          "person_id": "person/f347d0c4-d290-423b-b60a-9a8c306652c4",
+          "organization_id": "chamber/legislative_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/vavaʻu_16",
+          "end_date": "2016-01-29",
           "legislative_period_id": "term/2015"
         }
       ],
