@@ -1,7 +1,7 @@
 {
-  "total": 78,
+  "total": 79,
   "page": 1,
-  "per_page": 78,
+  "per_page": 79,
   "has_more": false,
   "result": [
     {
@@ -1417,6 +1417,36 @@
           "area_id": "area/wa",
           "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/c34f2d2a-210a-4e62-9b07-5dcfe8f578a0",
+      "name": "Lucy Gichuhi",
+      "sort_name": "Gichuhi, Lucy",
+      "memberships": [
+        {
+          "person_id": "person/c34f2d2a-210a-4e62-9b07-5dcfe8f578a0",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "family_first_party",
+          "area_id": "area/sa",
+          "start_date": "2017-04-19",
+          "end_date": "2017-05-03",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/c34f2d2a-210a-4e62-9b07-5dcfe8f578a0",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/sa",
+          "start_date": "2017-05-03",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
