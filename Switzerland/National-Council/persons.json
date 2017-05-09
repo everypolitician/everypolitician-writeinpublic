@@ -1,7 +1,7 @@
 {
-  "total": 204,
+  "total": 205,
   "page": 1,
-  "per_page": 204,
+  "per_page": 205,
   "has_more": false,
   "result": [
     {
@@ -4000,6 +4000,7 @@
           "role": "member",
           "on_behalf_of_id": "3",
           "area_id": "VS",
+          "end_date": "2017-06-14",
           "legislative_period_id": "term/50"
         }
       ],
@@ -4473,6 +4474,26 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "AG",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9317a55f-8ac0-4be1-94e3-31785930a3b5",
+      "name": "Thomas Egger",
+      "sort_name": "Egger, Thomas",
+      "memberships": [
+        {
+          "person_id": "person/9317a55f-8ac0-4be1-94e3-31785930a3b5",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "0",
+          "area_id": "VS",
+          "start_date": "2017-06-15",
           "legislative_period_id": "term/50"
         }
       ],
