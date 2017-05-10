@@ -1,19 +1,44 @@
 {
-  "total": 106,
+  "total": 121,
   "page": 1,
-  "per_page": 106,
+  "per_page": 121,
   "has_more": false,
   "result": [
+    {
+      "email": "rchiazzaro@parlamento.gub.uy",
+      "id": "person/94c10c93-b372-4f56-998b-f5a6da94d894",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/default_images/default-avatar_1_0.png",
+      "name": "Adriana González",
+      "sort_name": "González , Adriana",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/default_images/default-avatar_1_0.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/94c10c93-b372-4f56-998b-f5a6da94d894",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "email": "apena@parlamento.gub.uy",
       "gender": "male",
       "id": "person/ccd79ba5-7e87-4f1f-9901-d091953f4113",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11602.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11602_0.JPG",
       "name": "Adrián Peña",
-      "sort_name": "Adrián Peña",
+      "sort_name": "Peña , Adrián",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11602.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11602_0.JPG"
         }
       ],
       "memberships": [
@@ -34,12 +59,12 @@
       "email": "aperdomo@parlamento.gub.uy",
       "gender": "male",
       "id": "person/5f7c77bc-acb5-4181-9a8e-6627632467e5",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05166.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05166_1.JPG",
       "name": "Alberto Perdomo Gamarra",
-      "sort_name": "Alberto Perdomo Gamarra",
+      "sort_name": "Perdomo Gamarra , Alberto",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05166.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05166_1.JPG"
         }
       ],
       "memberships": [
@@ -60,12 +85,12 @@
       "email": "asanchez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/1580aafa-f81c-4449-8351-f09eb87846d9",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09907.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09907_1.JPG",
       "name": "Alejandro Sánchez",
-      "sort_name": "Alejandro Sánchez",
+      "sort_name": "Sánchez , Alejandro",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09907.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09907_1.JPG"
         }
       ],
       "memberships": [
@@ -83,15 +108,40 @@
       ]
     },
     {
+      "email": "aumpierrez@parlamento.gub.uy",
+      "id": "person/9c048cd3-72c4-4db7-ad4c-577c2b6f93e7",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/alejoUmpierrez2.jpg",
+      "name": "Alejo Umpiérrez",
+      "sort_name": "Umpiérrez , Alejo",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/alejoUmpierrez2.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9c048cd3-72c4-4db7-ad4c-577c2b6f93e7",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/rocha",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "aasti@parlamento.gub.uy",
       "gender": "male",
       "id": "person/a6644a64-db09-411f-8630-0ba8431ece48",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05851.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/ASTI_Foto_0.jpg",
       "name": "Alfredo Asti",
-      "sort_name": "Alfredo Asti",
+      "sort_name": "Asti , Alfredo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05851.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/ASTI_Foto_0.jpg"
         }
       ],
       "memberships": [
@@ -138,12 +188,12 @@
       "email": "aniffouri@parlamento.gub.uy",
       "gender": "male",
       "id": "person/7e39641c-d552-43b0-be3e-c24ebd886709",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09896.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09896_1.JPG",
       "name": "Amín Niffouri Blanco",
-      "sort_name": "Amín Niffouri Blanco",
+      "sort_name": "Niffouri Blanco , Amín",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09896.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09896_1.JPG"
         }
       ],
       "memberships": [
@@ -216,12 +266,12 @@
       "email": "acastaingdebat@parlamento.gub.uy",
       "gender": "male",
       "id": "person/ce284048-8583-4f4c-ab82-9652a7f4164d",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08584.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08584_0.JPG",
       "name": "Armando Castaingdebat",
-      "sort_name": "Armando Castaingdebat",
+      "sort_name": "Castaingdebat , Armando",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08584.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08584_0.JPG"
         }
       ],
       "memberships": [
@@ -239,15 +289,40 @@
       ]
     },
     {
+      "email": "birazabal@parlamento.gub.uy",
+      "id": "person/90c9a714-3f10-4a15-a811-bfc1be956c77",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11848_0.JPG",
+      "name": "Benjamín Eduardo Irazábal Calleri",
+      "sort_name": "Irazábal Calleri , Benjamín Eduardo",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11848_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/90c9a714-3f10-4a15-a811-bfc1be956c77",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/durazno",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "bsanseverino@parlamento.gub.uy",
       "gender": "female",
       "id": "person/e467f5eb-28e7-4d0b-a61f-244163ecd2d0",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08461.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08461_1.JPG",
       "name": "Berta Sanseverino",
-      "sort_name": "Berta Sanseverino",
+      "sort_name": "Sanseverino , Berta",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08461.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08461_1.JPG"
         }
       ],
       "memberships": [
@@ -265,15 +340,40 @@
       ]
     },
     {
+      "email": "gmujica@parlamento.gub.uy",
+      "id": "person/33808809-248d-48ce-b28d-4a21b65d80d2",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11634_1.JPG",
+      "name": "Bettiana Díaz",
+      "sort_name": "Díaz , Bettiana",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11634_1.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/33808809-248d-48ce-b28d-4a21b65d80d2",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "creutor@parlamento.gub.uy",
       "gender": "male",
       "id": "person/1b577577-bbfd-47a6-8178-e190f28ff703",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11591.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11591_0.JPG",
       "name": "Carlos Reutor",
-      "sort_name": "Carlos Reutor",
+      "sort_name": "Reutor , Carlos",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11591.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11591_0.JPG"
         }
       ],
       "memberships": [
@@ -294,12 +394,12 @@
       "email": "crodriguezgalvez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/c5f57802-84a3-4e05-9a34-c646b052cd62",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10032.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10032_1.JPG",
       "name": "Carlos Rodríguez Gálvez",
-      "sort_name": "Carlos Rodríguez Gálvez",
+      "sort_name": "Rodríguez Gálvez , Carlos",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10032.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10032_1.JPG"
         }
       ],
       "memberships": [
@@ -320,12 +420,12 @@
       "email": "cvarela@parlamento.gub.uy",
       "gender": "male",
       "id": "person/9cad6f97-cba9-4299-b66a-ad4be57c66fd",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07754.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07754_1.JPG",
       "name": "Carlos Varela Nestier",
-      "sort_name": "Carlos Varela Nestier",
+      "sort_name": "Varela Nestier , Carlos",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07754.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07754_1.JPG"
         }
       ],
       "memberships": [
@@ -369,15 +469,40 @@
       ]
     },
     {
+      "email": "ccorrea@parlamento.gub.uy",
+      "id": "person/2f966726-a53b-49b7-95bb-664a65317650",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11849_0.JPG",
+      "name": "Catalina Correa",
+      "sort_name": "Correa , Catalina",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11849_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2f966726-a53b-49b7-95bb-664a65317650",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/salto",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "cbottino@parlamento.gub.uy",
       "gender": "female",
       "id": "person/d6245aed-01fa-4b13-9887-438956dd0c53",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09942.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09942_1.JPG",
       "name": "Cecilia Bottino",
-      "sort_name": "Cecilia Bottino",
+      "sort_name": "Bottino , Cecilia",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09942.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09942_1.JPG"
         }
       ],
       "memberships": [
@@ -424,12 +549,12 @@
       "email": "conrodriguez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/86d5880a-8ebd-4ae3-8d05-b6080e61354d",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11597.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11597_0.JPG",
       "name": "Conrado Rodríguez",
-      "sort_name": "Conrado Rodríguez",
+      "sort_name": "Rodríguez , Conrado",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11597.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11597_0.JPG"
         }
       ],
       "memberships": [
@@ -450,12 +575,12 @@
       "email": "cmendiondo@parlamento.gub.uy",
       "gender": "male",
       "id": "person/e4a3d779-94fe-4fa2-ad9f-bad8b0818259",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11583.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11583_0.JPG",
       "name": "Constante Mendiondo",
-      "sort_name": "Constante Mendiondo",
+      "sort_name": "Mendiondo , Constante",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11583.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11583_0.JPG"
         }
       ],
       "memberships": [
@@ -502,12 +627,12 @@
       "email": "dcaggiani@parlamento.gub.uy",
       "gender": "male",
       "id": "person/e9785285-a837-4280-90ac-4decb390da5b",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09916.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09916_0.JPG",
       "name": "Daniel Caggiani",
-      "sort_name": "Daniel Caggiani",
+      "sort_name": "Caggiani , Daniel",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09916.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09916_0.JPG"
         }
       ],
       "memberships": [
@@ -528,12 +653,12 @@
       "email": "dpena@parlamento.gub.uy",
       "gender": "male",
       "id": "person/a0951b7e-c309-4775-a108-a45604213878",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05165.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05165_1.JPG",
       "name": "Daniel Peña Fernández",
-      "sort_name": "Daniel Peña Fernández",
+      "sort_name": "Peña Fernández , Daniel",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05165.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05165_1.JPG"
         }
       ],
       "memberships": [
@@ -554,12 +679,12 @@
       "email": "dplaceres@parlamento.gub.uy",
       "gender": "male",
       "id": "person/1dac8de8-f257-4219-9ebf-5a0c8e3d6553",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05572.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05572_0.JPG",
       "name": "Daniel Placeres",
-      "sort_name": "Daniel Placeres",
+      "sort_name": "Placeres , Daniel",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05572.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05572_0.JPG"
         }
       ],
       "memberships": [
@@ -577,15 +702,15 @@
       ]
     },
     {
-      "email": "dradio_sec@parlamento.gub.uy",
+      "email": "dradio@parlamento.gub.uy",
       "gender": "male",
       "id": "person/374ffd04-9916-4cdf-ad0b-b1a68d2db348",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09972.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09972_1.JPG",
       "name": "Daniel Radío",
-      "sort_name": "Daniel Radío",
+      "sort_name": "Radío , Daniel",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09972.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09972_1.JPG"
         }
       ],
       "memberships": [
@@ -603,15 +728,40 @@
       ]
     },
     {
+      "email": "ddelossantos@parlamento.gub.uy",
+      "id": "person/9b8f008d-421e-413a-a585-89858ab27a4b",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11827_0.JPG",
+      "name": "Darcy Amaury de los Santos Severgnini",
+      "sort_name": "de los Santos Severgnini , Darcy Amaury",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11827_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9b8f008d-421e-413a-a585-89858ab27a4b",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/rocha",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dperez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/5bf3e796-3947-49aa-984c-431db187b2b5",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02924.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02924_1.JPG",
       "name": "Darío Pérez Brito",
-      "sort_name": "Darío Pérez Brito",
+      "sort_name": "Pérez Brito , Darío",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02924.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02924_1.JPG"
         }
       ],
       "memberships": [
@@ -632,12 +782,12 @@
       "email": "erodriguez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/af6b73bf-0d05-42e4-91a9-16a2f4f26ca7",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07759.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07759_1.JPG",
       "name": "Edgardo Rodríguez",
-      "sort_name": "Edgardo Rodríguez",
+      "sort_name": "Rodríguez , Edgardo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07759.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07759_1.JPG"
         }
       ],
       "memberships": [
@@ -658,9 +808,9 @@
       "email": "eroselli@parlamento.gub.uy",
       "gender": "male",
       "id": "person/8f032416-08cd-4750-93cd-a5a8076d802b",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11595.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11595_0.JPG",
       "name": "Edmundo Roselli",
-      "sort_name": "Edmundo Roselli",
+      "sort_name": "Roselli , Edmundo",
       "contact_details": [
         {
           "type": "twitter",
@@ -675,7 +825,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11595.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11595_0.JPG"
         }
       ],
       "memberships": [
@@ -693,12 +843,12 @@
       "email": "edurubio@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b8ad902f-d7d6-4540-8411-514ca3267feb",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05252.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05252_1.JPG",
       "name": "Eduardo Rubio",
-      "sort_name": "Eduardo Rubio",
+      "sort_name": "Rubio , Eduardo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05252.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05252_1.JPG"
         }
       ],
       "memberships": [
@@ -719,12 +869,12 @@
       "email": "emier@parlamento.gub.uy",
       "gender": "male",
       "id": "person/841be29f-c062-47c4-98e0-46684ac064cf",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09451.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09451_1.JPG",
       "name": "Egardo Dionisio Mier Estades",
-      "sort_name": "Egardo Dionisio Mier Estades",
+      "sort_name": "Mier Estades , Egardo Dionisio",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09451.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09451_1.JPG"
         }
       ],
       "memberships": [
@@ -734,6 +884,31 @@
           "role": "member",
           "on_behalf_of_id": "partido_nacional",
           "area_id": "area/treinta_y_tres",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "earrieta@parlamento.gub.uy",
+      "id": "person/da87de73-0f90-4c60-ad50-1a81f010344d",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11810_0.JPG",
+      "name": "Elisabeth Arrieta",
+      "sort_name": "Arrieta , Elisabeth",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11810_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/da87de73-0f90-4c60-ad50-1a81f010344d",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/maldonado",
           "legislative_period_id": "term/48"
         }
       ],
@@ -771,12 +946,12 @@
       "email": "emalan@parlamento.gub.uy",
       "gender": "male",
       "id": "person/9a27ab4a-40c8-49af-b01c-f3671621529e",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11584.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11584_2.JPG",
       "name": "Enzo Malán",
-      "sort_name": "Enzo Malán",
+      "sort_name": "Malán , Enzo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11584.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11584_2.JPG"
         }
       ],
       "memberships": [
@@ -797,12 +972,12 @@
       "email": "fcarballo@parlamento.gub.uy",
       "gender": "male",
       "id": "person/8695fdc1-8fe6-4348-ace3-e5c0dc3c2f4e",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07604.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07604_1.JPG",
       "name": "Felipe Carballo Da Costa",
-      "sort_name": "Felipe Carballo Da Costa",
+      "sort_name": "Carballo Da Costa , Felipe",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07604.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07604_1.JPG"
         }
       ],
       "memberships": [
@@ -823,9 +998,9 @@
       "email": "famado_sec@parlamento.gub.uy",
       "gender": "male",
       "id": "person/325dc6e7-7001-4266-a4da-db1698b10fc7",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09892.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09892_1.JPG",
       "name": "Fernando Amado",
-      "sort_name": "Fernando Amado",
+      "sort_name": "Amado , Fernando",
       "contact_details": [
         {
           "type": "twitter",
@@ -834,7 +1009,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09892.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09892_1.JPG"
         }
       ],
       "memberships": [
@@ -877,12 +1052,12 @@
       "email": "gbarreiro@parlamento.gub.uy",
       "gender": "female",
       "id": "person/eaa2aee7-516d-4b58-951f-0ee259595e0a",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11586.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11586_0.JPG",
       "name": "Gabriela Barreiro",
-      "sort_name": "Gabriela Barreiro",
+      "sort_name": "Barreiro , Gabriela",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11586.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11586_0.JPG"
         }
       ],
       "memberships": [
@@ -903,12 +1078,12 @@
       "email": "gamarilla@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b47cbea6-b201-4096-8af2-c19d2d395e02",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03959.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/amarilla-home_0.png",
       "name": "Gerardo Amarilla",
-      "sort_name": "Gerardo Amarilla",
+      "sort_name": "Amarilla , Gerardo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03959.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/amarilla-home_0.png"
         }
       ],
       "memberships": [
@@ -926,15 +1101,40 @@
       ]
     },
     {
+      "email": "gerardo.nunez@parlamento.gub.uy",
+      "id": "person/1388917a-1333-412a-afc6-36a0b3edacc9",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/FOT11627.jpg",
+      "name": "Gerardo Núñez",
+      "sort_name": "Núñez , Gerardo",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/FOT11627.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1388917a-1333-412a-afc6-36a0b3edacc9",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "gcardoso@parlamento.gub.uy",
       "gender": "male",
       "id": "person/0e446779-33a7-4755-996a-ddeb916526c1",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05217.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05217_1.JPG",
       "name": "Germán Cardoso",
-      "sort_name": "Germán Cardoso",
+      "sort_name": "Cardoso , Germán",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05217.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05217_1.JPG"
         }
       ],
       "memberships": [
@@ -955,12 +1155,12 @@
       "email": "glrodriguez@parlamento.gub.uy",
       "gender": "female",
       "id": "person/0c0da44b-4d75-495c-a9e2-3fe1323fa7ef",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11582.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11582_0.JPG",
       "name": "Gloria Rodríguez",
-      "sort_name": "Gloria Rodríguez",
+      "sort_name": "Rodríguez , Gloria",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11582.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11582_0.JPG"
         }
       ],
       "memberships": [
@@ -981,12 +1181,12 @@
       "email": "gcivila@parlamento.gub.uy",
       "gender": "male",
       "id": "person/a4217ee0-56a1-43a3-96ff-7d4c6b7f84ec",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11585.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11585_0.JPG",
       "name": "Gonzalo Civila",
-      "sort_name": "Gonzalo Civila",
+      "sort_name": "Civila , Gonzalo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11585.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11585_0.JPG"
         }
       ],
       "memberships": [
@@ -1030,15 +1230,40 @@
       ]
     },
     {
+      "email": "gnovales@parlamento.gub.uy",
+      "id": "person/87d14681-cfe5-447c-ab1d-fcdaa51a1a5d",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07744_0.JPG",
+      "name": "Gonzalo Novales",
+      "sort_name": "Novales , Gonzalo",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07744_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/87d14681-cfe5-447c-ab1d-fcdaa51a1a5d",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/soriano",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "gbianchi@parlamento.gub.uy",
       "gender": "female",
       "id": "person/18e2aae9-6b36-4d56-b169-9f7f082169c5",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08879.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08879_1.JPG",
       "name": "Graciela Bianchi",
-      "sort_name": "Graciela Bianchi",
+      "sort_name": "Bianchi , Graciela",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08879.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08879_1.JPG"
         }
       ],
       "memberships": [
@@ -1059,12 +1284,12 @@
       "email": "gmatiaude@parlamento.gub.uy",
       "gender": "female",
       "id": "person/d41dfca3-3a10-4b9f-9ac1-49802c00bda2",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09897.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09897_1.JPG",
       "name": "Graciela Matiaude",
-      "sort_name": "Graciela Matiaude",
+      "sort_name": "Matiaude , Graciela",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09897.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09897_1.JPG"
         }
       ],
       "memberships": [
@@ -1111,12 +1336,12 @@
       "email": "gfacello@parlamento.gub.uy",
       "gender": "male",
       "id": "person/c4767126-531f-4e1d-89c0-4947fb9a8a68",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09927.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09927_0.JPG",
       "name": "Guillermo Facello",
-      "sort_name": "Guillermo Facello",
+      "sort_name": "Facello , Guillermo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09927.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09927_0.JPG"
         }
       ],
       "memberships": [
@@ -1137,12 +1362,12 @@
       "email": "gpenades@parlamento.gub.uy",
       "gender": "male",
       "id": "person/97e98dee-c69c-4b17-b29c-6c89226c96f0",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02901.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02901_1.JPG",
       "name": "Gustavo Penadés",
-      "sort_name": "Gustavo Penadés",
+      "sort_name": "Penadés , Gustavo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02901.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02901_1.JPG"
         }
       ],
       "memberships": [
@@ -1163,12 +1388,12 @@
       "email": "hsosa@parlamento.gub.uy",
       "gender": "male",
       "id": "person/bc604d67-e9d5-4fc6-8182-a983dcdee524",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00320.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00320_1.JPG",
       "name": "Heriberto Sosa Acosta",
-      "sort_name": "Heriberto Sosa Acosta",
+      "sort_name": "Sosa Acosta , Heriberto",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00320.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00320_1.JPG"
         }
       ],
       "memberships": [
@@ -1215,12 +1440,12 @@
       "email": "iposada@parlamento.gub.uy",
       "gender": "male",
       "id": "person/d49ded15-1f7d-4c9e-8be0-63076073576c",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02912.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02912_1.JPG",
       "name": "Iván Posada",
-      "sort_name": "Iván Posada",
+      "sort_name": "Posada , Iván",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02912.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02912_1.JPG"
         }
       ],
       "memberships": [
@@ -1241,12 +1466,12 @@
       "email": "jtrobo@parlamento.gub.uy",
       "gender": "male",
       "id": "person/98c36678-2da8-4de9-8413-df2b04e427f3",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00405.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00405_1.JPG",
       "name": "Jaime Mario Trobo",
-      "sort_name": "Jaime Mario Trobo",
+      "sort_name": "Trobo , Jaime Mario",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00405.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00405_1.JPG"
         }
       ],
       "memberships": [
@@ -1302,12 +1527,12 @@
       "email": "jumpierrez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/215ce19a-fc2e-4755-87da-4e43c322c9e5",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10034.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10034_1.JPG",
       "name": "Javier Umpiérrez",
-      "sort_name": "Javier Umpiérrez",
+      "sort_name": "Umpiérrez , Javier",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10034.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10034_1.JPG"
         }
       ],
       "memberships": [
@@ -1328,12 +1553,12 @@
       "email": "jgandini@parlamento.gub.uy",
       "gender": "male",
       "id": "person/c533fd3d-fe22-4de6-bb8f-aa90ebaa54ea",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00260.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Foto_Gandini.jpg",
       "name": "Jorge Gandini",
-      "sort_name": "Jorge Gandini",
+      "sort_name": "Gandini , Jorge",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00260.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Foto_Gandini.jpg"
         }
       ],
       "memberships": [
@@ -1342,6 +1567,56 @@
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
           "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "jmeroni@parlamento.gub.uy",
+      "id": "person/0c34750a-93ab-45ad-816f-27dc8bd33869",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09909_1.JPG",
+      "name": "Jorge Meroni",
+      "sort_name": "Meroni , Jorge",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09909_1.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0c34750a-93ab-45ad-816f-27dc8bd33869",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "jpozzi@parlamento.gub.uy",
+      "id": "person/1027d5a8-af96-4bc5-bf89-85a4eadfab4b",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07755_2.JPG",
+      "name": "Jorge Pozzi",
+      "sort_name": "Pozzi , Jorge",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07755_2.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1027d5a8-af96-4bc5-bf89-85a4eadfab4b",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
           "area_id": "area/montevideo",
           "legislative_period_id": "term/48"
         }
@@ -1380,12 +1655,12 @@
       "email": "jarocena@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b0d117c5-3fbe-433c-9692-8f6b79bb97dc",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09953.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09953_1.JPG",
       "name": "José Andrés Arocena Argul",
-      "sort_name": "José Andrés Arocena Argul",
+      "sort_name": "Arocena Argul , José Andrés",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09953.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09953_1.JPG"
         }
       ],
       "memberships": [
@@ -1435,12 +1710,12 @@
       "email": "jmahia@parlamento.gub.uy",
       "gender": "male",
       "id": "person/56781d73-ecb4-46a9-bd02-dc6ceeb4913a",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02921.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/FotoJoseCarlosMahia.jpg",
       "name": "José Carlos Mahía",
-      "sort_name": "José Carlos Mahía",
+      "sort_name": "Mahía , José Carlos",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02921.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/FotoJoseCarlosMahia.jpg"
         }
       ],
       "memberships": [
@@ -1458,15 +1733,40 @@
       ]
     },
     {
+      "email": "jquerejeta@parlamento.gub.uy",
+      "id": "person/b05ee8d8-e199-45ea-89f4-a91a0d488a1a",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11622_0.JPG",
+      "name": "José Querejeta",
+      "sort_name": "Querejeta , José",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11622_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b05ee8d8-e199-45ea-89f4-a91a0d488a1a",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "jyurramendi@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b3a24d0b-7d30-4786-b3ac-50abdb861884",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11580.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11580_0.JPG",
       "name": "José Yurramendi Pérez",
-      "sort_name": "José Yurramendi Pérez",
+      "sort_name": "Yurramendi Pérez , José",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11580.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11580_0.JPG"
         }
       ],
       "memberships": [
@@ -1487,12 +1787,12 @@
       "email": "fruiz@parlamento.gub.uy",
       "gender": "male",
       "id": "person/103852df-0a95-4905-a71d-79b4a625b2e2",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11581.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11581_0.JPG",
       "name": "Juan Federico Ruiz",
-      "sort_name": "Juan Federico Ruiz",
+      "sort_name": "Ruiz , Juan Federico",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11581.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11581_0.JPG"
         }
       ],
       "memberships": [
@@ -1513,12 +1813,12 @@
       "email": "jjolaizola@parlamento.gub.uy",
       "gender": "male",
       "id": "person/c901e224-7aae-4ecc-8b51-0c3d6c1180bc",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11599.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11599.jpg",
       "name": "Juan José Olaizola",
-      "sort_name": "Juan José Olaizola",
+      "sort_name": "Olaizola , Juan José",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11599.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11599.jpg"
         }
       ],
       "memberships": [
@@ -1539,12 +1839,12 @@
       "email": "jbattistoni@parlamento.gub.uy",
       "gender": "male",
       "id": "person/7783f964-9b05-40c2-ac6f-31a345e1e63c",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07952.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07952_1.JPG",
       "name": "Julio Battistoni",
-      "sort_name": "Julio Battistoni",
+      "sort_name": "Battistoni , Julio",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07952.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07952_1.JPG"
         }
       ],
       "memberships": [
@@ -1565,12 +1865,12 @@
       "email": "lgalan@parlamento.gub.uy",
       "gender": "female",
       "id": "person/4b9459f1-0ff8-453c-8d35-0f06e36336c8",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11525.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11525_0.JPG",
       "name": "Lilián Raquel Galán Pérez",
-      "sort_name": "Lilián Raquel Galán Pérez",
+      "sort_name": "Galán Pérez , Lilián Raquel",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11525.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11525_0.JPG"
         }
       ],
       "memberships": [
@@ -1591,12 +1891,12 @@
       "email": "afratti@parlamento.gub.uy",
       "gender": "male",
       "id": "person/bae886b6-6c42-4b95-9661-57f8cac3b0e0",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot06734.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot06734_1.JPG",
       "name": "Luis Alfredo Fratti",
-      "sort_name": "Luis Alfredo Fratti",
+      "sort_name": "Fratti , Luis Alfredo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot06734.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot06734_1.JPG"
         }
       ],
       "memberships": [
@@ -1617,12 +1917,12 @@
       "email": "legallo@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b75be475-13cf-489b-9d40-e3aff5eb6834",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05150.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05150_1.JPG",
       "name": "Luis Enrique Gallo Cantera",
-      "sort_name": "Luis Enrique Gallo Cantera",
+      "sort_name": "Gallo Cantera , Luis Enrique",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05150.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05150_1.JPG"
         }
       ],
       "memberships": [
@@ -1643,12 +1943,12 @@
       "email": "lpuig@parlamento.gub.uy",
       "gender": "male",
       "id": "person/18bdb1c7-4ede-458b-9eda-627457598246",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09889.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09889_1.JPG",
       "name": "Luis Puig",
-      "sort_name": "Luis Puig",
+      "sort_name": "Puig , Luis",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09889.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09889_1.JPG"
         }
       ],
       "memberships": [
@@ -1669,12 +1969,12 @@
       "email": "mgelman@parlamento.gub.uy",
       "gender": "female",
       "id": "person/3f7c7576-8113-4c20-8025-1e01901c7f9e",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11588.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11588_0.JPG",
       "name": "Macarena Gelman",
-      "sort_name": "Macarena Gelman",
+      "sort_name": "Gelman , Macarena",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11588.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11588_0.JPG"
         }
       ],
       "memberships": [
@@ -1684,6 +1984,31 @@
           "role": "member",
           "on_behalf_of_id": "partido_frente_amplio",
           "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ceguiluz@parlamento.gub.uy",
+      "id": "person/dd31816e-194a-4307-90e2-1d1de877ed50",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10156_1.JPG",
+      "name": "Marcelo Bistolfi",
+      "sort_name": "Bistolfi , Marcelo",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10156_1.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dd31816e-194a-4307-90e2-1d1de877ed50",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_colorado",
+          "area_id": "area/salto",
           "legislative_period_id": "term/48"
         }
       ],
@@ -1718,15 +2043,40 @@
       ]
     },
     {
+      "email": "mariela.pelegrin@parlamento.gub.uy",
+      "id": "person/1267642d-7864-4298-99d9-7f1fda78a6ff",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/PELEGR%C3%8DN%20Mariela.jpg",
+      "name": "Mariela Pelegrín",
+      "sort_name": "Pelegrín , Mariela",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/PELEGR%C3%8DN%20Mariela.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1267642d-7864-4298-99d9-7f1fda78a6ff",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mayala@parlamento.gub.uy",
       "gender": "male",
       "id": "person/24b63339-b029-4893-97db-d57696d753f3",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11578.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11578_0.JPG",
       "name": "Mario Ayala",
-      "sort_name": "Mario Ayala",
+      "sort_name": "Ayala , Mario",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11578.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11578_0.JPG"
         }
       ],
       "memberships": [
@@ -1747,12 +2097,12 @@
       "email": "mlgarcia@parlamento.gub.uy",
       "gender": "male",
       "id": "person/0e083d62-9870-4bcc-9b46-3c4f928543f7",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10117.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10117_0.JPG",
       "name": "Mario García",
-      "sort_name": "Mario García",
+      "sort_name": "García , Mario",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10117.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot10117_0.JPG"
         }
       ],
       "memberships": [
@@ -1799,12 +2149,12 @@
       "email": "mlema@parlamento.gub.uy",
       "gender": "male",
       "id": "person/4731f6b6-37aa-40ed-82fe-b3619497a404",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11125.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11125_0.JPG",
       "name": "Martín Lema",
-      "sort_name": "Martín Lema",
+      "sort_name": "Lema , Martín",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11125.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11125_0.JPG"
         }
       ],
       "memberships": [
@@ -1825,12 +2175,12 @@
       "email": "mtierno@parlamento.gub.uy",
       "gender": "male",
       "id": "person/71a691ef-6917-45af-8b38-16a636d5e0ca",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09902.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09902_1.JPG",
       "name": "Martín Tierno",
-      "sort_name": "Martín Tierno",
+      "sort_name": "Tierno , Martín",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09902.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09902_1.JPG"
         }
       ],
       "memberships": [
@@ -1877,12 +2227,12 @@
       "email": "mmutti@parlamento.gub.uy",
       "gender": "female",
       "id": "person/fb2306b6-4574-4628-ba23-f59b9d50d8b1",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11594.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11594_2.JPG",
       "name": "María Manuela Mutti Fornaroli",
-      "sort_name": "María Manuela Mutti Fornaroli",
+      "sort_name": "Mutti Fornaroli , María Manuela",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11594.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11594_2.JPG"
         }
       ],
       "memberships": [
@@ -1903,12 +2253,12 @@
       "email": "msantalla@parlamento.gub.uy",
       "gender": "female",
       "id": "person/8137a92c-e73a-426e-8078-353cbc868331",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09943.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09943_1.JPG",
       "name": "Mercedes Santalla",
-      "sort_name": "Mercedes Santalla",
+      "sort_name": "Santalla , Mercedes",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09943.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09943_1.JPG"
         }
       ],
       "memberships": [
@@ -1929,12 +2279,12 @@
       "email": "nlarzabal@parlamento.gub.uy",
       "gender": "male",
       "id": "person/20e51a27-0002-44db-898a-a1d0b84f5e2a",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11590.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11590_0.JPG",
       "name": "Nelson Larzábal",
-      "sort_name": "Nelson Larzábal",
+      "sort_name": "Larzábal , Nelson",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11590.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11590_0.JPG"
         }
       ],
       "memberships": [
@@ -1955,12 +2305,12 @@
       "email": "nrodriguez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b1bdb200-87ca-4bde-8075-c0fa53a62944",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02735.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02735_1.JPG",
       "name": "Nelson Rodríguez Servetto",
-      "sort_name": "Nelson Rodríguez Servetto",
+      "sort_name": "Rodríguez Servetto , Nelson",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02735.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02735_1.JPG"
         }
       ],
       "memberships": [
@@ -1978,15 +2328,40 @@
       ]
     },
     {
+      "email": "nreisch@parlamento.gub.uy",
+      "id": "person/82ec4ba1-8d94-4a6d-9dfb-87e056a93501",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11709_1.JPG",
+      "name": "Nibia Reisch",
+      "sort_name": "Reisch , Nibia",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11709_1.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/82ec4ba1-8d94-4a6d-9dfb-87e056a93501",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_colorado",
+          "area_id": "area/colonia",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "nolivera@parlamento.gub.uy",
       "gender": "male",
       "id": "person/97fbb2d0-225c-489f-9918-00d375af0f92",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11329.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11329_0.JPG",
       "name": "Nicolás Olivera",
-      "sort_name": "Nicolás Olivera",
+      "sort_name": "Olivera , Nicolás",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11329.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11329_0.JPG"
         }
       ],
       "memberships": [
@@ -2007,12 +2382,12 @@
       "email": "olafluf@parlamento.gub.uy",
       "gender": "male",
       "id": "person/14ee3ac9-c876-4921-938c-940c412c4b2a",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07740.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07740_2.JPG",
       "name": "Omar Lafluf",
-      "sort_name": "Omar Lafluf",
+      "sort_name": "Lafluf , Omar",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07740.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07740_2.JPG"
         }
       ],
       "memberships": [
@@ -2030,15 +2405,15 @@
       ]
     },
     {
-      "email": "opasquet@parlamento.gub.uy",
+      "email": "opasquet_sec@parlamento.gub.uy",
       "gender": "male",
       "id": "person/23c9f2a8-8d54-4cc6-8601-ff9bb01060f5",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00149.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00149_1.JPG",
       "name": "Ope Pasquet Iribarne",
-      "sort_name": "Ope Pasquet Iribarne",
+      "sort_name": "Pasquet Iribarne , Ope",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00149.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00149_1.JPG"
         }
       ],
       "memberships": [
@@ -2059,12 +2434,12 @@
       "email": "ominetti@parlamento.gub.uy",
       "gender": "female",
       "id": "person/54cb66f7-85eb-4482-836f-f92aca2b47b5",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot06806.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot06806_0.JPG",
       "name": "Orquídea Minetti",
-      "sort_name": "Orquídea Minetti",
+      "sort_name": "Minetti , Orquídea",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot06806.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot06806_0.JPG"
         }
       ],
       "memberships": [
@@ -2111,12 +2486,12 @@
       "email": "odelossantos@parlamento.gub.uy",
       "gender": "male",
       "id": "person/90d7c7a5-97f0-4d7d-8247-5971bc764ec9",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00659.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00659_1.JPG",
       "name": "Oscar De los Santos",
-      "sort_name": "Oscar De los Santos",
+      "sort_name": "De los Santos , Oscar",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00659.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00659_1.JPG"
         }
       ],
       "memberships": [
@@ -2137,12 +2512,12 @@
       "email": "ogroba@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b7ec4f0d-e268-4467-8b06-f6d007ad6269",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08185.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08185_1.JPG",
       "name": "Oscar Groba Arriondo",
-      "sort_name": "Oscar Groba Arriondo",
+      "sort_name": "Groba Arriondo , Oscar",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08185.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08185_1.JPG"
         }
       ],
       "memberships": [
@@ -2163,9 +2538,9 @@
       "email": "pabdala@parlamento.gub.uy",
       "gender": "male",
       "id": "person/72fc5751-031b-4d32-8de9-96f4451443fa",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03062.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03062_1.JPG",
       "name": "Pablo Abdala",
-      "sort_name": "Pablo Abdala",
+      "sort_name": "Abdala , Pablo",
       "contact_details": [
         {
           "type": "twitter",
@@ -2174,7 +2549,7 @@
       ],
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03062.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03062_1.JPG"
         }
       ],
       "memberships": [
@@ -2218,12 +2593,12 @@
       "email": "pgonzalez@parlamento.gub.uy",
       "gender": "male",
       "id": "person/eeb76f65-fbf1-4441-90e4-1dae03829708",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10078.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Pablo_Gonzalez_foto_web_711_0.jpg",
       "name": "Pablo González",
-      "sort_name": "Pablo González",
+      "sort_name": "González , Pablo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10078.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Pablo_Gonzalez_foto_web_711_0.jpg"
         }
       ],
       "memberships": [
@@ -2244,12 +2619,12 @@
       "email": "piturralde@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b7fbff36-b6e9-4bda-b8e3-10983ccaa329",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02873.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02873_1.JPG",
       "name": "Pablo Iturralde Viñas",
-      "sort_name": "Pablo Iturralde Viñas",
+      "sort_name": "Iturralde Viñas , Pablo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02873.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02873_1.JPG"
         }
       ],
       "memberships": [
@@ -2296,12 +2671,12 @@
       "email": "rgonir@parlamento.gub.uy",
       "gender": "male",
       "id": "person/bc269a11-0340-4873-a095-5110dc09c767",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05938.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05938_1.JPG",
       "name": "Rodrigo Goñi Reyes",
-      "sort_name": "Rodrigo Goñi Reyes",
+      "sort_name": "Goñi Reyes , Rodrigo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05938.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot05938_1.JPG"
         }
       ],
       "memberships": [
@@ -2322,12 +2697,12 @@
       "email": "rbacigalupe@parlamento.gub.uy",
       "gender": "male",
       "id": "person/e19d67dd-1740-4b2c-a4c7-fe353b5fb8aa",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03063.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03063_1.JPG",
       "name": "Ruben Aníbal Bacigalupe Aunés",
-      "sort_name": "Ruben Aníbal Bacigalupe Aunés",
+      "sort_name": "Bacigalupe Aunés , Ruben Aníbal",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03063.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03063_1.JPG"
         }
       ],
       "memberships": [
@@ -2348,12 +2723,12 @@
       "email": "saristimunio@parlamento.gub.uy",
       "gender": "male",
       "id": "person/4572de7f-ad5e-4014-859c-e1f9b582f0af",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09913.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09913_1.JPG",
       "name": "Saúl Aristimuño",
-      "sort_name": "Saúl Aristimuño",
+      "sort_name": "Aristimuño , Saúl",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09913.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09913_1.JPG"
         }
       ],
       "memberships": [
@@ -2374,12 +2749,12 @@
       "email": "sandujar@parlamento.gub.uy",
       "gender": "male",
       "id": "person/8c7d6893-a7ea-48bc-b3f8-53f215250fcf",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11593.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11593_0.JPG",
       "name": "Sebastián Andújar",
-      "sort_name": "Sebastián Andújar",
+      "sort_name": "Andújar , Sebastián",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11593.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11593_0.JPG"
         }
       ],
       "memberships": [
@@ -2400,12 +2775,12 @@
       "email": "ssabini@parlamento.gub.uy",
       "gender": "male",
       "id": "person/322d7e45-0589-40ce-81f7-f21273d24daa",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09894.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09894_1.JPG",
       "name": "Sebastián Sabini",
-      "sort_name": "Sebastián Sabini",
+      "sort_name": "Sabini , Sebastián",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09894.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09894_1.JPG"
         }
       ],
       "memberships": [
@@ -2426,12 +2801,12 @@
       "email": "smier@parlamento.gub.uy",
       "gender": "male",
       "id": "person/380e4975-549f-4f84-a807-70dad2933a3d",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08368.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08368_1.JPG",
       "name": "Sergio Mier",
-      "sort_name": "Sergio Mier",
+      "sort_name": "Mier , Sergio",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot08368.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot08368_1.JPG"
         }
       ],
       "memberships": [
@@ -2452,12 +2827,12 @@
       "email": "srios@parlamento.gub.uy",
       "gender": "male",
       "id": "person/f8996dd8-0df9-4b49-b762-cb05e3d5fb58",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11577.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11577_0.JPG",
       "name": "Silvio Ríos",
-      "sort_name": "Silvio Ríos",
+      "sort_name": "Ríos , Silvio",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11577.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11577_0.JPG"
         }
       ],
       "memberships": [
@@ -2478,12 +2853,12 @@
       "email": "sviel@parlamento.gub.uy",
       "gender": "female",
       "id": "person/1c01ccf0-ffb4-442b-98af-ab74ce51c092",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11600.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11600_0.JPG",
       "name": "Stella Viel",
-      "sort_name": "Stella Viel",
+      "sort_name": "Viel , Stella",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11600.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11600_0.JPG"
         }
       ],
       "memberships": [
@@ -2504,12 +2879,12 @@
       "email": "smontaner@parlamento.gub.uy",
       "gender": "female",
       "id": "person/356adbaa-0997-4e04-a285-ca555d745fbf",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03412.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03412_1.JPG",
       "name": "Susana Montaner Formoso",
-      "sort_name": "Susana Montaner Formoso",
+      "sort_name": "Montaner Formoso , Susana",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03412.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03412_1.JPG"
         }
       ],
       "memberships": [
@@ -2530,12 +2905,12 @@
       "email": "spereyra@parlamento.gub.uy",
       "gender": "female",
       "id": "person/31062455-8d2b-4d82-8c9d-853baf1788e9",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09674.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09674_1.JPG",
       "name": "Susana Pereyra",
-      "sort_name": "Susana Pereyra",
+      "sort_name": "Pereyra , Susana",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09674.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09674_1.JPG"
         }
       ],
       "memberships": [
@@ -2556,12 +2931,12 @@
       "email": "tviera@parlamento.gub.uy",
       "gender": "male",
       "id": "person/fd294de8-9cae-4b76-bbd6-f6dcbf37c624",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00196.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00196_1.JPG",
       "name": "Tabaré Viera Duarte",
-      "sort_name": "Tabaré Viera Duarte",
+      "sort_name": "Viera Duarte , Tabaré",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00196.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot00196_1.JPG"
         }
       ],
       "memberships": [
@@ -2582,12 +2957,12 @@
       "email": "vrapela@parlamento.gub.uy",
       "gender": "female",
       "id": "person/5ceed26f-5a14-4659-8a25-b9c7301ea654",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11589.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/IMG_7687.JPG",
       "name": "Valentina Rapela",
-      "sort_name": "Valentina Rapela",
+      "sort_name": "Rapela , Valentina",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11589.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/IMG_7687.JPG"
         }
       ],
       "memberships": [
@@ -2660,12 +3035,12 @@
       "email": "wezquerra@parlamento.gub.uy",
       "gender": "male",
       "id": "person/507c779b-1525-480f-8baf-d56d7afdd4e0",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11611.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11611_0.JPG",
       "name": "W. Aparicio Ezquerra Alonso",
-      "sort_name": "W. Aparicio Ezquerra Alonso",
+      "sort_name": "Ezquerra Alonso , W. Aparicio",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11611.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11611_0.JPG"
         }
       ],
       "memberships": [
@@ -2686,12 +3061,12 @@
       "email": "wdeleon@parlamento.gub.uy",
       "gender": "male",
       "id": "person/2c0907fd-98a4-4e2d-a147-c2ea7733a44c",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03407.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03407_1.JPG",
       "name": "Walter De León",
-      "sort_name": "Walter De León",
+      "sort_name": "De León , Walter",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03407.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot03407_1.JPG"
         }
       ],
       "memberships": [
@@ -2712,12 +3087,12 @@
       "email": "wverri@parlamento.gub.uy",
       "gender": "male",
       "id": "person/7f7eb261-a4b4-47ec-b922-99f028389c4f",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09973.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09973_1.JPG",
       "name": "Walter Verri",
-      "sort_name": "Walter Verri",
+      "sort_name": "Verri , Walter",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09973.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09973_1.JPG"
         }
       ],
       "memberships": [
@@ -2738,12 +3113,12 @@
       "email": "wsilvera@parlamento.gub.uy",
       "gender": "male",
       "id": "person/a35e81d2-efe4-427c-a3da-37b26b49ae2f",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11592.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11592_0.JPG",
       "name": "Washington Silvera",
-      "sort_name": "Washington Silvera",
+      "sort_name": "Silvera , Washington",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11592.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11592_0.JPG"
         }
       ],
       "memberships": [
@@ -2764,12 +3139,12 @@
       "email": "adastugue@parlamento.gub.uy",
       "gender": "male",
       "id": "person/bbf6e7b4-b81d-475b-864d-3118a64ba55a",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11598.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11598_0.JPG",
       "name": "Álvaro Dastugue",
-      "sort_name": "Álvaro Dastugue",
+      "sort_name": "Dastugue , Álvaro",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11598.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11598_0.JPG"
         }
       ],
       "memberships": [
