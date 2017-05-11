@@ -2457,31 +2457,6 @@
     },
     {
       "gender": "female",
-      "id": "person/375c8881-a59d-4ab5-bc71-1a5181efbebe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Elżbieta_Borowska_Sejm_2015.JPG",
-      "name": "Elżbieta Borowska",
-      "sort_name": "Elżbieta Borowska",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Elżbieta_Borowska_Sejm_2015.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/375c8881-a59d-4ab5-bc71-1a5181efbebe",
-          "organization_id": "chamber/sejm",
-          "role": "member",
-          "on_behalf_of_id": "klub_poselski_kukiz’15",
-          "area_id": "14-8",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
       "id": "person/028e4b3e-468c-44c7-9ee7-ca08b99ca1a9",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Elżbieta_Duda_Wręczenie_zaświadczeń_o_wyborze_2015.JPG",
       "name": "Elżbieta Duda",
@@ -2673,6 +2648,31 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
           "area_id": "1-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/375c8881-a59d-4ab5-bc71-1a5181efbebe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Elżbieta_Borowska_Sejm_2015.JPG",
+      "name": "Elżbieta Zielińska",
+      "sort_name": "Elżbieta Zielińska",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Elżbieta_Borowska_Sejm_2015.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/375c8881-a59d-4ab5-bc71-1a5181efbebe",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_poselski_kukiz’15",
+          "area_id": "14-8",
           "legislative_period_id": "term/8"
         }
       ],
