@@ -1,7 +1,7 @@
 {
-  "total": 646,
+  "total": 647,
   "page": 1,
-  "per_page": 646,
+  "per_page": 647,
   "has_more": false,
   "result": [
     {
@@ -4619,6 +4619,35 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a20b6c23-d567-469b-b926-18452503057b",
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642695.jpg",
+      "name": "Eric Bothorel",
+      "sort_name": "Eric Bothorel",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ebothorel"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642695.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a20b6c23-d567-469b-b926-18452503057b",
+          "organization_id": "chamber/assemblée_nationale",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "22_5",
+          "start_date": "2017-05-06",
+          "legislative_period_id": "term/14"
+        }
       ]
     },
     {
