@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 105,
   "page": 1,
-  "per_page": 104,
+  "per_page": 105,
   "has_more": false,
   "result": [
     {
@@ -579,7 +579,6 @@
       ]
     },
     {
-      "email": "nancymuinjo@mha.gov.na",
       "gender": "female",
       "id": "person/1955f96c-f07a-4e19-8277-47a0f834044a",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_ithana.JPG",
@@ -2258,7 +2257,7 @@
       ]
     },
     {
-      "email": "d.murorurua@parliament.na",
+      "email": "d.murorua@parliament.na",
       "id": "person/a7270a68-a04e-4d61-81f2-367aceeeaa73",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_murorua.jpg",
       "name": "Themistokles Dudu Murorua",
@@ -2344,6 +2343,30 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "jennifer@dtaofnamibia.org",
+      "id": "person/36be11c4-047d-4547-94a1-8f603aa756a8",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_van_den_heefer.jpg",
+      "name": "Van den Heever, Jennifer Muriel",
+      "sort_name": "Van den Heever, Jennifer Muriel",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_van_den_heefer.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36be11c4-047d-4547-94a1-8f603aa756a8",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "DTA",
           "legislative_period_id": "term/6"
         }
       ],
