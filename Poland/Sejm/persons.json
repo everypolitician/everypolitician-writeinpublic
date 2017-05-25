@@ -1,7 +1,7 @@
 {
-  "total": 471,
+  "total": 472,
   "page": 1,
-  "per_page": 471,
+  "per_page": 472,
   "has_more": false,
   "result": [
     {
@@ -6202,6 +6202,7 @@
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "38-8",
           "end_date": "2017-05-11",
           "legislative_period_id": "term/8"
         }
@@ -7284,6 +7285,25 @@
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
           "area_id": "29-8",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/543e732b-d4da-49e6-894b-509e7053bb32",
+      "name": "Marta Kubiak",
+      "sort_name": "Marta Kubiak",
+      "memberships": [
+        {
+          "person_id": "person/543e732b-d4da-49e6-894b-509e7053bb32",
+          "organization_id": "chamber/sejm",
+          "role": "member",
+          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "area_id": "38-8",
+          "start_date": "2017-05-24",
           "legislative_period_id": "term/8"
         }
       ],
