@@ -1,7 +1,7 @@
 {
-  "total": 112,
+  "total": 113,
   "page": 1,
-  "per_page": 112,
+  "per_page": 113,
   "has_more": false,
   "result": [
     {
@@ -765,6 +765,24 @@
           "area_id": "area/bayelsa_east,_bayelsa_state",
           "legislative_period_id": "term/8"
         }
+      ]
+    },
+    {
+      "id": "person/a16ff2f2-0df2-4372-a2a1-50faddd04c0a",
+      "name": "Benjamin Uwajumogu",
+      "sort_name": "Benjamin Uwajumogu",
+      "memberships": [
+        {
+          "person_id": "person/a16ff2f2-0df2-4372-a2a1-50faddd04c0a",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/imo_north,_imo_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {

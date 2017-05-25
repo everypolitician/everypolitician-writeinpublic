@@ -1,7 +1,7 @@
 {
-  "total": 366,
+  "total": 367,
   "page": 1,
-  "per_page": 366,
+  "per_page": 367,
   "has_more": false,
   "result": [
     {
@@ -2085,6 +2085,30 @@
           "role": "member",
           "on_behalf_of_id": "APC",
           "area_id": "area/ikorodu,_lagos_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f9a3b9d5-18f7-4d6c-a1b5-4c11be52e9cd",
+      "image": "http://www.nass.gov.ng/images/mps/970.jpg",
+      "name": "Ben Nwankwo",
+      "sort_name": "Ben Nwankwo",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/970.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f9a3b9d5-18f7-4d6c-a1b5-4c11be52e9cd",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/orumba_north/south,_anambra_state",
           "legislative_period_id": "term/8"
         }
       ],
