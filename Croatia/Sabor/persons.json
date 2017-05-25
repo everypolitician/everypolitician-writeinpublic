@@ -1,7 +1,7 @@
 {
-  "total": 153,
+  "total": 157,
   "page": 1,
-  "per_page": 153,
+  "per_page": 157,
   "has_more": false,
   "result": [
     {
@@ -500,6 +500,30 @@
       ]
     },
     {
+      "id": "person/64bd72e1-6e67-45bb-8f2e-e1c727e53e8b",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47148&sp=170x219",
+      "name": "Branimir Glavaš",
+      "sort_name": "Branimir Glavaš",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47148&sp=170x219"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/64bd72e1-6e67-45bb-8f2e-e1c727e53e8b",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "hdssb",
+          "area_id": "area/4th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/f90d3094-051a-44d6-a0e3-d1f809c5522e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=19575",
@@ -914,6 +938,7 @@
           "on_behalf_of_id": "most",
           "area_id": "area/1st",
           "start_date": "2016-10-19",
+          "end_date": "2017-05-10",
           "legislative_period_id": "term/9"
         }
       ],
@@ -1583,6 +1608,30 @@
       ]
     },
     {
+      "id": "person/49130dd1-f11a-420b-93f6-41c22d60b534",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44452",
+      "name": "Ivan Kovačić",
+      "sort_name": "Ivan Kovačić",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44452"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/49130dd1-f11a-420b-93f6-41c22d60b534",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/10th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/1029fa91-db12-4a32-8660-ad9f04c26308",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44460",
@@ -1878,6 +1927,7 @@
           "on_behalf_of_id": "hdssb",
           "area_id": "area/4th",
           "start_date": "2016-11-04",
+          "end_date": "2017-05-11",
           "legislative_period_id": "term/9"
         }
       ],
@@ -2002,6 +2052,7 @@
           "role": "member",
           "on_behalf_of_id": "most",
           "area_id": "area/2nd",
+          "end_date": "2017-05-10",
           "legislative_period_id": "term/9"
         }
       ],
@@ -2324,6 +2375,7 @@
           "on_behalf_of_id": "most",
           "area_id": "area/10th",
           "start_date": "2016-10-19",
+          "end_date": "2017-05-11",
           "legislative_period_id": "term/9"
         }
       ],
@@ -3222,6 +3274,24 @@
       ]
     },
     {
+      "id": "person/77ede113-0a07-45ef-885f-696da09e8a50",
+      "name": "Slaven Dobrović",
+      "sort_name": "Slaven Dobrović",
+      "memberships": [
+        {
+          "person_id": "person/77ede113-0a07-45ef-885f-696da09e8a50",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "most",
+          "area_id": "area/2nd",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/954fb9e4-cafa-4e84-960e-7ef20fff384e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44427",
@@ -3539,6 +3609,24 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/12th",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/110987e5-bc92-4fb6-907f-364acc43d3f5",
+      "name": "Vlaho Orepić",
+      "sort_name": "Vlaho Orepić",
+      "memberships": [
+        {
+          "person_id": "person/110987e5-bc92-4fb6-907f-364acc43d3f5",
+          "organization_id": "chamber/sabor",
+          "role": "member",
+          "on_behalf_of_id": "most",
+          "area_id": "area/1st",
           "legislative_period_id": "term/9"
         }
       ],
