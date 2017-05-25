@@ -895,19 +895,20 @@
       ]
     },
     {
-      "email": "a.malecela@bunge.go.tz",
-      "id": "person/49ef27ae-1bba-4252-a666-783959b66300",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.64738000%201494232865.png",
+      "email": "amalecela@parliament.go.tz",
+      "gender": "female",
+      "id": "person/109671d1-0f07-4559-b529-e43f5024ae1c",
+      "image": "http://www.parliament.go.tz/polis/images/Pictures/oll/1111.jpg",
       "name": "Anne Kilango Malecela",
-      "sort_name": "Anne Kilango Malecela",
+      "sort_name": "Malecela Kilango Anne",
       "images": [
         {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.64738000%201494232865.png"
+          "url": "http://www.parliament.go.tz/polis/images/Pictures/oll/1111.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/49ef27ae-1bba-4252-a666-783959b66300",
+          "person_id": "person/109671d1-0f07-4559-b529-e43f5024ae1c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ccm",
@@ -1354,12 +1355,12 @@
       "email": "c.ruge@bunge.go.tz",
       "gender": "female",
       "id": "person/1c0c4b2a-4cc4-45d5-bd3d-39e2a3b9e09e",
-      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.73878900%201494922747.png",
       "name": "Catherine Nyakao Ruge",
       "sort_name": "Catherine Nyakao Ruge",
       "images": [
         {
-          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+          "url": "http://parliament.go.tz/polis/uploads/members/0.73878900%201494922747.png"
         }
       ],
       "memberships": [
@@ -3236,32 +3237,6 @@
       ]
     },
     {
-      "email": "g.rwakatare@bunge.go.tz",
-      "gender": "female",
-      "id": "person/62a6cd6b-cc60-4ba0-8bdc-a2a7c39de63e",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.33440300%201494232974.png",
-      "name": "Getrude Pangalile Rwakatare",
-      "sort_name": "Getrude Pangalile Rwakatare",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.33440300%201494232974.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/62a6cd6b-cc60-4ba0-8bdc-a2a7c39de63e",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "area/special_seats",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "g.olemeiseyeki@bunge.go.tz",
       "id": "person/900ee061-29b7-4052-8c65-87a937a71555",
       "image": "http://parliament.go.tz/polis/uploads/members/0.52939100%201485859100.png",
@@ -4121,19 +4096,20 @@
       ]
     },
     {
-      "email": "j.ayoub@bunge.go.tz",
-      "id": "person/e5588e69-73cc-439a-b859-be9d53a98210",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.72953700%201486016028.png",
+      "email": "jAyoub@parliament.go.tz",
+      "gender": "male",
+      "id": "person/67b42f29-9ae2-4055-a579-a1a62dce3ddd",
+      "image": "http://www.parliament.go.tz/polis/images/Pictures/oll/1760.jpg",
       "name": "Jaku Hashim Ayoub",
-      "sort_name": "Jaku Hashim Ayoub",
+      "sort_name": "Ayoub Hashim Jaku",
       "images": [
         {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.72953700%201486016028.png"
+          "url": "http://www.parliament.go.tz/polis/images/Pictures/oll/1760.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e5588e69-73cc-439a-b859-be9d53a98210",
+          "person_id": "person/67b42f29-9ae2-4055-a579-a1a62dce3ddd",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ccm",
@@ -8012,6 +7988,32 @@
       "memberships": [
         {
           "person_id": "person/90a2fe06-521b-4bf8-a09a-b0773830f3f5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "grwakatare@parliament.go.tz",
+      "gender": "female",
+      "id": "person/300d0798-a4eb-430b-82fe-d0725fb4e176",
+      "image": "http://www.parliament.go.tz/polis/images/Pictures/oll/1560.jpg",
+      "name": "Rev. Dr. Getrude Pangalile Rwakatare",
+      "sort_name": "Rwakatare Pangalile Rev. Dr. Getrude",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/polis/images/Pictures/oll/1560.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/300d0798-a4eb-430b-82fe-d0725fb4e176",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ccm",
