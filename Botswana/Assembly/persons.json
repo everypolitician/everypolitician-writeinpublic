@@ -1,7 +1,7 @@
 {
-  "total": 63,
+  "total": 64,
   "page": 1,
-  "per_page": 63,
+  "per_page": 64,
   "has_more": false,
   "result": [
     {
@@ -74,7 +74,7 @@
           "person_id": "person/f7469ab5-25cb-4a91-bfcb-8904e29a6d14",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "bcp",
+          "on_behalf_of_id": "bdp",
           "area_id": "area/okavango",
           "legislative_period_id": "term/2014"
         }
@@ -158,8 +158,8 @@
     {
       "email": "dmakgalemele@gov.bw",
       "id": "person/32dbf538-0bb9-47ed-9e50-f2e76c48f682",
-      "name": "Dikgang Makgalemele",
-      "sort_name": "Dikgang Makgalemele",
+      "name": "Dikgang Phillip Makgalemele",
+      "sort_name": "Dikgang Phillip Makgalemele",
       "memberships": [
         {
           "person_id": "person/32dbf538-0bb9-47ed-9e50-f2e76c48f682",
@@ -213,8 +213,8 @@
     {
       "gender": "male",
       "id": "person/57b3c6f7-c91b-4aa4-a7c0-17992f518517",
-      "name": "Duma Boko",
-      "sort_name": "Duma Boko",
+      "name": "Duma Gideon Boko",
+      "sort_name": "Duma Gideon Boko",
       "memberships": [
         {
           "person_id": "person/57b3c6f7-c91b-4aa4-a7c0-17992f518517",
@@ -268,8 +268,8 @@
     },
     {
       "id": "person/8728afa7-374c-4cf4-89fa-35c81933d6e2",
-      "name": "Fidelis Molao",
-      "sort_name": "Fidelis Molao",
+      "name": "Fidelis Mmilili Molao",
+      "sort_name": "Fidelis Mmilili Molao",
       "memberships": [
         {
           "person_id": "person/8728afa7-374c-4cf4-89fa-35c81933d6e2",
@@ -314,24 +314,6 @@
           "role": "member",
           "on_behalf_of_id": "udc",
           "area_id": "area/mochudi_west",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/201a8a8e-a3b0-4586-bbed-43c19bd34f2b",
-      "name": "Guma Moyo",
-      "sort_name": "Guma Moyo",
-      "memberships": [
-        {
-          "person_id": "person/201a8a8e-a3b0-4586-bbed-43c19bd34f2b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "bdp",
-          "area_id": "area/tati_east",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -428,6 +410,7 @@
           "role": "member",
           "on_behalf_of_id": "udc",
           "area_id": "area/goodhope-mabule",
+          "end_date": "2015-05-27",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -500,6 +483,24 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "bdp",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7a0612aa-7c71-4a1a-a7a4-fa0795f6d76d",
+      "name": "Kgosi Lotlaamoreng Montshioa",
+      "sort_name": "Kgosi Lotlaamoreng Montshioa",
+      "memberships": [
+        {
+          "person_id": "person/7a0612aa-7c71-4a1a-a7a4-fa0795f6d76d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "udc",
+          "area_id": "area/goodhope-mabule",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -619,8 +620,8 @@
     {
       "email": "mgoya@gov.bw",
       "id": "person/0a5890fe-7a27-441e-a80f-bae0307f159b",
-      "name": "Moiseraela Goya",
-      "sort_name": "Moiseraela Goya",
+      "name": "Moiseraela Master Goya",
+      "sort_name": "Moiseraela Master Goya",
       "memberships": [
         {
           "person_id": "person/0a5890fe-7a27-441e-a80f-bae0307f159b",
@@ -656,8 +657,8 @@
     },
     {
       "id": "person/623ee59b-4606-4244-919c-44ec148bceff",
-      "name": "Mokwaledi Moswaane",
-      "sort_name": "Mokwaledi Moswaane",
+      "name": "Mokwaledi Ignatious Moswaane",
+      "sort_name": "Mokwaledi Ignatious Moswaane",
       "memberships": [
         {
           "person_id": "person/623ee59b-4606-4244-919c-44ec148bceff",
@@ -907,6 +908,24 @@
           "role": "member",
           "on_behalf_of_id": "udc",
           "area_id": "area/tlokweng",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/201a8a8e-a3b0-4586-bbed-43c19bd34f2b",
+      "name": "Samson Guma Moyo",
+      "sort_name": "Samson Guma Moyo",
+      "memberships": [
+        {
+          "person_id": "person/201a8a8e-a3b0-4586-bbed-43c19bd34f2b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "bdp",
+          "area_id": "area/tati_east",
           "legislative_period_id": "term/2014"
         }
       ],
