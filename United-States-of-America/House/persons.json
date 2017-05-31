@@ -1,7 +1,7 @@
 {
-  "total": 441,
+  "total": 442,
   "page": 1,
-  "per_page": 441,
+  "per_page": 442,
   "has_more": false,
   "result": [
     {
@@ -12128,6 +12128,32 @@
     },
     {
       "gender": "male",
+      "id": "person/d1d8d5bf-1434-45b1-b5ab-e6af5b1b31b5",
+      "image": "https://theunitedstates.io/images/congress/original/E000298.jpg",
+      "name": "Ron Estes",
+      "sort_name": "Estes, Ron",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/E000298.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d1d8d5bf-1434-45b1-b5ab-e6af5b1b31b5",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:ks/cd:4",
+          "start_date": "2017-04-25",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/5c5e6675-55d7-4c19-99fd-07cf5b82112e",
       "image": "https://theunitedstates.io/images/congress/original/K000188.jpg",
       "name": "Ron Kind",
@@ -12232,7 +12258,7 @@
       "gender": "male",
       "id": "person/3830dc96-e97f-46d2-b431-9bf11ae578da",
       "image": "https://theunitedstates.io/images/congress/original/K000390.jpg",
-      "name": "Ruben Kihuen",
+      "name": "Ruben J. Kihuen",
       "sort_name": "Kihuen, Ruben",
       "contact_details": [
         {
