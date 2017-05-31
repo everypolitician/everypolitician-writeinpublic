@@ -1,7 +1,7 @@
 {
-  "total": 427,
+  "total": 429,
   "page": 1,
-  "per_page": 427,
+  "per_page": 429,
   "has_more": false,
   "result": [
     {
@@ -615,6 +615,16 @@
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_kommun",
           "start_date": "2015-10-01",
+          "end_date": "2017-05-28",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/c17f0fac-d311-4c31-82dd-230987ae3905",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-05-29",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1922,6 +1932,16 @@
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_kommun",
           "start_date": "2015-10-01",
+          "end_date": "2017-05-28",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/4013bc9b-1482-40b9-aa06-34f3e5c41131",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-05-29",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -2037,6 +2057,7 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_kommun",
+          "end_date": "2017-05-28",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -4167,6 +4188,16 @@
           "start_date": "2014-12-01",
           "end_date": "2015-05-30",
           "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/7d9642ff-f9a7-405c-937d-0da805fdfbe9",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/uppsala_län",
+          "start_date": "2017-05-18",
+          "end_date": "2017-06-18",
+          "legislative_period_id": "term/2014"
         }
       ],
       "contact_details": [
@@ -4711,7 +4742,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2014-12-22",
           "end_date": "2015-03-31",
           "legislative_period_id": "term/2014"
@@ -4721,7 +4752,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2015-04-01",
           "end_date": "2015-05-15",
           "legislative_period_id": "term/2014"
@@ -4731,7 +4762,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2016-01-11",
           "end_date": "2016-07-28",
           "legislative_period_id": "term/2014"
@@ -4741,7 +4772,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2016-07-29",
           "end_date": "2017-03-18",
           "legislative_period_id": "term/2014"
@@ -4751,7 +4782,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2017-03-19",
           "end_date": "2017-03-20",
           "legislative_period_id": "term/2014"
@@ -4761,7 +4792,7 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2017-03-21",
           "end_date": "2017-05-14",
           "legislative_period_id": "term/2014"
@@ -4771,9 +4802,36 @@
           "organization_id": "chamber/riksdag",
           "role": "member",
           "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
+          "area_id": "area/hallands_län",
           "start_date": "2017-05-15",
           "end_date": "2017-06-30",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/e67b3b1b-c424-4fc6-9b3a-8e5793fd65b5",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e2ee7ef-dcad-4543-8e46-cb995d4f9e97_max.jpg",
+      "name": "Helena Bonnier",
+      "sort_name": "Helena",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2e2ee7ef-dcad-4543-8e46-cb995d4f9e97_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e67b3b1b-c424-4fc6-9b3a-8e5793fd65b5",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-07-05",
+          "end_date": "2018-03-05",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -9258,6 +9316,34 @@
       ]
     },
     {
+      "email": "mattias.vepsa@riksdagen.se",
+      "gender": "male",
+      "id": "person/1657ff7c-25ca-4956-a090-33778f076953",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb0ab-e161-4d7a-acc9-57c3923d5456_max.jpg",
+      "name": "Mattias Vepsä",
+      "sort_name": "Mattias",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb0ab-e161-4d7a-acc9-57c3923d5456_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1657ff7c-25ca-4956-a090-33778f076953",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-05-29",
+          "end_date": "2017-06-30",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mia.sydow.molleby@riksdagen.se",
       "gender": "female",
       "id": "person/1b6ad305-4fb5-4c72-84a1-ff50cee433af",
@@ -9968,7 +10054,7 @@
           "person_id": "person/0e260110-2e4f-4a73-894c-bdbcaba60319",
           "organization_id": "chamber/riksdag",
           "role": "member",
-          "on_behalf_of_id": "M",
+          "on_behalf_of_id": "IND",
           "area_id": "area/malmö_kommun",
           "legislative_period_id": "term/2014"
         }
@@ -10569,6 +10655,16 @@
           "on_behalf_of_id": "MP",
           "area_id": "area/stockholms_kommun",
           "start_date": "2016-06-07",
+          "end_date": "2017-07-14",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/9080c573-e36a-4e8b-a85f-e1b2ac415af7",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "MP",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-07-15",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -12036,6 +12132,16 @@
           "on_behalf_of_id": "MP",
           "area_id": "area/stockholms_kommun",
           "start_date": "2016-06-07",
+          "end_date": "2017-07-14",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/ac41d61e-b5a7-4674-9f1e-84deff42e980",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "MP",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-07-15",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -12172,7 +12278,16 @@
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_kommun",
           "start_date": "2017-03-02",
-          "end_date": "2017-06-30",
+          "end_date": "2017-05-28",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/9c4816fd-bdee-47bc-b3e8-6f648c8ad773",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-05-29",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -12335,6 +12450,16 @@
           "on_behalf_of_id": "S",
           "area_id": "area/stockholms_kommun",
           "start_date": "2015-10-01",
+          "end_date": "2017-05-28",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/83cb42cd-20b7-4a7b-93be-5088d1f99971",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2017-05-29",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -12488,6 +12613,16 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "area/stockholms_kommun",
+          "end_date": "2017-07-04",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/bdae38bb-5fc2-4d3b-9022-6fc69791e2c1",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/stockholms_kommun",
+          "start_date": "2018-03-06",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -12892,6 +13027,16 @@
           "on_behalf_of_id": "M",
           "area_id": "area/uppsala_län",
           "start_date": "2015-05-31",
+          "end_date": "2017-05-17",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/101f634b-0929-47aa-9270-7c6db89de065",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "area/uppsala_län",
+          "start_date": "2017-06-19",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -13221,6 +13366,7 @@
           "on_behalf_of_id": "MP",
           "area_id": "area/stockholms_kommun",
           "start_date": "2016-06-07",
+          "end_date": "2017-07-14",
           "legislative_period_id": "term/2014"
         }
       ]
