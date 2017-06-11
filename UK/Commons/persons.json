@@ -104,9 +104,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/635080c2-6787-4770-8550-f402f58fb14a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Afzal_Khan.jpg",
       "name": "Afzal Khan",
       "sort_name": "Afzal Khan",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Afzal_Khan.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/635080c2-6787-4770-8550-f402f58fb14a",
@@ -491,8 +498,14 @@
     },
     {
       "id": "person/133764d1-879b-4397-a74a-8061602548ba",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alex_Sobel.jpg",
       "name": "Alex Sobel",
       "sort_name": "Alex Sobel",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alex_Sobel.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/133764d1-879b-4397-a74a-8061602548ba",
@@ -642,6 +655,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/68dd742e-9def-4517-9466-c00387f3c386",
       "name": "Alister Jack",
       "sort_name": "Alister Jack",
@@ -1010,9 +1024,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a769614a-e796-40f1-b042-2f37e61d1c8f",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Andrew_Lewer.jpg",
       "name": "Andrew Lewer",
       "sort_name": "Andrew Lewer",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Andrew_Lewer.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a769614a-e796-40f1-b042-2f37e61d1c8f",
@@ -1757,9 +1778,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/86fccf33-5b65-4a3a-b9e6-601400a01f46",
       "name": "Bambos Charalambous",
       "sort_name": "Bambos Charalambous",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Bambos4MP"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/86fccf33-5b65-4a3a-b9e6-601400a01f46",
@@ -1769,9 +1797,6 @@
           "area_id": "uk.org.publicwhip/cons/218",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1839,9 +1864,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b008e40c-6fe0-4bbe-8a4a-7363cce76d67",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Barry_McElduff.jpg",
       "name": "Barry McElduff",
       "sort_name": "Barry McElduff",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Barry_McElduff.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b008e40c-6fe0-4bbe-8a4a-7363cce76d67",
@@ -1939,6 +1971,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/75e89afa-920d-4a89-8040-f9b222e363c8",
       "name": "Ben Lake",
       "sort_name": "Ben Lake",
@@ -3391,6 +3424,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/4eb7ceb0-25db-4773-8b94-84df77e5e9a9",
       "name": "Christine Jardine",
       "sort_name": "Christine Jardine",
@@ -3435,9 +3469,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d2131831-a6eb-4dbc-a1a0-01dd453ff6ff",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chris_Hazzard.jpg",
       "name": "Christopher Hazzard",
       "sort_name": "Christopher Hazzard",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chris_Hazzard.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/d2131831-a6eb-4dbc-a1a0-01dd453ff6ff",
@@ -3974,6 +4015,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b1240f95-283a-4a8f-92bc-ec8be87e4825",
       "name": "Damien Moore",
       "sort_name": "Damien Moore",
@@ -3992,9 +4034,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/354469eb-50e6-4eb3-a0e9-11593add5e2d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dan_Carden_MP.jpg",
       "name": "Dan Carden",
       "sort_name": "Dan Carden",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DanCardenMP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Dan_Carden_MP.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/354469eb-50e6-4eb3-a0e9-11593add5e2d",
@@ -4004,9 +4059,6 @@
           "area_id": "uk.org.publicwhip/cons/347",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4132,6 +4184,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/6b701e3e-2275-40b6-a767-e4b5cfa7cf28",
       "name": "Danielle Rowley",
       "sort_name": "Danielle Rowley",
@@ -4318,6 +4371,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b9985a80-cb71-4eae-8c4d-d47cf685546f",
       "name": "David Duguid",
       "sort_name": "David Duguid",
@@ -5086,6 +5140,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/485c4080-edcd-40da-8347-eb3e66a31571",
       "name": "Douglas Ross",
       "sort_name": "Douglas Ross",
@@ -5359,6 +5414,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Elisha_McCallion_2015.jpg",
       "name": "Elisha McCallion",
       "sort_name": "Elisha McCallion",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "elishamcc_sf"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Elisha_McCallion_2015.jpg"
@@ -5373,9 +5434,6 @@
           "area_id": "uk.org.publicwhip/cons/235",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5502,6 +5560,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/69821d8d-e0b0-4977-9a4c-d48c86e853ab",
       "name": "Emma Little-Pengelly",
       "sort_name": "Emma Little-Pengelly",
@@ -5615,6 +5674,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5d6f585b-9755-4d71-a8df-b0b3509aedb9",
       "name": "Faisal Rashid",
       "sort_name": "Faisal Rashid",
@@ -5665,6 +5725,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/70e9b913-af2d-49f5-b974-889a07dc7fdb",
       "name": "Fiona Onasanya",
       "sort_name": "Fiona Onasanya",
@@ -7271,6 +7332,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/9122698b-d7e7-4442-a9e6-008c8ea52e8c",
       "name": "Hugh Gaffney",
       "sort_name": "Hugh Gaffney",
@@ -8179,9 +8241,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/69a73e5b-f326-4c8d-ae18-ab63829e255d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jamie_Stone.jpg",
       "name": "Jamie Stone",
       "sort_name": "Jamie Stone",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JamieHWStone"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jamie_Stone.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/69a73e5b-f326-4c8d-ae18-ab63829e255d",
@@ -8191,9 +8266,6 @@
           "area_id": "uk.org.publicwhip/cons/106",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -9129,9 +9201,28 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0dda24fd-4946-4407-9989-472e2bac0737",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/JohnLamontMSP20110510.JPG",
       "name": "John Lamont",
       "sort_name": "John Lamont",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "John2Win"
+        }
+      ],
+      "links": [
+        {
+          "url": "JohnLamontBorders",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/JohnLamontMSP20110510.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/0dda24fd-4946-4407-9989-472e2bac0737",
@@ -9141,9 +9232,6 @@
           "area_id": "uk.org.publicwhip/cons/670",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -9723,9 +9811,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/2eb200ca-e5a7-40cb-b7c8-dee5f54352d7",
       "name": "Julia Dockerill",
       "sort_name": "Julia Dockerill",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JuliaDockerill"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2eb200ca-e5a7-40cb-b7c8-dee5f54352d7",
@@ -9735,9 +9830,6 @@
           "area_id": "uk.org.publicwhip/cons/2196",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -10435,9 +10527,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/7435852e-7384-4968-8293-06025e364f4a",
       "name": "Kemi Badenoch",
       "sort_name": "Kemi Badenoch",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KemiBadenoch"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7435852e-7384-4968-8293-06025e364f4a",
@@ -10447,9 +10546,6 @@
           "area_id": "uk.org.publicwhip/cons/492",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -11256,9 +11352,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f9b31013-ddf2-45dc-9cde-f4d9ca313c2d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lloyd_Russell-Moyle_2015.jpg",
       "name": "Lloyd Russell-Moyle",
       "sort_name": "Lloyd Russell-Moyle",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "lloyd_rm"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lloyd_Russell-Moyle_2015.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f9b31013-ddf2-45dc-9cde-f4d9ca313c2d",
@@ -11268,9 +11377,6 @@
           "area_id": "uk.org.publicwhip/cons/88",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -12487,6 +12593,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/52dbda5c-b72a-48e6-96fd-d922ecc324c4",
       "name": "Martin Whitfield",
       "sort_name": "Martin Whitfield",
@@ -13554,9 +13661,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/530a69cf-9d1b-48e0-ae96-56888e586a4d",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PX_Director_Neil_O'Brien.jpg",
       "name": "Neil O'Brien",
       "sort_name": "Neil O'Brien",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PX_Director_Neil_O'Brien.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/530a69cf-9d1b-48e0-ae96-56888e586a4d",
@@ -14597,6 +14711,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/39ffd1cd-4070-45b7-90d2-1b9f570a0866",
       "name": "Paul Girvan",
       "sort_name": "Paul Girvan",
@@ -14650,6 +14765,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/8da2aa13-27fa-4ccf-9ffd-172598f201d0",
       "name": "Paul Masterton",
       "sort_name": "Paul Masterton",
@@ -14732,6 +14848,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/85f3ba0f-a092-4a78-8fb3-2f5ad690326c",
       "name": "Paul Sweeney",
       "sort_name": "Paul Sweeney",
@@ -16370,6 +16487,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/33818ee9-b788-4f8e-ab46-51b676394b8d",
       "name": "Ross Thomson",
       "sort_name": "Ross Thomson",
@@ -16516,6 +16634,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/7ccf6c78-df3d-4677-96ab-255abae0584d",
       "name": "Ruth George",
       "sort_name": "Ruth George",
@@ -18159,9 +18278,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9b770f9b-f345-4e9f-9597-6df08ac4ba7e",
       "name": "Thelma Walker",
       "sort_name": "Thelma Walker",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Red_thelma"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/9b770f9b-f345-4e9f-9597-6df08ac4ba7e",
@@ -18171,9 +18297,6 @@
           "area_id": "uk.org.publicwhip/cons/145",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -18786,6 +18909,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vicky_Ford.jpg",
       "name": "Vicky Ford",
       "sort_name": "Vicky Ford",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "vickyford"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vicky_Ford.jpg"
@@ -18800,9 +18929,6 @@
           "area_id": "uk.org.publicwhip/cons/2180",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
