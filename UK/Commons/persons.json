@@ -397,6 +397,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5cfce384-bdb1-4473-972e-2661c805bd35",
       "name": "Alex Burghart",
       "sort_name": "Alex Burghart",
@@ -479,6 +480,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c6ccc7d8-01fe-4fe4-9699-4c2b1dd0abf2",
       "name": "Alex Norris",
       "sort_name": "Alex Norris",
@@ -878,6 +880,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/fde71d76-d3ef-4365-ac2b-8a51f2f8ba71",
       "name": "Andrew Bowie",
       "sort_name": "Andrew Bowie",
@@ -1029,6 +1032,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Andrew_Lewer.jpg",
       "name": "Andrew Lewer",
       "sort_name": "Andrew Lewer",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ALewerMBE"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Andrew_Lewer.jpg"
@@ -1043,9 +1052,6 @@
           "area_id": "uk.org.publicwhip/cons/431",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1924,6 +1930,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/1a835662-0212-4592-9dba-7de0b7997417",
       "name": "Ben Bradley",
       "sort_name": "Ben Bradley",
@@ -2118,6 +2125,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/36a510d2-95aa-418f-a2eb-a2ea531c428e",
       "name": "Bill Grant",
       "sort_name": "Bill Grant",
@@ -2251,6 +2259,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ba9576bf-55b1-4c03-a12d-701de922f73a",
       "name": "Bob Seely",
       "sort_name": "Bob Seely",
@@ -3692,9 +3701,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/09a32353-2f7c-45ad-82cd-e21c6c54504f",
       "name": "Colin Clark",
       "sort_name": "Colin Clark",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Colin_J_Clark"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/09a32353-2f7c-45ad-82cd-e21c6c54504f",
@@ -3704,9 +3720,6 @@
           "area_id": "uk.org.publicwhip/cons/253",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4019,6 +4032,12 @@
       "id": "person/b1240f95-283a-4a8f-92bc-ec8be87e4825",
       "name": "Damien Moore",
       "sort_name": "Damien Moore",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "moore4southport"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b1240f95-283a-4a8f-92bc-ec8be87e4825",
@@ -4028,9 +4047,6 @@
           "area_id": "uk.org.publicwhip/cons/538",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4203,6 +4219,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f8fc9861-a05e-4695-a761-54413e947fd1",
       "name": "Darren Jones",
       "sort_name": "Darren Jones",
@@ -4582,6 +4599,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/2e0473e6-050b-41a9-b35b-86bd716d918f",
       "name": "David Linden",
       "sort_name": "David Linden",
@@ -5144,6 +5162,12 @@
       "id": "person/485c4080-edcd-40da-8347-eb3e66a31571",
       "name": "Douglas Ross",
       "sort_name": "Douglas Ross",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Douglas4Moray"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/485c4080-edcd-40da-8347-eb3e66a31571",
@@ -5153,9 +5177,6 @@
           "area_id": "uk.org.publicwhip/cons/385",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5264,6 +5285,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/231509cf-3161-4898-b6b2-b675194396ee",
       "name": "Eddie Hughes",
       "sort_name": "Eddie Hughes",
@@ -5391,6 +5413,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/730d8cf7-b77f-435f-81f2-47d43c44b81d",
       "name": "Eleanor Smith",
       "sort_name": "Eleanor Smith",
@@ -5466,6 +5489,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/34afe21b-e46a-4570-bb4a-767eab6492e0",
       "name": "Ellie Reeves",
       "sort_name": "Ellie Reeves",
@@ -5513,6 +5537,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/faea34fd-4b0e-412d-9177-fccec0297b92",
       "name": "Emma Hardy",
       "sort_name": "Emma Hardy",
@@ -6385,9 +6410,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/722f282f-d11d-4f49-b875-25f6428eeac0",
       "name": "Gillian Keegan",
       "sort_name": "Gillian Keegan",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GillianKeegan"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/722f282f-d11d-4f49-b875-25f6428eeac0",
@@ -6397,9 +6429,6 @@
           "area_id": "uk.org.publicwhip/cons/132",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -8269,6 +8298,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7ccf6c56-54bb-43fc-9857-208b0c05fdf3",
       "name": "Jared Cain O'Mara",
       "sort_name": "Jared Cain O'Mara",
@@ -10169,6 +10199,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/f95ddf26-7842-4abe-b716-0aafda4a808f",
       "name": "Karen Lee",
       "sort_name": "Karen Lee",
@@ -10917,6 +10948,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/3176b22c-705a-4c98-a047-24a858bd6cf0",
       "name": "Laura Pidcock",
       "sort_name": "Laura Pidcock",
@@ -10935,6 +10967,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/02f86c35-46d4-4388-8fd4-57f34386076b",
       "name": "Laura Smith",
       "sort_name": "Laura Smith",
@@ -10982,6 +11015,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/21ca9324-4095-4fe5-ac50-c0ab43902425",
       "name": "Layla Moran",
       "sort_name": "Layla Moran",
@@ -11018,6 +11052,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d292819c-5624-4982-9c67-37ea28180469",
       "name": "Leo Docherty",
       "sort_name": "Leo Docherty",
@@ -11576,6 +11611,12 @@
       "id": "person/a6f12cc0-9790-47a6-911f-7fc433019e0d",
       "name": "Luke Graham",
       "sort_name": "Luke Graham",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LGrahamOSP2015"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a6f12cc0-9790-47a6-911f-7fc433019e0d",
@@ -11585,9 +11626,6 @@
           "area_id": "uk.org.publicwhip/cons/709",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -12740,6 +12778,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/2aca3a28-a45e-413b-95d7-d0e212247538",
       "name": "Matt Rodda",
       "sort_name": "Matt Rodda",
@@ -13480,6 +13519,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/85174ec2-8049-4465-92a2-889204c890cf",
       "name": "Mohammad Yasin",
       "sort_name": "Mohammad Yasin",
@@ -14001,6 +14041,12 @@
         {
           "type": "twitter",
           "value": "nicktorfaenmp"
+        }
+      ],
+      "links": [
+        {
+          "url": "100009320769349",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -15532,6 +15578,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/fe464293-d83c-4eb3-83cc-bd6c036cde29",
       "name": "Rachel Maclean",
       "sort_name": "Rachel Maclean",
@@ -16787,6 +16834,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/cd047246-4cca-43b2-9ba2-32a6a5a8fecc",
       "name": "Sandy Martin",
       "sort_name": "Sandy Martin",
@@ -17144,6 +17192,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7ec7d0d4-796d-435a-8d52-1ffee45e7572",
       "name": "Simon Clarke",
       "sort_name": "Simon Clarke",
@@ -17572,6 +17621,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Stephen_Lloyd_MP_Eastbourne.jpg",
       "name": "Stephen Lloyd",
       "sort_name": "Stephen Lloyd",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "StephenLloydEBN"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Stephen_Lloyd_MP_Eastbourne.jpg"
@@ -17586,9 +17641,6 @@
           "area_id": "uk.org.publicwhip/cons/202",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -17656,6 +17708,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/82e01faa-d592-41bf-ab8c-448feb3a4566",
       "name": "Stephen Morgan",
       "sort_name": "Stephen Morgan",
