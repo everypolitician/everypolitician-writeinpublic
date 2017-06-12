@@ -499,6 +499,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/133764d1-879b-4397-a74a-8061602548ba",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alex_Sobel.jpg",
       "name": "Alex Sobel",
@@ -1517,6 +1518,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/006b3030-8eb4-4cbe-b433-5137f67df741",
       "name": "Anna McMorrin",
       "sort_name": "Anna McMorrin",
@@ -3284,10 +3286,11 @@
       ]
     },
     {
+      "email": "chris.ruane.mp@parliament.uk",
       "gender": "male",
       "id": "person/873c0f5f-c92e-4be3-b5a3-5607b0ac1680",
       "name": "Chris Ruane",
-      "sort_name": "Chris Ruane",
+      "sort_name": "Ruane, Chris",
       "memberships": [
         {
           "person_id": "person/873c0f5f-c92e-4be3-b5a3-5607b0ac1680",
@@ -3373,11 +3376,18 @@
       ]
     },
     {
+      "email": "chris.williamson.mp@parliament.uk",
       "gender": "male",
       "id": "person/bbe0109f-8490-4565-8dc0-3026d7712e9a",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chris_Williamson_MP.jpg",
       "name": "Chris Williamson",
-      "sort_name": "Chris Williamson",
+      "sort_name": "Williamson, Chris",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ChriswMP"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chris_Williamson_MP.jpg"
@@ -3392,9 +3402,6 @@
           "area_id": "uk.org.publicwhip/cons/170",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5330,11 +5337,12 @@
       ]
     },
     {
+      "email": "edward.davey.mp@parliament.uk",
       "gender": "male",
       "id": "person/b16148db-7312-4fea-91bb-fb167345aa75",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Edward_Davey.jpg",
       "name": "Edward Davey",
-      "sort_name": "Edward Davey",
+      "sort_name": "Davey, Sir Edward",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Edward_Davey.jpg"
@@ -5639,11 +5647,12 @@
       ]
     },
     {
+      "email": "esther.mcvey.mp@parliament.uk",
       "gender": "female",
       "id": "person/4880d9ea-d1a3-4d46-b8cd-c4e19af4294a",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Esther_mcvey_2.jpg",
       "name": "Esther McVey",
-      "sort_name": "Esther McVey",
+      "sort_name": "McVey, Esther",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Esther_mcvey_2.jpg"
@@ -8858,6 +8867,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/35e85fe9-7ccf-4aa0-b191-ce41f7f93a67",
       "name": "Jo Platt",
       "sort_name": "Jo Platt",
@@ -8905,11 +8915,18 @@
       ]
     },
     {
+      "email": "jo.swinson.mp@parliament.uk",
       "gender": "female",
       "id": "person/dd13506c-6dee-4255-a05f-d63903c51588",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jo_Swinson.jpg",
       "name": "Jo Swinson",
-      "sort_name": "Jo Swinson",
+      "sort_name": "Swinson, Jo",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "joswinson"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jo_Swinson.jpg"
@@ -8924,9 +8941,6 @@
           "area_id": "uk.org.publicwhip/cons/676",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -9334,7 +9348,7 @@
       "id": "person/e9668d12-231f-4c2a-9b2b-ae70da112d85",
       "image": "https://candidates.democracyclub.org.uk/media/images/images/1788.png",
       "name": "John McNally",
-      "sort_name": "Mc Nally, John",
+      "sort_name": "McNally, John",
       "contact_details": [
         {
           "type": "twitter",
@@ -11034,6 +11048,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6070da56-735d-4ade-a748-6ed7de5bcd94",
       "name": "Lee Benjamin Rowley",
       "sort_name": "Lee Benjamin Rowley",
@@ -11071,6 +11086,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/1f363e1f-d10c-4602-99f5-07c5e86ac47d",
       "name": "Lesley Laird",
       "sort_name": "Lesley Laird",
@@ -11214,7 +11230,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "lisacameronmp"
+          "value": "lisacameronsnp1"
         }
       ],
       "links": [
@@ -12832,6 +12848,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/f22b89a6-050d-4720-bb91-996e32d652a5",
       "name": "Matt Western",
       "sort_name": "Matt Western",
@@ -13245,11 +13262,18 @@
       ]
     },
     {
+      "email": "michelle.gildernew.mp@parliament.uk",
       "gender": "female",
       "id": "person/a8a9cafc-53ae-49ef-b6db-e2599b85b3e7",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Michelle_Gildernew.jpg",
       "name": "Michelle Gildernew",
-      "sort_name": "Michelle Gildernew",
+      "sort_name": "Gildernew, Michelle",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gildernewmp"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Michelle_Gildernew.jpg"
@@ -13264,9 +13288,6 @@
           "area_id": "uk.org.publicwhip/cons/231",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -13299,6 +13320,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e803772a-2d68-40eb-ab34-f020eeb672cd",
       "name": "Mike Amesbury",
       "sort_name": "Mike Amesbury",
@@ -16490,6 +16512,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/7c178594-8c8f-4b64-b7e6-3b68d2c9f83e",
       "name": "Rosie Duffield",
       "sort_name": "Rosie Duffield",
@@ -17616,11 +17639,12 @@
       ]
     },
     {
+      "email": "stephen.lloyd.mp@parliament.uk",
       "gender": "male",
       "id": "person/614a9faf-ea70-4302-8a29-fc3b20bf000e",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Stephen_Lloyd_MP_Eastbourne.jpg",
       "name": "Stephen Lloyd",
-      "sort_name": "Stephen Lloyd",
+      "sort_name": "Lloyd, Stephen",
       "contact_details": [
         {
           "type": "twitter",
@@ -19090,11 +19114,18 @@
       ]
     },
     {
+      "email": "vince.cable.mp@parliament.uk",
       "gender": "male",
       "id": "person/4441ef84-830e-4945-bb94-121cbf151b3b",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/VinceCable2.jpg",
       "name": "Vincent Cable",
-      "sort_name": "Vincent Cable",
+      "sort_name": "Cable, Sir Vince",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "vincecable"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/VinceCable2.jpg"
@@ -19109,9 +19140,6 @@
           "area_id": "uk.org.publicwhip/cons/589",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -19214,6 +19242,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d6fdf578-ce10-4931-b2a0-1abe34d5c979",
       "name": "Wera Hobhouse",
       "sort_name": "Wera Hobhouse",
@@ -19424,7 +19453,7 @@
       ]
     },
     {
-      "email": "zac@zacgoldsmith.com",
+      "email": "zac.goldsmith.mp@parliament.uk",
       "gender": "male",
       "id": "person/6584b02e-b750-4727-be78-d17780b5e042",
       "image": "https://candidates.democracyclub.org.uk/media/images/55351f40b247335574a42e7e.png",
