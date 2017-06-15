@@ -1,7 +1,7 @@
 {
-  "total": 205,
+  "total": 206,
   "page": 1,
-  "per_page": 205,
+  "per_page": 206,
   "has_more": false,
   "result": [
     {
@@ -774,6 +774,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "VD",
+          "end_date": "2017-06-14",
           "legislative_period_id": "term/50"
         }
       ]
@@ -4197,6 +4198,26 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/b88cb223-f065-4a33-aded-ba181ecf97d7",
+      "name": "Samuel Bendahan",
+      "sort_name": "Bendahan, Samuel",
+      "memberships": [
+        {
+          "person_id": "person/b88cb223-f065-4a33-aded-ba181ecf97d7",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "VD",
+          "start_date": "2017-06-15",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/16930cda-975c-44c9-9aff-47bc4416b680",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/S._Sollberger.jpg",
@@ -4503,7 +4524,7 @@
           "person_id": "person/9317a55f-8ac0-4be1-94e3-31785930a3b5",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "0",
+          "on_behalf_of_id": "3",
           "area_id": "VS",
           "start_date": "2017-06-15",
           "legislative_period_id": "term/50"
