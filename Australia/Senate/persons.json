@@ -798,7 +798,7 @@
           "person_id": "person/f733205a-e6b5-466e-a111-87b773f576b6",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dpres",
+          "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/victoria",
           "legislative_period_id": "term/45"
         }
@@ -2323,6 +2323,16 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/wa",
+          "end_date": "2016-09-30",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/9cc86928-c79f-4c35-860b-671c72205585",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "dpres",
+          "area_id": "area/wa",
+          "start_date": "2016-09-30",
           "legislative_period_id": "term/45"
         }
       ]

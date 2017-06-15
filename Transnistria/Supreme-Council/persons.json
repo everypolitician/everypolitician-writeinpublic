@@ -1,7 +1,7 @@
 {
-  "total": 43,
+  "total": 46,
   "page": 1,
-  "per_page": 43,
+  "per_page": 46,
   "has_more": false,
   "result": [
     {
@@ -460,6 +460,54 @@
       ]
     },
     {
+      "id": "person/f27a6ebe-9372-4af1-9bb2-bf8795279d28",
+      "image": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg",
+      "name": "КУНИЦКИЙ Василий Анатольевич",
+      "sort_name": "КУНИЦКИЙ Василий Анатольевич",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f27a6ebe-9372-4af1-9bb2-bf8795279d28",
+          "organization_id": "chamber/supreme_council",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/22",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1b3e1bb0-5475-4119-9066-816ad9f1291a",
+      "image": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg",
+      "name": "КУЧЕРЕНКО Юрий Юрьевич",
+      "sort_name": "КУЧЕРЕНКО Юрий Юрьевич",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1b3e1bb0-5475-4119-9066-816ad9f1291a",
+          "organization_id": "chamber/supreme_council",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/2",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/4403beb6-3cf0-4523-98f2-af2e37bf81c9",
       "image": "http://vspmr.org/im.xp/049050051055124049048048124049051051.jpg",
       "name": "ЛЕВИЦКИЙ Вадим Федорович",
@@ -596,6 +644,30 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "area/42",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/dfb7031b-2fe0-42e4-9ff3-7d3adbefe21d",
+      "image": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg",
+      "name": "НЕДЕЛКОВ Иван Васильевич",
+      "sort_name": "НЕДЕЛКОВ Иван Васильевич",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/dfb7031b-2fe0-42e4-9ff3-7d3adbefe21d",
+          "organization_id": "chamber/supreme_council",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "area/31",
           "legislative_period_id": "term/6"
         }
       ],
