@@ -5596,6 +5596,12 @@
       "id": "person/30794cc3-2edf-43e9-a192-c71552a65cd1",
       "name": "Emma Dent Coad",
       "sort_name": "Dent Coad, Emma",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "emmadentcoad"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/30794cc3-2edf-43e9-a192-c71552a65cd1",
@@ -5605,9 +5611,6 @@
           "area_id": "uk.org.publicwhip/cons/2199",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -11187,6 +11190,12 @@
       "id": "person/1f363e1f-d10c-4602-99f5-07c5e86ac47d",
       "name": "Lesley Laird",
       "sort_name": "Laird, Lesley",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LesleyLaird"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/1f363e1f-d10c-4602-99f5-07c5e86ac47d",
@@ -11196,9 +11205,6 @@
           "area_id": "uk.org.publicwhip/cons/702",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -18895,6 +18901,7 @@
       "email": "tonia.antoniazzi.mp@parliament.uk",
       "gender": "female",
       "id": "person/595fa36a-e5e5-44fa-bbf4-32bb1acd63b5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tonia_Antoniazzi.jpg",
       "name": "Tonia Antoniazzi",
       "sort_name": "Antoniazzi, Tonia",
       "contact_details": [
@@ -18907,6 +18914,11 @@
         {
           "url": "ToniaForGower",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tonia_Antoniazzi.jpg"
         }
       ],
       "memberships": [
