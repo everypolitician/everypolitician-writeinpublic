@@ -1,7 +1,7 @@
 {
-  "total": 79,
+  "total": 80,
   "page": 1,
-  "per_page": 79,
+  "per_page": 80,
   "has_more": false,
   "result": [
     {
@@ -546,6 +546,30 @@
           "role": "member",
           "on_behalf_of_id": "UCID",
           "area_id": "area/são_vicente",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/decb73c2-1fc7-44ec-904a-3f141ce1c38e",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10416",
+      "name": "Dália de Anunciação Delgado Vieira de Andrade Benholiel",
+      "sort_name": "Dália de Anunciação Delgado Vieira de Andrade Benholiel",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10416"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/decb73c2-1fc7-44ec-904a-3f141ce1c38e",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/boa_vista",
           "legislative_period_id": "term/9"
         }
       ],
