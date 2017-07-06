@@ -1156,6 +1156,31 @@
       ]
     },
     {
+      "email": "kiss.laszlo@parlament.hu",
+      "gender": "male",
+      "id": "person/4343f453-5aec-433a-a3db-e253404b43f0",
+      "image": "http://www.parlament.hu/kepv/kepek/k764.jpg",
+      "name": "Dr. Kiss, László",
+      "sort_name": "Dr. Kiss, László",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/k764.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4343f453-5aec-433a-a3db-e253404b43f0",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "mszp",
+          "legislative_period_id": "term/40"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "jozsef.kovacs@parlament.hu",
       "gender": "male",
       "id": "person/5347e57d-2d25-42c6-be28-55a363252c93",
@@ -3002,31 +3027,6 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "jobbik",
-          "legislative_period_id": "term/40"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kiss.laszlo@parlament.hu",
-      "gender": "male",
-      "id": "person/4343f453-5aec-433a-a3db-e253404b43f0",
-      "image": "http://www.parlament.hu/kepv/kepek/k764.jpg",
-      "name": "Kiss, László",
-      "sort_name": "Kiss, László",
-      "images": [
-        {
-          "url": "http://www.parlament.hu/kepv/kepek/k764.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4343f453-5aec-433a-a3db-e253404b43f0",
-          "organization_id": "chamber/országgyűlés",
-          "role": "member",
-          "on_behalf_of_id": "mszp",
           "legislative_period_id": "term/40"
         }
       ],
