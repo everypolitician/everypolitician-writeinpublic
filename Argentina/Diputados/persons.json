@@ -1,7 +1,7 @@
 {
-  "total": 395,
+  "total": 396,
   "page": 1,
-  "per_page": 395,
+  "per_page": 396,
   "has_more": false,
   "result": [
     {
@@ -1049,7 +1049,7 @@
           "person_id": "person/424a530e-5d9a-49a4-9cc5-d612dedca5cf",
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
-          "on_behalf_of_id": "peronismo_para_la_victoria",
+          "on_behalf_of_id": "brigadier_general_juan_bautista_bustos",
           "area_id": "area/cordoba",
           "legislative_period_id": "term/133"
         }
@@ -7558,6 +7558,25 @@
           "organization_id": "chamber/cámara_de_diputados",
           "role": "member",
           "on_behalf_of_id": "frente_de_izquierda_y_de_los_trabajadores",
+          "area_id": "area/buenos_aires",
+          "start_date": "2015-12-10",
+          "legislative_period_id": "term/133"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/584170bd-be5c-4484-bb7f-c963c9dcc43b",
+      "name": "Nathalia Ines Gonzalez Seligra",
+      "sort_name": "Gonzalez Seligra, Nathalia Ines",
+      "memberships": [
+        {
+          "person_id": "person/584170bd-be5c-4484-bb7f-c963c9dcc43b",
+          "organization_id": "chamber/cámara_de_diputados",
+          "role": "member",
+          "on_behalf_of_id": "pts_-_frente_de_izquierda",
           "area_id": "area/buenos_aires",
           "start_date": "2015-12-10",
           "legislative_period_id": "term/133"
