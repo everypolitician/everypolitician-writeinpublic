@@ -1,7 +1,7 @@
 {
-  "total": 90,
+  "total": 93,
   "page": 1,
-  "per_page": 90,
+  "per_page": 93,
   "has_more": false,
   "result": [
     {
@@ -150,6 +150,7 @@
           "role": "member",
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/629-NI",
+          "end_date": "2017-06-09",
           "legislative_period_id": "term/6"
         }
       ]
@@ -241,6 +242,25 @@
           "role": "member",
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/400-NI",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1252247c-136c-4813-b6d1-826617ed196e",
+      "name": "Catherine Kelly",
+      "sort_name": "Catherine Kelly",
+      "memberships": [
+        {
+          "person_id": "person/1252247c-136c-4813-b6d1-826617ed196e",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "sinn-fein",
+          "area_id": "uk.org.publicwhip/cons/629-NI",
+          "start_date": "2017-06-12",
           "legislative_period_id": "term/6"
         }
       ],
@@ -392,6 +412,25 @@
           "role": "member",
           "on_behalf_of_id": "social-democratic-and-labour-party",
           "area_id": "uk.org.publicwhip/cons/519-NI",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ceb9a190-c1e7-476b-9fb3-c67e3b207f29",
+      "name": "Colm Gildernew",
+      "sort_name": "Colm Gildernew",
+      "memberships": [
+        {
+          "person_id": "person/ceb9a190-c1e7-476b-9fb3-c67e3b207f29",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "sinn-fein",
+          "area_id": "uk.org.publicwhip/cons/231-NI",
+          "start_date": "2017-06-15",
           "legislative_period_id": "term/6"
         }
       ],
@@ -649,6 +688,7 @@
           "role": "member",
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/235-NI",
+          "end_date": "2017-06-09",
           "legislative_period_id": "term/6"
         }
       ]
@@ -1040,6 +1080,25 @@
       ]
     },
     {
+      "id": "person/6c4dbb84-c9f0-42cc-9376-4c46639d00f2",
+      "name": "Karen Mullan",
+      "sort_name": "Karen Mullan",
+      "memberships": [
+        {
+          "person_id": "person/6c4dbb84-c9f0-42cc-9376-4c46639d00f2",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "sinn-fein",
+          "area_id": "uk.org.publicwhip/cons/235-NI",
+          "start_date": "2017-06-12",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/db4598ca-1929-40a4-8c84-03177197ba28",
       "name": "Keith Buchanan",
@@ -1242,6 +1301,7 @@
           "role": "member",
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/231-NI",
+          "end_date": "2017-06-09",
           "legislative_period_id": "term/6"
         }
       ],
@@ -1637,8 +1697,8 @@
     {
       "gender": "male",
       "id": "person/a1979c0d-8154-4769-9cc2-faa283b03ece",
-      "name": "Phillip McGuigan",
-      "sort_name": "Phillip McGuigan",
+      "name": "Philip McGuigan",
+      "sort_name": "Philip McGuigan",
       "memberships": [
         {
           "person_id": "person/a1979c0d-8154-4769-9cc2-faa283b03ece",
