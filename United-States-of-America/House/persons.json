@@ -1,7 +1,7 @@
 {
-  "total": 442,
+  "total": 446,
   "page": 1,
-  "per_page": 442,
+  "per_page": 446,
   "has_more": false,
   "result": [
     {
@@ -1013,8 +1013,8 @@
       "gender": "male",
       "id": "person/084f5380-cd35-46a4-9cdd-600d47a66f3f",
       "image": "https://theunitedstates.io/images/congress/original/O000170.jpg",
-      "name": "Beto O'Rourke",
-      "sort_name": "O'Rourke, Beto",
+      "name": "Beto O’Rourke",
+      "sort_name": "O’Rourke, Beto",
       "contact_details": [
         {
           "type": "twitter",
@@ -5219,6 +5219,32 @@
     },
     {
       "gender": "male",
+      "id": "person/8a8148a5-3c81-45d5-aca6-61733c04206e",
+      "image": "https://theunitedstates.io/images/congress/original/G000584.jpg",
+      "name": "Greg Gianforte",
+      "sort_name": "Gianforte, Greg",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/G000584.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8a8148a5-3c81-45d5-aca6-61733c04206e",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:mt",
+          "start_date": "2017-06-21",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/01bc21bf-8939-4875-8b24-184d6c23a8bc",
       "image": "https://theunitedstates.io/images/congress/original/W000791.jpg",
       "name": "Greg Walden",
@@ -6221,6 +6247,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ut/cd:3",
+          "end_date": "2017-06-30",
           "legislative_period_id": "term/115"
         }
       ]
@@ -6699,6 +6726,32 @@
           "area_id": "ocd-division/country:us/state:oh/cd:4",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6ee69a9e-4cfb-43e9-be8c-1a8697307565",
+      "image": "https://theunitedstates.io/images/congress/original/G000585.jpg",
+      "name": "Jimmy Gomez",
+      "sort_name": "Gomez, Jimmy",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/G000585.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6ee69a9e-4cfb-43e9-be8c-1a8697307565",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:ca/cd:34",
+          "start_date": "2017-07-11",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -7852,6 +7905,32 @@
           "area_id": "ocd-division/country:us/state:ca/cd:37",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/325521a5-0ddc-4507-b5c6-fea8db8d908b",
+      "image": "https://theunitedstates.io/images/congress/original/H001078.jpg",
+      "name": "Karen Handel",
+      "sort_name": "Handel, Karen",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/H001078.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/325521a5-0ddc-4507-b5c6-fea8db8d908b",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:ga/cd:6",
+          "start_date": "2017-06-26",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -11244,6 +11323,32 @@
     },
     {
       "gender": "male",
+      "id": "person/3beb1d7c-73ae-40c5-920b-336cdc136dc3",
+      "image": "https://theunitedstates.io/images/congress/original/N000190.jpg",
+      "name": "Ralph Norman",
+      "sort_name": "Norman, Ralph",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/N000190.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3beb1d7c-73ae-40c5-920b-336cdc136dc3",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:sc/cd:5",
+          "start_date": "2017-06-26",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/07077309-ece0-43a5-85cd-9ac5dc80390a",
       "image": "https://theunitedstates.io/images/congress/original/H001059.jpg",
       "name": "Randy Hultgren",
@@ -14148,8 +14253,8 @@
       "gender": "male",
       "id": "person/725ec0d1-11b7-4edd-899a-bf4c26d57571",
       "image": "https://theunitedstates.io/images/congress/original/O000171.jpg",
-      "name": "Tom O'Halleran",
-      "sort_name": "O'Halleran, Tom",
+      "name": "Tom O’Halleran",
+      "sort_name": "O’Halleran, Tom",
       "contact_details": [
         {
           "type": "twitter",
