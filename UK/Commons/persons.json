@@ -17325,29 +17325,6 @@
       ]
     },
     {
-      "email": "robert.courts.mp@parliament.uk",
-      "gender": "male",
-      "id": "person/41436eee-469e-4e75-81b1-90eb51b98e32",
-      "name": "Robert Alexander Courts",
-      "sort_name": "Courts, Robert",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "robertcourts"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/41436eee-469e-4e75-81b1-90eb51b98e32",
-          "organization_id": "chamber/house_of_commons",
-          "role": "member",
-          "on_behalf_of_id": "conservative",
-          "area_id": "uk.org.publicwhip/cons/641",
-          "legislative_period_id": "term/57"
-        }
-      ]
-    },
-    {
       "email": "robert.buckland.mp@parliament.uk",
       "gender": "male",
       "id": "person/cc1ae2ef-bf24-4351-b42c-ddbea4c4d7d6",
@@ -17378,6 +17355,29 @@
           "role": "member",
           "on_behalf_of_id": "conservative",
           "area_id": "uk.org.publicwhip/cons/528",
+          "legislative_period_id": "term/57"
+        }
+      ]
+    },
+    {
+      "email": "robert.courts.mp@parliament.uk",
+      "gender": "male",
+      "id": "person/41436eee-469e-4e75-81b1-90eb51b98e32",
+      "name": "Robert Courts",
+      "sort_name": "Courts, Robert",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "robertcourts"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/41436eee-469e-4e75-81b1-90eb51b98e32",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "uk.org.publicwhip/cons/641",
           "legislative_period_id": "term/57"
         }
       ]
