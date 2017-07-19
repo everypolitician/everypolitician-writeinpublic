@@ -1,7 +1,7 @@
 {
-  "total": 656,
+  "total": 658,
   "page": 1,
-  "per_page": 656,
+  "per_page": 658,
   "has_more": false,
   "result": [
     {
@@ -7859,6 +7859,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/schleswig-holstein",
+          "end_date": "2017-06-27",
           "legislative_period_id": "term/18"
         }
       ]
@@ -11371,6 +11372,25 @@
           "role": "member",
           "on_behalf_of_id": "spd",
           "area_id": "area/sachsen-anhalt",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fe27940c-740a-4519-a8fa-76b9917b327d",
+      "name": "Marion Herdan",
+      "sort_name": "Herdan, Marion",
+      "memberships": [
+        {
+          "person_id": "person/fe27940c-740a-4519-a8fa-76b9917b327d",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/schleswig-holstein",
+          "start_date": "2017-06-28",
           "legislative_period_id": "term/18"
         }
       ],
@@ -15515,6 +15535,7 @@
           "role": "member",
           "on_behalf_of_id": "cdu",
           "area_id": "area/schleswig-holstein",
+          "end_date": "2017-06-30",
           "legislative_period_id": "term/18"
         }
       ],
@@ -17220,6 +17241,25 @@
           "area_id": "area/nordrhein-westfalen",
           "legislative_period_id": "term/18"
         }
+      ]
+    },
+    {
+      "id": "person/440430ec-9cee-4c22-9e71-f444021d9b12",
+      "name": "Thomas Jepsen",
+      "sort_name": "Jepsen, Thomas",
+      "memberships": [
+        {
+          "person_id": "person/440430ec-9cee-4c22-9e71-f444021d9b12",
+          "organization_id": "chamber/bundestag",
+          "role": "member",
+          "on_behalf_of_id": "cdu",
+          "area_id": "area/schleswig-holstein",
+          "start_date": "2017-07-03",
+          "legislative_period_id": "term/18"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {

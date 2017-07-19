@@ -1,7 +1,7 @@
 {
-  "total": 206,
+  "total": 207,
   "page": 1,
-  "per_page": 206,
+  "per_page": 207,
   "has_more": false,
   "result": [
     {
@@ -722,7 +722,7 @@
           "person_id": "person/f36c1c7a-2389-4b5d-ba48-6de06abeb829",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "muu",
+          "on_behalf_of_id": "ps",
           "area_id": "area/uudenmaan",
           "legislative_period_id": "term/37"
         }
@@ -1267,6 +1267,7 @@
           "role": "member",
           "on_behalf_of_id": "uv",
           "area_id": "area/lapin",
+          "end_date": "2017-07-01",
           "legislative_period_id": "term/37"
         }
       ]
@@ -3209,6 +3210,26 @@
     },
     {
       "gender": "male",
+      "id": "person/ea38f5eb-200f-4a93-81a7-a16b8e53de5f",
+      "name": "Matti Torvinen",
+      "sort_name": "Matti Torvinen",
+      "memberships": [
+        {
+          "person_id": "person/ea38f5eb-200f-4a93-81a7-a16b8e53de5f",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "uv",
+          "area_id": "area/lapin",
+          "start_date": "2017-07-01",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/5276efaf-c4e5-424b-ac69-571b74d80f8c",
       "image": "http://kansanmuisti.fi/media/images/members/vanhanen-matti.jpg",
       "name": "Matti Vanhanen",
@@ -4291,7 +4312,7 @@
           "person_id": "person/1b70368c-ce2f-49a2-a10d-7f72db596a6d",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "uv",
+          "on_behalf_of_id": "ps",
           "area_id": "area/uudenmaan",
           "end_date": "2015-05-04",
           "legislative_period_id": "term/37"
@@ -4430,7 +4451,7 @@
           "person_id": "person/f510a0c5-aeee-4df0-ad14-d536d85fc099",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "uv",
+          "on_behalf_of_id": "ps",
           "area_id": "area/varsinais-suomen",
           "legislative_period_id": "term/37"
         }
@@ -5641,7 +5662,7 @@
           "person_id": "person/63fb60ba-97fc-4ce5-bc3e-b59aaa784f2e",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "muu",
+          "on_behalf_of_id": "kok",
           "area_id": "area/uudenmaan",
           "legislative_period_id": "term/37"
         }
