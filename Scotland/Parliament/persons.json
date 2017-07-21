@@ -1,7 +1,7 @@
 {
-  "total": 130,
+  "total": 131,
   "page": 1,
-  "per_page": 130,
+  "per_page": 131,
   "has_more": false,
   "result": [
     {
@@ -550,8 +550,20 @@
     {
       "gender": "male",
       "id": "person/c99fa6ac-0d73-4765-9eff-9513e92b4bec",
+      "image": "https://pbs.twimg.com/profile_images/883387067870400514/Ra56PBbj.jpg",
       "name": "Bill Bowman",
       "sort_name": "Bill Bowman",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "billabowman"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/883387067870400514/Ra56PBbj.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c99fa6ac-0d73-4765-9eff-9513e92b4bec",
@@ -562,9 +574,6 @@
           "start_date": "2016-12-21",
           "legislative_period_id": "term/5"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1089,7 +1098,7 @@
     {
       "gender": "male",
       "id": "person/a82f486e-40db-4df7-b554-f7de18b26b6a",
-      "image": "https://pbs.twimg.com/profile_images/874743754934112257/hU_SZPZY.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Douglas_Ross_MSP.jpg",
       "name": "Douglas Ross",
       "sort_name": "Douglas Ross",
       "contact_details": [
@@ -1100,7 +1109,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/874743754934112257/hU_SZPZY.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Douglas_Ross_MSP.jpg"
         }
       ],
       "memberships": [
@@ -2104,6 +2113,7 @@
           "on_behalf_of_id": "conservative",
           "area_id": "uk.org.publicwhip/cons/10817",
           "start_date": "2016-05-07",
+          "end_date": "2017-05-04",
           "legislative_period_id": "term/5"
         }
       ]
@@ -2813,6 +2823,35 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/40a1d31b-6f6e-40a6-96ad-05121f4c3d07",
+      "image": "https://pbs.twimg.com/profile_images/634077019299545088/bNHL2iTj.jpg",
+      "name": "Michelle Ballantyne",
+      "sort_name": "Michelle Ballantyne",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BallantyneMl"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/634077019299545088/bNHL2iTj.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/40a1d31b-6f6e-40a6-96ad-05121f4c3d07",
+          "organization_id": "chamber/scottish_parliament",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "uk.org.publicwhip/cons/10837",
+          "start_date": "2017-05-23",
+          "legislative_period_id": "term/5"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/916dfd5b-73f9-405c-87f7-eb669f84912e",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mike_Rumbles.jpg",
@@ -3108,7 +3147,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "pauline4glasgow"
+          "value": "Pauline_McNeill"
         }
       ],
       "images": [
@@ -3160,7 +3199,7 @@
     {
       "gender": "female",
       "id": "person/20bc766a-d3d5-4208-8cec-55de0364e95a",
-      "image": "https://pbs.twimg.com/profile_images/733372212934283264/RFrwcGc8.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rachel_Hamilton_MSP.png",
       "name": "Rachael Hamilton",
       "sort_name": "Rachael Hamilton",
       "contact_details": [
@@ -3171,7 +3210,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/733372212934283264/RFrwcGc8.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rachel_Hamilton_MSP.png"
         }
       ],
       "memberships": [
@@ -3182,6 +3221,16 @@
           "on_behalf_of_id": "conservative",
           "area_id": "uk.org.publicwhip/cons/10837",
           "start_date": "2016-05-07",
+          "end_date": "2017-06-07",
+          "legislative_period_id": "term/5"
+        },
+        {
+          "person_id": "person/20bc766a-d3d5-4208-8cec-55de0364e95a",
+          "organization_id": "chamber/scottish_parliament",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "uk.org.publicwhip/cons/10817",
+          "start_date": "2017-06-08",
           "legislative_period_id": "term/5"
         }
       ]
@@ -3383,7 +3432,7 @@
     {
       "gender": "male",
       "id": "person/7ff45e4e-a7f8-4816-b532-abe6fd0e46ae",
-      "image": "https://pbs.twimg.com/profile_images/867055686781472769/FuN1bZUV.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ross_Thomson.png",
       "name": "Ross Thomson",
       "sort_name": "Ross Thomson",
       "contact_details": [
@@ -3394,7 +3443,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/867055686781472769/FuN1bZUV.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ross_Thomson.png"
         }
       ],
       "memberships": [
