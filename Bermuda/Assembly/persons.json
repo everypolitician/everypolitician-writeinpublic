@@ -1,9 +1,57 @@
 {
-  "total": 38,
+  "total": 36,
   "page": 1,
-  "per_page": 38,
+  "per_page": 36,
   "has_more": false,
   "result": [
+    {
+      "id": "person/79ed5586-2c94-4084-9205-ea557d8ef06c",
+      "image": "https://elections.gov.bm/images/party/BEN-SMITH-OBA.jpg",
+      "name": "Ben Smith",
+      "sort_name": "Ben Smith",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/BEN-SMITH-OBA.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/79ed5586-2c94-4084-9205-ea557d8ef06c",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "OBA",
+          "area_id": "31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ac1d407c-723d-452e-838a-21133b3709a8",
+      "image": "https://elections.gov.bm/images/party/THOMAS-CHRISTOPHER-FAMOUS-PLP.jpg",
+      "name": "Christopher Famous",
+      "sort_name": "Christopher Famous",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/THOMAS-CHRISTOPHER-FAMOUS-PLP.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ac1d407c-723d-452e-838a-21133b3709a8",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "PLP",
+          "area_id": "11",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "email": "ccannionier@gov.bm",
       "gender": "male",
@@ -23,7 +71,31 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "12",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/457c1ca2-c3ec-4677-926b-b19bddff7cda",
+      "image": "https://elections.gov.bm/images/party/DAVID-A-BURCH-PLP.jpg",
+      "name": "David Burch",
+      "sort_name": "David Burch",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/DAVID-A-BURCH-PLP.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/457c1ca2-c3ec-4677-926b-b19bddff7cda",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "PLP",
+          "area_id": "27",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -49,7 +121,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "18",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -75,7 +147,31 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "35",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5588e9c4-f5ff-4c7a-a319-e891afef600f",
+      "image": "https://elections.gov.bm/images/party/DENNIS-LISTER-THIRD-PLP.jpg",
+      "name": "Dennis Lister III",
+      "sort_name": "Dennis Lister III",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/DENNIS-LISTER-THIRD-PLP.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5588e9c4-f5ff-4c7a-a319-e891afef600f",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "PLP",
+          "area_id": "28",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -101,7 +197,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "05",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -127,79 +223,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "13",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "brichards@parliament.bm",
-      "gender": "male",
-      "id": "person/1b665795-e69c-45f0-85bc-e1a64757aeb5",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/RICHARDS%20ET.jpg",
-      "name": "E. T. Bob Richards",
-      "sort_name": "E. T. Bob Richards",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/RICHARDS%20ET.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1b665795-e69c-45f0-85bc-e1a64757aeb5",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "11",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "gsmith@parliament.bm",
-      "gender": "male",
-      "id": "person/430e5466-2563-40f6-a83a-be8ae066f8b1",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/SMITH%20GLEN.jpg",
-      "name": "Glen Smith",
-      "sort_name": "Glen Smith",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/SMITH%20GLEN.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/430e5466-2563-40f6-a83a-be8ae066f8b1",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "14",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "gblakeney@parliament.bm",
-      "gender": "male",
-      "id": "person/5bf62486-7511-4137-a4ff-af93a51c9663",
-      "name": "Glenn Blakeney",
-      "sort_name": "Glenn Blakeney",
-      "memberships": [
-        {
-          "person_id": "person/5bf62486-7511-4137-a4ff-af93a51c9663",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "PLP",
-          "area_id": "13",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -225,7 +249,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "22",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -251,7 +275,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "33",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -277,7 +301,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "19",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -285,25 +309,23 @@
       ]
     },
     {
-      "email": "jsousa@parliament.bm",
-      "gender": "male",
-      "id": "person/39757701-60ca-449e-afae-193dfa42960c",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/SOUSA%20JEFFERSON.jpg",
-      "name": "Jeff Sousa",
-      "sort_name": "Jeff Sousa",
+      "id": "person/02c031ba-10b5-487a-82bd-365021b72aeb",
+      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg",
+      "name": "Jeff Baron",
+      "sort_name": "Jeff Baron",
       "images": [
         {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/SOUSA%20JEFFERSON.jpg"
+          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/39757701-60ca-449e-afae-193dfa42960c",
+          "person_id": "person/02c031ba-10b5-487a-82bd-365021b72aeb",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "OBA",
-          "area_id": "28",
-          "legislative_period_id": "term/2012"
+          "area_id": "25",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -311,25 +333,23 @@
       ]
     },
     {
-      "email": "kbascome@parliament.bm",
-      "gender": "male",
-      "id": "person/9557ad39-254e-4cef-928d-517fc19eb1d8",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/BASCOME%20KENNETH.jpg",
-      "name": "Kenneth Bascome",
-      "sort_name": "Kenneth Bascome",
+      "id": "person/0e7e87ce-4744-4f7e-a19a-4c47f028c140",
+      "image": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg",
+      "name": "Kim Swan",
+      "sort_name": "Kim Swan",
       "images": [
         {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/BASCOME%20KENNETH.jpg"
+          "url": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/9557ad39-254e-4cef-928d-517fc19eb1d8",
+          "person_id": "person/0e7e87ce-4744-4f7e-a19a-4c47f028c140",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "01",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "PLP",
+          "area_id": "02",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -355,7 +375,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "34",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -381,7 +401,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "24",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -407,7 +427,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "30",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -433,60 +453,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "03",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mbean@parliament.bm",
-      "gender": "male",
-      "id": "person/81fd4be1-95c6-4d7c-baba-9d2143d9f040",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/3151_EPIS_MINISTER_MARC_BEAN_VSR_009_5x7.jpg",
-      "name": "Marc Bean",
-      "sort_name": "Marc Bean",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/3151_EPIS_MINISTER_MARC_BEAN_VSR_009_5x7.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/81fd4be1-95c6-4d7c-baba-9d2143d9f040",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "PLP",
-          "area_id": "26",
-          "end_date": "2016-11-04",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mpettingill@parliament.bm",
-      "gender": "male",
-      "id": "person/be1278f3-94f4-455f-8516-4fe3613b6bf5",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/PETTINGILL,%20MARK(1).jpg",
-      "name": "Mark Pettingill",
-      "sort_name": "Mark Pettingill",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/PETTINGILL,%20MARK(1).jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/be1278f3-94f4-455f-8516-4fe3613b6bf5",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "25",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -512,7 +479,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "10",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -538,7 +505,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "36",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -564,7 +531,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "16",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -590,33 +557,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "08",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "nouterbridge@parliament.bm",
-      "gender": "female",
-      "id": "person/bd859805-3665-4548-b0a6-34373a8799ae",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/DAVIS%20NANDI.jpg",
-      "name": "Nandi Outerbridge",
-      "sort_name": "Nandi Outerbridge",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/DAVIS%20NANDI.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bd859805-3665-4548-b0a6-34373a8799ae",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "02",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -641,7 +582,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "26",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -667,7 +608,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "23",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -675,25 +616,24 @@
       ]
     },
     {
-      "email": "rhorton@parliament.bm",
-      "gender": "male",
-      "id": "person/5c41d231-4ace-4aa6-a1c4-aeb65619a9b1",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/Horton.2006.jpg",
-      "name": "Randolph Horton",
-      "sort_name": "Randolph Horton",
+      "email": "rming@parliament.bm",
+      "id": "person/87cc66e4-a588-402c-b8a1-40ff7e0f1159",
+      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg",
+      "name": "Renee Ming",
+      "sort_name": "Renee Ming",
       "images": [
         {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/Horton.2006.jpg"
+          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5c41d231-4ace-4aa6-a1c4-aeb65619a9b1",
+          "person_id": "person/87cc66e4-a588-402c-b8a1-40ff7e0f1159",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "Independent",
-          "area_id": "32",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "PLP",
+          "area_id": "01",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -719,7 +659,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "21",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -727,25 +667,23 @@
       ]
     },
     {
-      "email": "scrockwell@parliament.bm",
-      "gender": "male",
-      "id": "person/22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/CROCKWELL,%20SHAWN%5B1%5D.jpeg",
-      "name": "Shawn Crockwell",
-      "sort_name": "Shawn Crockwell",
+      "id": "person/84249389-1b59-4a6d-a453-f7372abd4659",
+      "image": "https://elections.gov.bm/images/party/SCOTT-SIMMONS-PLP.jpg",
+      "name": "Scott Simmons",
+      "sort_name": "Scott Simmons",
       "images": [
         {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/CROCKWELL,%20SHAWN%5B1%5D.jpeg"
+          "url": "https://elections.gov.bm/images/party/SCOTT-SIMMONS-PLP.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
+          "person_id": "person/84249389-1b59-4a6d-a453-f7372abd4659",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "IND",
-          "area_id": "31",
-          "legislative_period_id": "term/2012"
+          "on_behalf_of_id": "PLP",
+          "area_id": "32",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -771,33 +709,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "20",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sholshouser@parliament.bm",
-      "gender": "female",
-      "id": "person/194f7628-c994-49e5-aa2f-12565840e644",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/HOLSHOUSER%20SUZANN.jpg",
-      "name": "Suzann Roberts-Holshouser",
-      "sort_name": "Suzann Roberts-Holshouser",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/HOLSHOUSER%20SUZANN.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/194f7628-c994-49e5-aa2f-12565840e644",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "04",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -823,7 +735,31 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "07",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/efe3c392-7d6d-434d-8129-c8979a21bb58",
+      "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/7231HOA%20SenatorTineeFurbertGT34%204x5(3).jpg",
+      "name": "Tinee Furbert",
+      "sort_name": "Tinee Furbert",
+      "images": [
+        {
+          "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/7231HOA%20SenatorTineeFurbertGT34%204x5(3).jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/efe3c392-7d6d-434d-8129-c8979a21bb58",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "PLP",
+          "area_id": "04",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -849,7 +785,7 @@
           "role": "member",
           "on_behalf_of_id": "OBA",
           "area_id": "09",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -875,7 +811,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "15",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -901,7 +837,31 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "17",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/26605f25-62ee-494c-aff4-81d49db845dd",
+      "image": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg",
+      "name": "Wayne Caines",
+      "sort_name": "Wayne Caines",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/26605f25-62ee-494c-aff4-81d49db845dd",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "PLP",
+          "area_id": "14",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -927,33 +887,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "06",
-          "legislative_period_id": "term/2012"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "rwscott@parliament.bm",
-      "gender": "male",
-      "id": "person/285a14ff-3cc2-4fe7-a823-f0694083bb2a",
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/SCOTT%20WAYNE.jpg",
-      "name": "Wayne Scott",
-      "sort_name": "Wayne Scott",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/SCOTT%20WAYNE.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/285a14ff-3cc2-4fe7-a823-f0694083bb2a",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "OBA",
-          "area_id": "27",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -979,7 +913,7 @@
           "role": "member",
           "on_behalf_of_id": "PLP",
           "area_id": "29",
-          "legislative_period_id": "term/2012"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
