@@ -5925,6 +5925,18 @@
       "id": "person/730d8cf7-b77f-435f-81f2-47d43c44b81d",
       "name": "Eleanor Smith",
       "sort_name": "Smith, Eleanor",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Eleanor_SmithMP"
+        }
+      ],
+      "links": [
+        {
+          "url": "EleanorSmithMP",
+          "note": "facebook"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/730d8cf7-b77f-435f-81f2-47d43c44b81d",
@@ -5934,9 +5946,6 @@
           "area_id": "uk.org.publicwhip/cons/646",
           "legislative_period_id": "term/57"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -13864,7 +13873,13 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "MartWhitfield"
+          "value": "martwhitfieldmp"
+        }
+      ],
+      "links": [
+        {
+          "url": "martinwhitfieldeastlothian",
+          "note": "facebook"
         }
       ],
       "memberships": [
