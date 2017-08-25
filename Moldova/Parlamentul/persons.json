@@ -1,7 +1,7 @@
 {
-  "total": 122,
+  "total": 124,
   "page": 1,
-  "per_page": 122,
+  "per_page": 124,
   "has_more": false,
   "result": [
     {
@@ -251,12 +251,12 @@
       "email": "Luminita.Bolohan@parlament.md",
       "gender": "male",
       "id": "person/58fff43a-4201-475b-b3e3-1750ed17fb5f",
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=JpGIXDd%2figA%3d&tabid=87&mid=476&language=en-US",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=zR1CtIAhnPw%3d&tabid=87&mid=476&language=en-US",
       "name": "Andrian Candu",
       "sort_name": "Candu Andrian",
       "images": [
         {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=JpGIXDd%2figA%3d&tabid=87&mid=476&language=en-US"
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=zR1CtIAhnPw%3d&tabid=87&mid=476&language=en-US"
         }
       ],
       "memberships": [
@@ -312,7 +312,7 @@
           "person_id": "person/9f4abbab-6833-49ad-8d97-3bd975749a78",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "10",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -827,7 +827,7 @@
           "person_id": "person/58791fab-f7d8-4092-a2be-1c40ee2e5d72",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "11",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1193,7 +1193,7 @@
           "person_id": "person/35e125ab-f70c-490d-92e5-77b10a3a15c0",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "-1",
+          "on_behalf_of_id": "9",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1254,8 +1254,8 @@
       "gender": "female",
       "id": "person/90c2f925-22ee-4a6c-b9d0-d4a2221eb6f4",
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=zbpzGgcGVgQ%3d&tabid=87&mid=476&language=en-US",
-      "name": "Irina Mîzdrenco",
-      "sort_name": "Mîzdrenco Irina",
+      "name": "Irina Mizdrenco",
+      "sort_name": "Mizdrenco Irina",
       "images": [
         {
           "url": "http://www.parlament.md/LinkClick.aspx?fileticket=zbpzGgcGVgQ%3d&tabid=87&mid=476&language=en-US"
@@ -1313,7 +1313,7 @@
           "person_id": "person/734dbfe7-8fd3-4f63-aaec-6e9aa095d52b",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "11",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1728,7 +1728,7 @@
           "person_id": "person/b4a57dc9-2d53-4bf6-a193-ca16ae27e55b",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "-1",
+          "on_behalf_of_id": "9",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1753,7 +1753,7 @@
           "person_id": "person/5a3ff1b2-17e5-471b-99f4-028438beb843",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "-1",
+          "on_behalf_of_id": "9",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1777,7 +1777,7 @@
           "person_id": "person/3d77bf20-0aa7-433c-b472-8d55da81c69e",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "11",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -1826,6 +1826,29 @@
           "organization_id": "chamber/parlament",
           "role": "member",
           "on_behalf_of_id": "-1",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/40066402-9562-4a3a-b69f-57d20dce95cd",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "name": "Oleg Cuciuc",
+      "sort_name": "Cuciuc Oleg",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/40066402-9562-4a3a-b69f-57d20dce95cd",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "12",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -2041,7 +2064,7 @@
           "person_id": "person/41438625-aba4-467d-b463-9980c962ea7a",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "-1",
+          "on_behalf_of_id": "9",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -2186,6 +2209,29 @@
           "organization_id": "chamber/parlament",
           "role": "member",
           "on_behalf_of_id": "9",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5d3106e3-b2f3-4beb-9ecd-f725913e8eab",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "name": "Sergiu Groza",
+      "sort_name": "Groza Sergiu",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5d3106e3-b2f3-4beb-9ecd-f725913e8eab",
+          "organization_id": "chamber/parlament",
+          "role": "member",
+          "on_behalf_of_id": "12",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -2667,7 +2713,7 @@
           "person_id": "person/563ddc92-a801-49e8-9468-750983a5acfe",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "10",
+          "on_behalf_of_id": "-1",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -2745,7 +2791,7 @@
           "person_id": "person/26a654c4-4236-426d-9144-b72b3f9b14dc",
           "organization_id": "chamber/parlament",
           "role": "member",
-          "on_behalf_of_id": "-1",
+          "on_behalf_of_id": "9",
           "legislative_period_id": "term/2014"
         }
       ],
