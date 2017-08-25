@@ -1,7 +1,7 @@
 {
-  "total": 206,
+  "total": 208,
   "page": 1,
-  "per_page": 206,
+  "per_page": 208,
   "has_more": false,
   "result": [
     {
@@ -2029,6 +2029,26 @@
     },
     {
       "gender": "male",
+      "id": "person/1eba1da4-157c-498e-8505-b079d8fbc20c",
+      "name": "Heinz Siegenthaler",
+      "sort_name": "Siegenthaler, Heinz",
+      "memberships": [
+        {
+          "person_id": "person/1eba1da4-157c-498e-8505-b079d8fbc20c",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "0",
+          "area_id": "BE",
+          "start_date": "2017-09-11",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/c538b877-2247-43ba-9dd3-5dd5c21ca67c",
       "name": "Hermann Hess",
       "sort_name": "Hess, Hermann",
@@ -2164,7 +2184,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "IsabelleMoret"
+          "value": "isabellemoret"
         }
       ],
       "images": [
@@ -3605,6 +3625,26 @@
           "area_id": "ZH",
           "legislative_period_id": "term/50"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/09f9a080-e7b7-48b0-a9cb-31e5ed92db75",
+      "name": "Niklaus-Samuel Gugger",
+      "sort_name": "Gugger, Niklaus-Samuel",
+      "memberships": [
+        {
+          "person_id": "person/09f9a080-e7b7-48b0-a9cb-31e5ed92db75",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "3",
+          "area_id": "ZH",
+          "start_date": "2017-11-27",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
