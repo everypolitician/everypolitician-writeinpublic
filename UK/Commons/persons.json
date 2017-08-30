@@ -6155,7 +6155,7 @@
       "email": "emma.littlepengelly.mp@parliament.uk",
       "gender": "female",
       "id": "person/69821d8d-e0b0-4977-9a4c-d48c86e853ab",
-      "name": "Emma Little-Pengelly",
+      "name": "Emma Little Pengelly",
       "sort_name": "Little Pengelly, Emma",
       "memberships": [
         {
@@ -9107,7 +9107,7 @@
       "email": "jared.omara.mp@parliament.uk",
       "gender": "male",
       "id": "person/7ccf6c56-54bb-43fc-9857-208b0c05fdf3",
-      "name": "Jared Cain O'Mara",
+      "name": "Jared O'Mara",
       "sort_name": "O'Mara, Jared",
       "memberships": [
         {
@@ -12132,7 +12132,7 @@
       "email": "lee.rowley.mp@parliament.uk",
       "gender": "male",
       "id": "person/6070da56-735d-4ade-a748-6ed7de5bcd94",
-      "name": "Lee Benjamin Rowley",
+      "name": "Lee Rowley",
       "sort_name": "Rowley, Lee",
       "contact_details": [
         {
@@ -16092,29 +16092,6 @@
       ]
     },
     {
-      "email": "paul.williams.mp@parliament.uk",
-      "gender": "male",
-      "id": "person/8d1cb42a-aafd-42fe-93a8-c1a3d3768647",
-      "name": "Paul Daniel Williams",
-      "sort_name": "Williams, Dr Paul",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "paulwilliamsmp"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8d1cb42a-aafd-42fe-93a8-c1a3d3768647",
-          "organization_id": "chamber/house_of_commons",
-          "role": "member",
-          "on_behalf_of_id": "labour",
-          "area_id": "uk.org.publicwhip/cons/551",
-          "legislative_period_id": "term/57"
-        }
-      ]
-    },
-    {
       "email": "hopwoodc@parliament.uk",
       "gender": "male",
       "id": "person/8b0c4c98-e88e-4887-b231-aec1a7bb63aa",
@@ -16369,6 +16346,29 @@
           "role": "member",
           "on_behalf_of_id": "labour",
           "area_id": "uk.org.publicwhip/cons/693",
+          "legislative_period_id": "term/57"
+        }
+      ]
+    },
+    {
+      "email": "paul.williams.mp@parliament.uk",
+      "gender": "male",
+      "id": "person/8d1cb42a-aafd-42fe-93a8-c1a3d3768647",
+      "name": "Paul Williams",
+      "sort_name": "Williams, Dr Paul",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "paulwilliamsmp"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8d1cb42a-aafd-42fe-93a8-c1a3d3768647",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "uk.org.publicwhip/cons/551",
           "legislative_period_id": "term/57"
         }
       ]
@@ -16987,7 +16987,7 @@
       "gender": "female",
       "id": "person/7b88c6af-4e0f-4fcc-affe-9f333ff43848",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Official_portrait_of_Preet_Kaur_Gill_crop_2.jpg",
-      "name": "Preet Gill",
+      "name": "Preet Kaur Gill",
       "sort_name": "Gill, Preet Kaur",
       "contact_details": [
         {
@@ -20037,7 +20037,7 @@
       "gender": "male",
       "id": "person/2678c7d0-6607-45e8-8fd8-6e765cb740ef",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Official_portrait_of_Mr_Tanmanjeet_Singh_Dhesi_crop_2.jpg",
-      "name": "Tanmanjit Singh Dhesi",
+      "name": "Tanmanjeet Singh Dhesi",
       "sort_name": "Dhesi, Mr Tanmanjeet Singh",
       "contact_details": [
         {
