@@ -1,7 +1,7 @@
 {
-  "total": 121,
+  "total": 125,
   "page": 1,
-  "per_page": 121,
+  "per_page": 125,
   "has_more": false,
   "result": [
     {
@@ -33,12 +33,12 @@
       "email": "apena@parlamento.gub.uy",
       "gender": "male",
       "id": "person/ccd79ba5-7e87-4f1f-9901-d091953f4113",
-      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11602_0.JPG",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11602_1.JPG",
       "name": "Adrián Peña",
       "sort_name": "Peña , Adrián",
       "images": [
         {
-          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11602_0.JPG"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11602_1.JPG"
         }
       ],
       "memberships": [
@@ -523,15 +523,23 @@
       "email": "ceguiluz@parlamento.gub.uy",
       "gender": "female",
       "id": "person/c24c7ac7-f703-436e-abd5-c63712ccce46",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09964.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09964_1.JPG",
       "name": "Cecilia Eguiluz",
-      "sort_name": "Cecilia Eguiluz",
+      "sort_name": "Eguiluz , Cecilia",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09964.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09964_1.JPG"
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/c24c7ac7-f703-436e-abd5-c63712ccce46",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_colorado",
+          "area_id": "area/salto",
+          "legislative_period_id": "term/48"
+        },
         {
           "person_id": "person/c24c7ac7-f703-436e-abd5-c63712ccce46",
           "organization_id": "chamber/chamber_of_deputies",
@@ -1207,15 +1215,23 @@
       "email": "gmujica@parlamento.gub.uy",
       "gender": "male",
       "id": "person/8c5ba0be-b44a-4ad2-83cc-af45e1bd5b53",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07751.jpg",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07751_148.JPG",
       "name": "Gonzalo Mujica",
-      "sort_name": "Gonzalo Mujica",
+      "sort_name": "Mujica , Gonzalo",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07751.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07751_148.JPG"
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/8c5ba0be-b44a-4ad2-83cc-af45e1bd5b53",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        },
         {
           "person_id": "person/8c5ba0be-b44a-4ad2-83cc-af45e1bd5b53",
           "organization_id": "chamber/chamber_of_deputies",
@@ -1362,12 +1378,12 @@
       "email": "gpenades@parlamento.gub.uy",
       "gender": "male",
       "id": "person/97e98dee-c69c-4b17-b29c-6c89226c96f0",
-      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02901_1.JPG",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02901_0.JPG",
       "name": "Gustavo Penadés",
       "sort_name": "Penadés , Gustavo",
       "images": [
         {
-          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02901_1.JPG"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot02901_0.JPG"
         }
       ],
       "memberships": [
@@ -1655,12 +1671,12 @@
       "email": "jarocena@parlamento.gub.uy",
       "gender": "male",
       "id": "person/b0d117c5-3fbe-433c-9692-8f6b79bb97dc",
-      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09953_1.JPG",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09953_0.JPG",
       "name": "José Andrés Arocena Argul",
       "sort_name": "Arocena Argul , José Andrés",
       "images": [
         {
-          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09953_1.JPG"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09953_0.JPG"
         }
       ],
       "memberships": [
@@ -1966,6 +1982,31 @@
       ]
     },
     {
+      "email": "emier@parlamento.gub.uy",
+      "id": "person/f245a297-716b-42bd-a810-f54a31ee95b0",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11923_1.JPG",
+      "name": "Mabel Quintela",
+      "sort_name": "Quintela , Mabel",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11923_1.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f245a297-716b-42bd-a810-f54a31ee95b0",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/treinta_y_tres",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mgelman@parlamento.gub.uy",
       "gender": "female",
       "id": "person/3f7c7576-8113-4c20-8025-1e01901c7f9e",
@@ -2138,6 +2179,31 @@
           "role": "member",
           "on_behalf_of_id": "partido_colorado",
           "area_id": "area/tacuarembo",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mgelman_sec@parlamento.gub.uy",
+      "id": "person/313c1a94-be9b-4e06-9c39-aa856550bd98",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11768_1.JPG",
+      "name": "Martín Couto",
+      "sort_name": "Couto , Martín",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11768_1.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/313c1a94-be9b-4e06-9c39-aa856550bd98",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
           "legislative_period_id": "term/48"
         }
       ],
@@ -2642,18 +2708,76 @@
       ]
     },
     {
-      "email": "rchiazzaro@parlamento.gub.uy",
-      "gender": "male",
-      "id": "person/9f06bdc7-9102-4f7f-9454-4f4acc64c3d1",
-      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11587.jpg",
-      "name": "Roberto Chiazzaro",
-      "sort_name": "Roberto Chiazzaro",
+      "email": "ssabini@parlamento.gub.uy",
+      "id": "person/8286afd2-1c8f-4118-a28f-5d047d04b9b7",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11640_0.JPG",
+      "name": "Paula Pérez",
+      "sort_name": "Pérez , Paula",
       "images": [
         {
-          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11587.jpg"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11640_0.JPG"
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/8286afd2-1c8f-4118-a28f-5d047d04b9b7",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/canelones",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rcharamelo@parlamento.gub.uy",
+      "id": "person/6d15011e-7a38-4f6f-aef6-160c802d5ec1",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07764_0.JPG",
+      "name": "Richard Charamelo",
+      "sort_name": "Charamelo , Richard",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot07764_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6d15011e-7a38-4f6f-aef6-160c802d5ec1",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_nacional",
+          "area_id": "area/canelones",
+          "legislative_period_id": "term/48"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "rchiazzaro@parlamento.gub.uy",
+      "gender": "male",
+      "id": "person/9f06bdc7-9102-4f7f-9454-4f4acc64c3d1",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11587_0.JPG",
+      "name": "Roberto Chiazzaro",
+      "sort_name": "Chiazzaro , Roberto",
+      "images": [
+        {
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11587_0.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9f06bdc7-9102-4f7f-9454-4f4acc64c3d1",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "partido_frente_amplio",
+          "area_id": "area/montevideo",
+          "legislative_period_id": "term/48"
+        },
         {
           "person_id": "person/9f06bdc7-9102-4f7f-9454-4f4acc64c3d1",
           "organization_id": "chamber/chamber_of_deputies",
@@ -3087,12 +3211,12 @@
       "email": "wverri@parlamento.gub.uy",
       "gender": "male",
       "id": "person/7f7eb261-a4b4-47ec-b922-99f028389c4f",
-      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09973_1.JPG",
+      "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/FOTO_VERRI_2.jpg",
       "name": "Walter Verri",
       "sort_name": "Verri , Walter",
       "images": [
         {
-          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09973_1.JPG"
+          "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/FOTO_VERRI_2.jpg"
         }
       ],
       "memberships": [
