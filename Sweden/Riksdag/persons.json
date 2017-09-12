@@ -1,7 +1,7 @@
 {
-  "total": 435,
+  "total": 436,
   "page": 1,
-  "per_page": 435,
+  "per_page": 436,
   "has_more": false,
   "result": [
     {
@@ -1329,6 +1329,16 @@
           "on_behalf_of_id": "MP",
           "area_id": "area/stockholms_län",
           "start_date": "2016-08-07",
+          "end_date": "2017-10-22",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/3c0c868a-3bbd-41c8-beff-c830b6994b6a",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "MP",
+          "area_id": "area/stockholms_län",
+          "start_date": "2018-05-01",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -2143,35 +2153,6 @@
       ]
     },
     {
-      "email": "carina.herrstedt@riksdagen.se",
-      "gender": "female",
-      "id": "person/a9b47214-ef87-4f54-9394-50a4154264d1",
-      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96fd915b-03e4-436a-9fbd-879f0737d828_max.jpg",
-      "name": "Carina Herrstedt",
-      "sort_name": "Carina",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "carinaherrstedt"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96fd915b-03e4-436a-9fbd-879f0737d828_max.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a9b47214-ef87-4f54-9394-50a4154264d1",
-          "organization_id": "chamber/riksdag",
-          "role": "member",
-          "on_behalf_of_id": "SD",
-          "area_id": "area/stockholms_län",
-          "legislative_period_id": "term/2014"
-        }
-      ]
-    },
-    {
       "email": "carina.ohlsson@riksdagen.se",
       "gender": "female",
       "id": "person/be90cfd9-dfee-4dfe-8bfe-53ce68416b2b",
@@ -2196,6 +2177,35 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/västra_götalands_läns_östra",
+          "legislative_period_id": "term/2014"
+        }
+      ]
+    },
+    {
+      "email": "carina.stahl@riksdagen.se",
+      "gender": "female",
+      "id": "person/a9b47214-ef87-4f54-9394-50a4154264d1",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96fd915b-03e4-436a-9fbd-879f0737d828_max.jpg",
+      "name": "Carina Ståhl Herrstedt",
+      "sort_name": "Carina",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "carinaherrstedt"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/96fd915b-03e4-436a-9fbd-879f0737d828_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9b47214-ef87-4f54-9394-50a4154264d1",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "SD",
+          "area_id": "area/stockholms_län",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -2969,6 +2979,7 @@
           "role": "member",
           "on_behalf_of_id": "V",
           "area_id": "area/malmö_kommun",
+          "end_date": "2017-08-31",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -6668,6 +6679,7 @@
       ]
     },
     {
+      "email": "john.widegren@riksdagen.se",
       "gender": "male",
       "id": "person/fe7a92fb-04fa-4f9d-828a-561494425d0d",
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5d1ac61d-4464-41a4-bae0-42ea3782cba8_max.jpg",
@@ -9466,6 +9478,16 @@
           "start_date": "2015-12-11",
           "end_date": "2016-08-06",
           "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/c60f0398-7a95-4faa-8937-b93fdfdad983",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "MP",
+          "area_id": "area/stockholms_län",
+          "start_date": "2017-10-23",
+          "end_date": "2018-04-30",
+          "legislative_period_id": "term/2014"
         }
       ],
       "contact_details": [
@@ -9837,6 +9859,33 @@
           "area_id": "area/uppsala_län",
           "legislative_period_id": "term/2014"
         }
+      ]
+    },
+    {
+      "email": "momodou.jallow@riksdagen.se",
+      "gender": "male",
+      "id": "person/0efbd607-e126-412c-aaf0-8094417b2cef",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f257311a-2900-4db5-a2e2-df250c764ad6_max.jpg",
+      "name": "Momodou Jallow",
+      "sort_name": "Momodou",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f257311a-2900-4db5-a2e2-df250c764ad6_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0efbd607-e126-412c-aaf0-8094417b2cef",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "V",
+          "area_id": "area/malmö_kommun",
+          "start_date": "2017-08-31",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {

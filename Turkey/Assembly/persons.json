@@ -3421,9 +3421,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/8c11bdc3-4467-4741-9e92-a5f287fadccd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fatma_Kaplan_Hürriyet_(cropped).jpg",
       "name": "Fatma Kaplan Hürriyet",
       "sort_name": "Fatma Kaplan Hürriyet",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fatma_Kaplan_Hürriyet_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/8c11bdc3-4467-4741-9e92-a5f287fadccd",
@@ -3778,6 +3785,24 @@
           "area_id": "area/İstanbul_(iii)",
           "legislative_period_id": "term/26"
         }
+      ]
+    },
+    {
+      "id": "person/26bd4495-0d0e-48a5-bc67-b7a68a92fe46",
+      "name": "Gaye Usluer",
+      "sort_name": "Gaye Usluer",
+      "memberships": [
+        {
+          "person_id": "person/26bd4495-0d0e-48a5-bc67-b7a68a92fe46",
+          "organization_id": "chamber/grand_national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "CHP",
+          "area_id": "area/eskişehir",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -5553,12 +5578,13 @@
       ]
     },
     {
-      "id": "person/236dc123-f1de-4ab1-80db-c794cb783378",
+      "gender": "male",
+      "id": "person/4ee2ecbc-5ea2-4c91-9538-27e73ec4924a",
       "name": "Mehmet Erdem",
       "sort_name": "Mehmet Erdem",
       "memberships": [
         {
-          "person_id": "person/236dc123-f1de-4ab1-80db-c794cb783378",
+          "person_id": "person/4ee2ecbc-5ea2-4c91-9538-27e73ec4924a",
           "organization_id": "chamber/grand_national_assembly",
           "role": "member",
           "on_behalf_of_id": "AKP",
@@ -5825,9 +5851,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/3aa89b45-dfd2-4ca9-97ab-6eb2ef9f3f3b",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Turkish_general_election,_2015_-_Republican_People's_Party_(Turkey)_-_Mehmet_Tüm_-_Balıkesir.JPG",
       "name": "Mehmet Tüm",
       "sort_name": "Mehmet Tüm",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mehmettum10"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Turkish_general_election,_2015_-_Republican_People's_Party_(Turkey)_-_Mehmet_Tüm_-_Balıkesir.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/3aa89b45-dfd2-4ca9-97ab-6eb2ef9f3f3b",
@@ -5837,9 +5876,6 @@
           "area_id": "area/balıkesir",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -6521,9 +6557,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/fe1734e2-1260-48d0-a6eb-e88dc297abeb",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Murat_Emir.jpg",
       "name": "Murat Emir",
       "sort_name": "Murat Emir",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "muratemirchp"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Murat_Emir.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/fe1734e2-1260-48d0-a6eb-e88dc297abeb",
@@ -6533,9 +6582,6 @@
           "area_id": "area/ankara_(ii)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -7251,24 +7297,6 @@
           "role": "member",
           "on_behalf_of_id": "AKP",
           "area_id": "area/İzmir_(i)",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/ac835f57-2cba-4f10-940c-d72518ca963a",
-      "name": "Nevin Gaye Usluer",
-      "sort_name": "Nevin Gaye Usluer",
-      "memberships": [
-        {
-          "person_id": "person/ac835f57-2cba-4f10-940c-d72518ca963a",
-          "organization_id": "chamber/grand_national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "CHP",
-          "area_id": "area/eskişehir",
           "legislative_period_id": "term/26"
         }
       ],
@@ -9930,12 +9958,12 @@
       ]
     },
     {
-      "id": "person/0f5a2443-2353-47b7-84c2-0054d8541e93",
-      "name": "Çiğdem Karaarslan",
-      "sort_name": "Çiğdem Karaarslan",
+      "id": "person/73caf7fb-6979-41f3-bc1b-d5dd6adc2bbe",
+      "name": "Çiğdem Karaaslan",
+      "sort_name": "Çiğdem Karaaslan",
       "memberships": [
         {
-          "person_id": "person/0f5a2443-2353-47b7-84c2-0054d8541e93",
+          "person_id": "person/73caf7fb-6979-41f3-bc1b-d5dd6adc2bbe",
           "organization_id": "chamber/grand_national_assembly",
           "role": "member",
           "on_behalf_of_id": "AKP",
