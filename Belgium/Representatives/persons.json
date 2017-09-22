@@ -1,7 +1,7 @@
 {
-  "total": 171,
+  "total": 172,
   "page": 1,
-  "per_page": 171,
+  "per_page": 172,
   "has_more": false,
   "result": [
     {
@@ -938,6 +938,7 @@
           "role": "member",
           "on_behalf_of_id": "mr",
           "area_id": "area/henegouwen",
+          "end_date": "2017-08-24",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1850,6 +1851,26 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/vlaams-brabant",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/bb953372-bbd9-40b1-9e5c-bb705db9ed84",
+      "name": "Isabelle Galant",
+      "sort_name": "Isabelle Galant",
+      "memberships": [
+        {
+          "person_id": "person/bb953372-bbd9-40b1-9e5c-bb705db9ed84",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "mr",
+          "area_id": "area/henegouwen",
+          "start_date": "2017-08-24",
           "legislative_period_id": "term/54"
         }
       ],
