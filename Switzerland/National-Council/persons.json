@@ -1,7 +1,7 @@
 {
-  "total": 208,
+  "total": 209,
   "page": 1,
-  "per_page": 208,
+  "per_page": 209,
   "has_more": false,
   "result": [
     {
@@ -1954,6 +1954,26 @@
     },
     {
       "gender": "male",
+      "id": "person/3dd6f6f4-0dfe-49f2-a6f9-c44b56ccbdd4",
+      "name": "Hansjörg Brunner",
+      "sort_name": "Brunner, Hansjörg",
+      "memberships": [
+        {
+          "person_id": "person/3dd6f6f4-0dfe-49f2-a6f9-c44b56ccbdd4",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "1",
+          "area_id": "TG",
+          "start_date": "2017-11-27",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/e26b1120-3440-410b-beb0-9bf536b01c3f",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hansjörg_Knecht.jpg",
       "name": "Hansjörg Knecht",
@@ -2037,7 +2057,7 @@
           "person_id": "person/1eba1da4-157c-498e-8505-b079d8fbc20c",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "0",
+          "on_behalf_of_id": "136",
           "area_id": "BE",
           "start_date": "2017-09-11",
           "legislative_period_id": "term/50"
@@ -2059,6 +2079,7 @@
           "role": "member",
           "on_behalf_of_id": "1",
           "area_id": "TG",
+          "end_date": "2017-11-26",
           "legislative_period_id": "term/50"
         }
       ],
@@ -2143,6 +2164,7 @@
           "role": "member",
           "on_behalf_of_id": "1",
           "area_id": "TI",
+          "end_date": "2017-10-31",
           "legislative_period_id": "term/50"
         }
       ]
