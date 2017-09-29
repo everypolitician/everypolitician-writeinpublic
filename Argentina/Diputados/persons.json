@@ -125,8 +125,14 @@
     {
       "gender": "male",
       "id": "person/a253958a-86a0-485e-a5ef-0697a0f0f4df",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Agustin_Calleri_-_Open_Godo_2007.jpg",
       "name": "Agustin Santiago Calleri",
       "sort_name": "Calleri, Agustin Santiago",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Agustin_Calleri_-_Open_Godo_2007.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a253958a-86a0-485e-a5ef-0697a0f0f4df",
@@ -3142,8 +3148,14 @@
     {
       "gender": "male",
       "id": "person/527fc195-1dfb-4cbe-adee-45b20ea08329",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Diputado_Jose_Luis_Patiño.jpg",
       "name": "Jose Luis Patiño",
       "sort_name": "Patiño, Jose Luis",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Diputado_Jose_Luis_Patiño.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/527fc195-1dfb-4cbe-adee-45b20ea08329",
@@ -3251,7 +3263,7 @@
     {
       "gender": "male",
       "id": "person/778d577e-ab47-4e4f-b302-9842174b38d1",
-      "image": "https://pbs.twimg.com/profile_images/891318300847857664/iFf6_DzN.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Juan_Carlos_Giordano.jpg",
       "name": "Juan Carlos Giordano",
       "sort_name": "Giordano, Juan Carlos",
       "contact_details": [
@@ -3262,7 +3274,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/891318300847857664/iFf6_DzN.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Juan_Carlos_Giordano.jpg"
         }
       ],
       "memberships": [
@@ -3333,8 +3345,26 @@
     {
       "gender": "male",
       "id": "person/eef206e3-f397-41b6-b785-f72d4955dae3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Juan_Fernando_Brügge.jpg",
       "name": "Juan Fernando Brügge",
       "sort_name": "Brügge, Juan Fernando",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "juanfbrugge"
+        }
+      ],
+      "links": [
+        {
+          "url": "JuanFernandoBrugge",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Juan_Fernando_Brügge.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/eef206e3-f397-41b6-b785-f72d4955dae3",
@@ -3344,9 +3374,6 @@
           "area_id": "area/cordoba",
           "legislative_period_id": "term/135"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -6620,7 +6647,7 @@
     {
       "gender": "female",
       "id": "person/8fa651e7-4611-42ca-b128-16623c06f8e8",
-      "image": "https://pbs.twimg.com/profile_images/880952339410165760/LO1rvyxx.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SoledadSosaPic.jpg",
       "name": "Soledad Sosa",
       "sort_name": "Sosa, Soledad",
       "contact_details": [
@@ -6629,9 +6656,15 @@
           "value": "solesosa_mza"
         }
       ],
+      "links": [
+        {
+          "url": "solesosa.mza",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/880952339410165760/LO1rvyxx.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SoledadSosaPic.jpg"
         }
       ],
       "memberships": [
