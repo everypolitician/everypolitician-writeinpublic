@@ -1,7 +1,7 @@
 {
-  "total": 460,
+  "total": 461,
   "page": 1,
-  "per_page": 460,
+  "per_page": 461,
   "has_more": false,
   "result": [
     {
@@ -786,6 +786,7 @@
           "on_behalf_of_id": "Позафракційні",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2017-02-22",
+          "end_date": "2017-05-16",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1226,16 +1227,6 @@
           "area_id": "167",
           "start_date": "2016-01-26",
           "end_date": "2016-03-29",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/5e3313a2-01f7-449d-8336-890d973c21e9",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "167",
-          "start_date": "2016-01-27",
-          "end_date": "2016-03-28",
           "legislative_period_id": "term/8"
         },
         {
@@ -1939,6 +1930,31 @@
           "on_behalf_of_id": "Позафракційні",
           "area_id": "145",
           "start_date": "2017-02-24",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b732d69d-a6d3-4282-a195-cef186fb4420",
+      "image": "http://static.rada.gov.ua/dep_img8/bp81.jpg",
+      "name": "Буглак Юрій Олександрович",
+      "sort_name": "Буглак Юрій Олександрович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp81.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b732d69d-a6d3-4282-a195-cef186fb4420",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2613",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2017-03-14",
           "legislative_period_id": "term/8"
         }
       ],
@@ -2662,15 +2678,6 @@
           "on_behalf_of_id": "2615",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/d31c08ef-705f-40dc-9134-29607c56d686",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "area/Загальнодержавному_багатомандатному_округу",
-          "start_date": "2016-03-18",
-          "legislative_period_id": "term/8"
         }
       ],
       "contact_details": [
@@ -2969,6 +2976,16 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "197",
+          "end_date": "2017-04-07",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/87e258c1-a8a3-4143-b564-17f2ac53f2c1",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "197",
+          "start_date": "2017-04-08",
           "legislative_period_id": "term/8"
         }
       ],
@@ -5022,16 +5039,6 @@
           "person_id": "person/3e431944-9a4c-4556-94cc-157009839310",
           "organization_id": "chamber/verkhovna_rada",
           "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "area/Загальнодержавному_багатомандатному_округу",
-          "start_date": "2015-09-03",
-          "end_date": "2016-03-30",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/3e431944-9a4c-4556-94cc-157009839310",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2016-03-31",
@@ -5811,16 +5818,6 @@
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2015-09-02",
           "end_date": "2016-03-31",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/fd673ede-295d-4e50-9d24-016a4996641f",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "area/Загальнодержавному_багатомандатному_округу",
-          "start_date": "2015-09-03",
-          "end_date": "2016-03-30",
           "legislative_period_id": "term/8"
         },
         {
@@ -7685,16 +7682,6 @@
           "area_id": "121",
           "start_date": "2015-10-10",
           "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/45e84ab6-22ff-4e04-ae68-c6944f6cba5a",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "2613",
-          "area_id": "121",
-          "start_date": "2015-11-27",
-          "end_date": "2015-10-09",
-          "legislative_period_id": "term/8"
         }
       ],
       "contact_details": [
@@ -7921,6 +7908,16 @@
           "on_behalf_of_id": "2619",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2015-03-03",
+          "end_date": "2017-06-09",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/97f50cf7-658c-4738-b470-131606df91ae",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2017-06-10",
           "legislative_period_id": "term/8"
         }
       ],
@@ -7973,6 +7970,16 @@
           "on_behalf_of_id": "Позафракційні",
           "area_id": "206",
           "start_date": "2016-09-06",
+          "end_date": "2017-09-18",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/b3bb9791-523b-4e17-b2c5-b3b967dd85ee",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2619",
+          "area_id": "206",
+          "start_date": "2017-09-19",
           "legislative_period_id": "term/8"
         }
       ],
@@ -8518,16 +8525,6 @@
           "person_id": "person/40f0f944-c99b-4216-95e4-1b0f30768574",
           "organization_id": "chamber/verkhovna_rada",
           "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "186",
-          "start_date": "2015-04-25",
-          "end_date": "2016-04-13",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/40f0f944-c99b-4216-95e4-1b0f30768574",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "186",
           "start_date": "2016-04-14",
@@ -8924,6 +8921,16 @@
           "role": "member",
           "on_behalf_of_id": "2619",
           "area_id": "93",
+          "end_date": "2017-06-09",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/3e338f3c-1c78-449b-8a8d-e90ae21c30c3",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "93",
+          "start_date": "2017-06-10",
           "legislative_period_id": "term/8"
         }
       ],
@@ -9430,6 +9437,16 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "194",
+          "end_date": "2017-07-12",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/fe1b26cf-68c9-4a0b-9d56-7db41d936fa0",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "194",
+          "start_date": "2017-07-13",
           "legislative_period_id": "term/8"
         }
       ],
@@ -10063,16 +10080,6 @@
           "person_id": "person/013de6fa-209a-40a1-83fe-76634096438e",
           "organization_id": "chamber/verkhovna_rada",
           "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "67",
-          "start_date": "2016-12-07",
-          "end_date": "2017-02-23",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/013de6fa-209a-40a1-83fe-76634096438e",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
           "on_behalf_of_id": "2846",
           "area_id": "67",
           "start_date": "2017-02-24",
@@ -10299,6 +10306,16 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "62",
+          "end_date": "2017-07-11",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/7ea92832-432a-4c6b-8d25-e1a327dcefd8",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "62",
+          "start_date": "2017-07-12",
           "legislative_period_id": "term/8"
         }
       ],
@@ -11468,6 +11485,16 @@
           "role": "member",
           "on_behalf_of_id": "Позафракційні",
           "area_id": "216",
+          "end_date": "2017-09-18",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/50c29b85-19b0-4cba-9df0-6f3bf9166556",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2619",
+          "area_id": "216",
+          "start_date": "2017-09-19",
           "legislative_period_id": "term/8"
         }
       ],
@@ -11504,16 +11531,6 @@
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2015-02-11",
           "end_date": "2016-03-30",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/0302a3c0-fc68-4fa8-978a-fd4c33380a60",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "area/Загальнодержавному_багатомандатному_округу",
-          "start_date": "2015-02-12",
-          "end_date": "2016-03-29",
           "legislative_period_id": "term/8"
         },
         {
@@ -12570,16 +12587,6 @@
           "area_id": "146",
           "start_date": "2016-11-04",
           "end_date": "2017-02-24",
-          "legislative_period_id": "term/8"
-        },
-        {
-          "person_id": "person/8a576107-34a6-4051-9493-1f20dabbc3b0",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "Позафракційні",
-          "area_id": "146",
-          "start_date": "2016-11-05",
-          "end_date": "2017-02-23",
           "legislative_period_id": "term/8"
         },
         {
