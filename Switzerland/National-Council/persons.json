@@ -1,7 +1,7 @@
 {
-  "total": 209,
+  "total": 211,
   "page": 1,
-  "per_page": 209,
+  "per_page": 211,
   "has_more": false,
   "result": [
     {
@@ -1319,6 +1319,26 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/6afdbe81-e304-44f9-abfd-bad9c13d4f75",
+      "name": "Diana Gutjahr",
+      "sort_name": "Gutjahr, Diana",
+      "memberships": [
+        {
+          "person_id": "person/6afdbe81-e304-44f9-abfd-bad9c13d4f75",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "0",
+          "area_id": "TG",
+          "start_date": "2017-11-27",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/fc0f2d19-2859-442f-a9dc-ef6e42de5dbe",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dominique_de_Buman_(2007).jpg",
@@ -1935,8 +1955,14 @@
     {
       "gender": "male",
       "id": "person/55a98e36-b116-4f15-ba2e-323f3b7347d9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hans-Ulrich_Bigler.jpg",
       "name": "Hans-Ulrich Bigler",
       "sort_name": "Bigler, Hans-Ulrich",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hans-Ulrich_Bigler.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/55a98e36-b116-4f15-ba2e-323f3b7347d9",
@@ -4099,6 +4125,26 @@
     },
     {
       "gender": "male",
+      "id": "person/be0b109b-0caa-437c-ada7-6522ef3b3fc9",
+      "name": "Rocco Cattaneo",
+      "sort_name": "Cattaneo, Rocco",
+      "memberships": [
+        {
+          "person_id": "person/be0b109b-0caa-437c-ada7-6522ef3b3fc9",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "0",
+          "area_id": "TI",
+          "start_date": "2017-11-27",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/c741ad9d-991c-43bc-96f2-47a832de43bf",
       "name": "Roger Golay",
       "sort_name": "Golay, Roger",
@@ -4574,8 +4620,14 @@
     {
       "gender": "male",
       "id": "person/cf809e64-809b-4381-b607-6d7348a62d3a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Thomas_Burgherr.jpg",
       "name": "Thomas Burgherr",
       "sort_name": "Burgherr, Thomas",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Thomas_Burgherr.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/cf809e64-809b-4381-b607-6d7348a62d3a",

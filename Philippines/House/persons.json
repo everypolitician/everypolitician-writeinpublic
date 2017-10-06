@@ -1,7 +1,7 @@
 {
-  "total": 295,
+  "total": 297,
   "page": 1,
-  "per_page": 295,
+  "per_page": 297,
   "has_more": false,
   "result": [
     {
@@ -758,6 +758,29 @@
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
           "on_behalf_of_id": "agbiag",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fd1eeea1-ce04-47a4-a49e-911d66c7c3d5",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "name": "Aquino-Magsaysay, Milagros",
+      "sort_name": "Aquino-Magsaysay, Milagros",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fd1eeea1-ce04-47a4-a49e-911d66c7c3d5",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "senior_citizen",
           "legislative_period_id": "term/17"
         }
       ],
@@ -2282,6 +2305,29 @@
       ]
     },
     {
+      "id": "person/7a9c19e6-68ab-49db-8129-07991152ee96",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "name": "Datol, Francisco Jr. G.",
+      "sort_name": "Datol, Francisco Jr. G.",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7a9c19e6-68ab-49db-8129-07991152ee96",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "senior_citizen",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
       "image": "http://www.congress.gov.ph/members/images/16th/daza.jpg",
@@ -2333,8 +2379,8 @@
     {
       "id": "person/5d426fdb-931c-463a-a2cb-0402b02007ac",
       "image": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg",
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez",
-      "sort_name": "De Venecia, Christopher \"Toff\" Vera Perez",
+      "name": "De Venecia, Christopher V.P.",
+      "sort_name": "De Venecia, Christopher V.P.",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
