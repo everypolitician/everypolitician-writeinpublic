@@ -245,7 +245,7 @@
           "person_id": "person/547e5d84-7f43-4c2a-a0c9-24fbf1610ad8",
           "organization_id": "chamber/assembly_of_the_representatives_of_the_people",
           "role": "member",
-          "on_behalf_of_id": "Bloc_Al_Horra_du_Mouvement_Machrouu_Tounes",
+          "on_behalf_of_id": "Aucun_bloc",
           "area_id": "area/pays_arabes_et_reste_du_monde",
           "legislative_period_id": "term/1"
         }
@@ -320,7 +320,7 @@
           "person_id": "person/a2c28490-0796-4fa0-bd76-663e7237a658",
           "organization_id": "chamber/assembly_of_the_representatives_of_the_people",
           "role": "member",
-          "on_behalf_of_id": "Bloc_Démocrate",
+          "on_behalf_of_id": "Aucun_bloc",
           "area_id": "area/gafsa",
           "legislative_period_id": "term/1"
         }
@@ -1395,7 +1395,7 @@
           "person_id": "person/597f1ad0-3df1-4f05-8adb-baeaa8c6ab7b",
           "organization_id": "chamber/assembly_of_the_representatives_of_the_people",
           "role": "member",
-          "on_behalf_of_id": "Mouvement_Nidaa_Tounes",
+          "on_behalf_of_id": "Aucun_bloc",
           "area_id": "area/allemagne",
           "legislative_period_id": "term/1"
         }
@@ -2559,31 +2559,6 @@
     },
     {
       "gender": "female",
-      "id": "person/6cf4dc1b-ea0a-4e1e-a138-27a5cc5407a3",
-      "image": "https://majles.marsad.tn/2014/uploads/images/Leila_Bougatef.png",
-      "name": "Leila Bougatef",
-      "sort_name": "Leila Bougatef",
-      "images": [
-        {
-          "url": "https://majles.marsad.tn/2014/uploads/images/Leila_Bougatef.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6cf4dc1b-ea0a-4e1e-a138-27a5cc5407a3",
-          "organization_id": "chamber/assembly_of_the_representatives_of_the_people",
-          "role": "member",
-          "on_behalf_of_id": "Bloc_Al_Horra_du_Mouvement_Machrouu_Tounes",
-          "area_id": "area/tunis_2",
-          "legislative_period_id": "term/1"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
       "id": "person/3d28c962-8a1f-4cb6-a9d9-2b70a70d783b",
       "image": "https://majles.marsad.tn/2014/uploads/images/Leila_Hamrouni.png",
       "name": "Leila Hamrouni",
@@ -2675,6 +2650,31 @@
           "role": "member",
           "on_behalf_of_id": "Bloc_Al_Horra_du_Mouvement_Machrouu_Tounes",
           "area_id": "area/zaghouan",
+          "legislative_period_id": "term/1"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6cf4dc1b-ea0a-4e1e-a138-27a5cc5407a3",
+      "image": "https://majles.marsad.tn/2014/uploads/images/Leila_Bougatef.png",
+      "name": "Leila ِChettaoui Bougatef",
+      "sort_name": "Leila ِChettaoui Bougatef",
+      "images": [
+        {
+          "url": "https://majles.marsad.tn/2014/uploads/images/Leila_Bougatef.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6cf4dc1b-ea0a-4e1e-a138-27a5cc5407a3",
+          "organization_id": "chamber/assembly_of_the_representatives_of_the_people",
+          "role": "member",
+          "on_behalf_of_id": "Bloc_Al_Horra_du_Mouvement_Machrouu_Tounes",
+          "area_id": "area/tunis_2",
           "legislative_period_id": "term/1"
         }
       ],
@@ -3035,12 +3035,12 @@
     {
       "gender": "male",
       "id": "person/c89ebb24-696e-466a-be84-98b954e4c5fc",
-      "image": "https://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed.png",
+      "image": "https://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed_1.png",
       "name": "Mohamed Abdellaoui",
       "sort_name": "Mohamed Abdellaoui",
       "images": [
         {
-          "url": "https://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed.png"
+          "url": "https://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed_1.png"
         }
       ],
       "memberships": [
@@ -3948,7 +3948,7 @@
           "person_id": "person/567d6147-ec44-45a5-a02f-1fbda533d143",
           "organization_id": "chamber/assembly_of_the_representatives_of_the_people",
           "role": "member",
-          "on_behalf_of_id": "Mouvement_Ennahdha",
+          "on_behalf_of_id": "Aucun_bloc",
           "area_id": "area/tunis_1",
           "legislative_period_id": "term/1"
         }
