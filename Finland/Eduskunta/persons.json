@@ -3214,8 +3214,20 @@
     {
       "gender": "male",
       "id": "person/ea38f5eb-200f-4a93-81a7-a16b8e53de5f",
+      "image": "https://pbs.twimg.com/profile_images/903203748767518722/cpt6P179.jpg",
       "name": "Matti Torvinen",
       "sort_name": "Matti Torvinen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TorvinenMatti"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/903203748767518722/cpt6P179.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ea38f5eb-200f-4a93-81a7-a16b8e53de5f",
@@ -3226,9 +3238,6 @@
           "start_date": "2017-07-01",
           "legislative_period_id": "term/37"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
-  "total": 152,
+  "total": 153,
   "page": 1,
-  "per_page": 152,
+  "per_page": 153,
   "has_more": false,
   "result": [
     {
@@ -328,6 +328,31 @@
           "role": "member",
           "on_behalf_of_id": "most-hÍd",
           "area_id": "area/trnavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "darina_gabaniova@nrsr.sk",
+      "id": "person/a4995b36-1768-478e-a387-5e59b0cdc022",
+      "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=257&ImageWidth=140",
+      "name": "Darina Gabániová",
+      "sort_name": "Darina Gabániová",
+      "images": [
+        {
+          "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=257&ImageWidth=140"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a4995b36-1768-478e-a387-5e59b0cdc022",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "smer_–_sociálna_demokracia",
+          "area_id": "area/bratislavský",
           "legislative_period_id": "term/7"
         }
       ],
@@ -2623,6 +2648,7 @@
       ]
     },
     {
+      "email": "peter_antal@nrsr.sk",
       "id": "person/0550f902-6fd5-4072-b5ad-118f39b041bd",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=981&ImageWidth=140",
       "name": "Peter Antal",

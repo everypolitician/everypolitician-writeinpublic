@@ -1,7 +1,7 @@
 {
-  "total": 396,
+  "total": 404,
   "page": 1,
-  "per_page": 396,
+  "per_page": 404,
   "has_more": false,
   "result": [
     {
@@ -406,6 +406,31 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "area/ngara",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "a.kahigi@bunge.go.tz",
+      "id": "person/004b3bdb-2e64-4026-b401-f86b1c46b420",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Alfredina Apolinary Kahigi",
+      "sort_name": "Alfredina Apolinary Kahigi",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/004b3bdb-2e64-4026-b401-f86b1c46b420",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
+          "area_id": "area/special_seats",
           "legislative_period_id": "term/5"
         }
       ],
@@ -5530,6 +5555,31 @@
       ]
     },
     {
+      "email": "k.mayeye@bunge.go.tz",
+      "id": "person/f3835431-72b2-47dc-90f9-1d3a84b3e373",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Kiza Hussein Mayeye",
+      "sort_name": "Kiza Hussein Mayeye",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f3835431-72b2-47dc-90f9-1d3a84b3e373",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "k.majala@bunge.go.tz",
       "id": "person/b2737d5a-655c-42eb-8121-b6dcea53bf0b",
       "image": "http://parliament.go.tz/polis/uploads/members/0.92670700%201486014447.png",
@@ -7341,6 +7391,31 @@
       ]
     },
     {
+      "email": "n.bafadhili@bunge.go.tz",
+      "id": "person/2dab1016-0290-4e6a-b7db-84877336d72b",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Nuru Awadh Bafadhili",
+      "sort_name": "Nuru Awadh Bafadhili",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2dab1016-0290-4e6a-b7db-84877336d72b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "o.semuguruka@bunge.go.tz",
       "id": "person/19c93326-f57c-446f-8225-0e4c5e35516d",
       "image": "http://parliament.go.tz/polis/uploads/members/0.54907100%201486012106.png",
@@ -7569,6 +7644,32 @@
       ]
     },
     {
+      "email": "p.kabudi@bunge.go.tz",
+      "gender": "male",
+      "id": "person/ecbe058b-b852-421e-8da2-f5cbccb64b93",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.35691400%201494232836.png",
+      "name": "Palamagamba John Aidan Mwaluko Kabudi",
+      "sort_name": "Palamagamba John Aidan Mwaluko Kabudi",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.35691400%201494232836.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ecbe058b-b852-421e-8da2-f5cbccb64b93",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "area/nominated",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "p.haonga@bunge.go.tz",
       "id": "person/1b443ff5-5ff0-47ff-951b-e2b6b28dcbb1",
       "image": "http://parliament.go.tz/polis/uploads/members/0.20114700%201485964216.png",
@@ -7775,32 +7876,6 @@
       ]
     },
     {
-      "email": "p.kabudi@bunge.go.tz",
-      "gender": "male",
-      "id": "person/ecbe058b-b852-421e-8da2-f5cbccb64b93",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.35691400%201494232836.png",
-      "name": "Prof. Palamagamba John Aidan Mwaluko Kabudi",
-      "sort_name": "Prof. Palamagamba John Aidan Mwaluko Kabudi",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.35691400%201494232836.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ecbe058b-b852-421e-8da2-f5cbccb64b93",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "area/nominated",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "smuhongo@parliament.go.tz",
       "gender": "male",
       "id": "person/6a001510-f331-4ed2-b437-d1fa95b2496a",
@@ -7995,6 +8070,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ccm",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "r.migilla@bunge.go.tz",
+      "id": "person/e3a8512c-56da-4481-8fb5-2916bd882740",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Rehema Juma Migilla",
+      "sort_name": "Rehema Juma Migilla",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e3a8512c-56da-4481-8fb5-2916bd882740",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
           "area_id": "area/special_seats",
           "legislative_period_id": "term/5"
         }
@@ -8301,6 +8401,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "chadema",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "r.kassim@bunge.go.tz",
+      "id": "person/ba4dc38d-73ba-4f95-80a1-cc0d1923de13",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Rukia Ahmed Kassim",
+      "sort_name": "Rukia Ahmed Kassim",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ba4dc38d-73ba-4f95-80a1-cc0d1923de13",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
           "area_id": "area/special_seats",
           "legislative_period_id": "term/5"
         }
@@ -8845,6 +8970,31 @@
       ]
     },
     {
+      "email": "s.mtamba@bunge.go.tz",
+      "id": "person/c3d75dc7-3c24-4080-9b07-886858673686",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Shamsia Aziz Mtamba",
+      "sort_name": "Shamsia Aziz Mtamba",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c3d75dc7-3c24-4080-9b07-886858673686",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "smansoor@parliament.go.tz",
       "gender": "male",
       "id": "person/dca1ddc6-c277-4fc1-9d50-926a2c4073bb",
@@ -8990,6 +9140,31 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "area/mbinga_mjini",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "s.magogo@bunge.go.tz",
+      "id": "person/cb58bdc8-5c2e-4882-89f6-5839a501b217",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Sonia Jumaa Magogo",
+      "sort_name": "Sonia Jumaa Magogo",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cb58bdc8-5c2e-4882-89f6-5839a501b217",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
+          "area_id": "area/special_seats",
           "legislative_period_id": "term/5"
         }
       ],
@@ -9957,6 +10132,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ccm",
+          "area_id": "area/special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "z.amir@bunge.go.tz",
+      "id": "person/50ba5751-3747-490a-9dcd-e87d89c8ac4a",
+      "image": "http://www.parliament.go.tz/site/images/img.jpg",
+      "name": "Zainab Mndolwa Amir",
+      "sort_name": "Zainab Mndolwa Amir",
+      "images": [
+        {
+          "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/50ba5751-3747-490a-9dcd-e87d89c8ac4a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "cuf",
           "area_id": "area/special_seats",
           "legislative_period_id": "term/5"
         }
