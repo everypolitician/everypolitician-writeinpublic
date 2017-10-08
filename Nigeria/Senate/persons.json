@@ -1,7 +1,7 @@
 {
-  "total": 113,
+  "total": 114,
   "page": 1,
-  "per_page": 113,
+  "per_page": 114,
   "has_more": false,
   "result": [
     {
@@ -196,6 +196,31 @@
           "role": "member",
           "on_behalf_of_id": "PDP",
           "area_id": "area/taraba_north,_taraba_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4f6d21ca-bb6e-4d5a-bf4d-115b0f11fa7d",
+      "image": "http://www.nass.gov.ng/images/mps/972.jpg",
+      "name": "ADEMOLA ADELEKE",
+      "sort_name": "ADEMOLA ADELEKE",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/972.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4f6d21ca-bb6e-4d5a-bf4d-115b0f11fa7d",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "PDP",
+          "area_id": "area/osun_west,_osun_state",
           "legislative_period_id": "term/8"
         }
       ],
@@ -469,6 +494,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/70286a75-669d-4137-bab8-33d7350e3aaf",
       "image": "http://www.nass.gov.ng/images/mps/948.jpg",
       "name": "Aliyu Wamakko",
@@ -1118,6 +1144,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d9aa73bb-dea8-45c4-8eeb-0e66b5439e29",
       "image": "http://www.nass.gov.ng/images/mps/863.jpg",
       "name": "GODSWILL AKPABIO",
@@ -1322,6 +1349,7 @@
     },
     {
       "email": "jerruseni@yahoo.com",
+      "gender": "male",
       "id": "person/ced31c32-8f02-4411-9cae-f0b0d27b17f2",
       "image": "http://www.nass.gov.ng/images/mps/516.jpg",
       "name": "JEREMIAH USENI",
@@ -1373,6 +1401,7 @@
     },
     {
       "email": "jodajang@yahoo.co.uk",
+      "gender": "male",
       "id": "person/281e0ba8-5b87-40e2-98e4-454d57b96b4c",
       "image": "http://www.nass.gov.ng/images/mps/508.jpg",
       "name": "JONAH JANG",
@@ -1447,6 +1476,7 @@
     },
     {
       "email": "dariye1957@yahoo.com",
+      "gender": "male",
       "id": "person/0de9e40b-52bc-459f-978b-2aea514eec79",
       "image": "http://www.nass.gov.ng/images/mps/745.jpg",
       "name": "JOSHUA CHIBI",
@@ -1777,6 +1807,7 @@
     },
     {
       "email": "monsuratsunmonu@yahoo.co.uk",
+      "gender": "female",
       "id": "person/c3f67ec9-ce83-4b9f-b56e-6f5ed727cea0",
       "image": "http://www.nass.gov.ng/images/mps/814.jpg",
       "name": "MONSURAT SUNMONU",
@@ -1902,6 +1933,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/cdf2f2a5-549d-4e71-91a5-07dae6e26b04",
       "image": "http://www.shineyoureye.org/media_root/images/APC_-_Bayero_Nafada_1.jpg",
       "name": "NAFADA BAYERO",
@@ -1926,6 +1958,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a4f78be5-607a-4663-9b3a-533464a962c1",
       "image": "http://www.nass.gov.ng/images/mps/890.jpg",
       "name": "NELSON EFFIONG",
@@ -2220,6 +2253,7 @@
     },
     {
       "email": "info@yayiadeola.ng",
+      "gender": "male",
       "id": "person/e5a6c86b-b503-4105-983b-d5c81ab41eaf",
       "image": "http://www.nass.gov.ng/images/mps/889.jpg",
       "name": "Olamilekan Adeola",
@@ -2490,6 +2524,7 @@
     },
     {
       "email": "shehu_sani@yahoo.com",
+      "gender": "male",
       "id": "person/dae37bba-7daa-4e87-be2b-97690edea1bf",
       "image": "http://www.nass.gov.ng/images/mps/528.jpg",
       "name": "SHEHU SANI",
