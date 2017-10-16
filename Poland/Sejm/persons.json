@@ -5571,19 +5571,12 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinga_Gajewska-Płochocka.jpg",
-      "name": "Kinga Gajewska-Płochocka",
-      "sort_name": "Kinga Gajewska-Płochocka",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinga_Gajewska-Płochocka.jpg"
-        }
-      ],
+      "id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
+      "name": "Kinga Gajewska",
+      "sort_name": "Kinga Gajewska",
       "memberships": [
         {
-          "person_id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
+          "person_id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
@@ -11235,7 +11228,7 @@
           "person_id": "person/53325e99-3426-4a1f-bf6e-e81a02e6cdeb",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_poselski_nowoczesna",
+          "on_behalf_of_id": "posłowie_niezrzeszeni",
           "area_id": "19-8",
           "legislative_period_id": "term/8"
         }
@@ -11405,7 +11398,7 @@
           "person_id": "person/4b92389b-04f8-4d4b-b316-88575a9a9eb9",
           "organization_id": "chamber/sejm",
           "role": "member",
-          "on_behalf_of_id": "klub_parlamentarny_prawo_i_sprawiedliwość",
+          "on_behalf_of_id": "klub_poselski_kukiz’15",
           "area_id": "11-8",
           "legislative_period_id": "term/8"
         }
