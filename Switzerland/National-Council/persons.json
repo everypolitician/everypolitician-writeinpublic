@@ -1,7 +1,7 @@
 {
-  "total": 211,
+  "total": 212,
   "page": 1,
-  "per_page": 211,
+  "per_page": 212,
   "has_more": false,
   "result": [
     {
@@ -2198,6 +2198,26 @@
     },
     {
       "gender": "female",
+      "id": "person/efb39611-2055-407d-93a6-290930ebe702",
+      "name": "Irène Kälin",
+      "sort_name": "Kälin, Irène",
+      "memberships": [
+        {
+          "person_id": "person/efb39611-2055-407d-93a6-290930ebe702",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "0",
+          "area_id": "AG",
+          "start_date": "2017-11-27",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
       "id": "person/98c5c85b-264e-458a-b507-d9f6390aa5ab",
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Isabelle_Chevalley.jpg",
       "name": "Isabelle Chevalley",
@@ -2549,6 +2569,7 @@
           "role": "member",
           "on_behalf_of_id": "6",
           "area_id": "AG",
+          "end_date": "2017-11-26",
           "legislative_period_id": "term/50"
         }
       ],

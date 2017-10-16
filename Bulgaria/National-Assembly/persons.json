@@ -1,7 +1,7 @@
 {
-  "total": 246,
+  "total": 248,
   "page": 1,
-  "per_page": 246,
+  "per_page": 248,
   "has_more": false,
   "result": [
     {
@@ -423,6 +423,7 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
           "area_id": "25",
+          "end_date": "2017-10-11",
           "legislative_period_id": "term/44"
         }
       ],
@@ -1100,6 +1101,7 @@
     },
     {
       "email": "vessela.letcheva@parliament.bg",
+      "gender": "female",
       "id": "person/7afebd44-d323-4bfb-8c88-ac1f333ca134",
       "image": "http://www.parliament.bg/images/Assembly/2774.png",
       "name": "ВЕСЕЛА НИКОЛАЕВА ЛЕЧЕВА",
@@ -2132,6 +2134,7 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
           "area_id": "2",
+          "end_date": "2017-10-11",
           "legislative_period_id": "term/44"
         }
       ],
@@ -2489,6 +2492,32 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_“bsp_for_bulgaria”",
           "area_id": "27",
+          "legislative_period_id": "term/44"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "evgeni.budinov@parliament.bg",
+      "id": "person/362e3935-bbf3-4994-a29b-442705e5ada6",
+      "image": "http://www.parliament.bg/images/Assembly/2942.png",
+      "name": "ЕВГЕНИ ГЕНЧЕВ БУДИНОВ",
+      "sort_name": "ЕВГЕНИ ГЕНЧЕВ БУДИНОВ",
+      "images": [
+        {
+          "url": "http://www.parliament.bg/images/Assembly/2942.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/362e3935-bbf3-4994-a29b-442705e5ada6",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
+          "area_id": "25",
+          "start_date": "2017-10-13",
           "legislative_period_id": "term/44"
         }
       ],
@@ -3024,6 +3053,33 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
           "area_id": "11",
+          "legislative_period_id": "term/44"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "i.valkov@parliament.bg, ivalkovv@parliament.bg",
+      "gender": "male",
+      "id": "person/5d8b8c64-46e8-41e3-9db5-eab291edf5aa",
+      "image": "http://www.parliament.bg/images/Assembly/851.png",
+      "name": "ИВАН СТЕФАНОВ ВЪЛКОВ",
+      "sort_name": "ИВАН СТЕФАНОВ ВЪЛКОВ",
+      "images": [
+        {
+          "url": "http://www.parliament.bg/images/Assembly/851.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5d8b8c64-46e8-41e3-9db5-eab291edf5aa",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
+          "area_id": "2",
+          "start_date": "2017-10-13",
           "legislative_period_id": "term/44"
         }
       ],
