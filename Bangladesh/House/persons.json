@@ -7423,6 +7423,12 @@
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2182.jpg",
       "name": "Saber Hossain Chowdhury",
       "sort_name": "Saber Hossain Chowdhury",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "saberhc"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2182.jpg"
@@ -7437,9 +7443,6 @@
           "area_id": "area/dhaka",
           "legislative_period_id": "term/10"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -8574,6 +8577,12 @@
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10316.jpg",
       "name": "Tarana Halim",
       "sort_name": "Tarana Halim",
+      "links": [
+        {
+          "url": "TaranaHalimMP",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10316.jpg"
@@ -8874,6 +8883,18 @@
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2060.jpg",
       "name": "Zunaid Ahmed Palak",
       "sort_name": "Zunaid Ahmed Palak",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "zapalak"
+        }
+      ],
+      "links": [
+        {
+          "url": "zapalak",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2060.jpg"
@@ -8888,9 +8909,6 @@
           "area_id": "area/natore",
           "legislative_period_id": "term/10"
         }
-      ],
-      "contact_details": [
-
       ]
     }
   ]
