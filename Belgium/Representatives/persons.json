@@ -1,7 +1,7 @@
 {
-  "total": 172,
+  "total": 173,
   "page": 1,
-  "per_page": 172,
+  "per_page": 173,
   "has_more": false,
   "result": [
     {
@@ -1900,6 +1900,26 @@
           "role": "member",
           "on_behalf_of_id": "cdh",
           "area_id": "area/luxemburg",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/efdaa2ef-2a7a-4f66-98be-aa9aff3ba98a",
+      "name": "Jacques Chabot",
+      "sort_name": "Jacques Chabot",
+      "memberships": [
+        {
+          "person_id": "person/efdaa2ef-2a7a-4f66-98be-aa9aff3ba98a",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "area/luik",
+          "start_date": "2017-11-09",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4371,6 +4391,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "area/luik",
+          "end_date": "2017-11-09",
           "legislative_period_id": "term/54"
         }
       ],
