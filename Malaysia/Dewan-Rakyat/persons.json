@@ -1994,6 +1994,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c1b0fc82-f975-4e30-a233-171abbdbd626",
       "name": "Khoo Soo Seang",
       "sort_name": "Khoo Soo Seang",
@@ -2409,6 +2410,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/e20a3201-4bcb-4bac-872c-ff45bb4b9ce0",
       "name": "Mary Yap Kain Ching",
       "sort_name": "Mary Yap Kain Ching",
@@ -2708,6 +2710,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/9e80c5e7-daaa-4b01-aa9b-11622676e7cf",
       "name": "Mohd Isa Abdul Samad",
       "sort_name": "Mohd Isa Abdul Samad",
@@ -4269,8 +4272,14 @@
     {
       "gender": "male",
       "id": "person/543fc869-6284-4ce9-aa57-d678f00d5452",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/20110414TonyPuaThursday.jpg",
       "name": "Tony Pua Kiam Wee",
       "sort_name": "Tony Pua Kiam Wee",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/20110414TonyPuaThursday.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/543fc869-6284-4ce9-aa57-d678f00d5452",
