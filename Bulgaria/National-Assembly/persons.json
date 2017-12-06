@@ -1,7 +1,7 @@
 {
-  "total": 248,
+  "total": 249,
   "page": 1,
-  "per_page": 248,
+  "per_page": 249,
   "has_more": false,
   "result": [
     {
@@ -635,6 +635,7 @@
     },
     {
       "email": "boris.borisov@parliament.bg",
+      "gender": "male",
       "id": "person/fe405f7b-0d2d-4926-b586-8883e5d0dc10",
       "image": "http://www.parliament.bg/images/Assembly/2790.png",
       "name": "БОРИС ВАНГЕЛОВ БОРИСОВ",
@@ -1118,6 +1119,16 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_“bsp_for_bulgaria”",
           "area_id": "4",
+          "end_date": "2017-10-19",
+          "legislative_period_id": "term/44"
+        },
+        {
+          "person_id": "person/7afebd44-d323-4bfb-8c88-ac1f333ca134",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "parliamentary_group_“bsp_for_bulgaria”",
+          "area_id": "4",
+          "start_date": "2017-10-19",
           "legislative_period_id": "term/44"
         }
       ],
@@ -1561,6 +1572,16 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_“bsp_for_bulgaria”",
           "area_id": "24",
+          "end_date": "2017-10-19",
+          "legislative_period_id": "term/44"
+        },
+        {
+          "person_id": "person/10e3bc88-cf22-4f8d-a7c0-af8297718f5d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "parliamentary_group_“bsp_for_bulgaria”",
+          "area_id": "24",
+          "start_date": "2017-10-19",
           "legislative_period_id": "term/44"
         }
       ],
@@ -2194,6 +2215,33 @@
       ]
     },
     {
+      "email": "dimitar.glavchev@parliament.bg",
+      "gender": "male",
+      "id": "person/92e6ad7d-7a95-4fba-98c8-32c3dffc0728",
+      "image": "http://www.parliament.bg/images/Assembly/1003.png",
+      "name": "ДИМИТЪР БОРИСОВ ГЛАВЧЕВ",
+      "sort_name": "ДИМИТЪР БОРИСОВ ГЛАВЧЕВ",
+      "images": [
+        {
+          "url": "http://www.parliament.bg/images/Assembly/1003.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/92e6ad7d-7a95-4fba-98c8-32c3dffc0728",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
+          "area_id": "23",
+          "start_date": "2017-11-17",
+          "legislative_period_id": "term/44"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "dimitar.georgiev@parliament.bg",
       "id": "person/9fe30191-591c-4389-acca-c547ffc4a0e2",
       "image": "http://www.parliament.bg/images/Assembly/2849.png",
@@ -2501,6 +2549,7 @@
     },
     {
       "email": "evgeni.budinov@parliament.bg",
+      "gender": "male",
       "id": "person/362e3935-bbf3-4994-a29b-442705e5ada6",
       "image": "http://www.parliament.bg/images/Assembly/2942.png",
       "name": "ЕВГЕНИ ГЕНЧЕВ БУДИНОВ",
@@ -2695,6 +2744,7 @@
           "role": "member",
           "on_behalf_of_id": "parliamentary_group_of_pp_“gerb”",
           "area_id": "27",
+          "end_date": "2017-11-23",
           "legislative_period_id": "term/44"
         }
       ],
