@@ -1,7 +1,7 @@
 {
-  "total": 344,
+  "total": 346,
   "page": 1,
-  "per_page": 344,
+  "per_page": 346,
   "has_more": false,
   "result": [
     {
@@ -2065,6 +2065,25 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/b44d4ac2-bb0b-4012-9950-d21ae79ced8c",
+      "name": "Dane Lloyd",
+      "sort_name": "Dane Lloyd",
+      "memberships": [
+        {
+          "person_id": "person/b44d4ac2-bb0b-4012-9950-d21ae79ced8c",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "area/alberta_(sturgeon_river—parkland)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Daniel.Blaikie@parl.gc.ca",
       "gender": "male",
       "id": "person/d8a40efc-de4a-4327-8a9b-058723a8d203",
@@ -2657,6 +2676,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal",
           "area_id": "area/quebec_(chicoutimi—le_fjord)",
+          "end_date": "2017-11-06",
           "legislative_period_id": "term/42"
         }
       ]
@@ -8621,6 +8641,25 @@
           "area_id": "area/british_columbia_(south_okanagan—west_kootenay)",
           "legislative_period_id": "term/42"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/69e788b9-e245-499e-804a-105d9ce642a7",
+      "name": "Richard Hébert",
+      "sort_name": "Richard Hébert",
+      "memberships": [
+        {
+          "person_id": "person/69e788b9-e245-499e-804a-105d9ce642a7",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "liberal",
+          "area_id": "area/quebec_(lac-saint-jean)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
