@@ -1,7 +1,7 @@
 {
-  "total": 166,
+  "total": 167,
   "page": 1,
-  "per_page": 166,
+  "per_page": 167,
   "has_more": false,
   "result": [
     {
@@ -1940,8 +1940,14 @@
     {
       "gender": "female",
       "id": "person/b24a1628-f4ce-4891-8d75-f603c616a76a",
+      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon%20Joyce%20Nonde%20%282%29.JPG?itok=qfgZuBkS",
       "name": "Joyce Nonde Simukoko",
       "sort_name": "Joyce Nonde Simukoko",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon%20Joyce%20Nonde%20%282%29.JPG?itok=qfgZuBkS"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b24a1628-f4ce-4891-8d75-f603c616a76a",
@@ -2610,6 +2616,30 @@
           "role": "member",
           "on_behalf_of_id": "PF",
           "area_id": "area/kaputa",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5f34443e-b7fb-4623-95d6-17629cb6bdc5",
+      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/kabanda%252C_maxwell_m.jpg?itok=mafDt6f2",
+      "name": "Maxwell Muma Kabanda",
+      "sort_name": "Maxwell Muma Kabanda",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/kabanda%252C_maxwell_m.jpg?itok=mafDt6f2"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5f34443e-b7fb-4623-95d6-17629cb6bdc5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MMD",
+          "area_id": "area/serenje",
           "legislative_period_id": "term/2016"
         }
       ],
