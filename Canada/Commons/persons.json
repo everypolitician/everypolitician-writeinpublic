@@ -1,7 +1,7 @@
 {
-  "total": 346,
+  "total": 350,
   "page": 1,
-  "per_page": 346,
+  "per_page": 350,
   "has_more": false,
   "result": [
     {
@@ -1914,6 +1914,25 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/f27b422d-e604-4b69-bd39-ba3677ac1676",
+      "name": "Churence Rogers",
+      "sort_name": "Churence Rogers",
+      "memberships": [
+        {
+          "person_id": "person/f27b422d-e604-4b69-bd39-ba3677ac1676",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "liberal",
+          "area_id": "area/newfoundland_and_labrador_(bonavista—burin—trinity)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "colin.carrie@parl.gc.ca",
       "gender": "male",
       "id": "person/e57ae25e-fb40-4d1f-824d-77b548fc1058",
@@ -2676,7 +2695,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal",
           "area_id": "area/quebec_(chicoutimi—le_fjord)",
-          "end_date": "2017-11-06",
+          "end_date": "2017-12-01",
           "legislative_period_id": "term/42"
         }
       ]
@@ -2796,7 +2815,7 @@
           "role": "member",
           "on_behalf_of_id": "conservative",
           "area_id": "area/british_columbia_(south_surrey—white_rock)",
-          "end_date": "2017-09-30",
+          "end_date": "2017-09-29",
           "legislative_period_id": "term/42"
         }
       ]
@@ -3806,6 +3825,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/835a9052-d52b-44c2-aaea-8523425aaedb",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gordon-hogg.jpg",
+      "name": "Gordon Hogg",
+      "sort_name": "Gordon Hogg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gordon-hogg.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/835a9052-d52b-44c2-aaea-8523425aaedb",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "liberal",
+          "area_id": "area/british_columbia_(south_surrey—white_rock)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Greg.Fergus@parl.gc.ca",
       "gender": "male",
       "id": "person/07e0e4c7-d9bb-48c8-a053-39c4b8c26421",
@@ -4426,6 +4470,25 @@
           "area_id": "area/quebec_(saint-jean)",
           "legislative_period_id": "term/42"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/1d2a2d2f-fefc-44a3-ba0c-8b5b6a497b3f",
+      "name": "Jean Yip",
+      "sort_name": "Jean Yip",
+      "memberships": [
+        {
+          "person_id": "person/1d2a2d2f-fefc-44a3-ba0c-8b5b6a497b3f",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "liberal",
+          "area_id": "area/ontario_(scarborough—agincourt)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -9007,6 +9070,24 @@
           "end_date": "2017-07-04",
           "legislative_period_id": "term/42"
         }
+      ]
+    },
+    {
+      "id": "person/9d3ff6e3-9494-472e-8a45-fd9785dfcfdf",
+      "name": "Rosemarie Falk",
+      "sort_name": "Rosemarie Falk",
+      "memberships": [
+        {
+          "person_id": "person/9d3ff6e3-9494-472e-8a45-fd9785dfcfdf",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "conservative",
+          "area_id": "area/saskatchewan_(battlefords—lloydminster)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
