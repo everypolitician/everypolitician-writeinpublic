@@ -1,7 +1,7 @@
 {
-  "total": 446,
+  "total": 447,
   "page": 1,
-  "per_page": 446,
+  "per_page": 447,
   "has_more": false,
   "result": [
     {
@@ -7169,8 +7169,35 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mi/cd:13",
+          "end_date": "2017-12-05",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ebea0b7d-8d91-4c26-86a0-ea74f012f629",
+      "image": "https://theunitedstates.io/images/congress/original/C001114.jpg",
+      "name": "John Curtis",
+      "sort_name": "Curtis, John",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/C001114.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ebea0b7d-8d91-4c26-86a0-ea74f012f629",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:ut/cd:3",
+          "start_date": "2017-11-13",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -14032,6 +14059,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:pa/cd:18",
+          "end_date": "2017-10-21",
           "legislative_period_id": "term/115"
         }
       ]
@@ -14537,6 +14565,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:az/cd:8",
+          "end_date": "2017-12-08",
           "legislative_period_id": "term/115"
         }
       ]
