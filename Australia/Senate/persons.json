@@ -1,7 +1,7 @@
 {
-  "total": 79,
+  "total": 84,
   "page": 1,
-  "per_page": 79,
+  "per_page": 84,
   "has_more": false,
   "result": [
     {
@@ -29,6 +29,35 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "area/sa",
+          "legislative_period_id": "term/45"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/7972765e-ec2d-4593-a8d9-4b9761e61464",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Andrew_Bartlett.jpg",
+      "name": "Andrew Bartlett",
+      "sort_name": "Bartlett, Andrew",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AndrewBartlett"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Andrew_Bartlett.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7972765e-ec2d-4593-a8d9-4b9761e61464",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_greens",
+          "area_id": "area/queensland",
+          "start_date": "2017-11-10",
           "legislative_period_id": "term/45"
         }
       ]
@@ -120,10 +149,9 @@
       ]
     },
     {
-      "email": "senator.sinodinos@aph.gov.au",
       "gender": "male",
       "id": "person/800fed41-c946-4010-a910-41c820bf3ca2",
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/BV7.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Sinodinos_2016.jpg",
       "name": "Arthur Sinodinos",
       "sort_name": "Sinodinos, Arthur",
       "contact_details": [
@@ -134,7 +162,7 @@
       ],
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/BV7.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Sinodinos_2016.jpg"
         }
       ],
       "memberships": [
@@ -379,6 +407,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "area/wa",
+          "end_date": "2017-07-31",
           "legislative_period_id": "term/45"
         }
       ]
@@ -780,8 +809,29 @@
           "role": "member",
           "on_behalf_of_id": "national_party",
           "area_id": "area/nsw",
+          "end_date": "2017-10-27",
           "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/83ed1e9b-de0b-4be1-a711-01405db6b00b",
+      "name": "Fraser Anning",
+      "sort_name": "Anning, Fraser",
+      "memberships": [
+        {
+          "person_id": "person/83ed1e9b-de0b-4be1-a711-01405db6b00b",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "pauline_hanson's_one_nation_party",
+          "area_id": "area/queensland",
+          "start_date": "2017-11-10",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -971,6 +1021,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "area/tasmania",
+          "end_date": "2017-11-14",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1109,7 +1160,7 @@
       ]
     },
     {
-      "email": "jennifer.mcallister@aph.gov.au",
+      "email": "senator.mcallister@aph.gov.au",
       "gender": "female",
       "id": "person/3f7e5adc-979c-418b-950b-4731079c2cf7",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/121628/upload_ref_binary/121628.jpg",
@@ -1195,6 +1246,35 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c6ef903c-7e19-4e11-ac84-d73353f278e5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jordon_Steele-John.jpg",
+      "name": "Jordon Steele-John",
+      "sort_name": "Steele-John, Jordon",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JordonSteeleJoh"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jordon_Steele-John.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c6ef903c-7e19-4e11-ac84-d73353f278e5",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_greens",
+          "area_id": "area/wa",
+          "start_date": "2017-11-10",
+          "legislative_period_id": "term/45"
+        }
       ]
     },
     {
@@ -1448,6 +1528,12 @@
           "value": "senatorlucy"
         }
       ],
+      "links": [
+        {
+          "url": "LucyGichuhiAustralia",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lucy_Gichuhi_and_family_2017.jpg"
@@ -1529,6 +1615,7 @@
           "role": "member",
           "on_behalf_of_id": "pauline_hanson's_one_nation_party",
           "area_id": "area/queensland",
+          "end_date": "2017-10-27",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1770,6 +1857,7 @@
           "role": "member",
           "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "area/sa",
+          "end_date": "2017-10-06",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1983,6 +2071,26 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/cf381a3a-0ae9-4706-92cb-37b58195d325",
+      "name": "Rex Patrick",
+      "sort_name": "Patrick, Rex",
+      "memberships": [
+        {
+          "person_id": "person/cf381a3a-0ae9-4706-92cb-37b58195d325",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "nick_xenophon_team",
+          "area_id": "area/sa",
+          "start_date": "2017-11-14",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "senator.dinatale@aph.gov.au",
       "gender": "male",
       "id": "person/41e4f552-da12-45d9-b849-0bc36e1bb006",
@@ -2165,6 +2273,16 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "area/victoria",
+          "end_date": "2017-11-12",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/1e2862d9-66e0-4d93-aea4-3927c14e5b8a",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "pres",
+          "area_id": "area/victoria",
+          "start_date": "2017-11-13",
           "legislative_period_id": "term/45"
         }
       ]
@@ -2228,8 +2346,35 @@
           "role": "member",
           "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "area/sa",
+          "end_date": "2017-11-22",
           "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c315f539-c1e8-4ab6-8dc3-b62019cedc21",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brockman_Slade_170398-014.jpg",
+      "name": "Slade Brockman",
+      "sort_name": "Brockman, Slade",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brockman_Slade_170398-014.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c315f539-c1e8-4ab6-8dc3-b62019cedc21",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "area/wa",
+          "start_date": "2017-08-16",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2284,6 +2429,7 @@
           "role": "member",
           "on_behalf_of_id": "pres",
           "area_id": "area/tasmania",
+          "end_date": "2017-11-12",
           "legislative_period_id": "term/45"
         }
       ]
