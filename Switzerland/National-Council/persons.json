@@ -1,7 +1,7 @@
 {
-  "total": 212,
+  "total": 213,
   "page": 1,
-  "per_page": 212,
+  "per_page": 213,
   "has_more": false,
   "result": [
     {
@@ -685,6 +685,26 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/4c250cc4-ec60-40fa-8e44-d77f6041609d",
+      "name": "Brigitte Crottaz",
+      "sort_name": "Crottaz, Brigitte",
+      "memberships": [
+        {
+          "person_id": "person/4c250cc4-ec60-40fa-8e44-d77f6041609d",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "VD",
+          "start_date": "2018-02-26",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/be75bac1-fb3e-4ea6-958b-ae025f5d95fb",
       "name": "Bruno Pezzatti",
@@ -1328,7 +1348,7 @@
           "person_id": "person/6afdbe81-e304-44f9-abfd-bad9c13d4f75",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "0",
+          "on_behalf_of_id": "4",
           "area_id": "TG",
           "start_date": "2017-11-27",
           "legislative_period_id": "term/50"
@@ -2191,7 +2211,7 @@
           "role": "member",
           "on_behalf_of_id": "1",
           "area_id": "TI",
-          "end_date": "2017-10-31",
+          "end_date": "2017-10-02",
           "legislative_period_id": "term/50"
         }
       ]
@@ -2206,7 +2226,7 @@
           "person_id": "person/efb39611-2055-407d-93a6-290930ebe702",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "0",
+          "on_behalf_of_id": "6",
           "area_id": "AG",
           "start_date": "2017-11-27",
           "legislative_period_id": "term/50"
@@ -2427,6 +2447,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "VD",
+          "end_date": "2017-12-31",
           "legislative_period_id": "term/50"
         }
       ]
@@ -4154,7 +4175,7 @@
           "person_id": "person/be0b109b-0caa-437c-ada7-6522ef3b3fc9",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "0",
+          "on_behalf_of_id": "1",
           "area_id": "TI",
           "start_date": "2017-11-27",
           "legislative_period_id": "term/50"

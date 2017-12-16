@@ -1,7 +1,7 @@
 {
-  "total": 461,
+  "total": 462,
   "page": 1,
-  "per_page": 461,
+  "per_page": 462,
   "has_more": false,
   "result": [
     {
@@ -4596,6 +4596,32 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6feb222e-cc19-4a21-a5c9-51c738695bf5",
+      "image": "http://static.rada.gov.ua/dep_img8/rp28.jpg",
+      "name": "Заружко Валерія Леонідівна",
+      "sort_name": "Заружко Валерія Леонідівна",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/rp28.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6feb222e-cc19-4a21-a5c9-51c738695bf5",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2615",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2017-12-07",
           "legislative_period_id": "term/8"
         }
       ],
