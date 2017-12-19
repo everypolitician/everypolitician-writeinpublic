@@ -1,7 +1,7 @@
 {
-  "total": 60,
+  "total": 61,
   "page": 1,
-  "per_page": 60,
+  "per_page": 61,
   "has_more": false,
   "result": [
     {
@@ -138,6 +138,7 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "repubblica_futura",
+          "end_date": "2017-10-04",
           "legislative_period_id": "term/2016"
         }
       ],
@@ -1096,6 +1097,29 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "lista_pdcs",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/452a98fd-8f96-41f4-9094-36bc3a0e918e",
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17023682_17000062_33Zanotti_PierLu.jpg",
+      "name": "Pier Luigi Zanotti",
+      "sort_name": "Zanotti, Pier Luigi",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17023682_17000062_33Zanotti_PierLu.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/452a98fd-8f96-41f4-9094-36bc3a0e918e",
+          "organization_id": "chamber/grand_and_general_council",
+          "role": "member",
+          "on_behalf_of_id": "repubblica_futura",
           "legislative_period_id": "term/2016"
         }
       ],
