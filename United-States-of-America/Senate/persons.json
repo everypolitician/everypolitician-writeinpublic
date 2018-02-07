@@ -1,7 +1,7 @@
 {
-  "total": 101,
+  "total": 103,
   "page": 1,
-  "per_page": 101,
+  "per_page": 103,
   "has_more": false,
   "result": [
     {
@@ -34,6 +34,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mn",
+          "end_date": "2018-01-02",
           "legislative_period_id": "term/115"
         }
       ]
@@ -828,6 +829,32 @@
           "area_id": "ocd-division/country:us/state:ca",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/d8f52bb5-31ab-437d-92a8-62abda14dbc8",
+      "image": "https://theunitedstates.io/images/congress/original/J000300.jpg",
+      "name": "Doug Jones",
+      "sort_name": "Jones, Doug",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/J000300.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8f52bb5-31ab-437d-92a8-62abda14dbc8",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:al",
+          "start_date": "2018-01-03",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1870,6 +1897,7 @@
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:al",
           "start_date": "2017-02-09",
+          "end_date": "2018-01-03",
           "legislative_period_id": "term/115"
         }
       ]
@@ -3282,6 +3310,32 @@
           "area_id": "ocd-division/country:us/state:sc",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/7cd602d6-2486-4971-abda-ae5516b7b6fc",
+      "image": "https://theunitedstates.io/images/congress/original/S001203.jpg",
+      "name": "Tina Smith",
+      "sort_name": "Smith, Tina",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001203.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7cd602d6-2486-4971-abda-ae5516b7b6fc",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:mn",
+          "start_date": "2018-01-03",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {

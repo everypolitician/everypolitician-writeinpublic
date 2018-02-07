@@ -1,7 +1,7 @@
 {
-  "total": 60,
+  "total": 61,
   "page": 1,
-  "per_page": 60,
+  "per_page": 61,
   "has_more": false,
   "result": [
     {
@@ -1208,6 +1208,32 @@
           "area_id": "ocd-division/country:gb-wls/region:south_wales_east/constituency:torfaen",
           "legislative_period_id": "term/5"
         }
+      ]
+    },
+    {
+      "email": "mandy.jones@assembly.wales",
+      "id": "person/7416afa6-81d8-40a7-b95e-249dae69997e",
+      "image": "http://senedd.assembly.wales/UserData/3/0/1/Info00005103/bigpic.jpg",
+      "name": "Mandy Jones",
+      "sort_name": "Mandy Jones",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/3/0/1/Info00005103/bigpic.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7416afa6-81d8-40a7-b95e-249dae69997e",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "united_kingdom_independence_party_(ukip)",
+          "area_id": "ocd-division/country:gb-wls/region:north_wales",
+          "start_date": "2017-12-28",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
