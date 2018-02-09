@@ -1,7 +1,7 @@
 {
-  "total": 62,
+  "total": 63,
   "page": 1,
-  "per_page": 62,
+  "per_page": 63,
   "has_more": false,
   "result": [
     {
@@ -468,6 +468,25 @@
           "role": "member",
           "on_behalf_of_id": "919",
           "start_date": "2013-12-05",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/aa847363-089e-49a1-9358-be9b8d35d3a7",
+      "name": "Frank Colabianchi",
+      "sort_name": "Frank Colabianchi",
+      "memberships": [
+        {
+          "person_id": "person/aa847363-089e-49a1-9358-be9b8d35d3a7",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "1472",
+          "start_date": "2018-02-06",
           "legislative_period_id": "term/2013"
         }
       ],
