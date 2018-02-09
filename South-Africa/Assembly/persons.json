@@ -141,6 +141,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d52b06b3-7a97-4fa5-a8e6-5a29d1714f40",
       "name": "Alfred Mpontshane",
       "sort_name": "Alfred Mpontshane",
@@ -1083,6 +1084,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/dad867e5-d383-48ad-ae91-3ada889bddc1",
       "name": "Bongi Ntuli",
       "sort_name": "Bongi Ntuli",
@@ -1172,6 +1174,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6e38db8b-db8b-4048-a7c8-8e4fc49f44ea",
       "name": "Brian Molefe",
       "sort_name": "Brian Molefe",
@@ -1269,6 +1272,7 @@
     },
     {
       "email": "cvisser@parliament.gov.za",
+      "gender": "female",
       "id": "person/af3a504a-4911-4812-bbe2-ae256b820056",
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
       "name": "Carin Visser",
@@ -1448,6 +1452,7 @@
     },
     {
       "email": "cnqakula@parliament.gov.za",
+      "gender": "male",
       "id": "person/180f6b0e-865a-430e-a117-0a8deb0d241a",
       "image": "https://www.pa.org.za/media_root/cache/b7/bd/b7bd8fa1872f6924f6c151d0c3a7fcd4.jpg",
       "name": "Charles Nqakula",
@@ -1473,7 +1478,7 @@
     },
     {
       "email": "cdudley@parliament.gov.za",
-      "gender": "male",
+      "gender": "female",
       "id": "person/46cdb710-2a76-4dc8-8421-c417fc1ac3cf",
       "image": "https://www.pa.org.za/media_root/cache/3b/09/3b09ef104781022a6e78271820a30c92.jpg",
       "name": "Cheryllyn Dudley",
@@ -2218,9 +2223,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/78620417-e341-43f9-9259-e8c540718530",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dion_George_DA_MP.jpg",
       "name": "Dion George",
       "sort_name": "Dion George",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dion_George_DA_MP.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/78620417-e341-43f9-9259-e8c540718530",
@@ -2313,6 +2325,7 @@
     },
     {
       "email": "dsenokoayane@parliament.gov.za",
+      "gender": "female",
       "id": "person/671e8c42-ec57-4ef2-a011-c1f667ea33ba",
       "image": "https://www.pa.org.za/media_root/cache/85/39/8539ee6aee923aa74954d89ef634b183.jpg",
       "name": "Doreen Zamantungwa Sbusisiwe Senokoanyane",
@@ -2491,6 +2504,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5f842b3c-d55b-40f7-9cdb-eacec10293e1",
       "name": "Edward Senzo Mchunu",
       "sort_name": "Edward Senzo Mchunu",
@@ -2611,6 +2625,7 @@
     },
     {
       "email": "ebuthelezi@parliament.gov.za",
+      "gender": "male",
       "id": "person/ef81e85e-874a-4bbb-ba5d-20c0086f28b4",
       "image": "https://www.pa.org.za/media_root/cache/54/59/5459acc872faaf2d444c66058d728dcc.jpg",
       "name": "Elphas Mfakazeleni Buthelezi",
@@ -3168,6 +3183,7 @@
     },
     {
       "email": "gcachalia@parliament.gov.za",
+      "gender": "male",
       "id": "person/a04258ad-620d-47f3-a9d5-22042497656d",
       "image": "https://www.pa.org.za/media_root/cache/62/37/623703fdb1fb19ff6f98c7ef6c3f1946.jpg",
       "name": "Ghaleb Cachalia",
@@ -4041,9 +4057,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/19f42ebc-4a12-4032-a5b9-05bad8e67c85",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jacob_Zuma,_2009_World_Economic_Forum_on_Africa-9-2.jpg",
       "name": "Jacob Zuma",
       "sort_name": "Jacob Zuma",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sapresident"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jacob_Zuma,_2009_World_Economic_Forum_on_Africa-9-2.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/19f42ebc-4a12-4032-a5b9-05bad8e67c85",
@@ -4053,9 +4082,6 @@
           "end_date": "2014-05-21",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4664,9 +4690,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/05718eb9-80fa-4958-a09c-cecb99c9ce4c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kenneth-Mubu-MP-IRCOOP.jpg",
       "name": "Kenneth Mubu",
       "sort_name": "Kenneth Mubu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kenneth-Mubu-MP-IRCOOP.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/05718eb9-80fa-4958-a09c-cecb99c9ce4c",
@@ -5249,9 +5282,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/7b6bc757-8abe-4b31-8595-2140d1c57f67",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lulu_Xingwana_2013_crop.jpg",
       "name": "Lulama Xingwana",
       "sort_name": "Lulama Xingwana",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lulu_Xingwana_2013_crop.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7b6bc757-8abe-4b31-8595-2140d1c57f67",
@@ -6175,8 +6215,14 @@
     {
       "gender": "male",
       "id": "person/10c5b8ac-0420-4f94-8cb1-be97af8a1ed9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Marthinus_van_Schalkwyk_crop.jpg",
       "name": "Marthinus Christoffel Johannes Van Schalkwyk",
       "sort_name": "Marthinus Christoffel Johannes Van Schalkwyk",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Marthinus_van_Schalkwyk_crop.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/10c5b8ac-0420-4f94-8cb1-be97af8a1ed9",
@@ -6388,9 +6434,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7f9a782a-38e5-4100-8ab5-66fa02d591a8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Max_Sisulu_(1985).jpg",
       "name": "Max Sisulu",
       "sort_name": "Max Sisulu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Max_Sisulu_(1985).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7f9a782a-38e5-4100-8ab5-66fa02d591a8",
@@ -6578,6 +6631,7 @@
     },
     {
       "email": "mtshwaku@yahoo.com",
+      "gender": "male",
       "id": "person/e00f814b-db36-4f68-8f62-86449f0221cb",
       "image": "https://www.pa.org.za/media_root/cache/70/7b/707b4ff55afef278f7b2de6ed52fcd91.jpg",
       "name": "Mgcini Tshwaku",
@@ -7221,6 +7275,7 @@
     },
     {
       "email": "Queen.Poolo@dmr.gov.za",
+      "gender": "male",
       "id": "person/ea396f90-43bd-4411-b3ed-87865c9be98f",
       "image": "https://www.pa.org.za/media_root/cache/6a/6e/6a6e2415704077668324901c2ef0445a.jpg",
       "name": "Mosebenzi Joseph Zwane",
@@ -7822,10 +7877,17 @@
     },
     {
       "email": "ndlaminizuma@parliament.gov.za",
+      "gender": "female",
       "id": "person/abc38b03-500b-44a3-9124-94cc0f0cbba9",
       "image": "https://www.pa.org.za/media_root/cache/9a/61/9a610bc095f19421d755a0e8eae1dadf.jpg",
       "name": "Nkosazana Dlamini-Zuma",
       "sort_name": "Nkosazana Dlamini-Zuma",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DlaminiZuma"
+        }
+      ],
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/9a/61/9a610bc095f19421d755a0e8eae1dadf.jpg"
@@ -7840,13 +7902,11 @@
           "start_date": "2017-09-21",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "albertina.barlow@dpw.gov.za",
+      "gender": "female",
       "id": "person/16604189-a35a-4d97-9d42-2759121fbd35",
       "image": "https://www.pa.org.za/media_root/cache/0a/a1/0aa143fe91735b5d626d8a775efb6b71.jpg",
       "name": "Nkosinathi Nhleko",
@@ -8170,6 +8230,7 @@
     },
     {
       "email": "thomass@dws.gov.za",
+      "gender": "female",
       "id": "person/9ca6d504-ff17-4d85-bd1b-75cc09c1896b",
       "image": "https://www.pa.org.za/media_root/cache/87/9e/879ed32caee19904ea7627720d4e0645.jpg",
       "name": "Nomvula Paula Mokonyane",
@@ -8218,6 +8279,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/47b436f5-93d0-4010-a710-da91710040d8",
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
       "name": "Nontando Nolutshungu",
@@ -8439,6 +8501,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9064c870-881a-4f59-b317-8a5222c026a9",
       "image": "https://www.pa.org.za/media_root/cache/f1/44/f1441df3978f3b8413263923e4db1f6d.jpg",
       "name": "Ntokozo Khonziwe Fortunate Hlonyana",
@@ -10039,6 +10102,7 @@
     },
     {
       "email": "sthembekwayo@parliament.gov.za",
+      "gender": "female",
       "id": "person/cfda90df-1d9d-43d2-9ccf-a0b46b72a483",
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
       "name": "Sophie Suzan Thembekwayo",
@@ -10210,6 +10274,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/be43047d-fbd2-4b69-8b5a-1ad91e3db4db",
       "name": "Suhla Masango",
       "sort_name": "Suhla Masango",
@@ -10647,6 +10712,7 @@
     },
     {
       "email": "tkhanyile@parliament.gov.za",
+      "gender": "female",
       "id": "person/bc37163c-fa61-46c6-b3dd-657e10a8d48c",
       "image": "https://www.pa.org.za/media_root/cache/ca/4e/ca4e6c9cdc66e72b77eb377d6af7a037.jpg",
       "name": "Thembisile Angel Khanyile",
@@ -11308,6 +11374,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d8a83886-ed2b-4c9d-84cf-6dfbc4cf526a",
       "image": "https://www.pa.org.za/media_root/cache/92/33/923341ab5bc0870f399340b28f91e2c7.jpg",
       "name": "Wouter Wynand Wessels",
