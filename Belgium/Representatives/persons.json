@@ -1,7 +1,7 @@
 {
-  "total": 173,
+  "total": 174,
   "page": 1,
-  "per_page": 173,
+  "per_page": 174,
   "has_more": false,
   "result": [
     {
@@ -233,6 +233,7 @@
           "role": "member",
           "on_behalf_of_id": "sp.a",
           "area_id": "area/west-vlaanderen",
+          "end_date": "2017-12-13",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4570,6 +4571,26 @@
           "role": "member",
           "on_behalf_of_id": "n-va",
           "area_id": "area/antwerpen",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/eb43c0fa-f03c-48a3-b927-089edf616c32",
+      "name": "Youro Casier",
+      "sort_name": "Youro Casier",
+      "memberships": [
+        {
+          "person_id": "person/eb43c0fa-f03c-48a3-b927-089edf616c32",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "sp.a",
+          "area_id": "area/west-vlaanderen",
+          "start_date": "2017-12-13",
           "legislative_period_id": "term/54"
         }
       ],
