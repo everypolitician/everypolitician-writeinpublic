@@ -5,6 +5,31 @@
   "has_more": false,
   "result": [
     {
+      "email": "SethoM@health.gov.za",
+      "gender": "male",
+      "id": "person/beb9f704-6b47-49d2-8df8-6f7d77864c27",
+      "image": "https://www.pa.org.za/media_root/cache/8b/0c/8b0c93f4b2ae0893d396ecf14fd34140.jpg",
+      "name": "Aaron Motsoaledi",
+      "sort_name": "Aaron Motsoaledi",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/8b/0c/8b0c93f4b2ae0893d396ecf14fd34140.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/beb9f704-6b47-49d2-8df8-6f7d77864c27",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/39781c4c-8d20-4c81-a16f-fbca5a8eca9c",
       "name": "Abinaar Modikela Matlhoko",
@@ -81,6 +106,33 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "end_date": "2016-12-05",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "atuck@parliament.gov.za",
+      "gender": "female",
+      "id": "person/18828e6e-90b4-45fc-bab9-e14e5b3bff78",
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "name": "Agnes Tuck",
+      "sort_name": "Agnes Tuck",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/18828e6e-90b4-45fc-bab9-e14e5b3bff78",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "Q132418",
+          "start_date": "2015-03-30",
           "legislative_period_id": "term/26"
         }
       ],
@@ -211,33 +263,6 @@
       ]
     },
     {
-      "email": "atuck@parliament.gov.za",
-      "gender": "female",
-      "id": "person/18828e6e-90b4-45fc-bab9-e14e5b3bff78",
-      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
-      "name": "Amy Tuck",
-      "sort_name": "Amy Tuck",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/18828e6e-90b4-45fc-bab9-e14e5b3bff78",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "area_id": "Q132418",
-          "start_date": "2015-03-30",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "adreyer@parliament.gov.za",
       "gender": "female",
       "id": "person/025aec2d-ba00-4aa7-8f66-fc0f23350ffe",
@@ -338,8 +363,8 @@
       "gender": "male",
       "id": "person/e1c9486d-5d6b-4ddb-a92f-12d91c76b9f3",
       "image": "https://www.pa.org.za/media_root/cache/3e/85/3e85ab83dcaabdd63fa7bceeaa8e12d4.jpg",
-      "name": "Andries Carl Nel",
-      "sort_name": "Andries Carl Nel",
+      "name": "Andries Nel",
+      "sort_name": "Andries Nel",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/3e/85/3e85ab83dcaabdd63fa7bceeaa8e12d4.jpg"
@@ -373,6 +398,31 @@
       "memberships": [
         {
           "person_id": "person/902133f8-7466-40e0-98c9-47dbc881a19d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mabua.s@dbe.gov.za",
+      "gender": "female",
+      "id": "person/044c3246-5842-494f-89df-bc41a4fd2d1f",
+      "image": "https://www.pa.org.za/media_root/cache/28/ac/28ac6aefd71f1aede3552c4ee7c58c25.jpg",
+      "name": "Angie Motshekga",
+      "sort_name": "Angie Motshekga",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/28/ac/28ac6aefd71f1aede3552c4ee7c58c25.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/044c3246-5842-494f-89df-bc41a4fd2d1f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q83162",
@@ -557,31 +607,6 @@
       ]
     },
     {
-      "email": "Refilwe.Motau@dpsa.govza",
-      "gender": "female",
-      "id": "person/ca4d1c26-d6e7-4d9f-bfaf-d72e6f25b9e5",
-      "image": "https://www.pa.org.za/media_root/cache/cd/99/cd992e32f0efbe52691166db19a5acc5.jpg",
-      "name": "Azwihangwisi Faith Muthambi",
-      "sort_name": "Azwihangwisi Faith Muthambi",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/cd/99/cd992e32f0efbe52691166db19a5acc5.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ca4d1c26-d6e7-4d9f-bfaf-d72e6f25b9e5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "tmagwaza@anc.org.za",
       "gender": "female",
       "id": "person/bad9918b-6659-4a2b-ba1d-433f35410fa3",
@@ -611,8 +636,8 @@
       "gender": "male",
       "id": "person/bdd1e885-5d3a-4a50-961b-19ae5445802f",
       "image": "https://www.pa.org.za/media_root/cache/d3/d6/d3d6e464c1633660bbb7fc3e47da6ba1.jpg",
-      "name": "Bantubonke Harrington Holomisa",
-      "sort_name": "Bantubonke Harrington Holomisa",
+      "name": "Bantu Holomisa",
+      "sort_name": "Bantu Holomisa",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/d3/d6/d3d6e464c1633660bbb7fc3e47da6ba1.jpg"
@@ -662,8 +687,8 @@
       "gender": "female",
       "id": "person/636aa387-89e0-49aa-8a1a-85a00895fe33",
       "image": "https://www.pa.org.za/media_root/cache/97/24/9724c6c80ad138d8d1e5d4533f9e25fd.jpg",
-      "name": "Bathabile Olive Dlamini",
-      "sort_name": "Bathabile Olive Dlamini",
+      "name": "Bathabile Dlamini",
+      "sort_name": "Bathabile Dlamini",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/97/24/9724c6c80ad138d8d1e5d4533f9e25fd.jpg"
@@ -701,6 +726,7 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q81725",
+          "end_date": "2018-02-18",
           "legislative_period_id": "term/26"
         }
       ],
@@ -869,7 +895,6 @@
           "on_behalf_of_id": "Q83162",
           "area_id": "Q133083",
           "start_date": "2017-02-24",
-          "end_date": "2016-12-06",
           "legislative_period_id": "term/26"
         }
       ],
@@ -895,6 +920,32 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Sharong@daff.gov.za",
+      "gender": "male",
+      "id": "person/5ffc1027-7e0f-4eb5-ab20-ea8e467665e1",
+      "image": "https://www.pa.org.za/media_root/cache/e9/87/e98773e585fdbe1c60f9bd1c235fe7ff.jpg",
+      "name": "Bheki Cele",
+      "sort_name": "Bheki Cele",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/e9/87/e98773e585fdbe1c60f9bd1c235fe7ff.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5ffc1027-7e0f-4eb5-ab20-ea8e467665e1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "area_id": "Q81725",
           "legislative_period_id": "term/26"
         }
       ],
@@ -929,32 +980,6 @@
       ]
     },
     {
-      "email": "Sharong@daff.gov.za",
-      "gender": "male",
-      "id": "person/5ffc1027-7e0f-4eb5-ab20-ea8e467665e1",
-      "image": "https://www.pa.org.za/media_root/cache/e9/87/e98773e585fdbe1c60f9bd1c235fe7ff.jpg",
-      "name": "Bhekokwakhe Hamilton Cele",
-      "sort_name": "Bhekokwakhe Hamilton Cele",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/e9/87/e98773e585fdbe1c60f9bd1c235fe7ff.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5ffc1027-7e0f-4eb5-ab20-ea8e467665e1",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "area_id": "Q81725",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "bmaluleke@parliament.gov.za",
       "id": "person/045a85df-71ac-4df4-a5d0-31d487debf3f",
       "image": "https://www.pa.org.za/media_root/cache/0f/79/0f799946766e3c8b8f370880ad38ea73.jpg",
@@ -973,31 +998,6 @@
           "on_behalf_of_id": "Q83162",
           "area_id": "Q134907",
           "start_date": "2015-06-23",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "emolewa@gmail.com",
-      "gender": "female",
-      "id": "person/b4827225-aec5-429f-979f-819f316afd45",
-      "image": "https://www.pa.org.za/media_root/cache/f2/b7/f2b7bb26c92b9f2a88075185f827b55c.jpg",
-      "name": "Bomo Edna Edith Molewa",
-      "sort_name": "Bomo Edna Edith Molewa",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/f2/b7/f2b7bb26c92b9f2a88075185f827b55c.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b4827225-aec5-429f-979f-819f316afd45",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -1107,8 +1107,8 @@
       "gender": "male",
       "id": "person/7f247717-1aed-46a5-84d4-566c296c158f",
       "image": "https://www.pa.org.za/media_root/cache/17/b9/17b98b6b8a17b49082b4cf8e72295417.jpg",
-      "name": "Bonginkosi Emmanuel Nzimande",
-      "sort_name": "Bonginkosi Emmanuel Nzimande",
+      "name": "Bonginkosi “Blade” Nzimande",
+      "sort_name": "Bonginkosi “Blade” Nzimande",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/17/b9/17b98b6b8a17b49082b4cf8e72295417.jpg"
@@ -1246,6 +1246,31 @@
       ]
     },
     {
+      "email": "buti@dpme.gov.za",
+      "gender": "male",
+      "id": "person/a1f35f03-80b4-4d5d-a888-247212cc5e55",
+      "image": "https://www.pa.org.za/media_root/cache/ef/33/ef33b3177f61789c3512fdf27cbeb562.jpg",
+      "name": "Buti Manamela",
+      "sort_name": "Buti Manamela",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/ef/33/ef33b3177f61789c3512fdf27cbeb562.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a1f35f03-80b4-4d5d-a888-247212cc5e55",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mackenzie@sentinel360.co.za",
       "gender": "male",
       "id": "person/6f9d95a6-6bf1-403e-bdee-6a2466ea3469",
@@ -1263,6 +1288,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q761877",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "NMashigo@ruraldevelopment.gov.za",
+      "gender": "female",
+      "id": "person/40f08dbb-4de9-4a5e-a4fc-d86fc5788de3",
+      "image": "https://www.pa.org.za/media_root/cache/78/cb/78cb1ea8a82d56831a10ed5ac7041679.jpg",
+      "name": "Candith Mashego-Dlamini",
+      "sort_name": "Candith Mashego-Dlamini",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/78/cb/78cb1ea8a82d56831a10ed5ac7041679.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/40f08dbb-4de9-4a5e-a4fc-d86fc5788de3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -1532,8 +1582,8 @@
       "gender": "male",
       "id": "person/397d5eaa-9ea6-4b8d-82a6-9e34341f405b",
       "image": "https://www.pa.org.za/media_root/cache/e1/33/e13351cad6a3b2ec58beedb9789897fe.jpg",
-      "name": "Christian Hans Heinrich Hunsinger",
-      "sort_name": "Christian Hans Heinrich Hunsinger",
+      "name": "Chris Hunsinger",
+      "sort_name": "Chris Hunsinger",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/e1/33/e13351cad6a3b2ec58beedb9789897fe.jpg"
@@ -1720,6 +1770,32 @@
       ]
     },
     {
+      "email": "mnkosi@shanduka.co.za",
+      "gender": "male",
+      "id": "person/1b22fa3f-d9e1-485c-ac0a-4f5286c9cd6f",
+      "image": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg",
+      "name": "Cyril Ramaphosa",
+      "sort_name": "Cyril Ramaphosa",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1b22fa3f-d9e1-485c-ac0a-4f5286c9cd6f",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "end_date": "2018-02-15",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "hkhosa@parliament.gov.za",
       "gender": "male",
       "id": "person/067c440c-6536-4db0-988b-ae016259c502",
@@ -1866,6 +1942,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q761877",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dmahlobo@webmail.co.za",
+      "gender": "male",
+      "id": "person/37877888-e332-4f97-9444-95ee29be0853",
+      "image": "https://www.pa.org.za/media_root/cache/2d/6e/2d6e468d6b31f6d6ab91ec93480be6fb.jpg",
+      "name": "David Mahlobo",
+      "sort_name": "David Mahlobo",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/2d/6e/2d6e468d6b31f6d6ab91ec93480be6fb.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/37877888-e332-4f97-9444-95ee29be0853",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -2031,8 +2132,8 @@
       "gender": "male",
       "id": "person/e3e63e03-c252-4eee-8816-5445bda64961",
       "image": "https://www.pa.org.za/media_root/cache/22/fc/22fc0d57521a896ee1eebadb95fd2fe4.jpg",
-      "name": "Derek André Hanekom",
-      "sort_name": "Derek André Hanekom",
+      "name": "Derek Hanekom",
+      "sort_name": "Derek Hanekom",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/22/fc/22fc0d57521a896ee1eebadb95fd2fe4.jpg"
@@ -2328,8 +2429,8 @@
       "gender": "female",
       "id": "person/671e8c42-ec57-4ef2-a011-c1f667ea33ba",
       "image": "https://www.pa.org.za/media_root/cache/85/39/8539ee6aee923aa74954d89ef634b183.jpg",
-      "name": "Doreen Zamantungwa Sbusisiwe Senokoanyane",
-      "sort_name": "Doreen Zamantungwa Sbusisiwe Senokoanyane",
+      "name": "Doreen Senokoanyane",
+      "sort_name": "Doreen Senokoanyane",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/85/39/8539ee6aee923aa74954d89ef634b183.jpg"
@@ -2504,6 +2605,31 @@
       ]
     },
     {
+      "email": "emolewa@gmail.com",
+      "gender": "female",
+      "id": "person/b4827225-aec5-429f-979f-819f316afd45",
+      "image": "https://www.pa.org.za/media_root/cache/f2/b7/f2b7bb26c92b9f2a88075185f827b55c.jpg",
+      "name": "Edna Molewa",
+      "sort_name": "Edna Molewa",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/f2/b7/f2b7bb26c92b9f2a88075185f827b55c.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b4827225-aec5-429f-979f-819f316afd45",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/5f842b3c-d55b-40f7-9cdb-eacec10293e1",
       "name": "Edward Senzo Mchunu",
@@ -2515,6 +2641,7 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q81725",
+          "end_date": "2016-05-24",
           "legislative_period_id": "term/26"
         }
       ],
@@ -2603,8 +2730,8 @@
       "email": "DM@ssa.gov.za",
       "id": "person/95cec38e-1746-4e0b-b47d-55304c2ed4ea",
       "image": "https://www.pa.org.za/media_root/cache/31/49/31498efd6d60decb9b022d234355da20.jpg",
-      "name": "Ellen Nnana Ntsitse Molekane",
-      "sort_name": "Ellen Nnana Ntsitse Molekane",
+      "name": "Ellen Molekane",
+      "sort_name": "Ellen Molekane",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/31/49/31498efd6d60decb9b022d234355da20.jpg"
@@ -2720,56 +2847,6 @@
       ]
     },
     {
-      "email": "ministersoffice@dac.gov.za",
-      "gender": "male",
-      "id": "person/848e70b7-d12f-4624-945d-117a56aa0f1b",
-      "image": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg",
-      "name": "Emmanuel Nkosinathi Mthethwa",
-      "sort_name": "Emmanuel Nkosinathi Mthethwa",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/848e70b7-d12f-4624-945d-117a56aa0f1b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kebbymaphatsoe@yahoo.com",
-      "gender": "male",
-      "id": "person/8d304b2a-fb7e-486e-a31b-f53466881f69",
-      "image": "https://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg",
-      "name": "Emmanuel Ramaotoana Kebby Maphatsoe",
-      "sort_name": "Emmanuel Ramaotoana Kebby Maphatsoe",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8d304b2a-fb7e-486e-a31b-f53466881f69",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "emthethwa@parliament.gov.za",
       "gender": "male",
       "id": "person/e0d008d3-cb37-40dd-9023-896a6d043b63",
@@ -2788,6 +2865,31 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q81725",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "kgari.i@dbe.gov.za",
+      "gender": "male",
+      "id": "person/c6063703-6068-4aed-ba3b-33a266922be0",
+      "image": "https://www.pa.org.za/media_root/cache/12/34/1234bdf00b0319f83b8e03b2e7ea1b87.jpg",
+      "name": "Enver Surty",
+      "sort_name": "Enver Surty",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/12/34/1234bdf00b0319f83b8e03b2e7ea1b87.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c6063703-6068-4aed-ba3b-33a266922be0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -2873,12 +2975,37 @@
       ]
     },
     {
+      "email": "Refilwe.Motau@dpsa.govza",
+      "gender": "female",
+      "id": "person/ca4d1c26-d6e7-4d9f-bfaf-d72e6f25b9e5",
+      "image": "https://www.pa.org.za/media_root/cache/cd/99/cd992e32f0efbe52691166db19a5acc5.jpg",
+      "name": "Faith Muthambi",
+      "sort_name": "Faith Muthambi",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/cd/99/cd992e32f0efbe52691166db19a5acc5.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ca4d1c26-d6e7-4d9f-bfaf-d72e6f25b9e5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "sunita.dalla@dha.gov.za",
       "gender": "female",
       "id": "person/3bb75267-6da6-42f4-8b7c-334ffd8180d8",
       "image": "https://www.pa.org.za/media_root/cache/ea/ab/eaabfbde245dfc9cbf922323522d783f.jpg",
-      "name": "Fatima Ismail Chohan",
-      "sort_name": "Fatima Ismail Chohan",
+      "name": "Fatima Chohan",
+      "sort_name": "Fatima Chohan",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/ea/ab/eaabfbde245dfc9cbf922323522d783f.jpg"
@@ -2954,8 +3081,8 @@
       "gender": "male",
       "id": "person/7646484a-7447-4479-9803-051eaad724f3",
       "image": "https://www.pa.org.za/media_root/cache/2b/09/2b09dcc9a97c24069442ee91c2831242.jpg",
-      "name": "Fikile April Mbalula",
-      "sort_name": "Fikile April Mbalula",
+      "name": "Fikile Mbalula",
+      "sort_name": "Fikile Mbalula",
       "contact_details": [
         {
           "type": "twitter",
@@ -3055,31 +3182,6 @@
       ]
     },
     {
-      "email": "kefilwe.chibogo@dmr.gov.za",
-      "gender": "male",
-      "id": "person/0cf8afe9-1a45-4692-ba90-3d1497744767",
-      "image": "https://www.pa.org.za/media_root/cache/1a/2b/1a2bb31ddee1321313aa0e16bbe0b00d.jpg",
-      "name": "Gaolatlhe Godfrey Oliphant",
-      "sort_name": "Gaolatlhe Godfrey Oliphant",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/1a/2b/1a2bb31ddee1321313aa0e16bbe0b00d.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0cf8afe9-1a45-4692-ba90-3d1497744767",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "gavdavis@gmail.com",
       "gender": "male",
       "id": "person/12297831-5d6e-4621-a051-5604a9231ec9",
@@ -3135,8 +3237,8 @@
       "gender": "male",
       "id": "person/d287ac5f-ce35-4570-b217-7005605d99d4",
       "image": "https://www.pa.org.za/media_root/cache/0e/71/0e71d734a9d6443601dcd487f294e7bc.jpg",
-      "name": "Gerhardus Cornelius Oosthuizen",
-      "sort_name": "Gerhardus Cornelius Oosthuizen",
+      "name": "Gerhardus Oosthuizen",
+      "sort_name": "Gerhardus Oosthuizen",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/0e/71/0e71d734a9d6443601dcd487f294e7bc.jpg"
@@ -3284,6 +3386,31 @@
       ]
     },
     {
+      "email": "kefilwe.chibogo@dmr.gov.za",
+      "gender": "male",
+      "id": "person/0cf8afe9-1a45-4692-ba90-3d1497744767",
+      "image": "https://www.pa.org.za/media_root/cache/1a/2b/1a2bb31ddee1321313aa0e16bbe0b00d.jpg",
+      "name": "Godfrey Oliphant",
+      "sort_name": "Godfrey Oliphant",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/1a/2b/1a2bb31ddee1321313aa0e16bbe0b00d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0cf8afe9-1a45-4692-ba90-3d1497744767",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ggardee@parliament.gov.za",
       "gender": "male",
       "id": "person/929cc289-b320-467b-b912-47b9f3c1aac8",
@@ -3386,31 +3513,6 @@
       ]
     },
     {
-      "email": "carmen.h@dha.gov.za",
-      "gender": "female",
-      "id": "person/7484bc57-9640-4192-b917-4223f9c39949",
-      "image": "https://www.pa.org.za/media_root/cache/77/4d/774d9e9b3fbc043d377433523ae779e8.jpg",
-      "name": "Grace Naledi Mandisa Pandor",
-      "sort_name": "Grace Naledi Mandisa Pandor",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/77/4d/774d9e9b3fbc043d377433523ae779e8.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7484bc57-9640-4192-b917-4223f9c39949",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "NMKefa@thedti.gov.za",
       "gender": "male",
       "id": "person/161d4dff-6a3a-4740-9db8-71b417717384",
@@ -3491,8 +3593,8 @@
       "gender": "male",
       "id": "person/37470911-5e96-402f-ba29-affff7d61017",
       "image": "https://www.pa.org.za/media_root/cache/6f/43/6f43939478ee2b38d83d0256fcb1bee2.jpg",
-      "name": "Gugile Ernest Nkwinti",
-      "sort_name": "Gugile Ernest Nkwinti",
+      "name": "Gugile Nkwinti",
+      "sort_name": "Gugile Nkwinti",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/6f/43/6f43939478ee2b38d83d0256fcb1bee2.jpg"
@@ -3558,40 +3660,6 @@
       ]
     },
     {
-      "email": "hbogopane@icloud.com",
-      "gender": "female",
-      "id": "person/c893c543-733b-4581-af3b-88858f40d135",
-      "image": "https://www.pa.org.za/media_root/cache/bc/8c/bc8c8e03a4d491ad26ff8b3f08e8ec66.jpg",
-      "name": "Hendrietta Ipeleng Bogopane-Zulu",
-      "sort_name": "Hendrietta Ipeleng Bogopane-Zulu",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "bogopanezulu"
-        }
-      ],
-      "links": [
-        {
-          "url": "100015260707626",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/bc/8c/bc8c8e03a4d491ad26ff8b3f08e8ec66.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c893c543-733b-4581-af3b-88858f40d135",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ]
-    },
-    {
       "email": "smme@mweb.co.za",
       "gender": "male",
       "id": "person/2bf2f458-d009-4564-9338-8f22a890f541",
@@ -3641,6 +3709,40 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "email": "hbogopane@icloud.com",
+      "gender": "female",
+      "id": "person/c893c543-733b-4581-af3b-88858f40d135",
+      "image": "https://www.pa.org.za/media_root/cache/bc/8c/bc8c8e03a4d491ad26ff8b3f08e8ec66.jpg",
+      "name": "Henrietta Bogopane-Zulu",
+      "sort_name": "Henrietta Bogopane-Zulu",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "bogopanezulu"
+        }
+      ],
+      "links": [
+        {
+          "url": "100015260707626",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/bc/8c/bc8c8e03a4d491ad26ff8b3f08e8ec66.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c893c543-733b-4581-af3b-88858f40d135",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
       ]
     },
     {
@@ -3763,8 +3865,8 @@
       "gender": "female",
       "id": "person/ee05a73d-2624-4b12-86c1-255a08da7361",
       "image": "https://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg",
-      "name": "Hlengiwe Buhle Mkhize",
-      "sort_name": "Hlengiwe Buhle Mkhize",
+      "name": "Hlengiwe Mkhize",
+      "sort_name": "Hlengiwe Mkhize",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg"
@@ -3955,6 +4057,31 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q130840",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "phathekile@me.com",
+      "gender": "male",
+      "id": "person/3023e03a-8c34-4966-ba21-1f7fca65714b",
+      "image": "https://www.pa.org.za/media_root/cache/9e/0b/9e0b44fd535f3eecfd3b7b15e3c1aa30.jpg",
+      "name": "Inkosi Sango Patekile Holomisa",
+      "sort_name": "Inkosi Sango Patekile Holomisa",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/9e/0b/9e0b44fd535f3eecfd3b7b15e3c1aa30.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3023e03a-8c34-4966-ba21-1f7fca65714b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -4220,8 +4347,8 @@
       "gender": "male",
       "id": "person/f9409537-fb52-4a14-ae33-72d46005933e",
       "image": "https://www.pa.org.za/media_root/cache/0e/04/0e0413e3ab50f7a2599a2d147c921ba4.jpg",
-      "name": "Jeffrey Thamsanqa Radebe",
-      "sort_name": "Jeffrey Thamsanqa Radebe",
+      "name": "Jeff Radebe",
+      "sort_name": "Jeff Radebe",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/0e/04/0e0413e3ab50f7a2599a2d147c921ba4.jpg"
@@ -4245,8 +4372,8 @@
       "gender": "male",
       "id": "person/621f4014-49a9-4d6d-bc3b-41a3a04c8203",
       "image": "https://www.pa.org.za/media_root/cache/42/28/4228512c9dcca4241cc96fba50bda2bd.jpg",
-      "name": "Jeremy Patrick Cronin",
-      "sort_name": "Jeremy Patrick Cronin",
+      "name": "Jeremy Cronin",
+      "sort_name": "Jeremy Cronin",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/42/28/4228512c9dcca4241cc96fba50bda2bd.jpg"
@@ -4445,32 +4572,6 @@
       ]
     },
     {
-      "email": "jmhlarhi@justice.gov.za",
-      "gender": "male",
-      "id": "person/55af373c-c70e-4995-bf06-41307f8c28ba",
-      "image": "https://www.pa.org.za/media_root/cache/4e/17/4e173bc58f2455e38d117f960ac9ce2d.jpg",
-      "name": "John Harold Jeffery",
-      "sort_name": "John Harold Jeffery",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/4e/17/4e173bc58f2455e38d117f960ac9ce2d.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/55af373c-c70e-4995-bf06-41307f8c28ba",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "area_id": "Q81725",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "unicity@iafrica.com",
       "gender": "male",
       "id": "person/1c3aa0b5-2a93-4887-ad16-b500d4127f77",
@@ -4497,6 +4598,32 @@
       ]
     },
     {
+      "email": "jmhlarhi@justice.gov.za",
+      "gender": "male",
+      "id": "person/55af373c-c70e-4995-bf06-41307f8c28ba",
+      "image": "https://www.pa.org.za/media_root/cache/4e/17/4e173bc58f2455e38d117f960ac9ce2d.jpg",
+      "name": "John Jeffery",
+      "sort_name": "John Jeffery",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/4e/17/4e173bc58f2455e38d117f960ac9ce2d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/55af373c-c70e-4995-bf06-41307f8c28ba",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "area_id": "Q81725",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/6c793c31-b30b-4769-919a-3f16b16d92dc",
       "name": "Joseph Job McGluwa",
@@ -4508,6 +4635,31 @@
           "role": "member",
           "on_behalf_of_id": "Q761877",
           "end_date": "2015-11-12",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mphaahla@parliament.gov.za",
+      "gender": "male",
+      "id": "person/b56efaea-762d-40f5-be4c-3ddc094e43fa",
+      "image": "https://www.pa.org.za/media_root/cache/da/08/da08d6125a45e4a941844abd713d880e.jpg",
+      "name": "Joseph Phaahla",
+      "sort_name": "Joseph Phaahla",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/da/08/da08d6125a45e4a941844abd713d880e.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b56efaea-762d-40f5-be4c-3ddc094e43fa",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -4641,6 +4793,31 @@
       ]
     },
     {
+      "email": "kebbymaphatsoe@yahoo.com",
+      "gender": "male",
+      "id": "person/8d304b2a-fb7e-486e-a31b-f53466881f69",
+      "image": "https://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg",
+      "name": "Kebby Maphatsoe",
+      "sort_name": "Kebby Maphatsoe",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8d304b2a-fb7e-486e-a31b-f53466881f69",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "democraticken@gmail.com",
       "id": "person/ec94ba1b-0053-49d3-87d4-8a26d98049f6",
       "image": "https://www.pa.org.za/media_root/cache/fd/ae/fdaee46ce9015b5eb13b11e4e206dc05.jpg",
@@ -4658,31 +4835,6 @@
           "role": "member",
           "on_behalf_of_id": "Q761877",
           "start_date": "2015-10-06",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "president@acdp.org.za",
-      "gender": "male",
-      "id": "person/fc00de9c-30ee-4646-9201-507ecf73b714",
-      "image": "https://www.pa.org.za/media_root/cache/1f/8e/1f8e4851c395e0ccfd048ad1b7514b2d.jpg",
-      "name": "Kenneth Meshoe",
-      "sort_name": "Kenneth Meshoe",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/1f/8e/1f8e4851c395e0ccfd048ad1b7514b2d.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fc00de9c-30ee-4646-9201-507ecf73b714",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q268613",
           "legislative_period_id": "term/26"
         }
       ],
@@ -4709,6 +4861,31 @@
           "on_behalf_of_id": "Q761877",
           "area_id": "Q133083",
           "end_date": "2015-08-31",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "president@acdp.org.za",
+      "gender": "male",
+      "id": "person/fc00de9c-30ee-4646-9201-507ecf73b714",
+      "image": "https://www.pa.org.za/media_root/cache/1f/8e/1f8e4851c395e0ccfd048ad1b7514b2d.jpg",
+      "name": "Kenneth Raselabe Joseph Meshoe",
+      "sort_name": "Kenneth Raselabe Joseph Meshoe",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/1f/8e/1f8e4851c395e0ccfd048ad1b7514b2d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fc00de9c-30ee-4646-9201-507ecf73b714",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q268613",
           "legislative_period_id": "term/26"
         }
       ],
@@ -4762,31 +4939,6 @@
       ]
     },
     {
-      "email": "buti@dpme.gov.za",
-      "gender": "male",
-      "id": "person/a1f35f03-80b4-4d5d-a888-247212cc5e55",
-      "image": "https://www.pa.org.za/media_root/cache/ef/33/ef33b3177f61789c3512fdf27cbeb562.jpg",
-      "name": "Kgwaridi Buti Manamela",
-      "sort_name": "Kgwaridi Buti Manamela",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/ef/33/ef33b3177f61789c3512fdf27cbeb562.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a1f35f03-80b4-4d5d-a888-247212cc5e55",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/3b7816d7-f594-4504-882c-d7582e4abdca",
       "name": "Khanyisile Litchfield-Tshabalala",
@@ -4825,81 +4977,6 @@
           "role": "member",
           "on_behalf_of_id": "Q654444",
           "area_id": "Q133083",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "minreg@treasury.gov.za",
-      "gender": "male",
-      "id": "person/ef86e0c9-f374-4f7f-aca2-a7504ab53898",
-      "image": "https://www.pa.org.za/media_root/cache/a5/32/a532a26e6c0b922c4c8c50fb7c9a0e90.jpg",
-      "name": "Knowledge Malusi Nkanyezi Gigaba",
-      "sort_name": "Knowledge Malusi Nkanyezi Gigaba",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/a5/32/a532a26e6c0b922c4c8c50fb7c9a0e90.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ef86e0c9-f374-4f7f-aca2-a7504ab53898",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "obapela@parliament.gov.za",
-      "gender": "male",
-      "id": "person/a2d51c4b-b2e2-4a49-8cf4-07bbc6c39e37",
-      "image": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg",
-      "name": "Kopeng Obed Bapela",
-      "sort_name": "Kopeng Obed Bapela",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a2d51c4b-b2e2-4a49-8cf4-07bbc6c39e37",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "NMashigo@ruraldevelopment.gov.za",
-      "gender": "female",
-      "id": "person/40f08dbb-4de9-4a5e-a4fc-d86fc5788de3",
-      "image": "https://www.pa.org.za/media_root/cache/78/cb/78cb1ea8a82d56831a10ed5ac7041679.jpg",
-      "name": "Kwati Candith Mashego-Dlamini",
-      "sort_name": "Kwati Candith Mashego-Dlamini",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/78/cb/78cb1ea8a82d56831a10ed5ac7041679.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/40f08dbb-4de9-4a5e-a4fc-d86fc5788de3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -5104,31 +5181,6 @@
       ]
     },
     {
-      "email": "lzulu@parliament.gov.za",
-      "gender": "female",
-      "id": "person/20b39b2a-19cd-4524-aef5-4315b3585640",
-      "image": "https://www.pa.org.za/media_root/cache/65/67/6567c3a0b22e358cf31e18430fc59338.jpg",
-      "name": "Lindiwe Daphne Zulu",
-      "sort_name": "Lindiwe Daphne Zulu",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/65/67/6567c3a0b22e358cf31e18430fc59338.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/20b39b2a-19cd-4524-aef5-4315b3585640",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "lmaseko@parliament.gov.za",
       "gender": "female",
       "id": "person/ccaca382-3fce-4795-9fd5-49b175ec8c1b",
@@ -5155,12 +5207,38 @@
       ]
     },
     {
+      "email": "lmjobo@parliament.gov.za",
+      "gender": "female",
+      "id": "person/a69edcf3-4fc8-4d32-9239-fb02be286203",
+      "image": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg",
+      "name": "Lindiwe Ntombikayise Mjobo",
+      "sort_name": "Lindiwe Ntombikayise Mjobo",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a69edcf3-4fc8-4d32-9239-fb02be286203",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "area_id": "Q81725",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "lsisulu@parliament.gov.za",
       "gender": "female",
       "id": "person/4472ca07-98c0-49b1-858c-89ccbf0bd206",
       "image": "https://www.pa.org.za/media_root/cache/d0/3b/d03b6840ef304b8379a255c7d3ace347.jpg",
-      "name": "Lindiwe Nonceba Sisulu",
-      "sort_name": "Lindiwe Nonceba Sisulu",
+      "name": "Lindiwe Sisulu",
+      "sort_name": "Lindiwe Sisulu",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/d0/3b/d03b6840ef304b8379a255c7d3ace347.jpg"
@@ -5180,24 +5258,23 @@
       ]
     },
     {
-      "email": "lmjobo@parliament.gov.za",
+      "email": "lzulu@parliament.gov.za",
       "gender": "female",
-      "id": "person/a69edcf3-4fc8-4d32-9239-fb02be286203",
-      "image": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg",
-      "name": "Lindiwe Ntombikayise Mjobo",
-      "sort_name": "Lindiwe Ntombikayise Mjobo",
+      "id": "person/20b39b2a-19cd-4524-aef5-4315b3585640",
+      "image": "https://www.pa.org.za/media_root/cache/65/67/6567c3a0b22e358cf31e18430fc59338.jpg",
+      "name": "Lindiwe Zulu",
+      "sort_name": "Lindiwe Zulu",
       "images": [
         {
-          "url": "https://www.pa.org.za/media_root/cache/be/50/be503fb86a135010aafd7b7e21227d37.jpg"
+          "url": "https://www.pa.org.za/media_root/cache/65/67/6567c3a0b22e358cf31e18430fc59338.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a69edcf3-4fc8-4d32-9239-fb02be286203",
+          "person_id": "person/20b39b2a-19cd-4524-aef5-4315b3585640",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q83162",
-          "area_id": "Q81725",
           "legislative_period_id": "term/26"
         }
       ],
@@ -5308,6 +5385,31 @@
       ]
     },
     {
+      "email": "mjohnson@parliament.gov.za",
+      "gender": "male",
+      "id": "person/a7bfdeb7-1890-4d42-a938-83dbd7e77332",
+      "image": "https://www.pa.org.za/media_root/cache/92/0b/920bd74be4fb4a7bf7043408847f33d8.jpg",
+      "name": "Lulu Johnson",
+      "sort_name": "Lulu Johnson",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/92/0b/920bd74be4fb4a7bf7043408847f33d8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a7bfdeb7-1890-4d42-a938-83dbd7e77332",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/b5e744c2-de8c-424f-825f-208fb1d59374",
       "name": "Lumka Elizabeth Yengeni",
@@ -5383,8 +5485,8 @@
       "gender": "female",
       "id": "person/80c4f877-5dd1-4fef-bdab-231c4b7f9512",
       "image": "https://www.pa.org.za/media_root/cache/33/47/33471648b23d9814bfab80e00cb0330c.jpg",
-      "name": "Lusizo Makhubela-Mashele",
-      "sort_name": "Lusizo Makhubela-Mashele",
+      "name": "Lusizo Sharon Makhubela-Mashele",
+      "sort_name": "Lusizo Sharon Makhubela-Mashele",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/33/47/33471648b23d9814bfab80e00cb0330c.jpg"
@@ -5456,38 +5558,12 @@
       ]
     },
     {
-      "email": "chikungas@dot.gov.za",
-      "gender": "female",
-      "id": "person/1e869f63-b3cd-432b-87a0-55418d19a79a",
-      "image": "https://www.pa.org.za/media_root/cache/89/78/8978c0ae2a8f198c5bf73b13e1a35f1f.jpg",
-      "name": "Lydia Sindisiwe Chikunga",
-      "sort_name": "Lydia Sindisiwe Chikunga",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/89/78/8978c0ae2a8f198c5bf73b13e1a35f1f.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1e869f63-b3cd-432b-87a0-55418d19a79a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "area_id": "Q132410",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "kim.davids@dpe.gov.za",
       "gender": "female",
       "id": "person/5b323a73-b106-48c6-b385-ae9ec4c13931",
       "image": "https://www.pa.org.za/media_root/cache/39/0d/390db600990de4da8244797b4e332f2c.jpg",
-      "name": "Lynette Brown",
-      "sort_name": "Lynette Brown",
+      "name": "Lynne Brown",
+      "sort_name": "Lynne Brown",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/39/0d/390db600990de4da8244797b4e332f2c.jpg"
@@ -5558,31 +5634,6 @@
       ]
     },
     {
-      "email": "SLShongwe@economic.gov.za",
-      "gender": "male",
-      "id": "person/9a1f715c-7d9f-4c11-832e-716933f51ccf",
-      "image": "https://www.pa.org.za/media_root/cache/6c/95/6c95f3509f8a24fdf7f12faf3c49d4f9.jpg",
-      "name": "Madala Backson Masuku",
-      "sort_name": "Madala Backson Masuku",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/6c/95/6c95f3509f8a24fdf7f12faf3c49d4f9.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9a1f715c-7d9f-4c11-832e-716933f51ccf",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "mntombela@parliament.gov.za",
       "gender": "male",
       "id": "person/04b18db7-af91-4d27-8f54-b5b31e8b2446",
@@ -5601,6 +5652,31 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q160284",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "SLShongwe@economic.gov.za",
+      "gender": "male",
+      "id": "person/9a1f715c-7d9f-4c11-832e-716933f51ccf",
+      "image": "https://www.pa.org.za/media_root/cache/6c/95/6c95f3509f8a24fdf7f12faf3c49d4f9.jpg",
+      "name": "Madala Masuku",
+      "sort_name": "Madala Masuku",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/6c/95/6c95f3509f8a24fdf7f12faf3c49d4f9.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9a1f715c-7d9f-4c11-832e-716933f51ccf",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -5679,12 +5755,38 @@
       ]
     },
     {
+      "email": "mandlamt@dac.gov.za",
+      "gender": "female",
+      "id": "person/8f9b6bb1-2728-493b-89cf-8ae307e32665",
+      "image": "https://www.pa.org.za/media_root/cache/27/95/2795361ee5e77228d6d7a51ab5abfea3.jpg",
+      "name": "Maggie Sotyu",
+      "sort_name": "Maggie Sotyu",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/27/95/2795361ee5e77228d6d7a51ab5abfea3.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8f9b6bb1-2728-493b-89cf-8ae307e32665",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "area_id": "Q160284",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "minister@dirco.gov.za",
       "gender": "female",
       "id": "person/16f3091c-457a-4970-bafb-6f5a5083902e",
       "image": "https://www.pa.org.za/media_root/cache/a2/f5/a2f5ed4bd798a9ad31315cb9b4fab4c0.jpg",
-      "name": "Maite Emily Nkoana-Mashabane",
-      "sort_name": "Maite Emily Nkoana-Mashabane",
+      "name": "Maite Nkoana-Mashabane",
+      "sort_name": "Maite Nkoana-Mashabane",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/a2/f5/a2f5ed4bd798a9ad31315cb9b4fab4c0.jpg"
@@ -5742,32 +5844,6 @@
           "on_behalf_of_id": "unknown",
           "area_id": "Q81725",
           "end_date": "2017-09-21",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mandlamt@dac.gov.za",
-      "gender": "female",
-      "id": "person/8f9b6bb1-2728-493b-89cf-8ae307e32665",
-      "image": "https://www.pa.org.za/media_root/cache/27/95/2795361ee5e77228d6d7a51ab5abfea3.jpg",
-      "name": "Makhotso Magdeline Sotyu",
-      "sort_name": "Makhotso Magdeline Sotyu",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/27/95/2795361ee5e77228d6d7a51ab5abfea3.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8f9b6bb1-2728-493b-89cf-8ae307e32665",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "area_id": "Q160284",
           "legislative_period_id": "term/26"
         }
       ],
@@ -5846,6 +5922,31 @@
           "role": "member",
           "on_behalf_of_id": "Q6972795",
           "area_id": "Q81725",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "minreg@treasury.gov.za",
+      "gender": "male",
+      "id": "person/ef86e0c9-f374-4f7f-aca2-a7504ab53898",
+      "image": "https://www.pa.org.za/media_root/cache/a5/32/a532a26e6c0b922c4c8c50fb7c9a0e90.jpg",
+      "name": "Malusi Gigaba",
+      "sort_name": "Malusi Gigaba",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/a5/32/a532a26e6c0b922c4c8c50fb7c9a0e90.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ef86e0c9-f374-4f7f-aca2-a7504ab53898",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -6291,31 +6392,6 @@
       ]
     },
     {
-      "email": "mnkosi@shanduka.co.za",
-      "gender": "male",
-      "id": "person/1b22fa3f-d9e1-485c-ac0a-4f5286c9cd6f",
-      "image": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg",
-      "name": "Matamela Cyril Ramaphosa",
-      "sort_name": "Matamela Cyril Ramaphosa",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1b22fa3f-d9e1-485c-ac0a-4f5286c9cd6f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "id": "person/bcadd0fe-36ce-4a77-beb0-5d9a0439134d",
       "image": "https://www.pa.org.za/media_root/cache/fb/b6/fbb696c776901fa49526c9bdd3a5a8ff.jpg",
       "name": "Mathews Wolmarans",
@@ -6365,56 +6441,6 @@
       ]
     },
     {
-      "email": "mphaahla@parliament.gov.za",
-      "gender": "male",
-      "id": "person/b56efaea-762d-40f5-be4c-3ddc094e43fa",
-      "image": "https://www.pa.org.za/media_root/cache/da/08/da08d6125a45e4a941844abd713d880e.jpg",
-      "name": "Mathume Joseph Phaahla",
-      "sort_name": "Mathume Joseph Phaahla",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/da/08/da08d6125a45e4a941844abd713d880e.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b56efaea-762d-40f5-be4c-3ddc094e43fa",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mabua.s@dbe.gov.za",
-      "gender": "female",
-      "id": "person/044c3246-5842-494f-89df-bc41a4fd2d1f",
-      "image": "https://www.pa.org.za/media_root/cache/28/ac/28ac6aefd71f1aede3552c4ee7c58c25.jpg",
-      "name": "Matsie Angelina Motshekga",
-      "sort_name": "Matsie Angelina Motshekga",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/28/ac/28ac6aefd71f1aede3552c4ee7c58c25.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/044c3246-5842-494f-89df-bc41a4fd2d1f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/8c2f5b5c-c889-459e-8f38-0fed1538cfd6",
       "name": "Maureen Angela Scheepers",
@@ -6452,31 +6478,6 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "end_date": "2014-05-29",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "dmahlobo@webmail.co.za",
-      "gender": "male",
-      "id": "person/37877888-e332-4f97-9444-95ee29be0853",
-      "image": "https://www.pa.org.za/media_root/cache/2d/6e/2d6e468d6b31f6d6ab91ec93480be6fb.jpg",
-      "name": "Mbangiseni David Mahlobo",
-      "sort_name": "Mbangiseni David Mahlobo",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/2d/6e/2d6e468d6b31f6d6ab91ec93480be6fb.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/37877888-e332-4f97-9444-95ee29be0853",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -6584,8 +6585,8 @@
       "gender": "male",
       "id": "person/732e034b-d0c7-4367-ab3e-215571517b81",
       "image": "https://www.pa.org.za/media_root/cache/ec/1a/ec1ab062136b402746c03fdefd74dd68.jpg",
-      "name": "Mduduzi Comfort Manana",
-      "sort_name": "Mduduzi Comfort Manana",
+      "name": "Mduduzi Manana",
+      "sort_name": "Mduduzi Manana",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/ec/1a/ec1ab062136b402746c03fdefd74dd68.jpg"
@@ -6726,6 +6727,31 @@
       ]
     },
     {
+      "email": "ShAfrika@justice.gov.za",
+      "gender": "male",
+      "id": "person/f6a64068-fdd3-42cd-9d10-8cbb32920391",
+      "image": "https://www.pa.org.za/media_root/cache/8e/2a/8e2a4b9a9094738b64ef657d526202f8.jpg",
+      "name": "Michael Masutha",
+      "sort_name": "Michael Masutha",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/8e/2a/8e2a4b9a9094738b64ef657d526202f8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f6a64068-fdd3-42cd-9d10-8cbb32920391",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mwaters@democraticalliance.co.za",
       "gender": "male",
       "id": "person/db8f62a9-969a-495f-abea-09f31a6e91b0",
@@ -6756,8 +6782,8 @@
       "gender": "female",
       "id": "person/f30f87a7-9178-408c-a2f5-43218cfd335d",
       "image": "https://www.pa.org.za/media_root/cache/96/77/9677a53043b14f6bd8485b6d1c286c06.jpg",
-      "name": "Mildred Nelisiwe Oliphant",
-      "sort_name": "Mildred Nelisiwe Oliphant",
+      "name": "Mildred Oliphant",
+      "sort_name": "Mildred Oliphant",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/96/77/9677a53043b14f6bd8485b6d1c286c06.jpg"
@@ -6854,31 +6880,6 @@
       ]
     },
     {
-      "email": "mjohnson@parliament.gov.za",
-      "gender": "male",
-      "id": "person/a7bfdeb7-1890-4d42-a938-83dbd7e77332",
-      "image": "https://www.pa.org.za/media_root/cache/92/0b/920bd74be4fb4a7bf7043408847f33d8.jpg",
-      "name": "Mlungisi Johnson",
-      "sort_name": "Mlungisi Johnson",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/92/0b/920bd74be4fb4a7bf7043408847f33d8.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a7bfdeb7-1890-4d42-a938-83dbd7e77332",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "id": "person/a1c5ef13-c2a7-4cf2-b0bc-b301974faffa",
       "name": "Mmabatho Olive Mokause",
       "sort_name": "Mmabatho Olive Mokause",
@@ -6889,6 +6890,7 @@
           "role": "member",
           "on_behalf_of_id": "Q15613585",
           "start_date": "2015-04-13",
+          "end_date": "2018-01-01",
           "legislative_period_id": "term/26"
         }
       ],
@@ -6941,31 +6943,6 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q132410",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "mmalatsi@parliament.gov.za",
-      "gender": "male",
-      "id": "person/af9ad62b-0b68-47b0-be6f-f2287c24adaa",
-      "image": "https://www.pa.org.za/media_root/cache/78/33/7833359759525e56f0b131e97bc48060.jpg",
-      "name": "Mmoba Solomon Malatsi",
-      "sort_name": "Mmoba Solomon Malatsi",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/78/33/7833359759525e56f0b131e97bc48060.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/af9ad62b-0b68-47b0-be6f-f2287c24adaa",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q761877",
           "legislative_period_id": "term/26"
         }
       ],
@@ -7096,31 +7073,6 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q132410",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "kgari.i@dbe.gov.za",
-      "gender": "male",
-      "id": "person/c6063703-6068-4aed-ba3b-33a266922be0",
-      "image": "https://www.pa.org.za/media_root/cache/12/34/1234bdf00b0319f83b8e03b2e7ea1b87.jpg",
-      "name": "Mohamed Enver Surty",
-      "sort_name": "Mohamed Enver Surty",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/12/34/1234bdf00b0319f83b8e03b2e7ea1b87.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c6063703-6068-4aed-ba3b-33a266922be0",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -7313,6 +7265,7 @@
           "role": "member",
           "on_behalf_of_id": "Q15613585",
           "area_id": "Q133083",
+          "end_date": "2018-01-01",
           "legislative_period_id": "term/26"
         }
       ],
@@ -7376,8 +7329,8 @@
       "gender": "male",
       "id": "person/30a067a9-0e92-4344-aab6-029d33ac7828",
       "image": "https://www.pa.org.za/media_root/cache/43/77/437706ca4dce935bd8f56847d7491165.jpg",
-      "name": "Mosiuoa Gerard Patrick Lekota",
-      "sort_name": "Mosiuoa Gerard Patrick Lekota",
+      "name": "Mosiuoa Lekota",
+      "sort_name": "Mosiuoa Lekota",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/43/77/437706ca4dce935bd8f56847d7491165.jpg"
@@ -7571,6 +7524,31 @@
       ]
     },
     {
+      "email": "carmen.h@dha.gov.za",
+      "gender": "female",
+      "id": "person/7484bc57-9640-4192-b917-4223f9c39949",
+      "image": "https://www.pa.org.za/media_root/cache/77/4d/774d9e9b3fbc043d377433523ae779e8.jpg",
+      "name": "Naledi Pandor",
+      "sort_name": "Naledi Pandor",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/77/4d/774d9e9b3fbc043d377433523ae779e8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7484bc57-9640-4192-b917-4223f9c39949",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "nsingh@parliament.gov.za",
       "gender": "male",
       "id": "person/82139443-b970-42ca-82e7-85b84f22915b",
@@ -7614,6 +7592,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q761877",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ministersoffice@dac.gov.za",
+      "gender": "male",
+      "id": "person/848e70b7-d12f-4624-945d-117a56aa0f1b",
+      "image": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg",
+      "name": "Nathi Mthethwa",
+      "sort_name": "Nathi Mthethwa",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/67/07/6707b604b13a194adf020cdb2568db8e.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/848e70b7-d12f-4624-945d-117a56aa0f1b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -8355,8 +8358,8 @@
       "gender": "female",
       "id": "person/ef5f3675-9f26-4d5b-88ac-0ae0fee8e233",
       "image": "https://www.pa.org.za/media_root/cache/2e/c7/2ec73c32d76d833b393ddbc450d6078e.jpg",
-      "name": "Nosiviwe Noluthando Nqakula",
-      "sort_name": "Nosiviwe Noluthando Nqakula",
+      "name": "Nosiviwe Mapisa-Nqakula",
+      "sort_name": "Nosiviwe Mapisa-Nqakula",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/2e/c7/2ec73c32d76d833b393ddbc450d6078e.jpg"
@@ -8580,20 +8583,20 @@
       ]
     },
     {
-      "email": "SethoM@health.gov.za",
+      "email": "obapela@parliament.gov.za",
       "gender": "male",
-      "id": "person/beb9f704-6b47-49d2-8df8-6f7d77864c27",
-      "image": "https://www.pa.org.za/media_root/cache/8b/0c/8b0c93f4b2ae0893d396ecf14fd34140.jpg",
-      "name": "Pakishe Aaron Motsoaledi",
-      "sort_name": "Pakishe Aaron Motsoaledi",
+      "id": "person/a2d51c4b-b2e2-4a49-8cf4-07bbc6c39e37",
+      "image": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg",
+      "name": "Obed Bapela",
+      "sort_name": "Obed Bapela",
       "images": [
         {
-          "url": "https://www.pa.org.za/media_root/cache/8b/0c/8b0c93f4b2ae0893d396ecf14fd34140.jpg"
+          "url": "https://www.pa.org.za/media_root/cache/e3/c2/e3c2ce0f12b9266200c2953dac87c25d.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/beb9f704-6b47-49d2-8df8-6f7d77864c27",
+          "person_id": "person/a2d51c4b-b2e2-4a49-8cf4-07bbc6c39e37",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q83162",
@@ -8634,8 +8637,8 @@
       "gender": "female",
       "id": "person/9ea3dfe1-d220-4c7b-8f02-37bb6eeecf8d",
       "image": "https://www.pa.org.za/media_root/cache/2a/d8/2ad810bc9682f927948de3c73e86062e.jpg",
-      "name": "Pamela Tshwete",
-      "sort_name": "Pamela Tshwete",
+      "name": "Pam Tshwete",
+      "sort_name": "Pam Tshwete",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/2a/d8/2ad810bc9682f927948de3c73e86062e.jpg"
@@ -8952,6 +8955,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q510163",
+          "end_date": "2017-12-01",
           "legislative_period_id": "term/26"
         }
       ],
@@ -8990,8 +8994,8 @@
       "gender": "male",
       "id": "person/67915719-6091-4ccf-a44b-9de7fe265613",
       "image": "https://www.pa.org.za/media_root/cache/e7/f3/e7f3fc7692deb19161b366871afbe06d.jpg",
-      "name": "Pravin Jamnadas Gordhan",
-      "sort_name": "Pravin Jamnadas Gordhan",
+      "name": "Pravin Gordhan",
+      "sort_name": "Pravin Gordhan",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/e7/f3/e7f3fc7692deb19161b366871afbe06d.jpg"
@@ -9265,6 +9269,31 @@
       ]
     },
     {
+      "email": "ineethling@thedti.gov.za",
+      "gender": "male",
+      "id": "person/f8247899-02e9-4333-b11d-347fac8c2993",
+      "image": "https://www.pa.org.za/media_root/cache/c1/df/c1dff2a58fbc17d0d91a1fb6b67bda68.jpg",
+      "name": "Rob Davies",
+      "sort_name": "Rob Davies",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/c1/df/c1dff2a58fbc17d0d91a1fb6b67bda68.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f8247899-02e9-4333-b11d-347fac8c2993",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "alf@leeskzn.co.za",
       "gender": "male",
       "id": "person/99c729a3-3ff8-4baa-925c-e3ad9650d395",
@@ -9282,31 +9311,6 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q761877",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ineethling@thedti.gov.za",
-      "gender": "male",
-      "id": "person/f8247899-02e9-4333-b11d-347fac8c2993",
-      "image": "https://www.pa.org.za/media_root/cache/c1/df/c1dff2a58fbc17d0d91a1fb6b67bda68.jpg",
-      "name": "Robert Haydn Davies",
-      "sort_name": "Robert Haydn Davies",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/c1/df/c1dff2a58fbc17d0d91a1fb6b67bda68.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f8247899-02e9-4333-b11d-347fac8c2993",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -9462,31 +9466,6 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q165956",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "phathekile@me.com",
-      "gender": "male",
-      "id": "person/3023e03a-8c34-4966-ba21-1f7fca65714b",
-      "image": "https://www.pa.org.za/media_root/cache/9e/0b/9e0b44fd535f3eecfd3b7b15e3c1aa30.jpg",
-      "name": "Sango Patekile Holomisa",
-      "sort_name": "Sango Patekile Holomisa",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/9e/0b/9e0b44fd535f3eecfd3b7b15e3c1aa30.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3023e03a-8c34-4966-ba21-1f7fca65714b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -9704,6 +9683,7 @@
           "role": "member",
           "on_behalf_of_id": "Q15613585",
           "start_date": "2017-02-01",
+          "end_date": "2017-10-31",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10034,12 +10014,38 @@
       ]
     },
     {
+      "email": "chikungas@dot.gov.za",
+      "gender": "female",
+      "id": "person/1e869f63-b3cd-432b-87a0-55418d19a79a",
+      "image": "https://www.pa.org.za/media_root/cache/89/78/8978c0ae2a8f198c5bf73b13e1a35f1f.jpg",
+      "name": "Sindi Chikunga",
+      "sort_name": "Sindi Chikunga",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/89/78/8978c0ae2a8f198c5bf73b13e1a35f1f.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e869f63-b3cd-432b-87a0-55418d19a79a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "area_id": "Q132410",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ministry@dtps.gov.za",
       "gender": "male",
       "id": "person/d0111f2c-9478-4e5f-9c7a-da37e21e4838",
       "image": "https://www.pa.org.za/media_root/cache/25/6d/256d33bc856c86b4ffe40b4597d5c9a6.jpg",
-      "name": "Siyabonga Cyprian Cwele",
-      "sort_name": "Siyabonga Cyprian Cwele",
+      "name": "Siyabonga Cwele",
+      "sort_name": "Siyabonga Cwele",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/25/6d/256d33bc856c86b4ffe40b4597d5c9a6.jpg"
@@ -10051,6 +10057,31 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mmalatsi@parliament.gov.za",
+      "gender": "male",
+      "id": "person/af9ad62b-0b68-47b0-be6f-f2287c24adaa",
+      "image": "https://www.pa.org.za/media_root/cache/78/33/7833359759525e56f0b131e97bc48060.jpg",
+      "name": "Solly Malatsi",
+      "sort_name": "Solly Malatsi",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/78/33/7833359759525e56f0b131e97bc48060.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/af9ad62b-0b68-47b0-be6f-f2287c24adaa",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q761877",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10154,8 +10185,8 @@
       "gender": "female",
       "id": "person/770ae819-4e7f-4cd3-9723-931d16ac6901",
       "image": "https://www.pa.org.za/media_root/cache/22/79/2279de424a5772aca99fd9804402d4eb.jpg",
-      "name": "Stella Tembisa Ndabeni-Abrahams",
-      "sort_name": "Stella Tembisa Ndabeni-Abrahams",
+      "name": "Stella Ndabeni-Abrahams",
+      "sort_name": "Stella Ndabeni-Abrahams",
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/22/79/2279de424a5772aca99fd9804402d4eb.jpg"
@@ -10168,6 +10199,31 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q130840",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "sswart@parliament.gov.za",
+      "gender": "male",
+      "id": "person/f32bc83b-6783-4b05-b92d-f0a11c3bc9b1",
+      "image": "https://www.pa.org.za/media_root/cache/96/fc/96fc60914d62ae58592000af3f245730.jpg",
+      "name": "Steve Swart",
+      "sort_name": "Steve Swart",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/96/fc/96fc60914d62ae58592000af3f245730.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f32bc83b-6783-4b05-b92d-f0a11c3bc9b1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q268613",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10193,31 +10249,6 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q4689795",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "sswart@parliament.gov.za",
-      "gender": "male",
-      "id": "person/f32bc83b-6783-4b05-b92d-f0a11c3bc9b1",
-      "image": "https://www.pa.org.za/media_root/cache/96/fc/96fc60914d62ae58592000af3f245730.jpg",
-      "name": "Steven Nicholas Swart",
-      "sort_name": "Steven Nicholas Swart",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/96/fc/96fc60914d62ae58592000af3f245730.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f32bc83b-6783-4b05-b92d-f0a11c3bc9b1",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q268613",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10524,6 +10555,7 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "start_date": "2016-09-04",
+          "end_date": "2017-05-15",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10662,20 +10694,19 @@
       ]
     },
     {
-      "email": "abongile@srsa.gov.za",
-      "gender": "male",
-      "id": "person/4faabe5c-0953-429d-934a-a4a28cda5d25",
-      "image": "https://www.pa.org.za/media_root/cache/f7/90/f790e653fea4ef4e0122f93fc3670127.jpg",
-      "name": "Thembelani Waltermade Nxesi",
-      "sort_name": "Thembelani Waltermade Nxesi",
+      "email": "Maleshoane.Selokoe@energy.gov.za",
+      "id": "person/c40d0cc0-b2dc-4c3e-aee8-c4d17911c9bf",
+      "image": "https://www.pa.org.za/media_root/cache/f2/e9/f2e9f28a4504d506433f57704babd580.jpg",
+      "name": "Thembi Majola",
+      "sort_name": "Thembi Majola",
       "images": [
         {
-          "url": "https://www.pa.org.za/media_root/cache/f7/90/f790e653fea4ef4e0122f93fc3670127.jpg"
+          "url": "https://www.pa.org.za/media_root/cache/f2/e9/f2e9f28a4504d506433f57704babd580.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4faabe5c-0953-429d-934a-a4a28cda5d25",
+          "person_id": "person/c40d0cc0-b2dc-4c3e-aee8-c4d17911c9bf",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q83162",
@@ -10731,30 +10762,6 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q761877",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Maleshoane.Selokoe@energy.gov.za",
-      "id": "person/c40d0cc0-b2dc-4c3e-aee8-c4d17911c9bf",
-      "image": "https://www.pa.org.za/media_root/cache/f2/e9/f2e9f28a4504d506433f57704babd580.jpg",
-      "name": "Thembisile Cheryl Majola-Embalo",
-      "sort_name": "Thembisile Cheryl Majola-Embalo",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/f2/e9/f2e9f28a4504d506433f57704babd580.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c40d0cc0-b2dc-4c3e-aee8-c4d17911c9bf",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10825,6 +10832,31 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "end_date": "2017-05-01",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tmasoga@tourism.gov.za",
+      "gender": "female",
+      "id": "person/4e884ab0-11d9-4b5f-be96-d8bece6c4395",
+      "image": "https://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg",
+      "name": "Thokozile Xasa",
+      "sort_name": "Thokozile Xasa",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4e884ab0-11d9-4b5f-be96-d8bece6c4395",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -10910,6 +10942,31 @@
       ]
     },
     {
+      "email": "abongile@srsa.gov.za",
+      "gender": "male",
+      "id": "person/4faabe5c-0953-429d-934a-a4a28cda5d25",
+      "image": "https://www.pa.org.za/media_root/cache/f7/90/f790e653fea4ef4e0122f93fc3670127.jpg",
+      "name": "Thulas Nxesi",
+      "sort_name": "Thulas Nxesi",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/f7/90/f790e653fea4ef4e0122f93fc3670127.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4faabe5c-0953-429d-934a-a4a28cda5d25",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "scopa@saol.com",
       "gender": "male",
       "id": "person/0bae3a19-06ea-4be7-a4a1-137388ea3eeb",
@@ -10981,31 +11038,6 @@
       ]
     },
     {
-      "email": "tmasoga@tourism.gov.za",
-      "gender": "female",
-      "id": "person/4e884ab0-11d9-4b5f-be96-d8bece6c4395",
-      "image": "https://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg",
-      "name": "Tokozile Xasa",
-      "sort_name": "Tokozile Xasa",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4e884ab0-11d9-4b5f-be96-d8bece6c4395",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "male",
       "id": "person/bcafe765-f8bd-45c2-b351-f5440690f809",
       "name": "Trevor John Bonhomme",
@@ -11044,31 +11076,6 @@
           "role": "member",
           "on_behalf_of_id": "Q761877",
           "area_id": "Q133083",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "ShAfrika@justice.gov.za",
-      "gender": "male",
-      "id": "person/f6a64068-fdd3-42cd-9d10-8cbb32920391",
-      "image": "https://www.pa.org.za/media_root/cache/8e/2a/8e2a4b9a9094738b64ef657d526202f8.jpg",
-      "name": "Tshililo Michael Masutha",
-      "sort_name": "Tshililo Michael Masutha",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/8e/2a/8e2a4b9a9094738b64ef657d526202f8.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f6a64068-fdd3-42cd-9d10-8cbb32920391",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
       ],
@@ -11676,6 +11683,32 @@
       ]
     },
     {
+      "email": "zou.kota@dhs.gov.za",
+      "gender": "female",
+      "id": "person/90be3dd8-1cc7-4314-9360-17532ef321e7",
+      "image": "https://www.pa.org.za/media_root/cache/28/a7/28a71d2b9a909053ea0229a3210e1db2.jpg",
+      "name": "Zoe Kota-Fredericks",
+      "sort_name": "Zoe Kota-Fredericks",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/28/a7/28a71d2b9a909053ea0229a3210e1db2.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/90be3dd8-1cc7-4314-9360-17532ef321e7",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "area_id": "Q127167",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "xalisa43@gmail.com",
       "id": "person/1322c976-1239-4af1-b362-cc60bd0dfc38",
       "image": "https://www.pa.org.za/media_root/cache/81/f8/81f8cafb9e1dd32acb4ede32d659f179.jpg",
@@ -11694,32 +11727,6 @@
           "on_behalf_of_id": "Q15613585",
           "area_id": "Q165956",
           "start_date": "2016-08-24",
-          "legislative_period_id": "term/26"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "zou.kota@dhs.gov.za",
-      "gender": "female",
-      "id": "person/90be3dd8-1cc7-4314-9360-17532ef321e7",
-      "image": "https://www.pa.org.za/media_root/cache/28/a7/28a71d2b9a909053ea0229a3210e1db2.jpg",
-      "name": "Zoliswa Albertina Kota-Fredericks",
-      "sort_name": "Zoliswa Albertina Kota-Fredericks",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/28/a7/28a71d2b9a909053ea0229a3210e1db2.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/90be3dd8-1cc7-4314-9360-17532ef321e7",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "Q83162",
-          "area_id": "Q127167",
           "legislative_period_id": "term/26"
         }
       ],
