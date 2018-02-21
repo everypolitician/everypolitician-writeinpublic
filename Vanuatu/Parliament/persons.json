@@ -458,6 +458,24 @@
       ]
     },
     {
+      "id": "person/2af4b9c0-0d9e-4535-b0fb-bd868236a8ef",
+      "name": "Jack Norris Kalmet",
+      "sort_name": "Jack Norris Kalmet",
+      "memberships": [
+        {
+          "person_id": "person/2af4b9c0-0d9e-4535-b0fb-bd868236a8ef",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "ump",
+          "area_id": "area/efate_rural",
+          "legislative_period_id": "term/11"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/537c569a-0396-4b81-a29a-ca8ad9bd2418",
       "image": "https://parliament.gov.vu/images/bio/no_image.jpg",
       "name": "Jack Wona",
@@ -538,7 +556,7 @@
           "person_id": "person/43154062-ce14-4b5e-8cb4-73a889195d7f",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "ind",
+          "on_behalf_of_id": "rmc",
           "area_id": "area/port_vila",
           "legislative_period_id": "term/11"
         }
@@ -563,7 +581,7 @@
           "person_id": "person/726dcfd2-5d93-4d0d-ac5a-d43641f401a6",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "ump",
+          "on_behalf_of_id": "rmc",
           "area_id": "area/malekula",
           "legislative_period_id": "term/11"
         }
@@ -874,24 +892,6 @@
           "role": "member",
           "on_behalf_of_id": "ump",
           "area_id": "area/tanna",
-          "legislative_period_id": "term/11"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/2af4b9c0-0d9e-4535-b0fb-bd868236a8ef",
-      "name": "Norris Kalmet",
-      "sort_name": "Norris Kalmet",
-      "memberships": [
-        {
-          "person_id": "person/2af4b9c0-0d9e-4535-b0fb-bd868236a8ef",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "ump",
-          "area_id": "area/efate_rural",
           "legislative_period_id": "term/11"
         }
       ],
