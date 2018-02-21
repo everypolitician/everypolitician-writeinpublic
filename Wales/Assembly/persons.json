@@ -1212,10 +1212,17 @@
     },
     {
       "email": "mandy.jones@assembly.wales",
+      "gender": "female",
       "id": "person/7416afa6-81d8-40a7-b95e-249dae69997e",
       "image": "http://senedd.assembly.wales/UserData/3/0/1/Info00005103/bigpic.jpg",
       "name": "Mandy Jones",
       "sort_name": "Mandy Jones",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MandyJonesAM"
+        }
+      ],
       "images": [
         {
           "url": "http://senedd.assembly.wales/UserData/3/0/1/Info00005103/bigpic.jpg"
@@ -1231,9 +1238,6 @@
           "start_date": "2017-12-28",
           "legislative_period_id": "term/5"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
