@@ -1,7 +1,7 @@
 {
-  "total": 80,
+  "total": 81,
   "page": 1,
-  "per_page": 80,
+  "per_page": 81,
   "has_more": false,
   "result": [
     {
@@ -1566,6 +1566,30 @@
       "memberships": [
         {
           "person_id": "person/8951607c-bb39-4192-9bc7-9e274377339f",
+          "organization_id": "chamber/assembleia_nacional",
+          "role": "member",
+          "on_behalf_of_id": "MPD",
+          "area_id": "area/santiago_sul",
+          "legislative_period_id": "term/9"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/688691dd-c030-42b5-bb19-065cb61358c6",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10417",
+      "name": "Manuel Barreto da Moura",
+      "sort_name": "Manuel Barreto da Moura",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10417"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/688691dd-c030-42b5-bb19-065cb61358c6",
           "organization_id": "chamber/assembleia_nacional",
           "role": "member",
           "on_behalf_of_id": "MPD",
