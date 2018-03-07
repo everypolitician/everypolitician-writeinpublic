@@ -1,7 +1,7 @@
 {
-  "total": 167,
+  "total": 168,
   "page": 1,
-  "per_page": 167,
+  "per_page": 168,
   "has_more": false,
   "result": [
     {
@@ -2866,6 +2866,30 @@
           "role": "member",
           "on_behalf_of_id": "UPND",
           "area_id": "area/senanga",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7a5f8973-c249-4a21-b574-8689eed4f9b7",
+      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Mumbi%20Phiri.JPG?itok=-rYBp7Fk",
+      "name": "Mumbi Phiri",
+      "sort_name": "Mumbi Phiri",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Mumbi%20Phiri.JPG?itok=-rYBp7Fk"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7a5f8973-c249-4a21-b574-8689eed4f9b7",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PF",
+          "area_id": "area/nominated",
           "legislative_period_id": "term/2016"
         }
       ],

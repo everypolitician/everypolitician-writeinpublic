@@ -7,11 +7,30 @@
     {
       "gender": "male",
       "id": "person/c278551a-1d85-4276-a687-364b6e2c3175",
-      "name": "Alex Snowdon",
-      "sort_name": "Alex Snowdon",
+      "name": "Alexander Snowdon",
+      "sort_name": "Alexander Snowdon",
       "memberships": [
         {
           "person_id": "person/c278551a-1d85-4276-a687-364b6e2c3175",
+          "organization_id": "chamber/states",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "area/alderney",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/d3ee2797-d8df-415e-b378-0e9cbb452a35",
+      "name": "Anthony Barnes",
+      "sort_name": "Anthony Barnes",
+      "memberships": [
+        {
+          "person_id": "person/d3ee2797-d8df-415e-b378-0e9cbb452a35",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
@@ -188,25 +207,6 @@
       "memberships": [
         {
           "person_id": "person/a11887ce-2c42-4555-bfd9-0843f3a9ced0",
-          "organization_id": "chamber/states",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/alderney",
-          "legislative_period_id": "term/2017"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d3ee2797-d8df-415e-b378-0e9cbb452a35",
-      "name": "Tony Barnes",
-      "sort_name": "Tony Barnes",
-      "memberships": [
-        {
-          "person_id": "person/d3ee2797-d8df-415e-b378-0e9cbb452a35",
           "organization_id": "chamber/states",
           "role": "member",
           "on_behalf_of_id": "independent",
