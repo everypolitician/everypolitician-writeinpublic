@@ -1,7 +1,7 @@
 {
-  "total": 213,
+  "total": 217,
   "page": 1,
-  "per_page": 213,
+  "per_page": 217,
   "has_more": false,
   "result": [
     {
@@ -50,6 +50,7 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "BE",
+          "start_date": "2017-11-17",
           "legislative_period_id": "term/50"
         }
       ],
@@ -630,6 +631,27 @@
           "role": "member",
           "on_behalf_of_id": "1",
           "area_id": "ZH",
+          "start_date": "2017-09-21",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/8cdaeef1-90f2-4e76-8d7c-4f752e8793d3",
+      "name": "Benjamin Roduit",
+      "sort_name": "Roduit, Benjamin",
+      "memberships": [
+        {
+          "person_id": "person/8cdaeef1-90f2-4e76-8d7c-4f752e8793d3",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "3",
+          "area_id": "VS",
+          "start_date": "2018-02-26",
           "legislative_period_id": "term/50"
         }
       ],
@@ -1594,6 +1616,26 @@
     },
     {
       "gender": "male",
+      "id": "person/cb57506e-07cb-47a6-9298-b903405408b3",
+      "name": "Fabian Molina",
+      "sort_name": "Molina, Fabian",
+      "memberships": [
+        {
+          "person_id": "person/cb57506e-07cb-47a6-9298-b903405408b3",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "ZH",
+          "start_date": "2018-03-15",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/3699faaf-2c8f-4cce-a347-2316e589a01e",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/FabioRegazzi.jpg",
       "name": "Fabio Regazzi",
@@ -2416,6 +2458,7 @@
           "role": "member",
           "on_behalf_of_id": "3",
           "area_id": "SG",
+          "end_date": "2018-03-08",
           "legislative_period_id": "term/50"
         }
       ],
@@ -3590,6 +3633,26 @@
     },
     {
       "gender": "male",
+      "id": "person/7a118be6-6d34-4d10-b121-7a262c2bdf42",
+      "name": "Michael Töngi",
+      "sort_name": "Töngi, Michael",
+      "memberships": [
+        {
+          "person_id": "person/7a118be6-6d34-4d10-b121-7a262c2bdf42",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "6",
+          "area_id": "LU",
+          "start_date": "2018-03-12",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/50d3f2d7-9159-46c9-a28b-8780b24eab2a",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Michaël_Buffat.jpg",
       "name": "Michaël Buffat",
@@ -3717,6 +3780,26 @@
           "area_id": "ZH",
           "legislative_period_id": "term/50"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/37fe4f86-3ffa-4fc8-9935-e4650bf7af07",
+      "name": "Nicolo Paganini",
+      "sort_name": "Paganini, Nicolo",
+      "memberships": [
+        {
+          "person_id": "person/37fe4f86-3ffa-4fc8-9935-e4650bf7af07",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "3",
+          "area_id": "SG",
+          "start_date": "2018-03-12",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4628,6 +4711,7 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "ZG",
+          "start_date": "2017-11-17",
           "legislative_period_id": "term/50"
         }
       ],
@@ -4898,6 +4982,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "ZH",
+          "end_date": "2018-03-14",
           "legislative_period_id": "term/50"
         }
       ],
@@ -5179,6 +5264,7 @@
           "role": "member",
           "on_behalf_of_id": "3",
           "area_id": "VS",
+          "end_date": "2018-01-31",
           "legislative_period_id": "term/50"
         }
       ]

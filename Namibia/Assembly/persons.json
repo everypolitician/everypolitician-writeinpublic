@@ -1,7 +1,7 @@
 {
-  "total": 105,
+  "total": 106,
   "page": 1,
-  "per_page": 105,
+  "per_page": 106,
   "has_more": false,
   "result": [
     {
@@ -147,7 +147,6 @@
       ]
     },
     {
-      "email": "tomalweendo@npc.gov.na",
       "gender": "male",
       "id": "person/4819f150-54a1-47af-935d-322d105be316",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_alweendo.jpg",
@@ -172,7 +171,6 @@
       ]
     },
     {
-      "email": "limalwa@mfmr.gov.na",
       "gender": "male",
       "id": "person/e1fdedb5-a6dd-492a-9024-e72aa8032956",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/148_hon__samuel_chief_ankama.jpg",
@@ -317,7 +315,29 @@
       ]
     },
     {
-      "email": "min.Secretary@mynssc.gov.na",
+      "id": "person/c0461811-99b1-4e00-9fee-f7a0c2d03391",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/372_dingara_.jpg",
+      "name": "Dingara Elifas",
+      "sort_name": "Dingara Elifas",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/372_dingara_.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c0461811-99b1-4e00-9fee-f7a0c2d03391",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/8811bbed-1980-45b3-9014-c3c06630e693",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Ekandjo.jpg",
@@ -333,7 +353,7 @@
           "person_id": "person/8811bbed-1980-45b3-9014-c3c06630e693",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "Appointed by President",
+          "on_behalf_of_id": "SWAPO",
           "legislative_period_id": "term/6"
         }
       ],
@@ -651,7 +671,6 @@
       ]
     },
     {
-      "email": "b.jagger@parliament.na",
       "id": "person/da689b87-cee1-435b-9540-3cd1e851fb40",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_jagger.jpg",
       "name": "Jagger, Bernadette Maria",
@@ -1452,7 +1471,6 @@
       ]
     },
     {
-      "email": "pmushelenga@mirco.gov.na",
       "gender": "male",
       "id": "person/86944861-c534-433b-91d0-3553eb9e25e0",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/Hon_Mushelenga.jpg",
@@ -1477,7 +1495,6 @@
       ]
     },
     {
-      "email": "meyerm@mawf.gov.na",
       "gender": "male",
       "id": "person/e6c87650-70e0-4902-a85a-1d8483724b2c",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_mutorwa.jpg",
