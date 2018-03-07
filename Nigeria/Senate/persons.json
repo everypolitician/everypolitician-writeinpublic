@@ -1,7 +1,7 @@
 {
-  "total": 114,
+  "total": 115,
   "page": 1,
-  "per_page": 114,
+  "per_page": 115,
   "has_more": false,
   "result": [
     {
@@ -511,6 +511,31 @@
           "role": "member",
           "on_behalf_of_id": "APC",
           "area_id": "area/sokoto_north,_sokoto_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9b735e24-5126-4436-bd98-044e8c78c9f3",
+      "image": "http://www.nass.gov.ng/images/mps/982.jpg",
+      "name": "Andrew Uchendu",
+      "sort_name": "Andrew Uchendu",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/982.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9b735e24-5126-4436-bd98-044e8c78c9f3",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/rivers_east,_rivers_state",
           "legislative_period_id": "term/8"
         }
       ],
