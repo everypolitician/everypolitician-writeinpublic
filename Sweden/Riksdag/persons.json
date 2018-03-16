@@ -1,7 +1,7 @@
 {
-  "total": 440,
+  "total": 441,
   "page": 1,
-  "per_page": 440,
+  "per_page": 441,
   "has_more": false,
   "result": [
     {
@@ -1129,6 +1129,25 @@
           "on_behalf_of_id": "S",
           "area_id": "area/västmanlands_län",
           "end_date": "2017-10-08",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/c08d4cfe-8b5b-4694-ab93-1c407cc23107",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västmanlands_län",
+          "start_date": "2018-03-15",
+          "end_date": "2018-03-19",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/c08d4cfe-8b5b-4694-ab93-1c407cc23107",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västmanlands_län",
+          "start_date": "2018-04-30",
           "legislative_period_id": "term/2014"
         },
         {
@@ -7523,6 +7542,33 @@
       ]
     },
     {
+      "email": "karl.langberg@riksdagen.se",
+      "gender": "male",
+      "id": "person/4009f17a-f961-4632-864f-4e134a726704",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee9a578d-b462-422b-9946-5391bd07f9de_max.jpg",
+      "name": "Karl Längberg",
+      "sort_name": "Karl",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee9a578d-b462-422b-9946-5391bd07f9de_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4009f17a-f961-4632-864f-4e134a726704",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/kalmar_län",
+          "start_date": "2018-03-08",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "katarina.brannstrom@riksdagen.se",
       "gender": "female",
       "id": "person/2d9af99d-61f9-486a-8434-4cc55fbcf640",
@@ -8445,6 +8491,7 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/kalmar_län",
+          "end_date": "2018-03-07",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -14015,7 +14062,17 @@
           "on_behalf_of_id": "S",
           "area_id": "area/västmanlands_län",
           "start_date": "2017-10-09",
-          "end_date": "2018-04-30",
+          "end_date": "2018-03-14",
+          "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/4885cb27-e2cc-48f9-93a1-82b239528bb6",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västmanlands_län",
+          "start_date": "2018-03-20",
+          "end_date": "2018-04-29",
           "legislative_period_id": "term/2014"
         }
       ],
