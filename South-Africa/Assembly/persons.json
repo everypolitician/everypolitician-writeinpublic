@@ -71,6 +71,7 @@
     },
     {
       "email": "awilliams@parliament.gov.za",
+      "gender": "male",
       "id": "person/59c7f970-f31d-413f-a488-93d7e82ed094",
       "image": "https://www.pa.org.za/media_root/cache/64/b4/64b4ff94a3aead8ed1c6e865ebf4a685.jpg",
       "name": "Adrian John Williams",
@@ -214,6 +215,7 @@
     },
     {
       "email": "mfulo.Thandiwe@gmail.com",
+      "gender": "female",
       "id": "person/e1a18016-c588-455f-bbcf-57007faa1da9",
       "image": "https://www.pa.org.za/media_root/cache/3b/5a/3b5aa2fe1835c3d91bcda210861566ff.jpg",
       "name": "Alina Mfulo",
@@ -850,6 +852,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/48c5c62c-232a-4812-9a61-bb75615f38bf",
       "name": "Bernard Daniel Joseph",
       "sort_name": "Bernard Daniel Joseph",
@@ -1597,6 +1600,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c4e3374e-12ba-477b-b654-abd17a9b343c",
       "name": "Christian Themba Msimang",
       "sort_name": "Christian Themba Msimang",
@@ -2096,6 +2100,7 @@
     },
     {
       "email": "dennisryderza@gmail.com",
+      "gender": "male",
       "id": "person/a18f5a7b-6276-42ec-ac40-61c8b1c08bfe",
       "image": "https://www.pa.org.za/media_root/cache/5c/63/5c637850160e5d014bc11f2dd3805fdd.jpg",
       "name": "Dennis Richard Ryder",
@@ -2720,6 +2725,7 @@
     },
     {
       "email": "DM@ssa.gov.za",
+      "gender": "female",
       "id": "person/95cec38e-1746-4e0b-b47d-55304c2ed4ea",
       "image": "https://www.pa.org.za/media_root/cache/31/49/31498efd6d60decb9b022d234355da20.jpg",
       "name": "Ellen Molekane",
@@ -3739,6 +3745,7 @@
     },
     {
       "email": "hgroenewald@parliament.gov.za",
+      "gender": "male",
       "id": "person/c0a269a4-a45e-4325-9d53-b76d9c5bb646",
       "image": "https://www.pa.org.za/media_root/cache/87/00/8700435f414b52160dfc355bdf7b35b0.jpg",
       "name": "Hermanus Bernadus Groenewald",
@@ -3859,6 +3866,12 @@
       "image": "https://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg",
       "name": "Hlengiwe Mkhize",
       "sort_name": "Hlengiwe Mkhize",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ProfMkhize"
+        }
+      ],
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg"
@@ -3872,9 +3885,6 @@
           "on_behalf_of_id": "Q83162",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4412,7 +4422,7 @@
     },
     {
       "email": "jfubbs@parliament.gov.za",
-      "gender": "female",
+      "gender": "male",
       "id": "person/bff9c1ae-dab0-4852-9ad5-f217d49ffb2d",
       "image": "https://www.pa.org.za/media_root/cache/9d/6b/9d6b7329843a03db7203b653b381d296.jpg",
       "name": "Joanmariae Louise Fubbs",
@@ -4437,6 +4447,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/09ea0ca1-8d09-46c1-9628-9dae4de812c7",
       "name": "Joel Sibusiso Ndebele",
       "sort_name": "Joel Sibusiso Ndebele",
@@ -4546,6 +4557,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5e0b1fcc-a28f-4e98-9d0f-b0543983ed86",
       "name": "John Andile Mngxitama",
       "sort_name": "John Andile Mngxitama",
@@ -4811,6 +4823,7 @@
     },
     {
       "email": "democraticken@gmail.com",
+      "gender": "male",
       "id": "person/ec94ba1b-0053-49d3-87d4-8a26d98049f6",
       "image": "https://www.pa.org.za/media_root/cache/fd/ae/fdaee46ce9015b5eb13b11e4e206dc05.jpg",
       "name": "Ken Peter Robertson",
@@ -4977,6 +4990,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/621350a8-89c6-4a71-8943-efad7db1d826",
       "name": "Lance William Greyling",
       "sort_name": "Lance William Greyling",
@@ -5047,6 +5061,7 @@
     },
     {
       "email": "lmathys@parliament.gov.za",
+      "gender": "female",
       "id": "person/0f219b7b-7b9e-4168-86fd-1a264e3ca1f1",
       "image": "https://www.pa.org.za/media_root/cache/3d/b5/3db5282766c198b4b67071a2e112508d.jpg",
       "name": "Leigh-Ann Mathys",
@@ -5729,6 +5744,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/2a8fcde8-4b49-48c3-8441-642a044128a0",
       "name": "Magdalene Moonsamy",
       "sort_name": "Magdalene Moonsamy",
@@ -6384,6 +6400,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bcadd0fe-36ce-4a77-beb0-5d9a0439134d",
       "image": "https://www.pa.org.za/media_root/cache/fb/b6/fbb696c776901fa49526c9bdd3a5a8ff.jpg",
       "name": "Mathews Wolmarans",
@@ -6701,6 +6718,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/5c5bb3a8-4221-453e-b160-e235b9cca4f2",
       "name": "Michael Malisa Tshishonga",
       "sort_name": "Michael Malisa Tshishonga",
@@ -7823,6 +7841,7 @@
     },
     {
       "email": "nkoornhof@parliament.gov.za",
+      "gender": "male",
       "id": "person/756a7737-959f-4af7-9a19-007ef9fc1f2b",
       "image": "https://www.pa.org.za/media_root/cache/df/38/df38a0069af5349f8b4b319848b45157.jpg",
       "name": "Nicolaas Jacobus Janse Van Rensburg Koornhof",
@@ -8055,6 +8074,7 @@
     },
     {
       "email": "ntolashe@parliament.gov.za",
+      "gender": "female",
       "id": "person/e0331040-3fd0-4a22-a0c1-bb48ce010e86",
       "image": "https://www.pa.org.za/media_root/cache/b1/06/b106f5cfb7e03cb4baf34abd5710aff7.jpg",
       "name": "Nokuzola Gladys Tolashe",
@@ -8175,6 +8195,7 @@
     },
     {
       "email": "nnovember@parliament.gov.za",
+      "gender": "female",
       "id": "person/dc0f96d9-e067-414c-9bd9-939fe39b86a7",
       "image": "https://www.pa.org.za/media_root/cache/d6/3a/d63a6118390b9cb64bdb968b51c4c9c1.jpg",
       "name": "Nomathemba Theresia November",
@@ -8677,6 +8698,7 @@
     },
     {
       "email": "pmaloyi@parliament.gov.za",
+      "gender": "male",
       "id": "person/55a9d143-48ca-4696-85be-1e09695ae61e",
       "image": "https://www.pa.org.za/media_root/cache/5b/d7/5bd751b605359f76bc8e219ee38f8530.jpg",
       "name": "Patrick Dumile Nono Maloyi",
@@ -9098,6 +9120,7 @@
     },
     {
       "email": "radams@parliament.gov.za",
+      "gender": "female",
       "id": "person/79ced5ce-5577-444a-8dee-c305cf8c427d",
       "image": "https://www.pa.org.za/media_root/cache/f8/99/f8991ed76aa6fe130275155b92dadab7.jpg",
       "name": "Rachel Cecilia Adams",
@@ -9363,6 +9386,7 @@
     },
     {
       "email": "rpurdon@parliament.gov.za",
+      "gender": "male",
       "id": "person/acf1e9bd-a523-4805-85da-8092edeaea94",
       "image": "https://www.pa.org.za/media_root/cache/f9/2d/f92d0803a2afc37de9e8b5d74c323e7f.jpg",
       "name": "Ross Kriel Purdon",
@@ -9665,6 +9689,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/4b843766-a5bc-46b2-be61-3fa943fd6af8",
       "name": "Shadrack Lapologang Tlhaole",
       "sort_name": "Shadrack Lapologang Tlhaole",
@@ -10557,6 +10582,7 @@
     },
     {
       "email": "mbabamatm@gmail.com",
+      "gender": "female",
       "id": "person/1533cebd-f42c-42b6-9fe7-3bda0b201293",
       "image": "https://www.pa.org.za/media_root/cache/de/45/de4591726d13093cca959c0b7b5a737f.jpg",
       "name": "Thandeka Moloko Mbabama",
@@ -10763,6 +10789,7 @@
     },
     {
       "email": "tnkonzo@parliament.gov.za",
+      "gender": "male",
       "id": "person/5c78d0fd-49ba-47d0-9620-f9511d368516",
       "image": "https://www.pa.org.za/media_root/cache/02/11/02110eb798817a4e5c8243bd4bbb560d.jpg",
       "name": "Theophilus Mbulelo Nkonzo",
@@ -11256,6 +11283,7 @@
     },
     {
       "email": "wmaphanga@parliament.gov.za",
+      "gender": "male",
       "id": "person/4c1837ff-fe6f-4429-8928-de31a0932a6c",
       "image": "https://www.pa.org.za/media_root/cache/b5/ef/b5efb9b95110c56f01477e76ba56d4af.jpg",
       "name": "Walter Bongani Maphanga",
@@ -11478,6 +11506,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/e15b4675-2e1d-462c-b969-2b061f60b246",
       "name": "Yolanda Rachel Botha",
       "sort_name": "Yolanda Rachel Botha",
