@@ -1,7 +1,7 @@
 {
-  "total": 368,
+  "total": 370,
   "page": 1,
-  "per_page": 368,
+  "per_page": 370,
   "has_more": false,
   "result": [
     {
@@ -1374,8 +1374,8 @@
     {
       "id": "person/bd3ce3b6-9eb9-46a1-baf2-503e6f6a4858",
       "image": "http://www.nass.gov.ng/images/mps/85.jpg",
-      "name": "AZUBAGO IFEANYI",
-      "sort_name": "AZUBAGO IFEANYI",
+      "name": "AZUBOGU IFEANYI",
+      "sort_name": "AZUBOGU IFEANYI",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/85.jpg"
@@ -2062,6 +2062,30 @@
           "role": "member",
           "on_behalf_of_id": "APC",
           "area_id": "area/ikorodu,_lagos_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2c83eb76-563a-423d-ae96-7dca8f580854",
+      "image": "http://www.nass.gov.ng/images/mps/974.jpg",
+      "name": "Bauchi Tongo",
+      "sort_name": "Bauchi Tongo",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/974.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c83eb76-563a-423d-ae96-7dca8f580854",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/gombe,kwami_&funakaye,_gombe_state",
           "legislative_period_id": "term/8"
         }
       ],
@@ -3590,8 +3614,8 @@
           "person_id": "person/b77bf509-47ad-4a86-9188-401e18312e42",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "PDP",
-          "area_id": "area/eti-osa,_lagos_state",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/ado/obadigbo/opkokwu,_benue_state",
           "legislative_period_id": "term/8"
         }
       ],
@@ -5104,6 +5128,30 @@
           "role": "member",
           "on_behalf_of_id": "APC",
           "area_id": "area/baruten/kaiama,_kwara_state",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/521e0682-42a7-4396-8d40-0c78298db21f",
+      "image": "http://www.nass.gov.ng/images/mps/304.jpg",
+      "name": "MPIGI BARINADA",
+      "sort_name": "MPIGI BARINADA",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/304.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/521e0682-42a7-4396-8d40-0c78298db21f",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "APC",
+          "area_id": "area/tai/eleme/oyigbo,_rivers_state",
           "legislative_period_id": "term/8"
         }
       ],
