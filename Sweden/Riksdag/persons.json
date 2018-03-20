@@ -1,7 +1,7 @@
 {
-  "total": 441,
+  "total": 442,
   "page": 1,
-  "per_page": 441,
+  "per_page": 442,
   "has_more": false,
   "result": [
     {
@@ -4409,6 +4409,32 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/95a1be77-65a7-48a6-be0b-c3008635ec2a",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_max.jpg",
+      "name": "Gabriel Wikström",
+      "sort_name": "Gabriel",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7790cb87-5512-4241-b614-504674174466_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/95a1be77-65a7-48a6-be0b-c3008635ec2a",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "area/västmanlands_län",
+          "start_date": "2018-03-20",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "gulan.avci@riksdagen.se",
       "gender": "female",
       "id": "person/61cf1cab-9c54-4b12-942b-e1b898f51cca",
@@ -8049,6 +8075,7 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "area/västmanlands_län",
+          "end_date": "2018-03-19",
           "legislative_period_id": "term/2014"
         }
       ],
