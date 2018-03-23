@@ -1,7 +1,7 @@
 {
-  "total": 462,
+  "total": 463,
   "page": 1,
-  "per_page": 462,
+  "per_page": 463,
   "has_more": false,
   "result": [
     {
@@ -9768,6 +9768,31 @@
           "on_behalf_of_id": "2613",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
           "start_date": "2014-12-04",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c61b3f3d-8f3c-4290-a305-6ebb6078b9c1",
+      "image": "http://static.rada.gov.ua/site/no_photo.jpg",
+      "name": "Побочіх Михайло Олександрович",
+      "sort_name": "Побочіх Михайло Олександрович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/site/no_photo.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c61b3f3d-8f3c-4290-a305-6ebb6078b9c1",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2018-03-22",
           "legislative_period_id": "term/8"
         }
       ],
