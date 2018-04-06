@@ -1,7 +1,7 @@
 {
-  "total": 129,
+  "total": 130,
   "page": 1,
-  "per_page": 129,
+  "per_page": 130,
   "has_more": false,
   "result": [
     {
@@ -519,6 +519,7 @@
     },
     {
       "email": "Artis.Gustovskis@saeima.lv",
+      "gender": "male",
       "id": "person/3110c125-3567-4f89-947a-9b5a1a00fe3b",
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/3d593007b2913715c2257d7b0032d8cf/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "name": "Artis Gustovskis",
@@ -1474,6 +1475,31 @@
       ]
     },
     {
+      "email": "Inese.Aizstrauta@saeima.lv",
+      "id": "person/1670c085-bd4c-4d68-b8ea-d236756b2aec",
+      "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/157f4baaba934552c2257d7b0032d901/Foto/0.84?OpenElement&FieldElemFormat=jpg",
+      "name": "Inese Aizstrauta",
+      "sort_name": "Inese Aizstrauta",
+      "images": [
+        {
+          "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/157f4baaba934552c2257d7b0032d901/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1670c085-bd4c-4d68-b8ea-d236756b2aec",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "start_date": "2018-03-21",
+          "legislative_period_id": "term/12"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Inese.Laizane@saeima.lv",
       "gender": "female",
       "id": "person/42b73f7c-2d3d-46ff-8853-60d3645d73d2",
@@ -2377,6 +2403,15 @@
           "organization_id": "chamber/saeima",
           "role": "member",
           "on_behalf_of_id": "union_of_greens_and_farmers",
+          "end_date": "2018-03-14",
+          "legislative_period_id": "term/12"
+        },
+        {
+          "person_id": "person/cac2e2d3-b3c1-4f66-ba97-41028f031e01",
+          "organization_id": "chamber/saeima",
+          "role": "member",
+          "on_behalf_of_id": "union_of_greens_and_farmers",
+          "start_date": "2018-03-14",
           "legislative_period_id": "term/12"
         }
       ],
