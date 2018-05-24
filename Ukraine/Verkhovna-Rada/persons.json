@@ -1,7 +1,7 @@
 {
-  "total": 463,
+  "total": 464,
   "page": 1,
-  "per_page": 463,
+  "per_page": 464,
   "has_more": false,
   "result": [
     {
@@ -4696,6 +4696,31 @@
           "role": "member",
           "on_behalf_of_id": "2612",
           "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e6ec61f0-f78d-4cb2-b001-fa880a4344ac",
+      "image": "http://static.rada.gov.ua/dep_img8/bp82.jpg",
+      "name": "Зварич Роман Михайлович",
+      "sort_name": "Зварич Роман Михайлович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp82.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e6ec61f0-f78d-4cb2-b001-fa880a4344ac",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2613",
+          "area_id": "area/Загальнодержавному_багатомандатному_округу",
+          "start_date": "2018-04-17",
           "legislative_period_id": "term/8"
         }
       ],

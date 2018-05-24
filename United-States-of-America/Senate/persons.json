@@ -1,7 +1,7 @@
 {
-  "total": 103,
+  "total": 104,
   "page": 1,
-  "per_page": 103,
+  "per_page": 104,
   "has_more": false,
   "result": [
     {
@@ -529,6 +529,32 @@
           "area_id": "ocd-division/country:us/state:ia",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/f76146ad-b016-429a-bc24-129a7ddc9550",
+      "image": "https://theunitedstates.io/images/congress/original/H001079.jpg",
+      "name": "Cindy Hyde-Smith",
+      "sort_name": "Hyde-Smith, Cindy",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/H001079.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f76146ad-b016-429a-bc24-129a7ddc9550",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:ms",
+          "start_date": "2018-04-09",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
