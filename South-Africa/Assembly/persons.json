@@ -2476,7 +2476,7 @@
     },
     {
       "email": "mathebedudu@gmail.com",
-      "gender": "female",
+      "gender": "male",
       "id": "person/13a7050c-a1f6-4f8a-bb11-046ef80eea77",
       "image": "https://www.pa.org.za/media_root/cache/1f/bc/1fbc04fa90de0c75f164686c910c7f07.jpg",
       "name": "Dudu Hellen Mathebe",
@@ -6968,6 +6968,12 @@
       "image": "https://www.pa.org.za/media_root/cache/69/c9/69c963d907e17769a8bdd531a0390a62.jpg",
       "name": "Mmusi Aloysias Maimane",
       "sort_name": "Mmusi Aloysias Maimane",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mmusimaimane"
+        }
+      ],
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/69/c9/69c963d907e17769a8bdd531a0390a62.jpg"
@@ -6982,9 +6988,6 @@
           "area_id": "Q133083",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -9059,8 +9062,14 @@
     {
       "gender": "male",
       "id": "person/ba4801f4-cdc1-4b4c-a215-f9a3785d0fdd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pule_Mabe.jpg",
       "name": "Puleng Peter Mabe",
       "sort_name": "Puleng Peter Mabe",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pule_Mabe.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ba4801f4-cdc1-4b4c-a215-f9a3785d0fdd",
@@ -10472,6 +10481,7 @@
     },
     {
       "email": "tmpanza@parliament.gov.za",
+      "gender": "male",
       "id": "person/be86df14-e4f8-4e43-9432-84686fc8e0c4",
       "image": "https://www.pa.org.za/media_root/cache/a9/e7/a9e72c86b60bc4723d89795b562c486a.jpg",
       "name": "Terence Skhumbuzo Mpanza",
@@ -10565,6 +10575,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0f50d66b-a3df-41dd-a6d8-905fbd746fdb",
       "name": "Thabo Moses Manyoni",
       "sort_name": "Thabo Moses Manyoni",
@@ -10663,7 +10674,7 @@
     },
     {
       "email": "tchiloane@parliament.gov.za",
-      "gender": "female",
+      "gender": "male",
       "id": "person/0c6f4ca9-f77a-493a-b495-69c72ff54a34",
       "image": "https://www.pa.org.za/media_root/cache/8c/e2/8ce29da3575e46d3d76795014c0923d6.jpg",
       "name": "Thapelo Dorothy Chiloane",
