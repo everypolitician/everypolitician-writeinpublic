@@ -1,7 +1,7 @@
 {
-  "total": 106,
+  "total": 108,
   "page": 1,
-  "per_page": 106,
+  "per_page": 108,
   "has_more": false,
   "result": [
     {
@@ -576,6 +576,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d474eba0-2504-4108-b491-6372abf850bb",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_ipumbu.jpg",
       "name": "Iipumbu, Lucia Magano",
@@ -1333,6 +1334,29 @@
       ]
     },
     {
+      "id": "person/95465d71-b7f8-4fdf-a6a9-aba96461d1c5",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG",
+      "name": "Martin Andjaba",
+      "sort_name": "Martin Andjaba",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/95465d71-b7f8-4fdf-a6a9-aba96461d1c5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "_unknown",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "a.mbai@parliament.na",
       "gender": "male",
       "id": "person/51022884-3f73-4a5c-906c-2c471fc8d6f0",
@@ -1844,6 +1868,29 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "SWAPO",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e7fff4ed-f203-4883-82ed-889df6266e50",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg",
+      "name": "Paula Kooper",
+      "sort_name": "Paula Kooper",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e7fff4ed-f203-4883-82ed-889df6266e50",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "_unknown",
           "legislative_period_id": "term/6"
         }
       ],
