@@ -1,7 +1,7 @@
 {
-  "total": 217,
+  "total": 221,
   "page": 1,
-  "per_page": 217,
+  "per_page": 221,
   "has_more": false,
   "result": [
     {
@@ -51,6 +51,26 @@
           "on_behalf_of_id": "4",
           "area_id": "BE",
           "start_date": "2017-11-17",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/7c3200d8-f279-4137-8719-5009ba9eb82b",
+      "name": "Adrian Wüthrich",
+      "sort_name": "Wüthrich, Adrian",
+      "memberships": [
+        {
+          "person_id": "person/7c3200d8-f279-4137-8719-5009ba9eb82b",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "BE",
+          "start_date": "2018-05-29",
           "legislative_period_id": "term/50"
         }
       ],
@@ -151,6 +171,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "BE",
+          "end_date": "2018-05-04",
           "legislative_period_id": "term/50"
         }
       ],
@@ -207,6 +228,35 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/ac413bfb-d119-4ed2-9ab4-ba61767c1f12",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Aline_Trede.jpg",
+      "name": "Aline Trede",
+      "sort_name": "Trede, Aline",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "alinetrede"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Aline_Trede.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ac413bfb-d119-4ed2-9ab4-ba61767c1f12",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "6",
+          "area_id": "BE",
+          "start_date": "2018-05-29",
+          "legislative_period_id": "term/50"
+        }
       ]
     },
     {
@@ -456,6 +506,7 @@
           "role": "member",
           "on_behalf_of_id": "3",
           "area_id": "ZH",
+          "end_date": "2018-06-07",
           "legislative_period_id": "term/50"
         }
       ]
@@ -1017,6 +1068,7 @@
           "role": "member",
           "on_behalf_of_id": "6",
           "area_id": "BE",
+          "end_date": "2018-05-28",
           "legislative_period_id": "term/50"
         }
       ],
@@ -1616,6 +1668,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "BE",
+          "end_date": "2018-05-28",
           "legislative_period_id": "term/50"
         }
       ]
@@ -1623,8 +1676,14 @@
     {
       "gender": "male",
       "id": "person/cb57506e-07cb-47a6-9298-b903405408b3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fabian_Molina_(Politiker).jpg",
       "name": "Fabian Molina",
       "sort_name": "Molina, Fabian",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fabian_Molina_(Politiker).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/cb57506e-07cb-47a6-9298-b903405408b3",
@@ -1711,6 +1770,26 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "LU",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/ec9a5ba6-a1dc-4417-971a-aacfa1e83150",
+      "name": "Flavia Wasserfallen",
+      "sort_name": "Wasserfallen, Flavia",
+      "memberships": [
+        {
+          "person_id": "person/ec9a5ba6-a1dc-4417-971a-aacfa1e83150",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "BE",
+          "start_date": "2018-05-29",
           "legislative_period_id": "term/50"
         }
       ],
@@ -3648,6 +3727,12 @@
       "id": "person/7a118be6-6d34-4d10-b121-7a262c2bdf42",
       "name": "Michael Töngi",
       "sort_name": "Töngi, Michael",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mtoengi"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7a118be6-6d34-4d10-b121-7a262c2bdf42",
@@ -3658,9 +3743,6 @@
           "start_date": "2018-03-12",
           "legislative_period_id": "term/50"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3954,6 +4036,26 @@
           "area_id": "SO",
           "legislative_period_id": "term/50"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/48d3f050-4f71-48b8-b1e1-513ff972395f",
+      "name": "Philipp Kutter",
+      "sort_name": "Kutter, Philipp",
+      "memberships": [
+        {
+          "person_id": "person/48d3f050-4f71-48b8-b1e1-513ff972395f",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "3",
+          "area_id": "ZH",
+          "start_date": "2018-06-11",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4270,8 +4372,14 @@
     {
       "gender": "male",
       "id": "person/be0b109b-0caa-437c-ada7-6522ef3b3fc9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rocco_Cattaneo.jpg",
       "name": "Rocco Cattaneo",
       "sort_name": "Cattaneo, Rocco",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rocco_Cattaneo.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/be0b109b-0caa-437c-ada7-6522ef3b3fc9",
