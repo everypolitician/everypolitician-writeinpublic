@@ -1,7 +1,7 @@
 {
-  "total": 20,
+  "total": 19,
   "page": 1,
-  "per_page": 20,
+  "per_page": 19,
   "has_more": false,
   "result": [
     {
@@ -172,8 +172,8 @@
     {
       "gender": "female",
       "id": "person/1b493731-f45d-4b7a-83d4-8eacebba2e9a",
-      "name": "O'love Jacobsen",
-      "sort_name": "O'love Jacobsen",
+      "name": "O'Love Jacobsen",
+      "sort_name": "O'Love Jacobsen",
       "memberships": [
         {
           "person_id": "person/1b493731-f45d-4b7a-83d4-8eacebba2e9a",
@@ -286,25 +286,6 @@
       "memberships": [
         {
           "person_id": "person/50df47f9-e1e8-4654-a5e0-36a8f7e3b581",
-          "organization_id": "chamber/assembly",
-          "role": "member",
-          "on_behalf_of_id": "independent",
-          "area_id": "area/common_roll",
-          "legislative_period_id": "term/16"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/80aa531f-d157-4cbf-b5d4-4b91a99054ca",
-      "name": "Terry Donald Coe",
-      "sort_name": "Terry Donald Coe",
-      "memberships": [
-        {
-          "person_id": "person/80aa531f-d157-4cbf-b5d4-4b91a99054ca",
           "organization_id": "chamber/assembly",
           "role": "member",
           "on_behalf_of_id": "independent",
