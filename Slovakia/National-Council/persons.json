@@ -1,7 +1,7 @@
 {
-  "total": 157,
+  "total": 162,
   "page": 1,
-  "per_page": 157,
+  "per_page": 162,
   "has_more": false,
   "result": [
     {
@@ -1774,6 +1774,31 @@
       ]
     },
     {
+      "email": "ladislav_balodi@nrsr.sk",
+      "id": "person/fba2c37b-326f-4a46-886d-88e87ee267f9",
+      "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=987&ImageWidth=140",
+      "name": "Ladislav Balódi",
+      "sort_name": "Ladislav Balódi",
+      "images": [
+        {
+          "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=987&ImageWidth=140"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fba2c37b-326f-4a46-886d-88e87ee267f9",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "most-hÍd",
+          "area_id": "area/trnavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "ladislav_kamenicky@nrsr.sk",
       "gender": "male",
       "id": "person/b74ffac1-40cd-46b6-ac1f-790718ab0c4f",
@@ -1826,6 +1851,32 @@
       ]
     },
     {
+      "email": "lucia_zitnanska@nrsr.sk",
+      "gender": "female",
+      "id": "person/82b09d51-9eed-42ef-86e1-522509ce4ee4",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a6bb273a394ad5dbad54/image.jpeg",
+      "name": "Lucia Žitňanská",
+      "sort_name": "Žitňanská, Lucia",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a6bb273a394ad5dbad54/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/82b09d51-9eed-42ef-86e1-522509ce4ee4",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "most-hÍd",
+          "area_id": "area/bratislavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "magdalena_kucianova@nrsr.sk",
       "id": "person/97969990-0826-4210-b04b-90a563cfa359",
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=935&ImageWidth=140",
@@ -1868,6 +1919,38 @@
           "organization_id": "chamber/national_council",
           "role": "member",
           "on_behalf_of_id": "obyČajnÍ_Ľudia_a_nezávislé_osobnosti_(oĽano-nova)",
+          "area_id": "area/bratislavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "marek_madaric@nrsr.sk",
+      "gender": "male",
+      "id": "person/61b1a868-9717-4a23-a2d2-20835523172e",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a67e273a394ad5dbacfe/image.jpeg",
+      "name": "Marek Maďarič",
+      "sort_name": "Maďarič, Marek",
+      "links": [
+        {
+          "url": "madaricmarek",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a67e273a394ad5dbacfe/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/61b1a868-9717-4a23-a2d2-20835523172e",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "smer_–_sociálna_demokracia",
           "area_id": "area/bratislavský",
           "legislative_period_id": "term/7"
         }
@@ -3231,6 +3314,64 @@
           "role": "member",
           "on_behalf_of_id": "obyČajnÍ_Ľudia_a_nezávislé_osobnosti_(oĽano-nova)",
           "area_id": "area/Žilinský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "robert_fico@nrsr.sk",
+      "gender": "male",
+      "id": "person/d988146e-cdca-4afe-ba18-0d465207140f",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a443273a394ad5db92ff/image.jpeg",
+      "name": "Robert Fico",
+      "sort_name": "Fico, Robert",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a443273a394ad5db92ff/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d988146e-cdca-4afe-ba18-0d465207140f",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "smer_–_sociálna_demokracia",
+          "area_id": "area/bratislavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "robert_kalinak@nrsr.sk",
+      "gender": "male",
+      "id": "person/e4318d8e-8cee-4553-99e0-0f5152b44bb0",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a596273a394ad5dba08a/image.jpeg",
+      "name": "Robert Kaliňák",
+      "sort_name": "Kaliňák, Robert",
+      "links": [
+        {
+          "url": "rkalinak",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a596273a394ad5dba08a/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e4318d8e-8cee-4553-99e0-0f5152b44bb0",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "smer_–_sociálna_demokracia",
+          "area_id": "area/bratislavský",
           "legislative_period_id": "term/7"
         }
       ],
