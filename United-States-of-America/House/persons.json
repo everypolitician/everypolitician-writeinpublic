@@ -1,7 +1,7 @@
 {
-  "total": 447,
+  "total": 449,
   "page": 1,
-  "per_page": 447,
+  "per_page": 449,
   "has_more": false,
   "result": [
     {
@@ -1422,6 +1422,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:tx/cd:27",
+          "end_date": "2018-04-06",
           "legislative_period_id": "term/115"
         }
       ]
@@ -2272,6 +2273,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:pa/cd:15",
+          "end_date": "2018-05-12",
           "legislative_period_id": "term/115"
         }
       ]
@@ -2600,6 +2602,32 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mn/cd:7",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ba618132-47a1-4c87-818f-78f62fdbb57c",
+      "image": "https://theunitedstates.io/images/congress/original/L000588.jpg",
+      "name": "Conor Lamb",
+      "sort_name": "Lamb, Conor",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/L000588.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ba618132-47a1-4c87-818f-78f62fdbb57c",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:pa/cd:18",
+          "start_date": "2018-04-12",
           "legislative_period_id": "term/115"
         }
       ],
@@ -3489,6 +3517,32 @@
           "area_id": "ocd-division/country:us/state:mi/cd:12",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6e265af7-1c0e-4298-8d89-222221c1d9b4",
+      "image": "https://theunitedstates.io/images/congress/original/L000589.jpg",
+      "name": "Debbie Lesko",
+      "sort_name": "Lesko, Debbie",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/L000589.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6e265af7-1c0e-4298-8d89-222221c1d9b4",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:az/cd:8",
+          "start_date": "2018-05-07",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -6658,6 +6712,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ok/cd:1",
+          "end_date": "2018-04-23",
           "legislative_period_id": "term/115"
         }
       ]
@@ -7176,32 +7231,6 @@
     },
     {
       "gender": "male",
-      "id": "person/ebea0b7d-8d91-4c26-86a0-ea74f012f629",
-      "image": "https://theunitedstates.io/images/congress/original/C001114.jpg",
-      "name": "John Curtis",
-      "sort_name": "Curtis, John",
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/C001114.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ebea0b7d-8d91-4c26-86a0-ea74f012f629",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:ut/cd:3",
-          "start_date": "2017-11-13",
-          "legislative_period_id": "term/115"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/d878b8a4-f868-4c88-b69d-eb58e361a90e",
       "image": "https://theunitedstates.io/images/congress/original/G000559.jpg",
       "name": "John Garamendi",
@@ -7504,6 +7533,32 @@
           "area_id": "ocd-division/country:us/state:tx/cd:31",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ebea0b7d-8d91-4c26-86a0-ea74f012f629",
+      "image": "https://theunitedstates.io/images/congress/original/C001114.jpg",
+      "name": "John R. Curtis",
+      "sort_name": "Curtis, John",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/C001114.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ebea0b7d-8d91-4c26-86a0-ea74f012f629",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:ut/cd:3",
+          "start_date": "2017-11-13",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -8991,6 +9046,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ny/cd:25",
+          "end_date": "2018-03-16",
           "legislative_period_id": "term/115"
         }
       ]
@@ -10827,6 +10883,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:pa/cd:7",
+          "end_date": "2018-04-27",
           "legislative_period_id": "term/115"
         }
       ]

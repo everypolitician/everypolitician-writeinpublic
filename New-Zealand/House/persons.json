@@ -3459,10 +3459,17 @@
     },
     {
       "email": "shane.jones@parliament.govt.nz",
+      "gender": "male",
       "id": "person/69cb44a5-0dc2-4d6c-bec8-256520f94156",
       "image": "https://www.parliament.nz/media/3811/jones-shane.DmxNWg.jpg",
       "name": "Shane Jones",
       "sort_name": "Jones, Shane",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mangonui08"
+        }
+      ],
       "images": [
         {
           "url": "https://www.parliament.nz/media/3811/jones-shane.DmxNWg.jpg"
@@ -3477,9 +3484,6 @@
           "area_id": "area/list",
           "legislative_period_id": "term/52"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
