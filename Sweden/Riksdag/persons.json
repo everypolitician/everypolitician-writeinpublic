@@ -1,7 +1,7 @@
 {
-  "total": 445,
+  "total": 446,
   "page": 1,
-  "per_page": 445,
+  "per_page": 446,
   "has_more": false,
   "result": [
     {
@@ -3596,6 +3596,7 @@
           "role": "member",
           "on_behalf_of_id": "V",
           "area_id": "uppsala_län",
+          "end_date": "2018-06-07",
           "legislative_period_id": "term/2014"
         }
       ]
@@ -5007,6 +5008,15 @@
           "area_id": "norrbottens_län",
           "start_date": "2018-06-04",
           "legislative_period_id": "term/2014"
+        },
+        {
+          "person_id": "person/d1690525-8533-48d2-87fa-2ab8a9f327d4",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "norrbottens_län",
+          "start_date": "2018-06-15",
+          "legislative_period_id": "term/2014"
         }
       ]
     },
@@ -6225,6 +6235,32 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "västernorrlands_län",
+          "legislative_period_id": "term/2014"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/fa327012-2c7a-40e7-9164-76d9e1c91236",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e51b1ecf-b62b-4ecf-93f6-94b550b1f62c_max.jpg",
+      "name": "Jeannette Escanilla",
+      "sort_name": "Jeannette",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e51b1ecf-b62b-4ecf-93f6-94b550b1f62c_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fa327012-2c7a-40e7-9164-76d9e1c91236",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "V",
+          "area_id": "uppsala_län",
+          "start_date": "2018-06-07",
           "legislative_period_id": "term/2014"
         }
       ],
@@ -8763,7 +8799,7 @@
           "on_behalf_of_id": "S",
           "area_id": "norrbottens_län",
           "start_date": "2018-04-16",
-          "end_date": "2018-06-03",
+          "end_date": "2018-06-14",
           "legislative_period_id": "term/2014"
         }
       ]
