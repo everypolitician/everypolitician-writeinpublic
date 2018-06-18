@@ -1,7 +1,7 @@
 {
-  "total": 61,
+  "total": 62,
   "page": 1,
-  "per_page": 61,
+  "per_page": 62,
   "has_more": false,
   "result": [
     {
@@ -700,6 +700,36 @@
           "role": "member",
           "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
           "area_id": "3b73dd22-6bee-4ce1-be54-a74ff532e502",
+          "legislative_period_id": "term/5"
+        }
+      ]
+    },
+    {
+      "email": "Jack.Sargeant@assembly.wales",
+      "gender": "male",
+      "id": "person/d102ca51-5d5a-47dd-b12f-9c2a3005076e",
+      "image": "http://senedd.assembly.wales/UserData/1/7/5/Info00006571/bigpic.jpg",
+      "name": "Jack Sargeant",
+      "sort_name": "Jack Sargeant",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JackSargeantAM"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/1/7/5/Info00006571/bigpic.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d102ca51-5d5a-47dd-b12f-9c2a3005076e",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
+          "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
+          "start_date": "2018-02-07",
           "legislative_period_id": "term/5"
         }
       ]
