@@ -177,7 +177,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "BethanJenkins"
+          "value": "bethanjenkins"
         }
       ],
       "links": [
@@ -227,6 +227,17 @@
           "role": "member",
           "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
           "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
+          "end_date": "2017-11-03",
+          "legislative_period_id": "term/5"
+        },
+        {
+          "person_id": "person/68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
+          "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
+          "start_date": "2017-11-03",
+          "end_date": "2017-11-07",
           "legislative_period_id": "term/5"
         }
       ]
@@ -318,45 +329,18 @@
           "person_id": "person/1ee666d1-225f-4561-92da-cfcb94b91a6d",
           "organization_id": "chamber/national_assembly_for_wales",
           "role": "member",
-          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
+          "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
           "area_id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
+          "end_date": "2016-10-14",
           "legislative_period_id": "term/5"
         },
         {
           "person_id": "person/1ee666d1-225f-4561-92da-cfcb94b91a6d",
           "organization_id": "chamber/national_assembly_for_wales",
           "role": "member",
-          "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
           "area_id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
-          "legislative_period_id": "term/5"
-        }
-      ]
-    },
-    {
-      "email": "Dai.Lloyd@assembly.wales",
-      "gender": "male",
-      "id": "person/fd4c0700-b9fe-4b1e-91a7-46b67fe3b9df",
-      "image": "http://senedd.assembly.wales/UserData/7/6/1/Info00000167/bigpic.jpg",
-      "name": "Dai Lloyd",
-      "sort_name": "Dai Lloyd",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "DaiLloydSwansea"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://senedd.assembly.wales/UserData/7/6/1/Info00000167/bigpic.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fd4c0700-b9fe-4b1e-91a7-46b67fe3b9df",
-          "organization_id": "chamber/national_assembly_for_wales",
-          "role": "member",
-          "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
-          "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
+          "start_date": "2016-10-14",
           "legislative_period_id": "term/5"
         }
       ]
@@ -397,30 +381,30 @@
       ]
     },
     {
-      "email": "DavidJ.Rowlands@assembly.wales",
+      "email": "Dai.Lloyd@assembly.wales",
       "gender": "male",
-      "id": "person/552d802e-50c1-4bb1-8367-c4064d0210a4",
-      "image": "http://senedd.assembly.wales/UserData/3/9/3/Info00000393/bigpic.jpg",
-      "name": "David J Rowlands",
-      "sort_name": "David J Rowlands",
+      "id": "person/fd4c0700-b9fe-4b1e-91a7-46b67fe3b9df",
+      "image": "http://senedd.assembly.wales/UserData/7/6/1/Info00000167/bigpic.jpg",
+      "name": "David Lloyd",
+      "sort_name": "David Lloyd",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "AMDJRowlands"
+          "value": "DaiLloydSwansea"
         }
       ],
       "images": [
         {
-          "url": "http://senedd.assembly.wales/UserData/3/9/3/Info00000393/bigpic.jpg"
+          "url": "http://senedd.assembly.wales/UserData/7/6/1/Info00000167/bigpic.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/552d802e-50c1-4bb1-8367-c4064d0210a4",
+          "person_id": "person/fd4c0700-b9fe-4b1e-91a7-46b67fe3b9df",
           "organization_id": "chamber/national_assembly_for_wales",
           "role": "member",
-          "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
-          "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+          "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+          "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
           "legislative_period_id": "term/5"
         }
       ]
@@ -485,6 +469,35 @@
           "role": "member",
           "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
           "area_id": "5ec963f4-4e5f-479e-a1c7-2ba955a5dc1f",
+          "legislative_period_id": "term/5"
+        }
+      ]
+    },
+    {
+      "email": "DavidJ.Rowlands@assembly.wales",
+      "gender": "male",
+      "id": "person/552d802e-50c1-4bb1-8367-c4064d0210a4",
+      "image": "http://senedd.assembly.wales/UserData/3/9/3/Info00000393/bigpic.jpg",
+      "name": "David Rowlands",
+      "sort_name": "David Rowlands",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AMDJRowlands"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/3/9/3/Info00000393/bigpic.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/552d802e-50c1-4bb1-8367-c4064d0210a4",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
+          "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
           "legislative_period_id": "term/5"
         }
       ]
@@ -558,8 +571,8 @@
       "gender": "female",
       "id": "person/704a4db1-134c-4aa1-aab4-6b54338b5d66",
       "image": "http://senedd.assembly.wales/UserData/0/7/9/Info00004970/bigpic.jpg",
-      "name": "Eluned Morgan",
-      "sort_name": "Eluned Morgan",
+      "name": "Eluned Morgan, Baroness Morgan of Ely",
+      "sort_name": "Eluned Morgan, Baroness Morgan of Ely",
       "contact_details": [
         {
           "type": "twitter",
@@ -930,7 +943,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "JoyceWatsonAM"
+          "value": "JoyceWatsonam"
         }
       ],
       "links": [
@@ -1169,7 +1182,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "Lesley4Wrexham"
+          "value": "lesley4wrexham"
         }
       ],
       "links": [
@@ -1375,8 +1388,9 @@
           "person_id": "person/1bf1a090-aa1f-4779-a667-d95b4981fc2d",
           "organization_id": "chamber/national_assembly_for_wales",
           "role": "member",
-          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
+          "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
           "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+          "end_date": "2017-04-06",
           "legislative_period_id": "term/5"
         },
         {
@@ -1385,14 +1399,7 @@
           "role": "member",
           "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
           "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
-          "legislative_period_id": "term/5"
-        },
-        {
-          "person_id": "person/1bf1a090-aa1f-4779-a667-d95b4981fc2d",
-          "organization_id": "chamber/national_assembly_for_wales",
-          "role": "member",
-          "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
-          "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+          "start_date": "2017-04-06",
           "legislative_period_id": "term/5"
         }
       ]
@@ -1554,16 +1561,19 @@
           "person_id": "person/451236de-0f5e-448b-a11c-7923bd704fb8",
           "organization_id": "chamber/national_assembly_for_wales",
           "role": "member",
-          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
+          "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
           "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
+          "end_date": "2016-08-17",
           "legislative_period_id": "term/5"
         },
         {
           "person_id": "person/451236de-0f5e-448b-a11c-7923bd704fb8",
           "organization_id": "chamber/national_assembly_for_wales",
           "role": "member",
-          "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
+          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
           "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
+          "start_date": "2016-08-17",
+          "end_date": "2017-12-27",
           "legislative_period_id": "term/5"
         }
       ]
@@ -1622,6 +1632,7 @@
           "role": "member",
           "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
           "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
+          "end_date": "2018-01-16",
           "legislative_period_id": "term/5"
         }
       ]
@@ -1816,6 +1827,41 @@
       ]
     },
     {
+      "email": "Sian.Gwenllian@assembly.wales",
+      "gender": "female",
+      "id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
+      "image": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg",
+      "name": "Sian Gwenllian",
+      "sort_name": "Sian Gwenllian",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "siangwenfelin"
+        }
+      ],
+      "links": [
+        {
+          "url": "SianGwenllianACAM",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+          "area_id": "9efca15d-9005-479b-9169-52effc167ed6",
+          "legislative_period_id": "term/5"
+        }
+      ]
+    },
+    {
       "email": "Simon.Thomas@assembly.wales",
       "gender": "male",
       "id": "person/c5f3e87c-b887-4915-866f-9766395faeb2",
@@ -1846,41 +1892,6 @@
           "role": "member",
           "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
           "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
-          "legislative_period_id": "term/5"
-        }
-      ]
-    },
-    {
-      "email": "Sian.Gwenllian@assembly.wales",
-      "gender": "female",
-      "id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
-      "image": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg",
-      "name": "Siân Gwenllian",
-      "sort_name": "Siân Gwenllian",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "siangwenfelin"
-        }
-      ],
-      "links": [
-        {
-          "url": "SianGwenllianACAM",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://senedd.assembly.wales/UserData/1/8/9/Info00004981/bigpic.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/aa8593bb-b92c-44ab-9c01-3cf894c00624",
-          "organization_id": "chamber/national_assembly_for_wales",
-          "role": "member",
-          "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
-          "area_id": "9efca15d-9005-479b-9169-52effc167ed6",
           "legislative_period_id": "term/5"
         }
       ]
