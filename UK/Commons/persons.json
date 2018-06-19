@@ -1,7 +1,7 @@
 {
-  "total": 650,
+  "total": 651,
   "page": 1,
-  "per_page": 650,
+  "per_page": 651,
   "has_more": false,
   "result": [
     {
@@ -2037,6 +2037,7 @@
           "role": "member",
           "on_behalf_of_id": "sinn-fein",
           "area_id": "uk.org.publicwhip/cons/629",
+          "end_date": "2018-01-16",
           "legislative_period_id": "term/57"
         }
       ]
@@ -7859,6 +7860,7 @@
           "role": "member",
           "on_behalf_of_id": "labour",
           "area_id": "uk.org.publicwhip/cons/338",
+          "end_date": "2018-05-09",
           "legislative_period_id": "term/57"
         }
       ]
@@ -9238,6 +9240,16 @@
           "role": "member",
           "on_behalf_of_id": "labour",
           "area_id": "uk.org.publicwhip/cons/503",
+          "end_date": "2017-10-25",
+          "legislative_period_id": "term/57"
+        },
+        {
+          "person_id": "person/7ccf6c56-54bb-43fc-9857-208b0c05fdf3",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "uk.org.publicwhip/cons/503",
+          "start_date": "2017-10-26",
           "legislative_period_id": "term/57"
         }
       ],
@@ -21642,6 +21654,25 @@
           "area_id": "uk.org.publicwhip/cons/476",
           "legislative_period_id": "term/57"
         }
+      ]
+    },
+    {
+      "id": "person/63a97c77-478e-4181-9f44-cb8cea88bae5",
+      "name": "Órfhlaith Begley",
+      "sort_name": "Órfhlaith Begley",
+      "memberships": [
+        {
+          "person_id": "person/63a97c77-478e-4181-9f44-cb8cea88bae5",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "sinn-fein",
+          "area_id": "uk.org.publicwhip/cons/629",
+          "start_date": "2018-05-04",
+          "legislative_period_id": "term/57"
+        }
+      ],
+      "contact_details": [
+
       ]
     }
   ]
