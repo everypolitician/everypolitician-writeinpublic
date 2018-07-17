@@ -2051,8 +2051,14 @@
     {
       "gender": "male",
       "id": "person/199ac894-02ed-40f1-9f61-598d690f1ba5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lee_Boon_Chye_(cropped).JPG",
       "name": "Lee Boon Chye",
       "sort_name": "Lee Boon Chye",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lee_Boon_Chye_(cropped).JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/199ac894-02ed-40f1-9f61-598d690f1ba5",
@@ -4504,6 +4510,12 @@
       "id": "person/da9ab52d-9267-4a05-8281-caf4b65c0d90",
       "name": "William Leong Jee Keen",
       "sort_name": "William Leong Jee Keen",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LeongJeeKeen"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/da9ab52d-9267-4a05-8281-caf4b65c0d90",
@@ -4513,9 +4525,6 @@
           "area_id": "P097-13",
           "legislative_period_id": "term/13"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
