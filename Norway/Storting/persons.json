@@ -4075,11 +4075,24 @@
       ]
     },
     {
+      "email": "une.bastholm@mdg.no",
       "gender": "female",
       "id": "person/697d96e4-8a90-417f-9cee-f7d18438197e",
       "image": "http://data.stortinget.no/eksport/personbilde?personid=UAB&storrelse=middels",
       "name": "Une Bastholm",
       "sort_name": "Bastholm, Une",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "uneaba"
+        }
+      ],
+      "links": [
+        {
+          "url": "UneBastholm",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=UAB&storrelse=middels"
@@ -4094,9 +4107,6 @@
           "area_id": "Os",
           "legislative_period_id": "term/2017-2021"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
