@@ -2044,6 +2044,34 @@
     },
     {
       "gender": "male",
+      "id": "person/681ffa0c-b4f9-493d-8ba4-a790e3b87874",
+      "image": "https://www.kildarestreet.com/images/mpsL/188.jpg",
+      "name": "John J. McGuinness",
+      "sort_name": "McGuinness, John",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JMcGuinnessTD"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.kildarestreet.com/images/mpsL/188.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/681ffa0c-b4f9-493d-8ba4-a790e3b87874",
+          "organization_id": "chamber/dáil_Éireann",
+          "role": "member",
+          "on_behalf_of_id": "86154b17-ef51-4209-8b61-55b1a351ed37",
+          "area_id": "5186d1cc-1d0f-4c95-9b34-f9ed17b29f0c",
+          "legislative_period_id": "term/32"
+        }
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/3fbcc416-540d-40b4-a4f9-8a193cfdaa3c",
       "image": "https://www.kildarestreet.com/images/mpsL/434.jpg",
       "name": "John Lahart",
@@ -2066,34 +2094,6 @@
           "role": "member",
           "on_behalf_of_id": "86154b17-ef51-4209-8b61-55b1a351ed37",
           "area_id": "8fdf5edf-62b6-4ac0-a185-6e47ae3239bc",
-          "legislative_period_id": "term/32"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/681ffa0c-b4f9-493d-8ba4-a790e3b87874",
-      "image": "https://www.kildarestreet.com/images/mpsL/188.jpg",
-      "name": "John McGuinness",
-      "sort_name": "McGuinness, John",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "JMcGuinnessTD"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.kildarestreet.com/images/mpsL/188.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/681ffa0c-b4f9-493d-8ba4-a790e3b87874",
-          "organization_id": "chamber/dáil_Éireann",
-          "role": "member",
-          "on_behalf_of_id": "86154b17-ef51-4209-8b61-55b1a351ed37",
-          "area_id": "5186d1cc-1d0f-4c95-9b34-f9ed17b29f0c",
           "legislative_period_id": "term/32"
         }
       ]
@@ -3819,7 +3819,7 @@
           "person_id": "person/b49a8e5e-719e-4c74-9ea4-ad6464a51987",
           "organization_id": "chamber/dáil_Éireann",
           "role": "member",
-          "on_behalf_of_id": "6dd1aed4-43e1-4294-b0b1-525aafca8def",
+          "on_behalf_of_id": "0013f436-01d9-4bb8-876d-4d093b93cfbb",
           "area_id": "f2593658-6416-41fb-a5ea-7e97a82d647e",
           "legislative_period_id": "term/32"
         }
@@ -4018,7 +4018,7 @@
           "person_id": "person/19e6f912-0a26-401b-9928-1f3fb992641d",
           "organization_id": "chamber/dáil_Éireann",
           "role": "member",
-          "on_behalf_of_id": "0013f436-01d9-4bb8-876d-4d093b93cfbb",
+          "on_behalf_of_id": "86154b17-ef51-4209-8b61-55b1a351ed37",
           "area_id": "ec6ad2b0-9971-4053-8dca-ecdddedf8bd4",
           "legislative_period_id": "term/32"
         }
