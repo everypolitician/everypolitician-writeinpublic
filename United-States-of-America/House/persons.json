@@ -1,7 +1,7 @@
 {
-  "total": 449,
+  "total": 450,
   "page": 1,
-  "per_page": 449,
+  "per_page": 450,
   "has_more": false,
   "result": [
     {
@@ -9930,6 +9930,32 @@
           "area_id": "ocd-division/country:us/state:tx/cd:26",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ead2052c-fbd9-439b-9c01-80a2f8fcc1c8",
+      "image": "https://theunitedstates.io/images/congress/original/C001115.jpg",
+      "name": "Michael Cloud",
+      "sort_name": "Cloud, Michael",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/C001115.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ead2052c-fbd9-439b-9c01-80a2f8fcc1c8",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:tx/cd:27",
+          "start_date": "2018-07-10",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
