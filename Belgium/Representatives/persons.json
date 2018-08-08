@@ -1,7 +1,7 @@
 {
-  "total": 174,
+  "total": 175,
   "page": 1,
-  "per_page": 174,
+  "per_page": 175,
   "has_more": false,
   "result": [
     {
@@ -1148,7 +1148,7 @@
           "role": "member",
           "on_behalf_of_id": "2212f944-30f6-47ec-a169-32002c4d3a83",
           "area_id": "1241ba6f-fd42-46c7-accf-e5d48fd8a367",
-          "start_date": "2014-10-14",
+          "end_date": "2014-10-14",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1201,58 +1201,6 @@
           "role": "member",
           "on_behalf_of_id": "db25a523-ad1d-423a-83a2-c56309215df0",
           "area_id": "ff83572d-6b06-4363-a6c5-e2202b37fe72",
-          "legislative_period_id": "term/54"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "eric.massin@lachambre.be",
-      "gender": "male",
-      "id": "person/d5fbbf2f-5284-4879-ac8d-aeb8050ea7e8",
-      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01050.gif",
-      "name": "Eric Massin",
-      "sort_name": "Massin Eric",
-      "images": [
-        {
-          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01050.gif"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d5fbbf2f-5284-4879-ac8d-aeb8050ea7e8",
-          "organization_id": "chamber/chamber_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
-          "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
-          "legislative_period_id": "term/54"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "eric.thiebaut@lachambre.be",
-      "gender": "male",
-      "id": "person/a53b8ae3-4af1-4564-82e8-8d60f2899b41",
-      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01222.gif",
-      "name": "Eric Thiébaut",
-      "sort_name": "Thiébaut Eric",
-      "images": [
-        {
-          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01222.gif"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a53b8ae3-4af1-4564-82e8-8d60f2899b41",
-          "organization_id": "chamber/chamber_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
-          "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1441,8 +1389,16 @@
           "role": "member",
           "on_behalf_of_id": "4cec1dec-a4a5-42d6-a070-622c6e835670",
           "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
-          "start_date": "2014-07-30",
-          "end_date": "2016-04-29",
+          "end_date": "2014-05-25",
+          "legislative_period_id": "term/54"
+        },
+        {
+          "person_id": "person/e7222e1b-2921-43c2-895b-ed069d22ec12",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "4cec1dec-a4a5-42d6-a070-622c6e835670",
+          "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
+          "start_date": "2014-07-25",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1556,7 +1512,7 @@
           "role": "member",
           "on_behalf_of_id": "db25a523-ad1d-423a-83a2-c56309215df0",
           "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
-          "start_date": "2015-09-22",
+          "start_date": "2015-10-13",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1909,7 +1865,7 @@
           "role": "member",
           "on_behalf_of_id": "db25a523-ad1d-423a-83a2-c56309215df0",
           "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
-          "start_date": "2017-08-24",
+          "start_date": "2017-07-28",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2250,7 +2206,7 @@
       "gender": "female",
       "id": "person/05e986ef-206f-48ac-baa8-d1b5f6802ff8",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01279.gif",
-      "name": "Julie Fernandez-Fernandez",
+      "name": "Julie Fernandez Fernandez",
       "sort_name": "Fernandez Fernandez Julie",
       "images": [
         {
@@ -3135,6 +3091,26 @@
           "role": "member",
           "on_behalf_of_id": "db25a523-ad1d-423a-83a2-c56309215df0",
           "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9ce8edce-d04d-491c-808e-698afa3e9342",
+      "name": "Olivier Henry",
+      "sort_name": "Olivier Henry",
+      "memberships": [
+        {
+          "person_id": "person/9ce8edce-d04d-491c-808e-698afa3e9342",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+          "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
+          "start_date": "2018-05-24",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4660,8 +4636,59 @@
           "organization_id": "chamber/chamber_of_representatives",
           "role": "member",
           "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
-          "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
           "end_date": "2017-03-09",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "eric.massin@lachambre.be",
+      "gender": "male",
+      "id": "person/d5fbbf2f-5284-4879-ac8d-aeb8050ea7e8",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01050.gif",
+      "name": "Éric Massin",
+      "sort_name": "Massin Eric",
+      "images": [
+        {
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01050.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d5fbbf2f-5284-4879-ac8d-aeb8050ea7e8",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+          "end_date": "2018-05-24",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "eric.thiebaut@lachambre.be",
+      "gender": "male",
+      "id": "person/a53b8ae3-4af1-4564-82e8-8d60f2899b41",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01222.gif",
+      "name": "Éric Thiébaut",
+      "sort_name": "Thiébaut Eric",
+      "images": [
+        {
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01222.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a53b8ae3-4af1-4564-82e8-8d60f2899b41",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+          "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
           "legislative_period_id": "term/54"
         }
       ],
