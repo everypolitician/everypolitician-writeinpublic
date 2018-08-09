@@ -256,6 +256,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gauland2014_(cropped).jpg",
       "name": "Alexander Gauland",
       "sort_name": "Alexander Gauland",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ag_afd"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gauland2014_(cropped).jpg"
@@ -270,9 +276,6 @@
           "area_id": "Q30534963",
           "legislative_period_id": "term/19"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -548,13 +551,13 @@
     {
       "gender": "female",
       "id": "person/b2ec9bab-bb4d-438a-a725-138a5b3d2c2f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/2017.07.22.200910_Alice_Weidel_AfD-Informationsveranstaltung_Schriesheim.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/2017-11-29-Alice_Weidel-Maischberger-5664.jpg",
       "name": "Alice Weidel",
       "sort_name": "Alice Weidel",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "aliceweidelafd"
+          "value": "Alice_Weidel"
         }
       ],
       "links": [
@@ -565,7 +568,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/2017.07.22.200910_Alice_Weidel_AfD-Informationsveranstaltung_Schriesheim.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/2017-11-29-Alice_Weidel-Maischberger-5664.jpg"
         }
       ],
       "memberships": [
@@ -1315,12 +1318,18 @@
     {
       "gender": "female",
       "id": "person/2e98fbad-45ac-49cb-8c49-dab23671201a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Anita_Schäfer_2017_by_Harald_Kröher.png",
       "name": "Anita Schäfer",
       "sort_name": "Schafer, Anita",
       "links": [
         {
           "url": "SchaeferMdB",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Anita_Schäfer_2017_by_Harald_Kröher.png"
         }
       ],
       "memberships": [
@@ -1912,8 +1921,14 @@
     {
       "gender": "female",
       "id": "person/b65700e4-b459-456b-b03b-4ee99afeae23",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Astrid_Mannes_2017_by_Christian_Grau.png",
       "name": "Astrid Mannes",
       "sort_name": "Astrid Mannes",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Astrid_Mannes_2017_by_Christian_Grau.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b65700e4-b459-456b-b03b-4ee99afeae23",
@@ -2308,9 +2323,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/ac0b1ccf-6bc4-429c-b191-6444dbbedde1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/2018-05-10_Bernd_Klaus_Buchholz-7525.jpg",
       "name": "Bernd Buchholz",
       "sort_name": "Bernd Buchholz",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/2018-05-10_Bernd_Klaus_Buchholz-7525.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/ac0b1ccf-6bc4-429c-b191-6444dbbedde1",
@@ -2353,12 +2375,12 @@
     {
       "gender": "male",
       "id": "person/3f4009a6-22e8-4081-860f-2ec98af39dc3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bernd_Riexinger_2014_(portrait).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–085.jpg",
       "name": "Bernd Riexinger",
       "sort_name": "Bernd Riexinger",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bernd_Riexinger_2014_(portrait).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–085.jpg"
         }
       ],
       "memberships": [
@@ -2568,8 +2590,14 @@
     {
       "gender": "female",
       "id": "person/50408a89-e54d-41ab-98d0-b4cae6022025",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/2018-05-10_Bettina_Stark-Watzinger-7710.jpg",
       "name": "Bettina Stark-Watzinger",
       "sort_name": "Bettina Stark-Watzinger",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/2018-05-10_Bettina_Stark-Watzinger-7710.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/50408a89-e54d-41ab-98d0-b4cae6022025",
@@ -3252,7 +3280,7 @@
     {
       "gender": "male",
       "id": "person/5eb0c02c-68c8-4b30-9130-c2078603a841",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/16-09-02-Cem_Özdemir-RalfR-RR2_4940.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hart_aber_fair_-_2018-04-09-8854.jpg",
       "name": "Cem Özdemir",
       "sort_name": "Ozdemir, Cem",
       "contact_details": [
@@ -3269,7 +3297,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/16-09-02-Cem_Özdemir-RalfR-RR2_4940.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hart_aber_fair_-_2018-04-09-8854.jpg"
         }
       ],
       "memberships": [
@@ -3476,7 +3504,6 @@
       ]
     },
     {
-      "email": "christian.lindner@landtag.nrw.de",
       "gender": "male",
       "id": "person/eaa830ed-4ccc-4b38-aadc-63ba2a8c6086",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/2017-05-14_NRW_Landtagswahl_by_Olaf_Kosinsky-116.jpg",
@@ -4358,8 +4385,14 @@
     {
       "gender": "female",
       "id": "person/f9fc2ff3-22f0-4b88-8cee-5e622e8105c3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Daniela_Wagner_Gruene_Darmstadt.jpg",
       "name": "Daniela Wagner",
       "sort_name": "Wagner, Daniela",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Daniela_Wagner_Gruene_Darmstadt.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/f9fc2ff3-22f0-4b88-8cee-5e622e8105c3",
@@ -4658,8 +4691,14 @@
     {
       "gender": "female",
       "id": "person/e31c8c2e-afb7-44b9-8ec4-ba828dd979d1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dietlind_Tiemann_2017_by_Franziska_Günther.jpg",
       "name": "Dietlind Tiemann",
       "sort_name": "Dietlind Tiemann",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dietlind_Tiemann_2017_by_Franziska_Günther.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e31c8c2e-afb7-44b9-8ec4-ba828dd979d1",
@@ -4677,7 +4716,7 @@
     {
       "gender": "male",
       "id": "person/f5a9de1a-859d-4a71-9fa2-4bb6502a399c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/DIE_LINKE_Bundesparteitag_Mai_2014_Bartsch,_Dietmar.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–141.jpg",
       "name": "Dietmar Bartsch",
       "sort_name": "Bartsch, Dietmar",
       "contact_details": [
@@ -4694,7 +4733,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/DIE_LINKE_Bundesparteitag_Mai_2014_Bartsch,_Dietmar.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–141.jpg"
         }
       ],
       "memberships": [
@@ -4938,8 +4977,14 @@
     {
       "gender": "female",
       "id": "person/c34b66ac-48c5-4be0-b0f2-44f0ce72a4f1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/ColognePride_2018-Samstag-Hauptbühne-1600-Politblock-Doris_Achelwilm-7638.jpg",
       "name": "Doris Maria Achelwilm",
       "sort_name": "Doris Maria Achelwilm",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/ColognePride_2018-Samstag-Hauptbühne-1600-Politblock-Doris_Achelwilm-7638.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c34b66ac-48c5-4be0-b0f2-44f0ce72a4f1",
@@ -6752,7 +6797,7 @@
     {
       "gender": "female",
       "id": "person/8769b3f9-81d3-4621-9e8c-ad11a077c450",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mahnwache_gegen_die_Militärintervention_in_Libyen_am_20._März_2011_vor_dem_Brandenburger_Tor_in_Berlin_(11).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–115.jpg",
       "name": "Gesine Lötzsch",
       "sort_name": "Lotzsch, Gesine",
       "contact_details": [
@@ -6769,7 +6814,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mahnwache_gegen_die_Militärintervention_in_Libyen_am_20._März_2011_vor_dem_Brandenburger_Tor_in_Berlin_(11).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–115.jpg"
         }
       ],
       "memberships": [
@@ -6838,7 +6883,7 @@
     {
       "gender": "male",
       "id": "person/c6088261-4a7d-4e3b-a538-fd5b140ef1b9",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gregor_Gysi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–120.jpg",
       "name": "Gregor Gysi",
       "sort_name": "Gysi, Gregor",
       "contact_details": [
@@ -6855,7 +6900,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gregor_Gysi.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–120.jpg"
         }
       ],
       "memberships": [
@@ -6872,12 +6917,18 @@
     {
       "gender": "male",
       "id": "person/db3eddbc-1750-4592-8cd2-e83a5be32088",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Grigorios_Aggelidis_MdB.jpg",
       "name": "Grigorios Aggelidis",
       "sort_name": "Grigorios Aggelidis",
       "links": [
         {
           "url": "grigorios.aggelidis.7",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Grigorios_Aggelidis_MdB.jpg"
         }
       ],
       "memberships": [
@@ -7299,12 +7350,12 @@
     {
       "gender": "male",
       "id": "person/1ca0944d-66c9-4a9c-bb7f-f917bf4de1f3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hans-Jörg_Gerhard_Georg_Müller_17441-3897.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hans-Jörg_Gerhard_Georg_Müller_17441-3897_(cropped).jpg",
       "name": "Hansjörg Gerhard Georg Müller",
       "sort_name": "Hansjörg Gerhard Georg Müller",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hans-Jörg_Gerhard_Georg_Müller_17441-3897.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hans-Jörg_Gerhard_Georg_Müller_17441-3897_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -7854,7 +7905,7 @@
     {
       "gender": "male",
       "id": "person/c096f1b7-90de-4fb0-9f99-84fc00c2c773",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bundesarchiv_B_145_Bild-F086797-0006,_Bonn,_Tagung_FDP-Bundestagsfraktion,_Solms.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/2018-05-10_Hermann_Otto_Solms-7546.jpg",
       "name": "Hermann Otto Solms",
       "sort_name": "Solms, Hermann",
       "contact_details": [
@@ -7871,7 +7922,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bundesarchiv_B_145_Bild-F086797-0006,_Bonn,_Tagung_FDP-Bundestagsfraktion,_Solms.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/2018-05-10_Hermann_Otto_Solms-7546.jpg"
         }
       ],
       "memberships": [
@@ -10295,8 +10346,14 @@
     {
       "gender": "female",
       "id": "person/1ae53b5e-e7cf-47ad-a366-b8e7db150ef5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Staffler_Katrin_2017_by_FacesbyFrank.jpg",
       "name": "Katrin Staffler",
       "sort_name": "Katrin Staffler",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Staffler_Katrin_2017_by_FacesbyFrank.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/1ae53b5e-e7cf-47ad-a366-b8e7db150ef5",
@@ -10693,7 +10750,7 @@
     {
       "gender": "male",
       "id": "person/2acda41a-837c-4a75-a18a-8baf36dd5549",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ernst,_Klaus_(1954).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–054.jpg",
       "name": "Klaus Ernst",
       "sort_name": "Ernst, Klaus",
       "contact_details": [
@@ -10710,7 +10767,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ernst,_Klaus_(1954).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/2018-06-09_Bundesparteitag_Die_Linke_2018_in_Leipzig_by_Sandro_Halank–054.jpg"
         }
       ],
       "memberships": [
@@ -11499,12 +11556,12 @@
     {
       "gender": "female",
       "id": "person/6de972f5-6c74-459d-959d-299073c58021",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Manja_Schüle_-_Pressefoto.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Manja_Schüle_-_Pressefoto_(cropped).jpg",
       "name": "Manja Schüle",
       "sort_name": "Manja Schüle",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Manja_Schüle_-_Pressefoto.jpeg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Manja_Schüle_-_Pressefoto_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -11959,6 +12016,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Margit_Stumpp_(9552534233).jpg",
       "name": "Margit Stumpp",
       "sort_name": "Margit Stumpp",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "margit_stumpp"
+        }
+      ],
       "links": [
         {
           "url": "stumpp2013",
@@ -11979,9 +12042,6 @@
           "area_id": "Q30535605",
           "legislative_period_id": "term/19"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -12671,12 +12731,12 @@
     {
       "gender": "male",
       "id": "person/832e081f-b5fe-4b68-8215-2dbd8b637432",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Martin_Hohmann_01.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Martin_Hohmann_2017.JPG",
       "name": "Martin Hohmann",
       "sort_name": "Hohmann",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Martin_Hohmann_01.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Martin_Hohmann_2017.JPG"
         }
       ],
       "memberships": [
@@ -13429,12 +13489,18 @@
     {
       "gender": "female",
       "id": "person/5f89f6d5-92e7-4fdd-8571-c3ed0af3593a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Melanie_Bernstein_2017_by_Sebastian_Busse.jpg",
       "name": "Melanie Bernstein",
       "sort_name": "Melanie Bernstein",
       "links": [
         {
           "url": "melaniebernstein.cdu",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Melanie_Bernstein_2017_by_Sebastian_Busse.jpg"
         }
       ],
       "memberships": [
@@ -14863,7 +14929,7 @@
     {
       "gender": "male",
       "id": "person/8025209d-5841-4143-9bc1-b91c5117b0dd",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Oliver_Wittke.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/ILA_2018,_Schönefeld_(1X7A5734-2).jpg",
       "name": "Oliver Wittke",
       "sort_name": "Wittke, Oliver",
       "links": [
@@ -14874,7 +14940,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Oliver_Wittke.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/ILA_2018,_Schönefeld_(1X7A5734-2).jpg"
         }
       ],
       "memberships": [
@@ -16736,7 +16802,7 @@
     {
       "gender": "female",
       "id": "person/492fb1d4-6224-4917-a688-54ff64564f8e",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Esken,_Saskia-0408.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MJK09832_Saskia_Esken.jpg",
       "name": "Saskia Esken",
       "sort_name": "Esken, Saskia",
       "contact_details": [
@@ -16753,7 +16819,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Esken,_Saskia-0408.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/MJK09832_Saskia_Esken.jpg"
         }
       ],
       "memberships": [
