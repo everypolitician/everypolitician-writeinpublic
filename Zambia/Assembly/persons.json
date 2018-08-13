@@ -1,7 +1,7 @@
 {
-  "total": 168,
+  "total": 169,
   "page": 1,
-  "per_page": 168,
+  "per_page": 169,
   "has_more": false,
   "result": [
     {
@@ -2476,12 +2476,12 @@
     {
       "gender": "male",
       "id": "person/3c21b764-4d5c-481b-8d5a-6c81505ceb27",
-      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/zulu%25252C_makebi.jpg?itok=QajtABni",
+      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon.%20Zulu%20M.jpeg?itok=8XVDePS-",
       "name": "Makebi Zulu",
       "sort_name": "Makebi Zulu",
       "images": [
         {
-          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/zulu%25252C_makebi.jpg?itok=QajtABni"
+          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon.%20Zulu%20M.jpeg?itok=8XVDePS-"
         }
       ],
       "memberships": [
@@ -2566,6 +2566,24 @@
           "role": "member",
           "on_behalf_of_id": "PF",
           "area_id": "vubwi",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/23f7edc8-e11c-42ae-963d-51bf329b15c4",
+      "name": "Maria P Langa",
+      "sort_name": "Maria P Langa",
+      "memberships": [
+        {
+          "person_id": "person/23f7edc8-e11c-42ae-963d-51bf329b15c4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PF",
+          "area_id": "chilanga",
           "legislative_period_id": "term/2016"
         }
       ],
