@@ -31,6 +31,7 @@
     },
     {
       "email": "arato.gergely@parlament.hu",
+      "gender": "male",
       "id": "person/8f67bdc9-f6f8-4797-8a19-bb421fee95c1",
       "image": "http://www.parlament.hu/kepv/kepek/a008.jpg",
       "name": "Arató, Gergely",
@@ -502,6 +503,7 @@
     },
     {
       "email": "bosz.anett@parlament.hu",
+      "gender": "female",
       "id": "person/4ad9cb90-ab1b-4978-9441-7121f50f615e",
       "image": "http://www.parlament.hu/kepv/kepek/b124.jpg",
       "name": "Bősz, Anett",
@@ -577,6 +579,7 @@
     },
     {
       "email": "csardi.antal@parlament.hu",
+      "gender": "male",
       "id": "person/8cdf259a-9ec4-4395-b050-fa7577252a8f",
       "image": "http://www.parlament.hu/kepv/kepek/c044.jpg",
       "name": "Csárdi, Antal",
@@ -947,6 +950,7 @@
     },
     {
       "email": "gurmai.zita@parlament.hu",
+      "gender": "female",
       "id": "person/fa8c89ec-90f3-40b4-8f84-765d9223f9d3",
       "image": "http://www.parlament.hu/kepv/kepek/g022.jpg",
       "name": "Dr. Gurmai, Zita",
@@ -1128,6 +1132,7 @@
     },
     {
       "email": "keresztes.laszlo@parlament.hu",
+      "gender": "male",
       "id": "person/044e79b4-68cc-4ad6-b9cd-b00f8b46af11",
       "image": "http://www.parlament.hu/kepv/kepek/k154.jpg",
       "name": "Dr. Keresztes, László Lóránt",
@@ -1325,10 +1330,17 @@
     },
     {
       "email": "mellar.tamas@parlament.hu",
+      "gender": "male",
       "id": "person/acc81066-c2e8-437f-84c0-7d6158ccd64c",
       "image": "http://www.parlament.hu/kepv/kepek/m064.jpg",
       "name": "Dr. Mellár, Tamás",
       "sort_name": "Dr. Mellár, Tamás",
+      "links": [
+        {
+          "url": "dr.mellar.tamas",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/m064.jpg"
@@ -1700,6 +1712,7 @@
     },
     {
       "email": "steinmetz.adam@parlament.hu",
+      "gender": "male",
       "id": "person/7b215ccb-e99a-4c30-b44d-5d669a0bd1a9",
       "image": "http://www.parlament.hu/kepv/kepek/s157.jpg",
       "name": "Dr. Steinmetz, Ádám",
@@ -1724,6 +1737,7 @@
     },
     {
       "email": "szabo.tunde@parlament.hu",
+      "gender": "female",
       "id": "person/3906ddf7-3e06-4817-a6f3-615e74251a59",
       "image": "http://www.parlament.hu/kepv/kepek/s148.jpg",
       "name": "Dr. Szabó, Tünde",
@@ -2425,6 +2439,7 @@
     },
     {
       "email": "greczi.zsolt@parlament.hu",
+      "gender": "male",
       "id": "person/d9229147-295b-4866-9bc5-6f9f714f0de1",
       "image": "http://www.parlament.hu/kepv/kepek/g070.jpg",
       "name": "Gréczy, Zsolt",
@@ -2605,6 +2620,7 @@
     },
     {
       "email": "hajdu.laszlo@parlament.hu",
+      "gender": "male",
       "id": "person/20493d10-9a9b-45ac-a4fb-04706a45f050",
       "image": "http://www.parlament.hu/kepv/kepek/h211.jpg",
       "name": "Hajdu, László",
@@ -2729,6 +2745,7 @@
     },
     {
       "email": "herczeg.tamas@parlament.hu",
+      "gender": "male",
       "id": "person/9b26bfa6-7dc7-44d0-80f7-52f8dfd6d760",
       "image": "http://www.parlament.hu/kepv/kepek/h081.jpg",
       "name": "Herczeg, Tamás",
@@ -2803,6 +2820,7 @@
     },
     {
       "email": "hohn.krisztina@parlament.hu",
+      "gender": "female",
       "id": "person/e37a5366-945c-4cd0-9baf-26062bddd350",
       "image": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D105047",
       "name": "Hohn, Krisztina",
@@ -2951,6 +2969,7 @@
     },
     {
       "email": "jakab.peter@parlament.hu",
+      "gender": "male",
       "id": "person/56ac0b32-f667-49a3-8de4-99aac46e023d",
       "image": "http://www.parlament.hu/kepv/kepek/j020.jpg",
       "name": "Jakab, Péter",
@@ -3049,6 +3068,7 @@
     },
     {
       "email": "kocsis.mate@parlament.hu",
+      "gender": "male",
       "id": "person/027fd664-724a-47a0-9755-36c59c2297e1",
       "image": "http://www.parlament.hu/kepv/kepek/k100.jpg",
       "name": "Kocsis, Máté",
@@ -3098,6 +3118,7 @@
     },
     {
       "email": "koncz.ferenc@parlament.hu",
+      "gender": "male",
       "id": "person/d61491c5-133b-4f70-837a-cadf32b4d0a9",
       "image": "http://www.parlament.hu/kepv/kepek/k015.jpg",
       "name": "Koncz, Ferenc",
@@ -3472,6 +3493,7 @@
     },
     {
       "email": "molnar.gyula@parlament.hu",
+      "gender": "male",
       "id": "person/7acd3c74-a397-4ffe-9c14-6d6f0f4495fa",
       "image": "http://www.parlament.hu/kepv/kepek/m282.jpg",
       "name": "Molnár, Gyula",
@@ -3594,6 +3616,7 @@
     },
     {
       "email": "novak.katalin@parlament.hu",
+      "gender": "female",
       "id": "person/b31ece57-dbd6-41ce-a094-2ec9eb84b5d9",
       "image": "http://www.parlament.hu/kepv/kepek/v064.jpg",
       "name": "Novák, Katalin",
@@ -3724,6 +3747,7 @@
     },
     {
       "email": "ovadi.peter@parlament.hu",
+      "gender": "male",
       "id": "person/f15f8b16-cffd-4690-8863-483c568e5fe3",
       "image": "http://www.parlament.hu/kepv/kepek/o014.jpg",
       "name": "Ovádi, Péter",
@@ -4396,6 +4420,7 @@
     },
     {
       "email": "suli.janos@parlament.hu",
+      "gender": "male",
       "id": "person/6de01e1e-5771-4a4c-894f-d060357bd791",
       "image": "http://www.parlament.hu/kepv/kepek/s154.jpg",
       "name": "Süli, János",
@@ -4470,10 +4495,17 @@
     },
     {
       "email": "tordai.bence@parlament.hu",
+      "gender": "male",
       "id": "person/7444c56f-c09f-4a76-9732-9236d1a9f929",
       "image": "http://www.parlament.hu/kepv/kepek/t054.jpg",
       "name": "Tordai, Bence",
       "sort_name": "Tordai, Bence",
+      "links": [
+        {
+          "url": "TordaiBencePM",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/t054.jpg"
@@ -4619,6 +4651,7 @@
     },
     {
       "email": "ungar.peter@parlament.hu",
+      "gender": "male",
       "id": "person/58a6d465-26cf-4ba2-a1ab-ca61759acfd3",
       "image": "http://www.parlament.hu/kepv/kepek/u006.jpg",
       "name": "Ungár, Péter",
