@@ -4375,6 +4375,12 @@
       "image": "https://majles.marsad.tn/2014/uploads/images/hattab%20ons.png",
       "name": "Ons Hattab",
       "sort_name": "Ons Hattab",
+      "links": [
+        {
+          "url": "ons.hattab",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://majles.marsad.tn/2014/uploads/images/hattab%20ons.png"
@@ -4525,6 +4531,12 @@
       "image": "http://majles.marsad.tn/2014/uploads/images/Riadh_Mouakhar.png",
       "name": "Riadh Mouakhar",
       "sort_name": "Riadh Mouakhar",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RMouakhar"
+        }
+      ],
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/Riadh_Mouakhar.png"
@@ -4539,9 +4551,6 @@
           "area_id": "tunis_2",
           "legislative_period_id": "term/1"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
