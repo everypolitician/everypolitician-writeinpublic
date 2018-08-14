@@ -1,7 +1,7 @@
 {
-  "total": 150,
+  "total": 151,
   "page": 1,
-  "per_page": 150,
+  "per_page": 151,
   "has_more": false,
   "result": [
     {
@@ -113,6 +113,26 @@
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
           "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/094c0c8c-f0c0-42dd-8361-dc8226e7d3dd",
+      "name": "Aivar Surva",
+      "sort_name": "Aivar Surva",
+      "memberships": [
+        {
+          "person_id": "person/094c0c8c-f0c0-42dd-8361-dc8226e7d3dd",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
+          "start_date": "2018-08-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -657,6 +677,7 @@
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
           "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
+          "end_date": "2018-08-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -758,6 +779,7 @@
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
           "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
+          "end_date": "2018-06-15",
           "legislative_period_id": "term/13"
         }
       ]
@@ -788,6 +810,14 @@
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
           "start_date": "2016-11-24",
           "end_date": "2016-12-09",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "start_date": "2018-06-28",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2174,6 +2204,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
           "start_date": "2017-11-10",
           "legislative_period_id": "term/13"
         }
@@ -3184,6 +3215,7 @@
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
           "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
           "start_date": "2016-12-10",
+          "end_date": "2018-06-26",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4632,7 +4664,7 @@
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
           "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "end_date": "2016-11-23",
+          "end_date": "2015-04-08",
           "legislative_period_id": "term/13"
         },
         {
@@ -4837,6 +4869,14 @@
           "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
           "start_date": "2015-04-09",
           "end_date": "2016-11-23",
+          "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/2cced9a3-4f1c-4266-af00-a73dd22a47f9",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "start_date": "2018-06-15",
           "legislative_period_id": "term/13"
         }
       ],
