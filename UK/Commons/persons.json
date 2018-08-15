@@ -1,7 +1,7 @@
 {
-  "total": 651,
+  "total": 652,
   "page": 1,
-  "per_page": 651,
+  "per_page": 652,
   "has_more": false,
   "result": [
     {
@@ -9240,6 +9240,25 @@
       ]
     },
     {
+      "id": "person/90fe634b-89c0-4ad0-9650-e645294f3b19",
+      "name": "Janet Daby",
+      "sort_name": "Janet Daby",
+      "memberships": [
+        {
+          "person_id": "person/90fe634b-89c0-4ad0-9650-e645294f3b19",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "uk.org.publicwhip/cons/338",
+          "start_date": "2018-06-14",
+          "legislative_period_id": "term/57"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "jared.omara.mp@parliament.uk",
       "gender": "male",
       "id": "person/7ccf6c56-54bb-43fc-9857-208b0c05fdf3",
@@ -10623,6 +10642,16 @@
           "role": "member",
           "on_behalf_of_id": "labourco-operative",
           "area_id": "uk.org.publicwhip/cons/25",
+          "end_date": "2018-04-29",
+          "legislative_period_id": "term/57"
+        },
+        {
+          "person_id": "person/a9d203b3-10f7-41e5-b0f2-94afaaa3bf41",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "uk.org.publicwhip/cons/25",
+          "start_date": "2018-04-30",
           "legislative_period_id": "term/57"
         }
       ]
