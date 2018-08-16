@@ -99,6 +99,12 @@
       "id": "person/b3d1099d-e0e3-4c97-b347-0bcb6ac272cf",
       "name": "Abdullah Zeydan",
       "sort_name": "Abdullah Zeydan",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AbdullahZeydan"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/b3d1099d-e0e3-4c97-b347-0bcb6ac272cf",
@@ -108,9 +114,6 @@
           "area_id": "hakkâri",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -280,8 +283,14 @@
     {
       "gender": "male",
       "id": "person/3b1a7554-6c7b-48c7-926b-d5d2a0eefd72",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ahmet_Aydın.png",
       "name": "Ahmet Aydın",
       "sort_name": "Ahmet Aydın",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ahmet_Aydın.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/3b1a7554-6c7b-48c7-926b-d5d2a0eefd72",
@@ -492,6 +501,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/290739e3-49d4-4f75-aa68-36609fdb7ecf",
       "name": "Ahmet Selim Yurdakul",
       "sort_name": "Ahmet Selim Yurdakul",
@@ -1058,6 +1068,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/8325fdd8-c74a-4ec0-9229-4bfaa3cc9e57",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ekran_Resmi_2016-12-30_00.12.30.png",
       "name": "Atay Uslu",
@@ -1105,6 +1116,18 @@
       "id": "person/dfa1b4e5-68bf-4883-8ea1-cf9421f78007",
       "name": "Atilla Sertel",
       "sort_name": "Atilla Sertel",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "atillasertell"
+        }
+      ],
+      "links": [
+        {
+          "url": "AtilaSertel",
+          "note": "facebook"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/dfa1b4e5-68bf-4883-8ea1-cf9421f78007",
@@ -1114,9 +1137,6 @@
           "area_id": "İzmir_(ii)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1138,6 +1158,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/0ec48fc1-7763-43c8-856a-df7b14255acb",
       "name": "Aydın Uslupehlivan",
       "sort_name": "Aydın Uslupehlivan",
@@ -1288,9 +1309,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/58da65a2-b90e-4cea-a414-fdb5e7f401be",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aytun_Çıray.jpg",
       "name": "Aytun Çıray",
       "sort_name": "Aytun Çıray",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "aytunciray"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aytun_Çıray.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/58da65a2-b90e-4cea-a414-fdb5e7f401be",
@@ -1300,9 +1334,6 @@
           "area_id": "İzmir_(ii)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1311,6 +1342,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aytug-atici.png",
       "name": "Aytuğ Atıcı",
       "sort_name": "Aytuğ Atıcı",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "aytugatici"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aytug-atici.png"
@@ -1325,9 +1362,6 @@
           "area_id": "mersin",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1423,8 +1457,14 @@
     {
       "gender": "female",
       "id": "person/a0b4696f-b059-41d7-9206-838ed084bd8e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ayşe_Nur_Bahçekapılı.jpg",
       "name": "Ayşe Nur Bahçekapılı",
       "sort_name": "Ayşe Nur Bahçekapılı",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ayşe_Nur_Bahçekapılı.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/a0b4696f-b059-41d7-9206-838ed084bd8e",
@@ -1669,7 +1709,7 @@
     {
       "gender": "male",
       "id": "person/e15a2267-c8f3-4249-ab87-932e25ab147e",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Erdoganinidamadi.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Berat_Albayrak_(cropped,_2017).jpg",
       "name": "Berat Albayrak",
       "sort_name": "Berat Albayrak",
       "contact_details": [
@@ -1680,7 +1720,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Erdoganinidamadi.png"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Berat_Albayrak_(cropped,_2017).jpg"
         }
       ],
       "memberships": [
@@ -1699,6 +1739,12 @@
       "id": "person/d9e02992-280d-41fc-b2dd-9adf640d371c",
       "name": "Berdan Öztürk",
       "sort_name": "Berdan Öztürk",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "berdan_ozturk"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/d9e02992-280d-41fc-b2dd-9adf640d371c",
@@ -1708,9 +1754,6 @@
           "area_id": "ağrı",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1781,6 +1824,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Binali_Yıldırım.jpg",
       "name": "Binali Yıldırım",
       "sort_name": "Binali Yıldırım",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ba_yildirim"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Binali_Yıldırım.jpg"
@@ -1795,9 +1844,6 @@
           "area_id": "İzmir_(i)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1879,6 +1925,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Burhankuzu.png",
       "name": "Burhan Kuzu",
       "sort_name": "Burhan Kuzu",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "burhankuzu"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Burhankuzu.png"
@@ -1893,9 +1945,6 @@
           "area_id": "İstanbul_(ii)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2027,6 +2076,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a14f64e4-ff37-4a21-8a7a-a99a8ac6af7f",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bulentoz.jpg",
       "name": "Bülent Öz",
@@ -2537,6 +2587,12 @@
       "id": "person/2380a920-c0e4-4234-b6fd-f3b35e7a7c18",
       "name": "Devrim Kök",
       "sort_name": "Devrim Kök",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "chpdevrimkok"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2380a920-c0e4-4234-b6fd-f3b35e7a7c18",
@@ -2546,9 +2602,6 @@
           "area_id": "antalya",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2745,7 +2798,7 @@
     {
       "gender": "male",
       "id": "person/308158bf-f96a-4142-8568-75cb295f9a77",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ekmeleddin_Ihsanoglu_retouched.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ekmeleddin_İhsanoğlu_(1)_(cropped).jpg",
       "name": "Ekmeleddin İhsanoğlu",
       "sort_name": "Ekmeleddin İhsanoğlu",
       "contact_details": [
@@ -2762,7 +2815,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ekmeleddin_Ihsanoglu_retouched.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ekmeleddin_İhsanoğlu_(1)_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -3057,7 +3110,7 @@
     {
       "gender": "male",
       "id": "person/4d83ee14-bf13-4026-acf0-f5bbe8f6292d",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eren_Erdem.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Eren_Erdem_Adalet_Kurultayı.jpg",
       "name": "Eren Erdem",
       "sort_name": "Eren Erdem",
       "contact_details": [
@@ -3068,7 +3121,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eren_Erdem.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Eren_Erdem_Adalet_Kurultayı.jpg"
         }
       ],
       "memberships": [
@@ -3241,6 +3294,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b8acb9ef-9d51-4b1f-921f-cf42617e5dcb",
       "name": "Ertan Aydın",
       "sort_name": "Ertan Aydın",
@@ -3776,9 +3830,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d32e8509-39a2-424c-9bef-c08eb37b0ec3",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Filiz_Kerestecioğlu.png",
       "name": "Filiz Kerestecioğlu",
       "sort_name": "Filiz Kerestecioğlu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Filiz_Kerestecioğlu.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/d32e8509-39a2-424c-9bef-c08eb37b0ec3",
@@ -4081,8 +4142,14 @@
     {
       "gender": "male",
       "id": "person/9f628a82-920b-4fce-9a05-77e5997b230e",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Hakan_Çavuşoğlu_(cropped).jpg",
       "name": "Hakan Çavuşoğlu",
       "sort_name": "Hakan Çavuşoğlu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Hakan_Çavuşoğlu_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/9f628a82-920b-4fce-9a05-77e5997b230e",
@@ -4604,6 +4671,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9f89198c-c688-42e2-9fe2-ca6d6e29aa2b",
       "name": "Hülya Nergis",
       "sort_name": "Hülya Nergis",
@@ -4789,8 +4857,14 @@
     {
       "gender": "female",
       "id": "person/5de79163-5745-4a29-9541-792a8a640943",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ilham_Aliyev_and_Jülide_Sarıeroğlu_(cropped).jpg",
       "name": "Jülide Sarıeroğlu",
       "sort_name": "Jülide Sarıeroğlu",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ilham_Aliyev_and_Jülide_Sarıeroğlu_(cropped).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/5de79163-5745-4a29-9541-792a8a640943",
@@ -5102,6 +5176,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/2079952a-65cf-4ee2-b700-39833e6e0057",
       "name": "Leyla Birlik",
       "sort_name": "Leyla Birlik",
@@ -5125,6 +5200,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Zana_(cropped).jpg",
       "name": "Leyla Zana",
       "sort_name": "Leyla Zana",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "leylazanainfo"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Zana_(cropped).jpg"
@@ -5139,9 +5220,6 @@
           "area_id": "ağrı",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -7284,8 +7362,14 @@
     {
       "gender": "male",
       "id": "person/78ce37eb-6180-4e66-86e4-d6618c34d2ec",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Naci_Bostancı.png",
       "name": "Naci Bostancı",
       "sort_name": "Naci Bostancı",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Naci_Bostancı.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/78ce37eb-6180-4e66-86e4-d6618c34d2ec",
@@ -7746,6 +7830,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/85752fd6-c50d-4867-a21b-b71cb65b72e0",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/OkanGaytancıoğlu.png",
       "name": "Okan Gaytancıoğlu",
@@ -8704,6 +8789,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/a855f969-c951-4f16-9e6e-af8be0308487",
       "name": "Sema Kırcı",
       "sort_name": "Sema Kırcı",
@@ -8747,6 +8833,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/3e8648f0-2f12-4466-992e-c68bb82e1e1e",
       "name": "Sena Nur Çelik",
       "sort_name": "Sena Nur Çelik",
@@ -8952,7 +9039,7 @@
     {
       "gender": "male",
       "id": "person/fef7ad7d-fa0d-4c56-aa08-41497bf5d404",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Süleyman_Soylu.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Süleyman_Soylu_in_Tehran_01.jpg",
       "name": "Süleyman Soylu",
       "sort_name": "Süleyman Soylu",
       "contact_details": [
@@ -8969,7 +9056,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Süleyman_Soylu.png"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Süleyman_Soylu_in_Tehran_01.jpg"
         }
       ],
       "memberships": [
@@ -9042,6 +9129,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tacettin_Bayir.jpg",
       "name": "Tacettin Bayır",
       "sort_name": "Tacettin Bayır",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "tacettinbayir"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tacettin_Bayir.jpg"
@@ -9056,12 +9149,10 @@
           "area_id": "İzmir_(i)",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
+      "gender": "male",
       "id": "person/72b2a3e5-0f82-4fb1-a2e1-dd0ee3d924b2",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/TahaOzhan.jpg",
       "name": "Taha Özhan",
@@ -9754,14 +9845,8 @@
     {
       "gender": "male",
       "id": "person/9d0d8eda-9b01-4a59-821f-bd24959b774e",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tugrul_Turkes.jpg",
       "name": "Yıldırım Tuğrul Türkeş",
       "sort_name": "Yıldırım Tuğrul Türkeş",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tugrul_Turkes.jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/9d0d8eda-9b01-4a59-821f-bd24959b774e",
@@ -10059,6 +10144,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/14b5c944-cbcc-4882-adb7-e37250c73946",
       "name": "Çağlar Demirel",
       "sort_name": "Çağlar Demirel",
@@ -10131,6 +10217,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a4dcd278-5e67-41b5-a7b3-500d01590178",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Omerfethigurer.png",
       "name": "Ömer Fethi Gürer",
@@ -10257,6 +10344,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/17d5f9ad-f171-498b-a91c-a9095ceb9a16",
       "name": "Özcan Ulupınar",
       "sort_name": "Özcan Ulupınar",
