@@ -85,6 +85,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Korol_crop.jpg",
       "name": "Adam Korol",
       "sort_name": "Adam Korol",
+      "links": [
+        {
+          "url": "koroladam",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Korol_crop.jpg"
@@ -1757,7 +1763,7 @@
     {
       "gender": "female",
       "id": "person/d36af18c-ac6e-44fb-bf54-83e7f1dde3cc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/V4_Prague_2015-12-03_-_Viktor_Orban_1_(cropped_2).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Premier_RP_Beata_Szydło_w_Parlamencie_UE.jpg",
       "name": "Beata Szydło",
       "sort_name": "Beata Szydło",
       "contact_details": [
@@ -1774,7 +1780,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/V4_Prague_2015-12-03_-_Viktor_Orban_1_(cropped_2).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Premier_RP_Beata_Szydło_w_Parlamencie_UE.jpg"
         }
       ],
       "memberships": [
@@ -5320,12 +5326,12 @@
     {
       "gender": "female",
       "id": "person/f34d0e21-3a17-4df4-9e67-6d8100ebcc54",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kamila_Gasiuk-Pihowicz_Sejm_2016.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kamila_Gasiuk-Pihowicz_by_Lukasz_Kaminski.jpg",
       "name": "Kamila Gasiuk-Pihowicz",
       "sort_name": "Kamila Gasiuk-Pihowicz",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kamila_Gasiuk-Pihowicz_Sejm_2016.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kamila_Gasiuk-Pihowicz_by_Lukasz_Kaminski.jpg"
         }
       ],
       "memberships": [
@@ -7135,8 +7141,14 @@
     {
       "gender": "male",
       "id": "person/7795374e-16ee-40fe-b288-184fba71e900",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Marek_Zagórski.JPG",
       "name": "Marek Zagórski",
       "sort_name": "Marek Zagórski",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Marek_Zagórski.JPG"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7795374e-16ee-40fe-b288-184fba71e900",
@@ -8196,6 +8208,18 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sejm_Patryk_Jaki_2014.JPG",
       "name": "Patryk Jaki",
       "sort_name": "Patryk Jaki",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "patrykjaki"
+        }
+      ],
+      "links": [
+        {
+          "url": "PatrykJaki",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sejm_Patryk_Jaki_2014.JPG"
@@ -8210,9 +8234,6 @@
           "area_id": "21-8",
           "legislative_period_id": "term/8"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -9566,12 +9587,12 @@
     {
       "gender": "male",
       "id": "person/8be54521-8952-4bde-a2b9-4b8613d5445d",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Stanisław_Pięta_Sejm_2015.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Stanisław_Pięta_Sejm_listopad_2015.JPG",
       "name": "Stanisław Pięta",
       "sort_name": "Stanisław Pięta",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Stanisław_Pięta_Sejm_2015.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Stanisław_Pięta_Sejm_listopad_2015.JPG"
         }
       ],
       "memberships": [
