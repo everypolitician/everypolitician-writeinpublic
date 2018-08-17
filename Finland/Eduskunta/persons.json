@@ -1,7 +1,7 @@
 {
-  "total": 207,
+  "total": 214,
   "page": 1,
-  "per_page": 207,
+  "per_page": 214,
   "has_more": false,
   "result": [
     {
@@ -93,6 +93,7 @@
           "role": "member",
           "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "end_date": "2017-07-30",
           "legislative_period_id": "term/37"
         }
       ]
@@ -845,7 +846,7 @@
           "role": "member",
           "on_behalf_of_id": "a58f5e9b-b1b4-473e-87b9-9e94549dfcc4",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
-          "end_date": "2016-08-01",
+          "end_date": "2016-07-30",
           "legislative_period_id": "term/37"
         }
       ]
@@ -926,6 +927,33 @@
           "role": "member",
           "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "eero.reijonen@eduskunta.fi",
+      "gender": "male",
+      "id": "person/01b2f801-ddfc-4ce0-a3e0-4b65526d7bd9",
+      "image": "http://kansanmuisti.fi/media/images/members/reijonen-eero.jpg",
+      "name": "Eero Reijonen",
+      "sort_name": "Reijonen Eero",
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/reijonen-eero.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/01b2f801-ddfc-4ce0-a3e0-4b65526d7bd9",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
+          "area_id": "f72a8c65-95a8-4874-a59b-b7afbfd6a6e9",
+          "start_date": "2018-03-01",
           "legislative_period_id": "term/37"
         }
       ],
@@ -1027,6 +1055,27 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/520d2e37-0a03-43bc-b572-f26eebd27c34",
+      "name": "Eija Nivala",
+      "sort_name": "Eija Nivala",
+      "memberships": [
+        {
+          "person_id": "person/520d2e37-0a03-43bc-b572-f26eebd27c34",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
+          "area_id": "ae06922a-0f14-41a0-89bc-a229653006fa",
+          "start_date": "2018-06-18",
+          "end_date": "2018-06-05",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "elina.lepomaki@eduskunta.fi",
       "gender": "female",
       "id": "person/ddf8fb10-54cc-4729-a7cb-7b79185e7e2d",
@@ -1080,6 +1129,7 @@
           "role": "member",
           "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
           "area_id": "f72a8c65-95a8-4874-a59b-b7afbfd6a6e9",
+          "end_date": "2018-03-01",
           "legislative_period_id": "term/37"
         }
       ]
@@ -1279,7 +1329,7 @@
           "role": "member",
           "on_behalf_of_id": "f01c009d-e7a7-4f22-8dd8-253c36d9b715",
           "area_id": "d85c74ec-5b1c-461e-b3dc-a938ba2fbde4",
-          "end_date": "2017-07-01",
+          "end_date": "2017-06-30",
           "legislative_period_id": "term/37"
         }
       ]
@@ -1310,6 +1360,26 @@
           "area_id": "ae06922a-0f14-41a0-89bc-a229653006fa",
           "legislative_period_id": "term/37"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/8564433b-f093-4392-bf60-fae17c8f467e",
+      "name": "Hanna-Leena Mattila",
+      "sort_name": "Hanna-Leena Mattila",
+      "memberships": [
+        {
+          "person_id": "person/8564433b-f093-4392-bf60-fae17c8f467e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
+          "area_id": "ae06922a-0f14-41a0-89bc-a229653006fa",
+          "start_date": "2018-06-05",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1418,6 +1488,26 @@
           "role": "member",
           "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "end_date": "2018-04-19",
+          "legislative_period_id": "term/37"
+        },
+        {
+          "person_id": "person/ef2b7a5b-2379-4549-ac99-daf73f1db90e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "41E082CA-0FA5-4BB8-AA61-9681EC3E2431",
+          "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "start_date": "2018-04-20",
+          "end_date": "2018-04-26",
+          "legislative_period_id": "term/37"
+        },
+        {
+          "person_id": "person/ef2b7a5b-2379-4549-ac99-daf73f1db90e",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "3E8AC9C2-9394-4C95-9F4D-2A71AE6374DF",
+          "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "start_date": "2018-04-27",
           "legislative_period_id": "term/37"
         }
       ]
@@ -2239,7 +2329,7 @@
           "person_id": "person/abd8116b-f900-4467-81ca-bed1a557a586",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "f01c009d-e7a7-4f22-8dd8-253c36d9b715",
+          "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
           "area_id": "4054bbd5-b1a3-4f39-a60c-e299efd783ba",
           "legislative_period_id": "term/37"
         }
@@ -3187,7 +3277,7 @@
           "person_id": "person/4799b339-fb22-4913-9060-da5b1a690693",
           "organization_id": "chamber/eduskunta",
           "role": "member",
-          "on_behalf_of_id": "a58f5e9b-b1b4-473e-87b9-9e94549dfcc4",
+          "on_behalf_of_id": "E3A4926C-B7AE-43BA-A641-EF3EF39DA8C2",
           "area_id": "81b5614e-1eb0-49f5-ace9-e3cf569c8b04",
           "legislative_period_id": "term/37"
         }
@@ -3352,6 +3442,35 @@
           "role": "member",
           "on_behalf_of_id": "08821c11-c7cb-49e5-a790-590e8cf9a592",
           "area_id": "f72a8c65-95a8-4874-a59b-b7afbfd6a6e9",
+          "legislative_period_id": "term/37"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/c2cf1d35-6978-417f-9bc8-52c2f6d44d61",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/MiaLaiho.jpg",
+      "name": "Mia Laiho",
+      "sort_name": "Mia Laiho",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MiaLaiho"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/MiaLaiho.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c2cf1d35-6978-417f-9bc8-52c2f6d44d61",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
+          "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "start_date": "2018-03-05",
           "legislative_period_id": "term/37"
         }
       ]
@@ -3560,6 +3679,8 @@
           "role": "member",
           "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
           "area_id": "d85c74ec-5b1c-461e-b3dc-a938ba2fbde4",
+          "start_date": "2015-04-30",
+          "end_date": "2018-06-12",
           "legislative_period_id": "term/37"
         }
       ]
@@ -3618,6 +3739,7 @@
           "role": "member",
           "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
           "area_id": "ae06922a-0f14-41a0-89bc-a229653006fa",
+          "end_date": "2018-06-18",
           "legislative_period_id": "term/37"
         }
       ]
@@ -3847,6 +3969,7 @@
           "role": "member",
           "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "end_date": "2018-03-05",
           "legislative_period_id": "term/37"
         }
       ]
@@ -3933,6 +4056,15 @@
           "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
           "area_id": "d85c74ec-5b1c-461e-b3dc-a938ba2fbde4",
           "end_date": "2015-04-27",
+          "legislative_period_id": "term/37"
+        },
+        {
+          "person_id": "person/436f3f0b-41d4-47f8-958c-77236bae29d1",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "6ffabe5a-fd95-4072-b5b6-c38a47445a7b",
+          "area_id": "d85c74ec-5b1c-461e-b3dc-a938ba2fbde4",
+          "start_date": "2018-06-12",
           "legislative_period_id": "term/37"
         }
       ]
@@ -4257,6 +4389,36 @@
       ]
     },
     {
+      "email": "pia.kauma@eduskunta.fi",
+      "gender": "female",
+      "id": "person/7eec9de2-24b0-41dc-a793-e9616c0e089f",
+      "image": "http://kansanmuisti.fi/media/images/members/kauma-pia.jpg",
+      "name": "Pia Kauma",
+      "sort_name": "Kauma Pia",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "piakauma"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/kauma-pia.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7eec9de2-24b0-41dc-a793-e9616c0e089f",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
+          "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "start_date": "2017-07-30",
+          "legislative_period_id": "term/37"
+        }
+      ]
+    },
+    {
       "email": "pia.viitanen@eduskunta.fi",
       "gender": "female",
       "id": "person/e18eba0c-b7e7-45ba-a2fd-bb9c2d0c8637",
@@ -4406,6 +4568,36 @@
       ]
     },
     {
+      "email": "raija.vahasalo@eduskunta.fi",
+      "gender": "female",
+      "id": "person/7a63ca87-d920-4e3c-a873-d8a73471ffd0",
+      "image": "http://kansanmuisti.fi/media/images/members/vahasalo-raija.jpg",
+      "name": "Raija Vahasalo",
+      "sort_name": "Vahasalo Raija",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "vahasalo"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://kansanmuisti.fi/media/images/members/vahasalo-raija.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7a63ca87-d920-4e3c-a873-d8a73471ffd0",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
+          "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "start_date": "2018-04-10",
+          "legislative_period_id": "term/37"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/35b4a51e-17b4-402c-85d6-b3ecd913bec1",
       "image": "https://pbs.twimg.com/profile_images/476233078525157377/P8HbARbu.jpeg",
@@ -4486,6 +4678,26 @@
           "area_id": "f72a8c65-95a8-4874-a59b-b7afbfd6a6e9",
           "legislative_period_id": "term/37"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/39cc3f1a-4a52-4022-8636-c3f573f18e6a",
+      "name": "Riitta Mäkinen",
+      "sort_name": "Riitta Mäkinen",
+      "memberships": [
+        {
+          "person_id": "person/39cc3f1a-4a52-4022-8636-c3f573f18e6a",
+          "organization_id": "chamber/eduskunta",
+          "role": "member",
+          "on_behalf_of_id": "08821c11-c7cb-49e5-a790-590e8cf9a592",
+          "area_id": "dd7c928e-1124-4eac-b904-e4fd05bb3b2a",
+          "start_date": "2018-06-15",
+          "legislative_period_id": "term/37"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4623,6 +4835,7 @@
           "role": "member",
           "on_behalf_of_id": "e35bf1e0-9484-438b-9ade-2176160cbad1",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
+          "end_date": "2018-04-10",
           "legislative_period_id": "term/37"
         }
       ]
@@ -5175,6 +5388,7 @@
           "role": "member",
           "on_behalf_of_id": "08821c11-c7cb-49e5-a790-590e8cf9a592",
           "area_id": "dd7c928e-1124-4eac-b904-e4fd05bb3b2a",
+          "end_date": "2018-06-14",
           "legislative_period_id": "term/37"
         }
       ]
@@ -5734,7 +5948,7 @@
           "role": "member",
           "on_behalf_of_id": "a58f5e9b-b1b4-473e-87b9-9e94549dfcc4",
           "area_id": "2f25ddb2-a79d-4be6-a006-f1eea1f99957",
-          "start_date": "2016-08-01",
+          "start_date": "2016-06-21",
           "legislative_period_id": "term/37"
         }
       ],
