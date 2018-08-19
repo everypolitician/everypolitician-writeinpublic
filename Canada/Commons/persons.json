@@ -1,7 +1,7 @@
 {
-  "total": 350,
+  "total": 351,
   "page": 1,
-  "per_page": 350,
+  "per_page": 351,
   "has_more": false,
   "result": [
     {
@@ -3190,7 +3190,7 @@
           "person_id": "person/a9077336-21cd-4ad1-976f-2cc486ac8c0d",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "f8f037c1-2486-4f15-9917-8c1ac711fd95",
+          "on_behalf_of_id": "cd815659-461e-4795-9136-990a7bf46bd0",
           "area_id": "d108fdea-0c41-4bae-9677-7cedcaced03c",
           "legislative_period_id": "term/42"
         }
@@ -3527,7 +3527,7 @@
           "person_id": "person/d5ee556a-23e2-43b0-895c-892edb579a87",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "415658f8-c944-4a43-bffe-4e5c91f13fd9",
+          "on_behalf_of_id": "224576BC-8A05-49C8-81F4-0682D3E1A4ED",
           "area_id": "1c34c7d0-1891-4226-a154-9dfd6f8b1116",
           "legislative_period_id": "term/42"
         }
@@ -3830,6 +3830,7 @@
           "role": "member",
           "on_behalf_of_id": "c605dffb-1f13-4fd1-8944-3876a67c19f9",
           "area_id": "e60f0827-8349-40d9-9f20-2de830b72f03",
+          "end_date": "2018-05-02",
           "legislative_period_id": "term/42"
         }
       ]
@@ -3867,8 +3868,8 @@
       "gender": "male",
       "id": "person/835a9052-d52b-44c2-aaea-8523425aaedb",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gordon-hogg.jpg",
-      "name": "Gordon Hogg",
-      "sort_name": "Gordon Hogg",
+      "name": "Gordie Hogg",
+      "sort_name": "Gordie Hogg",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gordon-hogg.jpg"
@@ -6264,7 +6265,7 @@
           "person_id": "person/263d9b7d-f31d-4bd0-bab9-54365291302a",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "415658f8-c944-4a43-bffe-4e5c91f13fd9",
+          "on_behalf_of_id": "224576BC-8A05-49C8-81F4-0682D3E1A4ED",
           "area_id": "105b5442-ebc4-4057-8172-83536b85baae",
           "legislative_period_id": "term/42"
         }
@@ -6325,7 +6326,7 @@
           "person_id": "person/d24fe762-6772-47d5-9b52-f696d31eddb3",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "415658f8-c944-4a43-bffe-4e5c91f13fd9",
+          "on_behalf_of_id": "224576BC-8A05-49C8-81F4-0682D3E1A4ED",
           "area_id": "9dd8c43e-dec8-4447-97b1-33bb8796e736",
           "legislative_period_id": "term/42"
         }
@@ -7441,7 +7442,7 @@
           "person_id": "person/ee71ddfb-28fc-4606-b650-ca699f80cd38",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "415658f8-c944-4a43-bffe-4e5c91f13fd9",
+          "on_behalf_of_id": "224576BC-8A05-49C8-81F4-0682D3E1A4ED",
           "area_id": "8e2ee293-6caa-4949-b8e6-18dc2f512e4b",
           "legislative_period_id": "term/42"
         }
@@ -8728,7 +8729,7 @@
           "person_id": "person/cbf67124-9c28-4698-b4e6-970b48cee90c",
           "organization_id": "chamber/house_of_commons",
           "role": "member",
-          "on_behalf_of_id": "415658f8-c944-4a43-bffe-4e5c91f13fd9",
+          "on_behalf_of_id": "224576BC-8A05-49C8-81F4-0682D3E1A4ED",
           "area_id": "fa23c244-84e3-4032-a3ac-769fe843ad02",
           "legislative_period_id": "term/42"
         }
@@ -8781,6 +8782,31 @@
           "role": "member",
           "on_behalf_of_id": "bf164634-07c6-483d-8d5c-12f4a803bde5",
           "area_id": "c5a03a3d-b4c3-4a49-99ee-89e733f01731",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/094e07e4-b03c-4471-8530-a69d87a6bff2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Richard_Martel’s_campaign_office_-_2018_(41609596932)_(cropped).jpg",
+      "name": "Richard Martel",
+      "sort_name": "Richard Martel",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Richard_Martel’s_campaign_office_-_2018_(41609596932)_(cropped).jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/094e07e4-b03c-4471-8530-a69d87a6bff2",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "c605dffb-1f13-4fd1-8944-3876a67c19f9",
+          "area_id": "058e7f85-ccea-43d3-8a13-676a1d5596e0",
           "legislative_period_id": "term/42"
         }
       ],
@@ -9842,35 +9868,6 @@
       ]
     },
     {
-      "email": "Steven.MacKinnon@parl.gc.ca",
-      "gender": "male",
-      "id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
-      "image": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MacKinnonSteven_Lib.jpg",
-      "name": "Steve MacKinnon",
-      "sort_name": "Steve MacKinnon",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "stevenmackinnon"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MacKinnonSteven_Lib.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
-          "organization_id": "chamber/house_of_commons",
-          "role": "member",
-          "on_behalf_of_id": "bf164634-07c6-483d-8d5c-12f4a803bde5",
-          "area_id": "aa928a01-5e1d-4df0-bcb5-fd7539df19f6",
-          "legislative_period_id": "term/42"
-        }
-      ]
-    },
-    {
       "email": "steven.blaney@parl.gc.ca",
       "gender": "male",
       "id": "person/39c1c1b3-e469-4b48-a74b-4809c7871df3",
@@ -9895,6 +9892,35 @@
           "role": "member",
           "on_behalf_of_id": "c605dffb-1f13-4fd1-8944-3876a67c19f9",
           "area_id": "612a8612-e66c-4328-b894-e025a2bd8281",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
+      "email": "Steven.MacKinnon@parl.gc.ca",
+      "gender": "male",
+      "id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
+      "image": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MacKinnonSteven_Lib.jpg",
+      "name": "Steven MacKinnon",
+      "sort_name": "Steven MacKinnon",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stevenmackinnon"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/MacKinnonSteven_Lib.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3c8a4563-c5e1-4799-ae6b-a0e8d17df9f0",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "bf164634-07c6-483d-8d5c-12f4a803bde5",
+          "area_id": "aa928a01-5e1d-4df0-bcb5-fd7539df19f6",
           "legislative_period_id": "term/42"
         }
       ]
@@ -10227,6 +10253,7 @@
           "role": "member",
           "on_behalf_of_id": "f8f037c1-2486-4f15-9917-8c1ac711fd95",
           "area_id": "f793d1c9-2f09-4dc5-bf9f-ddcc54b75627",
+          "end_date": "2018-08-03",
           "legislative_period_id": "term/42"
         }
       ]
