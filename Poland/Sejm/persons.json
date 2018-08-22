@@ -5601,12 +5601,19 @@
       ]
     },
     {
-      "id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
+      "gender": "female",
+      "id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinga_Gajewska-Płochocka.jpg",
       "name": "Kinga Gajewska",
       "sort_name": "Kinga Gajewska",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Kinga_Gajewska-Płochocka.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/4b66c4bb-6863-40a8-9143-a0f61e4fa1d9",
+          "person_id": "person/5b2aae0f-b7aa-4a01-968a-bf32c8804ab5",
           "organization_id": "chamber/sejm",
           "role": "member",
           "on_behalf_of_id": "klub_parlamentarny_platforma_obywatelska",
