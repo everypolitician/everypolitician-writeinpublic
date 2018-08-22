@@ -1,7 +1,7 @@
 {
-  "total": 169,
+  "total": 168,
   "page": 1,
-  "per_page": 169,
+  "per_page": 168,
   "has_more": false,
   "result": [
     {
@@ -2574,6 +2574,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/23f7edc8-e11c-42ae-963d-51bf329b15c4",
       "name": "Maria P Langa",
       "sort_name": "Maria P Langa",
@@ -2711,30 +2712,6 @@
           "role": "member",
           "on_behalf_of_id": "PF",
           "area_id": "kaputa",
-          "legislative_period_id": "term/2016"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/5f34443e-b7fb-4623-95d6-17629cb6bdc5",
-      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/kabanda%252C_maxwell_m.jpg?itok=mafDt6f2",
-      "name": "Maxwell Muma Kabanda",
-      "sort_name": "Maxwell Muma Kabanda",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/kabanda%252C_maxwell_m.jpg?itok=mafDt6f2"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5f34443e-b7fb-4623-95d6-17629cb6bdc5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "MMD",
-          "area_id": "serenje",
           "legislative_period_id": "term/2016"
         }
       ],
