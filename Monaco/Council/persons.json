@@ -5,24 +5,22 @@
   "has_more": false,
   "result": [
     {
-      "email": "a.ficini@conseil-national.mc",
-      "gender": "male",
-      "id": "person/b61c6f06-586a-4c6a-aa83-d58b5b2d4e93",
-      "image": "http://www.conseil-national.mc/images/les-elus/alain-ficini.jpg",
-      "name": "Alain FICINI",
-      "sort_name": "Alain FICINI",
+      "id": "person/628bcc52-e69f-414d-8eb6-cb685fd44666",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/balthazar-seydoux-fornier-de-clausonne.jpg",
+      "name": "Balthazar SEYDOUX",
+      "sort_name": "Balthazar SEYDOUX",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/alain-ficini.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/balthazar-seydoux-fornier-de-clausonne.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b61c6f06-586a-4c6a-aa83-d58b5b2d4e93",
+          "person_id": "person/628bcc52-e69f-414d-8eb6-cb685fd44666",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -30,24 +28,23 @@
       ]
     },
     {
-      "email": "b.pasquier@conseil-national.mc",
-      "gender": "male",
-      "id": "person/78eff3d1-a27f-4d2a-989f-3ba1c0c98e05",
-      "image": "http://www.conseil-national.mc/images/les-elus/bernard-pasquier.jpg",
-      "name": "Bernard PASQUIER",
-      "sort_name": "Bernard PASQUIER",
+      "gender": "female",
+      "id": "person/1d93838e-6598-4d3c-a710-10eec9548461",
+      "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/b-boccone-pages.jpg",
+      "name": "Brigitte BOCCONE-PAGES",
+      "sort_name": "Brigitte BOCCONE-PAGES",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/bernard-pasquier.jpg"
+          "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/b-boccone-pages.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/78eff3d1-a27f-4d2a-989f-3ba1c0c98e05",
+          "person_id": "person/1d93838e-6598-4d3c-a710-10eec9548461",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "um_union_monégasque",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -71,58 +68,8 @@
           "person_id": "person/78b470d0-6ac1-4633-923a-ec6e0de78465",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "c.rougaignon-vernin@conseil-national.mc",
-      "gender": "female",
-      "id": "person/b7c88562-ce17-43a7-9844-f79d21438fcc",
-      "image": "http://www.conseil-national.mc/images/les-elus/caroline-rougaignon-vernin.jpg",
-      "name": "Caroline ROUGAIGNON-VERNIN",
-      "sort_name": "Caroline ROUGAIGNON-VERNIN",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/caroline-rougaignon-vernin.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b7c88562-ce17-43a7-9844-f79d21438fcc",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "c.barilaro@conseil-national.mc",
-      "gender": "male",
-      "id": "person/79ddcd71-2532-4f83-97c9-51eb499d469c",
-      "image": "http://www.conseil-national.mc/images/les-elus/christian-barilaro.jpg",
-      "name": "Christian BARILARO",
-      "sort_name": "Christian BARILARO",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/christian-barilaro.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/79ddcd71-2532-4f83-97c9-51eb499d469c",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -146,8 +93,8 @@
           "person_id": "person/790ecb6c-1b06-4cc2-bbde-93df5ca2d04e",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -155,52 +102,22 @@
       ]
     },
     {
-      "email": "c.steiner@conseil-national.mc",
-      "gender": "male",
-      "id": "person/783a2833-98fb-4a4b-8957-c2f00fd49f49",
-      "image": "http://www.conseil-national.mc/images/les-elus/christophe-steiner.jpg",
-      "name": "Christophe STEINER",
-      "sort_name": "Christophe STEINER",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ChrisSteinerMC"
-        }
-      ],
+      "id": "person/26d9b1d7-374b-411f-a343-dc87a4c0ede1",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/corinne-bertani.jpg",
+      "name": "Corinne BERTANI",
+      "sort_name": "Corinne BERTANI",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/christophe-steiner.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/corinne-bertani.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/783a2833-98fb-4a4b-8957-c2f00fd49f49",
+          "person_id": "person/26d9b1d7-374b-411f-a343-dc87a4c0ede1",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ]
-    },
-    {
-      "email": "c.boisson@conseil-national.mc",
-      "gender": "male",
-      "id": "person/4eb0dab7-0f82-4138-86fd-c919a8bfeeb0",
-      "image": "http://www.conseil-national.mc/images/les-elus/claude-boisson.jpg",
-      "name": "Claude BOISSON",
-      "sort_name": "Claude BOISSON",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/claude-boisson.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4eb0dab7-0f82-4138-86fd-c919a8bfeeb0",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -230,8 +147,8 @@
           "person_id": "person/58792ffa-85b5-4ece-b1f8-dbd8f7213689",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -239,24 +156,93 @@
       ]
     },
     {
-      "email": "e.elena@conseil-national.mc",
       "gender": "male",
-      "id": "person/c1272a5a-5439-4500-870d-2293cf7a66e5",
-      "image": "http://www.conseil-national.mc/images/les-elus/eric-elena.jpg",
-      "name": "Eric ELENA",
-      "sort_name": "Eric ELENA",
+      "id": "person/25e19ea7-eda6-4c2c-bf12-51116d446f46",
+      "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/f-notari.jpg",
+      "name": "Fabrice NOTARI",
+      "sort_name": "Fabrice NOTARI",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/eric-elena.jpg"
+          "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/f-notari.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c1272a5a-5439-4500-870d-2293cf7a66e5",
+          "person_id": "person/25e19ea7-eda6-4c2c-bf12-51116d446f46",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "r_renaissance",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/06e30738-1b93-4cf9-b7bc-bd075051e897",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-julien.jpg",
+      "name": "Franck JULIEN",
+      "sort_name": "Franck JULIEN",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-julien.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/06e30738-1b93-4cf9-b7bc-bd075051e897",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5142413b-ce6e-4942-bfa7-2d1fef2b2831",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-lobono.jpg",
+      "name": "Franck LOBONO",
+      "sort_name": "Franck LOBONO",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-lobono.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5142413b-ce6e-4942-bfa7-2d1fef2b2831",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/fb697241-3d14-4ff6-b9b3-07632411160c",
+      "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/g-rose.jpg",
+      "name": "Guillaume ROSE",
+      "sort_name": "Guillaume ROSE",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/g-rose.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fb697241-3d14-4ff6-b9b3-07632411160c",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -280,8 +266,8 @@
           "person_id": "person/c344c675-dfe7-401b-af68-768a2d9dd3bf",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -289,52 +275,22 @@
       ]
     },
     {
-      "email": "jc.allavena@conseil-national.mc",
-      "gender": "male",
-      "id": "person/054bb1e0-7971-48ef-ae58-61e1c2f9c1e4",
-      "image": "http://www.conseil-national.mc/images/les-elus/jean-charles-allavena.jpg",
-      "name": "Jean-Charles ALLAVENA",
-      "sort_name": "Jean-Charles ALLAVENA",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "jc_allavena"
-        }
-      ],
+      "id": "person/c974e0af-100c-4836-bdb4-feaa8b629e0c",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/jean-charles-emmerich.jpg",
+      "name": "Jean-Charles EMMERICH",
+      "sort_name": "Jean-Charles EMMERICH",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/jean-charles-allavena.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/jean-charles-emmerich.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/054bb1e0-7971-48ef-ae58-61e1c2f9c1e4",
+          "person_id": "person/c974e0af-100c-4836-bdb4-feaa8b629e0c",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ]
-    },
-    {
-      "email": "jf.robillon@conseil-national.mc",
-      "gender": "male",
-      "id": "person/1403f449-2ecf-471f-9a40-4fe141a8ac11",
-      "image": "http://www.conseil-national.mc/images/les-elus/jean-francois-robillon.jpg",
-      "name": "Jean-François ROBILLON",
-      "sort_name": "Jean-François ROBILLON",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/jean-francois-robillon.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1403f449-2ecf-471f-9a40-4fe141a8ac11",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "um_union_monégasque",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -358,8 +314,8 @@
           "person_id": "person/b032b05f-e481-49fc-a062-786121367d0a",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "um_union_monégasque",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "68f9829f-bc2d-4192-8aa6-f0360bdd2d9d",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -367,24 +323,22 @@
       ]
     },
     {
-      "email": "jm.cucchi@conseil-national.mc",
-      "gender": "male",
-      "id": "person/1ca4231f-195d-46da-aae8-bd13b0403a70",
-      "image": "http://www.conseil-national.mc/images/les-elus/jean-michel-cucchi_2.jpg",
-      "name": "Jean-Michel CUCCHI",
-      "sort_name": "Jean-Michel CUCCHI",
+      "id": "person/7e3b9908-a5d3-4441-ab60-ea2e7becbe92",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/jose-badia.jpg",
+      "name": "José BADIA",
+      "sort_name": "José BADIA",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/jean-michel-cucchi_2.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/jose-badia.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1ca4231f-195d-46da-aae8-bd13b0403a70",
+          "person_id": "person/7e3b9908-a5d3-4441-ab60-ea2e7becbe92",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -392,24 +346,22 @@
       ]
     },
     {
-      "email": "lnp@conseil-national.mc",
-      "gender": "male",
-      "id": "person/95d751a1-ceb8-44a2-a26e-49cc15fcec36",
-      "image": "http://www.conseil-national.mc/images/les-elus/laurent-nouvion.jpg",
-      "name": "Laurent NOUVION",
-      "sort_name": "Laurent NOUVION",
+      "id": "person/d52f9f04-0017-44a5-8bc2-241ea358e63b",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/karen-aliprendi-de-carvalho.jpg",
+      "name": "Karen ALIPRENDI-DE CARVALHO",
+      "sort_name": "Karen ALIPRENDI-DE CARVALHO",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/laurent-nouvion.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/karen-aliprendi-de-carvalho.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/95d751a1-ceb8-44a2-a26e-49cc15fcec36",
+          "person_id": "person/d52f9f04-0017-44a5-8bc2-241ea358e63b",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -417,24 +369,92 @@
       ]
     },
     {
-      "email": "m.burini@conseil-national.mc",
-      "gender": "male",
-      "id": "person/2e704dfa-f7bd-4930-8550-6e521cc55ba0",
-      "image": "http://www.conseil-national.mc/images/les-elus/marc-burini.jpg",
-      "name": "Marc BURINI",
-      "sort_name": "Marc BURINI",
+      "id": "person/52a2c9c3-c40a-48d6-8bb1-00d962394283",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marc-mourou.jpg",
+      "name": "Marc MOUROU",
+      "sort_name": "Marc MOUROU",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/marc-burini.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marc-mourou.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2e704dfa-f7bd-4930-8550-6e521cc55ba0",
+          "person_id": "person/52a2c9c3-c40a-48d6-8bb1-00d962394283",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/75fa65ed-d4aa-4618-8b1e-2c05e00d9513",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marie-noelle-gibelli.jpg",
+      "name": "Marie-Noëlle GIBELLI",
+      "sort_name": "Marie-Noëlle GIBELLI",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marie-noelle-gibelli.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/75fa65ed-d4aa-4618-8b1e-2c05e00d9513",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4cb2a7a1-d60a-494e-b26f-168c47e6a18e",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marine-grisoul.jpg",
+      "name": "Marine GRISOUL",
+      "sort_name": "Marine GRISOUL",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marine-grisoul.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4cb2a7a1-d60a-494e-b26f-168c47e6a18e",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/8a61bd82-a48d-458f-a492-17a1b7a34716",
+      "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/m-dittlot.jpg",
+      "name": "Michèle DITTLOT",
+      "sort_name": "Michèle DITTLOT",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/m-dittlot.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8a61bd82-a48d-458f-a492-17a1b7a34716",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -458,8 +478,8 @@
           "person_id": "person/b168e57b-f950-4722-9a57-93ba07102654",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -467,24 +487,69 @@
       ]
     },
     {
-      "email": "p.clerissi@conseil-national.mc",
+      "id": "person/7ef954b5-1b59-4aec-b4c2-292e7332552d",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-bardy.jpg",
+      "name": "Pierre BARDY",
+      "sort_name": "Pierre BARDY",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-bardy.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7ef954b5-1b59-4aec-b4c2-292e7332552d",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5cf9857e-1dba-49bd-b699-a0629ac20f9a",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-van-klaveren.jpg",
+      "name": "Pierre VAN KLAVEREN",
+      "sort_name": "Pierre VAN KLAVEREN",
+      "images": [
+        {
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-van-klaveren.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5cf9857e-1dba-49bd-b699-a0629ac20f9a",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
-      "id": "person/6085eb00-212f-405e-b1f0-54dbafdadd71",
-      "image": "http://www.conseil-national.mc/images/les-elus/philippe-clerissi.jpg",
-      "name": "Philippe CLERISSI",
-      "sort_name": "Philippe CLERISSI",
+      "id": "person/668e705c-f139-4eb4-89d7-fca38374dd84",
+      "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2003-2008/s-valeri.jpg",
+      "name": "Stéphane VALERI",
+      "sort_name": "Stéphane VALERI",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/philippe-clerissi.jpg"
+          "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2003-2008/s-valeri.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6085eb00-212f-405e-b1f0-54dbafdadd71",
+          "person_id": "person/668e705c-f139-4eb4-89d7-fca38374dd84",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -492,127 +557,22 @@
       ]
     },
     {
-      "email": "p.svara@conseil-national.mc",
-      "gender": "male",
-      "id": "person/c541384f-8172-4bdf-95f5-eaca8370a821",
-      "image": "http://www.conseil-national.mc/images/les-elus/pierre-svara.jpg",
-      "name": "Pierre SVARA",
-      "sort_name": "Pierre SVARA",
+      "id": "person/bb712ae0-0ab4-4200-a00b-55bb5ea11961",
+      "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/thomas-brezzo.jpg",
+      "name": "Thomas BREZZO",
+      "sort_name": "Thomas BREZZO",
       "images": [
         {
-          "url": "http://www.conseil-national.mc/images/les-elus/pierre-svara.jpg"
+          "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/thomas-brezzo.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c541384f-8172-4bdf-95f5-eaca8370a821",
+          "person_id": "person/bb712ae0-0ab4-4200-a00b-55bb5ea11961",
           "organization_id": "chamber/national_council",
           "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "s.lavagna@conseil-national.mc",
-      "gender": "female",
-      "id": "person/0633c42c-6d36-49cf-8427-245ffc12bfe3",
-      "image": "http://www.conseil-national.mc/images/les-elus/sophie-lavagna.jpg",
-      "name": "Sophie LAVAGNA",
-      "sort_name": "Sophie LAVAGNA",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/sophie-lavagna.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0633c42c-6d36-49cf-8427-245ffc12bfe3",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "t.crovetto@conseil-national.mc",
-      "gender": "male",
-      "id": "person/030badfd-b11b-4977-bc43-484b8645f027",
-      "image": "http://www.conseil-national.mc/images/les-elus/thierry-crovetto.jpg",
-      "name": "Thierry CROVETTO",
-      "sort_name": "Thierry CROVETTO",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "thierrycrovetto"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/thierry-crovetto.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/030badfd-b11b-4977-bc43-484b8645f027",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ]
-    },
-    {
-      "email": "t.poyet@conseil-national.mc",
-      "gender": "male",
-      "id": "person/a5caa3de-352b-4afe-b3cc-7bb25d36dd90",
-      "image": "http://www.conseil-national.mc/images/les-elus/thierry-poyet.jpg",
-      "name": "Thierry POYET",
-      "sort_name": "Thierry POYET",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/thierry-poyet.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a5caa3de-352b-4afe-b3cc-7bb25d36dd90",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "v.rossi@conseil-national.mc",
-      "gender": "female",
-      "id": "person/6ea1c2ed-3ae5-412b-9ec9-938fb8db35c0",
-      "image": "http://www.conseil-national.mc/images/les-elus/valerie-rossi.jpg",
-      "name": "Valérie ROSSI",
-      "sort_name": "Valérie ROSSI",
-      "images": [
-        {
-          "url": "http://www.conseil-national.mc/images/les-elus/valerie-rossi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6ea1c2ed-3ae5-412b-9ec9-938fb8db35c0",
-          "organization_id": "chamber/national_council",
-          "role": "member",
-          "on_behalf_of_id": "hm_horizon_monaco",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
