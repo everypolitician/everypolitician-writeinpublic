@@ -5,6 +5,7 @@
   "has_more": false,
   "result": [
     {
+      "gender": "male",
       "id": "person/628bcc52-e69f-414d-8eb6-cb685fd44666",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/balthazar-seydoux-fornier-de-clausonne.jpg",
       "name": "Balthazar SEYDOUX",
@@ -102,6 +103,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/26d9b1d7-374b-411f-a343-dc87a4c0ede1",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/corinne-bertani.jpg",
       "name": "Corinne BERTANI",
@@ -180,10 +182,23 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/06e30738-1b93-4cf9-b7bc-bd075051e897",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-julien.jpg",
       "name": "Franck JULIEN",
       "sort_name": "Franck JULIEN",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FranckJULIEN"
+        }
+      ],
+      "links": [
+        {
+          "url": "franck.julien",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-julien.jpg"
@@ -197,16 +212,20 @@
           "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
           "legislative_period_id": "term/2018"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
+      "gender": "male",
       "id": "person/5142413b-ce6e-4942-bfa7-2d1fef2b2831",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-lobono.jpg",
       "name": "Franck LOBONO",
       "sort_name": "Franck LOBONO",
+      "links": [
+        {
+          "url": "lobono",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/franck-lobono.jpg"
@@ -275,6 +294,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/c974e0af-100c-4836-bdb4-feaa8b629e0c",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/jean-charles-emmerich.jpg",
       "name": "Jean-Charles EMMERICH",
@@ -323,6 +343,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7e3b9908-a5d3-4441-ab60-ea2e7becbe92",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/jose-badia.jpg",
       "name": "José BADIA",
@@ -346,10 +367,17 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/d52f9f04-0017-44a5-8bc2-241ea358e63b",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/karen-aliprendi-de-carvalho.jpg",
       "name": "Karen ALIPRENDI-DE CARVALHO",
       "sort_name": "Karen ALIPRENDI-DE CARVALHO",
+      "links": [
+        {
+          "url": "aliprendi.karen",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/karen-aliprendi-de-carvalho.jpg"
@@ -369,6 +397,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/52a2c9c3-c40a-48d6-8bb1-00d962394283",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marc-mourou.jpg",
       "name": "Marc MOUROU",
@@ -392,10 +421,17 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/75fa65ed-d4aa-4618-8b1e-2c05e00d9513",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marie-noelle-gibelli.jpg",
       "name": "Marie-Noëlle GIBELLI",
       "sort_name": "Marie-Noëlle GIBELLI",
+      "links": [
+        {
+          "url": "poullainm",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marie-noelle-gibelli.jpg"
@@ -415,10 +451,23 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/4cb2a7a1-d60a-494e-b26f-168c47e6a18e",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marine-grisoul.jpg",
       "name": "Marine GRISOUL",
       "sort_name": "Marine GRISOUL",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarineGRISOUL"
+        }
+      ],
+      "links": [
+        {
+          "url": "marine.grisoul.9",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/marine-grisoul.jpg"
@@ -432,9 +481,6 @@
           "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
           "legislative_period_id": "term/2018"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -487,10 +533,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7ef954b5-1b59-4aec-b4c2-292e7332552d",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-bardy.jpg",
       "name": "Pierre BARDY",
       "sort_name": "Pierre BARDY",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "namepierre"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-bardy.jpg"
@@ -504,12 +557,10 @@
           "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
           "legislative_period_id": "term/2018"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
+      "gender": "male",
       "id": "person/5cf9857e-1dba-49bd-b699-a0629ac20f9a",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/pierre-van-klaveren.jpg",
       "name": "Pierre VAN KLAVEREN",
@@ -557,10 +608,17 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/bb712ae0-0ab4-4200-a00b-55bb5ea11961",
       "image": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/thomas-brezzo.jpg",
       "name": "Thomas BREZZO",
       "sort_name": "Thomas BREZZO",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TBrezzo_mc"
+        }
+      ],
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/les-elus/elus-2018-2023/thomas-brezzo.jpg"
@@ -574,9 +632,6 @@
           "on_behalf_of_id": "f9cd8f01-6af9-4e69-b1e8-e634000ed059",
           "legislative_period_id": "term/2018"
         }
-      ],
-      "contact_details": [
-
       ]
     }
   ]
