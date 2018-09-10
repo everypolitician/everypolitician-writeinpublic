@@ -1,7 +1,7 @@
 {
-  "total": 104,
+  "total": 105,
   "page": 1,
-  "per_page": 104,
+  "per_page": 105,
   "has_more": false,
   "result": [
     {
@@ -1606,6 +1606,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:az",
+          "end_date": "2018-08-25",
           "legislative_period_id": "term/115"
         }
       ]
@@ -1670,6 +1671,32 @@
           "area_id": "ocd-division/country:us/state:ga",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/5ca3f081-5699-4827-bc3a-a74e02d0cea0",
+      "image": "https://theunitedstates.io/images/congress/original/K000352.jpg",
+      "name": "Jon Kyl",
+      "sort_name": "Kyl, Jon",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/K000352.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5ca3f081-5699-4827-bc3a-a74e02d0cea0",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:az",
+          "start_date": "2018-09-05",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
