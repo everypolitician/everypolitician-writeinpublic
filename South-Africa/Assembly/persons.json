@@ -1,7 +1,7 @@
 {
-  "total": 487,
+  "total": 490,
   "page": 1,
-  "per_page": 487,
+  "per_page": 490,
   "has_more": false,
   "result": [
     {
@@ -207,6 +207,30 @@
           "role": "member",
           "on_behalf_of_id": "Q761877",
           "area_id": "Q133083",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7f19a40a-0135-486c-8d94-15a40cb69273",
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "name": "Albert Mammoga Seabi",
+      "sort_name": "Albert Mammoga Seabi",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7f19a40a-0135-486c-8d94-15a40cb69273",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "start_date": "2018-07-30",
           "legislative_period_id": "term/26"
         }
       ],
@@ -7606,6 +7630,7 @@
     },
     {
       "email": "lindiwe.mathada@treasury.gov.za",
+      "gender": "male",
       "id": "person/25212dab-ac32-4c34-95d7-64d6f3212603",
       "image": "https://www.pa.org.za/media_root/cache/18/0e/180e06b8b008afc282a3258b1c128288.jpg",
       "name": "Mondli Gungubele",
@@ -8788,6 +8813,30 @@
       ]
     },
     {
+      "id": "person/f271f802-6eaa-43e4-acac-a81350c64209",
+      "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
+      "name": "Nomvuzo Francisca Shabalala",
+      "sort_name": "Nomvuzo Francisca Shabalala",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/static/images/person-210x210.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f271f802-6eaa-43e4-acac-a81350c64209",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "start_date": "2018-07-31",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "mamelodi@ancpco-gp.co.za",
       "gender": "female",
       "id": "person/f1d5837a-5552-4b82-88a7-8c1d015d4540",
@@ -9319,6 +9368,30 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q510163",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e90c477a-0313-4711-a85a-f6fa291c7feb",
+      "image": "https://www.pa.org.za/media_root/cache/87/25/8725efde6aa0c7cc5ebce96bc3c16937.jpg",
+      "name": "Phoebe Noxolo Abraham-Ntantiso",
+      "sort_name": "Phoebe Noxolo Abraham-Ntantiso",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/87/25/8725efde6aa0c7cc5ebce96bc3c16937.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e90c477a-0313-4711-a85a-f6fa291c7feb",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "Q83162",
+          "start_date": "2018-08-14",
           "legislative_period_id": "term/26"
         }
       ],
