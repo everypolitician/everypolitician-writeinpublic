@@ -2307,6 +2307,41 @@
       ]
     },
     {
+      "email": "david.anderson@parl.gc.ca",
+      "gender": "male",
+      "id": "person/ccd8d94a-3564-4408-bd23-ad40283b48fb",
+      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AndersonDavid_CPC.jpg",
+      "name": "David Anderson",
+      "sort_name": "David Anderson",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DavidAndersonSK"
+        }
+      ],
+      "links": [
+        {
+          "url": "David-Anderson-MP-for-Cypress-Hills-Grasslands-SK-167781826574177",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AndersonDavid_CPC.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ccd8d94a-3564-4408-bd23-ad40283b48fb",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "c605dffb-1f13-4fd1-8944-3876a67c19f9",
+          "area_id": "27943607-c1c6-45ee-beeb-a72fcb828bd1",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
       "email": "david.christopherson@parl.gc.ca",
       "gender": "male",
       "id": "person/f3eb6590-2e7c-4120-80f5-b1ea25cd245d",
@@ -2366,41 +2401,6 @@
           "role": "member",
           "on_behalf_of_id": "bf164634-07c6-483d-8d5c-12f4a803bde5",
           "area_id": "110b1b14-0292-4c8f-9530-7b27ce9afabc",
-          "legislative_period_id": "term/42"
-        }
-      ]
-    },
-    {
-      "email": "david.anderson@parl.gc.ca",
-      "gender": "male",
-      "id": "person/ccd8d94a-3564-4408-bd23-ad40283b48fb",
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AndersonDavid_CPC.jpg",
-      "name": "David L. Anderson",
-      "sort_name": "David L. Anderson",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "DavidAndersonSK"
-        }
-      ],
-      "links": [
-        {
-          "url": "David-Anderson-MP-for-Cypress-Hills-Grasslands-SK-167781826574177",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/AndersonDavid_CPC.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ccd8d94a-3564-4408-bd23-ad40283b48fb",
-          "organization_id": "chamber/house_of_commons",
-          "role": "member",
-          "on_behalf_of_id": "c605dffb-1f13-4fd1-8944-3876a67c19f9",
-          "area_id": "27943607-c1c6-45ee-beeb-a72fcb828bd1",
           "legislative_period_id": "term/42"
         }
       ]
