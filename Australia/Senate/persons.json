@@ -1,7 +1,7 @@
 {
-  "total": 84,
+  "total": 92,
   "page": 1,
-  "per_page": 84,
+  "per_page": 92,
   "has_more": false,
   "result": [
     {
@@ -34,6 +34,26 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/c0a4b8bb-8ba2-459d-819a-1627e0588079",
+      "name": "Amanda Stoker",
+      "sort_name": "Stoker, Amanda",
+      "memberships": [
+        {
+          "person_id": "person/c0a4b8bb-8ba2-459d-819a-1627e0588079",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "queensland",
+          "start_date": "2018-03-21",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "senator.bartlett@aph.gov.au",
       "gender": "male",
       "id": "person/7972765e-ec2d-4593-a8d9-4b9761e61464",
@@ -59,11 +79,13 @@
           "on_behalf_of_id": "australian_greens",
           "area_id": "queensland",
           "start_date": "2017-11-10",
+          "end_date": "2018-08-27",
           "legislative_period_id": "term/45"
         }
       ]
     },
     {
+      "email": "senator.ruston@aph.gov.au",
       "gender": "female",
       "id": "person/fbbaa6ca-68ea-4093-94c4-28fe8eb9a5e7",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/243273/upload_ref_binary/243273.jpg",
@@ -156,9 +178,10 @@
       ]
     },
     {
+      "email": "senator.sinodinos@aph.gov.au",
       "gender": "male",
       "id": "person/800fed41-c946-4010-a910-41c820bf3ca2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Sinodinos_2016.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/BV7.jpg",
       "name": "Arthur Sinodinos",
       "sort_name": "Sinodinos, Arthur",
       "contact_details": [
@@ -169,7 +192,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Sinodinos_2016.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BV7/upload_ref_binary/BV7.jpg"
         }
       ],
       "memberships": [
@@ -622,6 +645,27 @@
       ]
     },
     {
+      "email": "senator.david.smith@aph.gov.au",
+      "gender": "male",
+      "id": "person/e8071f79-a880-4db8-b944-f7fe2e218444",
+      "name": "David Smith",
+      "sort_name": "Smith, David",
+      "memberships": [
+        {
+          "person_id": "person/e8071f79-a880-4db8-b944-f7fe2e218444",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "act",
+          "start_date": "2018-05-23",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "senator.smith@aph.gov.au",
       "gender": "male",
       "id": "person/6fe2104d-e89f-4709-89eb-f5b9c78ffca4",
@@ -841,6 +885,26 @@
           "on_behalf_of_id": "pauline_hanson's_one_nation_party",
           "area_id": "queensland",
           "start_date": "2017-11-10",
+          "end_date": "2018-01-15",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/83ed1e9b-de0b-4be1-a711-01405db6b00b",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "queensland",
+          "start_date": "2018-01-15",
+          "end_date": "2018-06-04",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/83ed1e9b-de0b-4be1-a711-01405db6b00b",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "katter's_australian_party",
+          "area_id": "queensland",
+          "start_date": "2018-06-04",
           "legislative_period_id": "term/45"
         }
       ],
@@ -893,6 +957,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "queensland",
+          "end_date": "2018-02-07",
           "legislative_period_id": "term/45"
         }
       ],
@@ -1209,6 +1274,30 @@
       ]
     },
     {
+      "email": "senator.molan@aph.gov.au",
+      "gender": "male",
+      "id": "person/30d8b070-1c7f-4d9e-9c9f-24e80fd89a38",
+      "name": "Jim Molan",
+      "sort_name": "Molan, Jim",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Jim_Molan"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/30d8b070-1c7f-4d9e-9c9f-24e80fd89a38",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "nsw",
+          "start_date": "2017-12-22",
+          "legislative_period_id": "term/45"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/3375e2b5-b29f-48b4-a5c0-b30b6b703745",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0V/upload_ref_binary/I0V.jpg",
@@ -1317,6 +1406,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "act",
+          "end_date": "2018-05-10",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1380,6 +1470,39 @@
       ]
     },
     {
+      "email": "senator.keneally@aph.gov.au",
+      "gender": "female",
+      "id": "person/45143c84-06d0-4b86-bf8c-7afcbe2f899a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kristina_Keneally.jpg",
+      "name": "Kristina Keneally",
+      "sort_name": "Keneally, Kristina",
+      "links": [
+        {
+          "url": "SenatorKeneally",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kristina_Keneally.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/45143c84-06d0-4b86-bf8c-7afcbe2f899a",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "nsw",
+          "start_date": "2018-02-14",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "senator.waters@aph.gov.au",
       "gender": "female",
       "id": "person/bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
@@ -1412,6 +1535,15 @@
           "area_id": "queensland",
           "end_date": "2017-07-18",
           "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_greens",
+          "area_id": "queensland",
+          "start_date": "2018-09-06",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -1440,6 +1572,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_greens",
           "area_id": "nsw",
+          "end_date": "2018-08-18",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1728,6 +1861,33 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/1d57dbb0-7f31-4d85-b25c-43ffbd212960",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mehreen_Faruqi_2015.jpg",
+      "name": "Mehreen Faruqi",
+      "sort_name": "Faruqi, Mehreen",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mehreen_Faruqi_2015.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1d57dbb0-7f31-4d85-b25c-43ffbd212960",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_greens",
+          "area_id": "nsw",
+          "start_date": "2018-08-18",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "minister.cash@jobs.gov.au",
       "gender": "female",
       "id": "person/26c73bfa-9bd8-43e0-99d7-9183da991280",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0M/upload_ref_binary/I0M.jpg",
@@ -2118,6 +2278,46 @@
           "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "sa",
           "start_date": "2017-11-14",
+          "end_date": "2018-04-10",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/cf381a3a-0ae9-4706-92cb-37b58195d325",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "centre_alliance",
+          "area_id": "sa",
+          "start_date": "2018-04-10",
+          "legislative_period_id": "term/45"
+        }
+      ]
+    },
+    {
+      "email": "senator.colbeck@aph.gov.au",
+      "gender": "male",
+      "id": "person/a411ea63-c0a8-4df7-b88b-872390ceff4d",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOL/upload_ref_binary/00AOL.JPG",
+      "name": "Richard Colbeck",
+      "sort_name": "Colbeck, Richard",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "richardmcolbeck"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOL/upload_ref_binary/00AOL.JPG"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a411ea63-c0a8-4df7-b88b-872390ceff4d",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "tasmania",
+          "start_date": "2018-02-09",
           "legislative_period_id": "term/45"
         }
       ]
@@ -2212,6 +2412,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "nsw",
+          "end_date": "2018-01-25",
           "legislative_period_id": "term/45"
         }
       ]
@@ -2468,6 +2669,27 @@
       ]
     },
     {
+      "email": "senator.martin@aph.gov.au",
+      "gender": "male",
+      "id": "person/e57a3cc6-a900-4bfc-9c09-9fac4610742b",
+      "name": "Steve Martin",
+      "sort_name": "Martin, Steve",
+      "memberships": [
+        {
+          "person_id": "person/e57a3cc6-a900-4bfc-9c09-9fac4610742b",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "tasmania",
+          "start_date": "2018-02-09",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "senator.griff@aph.gov.au",
       "gender": "male",
       "id": "person/9b18d569-545a-41d7-a680-ea0d7819a8f4",
@@ -2492,6 +2714,16 @@
           "role": "member",
           "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "sa",
+          "end_date": "2018-04-10",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/9b18d569-545a-41d7-a680-ea0d7819a8f4",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "centre_alliance",
+          "area_id": "sa",
+          "start_date": "2018-04-10",
           "legislative_period_id": "term/45"
         }
       ]
@@ -2531,6 +2763,45 @@
           "on_behalf_of_id": "dpres",
           "area_id": "wa",
           "start_date": "2016-09-30",
+          "legislative_period_id": "term/45"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/39bc3b90-b754-4443-988d-ae48334b4bda",
+      "name": "Tim Storer",
+      "sort_name": "Storer, Tim",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "storertim"
+        }
+      ],
+      "links": [
+        {
+          "url": "SenatorTimStorer",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/39bc3b90-b754-4443-988d-ae48334b4bda",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "nick_xenophon_team",
+          "area_id": "sa",
+          "start_date": "2018-02-16",
+          "end_date": "2018-02-26",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/39bc3b90-b754-4443-988d-ae48334b4bda",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "sa",
+          "start_date": "2018-02-26",
           "legislative_period_id": "term/45"
         }
       ]
