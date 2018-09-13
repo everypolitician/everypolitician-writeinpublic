@@ -768,14 +768,8 @@
     {
       "gender": "male",
       "id": "person/a237e494-1ac3-4b37-850a-b941e2177c75",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jan-Bartosek.jpg",
       "name": "Jan Bartošek",
       "sort_name": "Bartošek, Jan",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jan-Bartosek.jpg"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/a237e494-1ac3-4b37-850a-b941e2177c75",
@@ -1604,6 +1598,18 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/JUDr.-Jiří-Pospíšil.jpg",
       "name": "Jiří Pospíšil",
       "sort_name": "Pospíšil, Jiří",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Pospisil_Jiri"
+        }
+      ],
+      "links": [
+        {
+          "url": "judr.jiri.pospisil",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/JUDr.-Jiří-Pospíšil.jpg"
@@ -1628,9 +1634,6 @@
           "end_date": "2014-06-20",
           "legislative_period_id": "term/7"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3602,8 +3605,14 @@
     {
       "gender": "female",
       "id": "person/10f0bfcf-dae7-4ca1-ac70-3f79263680ef",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2017_Pavla_Golasowska.jpg",
       "name": "Pavla Golasowská",
       "sort_name": "Golasowská, Pavla",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2017_Pavla_Golasowska.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/10f0bfcf-dae7-4ca1-ac70-3f79263680ef",
@@ -4261,6 +4270,18 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Stanislav_Polčák.jpg",
       "name": "Stanislav Polčák",
       "sort_name": "Polčák, Stanislav",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stanislavpolcak"
+        }
+      ],
+      "links": [
+        {
+          "url": "spolcak",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Stanislav_Polčák.jpg"
@@ -4276,9 +4297,6 @@
           "end_date": "2014-07-01",
           "legislative_period_id": "term/7"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
