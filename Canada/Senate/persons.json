@@ -1,7 +1,7 @@
 {
-  "total": 98,
+  "total": 109,
   "page": 1,
-  "per_page": 98,
+  "per_page": 109,
   "has_more": false,
   "result": [
     {
@@ -56,7 +56,7 @@
           "person_id": "person/5a16dd06-d2ab-484c-9260-70fa585268ce",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(de_salaberry)",
           "legislative_period_id": "term/42"
         }
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "email": "carolyn.stewartolsen@sen.parl.gc.ca",
+      "email": "SenatorStewartOlsen@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/e1410d5f-ee03-43bb-bb08-2e280522808d",
       "image": "https://sencanada.ca/media/26365/sen_2860_large.jpg",
@@ -239,7 +239,7 @@
           "person_id": "person/331d1791-bc9a-4d7f-8d18-72de7d139451",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(grandville)",
           "legislative_period_id": "term/42"
         }
@@ -333,6 +333,31 @@
       ]
     },
     {
+      "email": "colin.deacon@sen.parl.gc.ca",
+      "id": "person/531f5285-a249-46b8-9739-6aec8dd8ed31",
+      "image": "https://sencanada.ca/media/362245/sen_214082_large.jpg",
+      "name": "Colin Deacon",
+      "sort_name": "Deacon, Colin",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362245/sen_214082_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/531f5285-a249-46b8-9739-6aec8dd8ed31",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "nova_scotia_(nova_scotia)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "colin.kenny@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/43673e63-a20a-49bb-be65-f13ae06d46f5",
@@ -375,7 +400,7 @@
           "person_id": "person/5658d0ee-29cf-4b6f-932c-962bc71bfd1d",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "nova_scotia_(nova_scotia)",
           "legislative_period_id": "term/42"
         }
@@ -440,6 +465,32 @@
           "area_id": "newfoundland_and_labrador_(newfoundland_and_labrador)",
           "legislative_period_id": "term/42"
         }
+      ]
+    },
+    {
+      "email": "David.Richards@sen.parl.gc.ca",
+      "gender": "male",
+      "id": "person/09375f25-8ef2-4a5e-b83f-35bbe8b5af85",
+      "image": "https://sencanada.ca/media/359642/sen_210483_large.jpg",
+      "name": "David Richards",
+      "sort_name": "Richards, David",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/359642/sen_210483_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/09375f25-8ef2-4a5e-b83f-35bbe8b5af85",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "new_brunswick_(new_brunswick)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -603,7 +654,7 @@
       "email": "Diane.Griffin@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/e9d92366-2a74-4cba-adde-6f94ff973f92",
-      "image": "https://sencanada.ca/media/229938/sen-207806-large.jpg",
+      "image": "https://sencanada.ca/media/229938/sen_207806_large.jpg",
       "name": "Diane F. Griffin",
       "sort_name": "Griffin, Diane F.",
       "contact_details": [
@@ -620,7 +671,7 @@
       ],
       "images": [
         {
-          "url": "https://sencanada.ca/media/229938/sen-207806-large.jpg"
+          "url": "https://sencanada.ca/media/229938/sen_207806_large.jpg"
         }
       ],
       "memberships": [
@@ -628,7 +679,7 @@
           "person_id": "person/e9d92366-2a74-4cba-adde-6f94ff973f92",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "prince_edward_island_(prince_edward_island)",
           "legislative_period_id": "term/42"
         }
@@ -670,6 +721,31 @@
       ]
     },
     {
+      "email": "Donna.Dasko@sen.parl.gc.ca",
+      "id": "person/19b27ef9-c2e5-4c60-9fa6-ee6989e9c3f7",
+      "image": "https://sencanada.ca/media/362149/sen_213958_large.jpg",
+      "name": "Donna Dasko",
+      "sort_name": "Dasko, Donna",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362149/sen_213958_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/19b27ef9-c2e5-4c60-9fa6-ee6989e9c3f7",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "ontario_(ontario)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "doug.black@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/e2138cf5-5e1a-4b1a-a55b-2be1229a5f93",
@@ -698,7 +774,7 @@
           "person_id": "person/e2138cf5-5e1a-4b1a-a55b-2be1229a5f93",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "alberta_(alberta)",
           "legislative_period_id": "term/42"
         }
@@ -733,7 +809,7 @@
           "person_id": "person/e45d67a1-58d6-4564-adc0-ff01cb4e2a4c",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "alberta_(alberta)",
           "legislative_period_id": "term/42"
         }
@@ -837,7 +913,7 @@
           "person_id": "person/ff635215-6d95-44de-a644-973cfa157074",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -905,12 +981,12 @@
       "email": "ghislain.maltais@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/490008c1-2b1a-4bed-99c8-3f00e0d33638",
-      "image": "https://sencanada.ca/media/26189/sen_3551_large.jpg",
+      "image": "https://sencanada.ca/media/26189/sen_3551_large-2018.jpg",
       "name": "Ghislain Maltais",
       "sort_name": "Maltais, Ghislain",
       "images": [
         {
-          "url": "https://sencanada.ca/media/26189/sen_3551_large.jpg"
+          "url": "https://sencanada.ca/media/26189/sen_3551_large-2018.jpg"
         }
       ],
       "memberships": [
@@ -979,7 +1055,7 @@
           "person_id": "person/43209d6b-e312-42c6-bb96-96fd2756585a",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -1005,7 +1081,7 @@
           "person_id": "person/1b6aeac7-7fb0-43db-a31f-f8d77391e220",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -1031,7 +1107,7 @@
           "person_id": "person/c12d1617-253b-4c5b-9139-0a74760d8daa",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(rigaud)",
           "legislative_period_id": "term/42"
         }
@@ -1205,7 +1281,7 @@
           "person_id": "person/e276f77e-f464-49a4-9f1a-e19f6e7c4626",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(montarville)",
           "legislative_period_id": "term/42"
         }
@@ -1219,8 +1295,8 @@
       "gender": "female",
       "id": "person/529bd785-e345-4fa0-8a4b-9a480993c242",
       "image": "https://sencanada.ca/media/26343/sen_2859_large.jpg",
-      "name": "Judith Seidman",
-      "sort_name": "Seidman, Judith",
+      "name": "Judith G. Seidman",
+      "sort_name": "Seidman, Judith G.",
       "contact_details": [
         {
           "type": "twitter",
@@ -1239,6 +1315,34 @@
           "role": "member",
           "on_behalf_of_id": "f0c19e49-d83b-4296-9c1f-93c27b079073",
           "area_id": "quebec_(de_la_durantaye)",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
+      "email": "julie.miville-dechene@sen.parl.gc.ca",
+      "id": "person/86b58d68-9ac8-4ae1-996c-b63d5202079f",
+      "image": "https://sencanada.ca/media/362287/sen_214107_large.jpg",
+      "name": "Julie Miville-Dechêne",
+      "sort_name": "Miville-Dechene, Julie",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mivillej"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362287/sen_214107_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/86b58d68-9ac8-4ae1-996c-b63d5202079f",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "quebec_(inkerman)",
           "legislative_period_id": "term/42"
         }
       ]
@@ -1301,7 +1405,7 @@
           "person_id": "person/dc0b89d2-c8cf-4e9c-a437-e174f0607e0d",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -1311,12 +1415,12 @@
       "email": "larry.campbell@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/9a0c648b-5c74-4c97-b9fa-cba5dead48c4",
-      "image": "https://sencanada.ca/media/26039/sen_2787_large.jpg",
+      "image": "https://sencanada.ca/media/26039/sen_2787_large_2018.jpg",
       "name": "Larry W. Campbell",
       "sort_name": "Campbell, Larry W.",
       "images": [
         {
-          "url": "https://sencanada.ca/media/26039/sen_2787_large.jpg"
+          "url": "https://sencanada.ca/media/26039/sen_2787_large_2018.jpg"
         }
       ],
       "memberships": [
@@ -1324,7 +1428,7 @@
           "person_id": "person/9a0c648b-5c74-4c97-b9fa-cba5dead48c4",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "british_columbia_(british_columbia)",
           "legislative_period_id": "term/42"
         }
@@ -1465,6 +1569,12 @@
       "image": "https://sencanada.ca/media/188229/sen_207814_large.jpg",
       "name": "Lucie Moncion",
       "sort_name": "Moncion, Lucie",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenLucieMoncion"
+        }
+      ],
       "images": [
         {
           "url": "https://sencanada.ca/media/188229/sen_207814_large.jpg"
@@ -1475,13 +1585,10 @@
           "person_id": "person/080d3393-33d7-4831-8360-240631213499",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1501,7 +1608,7 @@
           "person_id": "person/9156f56f-0489-4937-9da8-bbd4713682bd",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "f0c19e49-d83b-4296-9c1f-93c27b079073",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -1527,7 +1634,7 @@
           "person_id": "person/96bedde7-d0c4-449e-bac2-599135bbff7f",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(stadacona)",
           "legislative_period_id": "term/42"
         }
@@ -1559,7 +1666,7 @@
           "person_id": "person/dadc50e7-1a33-49a0-b2f5-03e0db10a3a6",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(rougemont)",
           "legislative_period_id": "term/42"
         }
@@ -1585,7 +1692,88 @@
           "person_id": "person/53e48fc7-72e4-4ee2-8d8b-31cb4016fbce",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "manitoba_(manitoba)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Marty.Deacon@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/986843bc-f8ef-49eb-8040-441ca01dc3f6",
+      "image": "https://sencanada.ca/media/361138/sen_212389_large.jpg",
+      "name": "Marty Deacon",
+      "sort_name": "Deacon, Marty",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/361138/sen_212389_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/986843bc-f8ef-49eb-8040-441ca01dc3f6",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "ontario_(waterloo_region)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Mary.Coyle@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/69f9e68f-9a21-425c-a100-0f564a094135",
+      "image": "https://sencanada.ca/media/360581/sen_211695_large.jpg",
+      "name": "Mary Coyle",
+      "sort_name": "Coyle, Mary",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenCoyle"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/360581/sen_211695_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/69f9e68f-9a21-425c-a100-0f564a094135",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "nova_scotia_(antigonish)",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
+      "email": "MaryJane.McCallum@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/cae706b5-4df1-42ac-9ff9-2c7c7ce303a1",
+      "image": "https://sencanada.ca/media/360591/sen_211689_large.jpg",
+      "name": "Mary Jane McCallum",
+      "sort_name": "McCallum, Mary Jane",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/360591/sen_211689_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cae706b5-4df1-42ac-9ff9-2c7c7ce303a1",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "manitoba_(manitoba)",
           "legislative_period_id": "term/42"
         }
@@ -1611,7 +1799,7 @@
           "person_id": "person/99c5a22c-d2b9-4c9c-9572-c764a882e69b",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "prince_edward_island_(cavendish)",
           "legislative_period_id": "term/42"
         }
@@ -1682,6 +1870,31 @@
       ]
     },
     {
+      "email": "Mohamed-iqbal.ravalia@sen.parl.gc.ca",
+      "id": "person/1b5d300c-65ba-4317-a54d-a3aeded7024e",
+      "image": "https://sencanada.ca/media/362119/sen_213909_large.jpg",
+      "name": "Mohamed-Iqbal Ravalia",
+      "sort_name": "Ravalia, Mohamed-Iqbal",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362119/sen_213909_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1b5d300c-65ba-4317-a54d-a3aeded7024e",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "newfoundland_and_labrador_(newfoundland_and_labrador)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Senator.Sinclair@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/7b379950-3a67-4d8b-bbcc-2ae454133762",
@@ -1710,7 +1923,7 @@
           "person_id": "person/7b379950-3a67-4d8b-bbcc-2ae454133762",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "manitoba_(manitoba)",
           "legislative_period_id": "term/42"
         }
@@ -1780,7 +1993,7 @@
           "person_id": "person/acd52cfc-4325-46e4-a69c-6d928ea04163",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "new_brunswick_(new_brunswick)",
           "legislative_period_id": "term/42"
         }
@@ -1877,12 +2090,18 @@
       "email": "pamela.wallin@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/f09eb208-b95c-4762-a78b-6c55b8c938e5",
-      "image": "https://sencanada.ca/media/26401/sen_2811_large.jpg",
+      "image": "https://sencanada.ca/media/26401/sen_2811_large-2018.jpg",
       "name": "Pamela Wallin",
       "sort_name": "Wallin, Pamela",
+      "links": [
+        {
+          "url": "SenPamelaWallin",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
-          "url": "https://sencanada.ca/media/26401/sen_2811_large.jpg"
+          "url": "https://sencanada.ca/media/26401/sen_2811_large-2018.jpg"
         }
       ],
       "memberships": [
@@ -1890,7 +2109,7 @@
           "person_id": "person/f09eb208-b95c-4762-a78b-6c55b8c938e5",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "saskatchewan_(saskatchewan)",
           "legislative_period_id": "term/42"
         }
@@ -1904,8 +2123,8 @@
       "gender": "female",
       "id": "person/61bb0cd4-0b99-44bd-84ec-5e05e416d2c0",
       "image": "https://sencanada.ca/media/188193/sen_207795_large.jpg",
-      "name": "Patricia E. Bovey",
-      "sort_name": "Bovey, Patricia E.",
+      "name": "Patricia Bovey",
+      "sort_name": "Bovey, Patricia",
       "images": [
         {
           "url": "https://sencanada.ca/media/188193/sen_207795_large.jpg"
@@ -1916,7 +2135,7 @@
           "person_id": "person/61bb0cd4-0b99-44bd-84ec-5e05e416d2c0",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "manitoba_(manitoba)",
           "legislative_period_id": "term/42"
         }
@@ -1929,7 +2148,7 @@
       "email": "Patrick.Brazeau@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/aa8d7baf-f970-411e-bd91-5b482a1b6f09",
-      "image": "https://sencanada.ca/media/26034/sen_2817_large.jpg",
+      "image": "https://sencanada.ca/media/26034/sen_2817_large_2018.jpg",
       "name": "Patrick Brazeau",
       "sort_name": "Brazeau, Patrick",
       "contact_details": [
@@ -1940,7 +2159,7 @@
       ],
       "images": [
         {
-          "url": "https://sencanada.ca/media/26034/sen_2817_large.jpg"
+          "url": "https://sencanada.ca/media/26034/sen_2817_large_2018.jpg"
         }
       ],
       "memberships": [
@@ -1948,7 +2167,7 @@
           "person_id": "person/aa8d7baf-f970-411e-bd91-5b482a1b6f09",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(repentigny)",
           "legislative_period_id": "term/42"
         }
@@ -1987,6 +2206,12 @@
       "image": "https://sencanada.ca/media/26241/sen_2754_large.jpg",
       "name": "Paul J. Massicotte",
       "sort_name": "Massicotte, Paul J.",
+      "links": [
+        {
+          "url": "senatormassicotte",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://sencanada.ca/media/26241/sen_2754_large.jpg"
@@ -1997,7 +2222,7 @@
           "person_id": "person/f1b94cb0-76f8-4212-b5f8-bc6082f24da5",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "31c6ca10-22a1-4157-b33e-5b80bc8fa15b",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(de_lanaudière)",
           "legislative_period_id": "term/42"
         }
@@ -2091,6 +2316,31 @@
       ]
     },
     {
+      "email": "PierreJ.Dalphond@sen.parl.gc.ca",
+      "id": "person/cb86336f-46c9-4b66-ad72-713452b160e2",
+      "image": "https://sencanada.ca/media/362159/sen_213956_large.jpg",
+      "name": "Pierre J. Dalphond",
+      "sort_name": "Dalphond, Pierre J.",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362159/sen_213956_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cb86336f-46c9-4b66-ad72-713452b160e2",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "quebec_(de_lorimier)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "pierre-hugues.boisvenu@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/64084f5d-652e-4b46-98d9-3262440ff939",
@@ -2142,7 +2392,7 @@
           "person_id": "person/f6d6b205-9de2-491c-9acd-c2fece611807",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "new_brunswick_(new_brunswick)",
           "legislative_period_id": "term/42"
         }
@@ -2174,7 +2424,7 @@
           "person_id": "person/7e979cc3-bedb-44ee-8db2-76d03fef6fe9",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -2197,7 +2447,7 @@
           "person_id": "person/176a00c9-0e21-451e-96fb-35420297dac1",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "manitoba_(manitoba)",
           "legislative_period_id": "term/42"
         }
@@ -2213,6 +2463,12 @@
       "image": "https://sencanada.ca/media/202271/sen_208007_large.jpg",
       "name": "Raymonde Saint-Germain",
       "sort_name": "Saint-Germain, Raymonde",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenSaintGermain"
+        }
+      ],
       "images": [
         {
           "url": "https://sencanada.ca/media/202271/sen_208007_large.jpg"
@@ -2223,13 +2479,10 @@
           "person_id": "person/69832e5b-0196-406e-ab7c-dacab0e74885",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(de_la_vallière)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2261,7 +2514,7 @@
           "person_id": "person/364428b3-bddd-4fcc-8fc4-64083dcf67a1",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "new_brunswick_(new_brunswick)",
           "legislative_period_id": "term/42"
         }
@@ -2271,12 +2524,12 @@
       "email": "Renee.Dupuis@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/e52eaad5-f6f0-459b-bc22-1c6200ab7ac8",
-      "image": "https://sencanada.ca/media/188208/sen_207816_large.jpg",
+      "image": "https://sencanada.ca/media/188208/sen_dsc7113_large.jpg",
       "name": "Renée Dupuis",
       "sort_name": "Dupuis, Renee",
       "images": [
         {
-          "url": "https://sencanada.ca/media/188208/sen_207816_large.jpg"
+          "url": "https://sencanada.ca/media/188208/sen_dsc7113_large.jpg"
         }
       ],
       "memberships": [
@@ -2284,7 +2537,7 @@
           "person_id": "person/e52eaad5-f6f0-459b-bc22-1c6200ab7ac8",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(the_laurentides)",
           "legislative_period_id": "term/42"
         }
@@ -2320,15 +2573,50 @@
       ]
     },
     {
+      "email": "robert.black@sen.parl.gc.ca",
+      "gender": "male",
+      "id": "person/f26de32e-7f44-49c7-8396-d9a03996ec84",
+      "image": "https://sencanada.ca/media/361143/sen_212390_large_2018.jpg",
+      "name": "Robert Black",
+      "sort_name": "Black, Robert",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenatorRobBlack"
+        }
+      ],
+      "links": [
+        {
+          "url": "SenatorRobBlack",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/361143/sen_212390_large_2018.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f26de32e-7f44-49c7-8396-d9a03996ec84",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "ontario_(ontario)",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
       "email": "rosa.galvez@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/1abfdecd-d5f2-40c4-9566-13e075a76d2d",
-      "image": "https://sencanada.ca/media/230877/sen-208170-large.jpg",
+      "image": "https://sencanada.ca/media/230877/sen_208170_large.jpg",
       "name": "Rosa Galvez",
       "sort_name": "Galvez, Rosa",
       "images": [
         {
-          "url": "https://sencanada.ca/media/230877/sen-208170-large.jpg"
+          "url": "https://sencanada.ca/media/230877/sen_208170_large.jpg"
         }
       ],
       "memberships": [
@@ -2336,7 +2624,7 @@
           "person_id": "person/1abfdecd-d5f2-40c4-9566-13e075a76d2d",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(bedford)",
           "legislative_period_id": "term/42"
         }
@@ -2378,6 +2666,12 @@
       "image": "https://sencanada.ca/media/265509/sen_207810_large.jpg",
       "name": "Sabi Marwah",
       "sort_name": "Marwah, Sabi",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "senatormarwah"
+        }
+      ],
       "images": [
         {
           "url": "https://sencanada.ca/media/265509/sen_207810_large.jpg"
@@ -2388,20 +2682,17 @@
           "person_id": "person/d7e1df39-3156-4932-ae17-3e72fdef5b29",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "email": "salma.ataullahjan@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/6709c55e-5c23-4be0-bfc0-def3311474ae",
-      "image": "https://sencanada.ca/media/16456/ataullahjan_2869_large.jpg",
+      "image": "https://sencanada.ca/media/16456/sen_2869_large.jpg",
       "name": "Salma Ataullahjan",
       "sort_name": "Ataullahjan, Salma",
       "contact_details": [
@@ -2418,7 +2709,7 @@
       ],
       "images": [
         {
-          "url": "https://sencanada.ca/media/16456/ataullahjan_2869_large.jpg"
+          "url": "https://sencanada.ca/media/16456/sen_2869_large.jpg"
         }
       ],
       "memberships": [
@@ -2433,7 +2724,7 @@
       ]
     },
     {
-      "email": "carole.smith@sen.parl.gc.ca",
+      "email": "carol.smith@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/b773e2b0-266b-4136-b180-79aa42bb6812",
       "image": "https://sencanada.ca/media/26179/sen_2792_large.jpg",
@@ -2533,7 +2824,7 @@
           "person_id": "person/6e36ad5d-1bae-41d7-a95f-f025e4731dc5",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "non-affiliated_(independent_reform)",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "nova_scotia_(halifax_-_the_citadel)",
           "legislative_period_id": "term/42"
         }
@@ -2572,7 +2863,7 @@
       "email": "thanhhai.ngo@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/6ee08ade-a15e-4c2d-afae-7ca417992bb0",
-      "image": "https://sencanada.ca/media/26293/sen_3564_large.jpg",
+      "image": "https://sencanada.ca/media/26293/sen_3564_large-2018.jpg",
       "name": "Thanh Hai Ngo",
       "sort_name": "Ngo, Thanh Hai",
       "contact_details": [
@@ -2583,7 +2874,7 @@
       ],
       "images": [
         {
-          "url": "https://sencanada.ca/media/26293/sen_3564_large.jpg"
+          "url": "https://sencanada.ca/media/26293/sen_3564_large-2018.jpg"
         }
       ],
       "memberships": [
@@ -2678,7 +2969,7 @@
           "person_id": "person/e72ffe4d-200a-45cb-98fc-9c19f822a2b5",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
@@ -2774,7 +3065,7 @@
           "person_id": "person/b1f1de17-ba02-41f1-bed7-8bf2c9afb8fe",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "nova_scotia_(east_preston)",
           "legislative_period_id": "term/42"
         }
@@ -2784,12 +3075,12 @@
       "email": "martin@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/8c87eb9e-39e0-4bec-8bd9-36598ab86978",
-      "image": "https://sencanada.ca/media/26204/sen_2813_large.jpg",
+      "image": "https://sencanada.ca/media/26204/sen_2813_large-2018.jpg",
       "name": "Yonah Martin",
       "sort_name": "Martin, Yonah",
       "images": [
         {
-          "url": "https://sencanada.ca/media/26204/sen_2813_large.jpg"
+          "url": "https://sencanada.ca/media/26204/sen_2813_large-2018.jpg"
         }
       ],
       "memberships": [
@@ -2835,8 +3126,37 @@
           "person_id": "person/7aea9861-c65f-48b3-ac57-35d9d1ecf300",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "british_columbia_(british_columbia)",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
+      "email": "Yvonne.Boyer@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/92300bc9-3f4e-4160-955a-bcc0b0155220",
+      "image": "https://sencanada.ca/media/361461/sen_212685_large.jpg",
+      "name": "Yvonne Boyer",
+      "sort_name": "Boyer, Yvonne",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "senatorboyer"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/361461/sen_212685_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/92300bc9-3f4e-4160-955a-bcc0b0155220",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+          "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
       ]
@@ -2870,7 +3190,7 @@
           "person_id": "person/6e27469d-9aae-455a-9531-b4835e8e7548",
           "organization_id": "chamber/senate",
           "role": "member",
-          "on_behalf_of_id": "dd3d43ed-fdc6-4ee9-95db-44151111c82c",
+          "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(gulf)",
           "legislative_period_id": "term/42"
         }
