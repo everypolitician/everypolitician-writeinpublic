@@ -1,22 +1,27 @@
 {
-  "total": 74,
+  "total": 69,
   "page": 1,
-  "per_page": 74,
+  "per_page": 69,
   "has_more": false,
   "result": [
     {
       "gender": "male",
-      "id": "person/cae1b496-0001-4b94-adec-884cec06394b",
-      "name": "Albert Fenech",
-      "sort_name": "Albert Fenech",
+      "id": "person/19c75201-9695-4a65-ab66-4b171e5cb696",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Aafrga.jpg",
+      "name": "Aaron Farrugia",
+      "sort_name": "Farrugia, Aaron",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Aafrga.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/cae1b496-0001-4b94-adec-884cec06394b",
+          "person_id": "person/19c75201-9695-4a65-ab66-4b171e5cb696",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "end_date": "2015-04-05",
-          "legislative_period_id": "term/12"
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -24,24 +29,41 @@
       ]
     },
     {
-      "email": "anthony.c.abela@parlament.mt",
       "gender": "male",
-      "id": "person/09ff6fb9-0562-4bfa-980e-4365c01c4a3b",
-      "image": "http://www.parlament.mt/file.aspx?f=54516",
-      "name": "Anthony Abela",
-      "sort_name": "Anthony Abela",
+      "id": "person/c3e49b32-f769-43f3-9488-4cf9e145594b",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Adrian_Delia.jpg",
+      "name": "Adrian Delia",
+      "sort_name": "Delia, Adrian",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=54516"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Adrian_Delia.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/09ff6fb9-0562-4bfa-980e-4365c01c4a3b",
+          "person_id": "person/c3e49b32-f769-43f3-9488-4cf9e145594b",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/90629b9b-6e59-4243-9e4d-6e816937e1e4",
+      "name": "Alex Muscat",
+      "sort_name": "Muscat, Alex",
+      "memberships": [
+        {
+          "person_id": "person/90629b9b-6e59-4243-9e4d-6e816937e1e4",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -66,7 +88,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -91,32 +113,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "antoine@antoineborg.com",
-      "gender": "male",
-      "id": "person/f479086e-eaff-4b49-b79b-16fff17595e4",
-      "image": "http://www.parlament.mt/file.aspx?f=43333",
-      "name": "Antoine Borg",
-      "sort_name": "Antoine Borg",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=43333"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f479086e-eaff-4b49-b79b-16fff17595e4",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -141,7 +138,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -166,7 +163,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c36d1328-3072-48a7-906e-dc065bedd3b8",
+      "name": "Byron Camilleri",
+      "sort_name": "Camilleri, Byron",
+      "memberships": [
+        {
+          "person_id": "person/c36d1328-3072-48a7-906e-dc065bedd3b8",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -191,7 +206,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -216,106 +231,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "vincent.galea@parlament.mt",
-      "gender": "male",
-      "id": "person/d807138f-81ad-4c88-a7ef-2a58dfeb579c",
-      "image": "http://www.parlament.mt/file.aspx?f=33195",
-      "name": "Censu Galea",
-      "sort_name": "Censu Galea",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33195"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d807138f-81ad-4c88-a7ef-2a58dfeb579c",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "peritcb@gmail.com",
-      "gender": "male",
-      "id": "person/c35d2f39-ff12-4f21-b471-7c5ab01a2e1a",
-      "image": "http://www.parlament.mt/file.aspx?f=31745",
-      "name": "Charles Buhagiar",
-      "sort_name": "Charles Buhagiar",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31745"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c35d2f39-ff12-4f21-b471-7c5ab01a2e1a",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "charles.mangion@parlament.mt",
-      "gender": "male",
-      "id": "person/252760c5-af48-4b8f-88be-dbd220de891b",
-      "image": "http://www.parlament.mt/file.aspx?f=47052",
-      "name": "Charles Mangion",
-      "sort_name": "Charles Mangion",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=47052"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/252760c5-af48-4b8f-88be-dbd220de891b",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/4982a317-d51b-4d1e-bd97-56edac0aece3",
-      "image": "http://www.parlament.mt/file.aspx?f=32684",
-      "name": "Charlo Bonnici",
-      "sort_name": "Charlo Bonnici",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32684"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4982a317-d51b-4d1e-bd97-56edac0aece3",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -340,7 +256,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -365,7 +281,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -390,7 +306,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -415,7 +331,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -440,7 +356,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -465,7 +381,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/83316c5a-d597-4a1d-9a70-77b4c42403fc",
+      "name": "Clayton Bartolo",
+      "sort_name": "Bartolo, Clayton",
+      "memberships": [
+        {
+          "person_id": "person/83316c5a-d597-4a1d-9a70-77b4c42403fc",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -489,7 +423,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/4d1b3de4-a3bc-4c03-b9de-5b0bbbc7701d",
+      "name": "Clint Camilleri",
+      "sort_name": "Camilleri, Clint",
+      "memberships": [
+        {
+          "person_id": "person/4d1b3de4-a3bc-4c03-b9de-5b0bbbc7701d",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -514,7 +466,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -539,7 +491,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -547,24 +499,17 @@
       ]
     },
     {
-      "email": "deborah.schembri@parlament.mt",
-      "gender": "female",
-      "id": "person/10b44dd3-3358-4969-ad9f-fc4723067954",
-      "image": "http://www.parlament.mt/file.aspx?f=33277",
-      "name": "Deborah Schembri",
-      "sort_name": "Deborah Schembri",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33277"
-        }
-      ],
+      "gender": "male",
+      "id": "person/1c514116-0a44-4264-805e-657b5b2ad4c1",
+      "name": "David Stellini",
+      "sort_name": "Stellini, David",
       "memberships": [
         {
-          "person_id": "person/10b44dd3-3358-4969-ad9f-fc4723067954",
+          "person_id": "person/1c514116-0a44-4264-805e-657b5b2ad4c1",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -589,7 +534,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -614,7 +559,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -639,7 +584,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -663,7 +608,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -688,7 +633,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -713,7 +658,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -738,66 +683,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "zammf@go.net.mt",
-      "gender": "male",
-      "id": "person/63ad454c-3093-4606-8380-00bc3ff70b79",
-      "image": "http://www.parlament.mt/file.aspx?f=32401",
-      "name": "Francis Zammit Dimech",
-      "sort_name": "Francis Zammit Dimech",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "franciszd"
-        }
-      ],
-      "links": [
-        {
-          "url": "franciszammitdimech",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32401"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/63ad454c-3093-4606-8380-00bc3ff70b79",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
-        }
-      ]
-    },
-    {
-      "email": "franco.mercieca@gov.mt",
-      "gender": "male",
-      "id": "person/8c3d0fcd-3aa8-4610-9650-d8f9a05abd71",
-      "image": "http://www.parlament.mt/file.aspx?f=31737",
-      "name": "Franco Mercieca",
-      "sort_name": "Franco Mercieca",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31737"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8c3d0fcd-3aa8-4610-9650-d8f9a05abd71",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -822,7 +708,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -830,74 +716,17 @@
       ]
     },
     {
-      "email": "george.pullicino@parlament.mt",
       "gender": "male",
-      "id": "person/a4e0ace0-d840-4fec-854e-d4af96eff7bd",
-      "image": "http://www.parlament.mt/file.aspx?f=32399",
-      "name": "George Pullicino",
-      "sort_name": "George Pullicino",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32399"
-        }
-      ],
+      "id": "person/31c423e2-7ce7-4a51-a0bc-72d576bd2002",
+      "name": "Glenn Bedingfield",
+      "sort_name": "Bedingfield, Glenn",
       "memberships": [
         {
-          "person_id": "person/a4e0ace0-d840-4fec-854e-d4af96eff7bd",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "george.vella@gov.mt",
-      "gender": "male",
-      "id": "person/f810055a-379c-4865-b974-b00be874ef6b",
-      "image": "http://www.parlament.mt/file.aspx?f=31736",
-      "name": "George Vella",
-      "sort_name": "George Vella",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31736"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f810055a-379c-4865-b974-b00be874ef6b",
+          "person_id": "person/31c423e2-7ce7-4a51-a0bc-72d576bd2002",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "giovanna.debono@parlament.mt",
-      "gender": "female",
-      "id": "person/fc7366dd-109b-475e-bf93-cedf8386f1bc",
-      "image": "http://www.parlament.mt/file.aspx?f=32390",
-      "name": "Giovanna Debono",
-      "sort_name": "Giovanna Debono",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32390"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fc7366dd-109b-475e-bf93-cedf8386f1bc",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -921,8 +750,8 @@
           "person_id": "person/ae4559f6-9433-4f92-a538-ad33498fd796",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "on_behalf_of_id": "d4cf36e9-b412-447f-887e-12d10c9d545b",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -947,7 +776,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9c2ed2bb-b5d0-4e19-a56e-03ece609d7de",
+      "name": "Hermann Schiavone",
+      "sort_name": "Schiavone, Hermann",
+      "memberships": [
+        {
+          "person_id": "person/9c2ed2bb-b5d0-4e19-a56e-03ece609d7de",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -972,7 +819,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c1846283-b036-402b-a065-dee6798ddc6a",
+      "name": "Ivan Bartolo",
+      "sort_name": "Bartolo, Ivan",
+      "memberships": [
+        {
+          "person_id": "person/c1846283-b036-402b-a065-dee6798ddc6a",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -997,7 +862,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1006,42 +871,16 @@
     },
     {
       "gender": "male",
-      "id": "person/9530ab81-5cfb-4278-ba84-66fdf42ae788",
-      "name": "Joe Cassar",
-      "sort_name": "Joe Cassar",
+      "id": "person/cd479ed2-dd69-460f-bdaf-9bb7ae7707ae",
+      "name": "Jean Pierre Debono",
+      "sort_name": "Debono, Jean Pierre",
       "memberships": [
         {
-          "person_id": "person/9530ab81-5cfb-4278-ba84-66fdf42ae788",
+          "person_id": "person/cd479ed2-dd69-460f-bdaf-9bb7ae7707ae",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "end_date": "2015-11-03",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "joseph.debono-grech@parlament.mt",
-      "gender": "male",
-      "id": "person/ab8b7203-9fbd-446d-b545-1cd88ee74e94",
-      "image": "http://www.parlament.mt/file.aspx?f=33372",
-      "name": "Joe Debono Grech",
-      "sort_name": "Joe Debono Grech",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33372"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ab8b7203-9fbd-446d-b545-1cd88ee74e94",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1066,32 +905,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "joefarrugiafarell@gmail.com",
-      "gender": "male",
-      "id": "person/1eaa462f-da27-41dc-9055-919b96ff45a2",
-      "image": "http://www.parlament.mt/file.aspx?f=49049",
-      "name": "Joseph Farrugia",
-      "sort_name": "Joseph Farrugia",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=49049"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1eaa462f-da27-41dc-9055-919b96ff45a2",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1122,33 +936,8 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
-      ]
-    },
-    {
-      "email": "joseph.m.sammut@parlament.mt",
-      "gender": "male",
-      "id": "person/f6cdf943-43a2-45cf-941d-1f5d91759100",
-      "image": "http://www.parlament.mt/file.aspx?f=31731",
-      "name": "Joseph Sammut",
-      "sort_name": "Joseph Sammut",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31731"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f6cdf943-43a2-45cf-941d-1f5d91759100",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1169,7 +958,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/b9a76123-f81a-4d45-81f2-73602986bc8d",
+      "name": "Julia Farrugia Portelli",
+      "sort_name": "Farrugia Portelli, Julia",
+      "memberships": [
+        {
+          "person_id": "person/b9a76123-f81a-4d45-81f2-73602986bc8d",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1194,7 +1001,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1219,7 +1026,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f6e08a2d-1e93-4ed2-ae6a-ce8f7c674897",
+      "name": "Karol Aquilina",
+      "sort_name": "Aquilina, Karol",
+      "memberships": [
+        {
+          "person_id": "person/f6e08a2d-1e93-4ed2-ae6a-ce8f7c674897",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1244,7 +1069,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1269,7 +1094,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1277,68 +1102,17 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/d7eda5ac-6fb7-4431-af49-cf0f019b1edf",
-      "name": "Leo Brincat",
-      "sort_name": "Leo Brincat",
+      "gender": "female",
+      "id": "person/2fe65f77-56d3-45c3-8abb-12c524e9a4e2",
+      "name": "Maria Deguara",
+      "sort_name": "Deguara, Maria",
       "memberships": [
         {
-          "person_id": "person/d7eda5ac-6fb7-4431-af49-cf0f019b1edf",
+          "person_id": "person/2fe65f77-56d3-45c3-8abb-12c524e9a4e2",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "end_date": "2016-04-29",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "louis.grech@gov.mt",
-      "gender": "male",
-      "id": "person/fb060def-5778-4c95-b2c3-f091b09945e4",
-      "image": "http://www.parlament.mt/file.aspx?f=31726",
-      "name": "Louis Grech",
-      "sort_name": "Louis Grech",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31726"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fb060def-5778-4c95-b2c3-f091b09945e4",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "lucio74b@gmail.com",
-      "gender": "male",
-      "id": "person/70dded4b-99c1-4569-a91f-666cdd3ea391",
-      "image": "http://www.parlament.mt/file.aspx?f=33309",
-      "name": "Luciano Busuttil",
-      "sort_name": "Luciano Busuttil",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=33309"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/70dded4b-99c1-4569-a91f-666cdd3ea391",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1363,7 +1137,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1388,7 +1162,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1412,8 +1186,8 @@
           "person_id": "person/803511e2-3629-40c0-9ad9-bd950298f155",
           "organization_id": "chamber/parliament",
           "role": "member",
-          "on_behalf_of_id": "unknown",
-          "legislative_period_id": "term/12"
+          "on_behalf_of_id": "d4cf36e9-b412-447f-887e-12d10c9d545b",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1438,7 +1212,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1463,7 +1237,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1494,33 +1268,8 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
-      ]
-    },
-    {
-      "email": "michael.gonzi@parlament.mt",
-      "gender": "male",
-      "id": "person/41cda172-c6b3-47db-ac07-3cb3c4b8994f",
-      "image": "http://www.parlament.mt/file.aspx?f=32396",
-      "name": "Michael Gonzi",
-      "sort_name": "Michael Gonzi",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=32396"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/41cda172-c6b3-47db-ac07-3cb3c4b8994f",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1541,32 +1290,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "paula.mifsud-bonnici@parlament.mt",
-      "gender": "female",
-      "id": "person/53bc92b9-e039-4bc4-bce1-aea81684fb7f",
-      "image": "http://www.parlament.mt/file.aspx?f=34317",
-      "name": "Paula Mifsud Bonnici",
-      "sort_name": "Paula Mifsud Bonnici",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=34317"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/53bc92b9-e039-4bc4-bce1-aea81684fb7f",
-          "organization_id": "chamber/parliament",
-          "role": "member",
-          "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1589,7 +1313,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e95a4442-5a43-4d55-b01d-4e29f897a784",
+      "name": "Robert Abela",
+      "sort_name": "Abela, Robert",
+      "memberships": [
+        {
+          "person_id": "person/e95a4442-5a43-4d55-b01d-4e29f897a784",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1614,7 +1356,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1639,7 +1381,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1664,7 +1406,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/209bc61b-b7a7-4f07-abe0-06dbe3af08e5",
+      "name": "Rosianne Cutajar",
+      "sort_name": "Cutajar, Rosianne",
+      "memberships": [
+        {
+          "person_id": "person/209bc61b-b7a7-4f07-abe0-06dbe3af08e5",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1689,7 +1449,25 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/f8f48e8a-0571-4224-9853-fd5080b99e22",
+      "name": "Silvio Grixti",
+      "sort_name": "Grixti, Silvio",
+      "memberships": [
+        {
+          "person_id": "person/f8f48e8a-0571-4224-9853-fd5080b99e22",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1714,7 +1492,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1739,7 +1517,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1764,7 +1542,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1772,24 +1550,17 @@
       ]
     },
     {
-      "email": "stefan.buontempo@gov.mt",
       "gender": "male",
-      "id": "person/a4b03c38-5656-4361-8060-28bcbd3aa3a9",
-      "image": "http://www.parlament.mt/file.aspx?f=31717",
-      "name": "Stefan Buontempo",
-      "sort_name": "Stefan Buontempo",
-      "images": [
-        {
-          "url": "http://www.parlament.mt/file.aspx?f=31717"
-        }
-      ],
+      "id": "person/e3d4a8fa-9dd9-4879-9c2e-c29a8ca87478",
+      "name": "Stefan Zrinzo Azzopardi",
+      "sort_name": "Zrinzo Azzopardi, Stefan",
       "memberships": [
         {
-          "person_id": "person/a4b03c38-5656-4361-8060-28bcbd3aa3a9",
+          "person_id": "person/e3d4a8fa-9dd9-4879-9c2e-c29a8ca87478",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "0538353d-a58b-4e95-836f-4e6c6d17c823",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1814,7 +1585,7 @@
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -1822,24 +1593,23 @@
       ]
     },
     {
-      "email": "tonio.fenech@parlament.mt",
-      "gender": "male",
-      "id": "person/d5ae793a-1653-4e57-868f-ecd392d05809",
-      "image": "http://www.parlament.mt/file.aspx?f=32393",
-      "name": "Tonio Fenech",
-      "sort_name": "Tonio Fenech",
+      "gender": "female",
+      "id": "person/a0eeea46-e1b0-4e6c-9a6d-75c64fb766e8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/2014-07-01-Europaparlament_Comodini_Cachia_by_Olaf_Kosinsky_-64_(2).jpg",
+      "name": "Therese Comodini Cachia",
+      "sort_name": "Comodini Cachia, Therese",
       "images": [
         {
-          "url": "http://www.parlament.mt/file.aspx?f=32393"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2014-07-01-Europaparlament_Comodini_Cachia_by_Olaf_Kosinsky_-64_(2).jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d5ae793a-1653-4e57-868f-ecd392d05809",
+          "person_id": "person/a0eeea46-e1b0-4e6c-9a6d-75c64fb766e8",
           "organization_id": "chamber/parliament",
           "role": "member",
           "on_behalf_of_id": "cec22034-d6a0-4eef-b7b0-c1e629f6c50e",
-          "legislative_period_id": "term/12"
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
