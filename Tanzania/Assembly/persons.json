@@ -1,7 +1,7 @@
 {
-  "total": 409,
+  "total": 410,
   "page": 1,
-  "per_page": 409,
+  "per_page": 410,
   "has_more": false,
   "result": [
     {
@@ -1068,6 +1068,32 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "special_seats",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.atashasta@bunge.go.tz",
+      "gender": "male",
+      "id": "person/d9028096-fc42-4675-982c-a6045efcfc54",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.51655000%201485954283.png",
+      "name": "Atashasta Justus Nditiye",
+      "sort_name": "Atashasta Justus Nditiye",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.51655000%201485954283.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d9028096-fc42-4675-982c-a6045efcfc54",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "muhambwe",
           "legislative_period_id": "term/5"
         }
       ],
@@ -2716,6 +2742,32 @@
       ]
     },
     {
+      "email": "a.edwin@bunge.go.tz",
+      "gender": "male",
+      "id": "person/aa7784d0-db19-4c8e-9efd-b772a3e2eb0e",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.40114900%201485966082.png",
+      "name": "Edwin Amandus Ngonyani",
+      "sort_name": "Edwin Amandus Ngonyani",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.40114900%201485966082.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aa7784d0-db19-4c8e-9efd-b772a3e2eb0e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "namtumbo",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "e.sannda@bunge.go.tz",
       "gender": "male",
       "id": "person/5a971d41-31ff-4892-bb80-47e04edd6391",
@@ -2846,50 +2898,24 @@
       ]
     },
     {
-      "email": "j.atashasta@bunge.go.tz",
+      "email": "cchiza@parliament.go.tz",
       "gender": "male",
-      "id": "person/d9028096-fc42-4675-982c-a6045efcfc54",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.51655000%201485954283.png",
-      "name": "Eng. Atashasta Justus Nditiye",
-      "sort_name": "Eng. Atashasta Justus Nditiye",
+      "id": "person/ce872805-479d-401f-95f5-ec36857016d5",
+      "image": "http://www.parliament.go.tz/polis/images/Pictures/oll/1370.jpg",
+      "name": "Eng. Christopher Kajoro Chiza",
+      "sort_name": "Chiza Kajoro Eng. Christopher",
       "images": [
         {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.51655000%201485954283.png"
+          "url": "http://www.parliament.go.tz/polis/images/Pictures/oll/1370.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d9028096-fc42-4675-982c-a6045efcfc54",
+          "person_id": "person/ce872805-479d-401f-95f5-ec36857016d5",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "ccm",
-          "area_id": "muhambwe",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "a.edwin@bunge.go.tz",
-      "gender": "male",
-      "id": "person/aa7784d0-db19-4c8e-9efd-b772a3e2eb0e",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.40114900%201485966082.png",
-      "name": "Eng. Edwin Amandus Ngonyani",
-      "sort_name": "Eng. Edwin Amandus Ngonyani",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.40114900%201485966082.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/aa7784d0-db19-4c8e-9efd-b772a3e2eb0e",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "namtumbo",
+          "area_id": "buyungu",
           "legislative_period_id": "term/5"
         }
       ],
@@ -2916,84 +2942,6 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "wanging'ombe",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "a.isack@bunge.go.tz",
-      "gender": "male",
-      "id": "person/848d59e5-548c-42da-8d11-67334f500ff2",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.45807400%201485954143.png",
-      "name": "Eng. Isack Aloyce Kamwelwe",
-      "sort_name": "Eng. Isack Aloyce Kamwelwe",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.45807400%201485954143.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/848d59e5-548c-42da-8d11-67334f500ff2",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "katavi",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "j.mbatia@bunge.go.tz",
-      "gender": "male",
-      "id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.41082900%201485954529.png",
-      "name": "Eng. James Fransis Mbatia",
-      "sort_name": "Eng. James Fransis Mbatia",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.41082900%201485954529.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "nccr-mageuzi",
-          "area_id": "vunjo",
-          "legislative_period_id": "term/5"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "j.mwaka@bunge.go.tz",
-      "gender": "male",
-      "id": "person/13f88464-111c-4465-b77d-e2d9d9c21b2a",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.07529900%201485860865.png",
-      "name": "Eng. Joel Makanyaga Mwaka",
-      "sort_name": "Eng. Joel Makanyaga Mwaka",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.07529900%201485860865.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/13f88464-111c-4465-b77d-e2d9d9c21b2a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ccm",
-          "area_id": "chilonwa",
           "legislative_period_id": "term/5"
         }
       ],
@@ -4242,6 +4190,32 @@
       ]
     },
     {
+      "email": "a.isack@bunge.go.tz",
+      "gender": "male",
+      "id": "person/848d59e5-548c-42da-8d11-67334f500ff2",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.45807400%201485954143.png",
+      "name": "Isack Aloyce Kamwelwe",
+      "sort_name": "Isack Aloyce Kamwelwe",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.45807400%201485954143.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/848d59e5-548c-42da-8d11-67334f500ff2",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "katavi",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "a.mangungu@bunge.go.tz",
       "gender": "male",
       "id": "person/b26fd4ca-4a4b-4c7c-8981-fff4f300d2ab",
@@ -4390,6 +4364,32 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "magomeni",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.mbatia@bunge.go.tz",
+      "gender": "male",
+      "id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.41082900%201485954529.png",
+      "name": "James Fransis Mbatia",
+      "sort_name": "James Fransis Mbatia",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.41082900%201485954529.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e6eb794d-d9f8-4989-b082-8c5accae39af",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "nccr-mageuzi",
+          "area_id": "vunjo",
           "legislative_period_id": "term/5"
         }
       ],
@@ -4677,6 +4677,32 @@
           "role": "member",
           "on_behalf_of_id": "ccm",
           "area_id": "kongwa",
+          "legislative_period_id": "term/5"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.mwaka@bunge.go.tz",
+      "gender": "male",
+      "id": "person/13f88464-111c-4465-b77d-e2d9d9c21b2a",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.07529900%201485860865.png",
+      "name": "Joel Makanyaga Mwaka",
+      "sort_name": "Joel Makanyaga Mwaka",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.07529900%201485860865.png"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/13f88464-111c-4465-b77d-e2d9d9c21b2a",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ccm",
+          "area_id": "chilonwa",
           "legislative_period_id": "term/5"
         }
       ],
