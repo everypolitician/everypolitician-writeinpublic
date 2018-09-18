@@ -1,7 +1,7 @@
 {
-  "total": 152,
+  "total": 174,
   "page": 1,
-  "per_page": 152,
+  "per_page": 174,
   "has_more": false,
   "result": [
     {
@@ -254,6 +254,32 @@
       ]
     },
     {
+      "email": "a.laan@tweedekamer.nl",
+      "gender": "female",
+      "id": "person/9d95647a-71f9-445c-871d-6a8366be45d8",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8a6333e0-ee18-45a0-b2d4-b9df48c8e029.jpg?itok=57f22WG3",
+      "name": "Antoinette Laan-Geselschap",
+      "sort_name": "Laan-Geselschap, A.J.M.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8a6333e0-ee18-45a0-b2d4-b9df48c8e029.jpg?itok=57f22WG3"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9d95647a-71f9-445c-871d-6a8366be45d8",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "a.weverling@tweedekamer.nl",
       "gender": "male",
       "id": "person/38269a95-11f5-45ab-bf15-943f284b9b4a",
@@ -389,6 +415,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -610,6 +637,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "703299d5-c959-44c0-8d69-fc12449f54c6",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -668,6 +696,32 @@
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "email": "c.stoffer@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/a601afb8-a225-48f5-acc3-2c9d7f8a8a42",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/3664a7e0-b3bc-4c4f-92f1-b3399f375d0a.jpg?itok=iMYjgoBf",
+      "name": "Chris Stoffer",
+      "sort_name": "Stoffer, C.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/3664a7e0-b3bc-4c4f-92f1-b3399f375d0a.jpg?itok=iMYjgoBf"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a601afb8-a225-48f5-acc3-2c9d7f8a8a42",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "f8a41ac2-f921-4c66-826e-dd2fbc5363bc",
+          "start_date": "2018-04-11",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -787,7 +841,7 @@
       "gender": "male",
       "id": "person/dfe3292c-ffa6-4b30-8d85-e1c769dfe273",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/a40c4d8d-384f-4ed8-b8af-82fb63bdb3b3.jpg?itok=Wji8Pg_e",
-      "name": "Daniël Koerhuis",
+      "name": "Daniel Koerhuis",
       "sort_name": "Koerhuis, D.A.N.",
       "contact_details": [
         {
@@ -946,8 +1000,35 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "f8a41ac2-f921-4c66-826e-dd2fbc5363bc",
+          "end_date": "2018-04-10",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c9548c96-7af7-4583-bb60-2844831716ff",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/3b0a1b1a-bfdb-44be-b099-baa697c9b653.jpg?itok=K0q1Vcpf",
+      "name": "Emiel van Dijk",
+      "sort_name": "Dijk, E. van",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/3b0a1b1a-bfdb-44be-b099-baa697c9b653.jpg?itok=K0q1Vcpf"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c9548c96-7af7-4583-bb60-2844831716ff",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "a1147a25-4fb6-4b92-a5ec-cc002fe0fe63",
+          "start_date": "2018-04-03",
+          "end_date": "2018-07-20",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -974,6 +1055,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3086e984-3478-4328-b79a-51f81c332cb5",
+          "end_date": "2018-01-18",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1088,6 +1170,32 @@
           "on_behalf_of_id": "29f1cf86-03d9-477c-8fa5-cc67de7fb5a2",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "email": "e.slootweg@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/52e1b072-b579-41be-ba0d-628314c26422",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/e459384f-800b-4b26-bfb1-65076242f68e.jpg?itok=fekIcj1h",
+      "name": "Evert-Jan Slootweg",
+      "sort_name": "Slootweg, E.J.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/e459384f-800b-4b26-bfb1-65076242f68e.jpg?itok=fekIcj1h"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/52e1b072-b579-41be-ba0d-628314c26422",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "1fca422a-b267-41aa-abb5-647c39c6b58d",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1282,6 +1390,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "a1147a25-4fb6-4b92-a5ec-cc002fe0fe63",
+          "end_date": "2018-03-31",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1422,6 +1531,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1450,6 +1560,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2018-09-04",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1539,6 +1650,24 @@
       ]
     },
     {
+      "id": "person/79038d5e-830b-4f0d-8217-aa9362188764",
+      "name": "Hayke Veldman",
+      "sort_name": "Hayke Veldman",
+      "memberships": [
+        {
+          "person_id": "person/79038d5e-830b-4f0d-8217-aa9362188764",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "h.lodders@tweedekamer.nl",
       "gender": "female",
       "id": "person/d44058af-96a0-47b9-b882-1923aaf36708",
@@ -1623,6 +1752,24 @@
       ]
     },
     {
+      "id": "person/0820fe8d-355a-42ed-b6d0-c5348bb4e37e",
+      "name": "Henk van Gerven",
+      "sort_name": "Henk van Gerven",
+      "memberships": [
+        {
+          "person_id": "person/0820fe8d-355a-42ed-b6d0-c5348bb4e37e",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3086e984-3478-4328-b79a-51f81c332cb5",
+          "start_date": "2017-04-03",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "i.vengelshoven@tweedekamer.nl",
       "gender": "female",
       "id": "person/778ce1e9-4854-4704-a7b6-f55e266ed5b2",
@@ -1646,6 +1793,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1814,6 +1962,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2018-09-12",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1842,6 +1991,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "4ad50677-ed74-4b67-8947-590f47fd9b1e",
+          "end_date": "2017-10-24",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -1943,6 +2093,50 @@
       ]
     },
     {
+      "id": "person/2c5815f9-4223-4016-8919-2c6768d6a6e5",
+      "name": "John Kerstens",
+      "sort_name": "John Kerstens",
+      "memberships": [
+        {
+          "person_id": "person/2c5815f9-4223-4016-8919-2c6768d6a6e5",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "4ad50677-ed74-4b67-8947-590f47fd9b1e",
+          "start_date": "2018-06-05",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.sneller@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/f1ba65fe-4200-4c96-92d0-0f0aa090d245",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/ec19d758-427f-4056-8625-1ebf424b4bec.jpg?itok=Olham9KN",
+      "name": "Joost Sneller",
+      "sort_name": "Sneller, J.C.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/ec19d758-427f-4056-8625-1ebf424b4bec.jpg?itok=Olham9KN"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f1ba65fe-4200-4c96-92d0-0f0aa090d245",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "j.voordewind@tweedekamer.nl",
       "gender": "male",
       "id": "person/9bf809a7-d2d9-4dd9-9047-25916dc543d5",
@@ -1968,6 +2162,32 @@
           "on_behalf_of_id": "703299d5-c959-44c0-8d69-fc12449f54c6",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "email": "j.tielen@tweedekamer.nl",
+      "gender": "female",
+      "id": "person/e4d6cebc-c542-45be-b8f0-de0b3da143b8",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/821e9af4-c2ff-43d5-ba45-308bacd2a435.jpg?itok=YRG2YccX",
+      "name": "Judith Tielen",
+      "sort_name": "Tielen, J.Z.C.M.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/821e9af4-c2ff-43d5-ba45-308bacd2a435.jpg?itok=YRG2YccX"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e4d6cebc-c542-45be-b8f0-de0b3da143b8",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2195,6 +2415,69 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/75e3ca42-0d70-4377-904b-d0f0f88a3e75",
+      "name": "Laura Bromet",
+      "sort_name": "Laura Bromet",
+      "memberships": [
+        {
+          "person_id": "person/75e3ca42-0d70-4377-904b-d0f0f88a3e75",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "8f5188c2-bfbd-4be5-a803-8117c43fa9b0",
+          "start_date": "2018-06-07",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cf352846-444c-4951-b9a2-dff0156ab1a5",
+      "name": "Leendert de Lange",
+      "sort_name": "Leendert de Lange",
+      "memberships": [
+        {
+          "person_id": "person/cf352846-444c-4951-b9a2-dff0156ab1a5",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "l.geluk-poortvliet@tweedekamer.nl",
+      "gender": "female",
+      "id": "person/7437f9f7-fd0a-4046-b85c-ee94491794a9",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/78eed3e4-57aa-410b-a45f-c3c97ed66e75.jpg?itok=WDXJZVcu",
+      "name": "Lenny Geluk-Poortvliet",
+      "sort_name": "Geluk-Poortvliet, L.W.D.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/78eed3e4-57aa-410b-a45f-c3c97ed66e75.jpg?itok=WDXJZVcu"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7437f9f7-fd0a-4046-b85c-ee94491794a9",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "1fca422a-b267-41aa-abb5-647c39c6b58d",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "l.vtongeren@tweedekamer.nl",
       "gender": "female",
       "id": "person/01430b02-7545-400e-b206-e77767dacbfe",
@@ -2218,6 +2501,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "8f5188c2-bfbd-4be5-a803-8117c43fa9b0",
+          "end_date": "2018-06-12",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -2327,6 +2611,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "8f5188c2-bfbd-4be5-a803-8117c43fa9b0",
+          "end_date": "2018-06-06",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -2556,6 +2841,31 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/ef665780-cc75-4b46-87f3-b53c2885a006",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/32f9a15e-056c-4683-b4d4-184d1418220e.jpg?itok=kK4Yzljv",
+      "name": "Mahir Alkaya",
+      "sort_name": "Alkaya, M.Ö.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/32f9a15e-056c-4683-b4d4-184d1418220e.jpg?itok=kK4Yzljv"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ef665780-cc75-4b46-87f3-b53c2885a006",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3086e984-3478-4328-b79a-51f81c332cb5",
+          "start_date": "2018-01-18",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "m.azmani@tweedekamer.nl",
       "gender": "male",
       "id": "person/a04b7668-1d70-4648-8e26-53c087522f98",
@@ -2641,6 +2951,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -2669,6 +2980,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -2786,6 +3098,32 @@
       ]
     },
     {
+      "email": "m.sienot@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/87496091-6fd8-4f0f-a89d-ed4118f09033",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8d9da2de-ff14-4602-acd3-8bec47fa417c.jpg?itok=Uq-gc2Hs",
+      "name": "Matthijs Sienot",
+      "sort_name": "Sienot, M.F.",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8d9da2de-ff14-4602-acd3-8bec47fa417c.jpg?itok=Uq-gc2Hs"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/87496091-6fd8-4f0f-a89d-ed4118f09033",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "m.vmartels@tweedekamer.nl",
       "gender": "male",
       "id": "person/5f5b4262-bc22-46a6-93c0-dedf42dcf28e",
@@ -2893,8 +3231,35 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "1fca422a-b267-41aa-abb5-647c39c6b58d",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "email": "m.dboer@tweedekamer.nl",
+      "gender": "female",
+      "id": "person/97d5407a-36bd-4878-99fb-7be606a6b1f8",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/fd785a5d-cbca-4515-ac4f-722fa91317b6.jpg?itok=URafX7XD",
+      "name": "Monica den Boer",
+      "sort_name": "Boer, M.G.W. den",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/fd785a5d-cbca-4515-ac4f-722fa91317b6.jpg?itok=URafX7XD"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/97d5407a-36bd-4878-99fb-7be606a6b1f8",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2977,6 +3342,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3086e984-3478-4328-b79a-51f81c332cb5",
+          "end_date": "2018-03-29",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3007,6 +3373,25 @@
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/1974e9f0-c75b-4909-abca-d43c8ae93d4e",
+      "name": "Paul Smeulders",
+      "sort_name": "Paul Smeulders",
+      "memberships": [
+        {
+          "person_id": "person/1974e9f0-c75b-4909-abca-d43c8ae93d4e",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "8f5188c2-bfbd-4be5-a803-8117c43fa9b0",
+          "start_date": "2018-06-07",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -3117,7 +3502,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
-          "end_date": "2017-09-06",
+          "end_date": "2017-09-07",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3202,6 +3587,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "1fca422a-b267-41aa-abb5-647c39c6b58d",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3370,6 +3756,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "8f5188c2-bfbd-4be5-a803-8117c43fa9b0",
+          "end_date": "2018-06-07",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3398,7 +3785,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
-          "start_date": "2017-09-06",
+          "start_date": "2017-09-07",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3510,6 +3897,24 @@
       ]
     },
     {
+      "id": "person/4af559df-4517-42dc-94cc-6b4e7c045c3c",
+      "name": "Rudmer Heerema",
+      "sort_name": "Rudmer Heerema",
+      "memberships": [
+        {
+          "person_id": "person/4af559df-4517-42dc-94cc-6b4e7c045c3c",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "skarabulut@sp.nl",
       "gender": "female",
       "id": "person/fa688829-e728-4337-bef1-d691d3573358",
@@ -3595,6 +4000,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3679,6 +4085,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "4ad50677-ed74-4b67-8947-590f47fd9b1e",
+          "end_date": "2018-06-01",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3706,35 +4113,6 @@
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "email": "s.potters@tweedekamer.nl",
-      "gender": "male",
-      "id": "person/3fa253e0-a9d0-44a8-b852-2b0d6bf087d3",
-      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/0f9c828d-5ce1-4795-84a6-2ce4ddbe5890.jpg?itok=CBu1YUEs",
-      "name": "Sjoerd Potters",
-      "sort_name": "Potters, S.C.C.M.",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SjoerdPotters"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/0f9c828d-5ce1-4795-84a6-2ce4ddbe5890.jpg?itok=CBu1YUEs"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3fa253e0-a9d0-44a8-b852-2b0d6bf087d3",
-          "organization_id": "chamber/tweede_kamer",
-          "role": "member",
-          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
-          "end_date": "2017-03-23",
-          "legislative_period_id": "term/2017"
-        }
       ]
     },
     {
@@ -3819,6 +4197,32 @@
       ]
     },
     {
+      "email": "s.vandergraaf@tweedekamer.nl",
+      "gender": "female",
+      "id": "person/9ff317ca-383b-4632-a1fb-a7b35cc65e77",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/062d59b2-4ce8-43a3-a6ba-24b4bf90ab41.jpg?itok=EXnEbpXe",
+      "name": "Stieneke van der Graaf",
+      "sort_name": "Graaf, S.J.F. van der",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/062d59b2-4ce8-43a3-a6ba-24b4bf90ab41.jpg?itok=EXnEbpXe"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9ff317ca-383b-4632-a1fb-a7b35cc65e77",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "703299d5-c959-44c0-8d69-fc12449f54c6",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "s.vveldhoven@tweedekamer.nl",
       "gender": "female",
       "id": "person/ddf5805e-1563-4805-b737-32612db0fd71",
@@ -3842,6 +4246,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3951,6 +4356,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -4009,6 +4415,24 @@
       ]
     },
     {
+      "id": "person/2969b674-2563-4c63-9367-68207826b2d1",
+      "name": "Thierry Aartsen",
+      "sort_name": "Thierry Aartsen",
+      "memberships": [
+        {
+          "person_id": "person/2969b674-2563-4c63-9367-68207826b2d1",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2018-09-13",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "t.baudet@tweedekamer.nl",
       "gender": "male",
       "id": "person/3bcff7ed-6a7b-4b9f-b5e1-296a5f0c44bb",
@@ -4062,6 +4486,25 @@
           "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/7689583c-e40a-46f0-b073-cdd818aed97f",
+      "name": "Tobias van Gent",
+      "sort_name": "Tobias van Gent",
+      "memberships": [
+        {
+          "person_id": "person/7689583c-e40a-46f0-b073-cdd818aed97f",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2018-09-05",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4177,6 +4620,54 @@
       ]
     },
     {
+      "email": "w.moorlag@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/a648b670-e166-432c-bd5f-60cf78805111",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/afd448f5-ef1e-47c3-af94-027a21aa05eb.jpg?itok=dBldOHvx",
+      "name": "William Moorlag",
+      "sort_name": "Moorlag, W.J.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "wmoorlag"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/afd448f5-ef1e-47c3-af94-027a21aa05eb.jpg?itok=dBldOHvx"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a648b670-e166-432c-bd5f-60cf78805111",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "4ad50677-ed74-4b67-8947-590f47fd9b1e",
+          "start_date": "2017-10-25",
+          "legislative_period_id": "term/2017"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6e7292cf-64ac-4a61-8287-4b523318c296",
+      "name": "Wim-Jan Renkema",
+      "sort_name": "Wim-Jan Renkema",
+      "memberships": [
+        {
+          "person_id": "person/6e7292cf-64ac-4a61-8287-4b523318c296",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "8f5188c2-bfbd-4be5-a803-8117c43fa9b0",
+          "start_date": "2018-06-13",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "w.koolmees@tweedekamer.nl",
       "gender": "male",
       "id": "person/0ff55677-4642-439a-a963-aae47714dd62",
@@ -4200,8 +4691,35 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "end_date": "2017-10-26",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "email": "w.vhaga@tweedekamer.nl",
+      "gender": "male",
+      "id": "person/46e9447c-fe2e-4c26-b630-47b28c3f3eb4",
+      "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8f9ed5ab-8376-4900-b608-99b8c753e07f.jpg?itok=O5NkDMP-",
+      "name": "Wybren van Haga",
+      "sort_name": "Haga, W.R. van",
+      "images": [
+        {
+          "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/8f9ed5ab-8376-4900-b608-99b8c753e07f.jpg?itok=O5NkDMP-"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/46e9447c-fe2e-4c26-b630-47b28c3f3eb4",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "3aa5a371-cdd3-498b-ad63-64c706517a32",
+          "start_date": "2017-10-31",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
