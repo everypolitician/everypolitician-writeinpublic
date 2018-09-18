@@ -1,9 +1,34 @@
 {
-  "total": 70,
+  "total": 74,
   "page": 1,
-  "per_page": 70,
+  "per_page": 74,
   "has_more": false,
   "result": [
+    {
+      "email": "info@aunokhin.hk",
+      "id": "person/8d42c339-f68d-47df-9679-cebd2d9801e3",
+      "image": "http://www.legco.gov.hk/images/mem_1620/anh.jpg",
+      "name": "AU Nok-hin",
+      "sort_name": "AU Nok-hin",
+      "images": [
+        {
+          "url": "http://www.legco.gov.hk/images/mem_1620/anh.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8d42c339-f68d-47df-9679-cebd2d9801e3",
+          "organization_id": "chamber/legislative_council",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "hong_kong_island",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "email": "arazack@netvigator.com",
       "gender": "male",
@@ -605,6 +630,32 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "transport",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "fankwokwaioffice@gmail.com",
+      "gender": "male",
+      "id": "person/9c3c0407-e7c8-4a7e-a48f-69a488f87520",
+      "image": "http://www.legco.gov.hk/images/mem_1216/fkw.jpg",
+      "name": "Gary FAN Kwok-wai",
+      "sort_name": "Gary FAN Kwok-wai",
+      "images": [
+        {
+          "url": "http://www.legco.gov.hk/images/mem_1216/fkw.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9c3c0407-e7c8-4a7e-a48f-69a488f87520",
+          "organization_id": "chamber/legislative_council",
+          "role": "member",
+          "on_behalf_of_id": "neo_democrats",
+          "area_id": "new_territories_east",
           "legislative_period_id": "term/6"
         }
       ],
@@ -1726,6 +1777,63 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "catering",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "info@tonytsewaichuen.com",
+      "gender": "male",
+      "id": "person/6731752e-4e55-46d8-9e6f-10c5b1a83ff8",
+      "image": "http://www.legco.gov.hk/images/mem_1216/twct.jpg",
+      "name": "Tony TSE Wai-chuen",
+      "sort_name": "Tony TSE Wai-chuen",
+      "links": [
+        {
+          "url": "TonyTseWaiChuen",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.legco.gov.hk/images/mem_1216/twct.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6731752e-4e55-46d8-9e6f-10c5b1a83ff8",
+          "organization_id": "chamber/legislative_council",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "architectural,_surveying,_planning_and_landscape",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "vincentcheng@dab.org.hk",
+      "id": "person/5fafc55b-cc11-4d78-a74b-25b9938875b0",
+      "image": "http://www.legco.gov.hk/images/mem_1620/cws.jpg",
+      "name": "Vincent CHENG Wing-shun",
+      "sort_name": "Vincent CHENG Wing-shun",
+      "images": [
+        {
+          "url": "http://www.legco.gov.hk/images/mem_1620/cws.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5fafc55b-cc11-4d78-a74b-25b9938875b0",
+          "organization_id": "chamber/legislative_council",
+          "role": "member",
+          "on_behalf_of_id": "democratic_alliance_for_the_betterment_and_progress_of_hong_kong",
+          "area_id": "kowloon_west",
           "legislative_period_id": "term/6"
         }
       ],
