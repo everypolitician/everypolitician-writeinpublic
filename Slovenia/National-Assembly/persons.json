@@ -1,7 +1,7 @@
 {
-  "total": 90,
+  "total": 91,
   "page": 1,
-  "per_page": 90,
+  "per_page": 91,
   "has_more": false,
   "result": [
     {
@@ -402,7 +402,7 @@
           "person_id": "person/dc065e46-5ed5-423a-a09b-ff1244199de7",
           "organization_id": "chamber/državni_zbor",
           "role": "member",
-          "on_behalf_of_id": "SMC",
+          "on_behalf_of_id": "SD",
           "legislative_period_id": "term/8"
         }
       ],
@@ -1093,6 +1093,29 @@
           "organization_id": "chamber/državni_zbor",
           "role": "member",
           "on_behalf_of_id": "DeSUS",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8b41df45-9462-4f4c-b54c-fdf1fbf4adcf",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P353",
+      "name": "Karla Urh",
+      "sort_name": "Urh Karla",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P353"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8b41df45-9462-4f4c-b54c-fdf1fbf4adcf",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "LMŠ",
           "legislative_period_id": "term/8"
         }
       ],
