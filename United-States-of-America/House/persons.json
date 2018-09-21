@@ -1,7 +1,7 @@
 {
-  "total": 450,
+  "total": 451,
   "page": 1,
-  "per_page": 450,
+  "per_page": 451,
   "has_more": false,
   "result": [
     {
@@ -12443,6 +12443,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:fl/cd:6",
+          "end_date": "2018-09-10",
           "legislative_period_id": "term/115"
         }
       ]
@@ -14790,6 +14791,32 @@
           "area_id": "ocd-division/country:us/state:in/cd:9",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/d5d6918b-efa4-4853-b4d2-4cc46552e3b7",
+      "image": "https://theunitedstates.io/images/congress/original/B001306.jpg",
+      "name": "Troy Balderson",
+      "sort_name": "Balderson, Troy",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/B001306.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d5d6918b-efa4-4853-b4d2-4cc46552e3b7",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:oh/cd:12",
+          "start_date": "2018-09-05",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
