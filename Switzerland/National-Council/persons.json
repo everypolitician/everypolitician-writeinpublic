@@ -713,8 +713,14 @@
     {
       "gender": "male",
       "id": "person/966d62a9-3920-462d-8147-637714445cd9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Benoît_Genecand_(2015).jpg",
       "name": "Benoît Genecand",
       "sort_name": "Genecand, Benoît",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Benoît_Genecand_(2015).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/966d62a9-3920-462d-8147-637714445cd9",
@@ -780,8 +786,14 @@
     {
       "gender": "male",
       "id": "person/be75bac1-fb3e-4ea6-958b-ae025f5d95fb",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bruno_Pezzatti_(2015).jpg",
       "name": "Bruno Pezzatti",
       "sort_name": "Pezzatti, Bruno",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bruno_Pezzatti_(2015).jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/be75bac1-fb3e-4ea6-958b-ae025f5d95fb",
@@ -3340,6 +3352,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Marianne_Streiff.jpg",
       "name": "Marianne Streiff-Feller",
       "sort_name": "Streiff-Feller, Marianne",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarianneStreiff"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Marianne_Streiff.jpg"
@@ -3354,9 +3372,6 @@
           "area_id": "BE",
           "legislative_period_id": "term/50"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4411,8 +4426,14 @@
     {
       "gender": "male",
       "id": "person/c741ad9d-991c-43bc-96f2-47a832de43bf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Portrait_de_Roger_Golay.jpg",
       "name": "Roger Golay",
       "sort_name": "Golay, Roger",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Portrait_de_Roger_Golay.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c741ad9d-991c-43bc-96f2-47a832de43bf",
@@ -4607,12 +4628,12 @@
     {
       "gender": "female",
       "id": "person/16930cda-975c-44c9-9aff-47bc4416b680",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/S._Sollberger.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sollberger-Sandra.jpg",
       "name": "Sandra Sollberger",
       "sort_name": "Sollberger, Sandra",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/S._Sollberger.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sollberger-Sandra.jpg"
         }
       ],
       "memberships": [
