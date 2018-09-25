@@ -1,11 +1,10 @@
 {
-  "total": 282,
+  "total": 298,
   "page": 1,
-  "per_page": 282,
+  "per_page": 298,
   "has_more": false,
   "result": [
     {
-      "email": "abel.l.baptista@cds.parlamento.pt",
       "gender": "male",
       "id": "person/25798a7f-a63e-4525-88e7-08999a31ebe8",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2167&type=deputado",
@@ -23,6 +22,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "5380183b-f0d3-4519-8f95-9823fa2ff069",
+          "end_date": "2016-09-16",
           "legislative_period_id": "term/13"
         }
       ],
@@ -74,6 +74,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2017-07-20",
           "legislative_period_id": "term/13"
         }
       ],
@@ -139,8 +140,8 @@
       "gender": "female",
       "id": "person/e7431c45-9c70-4e08-9813-dc2f160785ed",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1212&type=deputado",
-      "name": "Ana Catarina Mendonça",
-      "sort_name": "Ana Catarina Mendonça",
+      "name": "Ana Catarina Mendonça Mendes",
+      "sort_name": "Ana Catarina Mendonça Mendes",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1212&type=deputado"
@@ -203,6 +204,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "423cceff-2282-4d94-9922-6b5b86e9ac3b",
+          "start_date": "2015-10-30",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -228,6 +231,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5a4acfba-f1c6-437e-9fe9-f97ae7164e6d",
+          "start_date": "2015-11-27",
+          "end_date": "2016-05-23",
           "legislative_period_id": "term/13"
         }
       ],
@@ -236,7 +241,6 @@
       ]
     },
     {
-      "email": "gp_ps@ps.parlamento.pt",
       "gender": "female",
       "id": "person/a1e37ef9-5316-430a-9aac-363a335fc37e",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2263&type=deputado",
@@ -254,6 +258,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -304,6 +309,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -329,6 +335,7 @@
           "role": "member",
           "on_behalf_of_id": "pcp",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2018-04-16",
           "legislative_period_id": "term/13"
         }
       ],
@@ -379,6 +386,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -429,6 +437,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "end_date": "2017-02-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -454,6 +463,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "start_date": "2015-11-27",
+          "end_date": "2017-07-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -510,6 +521,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ]
@@ -557,6 +569,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5a4acfba-f1c6-437e-9fe9-f97ae7164e6d",
+          "end_date": "2018-03-12",
           "legislative_period_id": "term/13"
         }
       ],
@@ -637,6 +650,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "start_date": "2015-10-30",
+          "end_date": "2016-12-06",
           "legislative_period_id": "term/13"
         }
       ],
@@ -687,6 +702,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "5380183b-f0d3-4519-8f95-9823fa2ff069",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -787,6 +803,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -837,6 +854,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "027cc29e-8264-49b4-934b-7f18719a41db",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -887,6 +905,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "9f3699bc-1a85-491b-8057-de6923704d46",
+          "start_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -987,6 +1006,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a34fa591-b1a1-4234-ab52-4e662b6971dd",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1062,6 +1082,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1087,6 +1108,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "start_date": "2015-11-27",
+          "end_date": "2016-06-08",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1163,6 +1186,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1263,6 +1287,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a51d19f1-1d65-40d4-8b59-51ac097e53e1",
+          "end_date": "2017-11-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1299,8 +1324,8 @@
       "gender": "male",
       "id": "person/a30018e9-24c6-4dd2-b08b-d0f149754062",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4437&type=deputado",
-      "name": "Carlos Santos Silva",
-      "sort_name": "Carlos Santos Silva",
+      "name": "Carlos Silva",
+      "sort_name": "Carlos Silva",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4437&type=deputado"
@@ -1338,6 +1363,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1443,6 +1469,33 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-10-30",
+          "end_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d8c959f5-40b3-4ade-aa5f-01deaadaf93d",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5932&type=deputado",
+      "name": "Constança Urbano de Sousa",
+      "sort_name": "Constança Urbano de Sousa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5932&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8c959f5-40b3-4ade-aa5f-01deaadaf93d",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2017-10-21",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1551,6 +1604,32 @@
       ]
     },
     {
+      "id": "person/ed74e14a-2100-4434-92b5-a29daa656fbc",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5532&type=deputado",
+      "name": "Dinis Costa",
+      "sort_name": "Dinis Costa",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5532&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ed74e14a-2100-4434-92b5-a29daa656fbc",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2017-10-30",
+          "end_date": "2017-10-31",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/69912528-8569-4699-8daa-0751a49aa5c4",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5831&type=deputado",
@@ -1579,8 +1658,8 @@
       "gender": "female",
       "id": "person/109dff67-a640-4a8e-87c9-e368f2fde20a",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5950&type=deputado",
-      "name": "Domicília Costa",
-      "sort_name": "Domicília Costa",
+      "name": "Domicilia Costa",
+      "sort_name": "Domicilia Costa",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5950&type=deputado"
@@ -1593,6 +1672,7 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2017-07-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1618,6 +1698,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2017-05-05",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1629,8 +1710,8 @@
       "gender": "male",
       "id": "person/75a7e659-c06c-47f5-a5f9-d9918bb3aafb",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4170&type=deputado",
-      "name": "Duarte Filipe Marques",
-      "sort_name": "Duarte Filipe Marques",
+      "name": "Duarte Marques",
+      "sort_name": "Duarte Marques",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4170&type=deputado"
@@ -1705,7 +1786,6 @@
       ]
     },
     {
-      "email": "gp_ps@ps.parlamento.pt",
       "gender": "male",
       "id": "person/bdfb939c-f3c4-467d-ab7b-4201e6cc9279",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1987&type=deputado",
@@ -1723,6 +1803,32 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "end_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado",
+      "name": "Eduardo Ferro Rodrigues",
+      "sort_name": "Eduardo Ferro Rodrigues",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1773,6 +1879,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1831,6 +1938,31 @@
       ]
     },
     {
+      "id": "person/60dbe3f4-8434-4e97-a252-55163b629525",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6167&type=deputado",
+      "name": "Ernesto Ferraz",
+      "sort_name": "Ernesto Ferraz",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6167&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/60dbe3f4-8434-4e97-a252-55163b629525",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "a51d19f1-1d65-40d4-8b59-51ac097e53e1",
+          "start_date": "2018-04-16",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/d9203958-784c-4c5d-bade-62de14244a9b",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6139&type=deputado",
@@ -1848,6 +1980,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1873,6 +2006,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "51009b54-888c-4671-991f-25fe4b74c78c",
+          "end_date": "2017-07-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1949,6 +2083,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5a4acfba-f1c6-437e-9fe9-f97ae7164e6d",
+          "end_date": "2018-03-12",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1975,6 +2110,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -1983,7 +2119,6 @@
       ]
     },
     {
-      "email": "f.negrao@psd.parlamento.pt",
       "gender": "male",
       "id": "person/377d99f7-2aa2-45b7-8f71-c6362a7e650c",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1905&type=deputado",
@@ -2001,6 +2136,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2026,6 +2162,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2051,31 +2188,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado",
-      "name": "Ferro Rodrigues",
-      "sort_name": "Ferro Rodrigues",
-      "images": [
-        {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=163&type=deputado"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ec94b0a7-733c-45cd-9116-2df85e4a632c",
-          "organization_id": "chamber/assembleia_da_república",
-          "role": "member",
-          "on_behalf_of_id": "ps",
-          "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2101,6 +2214,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2109,7 +2223,6 @@
       ]
     },
     {
-      "email": "filipe.avila@cds.parlamento.pt",
       "gender": "male",
       "id": "person/25b3fe0f-49fd-44a9-b7a7-8ab90947b3ca",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4172&type=deputado",
@@ -2127,6 +2240,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2018-03-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2202,6 +2316,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "start_date": "2016-01-24",
+          "end_date": "2017-10-21",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2253,6 +2369,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2353,6 +2470,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2364,8 +2482,8 @@
       "gender": "male",
       "id": "person/6dda5aea-9391-4468-9bc4-a108d123dde6",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4059&type=deputado",
-      "name": "Heitor Sousa",
-      "sort_name": "Heitor Sousa",
+      "name": "Heitor de Sousa",
+      "sort_name": "Heitor de Sousa",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4059&type=deputado"
@@ -2386,6 +2504,35 @@
       ]
     },
     {
+      "email": "hamaral@cds.parlamento.pt",
+      "gender": "male",
+      "id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado",
+      "name": "Helder Amaral",
+      "sort_name": "Helder Amaral",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "helderamaralcds"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "legislative_period_id": "term/13"
+        }
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/d6398962-26ee-4d5c-ac05-972d4e9948a9",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5607&type=deputado",
@@ -2403,6 +2550,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "423cceff-2282-4d94-9922-6b5b86e9ac3b",
+          "end_date": "2016-03-10",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2515,6 +2663,31 @@
       ]
     },
     {
+      "id": "person/e9677b4f-0d75-49ec-873f-7cb6203ee8fa",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5934&type=deputado",
+      "name": "Hugo Carvalho",
+      "sort_name": "Hugo Carvalho",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5934&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e9677b4f-0d75-49ec-873f-7cb6203ee8fa",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2017-07-20",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/0ec3e71f-dd17-4ec1-9cfc-c119d594b018",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6013&type=deputado",
@@ -2532,6 +2705,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "e7e1c599-ab6c-4eca-bacb-e87addd2effb",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2582,40 +2756,12 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2017-10-30",
           "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "email": "hamaral@cds.parlamento.pt",
-      "gender": "male",
-      "id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
-      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado",
-      "name": "Hélder Amaral",
-      "sort_name": "Hélder Amaral",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "helderamaralcds"
-        }
-      ],
-      "images": [
-        {
-          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1450&type=deputado"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/21f6b89c-aa0b-4fb5-913c-f775061acd88",
-          "organization_id": "chamber/assembleia_da_república",
-          "role": "member",
-          "on_behalf_of_id": "cds-pp",
-          "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
-          "legislative_period_id": "term/13"
-        }
       ]
     },
     {
@@ -2661,6 +2807,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "5380183b-f0d3-4519-8f95-9823fa2ff069",
+          "start_date": "2016-09-16",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2711,6 +2858,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "start_date": "2016-06-08",
+          "end_date": "2016-11-25",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2736,6 +2885,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "end_date": "2016-01-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2795,7 +2945,6 @@
       ]
     },
     {
-      "email": "gp_ps@ps.parlamento.pt",
       "gender": "female",
       "id": "person/93b0b424-52fe-4163-b861-c34e2a17abde",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4133&type=deputado",
@@ -2813,6 +2962,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2913,6 +3063,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "start_date": "2015-11-27",
+          "end_date": "2016-01-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -2938,6 +3090,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5a4acfba-f1c6-437e-9fe9-f97ae7164e6d",
+          "start_date": "2016-05-23",
+          "end_date": "2017-11-08",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3014,6 +3168,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-11-27",
+          "end_date": "2017-07-20",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3150,8 +3306,8 @@
       "gender": "male",
       "id": "person/835b3307-1c1b-44a4-a684-2967afc879f4",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4194&type=deputado",
-      "name": "Jorge Duarte Costa",
-      "sort_name": "Jorge Duarte Costa",
+      "name": "Jorge Costa",
+      "sort_name": "Jorge Costa",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4194&type=deputado"
@@ -3189,6 +3345,7 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2016-06-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3214,6 +3371,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "8732a79c-980c-4654-a0c9-56b7248247d3",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3264,6 +3422,7 @@
           "role": "member",
           "on_behalf_of_id": "pcp",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-11-07",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3289,6 +3448,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2015-11-27",
+          "end_date": "2016-11-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3364,6 +3525,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5a4acfba-f1c6-437e-9fe9-f97ae7164e6d",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3414,6 +3576,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "fora_da_europa",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3439,6 +3602,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3593,6 +3757,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3618,6 +3783,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "start_date": "2016-04-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3727,6 +3893,31 @@
       ]
     },
     {
+      "id": "person/2c24e61a-1a6b-4cf1-9d10-bce126b41ffd",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5524&type=deputado",
+      "name": "João Dias",
+      "sort_name": "João Dias",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5524&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c24e61a-1a6b-4cf1-9d10-bce126b41ffd",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "pcp",
+          "area_id": "e0099ab8-09d0-4bc5-8560-d0dabe72e941",
+          "start_date": "2018-03-01",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/92587789-f61d-4a27-970a-bf4266c85804",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4166&type=deputado",
@@ -3756,6 +3947,32 @@
     },
     {
       "gender": "male",
+      "id": "person/c0089b72-b8c2-44c0-a187-c3ce849b70fe",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2867&type=deputado",
+      "name": "João Gonçalves Pereira",
+      "sort_name": "João Gonçalves Pereira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2867&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c0089b72-b8c2-44c0-a187-c3ce849b70fe",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "cds-pp",
+          "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2018-03-24",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/6ea7d004-d016-4290-a6e3-17ebfaac9bf2",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=64&type=deputado",
       "name": "João Gouveia",
@@ -3772,6 +3989,33 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "423cceff-2282-4d94-9922-6b5b86e9ac3b",
+          "start_date": "2016-03-10",
+          "end_date": "2017-05-02",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/72944f65-f0e8-4380-9c60-e0bcd3f1da57",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5601&type=deputado",
+      "name": "João Marques",
+      "sort_name": "João Marques",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5601&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/72944f65-f0e8-4380-9c60-e0bcd3f1da57",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "51009b54-888c-4671-991f-25fe4b74c78c",
+          "start_date": "2017-07-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3851,6 +4095,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "end_date": "2016-04-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3876,6 +4121,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3901,6 +4147,7 @@
           "role": "member",
           "on_behalf_of_id": "pcp",
           "area_id": "e0099ab8-09d0-4bc5-8560-d0dabe72e941",
+          "end_date": "2018-03-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -3935,7 +4182,32 @@
       ]
     },
     {
-      "email": "joaosoares@ps.parlamento.pt",
+      "id": "person/d8b6b102-8631-4f36-a618-b17711a2351e",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5681&type=deputado",
+      "name": "João Rodrigues",
+      "sort_name": "João Rodrigues",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5681&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8b6b102-8631-4f36-a618-b17711a2351e",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "5a4acfba-f1c6-437e-9fe9-f97ae7164e6d",
+          "start_date": "2018-03-12",
+          "end_date": "2018-04-07",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/ab517850-3c2b-422f-a00f-58e1510ff317",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1814&type=deputado",
@@ -3953,6 +4225,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4028,6 +4301,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "8732a79c-980c-4654-a0c9-56b7248247d3",
+          "start_date": "2015-11-27",
+          "end_date": "2017-10-21",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4103,6 +4378,34 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-10-30",
+          "end_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/24c8d8ce-953b-49cb-a88f-22385fd21bf4",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5533&type=deputado",
+      "name": "Lucinda Fonseca",
+      "sort_name": "Lucinda Fonseca",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5533&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/24c8d8ce-953b-49cb-a88f-22385fd21bf4",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2017-10-30",
+          "end_date": "2017-10-31",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4128,6 +4431,7 @@
           "role": "member",
           "on_behalf_of_id": "pcp",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-11-07",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4153,6 +4457,33 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "5380183b-f0d3-4519-8f95-9823fa2ff069",
+          "start_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b5ba8b45-d827-4685-b93b-def1c0bab658",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5534&type=deputado",
+      "name": "Luís Castro",
+      "sort_name": "Luís Castro",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5534&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b5ba8b45-d827-4685-b93b-def1c0bab658",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2018-02-06",
+          "end_date": "2018-02-07",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4228,6 +4559,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4261,7 +4593,6 @@
       ]
     },
     {
-      "email": "luismontenegro@psd.parlamento.pt",
       "gender": "male",
       "id": "person/de21831e-f4b7-4c8e-a373-75fc9c450c65",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1561&type=deputado",
@@ -4279,6 +4610,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "end_date": "2018-04-06",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4429,6 +4761,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2017-10-21",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4454,6 +4787,32 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "end_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3dc77d9a-6ae0-4bca-8bb2-51525470903c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6129&type=deputado",
+      "name": "Lúcia Araújo Silva",
+      "sort_name": "Lúcia Araújo Silva",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6129&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3dc77d9a-6ae0-4bca-8bb2-51525470903c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "start_date": "2017-02-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4479,6 +4838,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4529,6 +4889,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "027cc29e-8264-49b4-934b-7f18719a41db",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4554,6 +4915,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "423cceff-2282-4d94-9922-6b5b86e9ac3b",
+          "start_date": "2015-11-27",
+          "end_date": "2017-03-20",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4604,6 +4967,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4654,6 +5018,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "423cceff-2282-4d94-9922-6b5b86e9ac3b",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4679,6 +5044,33 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "027cc29e-8264-49b4-934b-7f18719a41db",
+          "end_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a55fd317-3e40-48b9-be0d-d0c3282c6286",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6189&type=deputado",
+      "name": "Maria Adelaide Ribeiro",
+      "sort_name": "Maria Adelaide Ribeiro",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6189&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a55fd317-3e40-48b9-be0d-d0c3282c6286",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "a51d19f1-1d65-40d4-8b59-51ac097e53e1",
+          "start_date": "2017-11-01",
+          "end_date": "2018-01-29",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4691,8 +5083,8 @@
       "gender": "female",
       "id": "person/bd30bf88-4cc2-43d9-a183-0791fd534f66",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1594&type=deputado",
-      "name": "Maria Antónia Almeida Santos",
-      "sort_name": "Maria Antónia Almeida Santos",
+      "name": "Maria Antónia de Almeida Santos",
+      "sort_name": "Maria Antónia de Almeida Santos",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1594&type=deputado"
@@ -4755,6 +5147,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4780,6 +5173,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "027cc29e-8264-49b4-934b-7f18719a41db",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4830,6 +5224,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "fora_da_europa",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4855,6 +5250,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4880,6 +5276,8 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2016-06-30",
+          "end_date": "2016-09-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4905,6 +5303,32 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "end_date": "2015-11-27",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f58511e0-8598-46f3-8bf7-b58d49ee0a2c",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5952&type=deputado",
+      "name": "Maria Manuel Rola",
+      "sort_name": "Maria Manuel Rola",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5952&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f58511e0-8598-46f3-8bf7-b58d49ee0a2c",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "be",
+          "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2017-07-13",
           "legislative_period_id": "term/13"
         }
       ],
@@ -4966,8 +5390,8 @@
       "gender": "female",
       "id": "person/4841e29c-7dfe-413b-b9ff-0d96e4267a33",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4193&type=deputado",
-      "name": "Maria das Mercês Soares",
-      "sort_name": "Maria das Mercês Soares",
+      "name": "Maria das Mercês Borges",
+      "sort_name": "Maria das Mercês Borges",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4193&type=deputado"
@@ -5030,6 +5454,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "811a485c-a955-4e56-b6f2-23a72cf38a5d",
+          "start_date": "2015-11-27",
+          "end_date": "2017-02-24",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5081,6 +5507,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5131,6 +5558,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2015-10-30",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5260,6 +5689,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5310,6 +5740,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a34fa591-b1a1-4234-ab52-4e662b6971dd",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5335,6 +5766,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "423cceff-2282-4d94-9922-6b5b86e9ac3b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5397,7 +5829,32 @@
       ]
     },
     {
-      "email": "oj@ps.parlamento.pt",
+      "gender": "male",
+      "id": "person/44a9e096-4760-48cf-9738-811844a26b08",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2215&type=deputado",
+      "name": "Nuno Sá",
+      "sort_name": "Nuno Sá",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2215&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/44a9e096-4760-48cf-9738-811844a26b08",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "ps",
+          "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2017-05-05",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/4425b1af-9455-4f93-8a25-4a266bc00bef",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2260&type=deputado",
@@ -5415,6 +5872,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "027cc29e-8264-49b4-934b-7f18719a41db",
+          "start_date": "2015-11-27",
+          "end_date": "2017-07-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5440,6 +5899,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2016-03-10",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5465,6 +5925,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5490,6 +5951,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2015-11-27",
+          "end_date": "2017-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5565,6 +6028,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5590,6 +6054,7 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "a51d19f1-1d65-40d4-8b59-51ac097e53e1",
+          "end_date": "2018-04-16",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5615,6 +6080,8 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
+          "end_date": "2016-04-14",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5691,6 +6158,8 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
+          "end_date": "2016-06-09",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5741,6 +6210,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5874,7 +6344,6 @@
       ]
     },
     {
-      "email": "pedro-filipe.soares@be.parlamento.pt",
       "gender": "male",
       "id": "person/e57bfea4-8393-44a3-82cd-1206fc7f178a",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=3926&type=deputado",
@@ -5898,6 +6367,7 @@
           "role": "member",
           "on_behalf_of_id": "be",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2017-11-24",
           "legislative_period_id": "term/13"
         }
       ]
@@ -5920,6 +6390,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5945,6 +6416,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -5970,6 +6442,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
+          "end_date": "2018-03-01",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6120,6 +6594,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6156,8 +6631,8 @@
       "gender": "female",
       "id": "person/ef43f4f8-a97f-453a-9101-f43455e27f24",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2106&type=deputado",
-      "name": "Regina Ramos Bastos",
-      "sort_name": "Regina Ramos Bastos",
+      "name": "Regina Bastos",
+      "sort_name": "Regina Bastos",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2106&type=deputado"
@@ -6220,6 +6695,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6270,6 +6746,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6295,6 +6772,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6345,6 +6823,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "9f3699bc-1a85-491b-8057-de6923704d46",
+          "end_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6404,6 +6883,31 @@
       ]
     },
     {
+      "id": "person/b5a8c5b2-12b3-4bcf-afcd-904022bc2e12",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5492&type=deputado",
+      "name": "Rui Cruz",
+      "sort_name": "Rui Cruz",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5492&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b5a8c5b2-12b3-4bcf-afcd-904022bc2e12",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "psd",
+          "area_id": "fda2f770-d4ef-4338-be0b-58f6751dc048",
+          "start_date": "2018-04-06",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/7ef61f16-7f2c-459a-92c2-9accf5fba31c",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5833&type=deputado",
@@ -6421,6 +6925,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6446,6 +6951,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6521,6 +7027,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5380183b-f0d3-4519-8f95-9823fa2ff069",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6596,6 +7103,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6621,6 +7129,8 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "a3e41172-2231-4ab1-9f47-6f767194092c",
+          "start_date": "2015-10-30",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6830,6 +7340,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6880,6 +7391,7 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "027cc29e-8264-49b4-934b-7f18719a41db",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6930,6 +7442,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "5380183b-f0d3-4519-8f95-9823fa2ff069",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -6980,6 +7493,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "e7e1c599-ab6c-4eca-bacb-e87addd2effb",
+          "end_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -7031,6 +7545,7 @@
           "role": "member",
           "on_behalf_of_id": "cds-pp",
           "area_id": "eb073bce-bfd7-4bc1-a3fb-5720df172716",
+          "start_date": "2015-10-30",
           "legislative_period_id": "term/13"
         }
       ],
@@ -7056,6 +7571,7 @@
           "role": "member",
           "on_behalf_of_id": "ps",
           "area_id": "392bc8f5-4e7e-4c54-9e51-f0ddcde0787b",
+          "start_date": "2015-11-27",
           "legislative_period_id": "term/13"
         }
       ],
@@ -7092,8 +7608,8 @@
       "gender": "male",
       "id": "person/5c3180be-2bb9-4956-a691-190d4c0e5877",
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1290&type=deputado",
-      "name": "Álvaro Castello-Branco",
-      "sort_name": "Álvaro Castello-Branco",
+      "name": "Álvaro Castelo Branco",
+      "sort_name": "Álvaro Castelo Branco",
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1290&type=deputado"
@@ -7131,6 +7647,31 @@
           "role": "member",
           "on_behalf_of_id": "psd",
           "area_id": "1aa17852-5eb8-43bc-a146-96ca21515334",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a88f29f4-3795-4097-b732-00bc3af7b4ce",
+      "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5906&type=deputado",
+      "name": "Ângela Moreira",
+      "sort_name": "Ângela Moreira",
+      "images": [
+        {
+          "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5906&type=deputado"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a88f29f4-3795-4097-b732-00bc3af7b4ce",
+          "organization_id": "chamber/assembleia_da_república",
+          "role": "member",
+          "on_behalf_of_id": "pcp",
+          "area_id": "ed5cc8b9-92ac-4c31-a50e-52cab7150da0",
+          "start_date": "2018-04-16",
           "legislative_period_id": "term/13"
         }
       ],
