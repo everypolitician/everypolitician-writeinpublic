@@ -1,7 +1,7 @@
 {
-  "total": 162,
+  "total": 165,
   "page": 1,
-  "per_page": 162,
+  "per_page": 165,
   "has_more": false,
   "result": [
     {
@@ -902,6 +902,32 @@
       ]
     },
     {
+      "email": "igor_federic@nrsr.sk",
+      "gender": "male",
+      "id": "person/9ec5b6d1-40d1-4485-ba4a-5b6a8ce709d6",
+      "image": "http://files.parldata.eu/sk/nrsr/people/54d2a57d273a394ad5dba05e/image.jpeg",
+      "name": "Igor Federič",
+      "sort_name": "Federič, Igor",
+      "images": [
+        {
+          "url": "http://files.parldata.eu/sk/nrsr/people/54d2a57d273a394ad5dba05e/image.jpeg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9ec5b6d1-40d1-4485-ba4a-5b6a8ce709d6",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "smer_–_sociálna_demokracia",
+          "area_id": "bratislavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "igor_janckulik@nrsr.sk",
       "gender": "male",
       "id": "person/4d5701b6-f424-4019-a624-8ac024c1d89a",
@@ -1459,6 +1485,31 @@
           "role": "member",
           "on_behalf_of_id": "kotleba_-_Ľudová_strana_naše_slovensko",
           "area_id": "košický",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "juraj_sobona@nrsr.sk",
+      "id": "person/1e42aaac-5178-459c-87e8-778117b9bba0",
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=988&ImageWidth=140",
+      "name": "Juraj Soboňa",
+      "sort_name": "Juraj Soboňa",
+      "images": [
+        {
+          "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=988&ImageWidth=140"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e42aaac-5178-459c-87e8-778117b9bba0",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "slovenská_národná_strana",
+          "area_id": "nitriansky",
           "legislative_period_id": "term/7"
         }
       ],
@@ -4144,6 +4195,31 @@
           "role": "member",
           "on_behalf_of_id": "sme_rodina_-_boris_kollár",
           "area_id": "bratislavský",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "stefan_vavrek@nrsr.sk",
+      "id": "person/1230b269-47f8-4340-b0b2-547a62ed6890",
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=989&ImageWidth=140",
+      "name": "Štefan Vavrek",
+      "sort_name": "Štefan Vavrek",
+      "images": [
+        {
+          "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=989&ImageWidth=140"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1230b269-47f8-4340-b0b2-547a62ed6890",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "most-hÍd",
+          "area_id": "banskobystrický",
           "legislative_period_id": "term/7"
         }
       ],
