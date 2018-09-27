@@ -1,7 +1,7 @@
 {
-  "total": 109,
+  "total": 111,
   "page": 1,
-  "per_page": 109,
+  "per_page": 111,
   "has_more": false,
   "result": [
     {
@@ -156,6 +156,30 @@
           "end_date": "2018-08-21",
           "legislative_period_id": "term/42"
         }
+      ]
+    },
+    {
+      "id": "person/a6b9dba1-c98c-4bcc-b5b3-3ad8b46e2882",
+      "image": "https://sencanada.ca/media/362811/sen_large.jpg",
+      "name": "Bev Busson",
+      "sort_name": "Busson, Bev",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362811/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a6b9dba1-c98c-4bcc-b5b3-3ad8b46e2882",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "british_columbia_(british_columbia)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1697,6 +1721,30 @@
           "role": "member",
           "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "manitoba_(manitoba)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
+      "image": "https://sencanada.ca/media/362821/sen_large.jpg",
+      "name": "Martin Klyne",
+      "sort_name": "Klyne, Martin",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362821/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "saskatchewan_(saskatchewan)",
           "legislative_period_id": "term/42"
         }
       ],
