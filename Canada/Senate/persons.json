@@ -92,7 +92,6 @@
       ]
     },
     {
-      "email": "art.eggleton@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/5d8e7cfd-825a-4f9b-b7d2-233f32b93ab9",
       "image": "https://sencanada.ca/media/26099/sen_2774_large.jpg",
@@ -116,6 +115,7 @@
           "role": "member",
           "on_behalf_of_id": "31c6ca10-22a1-4157-b33e-5b80bc8fa15b",
           "area_id": "ontario_(toronto)",
+          "end_date": "2018-09-29",
           "legislative_period_id": "term/42"
         }
       ],
@@ -159,6 +159,7 @@
       ]
     },
     {
+      "email": "Beverley.Busson@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/a6b9dba1-c98c-4bcc-b5b3-3ad8b46e2882",
       "image": "https://sencanada.ca/media/362811/sen_large.jpg",
@@ -1732,31 +1733,6 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
-      "image": "https://sencanada.ca/media/362821/sen_large.jpg",
-      "name": "Martin Klyne",
-      "sort_name": "Klyne, Martin",
-      "images": [
-        {
-          "url": "https://sencanada.ca/media/362821/sen_large.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
-          "area_id": "saskatchewan_(saskatchewan)",
-          "legislative_period_id": "term/42"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "Marty.Deacon@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/986843bc-f8ef-49eb-8040-441ca01dc3f6",
@@ -1775,6 +1751,32 @@
           "role": "member",
           "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "ontario_(waterloo_region)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Marty.Klyne@sen.parl.gc.ca",
+      "gender": "male",
+      "id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
+      "image": "https://sencanada.ca/media/362821/sen_large.jpg",
+      "name": "Marty Klyne",
+      "sort_name": "Klyne, Marty",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362821/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "saskatchewan_(saskatchewan)",
           "legislative_period_id": "term/42"
         }
       ],
