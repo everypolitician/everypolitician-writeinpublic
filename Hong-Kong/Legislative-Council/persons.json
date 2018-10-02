@@ -6,10 +6,17 @@
   "result": [
     {
       "email": "info@aunokhin.hk",
+      "gender": "male",
       "id": "person/8d42c339-f68d-47df-9679-cebd2d9801e3",
       "image": "http://www.legco.gov.hk/images/mem_1620/anh.jpg",
       "name": "AU Nok-hin",
       "sort_name": "AU Nok-hin",
+      "links": [
+        {
+          "url": "nokhinau",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.legco.gov.hk/images/mem_1620/anh.jpg"
@@ -1818,6 +1825,7 @@
     },
     {
       "email": "vincentcheng@dab.org.hk",
+      "gender": "male",
       "id": "person/5fafc55b-cc11-4d78-a74b-25b9938875b0",
       "image": "http://www.legco.gov.hk/images/mem_1620/cws.jpg",
       "name": "Vincent CHENG Wing-shun",
