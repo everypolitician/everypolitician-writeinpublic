@@ -122,6 +122,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/31ffe579-e740-4281-bba9-5b9fc35dfe46",
       "name": "ALEKSANDAR SESELj",
       "sort_name": "ALEKSANDAR SESELj",
@@ -272,6 +273,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/226e3cb0-ffa2-4298-acc7-d01bfe032075",
       "name": "ALEKSANDRA JEVTIC",
       "sort_name": "ALEKSANDRA JEVTIC",
@@ -377,6 +379,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/f3d54e85-05c6-40d2-8a7e-71f76611d7b0",
       "name": "ANA CARAPIC",
       "sort_name": "ANA CARAPIC",
@@ -473,6 +476,7 @@
     {
       "gender": "male",
       "id": "person/dc3e026b-8648-4c1b-810b-52107772ddf9",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Balsa_Bozovic-mc.rs.jpg",
       "name": "BALSA BOZOVIC",
       "sort_name": "BALSA BOZOVIC",
       "contact_details": [
@@ -485,6 +489,11 @@
         {
           "url": "balshone",
           "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Balsa_Bozovic-mc.rs.jpg"
         }
       ],
       "memberships": [
@@ -841,6 +850,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b94069a1-3173-4603-ae63-37f4d141dd24",
       "name": "BRANKO POPOVIC",
       "sort_name": "BRANKO POPOVIC",
@@ -1761,6 +1771,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/e58f02c9-2d57-450e-85fd-dd256cc2d00b",
       "name": "FILIP STOJANOVIC",
       "sort_name": "FILIP STOJANOVIC",
@@ -3568,8 +3579,14 @@
     {
       "gender": "male",
       "id": "person/c749e7c1-3fb8-4a56-89fa-175736ea75cd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Milovan_Bojic-mc.rs.jpg",
       "name": "MILOVAN BOJIC",
       "sort_name": "MILOVAN Prof. Dr BOJIC",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Milovan_Bojic-mc.rs.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/c749e7c1-3fb8-4a56-89fa-175736ea75cd",
@@ -3970,6 +3987,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/c8417367-d8fa-4c53-a1be-bcae1a00e288",
       "name": "NADA KOSTIC",
       "sort_name": "NADA KOSTIC",
@@ -4639,6 +4657,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/9105489e-16a6-46b7-9790-f87ddb642f57",
       "name": "RUZICA NIKOLIC",
       "sort_name": "RUZICA NIKOLIC",
@@ -4662,6 +4681,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sanda_Raskovic_Ivic_i_Djordje_Vukadinovic-mc.rs_Crop.jpg",
       "name": "SANDA RASKOVIC IVIC",
       "sort_name": "SANDA Dr RASKOVIC IVIC",
+      "links": [
+        {
+          "url": "sanda.raskovic.ivic",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sanda_Raskovic_Ivic_i_Djordje_Vukadinovic-mc.rs_Crop.jpg"
@@ -4681,6 +4706,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/3474be2f-a522-4eec-a1ec-fe0b4b9bf168",
       "name": "SANDRA BOZIC",
       "sort_name": "SANDRA BOZIC",
@@ -4759,6 +4785,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/69de998b-fc0e-4cca-87bc-7f1c848923dc",
       "name": "SLAVICA ZIVKOVIC",
       "sort_name": "SLAVICA ZIVKOVIC",
@@ -5277,6 +5304,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/15027b51-2bf3-4c37-a12d-b1f09c337aa2",
       "name": "VERA JOVANOVIC",
       "sort_name": "VERA JOVANOVIC",
@@ -5949,6 +5977,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/834c539a-34da-4298-8a58-6b92f4a3ca67",
       "name": "ZORAN DESPOTOVIĆ",
       "sort_name": "ZORAN DESPOTOVIĆ",
