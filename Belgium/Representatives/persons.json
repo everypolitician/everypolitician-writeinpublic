@@ -1,7 +1,7 @@
 {
-  "total": 176,
+  "total": 177,
   "page": 1,
-  "per_page": 176,
+  "per_page": 177,
   "has_more": false,
   "result": [
     {
@@ -2897,6 +2897,25 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/c173ca53-e5e9-4f24-b3fb-7ed7fb57d78e",
+      "name": "Michel Corthouts",
+      "sort_name": "Michel Corthouts",
+      "memberships": [
+        {
+          "person_id": "person/c173ca53-e5e9-4f24-b3fb-7ed7fb57d78e",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+          "start_date": "2018-10-04",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "michel.delamotte@lachambre.be",
       "gender": "male",
       "id": "person/bc11cd0c-3d67-4e7e-8132-36e45e6f3ab0",
@@ -3993,7 +4012,6 @@
       ]
     },
     {
-      "email": "stephane.crusniere@lachambre.be",
       "gender": "male",
       "id": "person/014de10e-b557-4c6e-9b40-3be52de53f49",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6536.gif",
@@ -4012,6 +4030,7 @@
           "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
           "area_id": "ff83572d-6b06-4363-a6c5-e2202b37fe72",
           "start_date": "2014-07-30",
+          "end_date": "2018-10-04",
           "legislative_period_id": "term/54"
         }
       ],
