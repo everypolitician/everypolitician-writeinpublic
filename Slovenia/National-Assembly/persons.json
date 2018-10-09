@@ -1,7 +1,7 @@
 {
-  "total": 91,
+  "total": 96,
   "page": 1,
-  "per_page": 91,
+  "per_page": 96,
   "has_more": false,
   "result": [
     {
@@ -67,6 +67,29 @@
           "organization_id": "chamber/državni_zbor",
           "role": "member",
           "on_behalf_of_id": "LMŠ",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/cb8ef500-81d0-4a70-a41b-4165b6fc399f",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P354",
+      "name": "Andrej Šušmelj",
+      "sort_name": "Šušmelj Andrej",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P354"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cb8ef500-81d0-4a70-a41b-4165b6fc399f",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SAB",
           "legislative_period_id": "term/8"
         }
       ],
@@ -691,6 +714,29 @@
       ]
     },
     {
+      "id": "person/318d0494-71d1-4888-820a-3074f437414a",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P356",
+      "name": "Gregor Židan",
+      "sort_name": "Židan Gregor",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P356"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/318d0494-71d1-4888-820a-3074f437414a",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SMC",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/87a5c10d-a7e2-456f-9d99-6f23943febe6",
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P322",
       "name": "Igor Peček",
@@ -813,6 +859,33 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b82a6b6f-1a7d-46d4-b2ea-838a81312033",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P191",
+      "name": "Jani (Janko) Möderndorfer",
+      "sort_name": "Möderndorfer Jani (Janko)",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JaniModern"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P191"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b82a6b6f-1a7d-46d4-b2ea-838a81312033",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SMC",
+          "legislative_period_id": "term/8"
+        }
       ]
     },
     {
@@ -1147,6 +1220,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/78cc2e93-46fe-41d7-8a7d-5e231e883e78",
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P348",
       "name": "Lidija Ivanuša",
@@ -1582,6 +1656,29 @@
       ]
     },
     {
+      "id": "person/2706978b-5a56-49f6-9e98-0a8bf88d711f",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P182",
+      "name": "Maša Kociper",
+      "sort_name": "Kociper Maša",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P182"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2706978b-5a56-49f6-9e98-0a8bf88d711f",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "SAB",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/8d25b224-f880-48f3-921f-530bc1159941",
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P262",
@@ -1707,6 +1804,29 @@
           "organization_id": "chamber/državni_zbor",
           "role": "member",
           "on_behalf_of_id": "Levica",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e1c4146e-e655-492d-98bd-0aa9a3537fce",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P355",
+      "name": "Nina Maurovič",
+      "sort_name": "Maurovič Nina",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P355"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e1c4146e-e655-492d-98bd-0aa9a3537fce",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "LMŠ",
           "legislative_period_id": "term/8"
         }
       ],

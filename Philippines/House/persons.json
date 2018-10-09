@@ -1,7 +1,7 @@
 {
-  "total": 299,
+  "total": 300,
   "page": 1,
-  "per_page": 299,
+  "per_page": 300,
   "has_more": false,
   "result": [
     {
@@ -3637,6 +3637,23 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "south_cotabato,_2nd_district",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e565a8af-0a10-4501-9ce6-4e6f9fff6c42",
+      "name": "Hernandez, Paul P.",
+      "sort_name": "Hernandez, Paul P.",
+      "memberships": [
+        {
+          "person_id": "person/e565a8af-0a10-4501-9ce6-4e6f9fff6c42",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "kabayan",
           "legislative_period_id": "term/17"
         }
       ],
