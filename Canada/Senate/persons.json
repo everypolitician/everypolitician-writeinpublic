@@ -1,7 +1,7 @@
 {
-  "total": 111,
+  "total": 114,
   "page": 1,
-  "per_page": 111,
+  "per_page": 114,
   "has_more": false,
   "result": [
     {
@@ -2231,6 +2231,32 @@
       ]
     },
     {
+      "email": "Patti.LaBoucane-Benson@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/694adbef-58b4-4325-8f71-59c0cdfbd4ea",
+      "image": "https://sencanada.ca/media/362966/sen_large.jpg",
+      "name": "Patti LaBoucane-Benson",
+      "sort_name": "LaBoucane-Benson, Patti",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362966/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/694adbef-58b4-4325-8f71-59c0cdfbd4ea",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "alberta_(alberta)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "paul.mcintyre@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/ad5c5c01-c77d-43d5-b21f-e8d6568e6f2d",
@@ -2281,6 +2307,32 @@
           "role": "member",
           "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "quebec_(de_lanaudière)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Paula.Simons@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/b32cd745-a24c-4817-af74-b488ebd3eadf",
+      "image": "https://sencanada.ca/media/362976/sen_large.jpg",
+      "name": "Paula Simons",
+      "sort_name": "Simons, Paula",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362976/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b32cd745-a24c-4817-af74-b488ebd3eadf",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "alberta_(alberta)",
           "legislative_period_id": "term/42"
         }
       ],
@@ -2368,6 +2420,35 @@
           "role": "member",
           "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
           "area_id": "ontario_(ottawa)",
+          "legislative_period_id": "term/42"
+        }
+      ]
+    },
+    {
+      "email": "Peter.Boehm@sen.parl.gc.ca",
+      "gender": "male",
+      "id": "person/7615f1f8-f8c1-46de-a206-8fb88685a701",
+      "image": "https://sencanada.ca/media/362981/sen_large.jpg",
+      "name": "Peter M. Boehm",
+      "sort_name": "Boehm, Peter M.",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "G7Sherpa"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/362981/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7615f1f8-f8c1-46de-a206-8fb88685a701",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "ontario_(ontario)",
           "legislative_period_id": "term/42"
         }
       ]
