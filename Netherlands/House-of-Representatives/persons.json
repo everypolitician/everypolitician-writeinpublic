@@ -1,7 +1,7 @@
 {
-  "total": 174,
+  "total": 176,
   "page": 1,
-  "per_page": 174,
+  "per_page": 176,
   "has_more": false,
   "result": [
     {
@@ -114,7 +114,6 @@
       ]
     },
     {
-      "email": "a.pechtold@tweedekamer.nl",
       "gender": "male",
       "id": "person/8146c73f-9d68-43a0-bffd-99213dfcd70a",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/c960e342-5583-4f2f-8b4e-c6bdb9d513b5.jpg?itok=Jd24Dncs",
@@ -137,6 +136,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "end_date": "2018-10-09",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -748,6 +748,24 @@
           "on_behalf_of_id": "1fca422a-b267-41aa-abb5-647c39c6b58d",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "id": "person/e0028750-cf4c-4356-a909-bd2d9ad25ef7",
+      "name": "Christine Teunissen",
+      "sort_name": "Christine Teunissen",
+      "memberships": [
+        {
+          "person_id": "person/e0028750-cf4c-4356-a909-bd2d9ad25ef7",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "29f1cf86-03d9-477c-8fa5-cc67de7fb5a2",
+          "start_date": "2018-10-11",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2928,7 +2946,6 @@
       ]
     },
     {
-      "email": "marianne.thieme@tweedekamer.nl",
       "gender": "female",
       "id": "person/8e4aa2d6-9046-4485-942b-5aed026f34d3",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/4fb04457-5ef6-432d-9c6b-924fdfb1c6da.jpg?itok=SBTgIu86",
@@ -2957,6 +2974,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "29f1cf86-03d9-477c-8fa5-cc67de7fb5a2",
+          "end_date": "2018-10-09",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -3957,6 +3975,24 @@
           "start_date": "2017-10-31",
           "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "id": "person/192a0d1d-497e-4f8b-8e48-385c4c9374db",
+      "name": "Rutger Schonis",
+      "sort_name": "Rutger Schonis",
+      "memberships": [
+        {
+          "person_id": "person/192a0d1d-497e-4f8b-8e48-385c4c9374db",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "d2f10508-d260-42ad-8220-e7262da7d833",
+          "start_date": "2018-10-10",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
