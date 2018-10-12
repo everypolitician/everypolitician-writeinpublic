@@ -788,8 +788,8 @@
     {
       "gender": "female",
       "id": "person/fccb522b-cbba-4d00-a371-479d209fd444",
-      "name": "Oddný Guðbjörg Harðardóttir",
-      "sort_name": "Oddný Guðbjörg Harðardóttir",
+      "name": "Oddný Harðardóttir",
+      "sort_name": "Oddný Harðardóttir",
       "memberships": [
         {
           "person_id": "person/fccb522b-cbba-4d00-a371-479d209fd444",
@@ -1077,12 +1077,13 @@
       ]
     },
     {
-      "id": "person/c5b1c71d-737c-4939-b3e1-d17e2848f94d",
+      "gender": "male",
+      "id": "person/19c6a7cd-3a88-49c1-b9a9-5730f56d1454",
       "name": "Vilhjálmur Árnason",
       "sort_name": "Vilhjálmur Árnason",
       "memberships": [
         {
-          "person_id": "person/c5b1c71d-737c-4939-b3e1-d17e2848f94d",
+          "person_id": "person/19c6a7cd-3a88-49c1-b9a9-5730f56d1454",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q218303",
@@ -1259,12 +1260,19 @@
       ]
     },
     {
-      "id": "person/41f62055-33e5-4cc8-82df-69d427652661",
-      "name": "Þorgerður Katrín Gunnarsdóttir",
-      "sort_name": "Þorgerður Katrín Gunnarsdóttir",
+      "gender": "female",
+      "id": "person/c5b652e2-4034-470b-9093-fac3d3a37030",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Thorgerdur_K._Gunnarsdottir,_Islands_kulturminister.jpg",
+      "name": "Þorgerður Gunnarsdóttir",
+      "sort_name": "Þorgerður Gunnarsdóttir",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Thorgerdur_K._Gunnarsdottir,_Islands_kulturminister.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/41f62055-33e5-4cc8-82df-69d427652661",
+          "person_id": "person/c5b652e2-4034-470b-9093-fac3d3a37030",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q23789296",
