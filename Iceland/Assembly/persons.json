@@ -1,9 +1,110 @@
 {
-  "total": 67,
+  "total": 63,
   "page": 1,
-  "per_page": 67,
+  "per_page": 63,
   "has_more": false,
   "result": [
+    {
+      "gender": "female",
+      "id": "person/f5dacfbb-6040-4d08-aa38-aec408b94814",
+      "name": "Albertína Friðbjörg Elíasdóttir",
+      "sort_name": "Albertína Friðbjörg Elíasdóttir",
+      "memberships": [
+        {
+          "person_id": "person/f5dacfbb-6040-4d08-aa38-aec408b94814",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q1141127",
+          "area_id": "Q2001559",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/247a65b1-b233-4e4d-941e-eef3780969a9",
+      "name": "Andrés Ingi Jónsson",
+      "sort_name": "Andrés Ingi Jónsson",
+      "memberships": [
+        {
+          "person_id": "person/247a65b1-b233-4e4d-941e-eef3780969a9",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q1130754",
+          "area_id": "Q1526538",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/e25e9c8e-66b2-4b22-a03b-444c9d65705e",
+      "name": "Anna Kolbrún Árnadóttir",
+      "sort_name": "Anna Kolbrún Árnadóttir",
+      "memberships": [
+        {
+          "person_id": "person/e25e9c8e-66b2-4b22-a03b-444c9d65705e",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q41280154",
+          "area_id": "Q2001559",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a0474bf6-46da-4527-8d4c-e64965f43876",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ari_Trausti_Guðmundsson.jpg",
+      "name": "Ari Trausti Guðmundsson",
+      "sort_name": "Ari Trausti Guðmundsson",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ari_Trausti_Guðmundsson.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a0474bf6-46da-4527-8d4c-e64965f43876",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q1130754",
+          "area_id": "Q1419190",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e8ceca39-22f1-426b-ad51-0fc8581e9d75",
+      "name": "Bergþór Ólason",
+      "sort_name": "Bergþór Ólason",
+      "memberships": [
+        {
+          "person_id": "person/e8ceca39-22f1-426b-ad51-0fc8581e9d75",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q41280154",
+          "area_id": "Q2001582",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "gender": "male",
       "id": "person/9aeb0dc2-ef4a-43f5-bc13-76d12becdb21",
@@ -22,7 +123,7 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -30,31 +131,22 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/5c6a6964-fbfb-4bf3-a801-aa34f281824c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Praha,_PiCe,_Birgitta_Jónsdóttir.jpg",
-      "name": "Birgitta Jónsdóttir",
-      "sort_name": "Birgitta Jónsdóttir",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "birgittaj"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Praha,_PiCe,_Birgitta_Jónsdóttir.jpg"
-        }
-      ],
+      "gender": "male",
+      "id": "person/8a69a495-120e-4936-a725-e50cd7be71f8",
+      "name": "Birgir Þórarinsson",
+      "sort_name": "Birgir Þórarinsson",
       "memberships": [
         {
-          "person_id": "person/5c6a6964-fbfb-4bf3-a801-aa34f281824c",
+          "person_id": "person/8a69a495-120e-4936-a725-e50cd7be71f8",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q198403",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q41280154",
+          "area_id": "Q1419190",
+          "legislative_period_id": "term/2017"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -69,7 +161,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -106,23 +198,23 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ]
     },
     {
-      "gender": "female",
-      "id": "person/d0f1656e-58db-4aeb-b37b-0798c220bdb3",
-      "name": "Björt Ólafsdóttir",
-      "sort_name": "Björt Ólafsdóttir",
+      "gender": "male",
+      "id": "person/773df392-3a27-481b-86ad-0789331377d3",
+      "name": "Björn Leví Gunnarsson",
+      "sort_name": "Björn Leví Gunnarsson",
       "memberships": [
         {
-          "person_id": "person/d0f1656e-58db-4aeb-b37b-0798c220bdb3",
+          "person_id": "person/773df392-3a27-481b-86ad-0789331377d3",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q5019160",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q198403",
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -131,17 +223,17 @@
     },
     {
       "gender": "female",
-      "id": "person/770c605e-dc83-4617-b8bf-961fe2ab2206",
-      "name": "Brynhildur Pétursdóttir",
-      "sort_name": "Brynhildur Pétursdóttir",
+      "id": "person/1c33ca9b-ce72-4176-b704-e6abb39d36bc",
+      "name": "Bryndís Haraldsdóttir",
+      "sort_name": "Bryndís Haraldsdóttir",
       "memberships": [
         {
-          "person_id": "person/770c605e-dc83-4617-b8bf-961fe2ab2206",
+          "person_id": "person/1c33ca9b-ce72-4176-b704-e6abb39d36bc",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q5019160",
-          "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q218303",
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -165,127 +257,8 @@
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q218303",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7061f49a-3926-4e10-9c76-c1ae47f94339",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Einar_Gudfinnsson_fd._fiskeriminister_Island._2009-01-27.jpg",
-      "name": "Einar Kristinn Guðfinnsson",
-      "sort_name": "Einar Kristinn Guðfinnsson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Einar_Gudfinnsson_fd._fiskeriminister_Island._2009-01-27.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7061f49a-3926-4e10-9c76-c1ae47f94339",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/dc5a89b4-2ab0-470d-9a32-007f137bfaf8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Elsa_Lára_Arnardóttir_(30395126172).jpg",
-      "name": "Elsa Lára Arnardóttir",
-      "sort_name": "Elsa Lára Arnardóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Elsa_Lára_Arnardóttir_(30395126172).jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dc5a89b4-2ab0-470d-9a32-007f137bfaf8",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/5d570c48-9b20-46fb-8a38-290452aad493",
-      "name": "Elín Hirst",
-      "sort_name": "Elín Hirst",
-      "memberships": [
-        {
-          "person_id": "person/5d570c48-9b20-46fb-8a38-290452aad493",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/b1127799-897b-4b66-b53c-c7f40a5ac1fb",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eygló_Harðardóttir_-_60_års_Nordisk_Arbejdsmarked_-_norden.org.jpg",
-      "name": "Eygló Harðardóttir",
-      "sort_name": "Eygló Harðardóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eygló_Harðardóttir_-_60_års_Nordisk_Arbejdsmarked_-_norden.org.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b1127799-897b-4b66-b53c-c7f40a5ac1fb",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1c843d2f-ccaf-4c2f-8116-7b35b8c526bf",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/FrostiSigurjonsson.png",
-      "name": "Frosti Sigurjónsson",
-      "sort_name": "Frosti Sigurjónsson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/FrostiSigurjonsson.png"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1c843d2f-ccaf-4c2f-8116-7b35b8c526bf",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -308,9 +281,9 @@
           "person_id": "person/7cfe3b70-9f6e-4352-b8fe-cdd793fa7ac4",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q41280154",
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -319,24 +292,17 @@
     },
     {
       "gender": "male",
-      "id": "person/f1998505-64a2-48ef-b00a-bed5a2024988",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gudbjartur_Hannesson_jamstalldhetsminister_Island.jpg",
-      "name": "Guðbjartur Hannesson",
-      "sort_name": "Guðbjartur Hannesson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gudbjartur_Hannesson_jamstalldhetsminister_Island.jpg"
-        }
-      ],
+      "id": "person/ae714a4c-6338-44c8-95be-98321697aa3d",
+      "name": "Guðjón S. Brjánsson",
+      "sort_name": "Guðjón S. Brjánsson",
       "memberships": [
         {
-          "person_id": "person/f1998505-64a2-48ef-b00a-bed5a2024988",
+          "person_id": "person/ae714a4c-6338-44c8-95be-98321697aa3d",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q1141127",
           "area_id": "Q2001582",
-          "end_date": "2015-10-23",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -360,8 +326,8 @@
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q218303",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "area_id": "Q1526538",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -370,23 +336,36 @@
     },
     {
       "gender": "male",
-      "id": "person/0e0eec08-7c4e-470f-a5e6-0bea0d93b5fc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gudmundur_Steingrimsson_2_(cropped).jpg",
-      "name": "Guðmundur Steingrímsson",
-      "sort_name": "Guðmundur Steingrímsson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gudmundur_Steingrimsson_2_(cropped).jpg"
-        }
-      ],
+      "id": "person/01fe5ec2-f326-4201-9fdd-a6fdcef593ef",
+      "name": "Guðmundur Andri Thorsson",
+      "sort_name": "Guðmundur Andri Thorsson",
       "memberships": [
         {
-          "person_id": "person/0e0eec08-7c4e-470f-a5e6-0bea0d93b5fc",
+          "person_id": "person/01fe5ec2-f326-4201-9fdd-a6fdcef593ef",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q5019160",
+          "on_behalf_of_id": "Q1141127",
           "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/af42f5fc-f241-47f1-9a28-f127b91d60db",
+      "name": "Guðmundur Ingi Kristinsson",
+      "sort_name": "Guðmundur Ingi Kristinsson",
+      "memberships": [
+        {
+          "person_id": "person/af42f5fc-f241-47f1-9a28-f127b91d60db",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q27273216",
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -395,17 +374,61 @@
     },
     {
       "gender": "female",
-      "id": "person/96f72e95-8252-4e44-8c55-02a9702eff80",
-      "name": "Hanna Birna Kristjánsdóttir",
-      "sort_name": "Hanna Birna Kristjánsdóttir",
+      "id": "person/aca5b10a-f570-4c0d-9c54-c5ce9d51ab22",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Halla_Signý.jpg",
+      "name": "Halla Signý Kristjánsdóttir",
+      "sort_name": "Halla Signý Kristjánsdóttir",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Halla_Signý.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/96f72e95-8252-4e44-8c55-02a9702eff80",
+          "person_id": "person/aca5b10a-f570-4c0d-9c54-c5ce9d51ab22",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q218303",
+          "on_behalf_of_id": "Q1046777",
+          "area_id": "Q2001582",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/8cd6dd4d-baeb-485a-83fa-3c222a5c87ad",
+      "name": "Halldóra Mogensen",
+      "sort_name": "Halldóra Mogensen",
+      "memberships": [
+        {
+          "person_id": "person/8cd6dd4d-baeb-485a-83fa-3c222a5c87ad",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q198403",
+          "area_id": "Q1526538",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/dbca5dfc-b710-45f1-b163-9261e19b1170",
+      "name": "Hanna Katrín Friðriksson",
+      "sort_name": "Hanna Katrín Friðriksson",
+      "memberships": [
+        {
+          "person_id": "person/dbca5dfc-b710-45f1-b163-9261e19b1170",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q23789296",
           "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -424,7 +447,7 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -432,43 +455,18 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/3171b763-9e28-41a3-8f46-8670cd52200e",
-      "name": "Haraldur Einarsson",
-      "sort_name": "Haraldur Einarsson",
+      "gender": "female",
+      "id": "person/d97dbb34-4c62-461a-b681-526f1635e93b",
+      "name": "Helga Vala Helgadóttir",
+      "sort_name": "Helga Vala Helgadóttir",
       "memberships": [
         {
-          "person_id": "person/3171b763-9e28-41a3-8f46-8670cd52200e",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2f9f5b02-f8c7-4b42-b6e6-df138e689b9c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Helgi_Hjorvar_(A)_Island_president_i_Nordiska_radet.jpg",
-      "name": "Helgi Hjörvar",
-      "sort_name": "Helgi Hjörvar",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Helgi_Hjorvar_(A)_Island_president_i_Nordiska_radet.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2f9f5b02-f8c7-4b42-b6e6-df138e689b9c",
+          "person_id": "person/d97dbb34-4c62-461a-b681-526f1635e93b",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q1141127",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "area_id": "Q1526538",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -493,51 +491,7 @@
           "role": "member",
           "on_behalf_of_id": "Q198403",
           "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f7023bcc-53de-421f-9e15-9eec3005e9c5",
-      "name": "Höskuldur Þórhallsson",
-      "sort_name": "Höskuldur Þórhallsson",
-      "memberships": [
-        {
-          "person_id": "person/f7023bcc-53de-421f-9e15-9eec3005e9c5",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/41769e70-1b87-45a2-af3c-d89e7edc3dc0",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Nordiska_radets_nyvalda_vice_president_Illugi_Gunnarsson.jpg",
-      "name": "Illugi Gunnarsson",
-      "sort_name": "Illugi Gunnarsson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Nordiska_radets_nyvalda_vice_president_Illugi_Gunnarsson.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/41769e70-1b87-45a2-af3c-d89e7edc3dc0",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -546,17 +500,17 @@
     },
     {
       "gender": "female",
-      "id": "person/59ea1dcf-f87f-4f66-b4d8-0fef78ba6bc8",
-      "name": "Jóhanna María Sigmundsdóttir",
-      "sort_name": "Jóhanna María Sigmundsdóttir",
+      "id": "person/9017ac59-1f9f-4c1b-b1cf-6bf896dcb31f",
+      "name": "Inga Sæland",
+      "sort_name": "Inga Sæland",
       "memberships": [
         {
-          "person_id": "person/59ea1dcf-f87f-4f66-b4d8-0fef78ba6bc8",
+          "person_id": "person/9017ac59-1f9f-4c1b-b1cf-6bf896dcb31f",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q27273216",
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -575,7 +529,26 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/ee3d5ae8-513f-4869-a0bb-5dee5e1d800f",
+      "name": "Jón Steindór Valdimarsson",
+      "sort_name": "Jón Steindór Valdimarsson",
+      "memberships": [
+        {
+          "person_id": "person/ee3d5ae8-513f-4869-a0bb-5dee5e1d800f",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q23789296",
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -599,9 +572,8 @@
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q198403",
-          "area_id": "Q2037988",
-          "end_date": "2015-07-01",
-          "legislative_period_id": "term/2013"
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -610,17 +582,17 @@
     },
     {
       "gender": "male",
-      "id": "person/20c70933-a861-4700-b616-2b7075635188",
-      "name": "Karl Garðarsson",
-      "sort_name": "Karl Garðarsson",
+      "id": "person/41e6919d-b6ae-4d1f-894f-d68192fc6d1e",
+      "name": "Karl Gauti Hjaltason",
+      "sort_name": "Karl Gauti Hjaltason",
       "memberships": [
         {
-          "person_id": "person/20c70933-a861-4700-b616-2b7075635188",
+          "person_id": "person/41e6919d-b6ae-4d1f-894f-d68192fc6d1e",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q27273216",
+          "area_id": "Q1419190",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -628,6 +600,7 @@
       ]
     },
     {
+      "email": "katrinja@althingi.is",
       "gender": "female",
       "id": "person/cdb8c96e-5b70-44a3-b075-7675db572f85",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Katrín_Jakobsdóttir_(cropped).jpg",
@@ -657,54 +630,23 @@
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/5e321d0b-e2c3-4f50-b579-a721c4a9feec",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Katrin_Juliusdottir,_naringsminister_Island._Nordiska_radets_session_i_Reykjavik_2010.jpg",
-      "name": "Katrín Júlíusdóttir",
-      "sort_name": "Katrín Júlíusdóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Katrin_Juliusdottir,_naringsminister_Island._Nordiska_radets_session_i_Reykjavik_2010.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5e321d0b-e2c3-4f50-b579-a721c4a9feec",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1141127",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "gender": "male",
-      "id": "person/87bbbe99-5350-407c-a130-bbe8563d9f65",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jól_-_Kristján_L._Möller_samgönguráðherra.jpg",
-      "name": "Kristján L. Möller",
-      "sort_name": "Kristján L. Möller",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jól_-_Kristján_L._Möller_samgönguráðherra.jpg"
-        }
-      ],
+      "id": "person/f2072f47-dbd8-498b-92a3-7e861b4bb0a1",
+      "name": "Kolbeinn Óttarsson Proppé",
+      "sort_name": "Kolbeinn Óttarsson Proppé",
       "memberships": [
         {
-          "person_id": "person/87bbbe99-5350-407c-a130-bbe8563d9f65",
+          "person_id": "person/f2072f47-dbd8-498b-92a3-7e861b4bb0a1",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1141127",
-          "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q1130754",
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -729,7 +671,32 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/856d2b9c-12bb-455d-9a50-641bc1dfd30a",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lilja_Dögg_Alfreðsdóttir.jpg",
+      "name": "Lilja Dögg Alfreðsdóttir",
+      "sort_name": "Lilja Dögg Alfreðsdóttir",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lilja_Dögg_Alfreðsdóttir.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/856d2b9c-12bb-455d-9a50-641bc1dfd30a",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q1046777",
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -748,7 +715,26 @@
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/91536ccf-2c4d-4b5a-b02f-8ded3d0c053e",
+      "name": "Logi Már Einarsson",
+      "sort_name": "Logi Már Einarsson",
+      "memberships": [
+        {
+          "person_id": "person/91536ccf-2c4d-4b5a-b02f-8ded3d0c053e",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q1141127",
+          "area_id": "Q2001559",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -773,7 +759,26 @@
           "role": "member",
           "on_behalf_of_id": "Q1046777",
           "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/5970d089-ceab-4759-8a6b-85bfb1985d43",
+      "name": "Njáll Trausti Friðbertsson",
+      "sort_name": "Njáll Trausti Friðbertsson",
+      "memberships": [
+        {
+          "person_id": "person/5970d089-ceab-4759-8a6b-85bfb1985d43",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q218303",
+          "area_id": "Q2001559",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -792,7 +797,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1141127",
           "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -801,56 +806,17 @@
     },
     {
       "gender": "male",
-      "id": "person/578d89e7-3f98-4be7-a9b7-d7d3e2b9e36b",
-      "name": "Páll Jóhann Pálsson",
-      "sort_name": "Páll Jóhann Pálsson",
+      "id": "person/153370ab-5c68-4275-880b-ce3b6448e189",
+      "name": "Páll Magnússon",
+      "sort_name": "Páll Magnússon",
       "memberships": [
         {
-          "person_id": "person/578d89e7-3f98-4be7-a9b7-d7d3e2b9e36b",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/89ac2e83-7496-470f-8233-3211fa7c6992",
-      "name": "Páll Valur Björnsson",
-      "sort_name": "Páll Valur Björnsson",
-      "memberships": [
-        {
-          "person_id": "person/89ac2e83-7496-470f-8233-3211fa7c6992",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q5019160",
-          "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ab60dd20-5295-42a4-a5d9-f9728e0d2d92",
-      "name": "Pétur Blöndal",
-      "sort_name": "Pétur Blöndal",
-      "memberships": [
-        {
-          "person_id": "person/ab60dd20-5295-42a4-a5d9-f9728e0d2d92",
+          "person_id": "person/153370ab-5c68-4275-880b-ce3b6448e189",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q218303",
-          "area_id": "Q2037988",
-          "end_date": "2015-06-26",
-          "legislative_period_id": "term/2013"
+          "area_id": "Q1419190",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -859,55 +825,17 @@
     },
     {
       "gender": "female",
-      "id": "person/56a78c63-a7bb-4c09-a6d5-397704b0f25b",
-      "name": "Ragnheiður Elín Árnadóttir",
-      "sort_name": "Ragnheiður Elín Árnadóttir",
+      "id": "person/a5e421f3-b140-4ba4-9514-a801eddfe293",
+      "name": "Rósa Björk Brynjólfsdóttir",
+      "sort_name": "Rósa Björk Brynjólfsdóttir",
       "memberships": [
         {
-          "person_id": "person/56a78c63-a7bb-4c09-a6d5-397704b0f25b",
+          "person_id": "person/a5e421f3-b140-4ba4-9514-a801eddfe293",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/e175ca87-1c24-4767-9de4-54e1466302a7",
-      "name": "Ragnheiður Ríkharðsdóttir",
-      "sort_name": "Ragnheiður Ríkharðsdóttir",
-      "memberships": [
-        {
-          "person_id": "person/e175ca87-1c24-4767-9de4-54e1466302a7",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
+          "on_behalf_of_id": "Q1130754",
           "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0ae8a1e0-59c0-4db4-bb33-a696d47aef68",
-      "name": "Róbert Marshall",
-      "sort_name": "Róbert Marshall",
-      "memberships": [
-        {
-          "person_id": "person/0ae8a1e0-59c0-4db4-bb33-a696d47aef68",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q5019160",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -942,43 +870,18 @@
           "person_id": "person/c9b84268-ef4f-4e79-932d-dbcbc27927be",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1046777",
+          "on_behalf_of_id": "Q41280154",
           "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/93aec40f-ffa9-4628-a27a-a956b70acf25",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sigridur_Ingibjorg_Ingadottir_(A)_Island._Nordiska_radets_session_2009.jpg",
-      "name": "Sigríður Ingibjörg Ingadóttir",
-      "sort_name": "Sigríður Ingibjörg Ingadóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sigridur_Ingibjorg_Ingadottir_(A)_Island._Nordiska_radets_session_2009.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/93aec40f-ffa9-4628-a27a-a956b70acf25",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1141127",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
       "gender": "female",
       "id": "person/3fc18e95-9adb-454a-8878-d25ae6cacca5",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Informal_meeting_of_justice_and_home_affairs_ministers._Arrivals_(Home_Affairs)_Sigríður_Á._Andersen_(35711122216).jpg",
-      "name": "Sigríður Ásthildur Andersen",
-      "sort_name": "Sigríður Ásthildur Andersen",
+      "name": "Sigríður Á. Andersen",
+      "sort_name": "Sigríður Á. Andersen",
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Informal_meeting_of_justice_and_home_affairs_ministers._Arrivals_(Home_Affairs)_Sigríður_Á._Andersen_(35711122216).jpg"
@@ -991,27 +894,7 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q2037988",
-          "start_date": "2015-06-26",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1d97a1bb-11c8-44ef-a133-8664b4454f27",
-      "name": "Sigrún Magnúsdóttir",
-      "sort_name": "Sigrún Magnúsdóttir",
-      "memberships": [
-        {
-          "person_id": "person/1d97a1bb-11c8-44ef-a133-8664b4454f27",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1048,8 +931,27 @@
           "role": "member",
           "on_behalf_of_id": "Q1046777",
           "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/9715375a-d136-4db1-9ddc-33b232d9c104",
+      "name": "Sigurður Páll Jónsson",
+      "sort_name": "Sigurður Páll Jónsson",
+      "memberships": [
+        {
+          "person_id": "person/9715375a-d136-4db1-9ddc-33b232d9c104",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q41280154",
+          "area_id": "Q2001582",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1070,11 +972,39 @@
           "role": "member",
           "on_behalf_of_id": "Q1046777",
           "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/c137138e-749c-4682-a2bf-3ad355a6148b",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Smari_McCarthy2012.jpg",
+      "name": "Smári McCarthy",
+      "sort_name": "Smári McCarthy",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "smarimc"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Smari_McCarthy2012.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c137138e-749c-4682-a2bf-3ad355a6148b",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q198403",
+          "area_id": "Q1419190",
+          "legislative_period_id": "term/2017"
+        }
       ]
     },
     {
@@ -1095,7 +1025,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1114,8 +1044,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q1526538",
-          "start_date": "2014-08-18",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1140,7 +1069,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1148,125 +1077,17 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/992d9c3f-a4ad-4d16-89fe-d216da44745b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Unnur_Brá_Konráðsdóttir,_2016.jpg",
-      "name": "Unnur Brá Konráðsdóttir",
-      "sort_name": "Unnur Brá Konráðsdóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Unnur_Brá_Konráðsdóttir,_2016.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/992d9c3f-a4ad-4d16-89fe-d216da44745b",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/83527d1a-1f38-487c-bc21-234b47445445",
-      "name": "Valgerður Bjarnadóttir",
-      "sort_name": "Valgerður Bjarnadóttir",
-      "memberships": [
-        {
-          "person_id": "person/83527d1a-1f38-487c-bc21-234b47445445",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1141127",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/008ea8e7-b1d6-47d5-8fcb-25ff721c5c5a",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Valgerdur_Gunnarsdottir.jpg",
-      "name": "Valgerður Gunnarsdóttir",
-      "sort_name": "Valgerður Gunnarsdóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Valgerdur_Gunnarsdottir.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/008ea8e7-b1d6-47d5-8fcb-25ff721c5c5a",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1118d793-a74d-46ad-836f-a85a7c6f7298",
-      "name": "Vigdís Hauksdóttir",
-      "sort_name": "Vigdís Hauksdóttir",
-      "memberships": [
-        {
-          "person_id": "person/1118d793-a74d-46ad-836f-a85a7c6f7298",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/01f9f547-3556-45e6-b822-633fb1c60770",
-      "name": "Vilhjálmur Bjarnason",
-      "sort_name": "Vilhjálmur Bjarnason",
-      "memberships": [
-        {
-          "person_id": "person/01f9f547-3556-45e6-b822-633fb1c60770",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q218303",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/19c6a7cd-3a88-49c1-b9a9-5730f56d1454",
+      "id": "person/c5b1c71d-737c-4939-b3e1-d17e2848f94d",
       "name": "Vilhjálmur Árnason",
       "sort_name": "Vilhjálmur Árnason",
       "memberships": [
         {
-          "person_id": "person/19c6a7cd-3a88-49c1-b9a9-5730f56d1454",
+          "person_id": "person/c5b1c71d-737c-4939-b3e1-d17e2848f94d",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1291,7 +1112,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1046777",
           "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1300,58 +1121,36 @@
     },
     {
       "gender": "male",
-      "id": "person/04758c66-6026-4dff-906f-aa111299015a",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Arni-pall-arnason-4.jpg",
-      "name": "Árni Páll Árnason",
-      "sort_name": "Árni Páll Árnason",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ArniPallArnason"
-        }
-      ],
-      "links": [
-        {
-          "url": "arnipall.arnason",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Arni-pall-arnason-4.jpg"
-        }
-      ],
+      "id": "person/6ec98b9b-cf43-4647-8c45-e00dce5ee2cb",
+      "name": "Ágúst Ágústsson",
+      "sort_name": "Ágúst Ágústsson",
       "memberships": [
         {
-          "person_id": "person/04758c66-6026-4dff-906f-aa111299015a",
+          "person_id": "person/6ec98b9b-cf43-4647-8c45-e00dce5ee2cb",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q1141127",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
-      "gender": "male",
-      "id": "person/988a6d19-1479-4fff-a1b1-e7df16ad1a9e",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Árni_Þór_Sigurðsson.jpg",
-      "name": "Árni Þór Sigurðsson",
-      "sort_name": "Árni Þór Sigurðsson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Árni_Þór_Sigurðsson.jpg"
-        }
-      ],
+      "gender": "female",
+      "id": "person/9f2b44f3-7354-4552-abeb-c14be969221d",
+      "name": "Áslaug Arna Sigurbjörnsdóttir",
+      "sort_name": "Áslaug Arna Sigurbjörnsdóttir",
       "memberships": [
         {
-          "person_id": "person/988a6d19-1479-4fff-a1b1-e7df16ad1a9e",
+          "person_id": "person/9f2b44f3-7354-4552-abeb-c14be969221d",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1130754",
+          "on_behalf_of_id": "Q218303",
           "area_id": "Q1526538",
-          "end_date": "2014-08-18",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1376,7 +1175,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1046777",
           "area_id": "Q2001582",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1395,68 +1194,7 @@
           "role": "member",
           "on_behalf_of_id": "Q218303",
           "area_id": "Q1419190",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/2bb19f43-88a6-4159-898b-b0c30f1491ce",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Asta_Gudrun_Helgadottir,_2018.jpg",
-      "name": "Ásta Helgadóttir",
-      "sort_name": "Ásta Helgadóttir",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "asta_fish"
-        }
-      ],
-      "links": [
-        {
-          "url": "asta.helgadottir",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Asta_Gudrun_Helgadottir,_2018.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2bb19f43-88a6-4159-898b-b0c30f1491ce",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q198403",
-          "area_id": "Q2037988",
-          "start_date": "2015-07-01",
-          "legislative_period_id": "term/2013"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/e57914ff-8bac-4cd5-ac40-de402147c287",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Olina_Thorvardardottir,_Island,_Nordiska_radets_session_i_Stockholm_2009.jpg",
-      "name": "Ólína Þorvarðardóttir",
-      "sort_name": "Ólína Þorvarðardóttir",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Olina_Thorvardardottir,_Island,_Nordiska_radets_session_i_Stockholm_2009.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e57914ff-8bac-4cd5-ac40-de402147c287",
-          "organization_id": "chamber/alþingi",
-          "role": "member",
-          "on_behalf_of_id": "Q1141127",
-          "area_id": "Q2001582",
-          "start_date": "2015-10-26",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1465,23 +1203,17 @@
     },
     {
       "gender": "male",
-      "id": "person/3f5debb0-9397-446f-805f-307ed62a5d6d",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Óttarr_Proppé,_ESC2014_Meet_&_Greet_(crop).jpg",
-      "name": "Óttarr Proppé",
-      "sort_name": "Óttarr Proppé",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Óttarr_Proppé,_ESC2014_Meet_&_Greet_(crop).jpg"
-        }
-      ],
+      "id": "person/204fb458-dbc3-45de-a41d-3560ce6c72be",
+      "name": "Ólafur Ísleifsson",
+      "sort_name": "Ólafur Ísleifsson",
       "memberships": [
         {
-          "person_id": "person/3f5debb0-9397-446f-805f-307ed62a5d6d",
+          "person_id": "person/204fb458-dbc3-45de-a41d-3560ce6c72be",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q5019160",
-          "area_id": "Q2037988",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q27273216",
+          "area_id": "Q1526538",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1490,23 +1222,17 @@
     },
     {
       "gender": "male",
-      "id": "person/d1b30e1b-9ae1-4804-be91-aede0eaf9dd7",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ögmundur_Jónasson_-_November_2016_(cropped).jpg",
-      "name": "Ögmundur Jónasson",
-      "sort_name": "Ögmundur Jónasson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ögmundur_Jónasson_-_November_2016_(cropped).jpg"
-        }
-      ],
+      "id": "person/250e40f6-921f-4307-8139-a0dfad22912f",
+      "name": "Ólafur Þór Gunnarsson",
+      "sort_name": "Ólafur Þór Gunnarsson",
       "memberships": [
         {
-          "person_id": "person/d1b30e1b-9ae1-4804-be91-aede0eaf9dd7",
+          "person_id": "person/250e40f6-921f-4307-8139-a0dfad22912f",
           "organization_id": "chamber/alþingi",
           "role": "member",
           "on_behalf_of_id": "Q1130754",
           "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1515,23 +1241,35 @@
     },
     {
       "gender": "male",
-      "id": "person/1ec74dcb-a53d-4d5a-95c6-03c2cf424594",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ossur_Skarphedinsson,_utrikesminister_Island._Nordiska_radets_session_2009_(1).jpg",
-      "name": "Össur Skarphéðinsson",
-      "sort_name": "Össur Skarphéðinsson",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ossur_Skarphedinsson,_utrikesminister_Island._Nordiska_radets_session_2009_(1).jpg"
-        }
-      ],
+      "id": "person/e5f92eb2-0e47-4125-9042-c3e69f330906",
+      "name": "Óli Björn Kárason",
+      "sort_name": "Óli Björn Kárason",
       "memberships": [
         {
-          "person_id": "person/1ec74dcb-a53d-4d5a-95c6-03c2cf424594",
+          "person_id": "person/e5f92eb2-0e47-4125-9042-c3e69f330906",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1141127",
-          "area_id": "Q1526538",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q218303",
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/41f62055-33e5-4cc8-82df-69d427652661",
+      "name": "Þorgerður Katrín Gunnarsdóttir",
+      "sort_name": "Þorgerður Katrín Gunnarsdóttir",
+      "memberships": [
+        {
+          "person_id": "person/41f62055-33e5-4cc8-82df-69d427652661",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q23789296",
+          "area_id": "Q770576",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1548,9 +1286,66 @@
           "person_id": "person/6eadb08a-f5d4-4991-9a42-88bf768094c2",
           "organization_id": "chamber/alþingi",
           "role": "member",
-          "on_behalf_of_id": "Q1046777",
-          "area_id": "Q770576",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "Q41280154",
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/efa73db2-a248-4279-a60b-5630a6aacc4b",
+      "name": "Þorsteinn Víglundsson",
+      "sort_name": "Þorsteinn Víglundsson",
+      "memberships": [
+        {
+          "person_id": "person/efa73db2-a248-4279-a60b-5630a6aacc4b",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q23789296",
+          "area_id": "Q1526538",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/95470c59-9921-448f-95f8-a02d9aa5f9cb",
+      "name": "Þórdís Kolbrún R. Gylfadóttir",
+      "sort_name": "Þórdís Kolbrún R. Gylfadóttir",
+      "memberships": [
+        {
+          "person_id": "person/95470c59-9921-448f-95f8-a02d9aa5f9cb",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q218303",
+          "area_id": "Q2001582",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/23422fb6-d358-4c9f-9cfc-e3b99f3f6db7",
+      "name": "Þórhildur Sunna Ævarsdóttir",
+      "sort_name": "Þórhildur Sunna Ævarsdóttir",
+      "memberships": [
+        {
+          "person_id": "person/23422fb6-d358-4c9f-9cfc-e3b99f3f6db7",
+          "organization_id": "chamber/alþingi",
+          "role": "member",
+          "on_behalf_of_id": "Q198403",
+          "area_id": "Q2037988",
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [
@@ -1575,7 +1370,7 @@
           "role": "member",
           "on_behalf_of_id": "Q1046777",
           "area_id": "Q2001559",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2017"
         }
       ],
       "contact_details": [

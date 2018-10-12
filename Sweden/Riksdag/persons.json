@@ -1,7 +1,7 @@
 {
-  "total": 350,
+  "total": 352,
   "page": 1,
-  "per_page": 350,
+  "per_page": 352,
   "has_more": false,
   "result": [
     {
@@ -135,6 +135,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "stockholms_län",
+          "end_date": "2018-10-14",
+          "legislative_period_id": "term/2018"
+        },
+        {
+          "person_id": "person/a4aac037-184e-4f20-8f77-099ab80521f6",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "stockholms_län",
+          "start_date": "2019-08-01",
           "end_date": "2022-09-26",
           "legislative_period_id": "term/2018"
         }
@@ -5777,6 +5787,36 @@
     },
     {
       "gender": "female",
+      "id": "person/5f996c3a-9c3f-416e-8497-f314b0c7a8a8",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_max.jpg",
+      "name": "Lena Emilsson",
+      "sort_name": "Lena",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EmilssonLena"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5f996c3a-9c3f-416e-8497-f314b0c7a8a8",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "skåne_läns_västra",
+          "start_date": "2018-11-25",
+          "end_date": "2019-06-24",
+          "legislative_period_id": "term/2018"
+        }
+      ]
+    },
+    {
+      "gender": "female",
       "id": "person/bf55ea82-48f1-47d2-a86e-82e5319b3b8b",
       "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3303f6e9-7957-4a86-9457-090ef22a54ef_max.jpg",
       "name": "Lena Rådström Baastad",
@@ -6561,6 +6601,33 @@
           "on_behalf_of_id": "S",
           "area_id": "skåne_läns_södra",
           "end_date": "2022-09-26",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/61660e48-c6d3-4e64-a2b0-73b979325550",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db507e14-4240-4d0a-883c-2cf07ef543b8_max.jpg",
+      "name": "Marie Axelsson",
+      "sort_name": "Marie",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db507e14-4240-4d0a-883c-2cf07ef543b8_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/61660e48-c6d3-4e64-a2b0-73b979325550",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "stockholms_län",
+          "start_date": "2018-10-15",
+          "end_date": "2019-07-31",
           "legislative_period_id": "term/2018"
         }
       ],
@@ -9479,6 +9546,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "skåne_läns_västra",
+          "end_date": "2018-11-24",
+          "legislative_period_id": "term/2018"
+        },
+        {
+          "person_id": "person/54275194-ce44-4490-bc38-fdfce43dec4d",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "skåne_läns_västra",
+          "start_date": "2019-06-25",
           "end_date": "2022-09-26",
           "legislative_period_id": "term/2018"
         }
