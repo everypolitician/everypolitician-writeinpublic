@@ -1,7 +1,7 @@
 {
-  "total": 150,
+  "total": 152,
   "page": 1,
-  "per_page": 150,
+  "per_page": 152,
   "has_more": false,
   "result": [
     {
@@ -344,6 +344,12 @@
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265967/upload_ref_binary/265967.jpg",
       "name": "Andrew Wallace",
       "sort_name": "Wallace, Andrew",
+      "links": [
+        {
+          "url": "wallace4fisher",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265967/upload_ref_binary/265967.jpg"
@@ -593,6 +599,7 @@
       ]
     },
     {
+      "email": "barnaby.joyce.mp@aph.gov.au",
       "gender": "male",
       "id": "person/3ff42d8e-38ab-4ac0-bb07-f7205470544a",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5D/upload_ref_binary/E5D.JPG",
@@ -623,6 +630,15 @@
           "on_behalf_of_id": "national_party",
           "area_id": "new_england",
           "end_date": "2017-10-27",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/3ff42d8e-38ab-4ac0-bb07-f7205470544a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "national_party",
+          "area_id": "new_england",
+          "start_date": "2017-12-02",
           "legislative_period_id": "term/45"
         }
       ]
@@ -752,7 +768,7 @@
           "person_id": "person/863a3eed-4c04-4ba1-9c0c-7237d74c8758",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "katter's_australian_party",
           "area_id": "kennedy",
           "legislative_period_id": "term/45"
         }
@@ -1103,7 +1119,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "Clare_ONeil_MP"
+          "value": "ClareONeilMP"
         }
       ],
       "links": [
@@ -1332,7 +1348,6 @@
       ]
     },
     {
-      "email": "david.feeney@australianlabor.com.au",
       "gender": "male",
       "id": "person/398b960c-92c0-4183-92c1-74d35ea4ec38",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0O/upload_ref_binary/I0O.JPG",
@@ -1356,6 +1371,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "batman",
+          "end_date": "2018-02-01",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1494,6 +1510,7 @@
       ]
     },
     {
+      "email": "Emma.McBride.MP@aph.gov.au",
       "gender": "female",
       "id": "person/f7bc11a0-6375-4b9d-9b67-b10baebd132c",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/248353/upload_ref_binary/248353.jpg",
@@ -1503,6 +1520,12 @@
         {
           "type": "twitter",
           "value": "Emma4Dobell"
+        }
+      ],
+      "links": [
+        {
+          "url": "mcbrideemma",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -1557,6 +1580,42 @@
       ]
     },
     {
+      "email": "Ged.Kearney.MP@aph.gov.au",
+      "gender": "female",
+      "id": "person/2e298475-e720-40b2-b1e5-bbbd81caa9c7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ged_Kearney_29_Oct_2013.jpg",
+      "name": "Ged Kearney",
+      "sort_name": "Kearney, Ged",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gedkearney"
+        }
+      ],
+      "links": [
+        {
+          "url": "GedKearneyLabor",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ged_Kearney_29_Oct_2013.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2e298475-e720-40b2-b1e5-bbbd81caa9c7",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "batman",
+          "start_date": "2018-03-17",
+          "legislative_period_id": "term/45"
+        }
+      ]
+    },
+    {
       "email": "george.christensen.mp@aph.gov.au",
       "gender": "male",
       "id": "person/45cb835e-be93-4392-8bfa-48181fdc53e5",
@@ -1585,7 +1644,7 @@
           "person_id": "person/45cb835e-be93-4392-8bfa-48181fdc53e5",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "liberal_party",
+          "on_behalf_of_id": "national_party",
           "area_id": "dawson",
           "legislative_period_id": "term/45"
         }
@@ -1968,6 +2027,7 @@
       ]
     },
     {
+      "email": "john.alexander.mp@aph.gov.au",
       "gender": "male",
       "id": "person/010ba615-63c1-466b-a425-5d127e12b8c3",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/M3M/upload_ref_binary/M3M.jpg",
@@ -1999,6 +2059,15 @@
           "area_id": "bennelong",
           "end_date": "2017-11-11",
           "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/010ba615-63c1-466b-a425-5d127e12b8c3",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "bennelong",
+          "start_date": "2017-12-16",
+          "legislative_period_id": "term/45"
         }
       ]
     },
@@ -2011,7 +2080,13 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "JohnJMcVeigh"
+          "value": "johnjmcveigh"
+        }
+      ],
+      "links": [
+        {
+          "url": "johnmcveighmp",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -2095,6 +2170,16 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "fremantle",
+          "end_date": "2018-05-10",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/80461363-d23a-4226-9beb-f4afc3cab492",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "fremantle",
+          "start_date": "2018-07-28",
           "legislative_period_id": "term/45"
         }
       ]
@@ -2128,6 +2213,7 @@
       ]
     },
     {
+      "email": "Julian.Hill.MP@aph.gov.au",
       "gender": "male",
       "id": "person/7eec2068-d327-4c61-8d45-9f6b4d457f3d",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/86256/upload_ref_binary/86256.jpg",
@@ -2137,6 +2223,12 @@
         {
           "type": "twitter",
           "value": "JulianHillMP"
+        }
+      ],
+      "links": [
+        {
+          "url": "JulianHillMP",
+          "note": "facebook"
         }
       ],
       "images": [
@@ -2341,6 +2433,16 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "braddon",
+          "end_date": "2018-05-10",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/a99791cf-2c4e-4678-b08c-9faff12fa412",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "braddon",
+          "start_date": "2018-07-28",
           "legislative_period_id": "term/45"
         }
       ]
@@ -2444,7 +2546,7 @@
           "person_id": "person/3513ed1b-84a6-46fe-b9e4-b3cc6bffb088",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "liberal_party",
+          "on_behalf_of_id": "national_party",
           "area_id": "hinkler",
           "legislative_period_id": "term/45"
         }
@@ -2508,7 +2610,7 @@
           "person_id": "person/b1ed9687-8d72-4106-80d5-1e5f7ba4b241",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "liberal_party",
+          "on_behalf_of_id": "national_party",
           "area_id": "flynn",
           "legislative_period_id": "term/45"
         }
@@ -3362,7 +3464,7 @@
           "person_id": "person/525bfac6-cfa3-474d-8ff2-dfa622a66c1a",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "liberal_party",
+          "on_behalf_of_id": "national_party",
           "area_id": "capricornia",
           "legislative_period_id": "term/45"
         }
@@ -3440,7 +3542,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "MikeKellyMP"
+          "value": "MikeKellyofEM"
         }
       ],
       "links": [
@@ -3634,6 +3736,26 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/a0f46186-5573-4e6f-ab03-1f6ecbaf1e70",
+      "name": "Patrick Gorman",
+      "sort_name": "Gorman, Patrick",
+      "memberships": [
+        {
+          "person_id": "person/a0f46186-5573-4e6f-ab03-1f6ecbaf1e70",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "perth",
+          "start_date": "2018-07-28",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Paul.Fletcher.MP@aph.gov.au",
       "gender": "male",
       "id": "person/41b4c414-4206-4343-a05c-a93685da1fab",
@@ -3768,6 +3890,26 @@
           "role": "member",
           "on_behalf_of_id": "nick_xenophon_team",
           "area_id": "mayo",
+          "end_date": "2018-04-10",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/693fc950-feb1-49e1-9cee-c680be99bcec",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "centre_alliance",
+          "area_id": "mayo",
+          "start_date": "2018-04-10",
+          "end_date": "2018-05-11",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/693fc950-feb1-49e1-9cee-c680be99bcec",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "centre_alliance",
+          "area_id": "mayo",
+          "start_date": "2018-07-28",
           "legislative_period_id": "term/45"
         }
       ]
@@ -4402,6 +4544,16 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "longman",
+          "end_date": "2018-05-10",
+          "legislative_period_id": "term/45"
+        },
+        {
+          "person_id": "person/fc4d9186-5bf8-4696-ba91-7ec6c07a2e4f",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "longman",
+          "start_date": "2018-07-28",
           "legislative_period_id": "term/45"
         }
       ]
@@ -4526,7 +4678,7 @@
           "person_id": "person/c4552072-a5c5-4e22-a13c-2ffe4c9bb6a9",
           "organization_id": "chamber/house_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "liberal_national_party",
+          "on_behalf_of_id": "liberal_party",
           "area_id": "fairfax",
           "legislative_period_id": "term/45"
         }
@@ -4568,7 +4720,6 @@
       ]
     },
     {
-      "email": "Tim.Hammond.MP@aph.gov.au",
       "gender": "male",
       "id": "person/3dc41d23-e055-4bd3-b7c9-8e7a0f21fb47",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/80109/upload_ref_binary/80109.jpg",
@@ -4598,6 +4749,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "perth",
+          "end_date": "2018-05-10",
           "legislative_period_id": "term/45"
         }
       ]
@@ -4647,12 +4799,12 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "timwilsoncomau"
+          "value": "timwilsonmp"
         }
       ],
       "links": [
         {
-          "url": "TimWilsonForGoldstein",
+          "url": "TimWilsonMP",
           "note": "facebook"
         }
       ],
