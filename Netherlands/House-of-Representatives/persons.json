@@ -751,6 +751,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/e0028750-cf4c-4356-a909-bd2d9ad25ef7",
       "name": "Christine Teunissen",
       "sort_name": "Christine Teunissen",
@@ -1799,7 +1800,7 @@
     {
       "gender": "female",
       "id": "person/778ce1e9-4854-4704-a7b6-f55e266ed5b2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ingrid_van_Engelshoven_D66_Congres_Breda.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ingrid_van_Engelshoven_(cropped).jpg",
       "name": "Ingrid van Engelshoven",
       "sort_name": "Ingrid van Engelshoven",
       "contact_details": [
@@ -1810,7 +1811,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ingrid_van_Engelshoven_D66_Congres_Breda.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ingrid_van_Engelshoven_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -3620,7 +3621,7 @@
     {
       "gender": "male",
       "id": "person/1c3e9f3c-3d5a-443d-94c5-b984f9d8ba99",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RaymondKnops2012.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Uitreiking_Stuiveling_Open_Data_Award_(SODA)_(45117150741)_(cropped).jpg",
       "name": "Raymond Knops",
       "sort_name": "Raymond Knops",
       "contact_details": [
@@ -3631,7 +3632,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RaymondKnops2012.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Uitreiking_Stuiveling_Open_Data_Award_(SODA)_(45117150741)_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -3978,9 +3979,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/192a0d1d-497e-4f8b-8e48-385c4c9374db",
       "name": "Rutger Schonis",
       "sort_name": "Rutger Schonis",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "rutgerschonis"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/192a0d1d-497e-4f8b-8e48-385c4c9374db",
@@ -3990,9 +3998,6 @@
           "start_date": "2018-10-10",
           "legislative_period_id": "term/2017"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {

@@ -1,177 +1,147 @@
 {
-  "total": 82,
+  "total": 80,
   "page": 1,
-  "per_page": 82,
+  "per_page": 80,
   "has_more": false,
   "result": [
     {
-      "gender": "male",
-      "id": "person/473539d7-7901-408d-bfc5-6f00cbdfcea0",
-      "image": "http://www.diputados.gov.py/fotos/cv/P259.jpg",
-      "name": "Agustín Amado Florentín Cabral",
-      "sort_name": "Florentín Cabral, Agustín Amado",
+      "id": "person/b5d32dbf-063b-45f9-8102-c4689b27003d",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/619e7f1df46e18818c0ab0e5b62e2dd7.jpg",
+      "name": "ANGEL MARIANO PANIAGUA PERALTA",
+      "sort_name": "ANGEL MARIANO PANIAGUA PERALTA",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P259.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/619e7f1df46e18818c0ab0e5b62e2dd7.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/473539d7-7901-408d-bfc5-6f00cbdfcea0",
+          "person_id": "person/b5d32dbf-063b-45f9-8102-c4689b27003d",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "cordillera",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/106f2e61-8dfc-4d76-bdc9-271078209bd9",
-      "image": "http://www.diputados.gov.py/fotos/cv/P222.jpg",
-      "name": "Aldo Efrain Vera Arnold",
-      "sort_name": "Vera Arnold, Aldo Efrain",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P222.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/106f2e61-8dfc-4d76-bdc9-271078209bd9",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "AP",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0b051d0a-7c85-453d-a0b0-110bc11f1231",
-      "image": "http://www.diputados.gov.py/fotos/cv/P209.jpg",
-      "name": "Alsimio Casco Ayala",
-      "sort_name": "Casco Ayala, Alsimio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P209.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0b051d0a-7c85-453d-a0b0-110bc11f1231",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "concepción",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/14ef5064-7e91-43da-99f8-b013fe628d5d",
-      "image": "http://www.diputados.gov.py/fotos/cv/P205.jpg",
-      "name": "Andrés Retamozo Ortíz",
-      "sort_name": "Retamozo Ortíz, Andrés",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P205.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/14ef5064-7e91-43da-99f8-b013fe628d5d",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a57fd95b-8a9d-4553-aae8-8013458cbefa",
-      "image": "http://www.diputados.gov.py/fotos/cv/P279.jpg",
-      "name": "Antonio Gustavo Cardozo",
-      "sort_name": "Cardozo, Antonio Gustavo",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P279.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a57fd95b-8a9d-4553-aae8-8013458cbefa",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/4570d0d8-7431-4bbb-bd19-3c163658ca74",
-      "image": "http://www.diputados.gov.py/fotos/cv/P281.jpg",
-      "name": "Asa Javier González Ortíz",
-      "sort_name": "González Ortíz, Asa Javier",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P281.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4570d0d8-7431-4bbb-bd19-3c163658ca74",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "misiones",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/3ac46baa-f353-41ea-a74e-dd90ac6be73a",
-      "image": "http://www.diputados.gov.py/fotos/cv/P207.jpg",
-      "name": "Atilio Penayo Ortega",
-      "sort_name": "Penayo Ortega, Atilio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P207.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3ac46baa-f353-41ea-a74e-dd90ac6be73a",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b8003b3c-9d72-4683-99d3-3cd7d20874f2",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/5939379294e6179016d7f1b11ac88811.jpg",
+      "name": "ARIEL VILLAGRA SOSA",
+      "sort_name": "ARIEL VILLAGRA SOSA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/5939379294e6179016d7f1b11ac88811.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b8003b3c-9d72-4683-99d3-3cd7d20874f2",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ganar",
+          "area_id": "san_pedro",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/329f9b72-7602-49ef-a6b9-255415b93770",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/0af22dfe4a1b8f07afece02b8fa40b6f.jpg",
+      "name": "ARNALDO ANDRÉS ROJAS FERIS",
+      "sort_name": "ARNALDO ANDRÉS ROJAS FERIS",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/0af22dfe4a1b8f07afece02b8fa40b6f.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/329f9b72-7602-49ef-a6b9-255415b93770",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "concepción",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5230c984-b660-43f8-b858-d0c014b4e7bd",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/f145ad933de14153189fe6fe6fd78ee8.jpg",
+      "name": "ARNALDO SAMANIEGO GONZÁLEZ",
+      "sort_name": "ARNALDO SAMANIEGO GONZÁLEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/f145ad933de14153189fe6fe6fd78ee8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5230c984-b660-43f8-b858-d0c014b4e7bd",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0ab83f44-0d2a-4934-adc9-ad5b5d8f2e82",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/b62ab8a543f07a31736622ed05337569.jpg",
+      "name": "AVELINO DÁVALOS ESTIGARRIBIA",
+      "sort_name": "AVELINO DÁVALOS ESTIGARRIBIA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/b62ab8a543f07a31736622ed05337569.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0ab83f44-0d2a-4934-adc9-ad5b5d8f2e82",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "caazapá",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6ed6c687-e8c9-4193-8d2c-3655659125d8",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/5867d6e1f34e4ff5a865c9c80e0d5b99.jpg",
+      "name": "BASILIO GUSTAVO NÚÑEZ GIMÉNEZ",
+      "sort_name": "BASILIO GUSTAVO NÚÑEZ GIMÉNEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/5867d6e1f34e4ff5a865c9c80e0d5b99.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6ed6c687-e8c9-4193-8d2c-3655659125d8",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "pte._hayes",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -194,34 +164,9 @@
           "person_id": "person/79ba003f-3528-4054-9fb5-c6ce0eff781c",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/c46bf1f8-2712-4c1b-87a0-8f850b96f087",
-      "image": "http://www.diputados.gov.py/fotos/cv/P212.jpg",
-      "name": "Bernardo Villalba Cardozo",
-      "sort_name": "Villalba Cardozo, Bernardo",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P212.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c46bf1f8-2712-4c1b-87a0-8f850b96f087",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "concepción",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -244,9 +189,9 @@
           "person_id": "person/c542e77f-0378-49c5-ae0a-a7b4407fa005",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -269,9 +214,129 @@
           "person_id": "person/614f769c-c058-48e4-9f2a-340b8129e16e",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "ganar",
           "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/93982100-528a-46e6-945b-32a9d6a30a91",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/52dfa5c10600164364c894271b484723.jpg",
+      "name": "CARLOS ANTONIO REJALA HELMAN",
+      "sort_name": "CARLOS ANTONIO REJALA HELMAN",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/52dfa5c10600164364c894271b484723.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/93982100-528a-46e6-945b-32a9d6a30a91",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pph",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/82e77f9f-9f61-4c7d-802f-24677c68c254",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/12adde5a949c695383dba6dbf50109ae.jpg",
+      "name": "CARLOS ENRIQUE SILVA RIVAS",
+      "sort_name": "CARLOS ENRIQUE SILVA RIVAS",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/12adde5a949c695383dba6dbf50109ae.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/82e77f9f-9f61-4c7d-802f-24677c68c254",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "Ñeembucú",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a1603be5-4b9c-4166-8101-d45a83607657",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/a297574d3ac7741b6ad4d280910fb390.jpg",
+      "name": "CARLOS MARÍA LÓPEZ LÓPEZ",
+      "sort_name": "CARLOS MARÍA LÓPEZ LÓPEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/a297574d3ac7741b6ad4d280910fb390.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a1603be5-4b9c-4166-8101-d45a83607657",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "cordillera",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/52b005da-923b-4b45-823f-46cad6ca2a25",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/3326c9c4fb13455cc6d4500031c69b2b.jpg",
+      "name": "CARLOS SEBASTIÁN RAMÓN GARCÍA ALTIERI",
+      "sort_name": "CARLOS SEBASTIÁN RAMÓN GARCÍA ALTIERI",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/3326c9c4fb13455cc6d4500031c69b2b.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/52b005da-923b-4b45-823f-46cad6ca2a25",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ppq",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3f5f3395-80b4-4436-b91f-39582ebdb663",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/b1998e7a52b26b15226d13f7cb53bf33.jpg",
+      "name": "CELESTE JOSEFINA AMARILLA VDA. DE BOCCIA",
+      "sort_name": "CELESTE JOSEFINA AMARILLA VDA. DE BOCCIA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/b1998e7a52b26b15226d13f7cb53bf33.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3f5f3395-80b4-4436-b91f-39582ebdb663",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -294,9 +359,9 @@
           "person_id": "person/3c41e48f-6cbd-4473-b3b7-db5ea89aceb9",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "ganar",
           "area_id": "caaguazú",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -319,9 +384,9 @@
           "person_id": "person/8917a32b-9ff6-4fae-a8a5-5aedf5e985c8",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -329,174 +394,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/aff0be8c-dfe3-4709-ad38-e23228a25c1e",
-      "image": "http://www.diputados.gov.py/fotos/cv/P206.jpg",
-      "name": "Carlos Manuel Maggi Rolón",
-      "sort_name": "Maggi Rolón, Carlos Manuel",
+      "id": "person/e196ba94-7580-4c00-90d8-42d5de5dcc5f",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/862c6c7e2b3312ea04f6b2761ef6dd46.jpg",
+      "name": "COLYM GREGORIO SOROKA BENÍTEZ",
+      "sort_name": "COLYM GREGORIO SOROKA BENÍTEZ",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P206.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/862c6c7e2b3312ea04f6b2761ef6dd46.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/aff0be8c-dfe3-4709-ad38-e23228a25c1e",
+          "person_id": "person/e196ba94-7580-4c00-90d8-42d5de5dcc5f",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "san_pedro",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e892a77b-70b1-4af4-8810-f23a53ca9df6",
-      "image": "http://www.diputados.gov.py/fotos/cv/P220.jpg",
-      "name": "Celso Troche Alvarez",
-      "sort_name": "Troche Alvarez, Celso",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P220.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e892a77b-70b1-4af4-8810-f23a53ca9df6",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "caazapá",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/74f5a0f1-2331-4bd2-bc75-a335474a1729",
-      "image": "http://www.diputados.gov.py/fotos/cv/P240.jpg",
-      "name": "Clemente Ramón Barrios Monges",
-      "sort_name": "Barrios Monges, Clemente Ramón",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P240.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/74f5a0f1-2331-4bd2-bc75-a335474a1729",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "paraguarí",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0300285b-ff59-4e75-bf4d-14b5f0572cd8",
-      "image": "http://www.diputados.gov.py/fotos/cv/P229.jpg",
-      "name": "Concepción Quintana López",
-      "sort_name": "Quintana López, Concepción",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P229.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0300285b-ff59-4e75-bf4d-14b5f0572cd8",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/30a047c4-6ff9-44bb-89b5-fc573157fc9b",
-      "image": "http://www.diputados.gov.py/fotos/cv/P255.jpg",
-      "name": "Cornelius Sawatzky Sawatzky",
-      "sort_name": "Sawatzky Sawatzky, Cornelius",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P255.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/30a047c4-6ff9-44bb-89b5-fc573157fc9b",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "boquerón",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/f1125464-85a7-44f1-aafa-df554667b117",
-      "image": "http://www.diputados.gov.py/fotos/cv/P202.jpg",
-      "name": "Cynthia Elizabeth Tarragó Díaz",
-      "sort_name": "Tarragó Díaz, Cynthia Elizabeth",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P202.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f1125464-85a7-44f1-aafa-df554667b117",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/210ce74e-8b18-4ca8-9b44-2d9a20f8b05b",
-      "image": "http://www.diputados.gov.py/fotos/cv/P258.jpg",
-      "name": "César Ariel Oviedo Verdún",
-      "sort_name": "Oviedo Verdún, César Ariel",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P258.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/210ce74e-8b18-4ca8-9b44-2d9a20f8b05b",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "anr",
+          "area_id": "itapúa",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -519,9 +433,9 @@
           "person_id": "person/a857574d-209f-4a61-ade5-0b5f2fc4c9b1",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -529,49 +443,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/c5006871-95b5-44a9-acba-bd16ca463b2a",
-      "image": "http://www.diputados.gov.py/fotos/cv/P203.jpg",
-      "name": "Dany Edgar Xavier Durand Espínola",
-      "sort_name": "Durand Espínola, Dany Edgar Xavier",
+      "id": "person/dde1dcab-6b28-4667-bdb4-55c2a22eb87b",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/2e2e6427e69ee05d1d281c15075e5c7d.jpg",
+      "name": "DERLIS HERNÁN MAIDANA ZARZA",
+      "sort_name": "DERLIS HERNÁN MAIDANA ZARZA",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P203.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/2e2e6427e69ee05d1d281c15075e5c7d.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c5006871-95b5-44a9-acba-bd16ca463b2a",
+          "person_id": "person/dde1dcab-6b28-4667-bdb4-55c2a22eb87b",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1ad0a353-fc72-47f1-a032-a31b6a73c470",
-      "image": "http://www.diputados.gov.py/fotos/cv/P264.jpg",
-      "name": "Dionisio Oswaldo Amarilla Guirland",
-      "sort_name": "Amarilla Guirland, Dionisio Oswaldo",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P264.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1ad0a353-fc72-47f1-a032-a31b6a73c470",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "anr",
+          "area_id": "misiones",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -600,9 +488,33 @@
           "person_id": "person/244372b2-8287-4e66-8abb-733ee623cf1b",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1e8c42cb-8932-40d1-b015-dad8610028eb",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/b72a43fb829ca223cf5aee68c97e86dd.jpg",
+      "name": "EDGAR ESPÍNOLA GUERRERO",
+      "sort_name": "EDGAR ESPÍNOLA GUERRERO",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/b72a43fb829ca223cf5aee68c97e86dd.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1e8c42cb-8932-40d1-b015-dad8610028eb",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "caaguazÚ",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -625,9 +537,57 @@
           "person_id": "person/9c1a358f-5949-43c6-82b7-6b2d9a68275e",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "itapúa",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c4a7efd9-749e-408e-9b42-718d469c5744",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/998a8e1c1462ae6fadc839834f11b254.jpg",
+      "name": "EDWIN REIMER BUHLER",
+      "sort_name": "EDWIN REIMER BUHLER",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/998a8e1c1462ae6fadc839834f11b254.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c4a7efd9-749e-408e-9b42-718d469c5744",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "boquerón",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4532d062-3cb7-4dca-bf7c-4b5b75cfff94",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/7a81ec0185c867caaaf27ef9c579fc2c.jpg",
+      "name": "EMILIO PAVÓN DOLDÁN",
+      "sort_name": "EMILIO PAVÓN DOLDÁN",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/7a81ec0185c867caaaf27ef9c579fc2c.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4532d062-3cb7-4dca-bf7c-4b5b75cfff94",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "concepción",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -650,9 +610,57 @@
           "person_id": "person/9be75c54-3b45-42f2-9014-3d79172353a6",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "caaguazú",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/878a9655-7ec4-464f-bf3b-e2814a964ad7",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/6f3c62d2e74a57f65be665bc9612781b.jpg",
+      "name": "ERI RUMILIO VALDEZ VEGA",
+      "sort_name": "ERI RUMILIO VALDEZ VEGA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/6f3c62d2e74a57f65be665bc9612781b.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/878a9655-7ec4-464f-bf3b-e2814a964ad7",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "cordillera",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f8fd6a2d-95c9-420a-b5de-a45e62d061c6",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/bacbe2980416176d54934b6706d0ae3d.jpg",
+      "name": "ERICO GALEANO SEGOVIA",
+      "sort_name": "ERICO GALEANO SEGOVIA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/bacbe2980416176d54934b6706d0ae3d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f8fd6a2d-95c9-420a-b5de-a45e62d061c6",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -675,9 +683,33 @@
           "person_id": "person/f695c67b-3d75-4668-925b-289cc4873354",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "ganar",
           "area_id": "caaguazú",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/57c0a759-1de0-4351-b4fb-3eaddd83ed8a",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/9b9b130a81bc3967869d87675b7195c6.jpg",
+      "name": "ESTEBAN MARTÍN SAMANIEGO ÁLVAREZ",
+      "sort_name": "ESTEBAN MARTÍN SAMANIEGO ÁLVAREZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/9b9b130a81bc3967869d87675b7195c6.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/57c0a759-1de0-4351-b4fb-3eaddd83ed8a",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "paraguarí",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -706,9 +738,9 @@
           "person_id": "person/23bbff63-2023-4040-b9bc-fbc8c96fff8d",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "guairá",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -716,24 +748,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/252345c2-d9e9-4c7d-ada0-faf764bfc464",
-      "image": "http://www.diputados.gov.py/fotos/cv/P282.jpg",
-      "name": "Eber Osvaldo Ovelar Benitez",
-      "sort_name": "Ovelar Benitez, Eber Osvaldo",
+      "id": "person/b39b3f7d-c4e2-46e8-a15e-b0c4338e6695",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/9528bcc08cff6c1a3612542e8ecc6458.jpg",
+      "name": "EVER JUAN ARICIO NOGUERA",
+      "sort_name": "EVER JUAN ARICIO NOGUERA",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P282.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/9528bcc08cff6c1a3612542e8ecc6458.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/252345c2-d9e9-4c7d-ada0-faf764bfc464",
+          "person_id": "person/b39b3f7d-c4e2-46e8-a15e-b0c4338e6695",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "caaguazú",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "anr",
+          "area_id": "guairá",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -741,49 +772,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/87dbd0db-eace-4084-bbc1-70d9b2739ea1",
-      "image": "http://www.diputados.gov.py/fotos/cv/P239.jpg",
-      "name": "Elio Cabral González",
-      "sort_name": "Cabral González, Elio",
+      "id": "person/7c83bc9f-e8ba-4dbb-a890-f44bf317b260",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/bb25de0a4568177828c0a0af436bc29c.jpg",
+      "name": "FERNANDO OREGGIONI O'HIGGINS",
+      "sort_name": "FERNANDO OREGGIONI O'HIGGINS",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P239.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/bb25de0a4568177828c0a0af436bc29c.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/87dbd0db-eace-4084-bbc1-70d9b2739ea1",
+          "person_id": "person/7c83bc9f-e8ba-4dbb-a890-f44bf317b260",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ac683167-9df0-407d-8395-0d1582e7624a",
-      "image": "http://www.diputados.gov.py/fotos/cv/P242.jpg",
-      "name": "Enrique Javier Pereira Thalmann",
-      "sort_name": "Pereira Thalmann, Enrique Javier",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P242.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ac683167-9df0-407d-8395-0d1582e7624a",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "plra",
+          "area_id": "itapúa",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -806,59 +811,9 @@
           "person_id": "person/583ff53b-ba6b-45b0-8033-d7cff02e6671",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "san_pedro",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/0f6c5231-f262-460f-a7ee-c9c51adc1d01",
-      "image": "http://www.diputados.gov.py/fotos/cv/P287.jpg",
-      "name": "Fabiola Elvira Oviedo Melgarejo",
-      "sort_name": "Oviedo Melgarejo, Fabiola Elvira",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P287.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0f6c5231-f262-460f-a7ee-c9c51adc1d01",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d1131520-5209-40df-a1c8-3b130f759093",
-      "image": "http://www.diputados.gov.py/fotos/cv/P286.jpg",
-      "name": "Fernando Javier Nicora López Moreira",
-      "sort_name": "Nicora López Moreira, Fernando Javier",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P286.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d1131520-5209-40df-a1c8-3b130f759093",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "presidente_hayes",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -881,9 +836,9 @@
           "person_id": "person/79ee9cc0-cac3-42be-b6b0-e124b5ee4574",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "guairá",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -891,24 +846,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/debc705e-c8fd-498f-a4b5-22a2c7ef4f07",
-      "image": "http://www.diputados.gov.py/fotos/cv/P249.jpg",
-      "name": "Horacio Victor Carísimo Ocampo",
-      "sort_name": "Carísimo Ocampo, Horacio Victor",
+      "id": "person/68c5eb49-fa2e-463f-9be9-e0d963989f68",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/919b815f948aeee83afbae4ebe75a3b0.jpg",
+      "name": "HERNÁN DAVID RIVAS ROMÁN",
+      "sort_name": "HERNÁN DAVID RIVAS ROMÁN",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P249.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/919b815f948aeee83afbae4ebe75a3b0.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/debc705e-c8fd-498f-a4b5-22a2c7ef4f07",
+          "person_id": "person/68c5eb49-fa2e-463f-9be9-e0d963989f68",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "anr",
           "area_id": "itapúa",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -916,24 +870,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/2543f266-3bff-458b-9487-6ce32d7d43ef",
-      "image": "http://www.diputados.gov.py/fotos/cv/P213.jpg",
-      "name": "Hugo Adalberto Velázquez Moreno",
-      "sort_name": "Velázquez Moreno, Hugo Adalberto",
+      "id": "person/732bd026-12a5-411a-9591-ec9c77d7ae8a",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/dbef07ba7fc3cbc1a76e598de8c2fc75.jpg",
+      "name": "HILDA MARÍA DEL ROCÍO VALLEJO ÁVALOS",
+      "sort_name": "HILDA MARÍA DEL ROCÍO VALLEJO ÁVALOS",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P213.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/dbef07ba7fc3cbc1a76e598de8c2fc75.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2543f266-3bff-458b-9487-6ce32d7d43ef",
+          "person_id": "person/732bd026-12a5-411a-9591-ec9c77d7ae8a",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "ppq",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -941,24 +894,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/f6848b41-4153-4af3-be78-1eff0e1fc931",
-      "image": "http://www.diputados.gov.py/fotos/cv/P263.jpg",
-      "name": "Hugo Leandro Rubín Godoy",
-      "sort_name": "Rubín Godoy, Hugo Leandro",
+      "id": "person/4a224369-34f7-4bd8-a9af-299d43d49d1e",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/abbe8285261b04bd5b0d430777f15b2c.jpg",
+      "name": "HUGO CÉSAR CAPURRO FLORES",
+      "sort_name": "HUGO CÉSAR CAPURRO FLORES",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P263.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/abbe8285261b04bd5b0d430777f15b2c.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f6848b41-4153-4af3-be78-1eff0e1fc931",
+          "person_id": "person/4a224369-34f7-4bd8-a9af-299d43d49d1e",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PEN",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "ganar",
+          "area_id": "misiones",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -966,24 +918,95 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/3aecaa8d-7804-4826-9611-3ff88acb0e04",
-      "image": "http://www.diputados.gov.py/fotos/cv/P277.jpg",
-      "name": "Héctor Lucio Lesme Delgado",
-      "sort_name": "Lesme Delgado, Héctor Lucio",
+      "id": "person/dd718963-132f-4c4c-8282-ef08c44d1e09",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/94909471b9392c6089768a5724c13e5b.jpg",
+      "name": "HUGO ENRIQUE RAMÍREZ IBARRA",
+      "sort_name": "HUGO ENRIQUE RAMÍREZ IBARRA",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P277.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/94909471b9392c6089768a5724c13e5b.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3aecaa8d-7804-4826-9611-3ff88acb0e04",
+          "person_id": "person/dd718963-132f-4c4c-8282-ef08c44d1e09",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "anr",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c96267fa-60ca-4ab3-8c4d-c1a2e67be868",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/3b91def936f73592a78b25081803717c.jpg",
+      "name": "HUGO MANUEL IBARRA SANTACRUZ",
+      "sort_name": "HUGO MANUEL IBARRA SANTACRUZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/3b91def936f73592a78b25081803717c.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c96267fa-60ca-4ab3-8c4d-c1a2e67be868",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "caaguazú",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e863240e-a5fd-431a-9016-98bdf119c8fe",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/ac5af4663c1a4705d4bb730e2aaeb20d.jpg",
+      "name": "JAZMÍN NARVAEZ OSORIO",
+      "sort_name": "JAZMÍN NARVAEZ OSORIO",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/ac5af4663c1a4705d4bb730e2aaeb20d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e863240e-a5fd-431a-9016-98bdf119c8fe",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/38c73a07-1100-4562-a16f-e953dfd0e67a",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/741cd87959e5eed4ee20298aaa07c7d9.jpg",
+      "name": "JORGE ANTONIO BRÍTEZ GONZÁLEZ",
+      "sort_name": "JORGE ANTONIO BRÍTEZ GONZÁLEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/741cd87959e5eed4ee20298aaa07c7d9.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/38c73a07-1100-4562-a16f-e953dfd0e67a",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "cn",
+          "area_id": "alto_paraná",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1006,9 +1029,9 @@
           "person_id": "person/d9f1c40e-668d-4cc6-9432-152eaacfe1e3",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "paraguarí",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1016,99 +1039,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/082633c3-d0f8-4dd1-b7ac-114f9fae57bf",
-      "image": "http://www.diputados.gov.py/fotos/cv/P208.jpg",
-      "name": "Jorge Ignacio Baruja Fernández",
-      "sort_name": "Baruja Fernández, Jorge Ignacio",
+      "id": "person/f9468509-0705-4efd-a3e9-4e44655a66e6",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/c6b38b32f32fe8ef61c7222c22223288.jpg",
+      "name": "JUAN CARLOS LUIS GALAVERNA",
+      "sort_name": "JUAN CARLOS LUIS GALAVERNA",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P208.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/c6b38b32f32fe8ef61c7222c22223288.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/082633c3-d0f8-4dd1-b7ac-114f9fae57bf",
+          "person_id": "person/f9468509-0705-4efd-a3e9-4e44655a66e6",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "paraguarí",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/9f08536f-f639-4463-b3e0-243a402f0fbf",
-      "image": "http://www.diputados.gov.py/fotos/cv/P221.jpg",
-      "name": "José Domingo Adorno Mazacotte",
-      "sort_name": "Adorno Mazacotte, José Domingo",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P221.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9f08536f-f639-4463-b3e0-243a402f0fbf",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "alto_paraguay",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b5df0ec2-5707-4e88-9b33-994c3b7f0381",
-      "image": "http://www.diputados.gov.py/fotos/cv/P280.jpg",
-      "name": "José Gregorio Ledesma Narváez",
-      "sort_name": "Ledesma Narváez, José Gregorio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P280.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b5df0ec2-5707-4e88-9b33-994c3b7f0381",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "san_pedro",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f55cb874-a6bc-4424-bbc8-9b121de0509d",
-      "image": "http://www.diputados.gov.py/fotos/cv/P215.jpg",
-      "name": "José María Ibañez Benítez",
-      "sort_name": "Ibañez Benítez, José María",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P215.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f55cb874-a6bc-4424-bbc8-9b121de0509d",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1116,24 +1063,71 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/d915eb56-098c-4272-b6f2-0d98b46128b4",
-      "image": "http://www.diputados.gov.py/fotos/cv/P262.jpg",
-      "name": "Juan Bartolomé Ramírez Brizuela",
-      "sort_name": "Ramírez Brizuela, Juan Bartolomé",
+      "id": "person/8f4cae83-1afa-43be-8ea4-513af512042b",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/6e0f5d2f356e1f01d7acc599b3b279a3.jpg",
+      "name": "JUAN CARLOS OZORIO",
+      "sort_name": "JUAN CARLOS OZORIO",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P262.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/6e0f5d2f356e1f01d7acc599b3b279a3.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d915eb56-098c-4272-b6f2-0d98b46128b4",
+          "person_id": "person/8f4cae83-1afa-43be-8ea4-513af512042b",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "anr",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7363c99d-3075-453e-949e-cbdc8befbee6",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/178f93ec18f2d9e05c6202bb95cc2324.jpg",
+      "name": "JUAN SEBASTIÁN VILLAREJO VELILLA",
+      "sort_name": "JUAN SEBASTIÁN VILLAREJO VELILLA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/178f93ec18f2d9e05c6202bb95cc2324.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7363c99d-3075-453e-949e-cbdc8befbee6",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ppq",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/404ed3e3-f895-4c35-81a2-0d3d020a788c",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/8b514a383b8c892fee8082d58a917702.jpg",
+      "name": "JUAN SILVINO ACOSTA BENÍTEZ",
+      "sort_name": "JUAN SILVINO ACOSTA BENÍTEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/8b514a383b8c892fee8082d58a917702.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/404ed3e3-f895-4c35-81a2-0d3d020a788c",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
           "area_id": "amambay",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1141,24 +1135,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/3c064d9a-24ed-4fef-9d79-aa52b7ee83b1",
-      "image": "http://www.diputados.gov.py/fotos/cv/P275.jpg",
-      "name": "Juan Félix Bogado Tatter",
-      "sort_name": "Bogado Tatter, Juan Félix",
+      "id": "person/98a7eb84-f53c-4420-b2f9-2193631cf1cc",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/6125f6b266dbb18233b436ad6e4578c6.jpg",
+      "name": "JULIO ENRIQUE MINEUR DE WITTE",
+      "sort_name": "JULIO ENRIQUE MINEUR DE WITTE",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P275.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/6125f6b266dbb18233b436ad6e4578c6.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3c064d9a-24ed-4fef-9d79-aa52b7ee83b1",
+          "person_id": "person/98a7eb84-f53c-4420-b2f9-2193631cf1cc",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "ganar",
+          "area_id": "pte._hayes",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1166,24 +1159,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/6d6c2353-5efe-4b2d-92f9-0788cc613902",
-      "image": "http://www.diputados.gov.py/fotos/cv/P214.jpg",
-      "name": "Julio Javier Ríos Bogado",
-      "sort_name": "Ríos Bogado, Julio Javier",
+      "id": "person/baa4dc70-4c06-4917-8f87-53f36addb1eb",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/5873ae78d09770fc3a6c8ccc22ba11bf.jpg",
+      "name": "JUSTO ARICIO ZACARÍAS IRÚN",
+      "sort_name": "JUSTO ARICIO ZACARÍAS IRÚN",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P214.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/5873ae78d09770fc3a6c8ccc22ba11bf.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6d6c2353-5efe-4b2d-92f9-0788cc613902",
+          "person_id": "person/baa4dc70-4c06-4917-8f87-53f36addb1eb",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "anr",
+          "area_id": "alto_paraná",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1191,23 +1183,23 @@
       ]
     },
     {
-      "id": "person/578147c2-e023-43c4-954d-a8f66589be8c",
-      "image": "http://www.diputados.gov.py/fotos/cv/P222.jpg",
-      "name": "Karina Andrea Rodríguez Carámbula",
-      "sort_name": "Rodríguez Carámbula, Karina Andrea",
+      "id": "person/1739a0be-5606-45da-970e-ffa9fc5723d0",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/83253a7b352e5450f7e8ac53ff0b35c3.jpg",
+      "name": "KATTYA MABEL GONZÁLEZ VILLANUEVA",
+      "sort_name": "KATTYA MABEL GONZÁLEZ VILLANUEVA",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P222.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/83253a7b352e5450f7e8ac53ff0b35c3.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/578147c2-e023-43c4-954d-a8f66589be8c",
+          "person_id": "person/1739a0be-5606-45da-970e-ffa9fc5723d0",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "AP",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "pen",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1215,24 +1207,191 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/5170b260-8b17-4420-af0b-9e1e3c933748",
-      "image": "http://www.diputados.gov.py/fotos/cv/P225.jpg",
-      "name": "Luis Alberto Larré Del Puerto",
-      "sort_name": "Larré Del Puerto, Luis Alberto",
+      "id": "person/8c85b4b1-c19f-4558-9526-69d14c08ccf9",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/952d26a765c5c2aa68a349b9d1736972.jpg",
+      "name": "LUIS ADOLFO URBIETA CÁCERES",
+      "sort_name": "LUIS ADOLFO URBIETA CÁCERES",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P225.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/952d26a765c5c2aa68a349b9d1736972.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5170b260-8b17-4420-af0b-9e1e3c933748",
+          "person_id": "person/8c85b4b1-c19f-4558-9526-69d14c08ccf9",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "itapúa",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "anr",
+          "area_id": "concepción",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/4e46e4fb-6f52-4201-83f5-fdb90e41499e",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/15071209c06c16b235e12ab0001ceffd.jpg",
+      "name": "MANUEL TRINIDAD COLMÁN",
+      "sort_name": "MANUEL TRINIDAD COLMÁN",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/15071209c06c16b235e12ab0001ceffd.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4e46e4fb-6f52-4201-83f5-fdb90e41499e",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ganar",
+          "area_id": "alto_paraná",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/eddeb868-7a8d-4932-9068-f823584213c4",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/66fc976cf68605691f9187306af262c9.jpg",
+      "name": "MARCELO RAFAEL SALINAS GONZÁLEZ",
+      "sort_name": "MARCELO RAFAEL SALINAS GONZÁLEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/66fc976cf68605691f9187306af262c9.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/eddeb868-7a8d-4932-9068-f823584213c4",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/44cff5bf-4831-4344-ab9e-7e06145e5d71",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/8aa14d95a1eca10b22eb3c8360171089.jpg",
+      "name": "MARIA ROCIO ABED DE ZACARIAS",
+      "sort_name": "MARIA ROCIO ABED DE ZACARIAS",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/8aa14d95a1eca10b22eb3c8360171089.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/44cff5bf-4831-4344-ab9e-7e06145e5d71",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "alto_paraná",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e18e5f52-925c-4f25-b4e4-21b5fb866860",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/2bded28b68e63f4e5089f28f1548d952.jpg",
+      "name": "MARLENE GRACIELA OCAMPOS BENÍTEZ",
+      "sort_name": "MARLENE GRACIELA OCAMPOS BENÍTEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/2bded28b68e63f4e5089f28f1548d952.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e18e5f52-925c-4f25-b4e4-21b5fb866860",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "alto_paraguay",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a37962be-d080-4dfc-81cc-62913bc23d33",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/95cca0d1f6edb435bbb4e7fe5b2d2989.jpg",
+      "name": "MARÍA CRISTINA VILLALBA DE ABENTE",
+      "sort_name": "MARÍA CRISTINA VILLALBA DE ABENTE",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/95cca0d1f6edb435bbb4e7fe5b2d2989.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a37962be-d080-4dfc-81cc-62913bc23d33",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "canindeyú",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1f53982e-f298-456e-9ae9-601d84ac4022",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/257dc457c4e5eae5e745796af2b1ede4.jpg",
+      "name": "MARÍA DE LAS NIEVES LÓPEZ ROTELA",
+      "sort_name": "MARÍA DE LAS NIEVES LÓPEZ ROTELA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/257dc457c4e5eae5e745796af2b1ede4.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1f53982e-f298-456e-9ae9-601d84ac4022",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1b9f1268-81b9-4075-a616-77ec5c1f41ca",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/5bd7cf4834201b1e5036d7776d477629.jpg",
+      "name": "MIGUEL JORGE CUEVAS RUIZ DÍAZ",
+      "sort_name": "MIGUEL JORGE CUEVAS RUIZ DÍAZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/5bd7cf4834201b1e5036d7776d477629.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1b9f1268-81b9-4075-a616-77ec5c1f41ca",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "paraguari",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1255,9 +1414,9 @@
           "person_id": "person/4cdf1ac5-1d92-44ab-b4fe-6bf836d17608",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1280,184 +1439,9 @@
           "person_id": "person/a358b09d-b4bf-4154-b45e-ceaa710d1e50",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "caaguazú",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7fb13d97-700e-40f1-8ceb-fb1195d7d383",
-      "image": "http://www.diputados.gov.py/fotos/cv/P231.jpg",
-      "name": "Marcial Lezcano Paredes",
-      "sort_name": "Lezcano Paredes, Marcial",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P231.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7fb13d97-700e-40f1-8ceb-fb1195d7d383",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "amambay",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/761f1fd2-70e9-40ce-bd48-ba729aa2c2ad",
-      "image": "http://www.diputados.gov.py/fotos/cv/P217.jpg",
-      "name": "Maria Rocio Casco Arce",
-      "sort_name": "Casco Arce, Maria Rocio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P217.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/761f1fd2-70e9-40ce-bd48-ba729aa2c2ad",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "AP",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/4bb0ee4e-022d-4c89-bfc9-4355f1787fb4",
-      "image": "http://www.diputados.gov.py/fotos/cv/P211.jpg",
-      "name": "Mario Duilio Cáceres González",
-      "sort_name": "Cáceres González, Mario Duilio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P211.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4bb0ee4e-022d-4c89-bfc9-4355f1787fb4",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "itapúa",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e51cca4f-126b-485a-97f4-5dab70a96a4e",
-      "image": "http://www.diputados.gov.py/fotos/cv/P219.jpg",
-      "name": "Mario Walberto Soto Estigarribia",
-      "sort_name": "Soto Estigarribia, Mario Walberto",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P219.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e51cca4f-126b-485a-97f4-5dab70a96a4e",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "caaguazú",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/8836cdce-9f2d-4c8b-8cb7-52a27ff89ac2",
-      "image": "http://www.diputados.gov.py/fotos/cv/P236.jpg",
-      "name": "María Cristina Villalba López",
-      "sort_name": "Villalba López, María Cristina",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P236.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8836cdce-9f2d-4c8b-8cb7-52a27ff89ac2",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "canindeyú",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/c15be64b-fb2f-4b71-8f35-73c7efaf9558",
-      "image": "http://www.diputados.gov.py/fotos/cv/P246.jpg",
-      "name": "María Nimia Carísimo Sosa",
-      "sort_name": "Carísimo Sosa, María Nimia",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P246.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c15be64b-fb2f-4b71-8f35-73c7efaf9558",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/bee7b565-4528-4110-999b-025279ecaeed",
-      "image": "http://www.diputados.gov.py/fotos/cv/P247.jpg",
-      "name": "Mirta Ramona Mendoza Díaz",
-      "sort_name": "Mendoza Díaz, Mirta Ramona",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P247.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bee7b565-4528-4110-999b-025279ecaeed",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "concepción",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1480,9 +1464,9 @@
           "person_id": "person/762954eb-7dff-4730-9680-648c71acb228",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "cordillera",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1505,9 +1489,9 @@
           "person_id": "person/92eee13c-b978-4258-ac68-29519ba134f2",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1515,99 +1499,23 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/781068e1-2b38-4432-a854-b6630a40e60d",
-      "image": "http://www.diputados.gov.py/fotos/cv/P257.jpg",
-      "name": "Olga Beatriz Ferreira de López",
-      "sort_name": "Ferreira de López, Olga Beatriz",
+      "id": "person/c5e970f1-bf80-4270-9ad6-fc5c6d656cdc",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/73a97f248827a57ef5391adfc1c9f05d.jpg",
+      "name": "NORMA CAMACHO",
+      "sort_name": "NORMA CAMACHO",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P257.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/73a97f248827a57ef5391adfc1c9f05d.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/781068e1-2b38-4432-a854-b6630a40e60d",
+          "person_id": "person/c5e970f1-bf80-4270-9ad6-fc5c6d656cdc",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "IND",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/151f2cab-ee84-413e-bfa2-37cc02bbeb8b",
-      "image": "http://www.diputados.gov.py/fotos/cv/P270.jpg",
-      "name": "Olimpio Rojas Villalba",
-      "sort_name": "Rojas Villalba, Olimpio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P270.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/151f2cab-ee84-413e-bfa2-37cc02bbeb8b",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "caazapá",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/22ecd5d7-69e1-4e52-9cba-0e821df340d1",
-      "image": "http://www.diputados.gov.py/fotos/cv/P260.jpg",
-      "name": "Oscar Luís Tuma Bogado",
-      "sort_name": "Tuma Bogado, Oscar Luís",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P260.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/22ecd5d7-69e1-4e52-9cba-0e821df340d1",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "capital",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e4a113f4-183c-41e6-bbb4-1046936a09e3",
-      "image": "http://www.diputados.gov.py/fotos/cv/P241.jpg",
-      "name": "Oscar Venancio Nuñez Gimenez",
-      "sort_name": "Nuñez Gimenez, Oscar Venancio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P241.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e4a113f4-183c-41e6-bbb4-1046936a09e3",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "presidente_hayes",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "pen",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1630,9 +1538,33 @@
           "person_id": "person/3549a9b2-e180-497f-a9d3-10f666619e42",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "ganar",
           "area_id": "san_pedro",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/13df3a9b-4e30-4df6-b5b0-f7b74080999d",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/da91447beaa4118b867cca85f7560595.jpg",
+      "name": "PASTOR EMILIO SORIA MELO",
+      "sort_name": "PASTOR EMILIO SORIA MELO",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/da91447beaa4118b867cca85f7560595.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/13df3a9b-4e30-4df6-b5b0-f7b74080999d",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "san_pedro",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1661,134 +1593,9 @@
           "person_id": "person/985f1e6c-6937-465e-b7d6-2532385948fd",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "Ñeembucú",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/610e4915-7084-4be8-a1f8-96ee3980495a",
-      "image": "http://www.diputados.gov.py/fotos/cv/P216.jpg",
-      "name": "Pablino Acasio Rodriguez Arias",
-      "sort_name": "Rodriguez Arias, Pablino Acasio",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P216.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/610e4915-7084-4be8-a1f8-96ee3980495a",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "misiones",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/8611e4c5-aba0-4c1d-b22c-51e1e77fd268",
-      "image": "http://www.diputados.gov.py/fotos/cv/P228.jpg",
-      "name": "Pedro David Britos Espínola",
-      "sort_name": "Britos Espínola, Pedro David",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P228.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8611e4c5-aba0-4c1d-b22c-51e1e77fd268",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "guairá",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/3553f5b8-a531-45bf-9593-27f3e5417271",
-      "image": "http://www.diputados.gov.py/fotos/cv/P266.jpg",
-      "name": "Pedro Milciades Duré Arguello",
-      "sort_name": "Duré Arguello, Pedro Milciades",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P266.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3553f5b8-a531-45bf-9593-27f3e5417271",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "cordillera",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1163c944-badf-4250-afd9-ce807ee2899f",
-      "image": "http://www.diputados.gov.py/fotos/cv/P230.jpg",
-      "name": "Perla Teresa Beatriz Acosta de Vázquez",
-      "sort_name": "Acosta de Vázquez, Perla Teresa Beatriz",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P230.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1163c944-badf-4250-afd9-ce807ee2899f",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "san_pedro",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a3641df7-8f19-42f9-900e-53a26f42e8bb",
-      "image": "http://www.diputados.gov.py/fotos/cv/P232.jpg",
-      "name": "Purificación Morel Alfonzo",
-      "sort_name": "Morel Alfonzo, Purificación",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P232.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a3641df7-8f19-42f9-900e-53a26f42e8bb",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "canindeyú",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1811,9 +1618,9 @@
           "person_id": "person/3d858b09-c998-48b6-8ee4-cfbb035f2dd0",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1821,73 +1628,167 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/28708326-23b3-4a55-897a-14ffe9bb88b4",
-      "image": "http://www.diputados.gov.py/fotos/cv/P284.jpg",
-      "name": "Ramón Duarte Jiménez",
-      "sort_name": "Duarte Jiménez, Ramón",
+      "id": "person/b848e582-7d89-4110-93c8-5145cd2ce027",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/284a249d6429d46b4aaae4bce39b6885.jpg",
+      "name": "RAÚL LUIS LATORRE MARTÍNEZ",
+      "sort_name": "RAÚL LUIS LATORRE MARTÍNEZ",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P284.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/284a249d6429d46b4aaae4bce39b6885.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/28708326-23b3-4a55-897a-14ffe9bb88b4",
+          "person_id": "person/b848e582-7d89-4110-93c8-5145cd2ce027",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "FG",
+          "on_behalf_of_id": "anr",
+          "area_id": "capital",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/2c91ddab-0f95-44a2-9d3c-134f7a7be028",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/5e9504ee46ad7ae9a792c33cc78c315d.jpg",
+      "name": "ROBERTO EUDES GONZÁLEZ SEGOVIA",
+      "sort_name": "ROBERTO EUDES GONZÁLEZ SEGOVIA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/5e9504ee46ad7ae9a792c33cc78c315d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c91ddab-0f95-44a2-9d3c-134f7a7be028",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
+          "area_id": "cordillera",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f0c49b25-3b59-48e3-9522-d7e041b167a0",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/08e66c23eb17f01fb0a08aded0a908b4.jpg",
+      "name": "ROBERTO RAMÓN ACEVEDO QUEVEDO",
+      "sort_name": "ROBERTO RAMÓN ACEVEDO QUEVEDO",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/08e66c23eb17f01fb0a08aded0a908b4.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f0c49b25-3b59-48e3-9522-d7e041b167a0",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "amambay",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/176f90cb-8055-4a53-9d76-d201e973d0cf",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/781012af4c917d8fe46799a0831800b5.jpg",
+      "name": "RODRIGO DANIEL BLANCO AMARILLA",
+      "sort_name": "RODRIGO DANIEL BLANCO AMARILLA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/781012af4c917d8fe46799a0831800b5.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/176f90cb-8055-4a53-9d76-d201e973d0cf",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "plra",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/7eeb201a-8462-4dd7-98c8-05e653c01702",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/912dc0266c2ce8928603183a3ed7952d.jpg",
+      "name": "ROQUE ANTONIO SARUBBI BRIZUELA",
+      "sort_name": "ROQUE ANTONIO SARUBBI BRIZUELA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/912dc0266c2ce8928603183a3ed7952d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7eeb201a-8462-4dd7-98c8-05e653c01702",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ganar",
+          "area_id": "caazapá",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8cd3f3ad-77c0-41c0-bb68-ae6f4813dcd8",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/58f21e59c7f841a51a7523b5fd3fb01f.jpg",
+      "name": "ROYA NIGSA TORRES BÁEZ",
+      "sort_name": "ROYA NIGSA TORRES BÁEZ",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/58f21e59c7f841a51a7523b5fd3fb01f.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8cd3f3ad-77c0-41c0-bb68-ae6f4813dcd8",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ganar",
+          "area_id": "alto_paraná",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/c63935fc-21c7-4713-95f6-7e544227c79d",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/e7b6347bb75daa04897886908c68407d.jpg",
+      "name": "RUBÉN ARISTIDES BALBUENA FIGUEREDO",
+      "sort_name": "RUBÉN ARISTIDES BALBUENA FIGUEREDO",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/e7b6347bb75daa04897886908c68407d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c63935fc-21c7-4713-95f6-7e544227c79d",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "anr",
           "area_id": "itapúa",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/22712155-5245-442b-86c2-584e001977ab",
-      "image": "http://www.diputados.gov.py/fotos/cv/P268.jpg",
-      "name": "Ricardo González Escobar",
-      "sort_name": "González Escobar, Ricardo",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P268.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/22712155-5245-442b-86c2-584e001977ab",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PEN",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/2c8a9b6f-386c-4aed-95f2-09940d212879",
-      "image": "http://www.diputados.gov.py/fotos/cv/P233.jpg",
-      "name": "Ricardo Núñez Insfrán",
-      "sort_name": "Núñez Insfrán, Ricardo",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P233.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2c8a9b6f-386c-4aed-95f2-09940d212879",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1910,9 +1811,9 @@
           "person_id": "person/a778d5f0-3db8-4580-9fd4-c8429250ad56",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1935,9 +1836,57 @@
           "person_id": "person/c4e8ad92-8cc4-4dc2-b8ea-eaaa7072f560",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
+          "on_behalf_of_id": "plra",
           "area_id": "central",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/959562f5-f72a-4ae1-b568-80e35d9b94b5",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/6e7979bb21179723dd2726b7a7a448c2.jpg",
+      "name": "TEÓFILO ESPÍNOLA PERALTA",
+      "sort_name": "TEÓFILO ESPÍNOLA PERALTA",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/6e7979bb21179723dd2726b7a7a448c2.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/959562f5-f72a-4ae1-b568-80e35d9b94b5",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "ganar",
+          "area_id": "canindeyú",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/5cba7e2f-90cb-447a-8d8a-9f4354faa692",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/edca9a9bcf50e32e90ee2aa3ec85ec9f.jpg",
+      "name": "TITO DAMIÁN IBARROLA CANO",
+      "sort_name": "TITO DAMIÁN IBARROLA CANO",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/edca9a9bcf50e32e90ee2aa3ec85ec9f.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5cba7e2f-90cb-447a-8d8a-9f4354faa692",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "pph",
+          "area_id": "central",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1960,9 +1909,9 @@
           "person_id": "person/e2a454ef-197b-463e-95ae-e36a0da37824",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "paraguarí",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -1970,74 +1919,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/2d06b37a-8c4a-42ab-a51c-1cdda5c01330",
-      "image": "http://www.diputados.gov.py/fotos/cv/P251.jpg",
-      "name": "Victor Oscar González Drakeford",
-      "sort_name": "González Drakeford, Victor Oscar",
+      "id": "person/5f7f20ff-0ff0-4158-a8ba-efec85b99871",
+      "image": "http://www.diputados.gov.py/ww5/application/files/cache/5064ab0d9ec9878fedd87296f36683a0.jpg",
+      "name": "VICENTE RODRÍGUEZ ARÉVALOS",
+      "sort_name": "VICENTE RODRÍGUEZ ARÉVALOS",
       "images": [
         {
-          "url": "http://www.diputados.gov.py/fotos/cv/P251.jpg"
+          "url": "http://www.diputados.gov.py/ww5/application/files/cache/5064ab0d9ec9878fedd87296f36683a0.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2d06b37a-8c4a-42ab-a51c-1cdda5c01330",
+          "person_id": "person/5f7f20ff-0ff0-4158-a8ba-efec85b99871",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "alto_paraná",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/50a25af2-cc11-4531-96b9-7c44676805b8",
-      "image": "http://www.diputados.gov.py/fotos/cv/P227.jpg",
-      "name": "Víctor Luís González Segovia",
-      "sort_name": "González Segovia, Víctor Luís",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P227.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/50a25af2-cc11-4531-96b9-7c44676805b8",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "ANR",
-          "area_id": "cordillera",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ac6207a1-fddf-4357-a49d-12254826094b",
-      "image": "http://www.diputados.gov.py/fotos/cv/P243.jpg",
-      "name": "Víctor Ríos Ojeda",
-      "sort_name": "Ríos Ojeda, Víctor",
-      "images": [
-        {
-          "url": "http://www.diputados.gov.py/fotos/cv/P243.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ac6207a1-fddf-4357-a49d-12254826094b",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "PLRA",
-          "area_id": "Ñeembucú",
-          "legislative_period_id": "term/2013"
+          "on_behalf_of_id": "anr",
+          "area_id": "san_pedro",
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
@@ -2060,9 +1958,9 @@
           "person_id": "person/126e666b-c5a2-4fb1-9c6c-322cb291b76f",
           "organization_id": "chamber/chamber_of_deputies",
           "role": "member",
-          "on_behalf_of_id": "ANR",
+          "on_behalf_of_id": "anr",
           "area_id": "itapúa",
-          "legislative_period_id": "term/2013"
+          "legislative_period_id": "term/2018"
         }
       ],
       "contact_details": [
