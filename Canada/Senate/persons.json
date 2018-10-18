@@ -1,7 +1,7 @@
 {
-  "total": 114,
+  "total": 116,
   "page": 1,
-  "per_page": 114,
+  "per_page": 116,
   "has_more": false,
   "result": [
     {
@@ -203,6 +203,32 @@
           "on_behalf_of_id": "f0c19e49-d83b-4296-9c1f-93c27b079073",
           "area_id": "ontario_(thousand_islands_and_rideau_lakes)",
           "end_date": "2017-08-10",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "Brian.Francis@sen.parl.gc.ca",
+      "gender": "male",
+      "id": "person/3658fcd4-26c2-4dc3-9f77-b5bc95528196",
+      "image": "https://sencanada.ca/media/363077/sen_large.jpg",
+      "name": "Brian Francis",
+      "sort_name": "Francis, Brian",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363077/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3658fcd4-26c2-4dc3-9f77-b5bc95528196",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "prince_edward_island_(prince_edward_island)",
           "legislative_period_id": "term/42"
         }
       ],
@@ -1292,6 +1318,32 @@
           "area_id": "new_brunswick_(saint_john-kennebecasis)",
           "legislative_period_id": "term/42"
         }
+      ]
+    },
+    {
+      "email": "Josee.Forest-Niesing@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/ae0986b3-525f-4177-b956-cd16d5d1ba6e",
+      "image": "https://sencanada.ca/media/363087/sen_large.jpg",
+      "name": "Josée Forest-Niesing",
+      "sort_name": "Forest-Niesing, Josee",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363087/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ae0986b3-525f-4177-b956-cd16d5d1ba6e",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "ontario_(ontario)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
