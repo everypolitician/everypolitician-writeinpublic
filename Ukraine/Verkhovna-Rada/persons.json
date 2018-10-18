@@ -1,7 +1,7 @@
 {
-  "total": 464,
+  "total": 466,
   "page": 1,
-  "per_page": 464,
+  "per_page": 466,
   "has_more": false,
   "result": [
     {
@@ -3395,6 +3395,31 @@
           "role": "member",
           "on_behalf_of_id": "2612",
           "area_id": "19",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/0f30fc8d-0f38-4d48-a474-7b11b6a2894a",
+      "image": "http://static.rada.gov.ua/dep_img8/rp30.jpg",
+      "name": "Гулак Олександр Миколайович",
+      "sort_name": "Гулак Олександр Миколайович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/rp30.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0f30fc8d-0f38-4d48-a474-7b11b6a2894a",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2615",
+          "area_id": "Загальнодержавному_багатомандатному_округу",
+          "start_date": "2018-10-16",
           "legislative_period_id": "term/8"
         }
       ],
@@ -10774,6 +10799,31 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "74",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/773aec71-72b4-41f5-afed-ce2fb180a46c",
+      "image": "http://static.rada.gov.ua/dep_img8/nf84.jpg",
+      "name": "Савка Іван Іванович",
+      "sort_name": "Савка Іван Іванович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf84.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/773aec71-72b4-41f5-afed-ce2fb180a46c",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2612",
+          "area_id": "Загальнодержавному_багатомандатному_округу",
+          "start_date": "2018-10-16",
           "legislative_period_id": "term/8"
         }
       ],
