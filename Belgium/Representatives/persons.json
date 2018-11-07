@@ -1,7 +1,7 @@
 {
-  "total": 177,
+  "total": 178,
   "page": 1,
-  "per_page": 177,
+  "per_page": 178,
   "has_more": false,
   "result": [
     {
@@ -2969,7 +2969,6 @@
       ]
     },
     {
-      "email": "muriel.gerkens@lachambre.be",
       "gender": "female",
       "id": "person/3c754fe0-0099-40ee-9f6c-1c95a643b6cd",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/00946.gif",
@@ -2987,6 +2986,7 @@
           "role": "member",
           "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
           "area_id": "286e7423-94a8-486a-b037-d1b00c7d7fbf",
+          "end_date": "2018-10-03",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3757,6 +3757,25 @@
           "area_id": "e8e51560-6030-47ba-aa0c-75cf85e6f9cc",
           "start_date": "2014-10-14",
           "end_date": "2016-11-10",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/1f919880-5e08-4342-867a-bae153e30e50",
+      "name": "Sarah Schlitz",
+      "sort_name": "Sarah Schlitz",
+      "memberships": [
+        {
+          "person_id": "person/1f919880-5e08-4342-867a-bae153e30e50",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2018-10-05",
           "legislative_period_id": "term/54"
         }
       ],
