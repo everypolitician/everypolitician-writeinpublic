@@ -1,7 +1,7 @@
 {
-  "total": 177,
+  "total": 178,
   "page": 1,
-  "per_page": 177,
+  "per_page": 178,
   "has_more": false,
   "result": [
     {
@@ -2772,7 +2772,6 @@
       ]
     },
     {
-      "email": "l.sazias@tweedekamer.nl",
       "gender": "female",
       "id": "person/639b44ec-d997-44f0-9556-914e601f1182",
       "image": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/716b9678-358b-4b9f-bc8d-a3baa4a6f461.jpg?itok=bqbS_QHK",
@@ -2795,6 +2794,7 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "fb6fbe25-9219-49a7-a517-dc3c2f57218f",
+          "end_date": "2018-11-06",
           "legislative_period_id": "term/2017"
         }
       ]
@@ -4211,6 +4211,24 @@
           "organization_id": "chamber/tweede_kamer",
           "role": "member",
           "on_behalf_of_id": "a1147a25-4fb6-4b92-a5ec-cc002fe0fe63",
+          "legislative_period_id": "term/2017"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/ae32687e-6928-4e45-8e3c-4c008d76c35d",
+      "name": "Simon Geleijnse",
+      "sort_name": "Simon Geleijnse",
+      "memberships": [
+        {
+          "person_id": "person/ae32687e-6928-4e45-8e3c-4c008d76c35d",
+          "organization_id": "chamber/tweede_kamer",
+          "role": "member",
+          "on_behalf_of_id": "fb6fbe25-9219-49a7-a517-dc3c2f57218f",
+          "start_date": "2018-11-07",
           "legislative_period_id": "term/2017"
         }
       ],
