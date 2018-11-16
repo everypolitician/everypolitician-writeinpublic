@@ -1,9 +1,36 @@
 {
-  "total": 352,
+  "total": 354,
   "page": 1,
-  "per_page": 352,
+  "per_page": 354,
   "has_more": false,
   "result": [
+    {
+      "gender": "female",
+      "id": "person/07834571-f496-4383-babb-6f3b70ca1162",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/669a8123-3f21-4920-80f8-e4ec200ae575_max.jpg",
+      "name": "Acko Ankarberg Johansson",
+      "sort_name": "Acko",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/669a8123-3f21-4920-80f8-e4ec200ae575_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/07834571-f496-4383-babb-6f3b70ca1162",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "KD",
+          "area_id": "jönköpings_län",
+          "start_date": "2018-10-24",
+          "end_date": "2022-09-26",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "gender": "male",
       "id": "person/69aa7487-1e0a-4058-ba5f-82c4733904ed",
@@ -2626,7 +2653,7 @@
           "role": "member",
           "on_behalf_of_id": "M",
           "area_id": "stockholms_län",
-          "end_date": "2022-09-26",
+          "end_date": "2018-11-11",
           "legislative_period_id": "term/2018"
         }
       ]
@@ -6160,6 +6187,33 @@
           "role": "member",
           "on_behalf_of_id": "SD",
           "area_id": "stockholms_län",
+          "end_date": "2022-09-26",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6ed01c37-c12d-4ebe-98b0-197414e52a20",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af75fe5c-7d6c-493e-91d6-b44a1445c718_max.jpg",
+      "name": "Magdalena Schröder",
+      "sort_name": "Magdalena",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af75fe5c-7d6c-493e-91d6-b44a1445c718_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6ed01c37-c12d-4ebe-98b0-197414e52a20",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "M",
+          "area_id": "stockholms_län",
+          "start_date": "2018-11-12",
           "end_date": "2022-09-26",
           "legislative_period_id": "term/2018"
         }
