@@ -1,7 +1,7 @@
 {
-  "total": 198,
+  "total": 199,
   "page": 1,
-  "per_page": 198,
+  "per_page": 199,
   "has_more": false,
   "result": [
     {
@@ -130,7 +130,6 @@
       ]
     },
     {
-      "email": "zoltan.balog@parlament.hu",
       "gender": "male",
       "id": "person/7559275b-e71d-41d1-b4d2-18e59ba64919",
       "image": "http://www.parlament.hu/kepv/kepek/b052.jpg",
@@ -147,6 +146,7 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "fidesz",
+          "end_date": "2018-10-17",
           "legislative_period_id": "term/41"
         }
       ],
@@ -346,6 +346,31 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "fidesz",
+          "legislative_period_id": "term/41"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/12fe2921-789f-46e3-867d-3fac583b1537",
+      "image": "http://www.parlament.hu/kepv/kepek/b076.jpg",
+      "name": "Budai, Gyula",
+      "sort_name": "Budai, Gyula",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/b076.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/12fe2921-789f-46e3-867d-3fac583b1537",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "fidesz",
+          "start_date": "2018-10-29",
           "legislative_period_id": "term/41"
         }
       ],
