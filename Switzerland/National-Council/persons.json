@@ -1,7 +1,7 @@
 {
-  "total": 221,
+  "total": 222,
   "page": 1,
-  "per_page": 221,
+  "per_page": 222,
   "has_more": false,
   "result": [
     {
@@ -902,6 +902,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "ZH",
+          "end_date": "2018-12-06",
           "legislative_period_id": "term/50"
         }
       ],
@@ -1303,6 +1304,26 @@
           "role": "member",
           "on_behalf_of_id": "6",
           "area_id": "VD",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b362a706-7634-47a2-9ec0-f5aef5706682",
+      "name": "Daniel Frei",
+      "sort_name": "Frei, Daniel",
+      "memberships": [
+        {
+          "person_id": "person/b362a706-7634-47a2-9ec0-f5aef5706682",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "ZH",
+          "start_date": "2018-12-10",
           "legislative_period_id": "term/50"
         }
       ],
@@ -4811,6 +4832,7 @@
           "role": "member",
           "on_behalf_of_id": "2",
           "area_id": "BL",
+          "end_date": "2018-12-07",
           "legislative_period_id": "term/50"
         }
       ]
