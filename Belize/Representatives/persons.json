@@ -108,8 +108,8 @@
       "gender": "male",
       "id": "person/25f3ae7f-99bc-4a28-a4f4-9730b367629a",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/d_barrow.jpg",
-      "name": "Dean Oliver Barrow",
-      "sort_name": "Dean Oliver Barrow",
+      "name": "Dean Barrow",
+      "sort_name": "Dean Barrow",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/d_barrow.jpg"
@@ -133,8 +133,8 @@
       "gender": "male",
       "id": "person/15baf44a-e9cc-48f5-829b-8640b56e892c",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/e_castro.jpg",
-      "name": "Edmond George Castro",
-      "sort_name": "Edmond George Castro",
+      "name": "Edmond Castro",
+      "sort_name": "Edmond Castro",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/e_castro.jpg"
@@ -183,8 +183,8 @@
       "gender": "male",
       "id": "person/bfc707ae-99a1-43f9-bdcb-404738a8dde3",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/e_contreras.jpg",
-      "name": "Erwin Rafael Contreras",
-      "sort_name": "Erwin Rafael Contreras",
+      "name": "Erwin Contreras",
+      "sort_name": "Erwin Contreras",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/e_contreras.jpg"
@@ -208,8 +208,8 @@
       "gender": "male",
       "id": "person/01112d05-5dcc-4718-af1e-18df2c26eb2d",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/f_marin.jpg",
-      "name": "Florencio Julian Marin Jr.",
-      "sort_name": "Florencio Julian Marin Jr.",
+      "name": "Florencio Marin Jr.",
+      "sort_name": "Florencio Marin Jr.",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/f_marin.jpg"
@@ -308,8 +308,8 @@
       "gender": "male",
       "id": "person/06be9eb9-b70a-4032-ad1a-6a37fd32716d",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/hugo_patt.jpg",
-      "name": "Hugo Amilcar Patt",
-      "sort_name": "Hugo Amilcar Patt",
+      "name": "Hugo Patt",
+      "sort_name": "Hugo Patt",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/hugo_patt.jpg"
@@ -322,31 +322,6 @@
           "role": "member",
           "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
           "area_id": "7c8b90e2-2579-4d18-b695-ec01bb4b73d1",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ca0cab2b-9f86-4925-8fb1-de64c9211a33",
-      "image": "http://nationalassembly.gov.bz/images/house_of_rep/j_briceno.jpg",
-      "name": "John Briceño",
-      "sort_name": "John Briceño",
-      "images": [
-        {
-          "url": "http://nationalassembly.gov.bz/images/house_of_rep/j_briceno.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ca0cab2b-9f86-4925-8fb1-de64c9211a33",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "8e327a03-68fd-4ea0-bd59-b59cb05ecfd6",
-          "area_id": "5961f21c-b548-406d-bc35-5252cb9aa5b5",
           "legislative_period_id": "term/10"
         }
       ],
@@ -381,6 +356,31 @@
     },
     {
       "gender": "male",
+      "id": "person/ca0cab2b-9f86-4925-8fb1-de64c9211a33",
+      "image": "http://nationalassembly.gov.bz/images/house_of_rep/j_briceno.jpg",
+      "name": "Johnny Briceño",
+      "sort_name": "Johnny Briceño",
+      "images": [
+        {
+          "url": "http://nationalassembly.gov.bz/images/house_of_rep/j_briceno.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ca0cab2b-9f86-4925-8fb1-de64c9211a33",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "8e327a03-68fd-4ea0-bd59-b59cb05ecfd6",
+          "area_id": "5961f21c-b548-406d-bc35-5252cb9aa5b5",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/1a5f0311-6716-4df2-a593-cc2bf08f4aaf",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/j_mai.jpg",
       "name": "Jose Abelardo Mai",
@@ -397,31 +397,6 @@
           "role": "member",
           "on_behalf_of_id": "8e327a03-68fd-4ea0-bd59-b59cb05ecfd6",
           "area_id": "7d955ab5-3d29-46eb-a77d-c495ecea8b79",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2c7a22cd-7635-4728-9013-8086d7f6d2a3",
-      "image": "http://nationalassembly.gov.bz/images/house_of_rep/m_heredia.jpg",
-      "name": "Jose Manuel Heredia Jr.",
-      "sort_name": "Jose Manuel Heredia Jr.",
-      "images": [
-        {
-          "url": "http://nationalassembly.gov.bz/images/house_of_rep/m_heredia.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2c7a22cd-7635-4728-9013-8086d7f6d2a3",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
-          "area_id": "fd96791b-e16e-4fe2-81b1-9b537e019f44",
           "legislative_period_id": "term/10"
         }
       ],
@@ -480,11 +455,60 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
+      "image": "https://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "name": "Laura Tucker-Longsworth",
+      "sort_name": "Laura Tucker-Longsworth",
+      "images": [
+        {
+          "url": "https://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2c7a22cd-7635-4728-9013-8086d7f6d2a3",
+      "image": "http://nationalassembly.gov.bz/images/house_of_rep/m_heredia.jpg",
+      "name": "Manuel Heredia",
+      "sort_name": "Manuel Heredia",
+      "images": [
+        {
+          "url": "http://nationalassembly.gov.bz/images/house_of_rep/m_heredia.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2c7a22cd-7635-4728-9013-8086d7f6d2a3",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
+          "area_id": "fd96791b-e16e-4fe2-81b1-9b537e019f44",
+          "legislative_period_id": "term/10"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/a84f4c6c-68af-48b9-805f-9b7dddd51f37",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/michael_espat.png.png",
-      "name": "Michael Joseph Espat",
-      "sort_name": "Michael Joseph Espat",
+      "name": "Michael Espat",
+      "sort_name": "Michael Espat",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/michael_espat.png.png"
@@ -508,8 +532,8 @@
       "gender": "male",
       "id": "person/dd2a2e70-f2a1-4e75-9af7-dea88b7a0b4e",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/m_finnegan.jpg",
-      "name": "Michael Kwame Finnegan",
-      "sort_name": "Michael Kwame Finnegan",
+      "name": "Michael Finnegan",
+      "sort_name": "Michael Finnegan",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/m_finnegan.jpg"
@@ -522,30 +546,6 @@
           "role": "member",
           "on_behalf_of_id": "90ee4fde-68d6-4544-bb2a-2a58371b629f",
           "area_id": "4475a89b-ec18-41ea-bbf5-3ebcc32d3bb0",
-          "legislative_period_id": "term/10"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
-      "image": "https://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
-      "name": "Mrs. Laura Tucker-Longsworth",
-      "sort_name": "Mrs. Laura Tucker-Longsworth",
-      "images": [
-        {
-          "url": "https://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/61e8cc3b-8ae0-4c91-b064-0eccd810a4c1",
-          "organization_id": "chamber/house_of_representatives",
-          "role": "member",
-          "on_behalf_of_id": "unknown",
           "legislative_period_id": "term/10"
         }
       ],
@@ -707,8 +707,8 @@
       "gender": "male",
       "id": "person/520ef51f-8186-43f4-83b5-815f49d8be3f",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/rodwell_ferguson.png",
-      "name": "Rodwell Stephen Ferguson Sr.",
-      "sort_name": "Rodwell Stephen Ferguson Sr.",
+      "name": "Rodwell Ferguson",
+      "sort_name": "Rodwell Ferguson",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/rodwell_ferguson.png"
@@ -732,8 +732,8 @@
       "gender": "male",
       "id": "person/bc6383b8-c755-4f1c-b8ea-ace3f1d87994",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/s_musa.jpg",
-      "name": "Said Wilbert Musa",
-      "sort_name": "Said Wilbert Musa",
+      "name": "Said Musa",
+      "sort_name": "Said Musa",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/s_musa.jpg"
@@ -782,8 +782,8 @@
       "gender": "male",
       "id": "person/d7f07d9d-0e37-4b52-8393-12e50819beaf",
       "image": "http://nationalassembly.gov.bz/images/house_of_rep/w_elrington.jpg",
-      "name": "Wilfred Peter Elrington",
-      "sort_name": "Wilfred Peter Elrington",
+      "name": "Wilfred Elrington",
+      "sort_name": "Wilfred Elrington",
       "images": [
         {
           "url": "http://nationalassembly.gov.bz/images/house_of_rep/w_elrington.jpg"
