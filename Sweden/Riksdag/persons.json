@@ -1,7 +1,7 @@
 {
-  "total": 354,
+  "total": 356,
   "page": 1,
-  "per_page": 354,
+  "per_page": 356,
   "has_more": false,
   "result": [
     {
@@ -1397,6 +1397,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "västerbottens_län",
+          "end_date": "2018-11-30",
+          "legislative_period_id": "term/2018"
+        },
+        {
+          "person_id": "person/dde11845-a788-4505-949f-cc6c17100d06",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "västerbottens_län",
+          "start_date": "2019-01-02",
           "end_date": "2022-09-26",
           "legislative_period_id": "term/2018"
         }
@@ -2946,6 +2956,33 @@
           "end_date": "2022-09-26",
           "legislative_period_id": "term/2018"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/7f764f6c-ac6b-4425-ab09-8cd8dcfb97e7",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c56ca975-bfc4-4266-a5bc-53bde1f798d2_max.jpg",
+      "name": "Fredrik Stenberg",
+      "sort_name": "Fredrik",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c56ca975-bfc4-4266-a5bc-53bde1f798d2_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7f764f6c-ac6b-4425-ab09-8cd8dcfb97e7",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "västerbottens_län",
+          "start_date": "2018-12-01",
+          "end_date": "2019-01-01",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -5149,6 +5186,16 @@
           "role": "member",
           "on_behalf_of_id": "S",
           "area_id": "jämtlands_län",
+          "end_date": "2018-12-12",
+          "legislative_period_id": "term/2018"
+        },
+        {
+          "person_id": "person/4553d617-ee37-431e-a538-19b9eb23d631",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "jämtlands_län",
+          "start_date": "2019-01-14",
           "end_date": "2022-09-26",
           "legislative_period_id": "term/2018"
         }
@@ -6516,6 +6563,33 @@
           "on_behalf_of_id": "MP",
           "area_id": "uppsala_län",
           "end_date": "2022-09-26",
+          "legislative_period_id": "term/2018"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/93cb6e02-71d1-475f-86a4-07676bc26205",
+      "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97349353-a71b-4f48-909a-333cf048417f_max.jpg",
+      "name": "Maria Jacobsson",
+      "sort_name": "Maria",
+      "images": [
+        {
+          "url": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97349353-a71b-4f48-909a-333cf048417f_max.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/93cb6e02-71d1-475f-86a4-07676bc26205",
+          "organization_id": "chamber/riksdag",
+          "role": "member",
+          "on_behalf_of_id": "S",
+          "area_id": "jämtlands_län",
+          "start_date": "2018-12-13",
+          "end_date": "2019-01-13",
           "legislative_period_id": "term/2018"
         }
       ],
