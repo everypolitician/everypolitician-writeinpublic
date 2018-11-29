@@ -1282,6 +1282,41 @@
       ]
     },
     {
+      "email": "virginia.andersen@parliament.govt.nz",
+      "gender": "female",
+      "id": "person/d1a73628-4728-435c-a6ae-dad1ff5087d2",
+      "image": "https://www.parliament.nz/media/4438/andersen-virginia.DpjJ8Q.jpg",
+      "name": "Ginny Andersen",
+      "sort_name": "Andersen, Ginny",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ginnyandersen"
+        }
+      ],
+      "links": [
+        {
+          "url": "GinnyAndersenForHuttSouth",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/4438/andersen-virginia.DpjJ8Q.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d1a73628-4728-435c-a6ae-dad1ff5087d2",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "list",
+          "legislative_period_id": "term/52"
+        }
+      ]
+    },
+    {
       "email": "golriz.ghahraman@parliament.govt.nz",
       "gender": "female",
       "id": "person/bb406c56-f998-4738-9ed9-0b19a484b018",
@@ -1638,6 +1673,16 @@
           "role": "member",
           "on_behalf_of_id": "national_party",
           "area_id": "botany",
+          "end_date": "2018-10-16",
+          "legislative_period_id": "term/52"
+        },
+        {
+          "person_id": "person/b95652d2-b776-45c5-9c79-16add328efa5",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "botany",
+          "start_date": "2018-10-16",
           "legislative_period_id": "term/52"
         }
       ]
@@ -4041,41 +4086,6 @@
           "organization_id": "chamber/new_zealand_parliament",
           "role": "member",
           "on_behalf_of_id": "national_party",
-          "area_id": "list",
-          "legislative_period_id": "term/52"
-        }
-      ]
-    },
-    {
-      "email": "virginia.andersen@parliament.govt.nz",
-      "gender": "female",
-      "id": "person/d1a73628-4728-435c-a6ae-dad1ff5087d2",
-      "image": "https://www.parliament.nz/media/4438/andersen-virginia.DpjJ8Q.jpg",
-      "name": "Virginia Andersen",
-      "sort_name": "Andersen, Virginia",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "ginnyandersen"
-        }
-      ],
-      "links": [
-        {
-          "url": "GinnyAndersenForHuttSouth",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.parliament.nz/media/4438/andersen-virginia.DpjJ8Q.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d1a73628-4728-435c-a6ae-dad1ff5087d2",
-          "organization_id": "chamber/new_zealand_parliament",
-          "role": "member",
-          "on_behalf_of_id": "labour",
           "area_id": "list",
           "legislative_period_id": "term/52"
         }
