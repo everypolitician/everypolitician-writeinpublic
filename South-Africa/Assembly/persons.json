@@ -1,7 +1,7 @@
 {
-  "total": 496,
+  "total": 497,
   "page": 1,
-  "per_page": 496,
+  "per_page": 497,
   "has_more": false,
   "result": [
     {
@@ -4558,7 +4558,6 @@
       ]
     },
     {
-      "email": "jvos@parliament.gov.za",
       "gender": "male",
       "id": "person/2672762d-1cb8-4833-82e2-0b16202f1408",
       "image": "https://www.pa.org.za/media_root/cache/95/b6/95b6458ac57e5537c01bb342aa3e980b.jpg",
@@ -4575,6 +4574,7 @@
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "Q761877",
+          "end_date": "2018-11-11",
           "legislative_period_id": "term/26"
         }
       ],
@@ -6402,7 +6402,6 @@
       ]
     },
     {
-      "email": "mmotimele@parliament.gov.za",
       "gender": "male",
       "id": "person/fd4c7b9f-1446-45fe-b3ec-f0be3a54f850",
       "image": "https://www.pa.org.za/media_root/cache/fd/50/fd505b685c0c35d957aa97da691667d1.jpg",
@@ -6420,6 +6419,7 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "area_id": "Q134907",
+          "end_date": "2018-11-30",
           "legislative_period_id": "term/26"
         }
       ],
@@ -7245,12 +7245,12 @@
     {
       "email": "mikeshack.law@gmail.com",
       "id": "person/cf7c52c1-6675-4332-901f-ec72d1237a02",
-      "image": "https://www.pa.org.za/media_root/cache/0e/9e/0e9e430aed5d948d27a8fe4d1844bf44.jpg",
+      "image": "https://www.pa.org.za/media_root/cache/2a/d3/2ad396de8f4a00fb39cc709d563525a5.jpg",
       "name": "Michael Stephen Shackleton",
       "sort_name": "Michael Stephen Shackleton",
       "images": [
         {
-          "url": "https://www.pa.org.za/media_root/cache/0e/9e/0e9e430aed5d948d27a8fe4d1844bf44.jpg"
+          "url": "https://www.pa.org.za/media_root/cache/2a/d3/2ad396de8f4a00fb39cc709d563525a5.jpg"
         }
       ],
       "memberships": [
@@ -11807,6 +11807,30 @@
           "role": "member",
           "on_behalf_of_id": "Q83162",
           "end_date": "2017-03-31",
+          "legislative_period_id": "term/26"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f2a2c83f-2bf6-4636-9589-05ff54c54a45",
+      "image": "https://www.pa.org.za/media_root/cache/f1/95/f1953afe7c972f09647dbef30fed91a3.jpg",
+      "name": "Tito Mboweni",
+      "sort_name": "Tito Mboweni",
+      "images": [
+        {
+          "url": "https://www.pa.org.za/media_root/cache/f1/95/f1953afe7c972f09647dbef30fed91a3.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f2a2c83f-2bf6-4636-9589-05ff54c54a45",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2018-10-09",
           "legislative_period_id": "term/26"
         }
       ],
