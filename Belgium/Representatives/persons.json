@@ -294,6 +294,7 @@
           "organization_id": "chamber/chamber_of_representatives",
           "role": "member",
           "on_behalf_of_id": "7780499e-f191-4206-84ee-1bb573a69aec",
+          "area_id": "8a15807b-8c67-46f4-8589-d5b59c1aa8b7",
           "start_date": "2018-09-20",
           "legislative_period_id": "term/54"
         }
@@ -1151,6 +1152,7 @@
       ]
     },
     {
+      "email": "els.vanhoof@dekamer.be",
       "gender": "female",
       "id": "person/dfc4c345-63ec-4a75-887f-9df133f9b25e",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6852.gif",
@@ -1168,7 +1170,7 @@
           "role": "member",
           "on_behalf_of_id": "2212f944-30f6-47ec-a169-32002c4d3a83",
           "area_id": "1241ba6f-fd42-46c7-accf-e5d48fd8a367",
-          "end_date": "2014-10-14",
+          "start_date": "2014-10-14",
           "legislative_period_id": "term/54"
         }
       ],
@@ -1947,6 +1949,7 @@
       ]
     },
     {
+      "email": "jan.jambon@dekamer.be",
       "gender": "male",
       "id": "person/4cfd354a-a86d-494c-b0ae-55c32aeb4b95",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01238.gif",
@@ -1964,6 +1967,14 @@
         }
       ],
       "memberships": [
+        {
+          "person_id": "person/4cfd354a-a86d-494c-b0ae-55c32aeb4b95",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
+          "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
+          "legislative_period_id": "term/54"
+        },
         {
           "person_id": "person/4cfd354a-a86d-494c-b0ae-55c32aeb4b95",
           "organization_id": "chamber/chamber_of_representatives",
@@ -2167,7 +2178,6 @@
       ]
     },
     {
-      "email": "johan.klaps@dekamer.be",
       "gender": "male",
       "id": "person/e75e0a13-c23b-478e-a69f-9f5856becec6",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6593.gif",
@@ -2186,6 +2196,7 @@
           "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
           "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
           "start_date": "2014-10-14",
+          "end_date": "2018-12-01",
           "legislative_period_id": "term/54"
         }
       ],
@@ -2923,6 +2934,7 @@
           "organization_id": "chamber/chamber_of_representatives",
           "role": "member",
           "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+          "area_id": "ff83572d-6b06-4363-a6c5-e2202b37fe72",
           "start_date": "2018-10-04",
           "legislative_period_id": "term/54"
         }
@@ -3570,7 +3582,6 @@
       ]
     },
     {
-      "email": "renate.hufkens@dekamer.be",
       "gender": "female",
       "id": "person/849c1a51-310f-465f-ba84-4bea681abb34",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/6843.gif",
@@ -3589,6 +3600,7 @@
           "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
           "area_id": "1241ba6f-fd42-46c7-accf-e5d48fd8a367",
           "start_date": "2014-10-14",
+          "end_date": "2018-12-01",
           "legislative_period_id": "term/54"
         }
       ],
@@ -3797,7 +3809,8 @@
           "person_id": "person/1f919880-5e08-4342-867a-bae153e30e50",
           "organization_id": "chamber/chamber_of_representatives",
           "role": "member",
-          "on_behalf_of_id": "unknown",
+          "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
+          "area_id": "286e7423-94a8-486a-b037-d1b00c7d7fbf",
           "start_date": "2018-10-05",
           "legislative_period_id": "term/54"
         }
@@ -4159,6 +4172,7 @@
       ]
     },
     {
+      "email": "theo.francken@dekamer.be",
       "gender": "male",
       "id": "person/d303762e-65f6-4258-98bc-b3c2ad76c562",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/04666.gif",
@@ -4177,6 +4191,15 @@
           "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
           "area_id": "1241ba6f-fd42-46c7-accf-e5d48fd8a367",
           "end_date": "2014-10-14",
+          "legislative_period_id": "term/54"
+        },
+        {
+          "person_id": "person/d303762e-65f6-4258-98bc-b3c2ad76c562",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
+          "area_id": "1241ba6f-fd42-46c7-accf-e5d48fd8a367",
+          "start_date": "2018-12-01",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4499,7 +4522,6 @@
       ]
     },
     {
-      "email": "wim.vanderdonckt@dekamer.be",
       "gender": "male",
       "id": "person/4b408d3f-1c4a-4022-ad18-7641b08fb7ca",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06595.gif",
@@ -4518,6 +4540,7 @@
           "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
           "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
           "start_date": "2017-03-09",
+          "end_date": "2018-12-13",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4690,6 +4713,7 @@
       ]
     },
     {
+      "email": "zuhal.demir@dekamer.be",
       "gender": "female",
       "id": "person/6ba58d06-eafd-41aa-81d7-3413161df9bf",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/06142.gif",
@@ -4706,7 +4730,17 @@
           "organization_id": "chamber/chamber_of_representatives",
           "role": "member",
           "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
+          "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
           "end_date": "2017-03-09",
+          "legislative_period_id": "term/54"
+        },
+        {
+          "person_id": "person/6ba58d06-eafd-41aa-81d7-3413161df9bf",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
+          "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
+          "start_date": "2018-12-13",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4731,6 +4765,7 @@
           "organization_id": "chamber/chamber_of_representatives",
           "role": "member",
           "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+          "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
           "end_date": "2018-05-24",
           "legislative_period_id": "term/54"
         }
