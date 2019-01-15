@@ -878,14 +878,8 @@
     {
       "gender": "male",
       "id": "person/d342dbb3-9e89-4203-810e-5601187dafc8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Carlos_Daniel_Castagneto.png",
       "name": "Carlos Daniel Castagneto",
       "sort_name": "Castagneto, Carlos Daniel",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Carlos_Daniel_Castagneto.png"
-        }
-      ],
       "memberships": [
         {
           "person_id": "person/d342dbb3-9e89-4203-810e-5601187dafc8",
@@ -2071,6 +2065,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Graciela_Camaño_1.jpg",
       "name": "Graciela Camaño",
       "sort_name": "Camaño, Graciela",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gracielacamano"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Graciela_Camaño_1.jpg"
@@ -2085,9 +2085,6 @@
           "area_id": "buenos_aires",
           "legislative_period_id": "term/135"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2985,8 +2982,14 @@
     {
       "gender": "female",
       "id": "person/3dd063ae-7b11-43e1-8093-ae6f7b400bf7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Josefina_Victoria_González.png",
       "name": "Josefina Victoria Gonzalez",
       "sort_name": "Gonzalez, Josefina Victoria",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Josefina_Victoria_González.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/3dd063ae-7b11-43e1-8093-ae6f7b400bf7",
@@ -3351,12 +3354,12 @@
     {
       "gender": "male",
       "id": "person/d5150768-636c-42c0-8207-ac7778702320",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Julio_R_Solanas.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Julio_Rodolfo_Solanas.png",
       "name": "Julio Rodolfo Solanas",
       "sort_name": "Solanas, Julio Rodolfo",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Julio_R_Solanas.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Julio_Rodolfo_Solanas.png"
         }
       ],
       "memberships": [
@@ -4793,12 +4796,12 @@
     {
       "gender": "male",
       "id": "person/b46efa54-5002-4e94-98e2-fdee40997797",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sesión_13-06-2018_Diputado_Maximo_Kirchner.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sesión_13-06-2018_Diputado_Maximo_Kirchner_(cropped).jpg",
       "name": "Maximo Carlos Kirchner",
       "sort_name": "Kirchner, Maximo Carlos",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sesión_13-06-2018_Diputado_Maximo_Kirchner.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sesión_13-06-2018_Diputado_Maximo_Kirchner_(cropped).jpg"
         }
       ],
       "memberships": [
@@ -6403,7 +6406,7 @@
     {
       "gender": "female",
       "id": "person/726caa24-bfbf-4acd-86c7-116da3e1d4dc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Victoria_Donda_02.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Victoria_Analía_Donda_Pérez.png",
       "name": "Victoria Analia Donda Perez",
       "sort_name": "Donda Perez, Victoria Analia",
       "contact_details": [
@@ -6414,7 +6417,7 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Victoria_Donda_02.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Victoria_Analía_Donda_Pérez.png"
         }
       ],
       "memberships": [
