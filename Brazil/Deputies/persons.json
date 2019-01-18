@@ -6841,32 +6841,6 @@
       ]
     },
     {
-      "email": "dep.jhc@camara.leg.br",
-      "gender": "male",
-      "id": "person/563bae0d-46c0-40d8-81df-7103c821bb3e",
-      "image": "http://www.camara.gov.br/internet/deputado/bandep/178842.jpg",
-      "name": "JHC",
-      "sort_name": "JHC",
-      "images": [
-        {
-          "url": "http://www.camara.gov.br/internet/deputado/bandep/178842.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/563bae0d-46c0-40d8-81df-7103c821bb3e",
-          "organization_id": "chamber/chamber_of_deputies",
-          "role": "member",
-          "on_behalf_of_id": "psb",
-          "area_id": "al",
-          "legislative_period_id": "term/55"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "dep.jhonatandejesus@camara.leg.br",
       "gender": "male",
       "id": "person/9b560940-60a7-4b8d-b54d-28b3cf9c4e34",
@@ -7562,6 +7536,38 @@
           "role": "member",
           "on_behalf_of_id": "pmdb",
           "area_id": "pr",
+          "legislative_period_id": "term/55"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "dep.jhc@camara.leg.br",
+      "gender": "male",
+      "id": "person/65c90bcf-1388-4349-a6af-40b0d9a32a77",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/74559.jpg",
+      "name": "JOÃO CALDAS",
+      "sort_name": "JOÃO CALDAS",
+      "links": [
+        {
+          "url": "jhc",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/74559.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/65c90bcf-1388-4349-a6af-40b0d9a32a77",
+          "organization_id": "chamber/chamber_of_deputies",
+          "role": "member",
+          "on_behalf_of_id": "psb",
+          "area_id": "al",
           "legislative_period_id": "term/55"
         }
       ],
