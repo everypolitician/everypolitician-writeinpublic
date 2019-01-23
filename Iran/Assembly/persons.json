@@ -338,6 +338,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/83ab601c-2e64-498f-8983-38e9d7f861c3",
       "name": "اسدالله عباسی",
       "sort_name": "اسدالله عباسی",
@@ -465,9 +466,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/85547f81-a569-4958-9a29-ea3c2dc1b525",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Elias_Hazrati.jpg",
       "name": "الیاس حضرتی",
       "sort_name": "الیاس حضرتی",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Elias_Hazrati.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/85547f81-a569-4958-9a29-ea3c2dc1b525",
@@ -558,6 +566,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/74800e68-a144-4345-9fd8-93be975643ed",
       "name": "بهرام پارسایی",
       "sort_name": "بهرام پارسایی",
@@ -2348,6 +2357,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/d187838a-0d12-41f4-96aa-604ac34de41c",
       "name": "عبدالغفور ایران‌نژاد",
       "sort_name": "عبدالغفور ایران‌نژاد",
@@ -2777,8 +2787,14 @@
       "email": "info@drmonadi.ir",
       "gender": "male",
       "id": "person/e94164ca-f2b7-4722-b7f7-9d4a4de31f32",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alireza_Monadi.jpg",
       "name": "علی رضا منادی سفیدان",
       "sort_name": "علی رضا منادی سفیدان",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alireza_Monadi.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e94164ca-f2b7-4722-b7f7-9d4a4de31f32",
@@ -2893,6 +2909,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ali_Motahari_01.jpg",
       "name": "علی مطهری",
       "sort_name": "علی مطهری",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "alimotahari_ir"
+        }
+      ],
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ali_Motahari_01.jpg"
@@ -2907,9 +2929,6 @@
           "area_id": "تهران،_ری،_شمیرانات،_اسلامشهر_و_پردیس",
           "legislative_period_id": "term/10"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4703,9 +4722,16 @@
     },
     {
       "email": "kawakebyan@yahoo.com",
+      "gender": "male",
       "id": "person/046b1a07-4278-4660-a0f0-b14f81122f18",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mostafa_Kavakebian_registering_at_the_2017_Iranian_presidential_election.jpg",
       "name": "مصطفی کواکبیان",
       "sort_name": "مصطفی کواکبیان",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mostafa_Kavakebian_registering_at_the_2017_Iranian_presidential_election.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/046b1a07-4278-4660-a0f0-b14f81122f18",
@@ -4983,6 +5009,7 @@
     },
     {
       "email": "h.chenarani1@gmail.com",
+      "gender": "female",
       "id": "person/efc34f14-0384-4ca5-8e35-c4500f100b58",
       "name": "هاجر چنارانی",
       "sort_name": "هاجر چنارانی",
