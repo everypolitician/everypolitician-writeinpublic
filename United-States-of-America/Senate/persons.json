@@ -1,44 +1,9 @@
 {
-  "total": 105,
+  "total": 100,
   "page": 1,
-  "per_page": 105,
+  "per_page": 100,
   "has_more": false,
   "result": [
-    {
-      "gender": "male",
-      "id": "person/87d22fc4-d899-4b36-94ae-a39ab26659e2",
-      "image": "https://theunitedstates.io/images/congress/original/F000457.jpg",
-      "name": "Al Franken",
-      "sort_name": "Franken, Alan",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenFranken"
-        }
-      ],
-      "links": [
-        {
-          "url": "senatoralfranken",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/F000457.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/87d22fc4-d899-4b36-94ae-a39ab26659e2",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "democrat",
-          "area_id": "ocd-division/country:us/state:mn",
-          "end_date": "2018-01-02",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
     {
       "gender": "female",
       "id": "person/3a693497-a392-4364-9a2f-2a2baf5dbb5c",
@@ -63,7 +28,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mn",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -97,7 +62,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "ocd-division/country:us/state:me",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -131,7 +96,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ne",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -165,7 +130,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:md",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -199,7 +164,7 @@
           "role": "member",
           "on_behalf_of_id": "independent",
           "area_id": "ocd-division/country:us/state:vt",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -227,69 +192,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:la",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/460e722d-e6bd-4a1f-8fbe-aef53ab0145a",
-      "image": "https://theunitedstates.io/images/congress/original/N000032.jpg",
-      "name": "Bill Nelson",
-      "sort_name": "Nelson, Bill",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenBillNelson"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/N000032.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/460e722d-e6bd-4a1f-8fbe-aef53ab0145a",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "democrat",
-          "area_id": "ocd-division/country:us/state:fl",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e4a39b45-1d1a-479d-ae89-4c81a7fb160b",
-      "image": "https://theunitedstates.io/images/congress/original/C001071.jpg",
-      "name": "Bob Corker",
-      "sort_name": "Corker, Bob",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenBobCorker"
-        }
-      ],
-      "links": [
-        {
-          "url": "bobcorker",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/C001071.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e4a39b45-1d1a-479d-ae89-4c81a7fb160b",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:tn",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -323,7 +226,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:hi",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -357,7 +260,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nv",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -391,7 +294,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ny",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -425,7 +328,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:md",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -459,7 +362,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:de",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -493,7 +396,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ct",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -527,7 +430,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ia",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -555,42 +458,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ms",
-          "start_date": "2018-11-28",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/d6f0d765-97ae-460c-b186-dbc6ab976d25",
-      "image": "https://theunitedstates.io/images/congress/original/M001170.jpg",
-      "name": "Claire McCaskill",
-      "sort_name": "McCaskill, Claire",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "McCaskillOffice"
-        }
-      ],
-      "links": [
-        {
-          "url": "senatormccaskill",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/M001170.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d6f0d765-97ae-460c-b186-dbc6ab976d25",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "democrat",
-          "area_id": "ocd-division/country:us/state:mo",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -618,7 +486,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nj",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -652,7 +520,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:co",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -686,7 +554,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ak",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -720,41 +588,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ga",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/c4a8103b-8a28-4772-80cd-1d6f3ac97b56",
-      "image": "https://theunitedstates.io/images/congress/original/H001041.jpg",
-      "name": "Dean Heller",
-      "sort_name": "Heller, Dean",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenDeanHeller"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenDeanHeller",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/H001041.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c4a8103b-8a28-4772-80cd-1d6f3ac97b56",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:nv",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -788,7 +622,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ne",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -822,7 +656,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mi",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -856,7 +690,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ca",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -890,8 +724,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:al",
-          "start_date": "2018-01-03",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -925,7 +758,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ma",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -959,7 +792,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ma",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -993,41 +826,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mi",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/840fdec6-c724-4de4-b6d9-67ed14308808",
-      "image": "https://theunitedstates.io/images/congress/original/H001069.jpg",
-      "name": "Heidi Heitkamp",
-      "sort_name": "Heitkamp, Heidi",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenatorHeitkamp"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenatorHeidiHeitkamp",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/H001069.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/840fdec6-c724-4de4-b6d9-67ed14308808",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "democrat",
-          "area_id": "ocd-division/country:us/state:nd",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1061,7 +860,41 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ri",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/b636e39c-dbce-42f8-9c55-b41be0cfb339",
+      "image": "https://theunitedstates.io/images/congress/original/R000608.jpg",
+      "name": "Jacky Rosen",
+      "sort_name": "Rosen, Jacky",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "repjackyrosen"
+        }
+      ],
+      "links": [
+        {
+          "url": "RepJackyRosen",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/R000608.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b636e39c-dbce-42f8-9c55-b41be0cfb339",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:nv",
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1095,7 +928,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:id",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1129,7 +962,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ok",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1163,7 +996,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ok",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1197,41 +1030,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nh",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a5f33bdc-7084-465f-a891-607b7d810486",
-      "image": "https://theunitedstates.io/images/congress/original/F000444.jpg",
-      "name": "Jeff Flake",
-      "sort_name": "Flake, Jeff",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "JeffFlake"
-        }
-      ],
-      "links": [
-        {
-          "url": "senatorjeffflake",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/F000444.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a5f33bdc-7084-465f-a891-607b7d810486",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:az",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1265,42 +1064,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:or",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2fdbbff7-046c-43b5-9cfc-801f15a3b8bf",
-      "image": "https://theunitedstates.io/images/congress/original/S001141.jpg",
-      "name": "Jeff Sessions",
-      "sort_name": "Sessions, Jefferson",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenatorSessions"
-        }
-      ],
-      "links": [
-        {
-          "url": "jeffsessions",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/S001141.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2fdbbff7-046c-43b5-9cfc-801f15a3b8bf",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:al",
-          "end_date": "2017-02-08",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1334,41 +1098,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ks",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b7e8d905-4681-450a-b129-dc1e79ab0338",
-      "image": "https://theunitedstates.io/images/congress/original/D000607.jpg",
-      "name": "Joe Donnelly",
-      "sort_name": "Donnelly, Joe",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenDonnelly"
-        }
-      ],
-      "links": [
-        {
-          "url": "senatordonnelly",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/D000607.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b7e8d905-4681-450a-b129-dc1e79ab0338",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "democrat",
-          "area_id": "ocd-division/country:us/state:in",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1402,7 +1132,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:wv",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1436,7 +1166,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:wy",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1470,7 +1200,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ar",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1504,7 +1234,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:tx",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1538,7 +1268,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:nd",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1572,42 +1302,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:la",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/96324d91-c6e4-401a-b43e-a526dabe40a8",
-      "image": "https://theunitedstates.io/images/congress/original/M000303.jpg",
-      "name": "John McCain",
-      "sort_name": "McCain, John",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenJohnMcCain"
-        }
-      ],
-      "links": [
-        {
-          "url": "johnmccain",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/M000303.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/96324d91-c6e4-401a-b43e-a526dabe40a8",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:az",
-          "end_date": "2018-08-25",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1641,7 +1336,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:sd",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1669,35 +1364,8 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ga",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5ca3f081-5699-4827-bc3a-a74e02d0cea0",
-      "image": "https://theunitedstates.io/images/congress/original/K000352.jpg",
-      "name": "Jon Kyl",
-      "sort_name": "Kyl, Jon",
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/K000352.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5ca3f081-5699-4827-bc3a-a74e02d0cea0",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:az",
-          "start_date": "2018-09-05",
-          "end_date": "2018-12-31",
-          "legislative_period_id": "term/115"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1730,7 +1398,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mt",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1764,8 +1432,33 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ia",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/a5fda60b-bebf-472e-87ec-d0436c17ee92",
+      "image": "https://theunitedstates.io/images/congress/original/H001089.jpg",
+      "name": "Josh Hawley",
+      "sort_name": "Hawley, Joshua",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/H001089.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a5fda60b-bebf-472e-87ec-d0436c17ee92",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:mo",
+          "legislative_period_id": "term/116"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1798,7 +1491,41 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ca",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2acc2681-1144-4add-b16b-4fa3adcd2b06",
+      "image": "https://theunitedstates.io/images/congress/original/C001096.jpg",
+      "name": "Kevin Cramer",
+      "sort_name": "Cramer, Kevin",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RepKevinCramer"
+        }
+      ],
+      "links": [
+        {
+          "url": "CongressmanKevinCramer",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/C001096.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2acc2681-1144-4add-b16b-4fa3adcd2b06",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:nd",
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1832,7 +1559,41 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ny",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/6b22c847-6945-492c-b4c2-78a81bab85a8",
+      "image": "https://theunitedstates.io/images/congress/original/S001191.jpg",
+      "name": "Kyrsten Sinema",
+      "sort_name": "Sinema, Kyrsten",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RepSinema"
+        }
+      ],
+      "links": [
+        {
+          "url": "CongresswomanSinema",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001191.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6b22c847-6945-492c-b4c2-78a81bab85a8",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "ocd-division/country:us/state:az",
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1866,7 +1627,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:tn",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1900,7 +1661,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:sc",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -1934,43 +1695,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ak",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/acca6a8f-3f84-46b1-b7e1-5bf198126614",
-      "image": "https://theunitedstates.io/images/congress/original/S001202.jpg",
-      "name": "Luther Strange",
-      "sort_name": "Strange, Luther",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenatorStrange"
-        }
-      ],
-      "links": [
-        {
-          "url": "SenatorLutherStrange",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/S001202.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/acca6a8f-3f84-46b1-b7e1-5bf198126614",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:al",
-          "start_date": "2017-02-09",
-          "end_date": "2018-01-03",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2004,7 +1729,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:fl",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2038,7 +1763,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nh",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2072,7 +1797,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:wa",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2106,7 +1831,75 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:va",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/db2a22d7-b15f-4550-ae21-6ee275c6cf7b",
+      "image": "https://theunitedstates.io/images/congress/original/B001243.jpg",
+      "name": "Marsha Blackburn",
+      "sort_name": "Blackburn, Marsha",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarshaBlackburn"
+        }
+      ],
+      "links": [
+        {
+          "url": "marshablackburn",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/B001243.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/db2a22d7-b15f-4550-ae21-6ee275c6cf7b",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:tn",
+          "legislative_period_id": "term/116"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/160e0de5-98bd-40df-b107-6a9e8af9cfef",
+      "image": "https://theunitedstates.io/images/congress/original/M001197.jpg",
+      "name": "Martha McSally",
+      "sort_name": "McSally, Martha",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RepMcSally"
+        }
+      ],
+      "links": [
+        {
+          "url": "RepMcSally",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/M001197.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/160e0de5-98bd-40df-b107-6a9e8af9cfef",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:az",
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2140,7 +1933,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nm",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2174,7 +1967,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:hi",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2208,7 +2001,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:wy",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2242,8 +2035,33 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:co",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/d2da7a93-33b5-4bce-812e-4802c16387cc",
+      "image": "https://theunitedstates.io/images/congress/original/B001310.jpg",
+      "name": "Mike Braun",
+      "sort_name": "Braun, Mike",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/B001310.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d2da7a93-33b5-4bce-812e-4802c16387cc",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:in",
+          "legislative_period_id": "term/116"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2276,7 +2094,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:id",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2310,7 +2128,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ut",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2344,7 +2162,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:sd",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2378,42 +2196,33 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ky",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
     {
       "gender": "male",
-      "id": "person/2ca9f594-5208-497b-99f4-a9d94e15086a",
-      "image": "https://theunitedstates.io/images/congress/original/H000338.jpg",
-      "name": "Orrin G. Hatch",
-      "sort_name": "Hatch, Orrin",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenOrrinHatch"
-        }
-      ],
-      "links": [
-        {
-          "url": "senatororrinhatch",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/ab212a84-2efe-46e4-949c-519e2a650dd6",
+      "image": "https://theunitedstates.io/images/congress/original/R000615.jpg",
+      "name": "Mitt Romney",
+      "sort_name": "Romney, Mitt",
       "images": [
         {
-          "url": "https://theunitedstates.io/images/congress/original/H000338.jpg"
+          "url": "https://theunitedstates.io/images/congress/original/R000615.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2ca9f594-5208-497b-99f4-a9d94e15086a",
+          "person_id": "person/ab212a84-2efe-46e4-949c-519e2a650dd6",
           "organization_id": "chamber/senate",
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ut",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2446,7 +2255,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ks",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2480,7 +2289,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:vt",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2514,7 +2323,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:pa",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2542,7 +2351,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:wa",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2576,7 +2385,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ky",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2610,7 +2419,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ct",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2644,7 +2453,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:nc",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2678,7 +2487,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:al",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2712,8 +2521,34 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:il",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/44f57e43-db90-4525-bab0-9d5c438f8170",
+      "image": "https://theunitedstates.io/images/congress/original/S001217.jpg",
+      "name": "Rick Scott",
+      "sort_name": "Scott, Rick",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001217.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/44f57e43-db90-4525-bab0-9d5c438f8170",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "ocd-division/country:us/state:fl",
+          "start_date": "2019-01-08",
+          "legislative_period_id": "term/116"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2746,7 +2581,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:oh",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2780,7 +2615,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nj",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2814,7 +2649,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:pa",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2848,7 +2683,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ms",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2882,7 +2717,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:wi",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2910,7 +2745,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:or",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2944,7 +2779,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:mo",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -2978,7 +2813,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:ri",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3012,7 +2847,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:wv",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3046,7 +2881,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:oh",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3080,7 +2915,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:mt",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3114,7 +2949,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:me",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3148,7 +2983,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:wi",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3182,7 +3017,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:il",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3216,36 +3051,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:tx",
-          "legislative_period_id": "term/115"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/c3467b48-1f1b-4d79-8af6-e903641e897a",
-      "image": "https://theunitedstates.io/images/congress/original/C000567.jpg",
-      "name": "Thad Cochran",
-      "sort_name": "Cochran, Thad",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "SenThadCochran"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://theunitedstates.io/images/congress/original/C000567.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c3467b48-1f1b-4d79-8af6-e903641e897a",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "republican",
-          "area_id": "ocd-division/country:us/state:ms",
-          "end_date": "2018-04-01",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3279,7 +3085,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:nc",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3313,7 +3119,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:de",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3347,7 +3153,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:va",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3381,7 +3187,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:sc",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3415,8 +3221,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:mn",
-          "start_date": "2018-11-07",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3450,7 +3255,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:in",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3484,7 +3289,7 @@
           "role": "member",
           "on_behalf_of_id": "republican",
           "area_id": "ocd-division/country:us/state:ar",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     },
@@ -3518,7 +3323,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "ocd-division/country:us/state:nm",
-          "legislative_period_id": "term/115"
+          "legislative_period_id": "term/116"
         }
       ]
     }
