@@ -1,7 +1,7 @@
 {
-  "total": 451,
+  "total": 456,
   "page": 1,
-  "per_page": 451,
+  "per_page": 456,
   "has_more": false,
   "result": [
     {
@@ -1697,6 +1697,32 @@
           "area_id": "IL-10",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/08929cdc-d115-4fac-9556-6de049b1086a",
+      "image": "https://theunitedstates.io/images/congress/original/J000303.jpg",
+      "name": "Brenda Jones",
+      "sort_name": "Jones, Brenda",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/J000303.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/08929cdc-d115-4fac-9556-6de049b1086a",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "MI-13",
+          "start_date": "2018-11-29",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -7736,6 +7762,32 @@
     },
     {
       "gender": "male",
+      "id": "person/d65f68c9-9d2e-4f9b-8f1e-5d5d0f307700",
+      "image": "https://theunitedstates.io/images/congress/original/M001206.jpg",
+      "name": "Joseph D. Morelle",
+      "sort_name": "Morelle, Joseph",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/M001206.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d65f68c9-9d2e-4f9b-8f1e-5d5d0f307700",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "NY-25",
+          "start_date": "2018-11-13",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/312fe932-1710-45a2-aadd-454e9e39c6f0",
       "image": "https://theunitedstates.io/images/congress/original/K000379.jpg",
       "name": "Joseph P. Kennedy III",
@@ -8478,6 +8530,32 @@
           "area_id": "ND-0",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/2f0ab88b-a2ef-43af-8098-e3d24c30dd3d",
+      "image": "https://theunitedstates.io/images/congress/original/H001082.jpg",
+      "name": "Kevin Hern",
+      "sort_name": "Hern, Kevin",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/H001082.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/2f0ab88b-a2ef-43af-8098-e3d24c30dd3d",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "republican",
+          "area_id": "OK-1",
+          "start_date": "2018-11-13",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -9800,6 +9878,32 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/70d4cdec-1aee-4ed7-8a45-0879f6a837b9",
+      "image": "https://theunitedstates.io/images/congress/original/S001205.jpg",
+      "name": "Mary Gay Scanlon",
+      "sort_name": "Scanlon, Mary",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001205.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/70d4cdec-1aee-4ed7-8a45-0879f6a837b9",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "PA-7",
+          "start_date": "2018-11-13",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/3c7adc88-eaeb-4893-927a-e4bb86df851d",
       "image": "https://theunitedstates.io/images/congress/original/C001090.jpg",
@@ -9975,6 +10079,12 @@
       "image": "https://theunitedstates.io/images/congress/original/C001115.jpg",
       "name": "Michael Cloud",
       "sort_name": "Cloud, Michael",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "michaeljcloud"
+        }
+      ],
       "images": [
         {
           "url": "https://theunitedstates.io/images/congress/original/C001115.jpg"
@@ -9990,9 +10100,6 @@
           "start_date": "2018-07-10",
           "legislative_period_id": "term/115"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -10195,6 +10302,7 @@
           "role": "member",
           "on_behalf_of_id": "democrat",
           "area_id": "NM-1",
+          "end_date": "2018-12-31",
           "legislative_period_id": "term/115"
         }
       ]
@@ -13707,6 +13815,32 @@
           "area_id": "IN-5",
           "legislative_period_id": "term/115"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/d0b82fcb-3ddd-4d59-bc3d-5e355ed8b46d",
+      "image": "https://theunitedstates.io/images/congress/original/W000826.jpg",
+      "name": "Susan Wild",
+      "sort_name": "Wild, Susan",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/W000826.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d0b82fcb-3ddd-4d59-bc3d-5e355ed8b46d",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "democrat",
+          "area_id": "PA-15",
+          "start_date": "2018-11-27",
+          "legislative_period_id": "term/115"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
