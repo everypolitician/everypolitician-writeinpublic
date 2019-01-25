@@ -1,7 +1,7 @@
 {
-  "total": 222,
+  "total": 225,
   "page": 1,
-  "per_page": 222,
+  "per_page": 225,
   "has_more": false,
   "result": [
     {
@@ -3820,6 +3820,26 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/aedac842-deae-4573-93fa-e37efd2b8ade",
+      "name": "Mike Egger",
+      "sort_name": "Egger, Mike",
+      "memberships": [
+        {
+          "person_id": "person/aedac842-deae-4573-93fa-e37efd2b8ade",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "4",
+          "area_id": "SG",
+          "start_date": "2019-03-04",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/159c9a13-20ea-4ca9-890a-cc7c4df44051",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Min_Li_Marti_parlament_3084.jpg",
@@ -4106,6 +4126,26 @@
           "on_behalf_of_id": "3",
           "area_id": "ZH",
           "start_date": "2018-06-11",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/e0f39484-6f85-4c93-81ae-54917469ffc3",
+      "name": "Philipp Matthias Bregy",
+      "sort_name": "Bregy, Philipp Matthias",
+      "memberships": [
+        {
+          "person_id": "person/e0f39484-6f85-4c93-81ae-54917469ffc3",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "3",
+          "area_id": "VS",
+          "start_date": "2019-03-04",
           "legislative_period_id": "term/50"
         }
       ],
@@ -4625,6 +4665,26 @@
           "role": "member",
           "on_behalf_of_id": "3",
           "area_id": "AG",
+          "legislative_period_id": "term/50"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/2122238d-1ee4-4325-b4f6-f2d4001e1a9a",
+      "name": "Samira Marti",
+      "sort_name": "Marti, Samira",
+      "memberships": [
+        {
+          "person_id": "person/2122238d-1ee4-4325-b4f6-f2d4001e1a9a",
+          "organization_id": "chamber/national_council",
+          "role": "member",
+          "on_behalf_of_id": "2",
+          "area_id": "BL",
+          "start_date": "2018-12-10",
           "legislative_period_id": "term/50"
         }
       ],
@@ -5202,6 +5262,7 @@
           "role": "member",
           "on_behalf_of_id": "4",
           "area_id": "SG",
+          "end_date": "2018-12-31",
           "legislative_period_id": "term/50"
         }
       ]
@@ -5355,6 +5416,7 @@
           "role": "member",
           "on_behalf_of_id": "3",
           "area_id": "VS",
+          "end_date": "2018-12-31",
           "legislative_period_id": "term/50"
         }
       ]
