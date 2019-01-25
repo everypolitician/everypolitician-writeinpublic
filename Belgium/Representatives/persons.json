@@ -1,7 +1,7 @@
 {
-  "total": 178,
+  "total": 180,
   "page": 1,
-  "per_page": 178,
+  "per_page": 180,
   "has_more": false,
   "result": [
     {
@@ -422,7 +422,6 @@
       ]
     },
     {
-      "email": "benoit.hellings@lachambre.be",
       "gender": "male",
       "id": "person/1e36c1ae-388e-443f-801a-19f5eebb1af5",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01303.gif",
@@ -452,6 +451,7 @@
           "role": "member",
           "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
           "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
+          "end_date": "2018-11-28",
           "legislative_period_id": "term/54"
         }
       ]
@@ -3743,7 +3743,6 @@
       ]
     },
     {
-      "email": "sabien.battheu@dekamer.be",
       "gender": "female",
       "id": "person/c28823e2-0a8e-43ce-a11b-a35f678a03f5",
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01032.gif",
@@ -3761,6 +3760,33 @@
           "role": "member",
           "on_behalf_of_id": "4cec1dec-a4a5-42d6-a070-622c6e835670",
           "area_id": "932cbc86-a3b7-4574-bfbe-808a99a9aa1b",
+          "end_date": "2018-12-05",
+          "legislative_period_id": "term/54"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/1fc021ac-e85d-45c5-944e-ee5c8e982fb3",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/06777.gif",
+      "name": "Sandrine De Crom",
+      "sort_name": "De Crom Sandrine",
+      "images": [
+        {
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/06777.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1fc021ac-e85d-45c5-944e-ee5c8e982fb3",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "4cec1dec-a4a5-42d6-a070-622c6e835670",
+          "area_id": "932cbc86-a3b7-4574-bfbe-808a99a9aa1b",
+          "start_date": "2018-12-06",
           "legislative_period_id": "term/54"
         }
       ],
@@ -4470,6 +4496,35 @@
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/1ca155e3-37b8-45ca-b9f8-515d63f725e6",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/06639.gif",
+      "name": "Véronique Waterschoot",
+      "sort_name": "Waterschoot Véronique",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "VeroWaterschoot"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/06639.gif"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1ca155e3-37b8-45ca-b9f8-515d63f725e6",
+          "organization_id": "chamber/chamber_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
+          "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
+          "start_date": "2018-12-06",
+          "legislative_period_id": "term/54"
+        }
       ]
     },
     {
