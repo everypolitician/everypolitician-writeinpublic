@@ -1,7 +1,7 @@
 {
-  "total": 466,
+  "total": 467,
   "page": 1,
-  "per_page": 466,
+  "per_page": 467,
   "has_more": false,
   "result": [
     {
@@ -561,31 +561,6 @@
           "end_date": "2014-12-02",
           "legislative_period_id": "term/8"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/4e8958dc-389d-4bc8-8763-d64492c8b685",
-      "image": "http://static.rada.gov.ua/dep_img8/bp44.jpg",
-      "name": "Агафонова Наталія Володимирівна",
-      "sort_name": "Агафонова Наталія Володимирівна",
-      "images": [
-        {
-          "url": "http://static.rada.gov.ua/dep_img8/bp44.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4e8958dc-389d-4bc8-8763-d64492c8b685",
-          "organization_id": "chamber/verkhovna_rada",
-          "role": "member",
-          "on_behalf_of_id": "2613",
-          "area_id": "Загальнодержавному_багатомандатному_округу",
-          "legislative_period_id": "term/8"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -5442,6 +5417,31 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/4e8958dc-389d-4bc8-8763-d64492c8b685",
+      "image": "http://static.rada.gov.ua/dep_img8/bp44.jpg",
+      "name": "Ковальчук Наталія Володимирівна",
+      "sort_name": "Ковальчук Наталія Володимирівна",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp44.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4e8958dc-389d-4bc8-8763-d64492c8b685",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2613",
+          "area_id": "Загальнодержавному_багатомандатному_округу",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/a8f7005f-a3ff-4144-941d-40762c967e22",
       "image": "http://static.rada.gov.ua/dep_img8/d209_1.jpg",
@@ -6468,6 +6468,32 @@
           "role": "member",
           "on_behalf_of_id": "2615",
           "area_id": "Загальнодержавному_багатомандатному_округу",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/27c6a3fb-c940-4f71-9665-38e51872fc4e",
+      "image": "http://static.rada.gov.ua/dep_img8/bp86.jpg",
+      "name": "Куренной Володимир Костянтинович",
+      "sort_name": "Куренной Володимир Костянтинович",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp86.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/27c6a3fb-c940-4f71-9665-38e51872fc4e",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "2613",
+          "area_id": "Загальнодержавному_багатомандатному_округу",
+          "start_date": "2018-12-04",
           "legislative_period_id": "term/8"
         }
       ],
@@ -12051,6 +12077,16 @@
           "role": "member",
           "on_behalf_of_id": "2612",
           "area_id": "88",
+          "end_date": "2019-01-17",
+          "legislative_period_id": "term/8"
+        },
+        {
+          "person_id": "person/512029e1-fd00-4aaf-9c10-314b86c4bfdf",
+          "organization_id": "chamber/verkhovna_rada",
+          "role": "member",
+          "on_behalf_of_id": "Позафракційні",
+          "area_id": "88",
+          "start_date": "2019-01-18",
           "legislative_period_id": "term/8"
         }
       ],
@@ -12472,6 +12508,7 @@
           "role": "member",
           "on_behalf_of_id": "2613",
           "area_id": "Загальнодержавному_багатомандатному_округу",
+          "end_date": "2018-11-22",
           "legislative_period_id": "term/8"
         }
       ],
