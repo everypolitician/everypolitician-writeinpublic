@@ -1,7 +1,7 @@
 {
-  "total": 61,
+  "total": 62,
   "page": 1,
-  "per_page": 61,
+  "per_page": 62,
   "has_more": false,
   "result": [
     {
@@ -1262,6 +1262,30 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "civico_10",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/329cd93c-0713-430f-8ea2-37f9dfc1ea69",
+      "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17001214_17000062_PSD_17.jpg",
+      "name": "Simone Celli",
+      "sort_name": "Celli, Simone",
+      "images": [
+        {
+          "url": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17001214_17000062_PSD_17.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/329cd93c-0713-430f-8ea2-37f9dfc1ea69",
+          "organization_id": "chamber/grand_and_general_council",
+          "role": "member",
+          "on_behalf_of_id": "sinistra_socialista_democratica",
           "legislative_period_id": "term/2016"
         }
       ],
