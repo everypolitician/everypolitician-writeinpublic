@@ -1844,12 +1844,12 @@
       "email": "Marty.Klyne@sen.parl.gc.ca",
       "gender": "male",
       "id": "person/af3597cc-6600-45aa-b072-eac599b8cf36",
-      "image": "https://sencanada.ca/media/362821/sen_large.jpg",
+      "image": "https://sencanada.ca/media/362821/sen_217413_large.jpg",
       "name": "Marty Klyne",
       "sort_name": "Klyne, Marty",
       "images": [
         {
-          "url": "https://sencanada.ca/media/362821/sen_large.jpg"
+          "url": "https://sencanada.ca/media/362821/sen_217413_large.jpg"
         }
       ],
       "memberships": [
@@ -2258,6 +2258,32 @@
       ]
     },
     {
+      "email": "Pat.Duncan@sen.parl.gc.ca",
+      "gender": "female",
+      "id": "person/9eb76731-4482-4c1a-a957-39fa5cdd8018",
+      "image": "https://sencanada.ca/media/363761/sen_large.jpg",
+      "name": "Pat Duncan",
+      "sort_name": "Duncan, Pat",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363761/sen_large.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9eb76731-4482-4c1a-a957-39fa5cdd8018",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+          "area_id": "yukon_(yukon)",
+          "legislative_period_id": "term/42"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "Patricia.Bovey@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/61bb0cd4-0b99-44bd-84ec-5e05e416d2c0",
@@ -2276,32 +2302,6 @@
           "role": "member",
           "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
           "area_id": "manitoba_(manitoba)",
-          "legislative_period_id": "term/42"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "Pat.Duncan@sen.parl.gc.ca",
-      "gender": "female",
-      "id": "person/9eb76731-4482-4c1a-a957-39fa5cdd8018",
-      "image": "https://sencanada.ca/media/363761/sen_large.jpg",
-      "name": "Patricia Jane Duncan",
-      "sort_name": "Duncan, Patricia Jane",
-      "images": [
-        {
-          "url": "https://sencanada.ca/media/363761/sen_large.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9eb76731-4482-4c1a-a957-39fa5cdd8018",
-          "organization_id": "chamber/senate",
-          "role": "member",
-          "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
-          "area_id": "yukon_(yukon)",
           "legislative_period_id": "term/42"
         }
       ],
@@ -2426,12 +2426,24 @@
       "email": "Paula.Simons@sen.parl.gc.ca",
       "gender": "female",
       "id": "person/b32cd745-a24c-4817-af74-b488ebd3eadf",
-      "image": "https://sencanada.ca/media/362976/sen_217516_large.jpg",
+      "image": "https://sencanada.ca/media/362976/sen_217516_large-2018-2.jpg",
       "name": "Paula Simons",
       "sort_name": "Simons, Paula",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Paulatics"
+        }
+      ],
+      "links": [
+        {
+          "url": "SenatorPaulaSimons",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
-          "url": "https://sencanada.ca/media/362976/sen_217516_large.jpg"
+          "url": "https://sencanada.ca/media/362976/sen_217516_large-2018-2.jpg"
         }
       ],
       "memberships": [
@@ -2443,9 +2455,6 @@
           "area_id": "alberta_(alberta)",
           "legislative_period_id": "term/42"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
