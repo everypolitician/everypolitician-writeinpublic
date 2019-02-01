@@ -1,7 +1,7 @@
 {
-  "total": 74,
+  "total": 75,
   "page": 1,
-  "per_page": 74,
+  "per_page": 75,
   "has_more": false,
   "result": [
     {
@@ -269,6 +269,32 @@
           "role": "member",
           "on_behalf_of_id": "democratic_alliance_for_the_betterment_and_progress_of_hong_kong",
           "area_id": "new_territories_west",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "info@yansoffice.com",
+      "gender": "female",
+      "id": "person/0c4b7bfa-39a2-4125-b394-fa70a9d921d4",
+      "image": "https://www.legco.gov.hk/images/mem_1620/chy.jpg",
+      "name": "CHAN Hoi-yan",
+      "sort_name": "CHAN Hoi-yan",
+      "images": [
+        {
+          "url": "https://www.legco.gov.hk/images/mem_1620/chy.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0c4b7bfa-39a2-4125-b394-fa70a9d921d4",
+          "organization_id": "chamber/legislative_council",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "kowloon_west",
           "legislative_period_id": "term/6"
         }
       ],
@@ -919,7 +945,7 @@
           "person_id": "person/66d7d8b8-661b-45b6-bb26-4221b8b0a608",
           "organization_id": "chamber/legislative_council",
           "role": "member",
-          "on_behalf_of_id": "independent",
+          "on_behalf_of_id": "business_and_professionals_alliance_for_hong_kong",
           "area_id": "industrial_(second)",
           "legislative_period_id": "term/6"
         }
