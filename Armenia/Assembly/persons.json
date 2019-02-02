@@ -1,9 +1,32 @@
 {
-  "total": 105,
+  "total": 132,
   "page": 1,
-  "per_page": 105,
+  "per_page": 132,
   "has_more": false,
   "result": [
+    {
+      "id": "person/7c0c8dab-397b-4d66-91c6-247a90814cb2",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1367",
+      "name": "Aleksey Sandikov",
+      "sort_name": "Aleksey Sandikov",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1367"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/7c0c8dab-397b-4d66-91c6-247a90814cb2",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
     {
       "gender": "male",
       "id": "person/c13a67ae-877a-44f1-b550-ea96f8afff1b",
@@ -20,9 +43,8 @@
           "person_id": "person/c13a67ae-877a-44f1-b550-ea96f8afff1b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "start_date": "2018-05-16",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -30,23 +52,47 @@
       ]
     },
     {
+      "id": "person/4438db64-283a-4a9f-b178-8afce1bd5e7e",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1311",
+      "name": "Alexander Avetisyan",
+      "sort_name": "Alexander Avetisyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1311"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4438db64-283a-4a9f-b178-8afce1bd5e7e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "andranik.kocharyan@parliament.am",
       "gender": "male",
-      "id": "person/02b07f2b-6345-486a-a2cd-faf898977f6c",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1226",
-      "name": "Alik Sargsyan",
-      "sort_name": "Alik Sargsyan",
+      "id": "person/c589428b-bb33-4d37-8910-4c33f96f58e7",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1304",
+      "name": "Andranik Kocharyan",
+      "sort_name": "Andranik Kocharyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1226"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1304"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/02b07f2b-6345-486a-a2cd-faf898977f6c",
+          "person_id": "person/c589428b-bb33-4d37-8910-4c33f96f58e7",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -54,22 +100,23 @@
       ]
     },
     {
-      "id": "person/e7876970-fab4-4f93-9fcb-ec98dfa84c5d",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1235",
-      "name": "Andranik Harutyunyan",
-      "sort_name": "Andranik Harutyunyan",
+      "email": "ani.samsonyan@parliament.am",
+      "id": "person/926158a6-b10f-4bc0-9aa4-4e633875fadb",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1339",
+      "name": "Ani Samsonyan",
+      "sort_name": "Ani Samsonyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1235"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1339"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e7876970-fab4-4f93-9fcb-ec98dfa84c5d",
+          "person_id": "person/926158a6-b10f-4bc0-9aa4-4e633875fadb",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -77,142 +124,118 @@
       ]
     },
     {
+      "id": "person/ba34f1b0-0cb0-4b1b-9cdd-9c63199cfc75",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1299",
+      "name": "Anna Karapetyan",
+      "sort_name": "Anna Karapetyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1299"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ba34f1b0-0cb0-4b1b-9cdd-9c63199cfc75",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "anna.kostanyan@parliament.am",
+      "id": "person/901049c6-5851-452b-b0a0-f143beb94512",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1345",
+      "name": "Anna Kostanyan",
+      "sort_name": "Anna Kostanyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1345"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/901049c6-5851-452b-b0a0-f143beb94512",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "anush.begloian@parliament.am",
+      "id": "person/5816128a-4bdb-45aa-bccf-07ebcf0d96c7",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1285",
+      "name": "Anush Begloian",
+      "sort_name": "Anush Begloian",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1285"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/5816128a-4bdb-45aa-bccf-07ebcf0d96c7",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/6ed6f698-b17a-49b5-815c-63e646196d30",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1408",
+      "name": "Aram Khachatryan",
+      "sort_name": "Aram Khachatryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1408"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6ed6f698-b17a-49b5-815c-63e646196d30",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "ararat.mirzoyan@parliament.am",
       "gender": "male",
-      "id": "person/67a9f35c-4014-4c7d-8535-e92ae97c52bf",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1257",
-      "name": "Andranik Karapetyan",
-      "sort_name": "Andranik Karapetyan",
+      "id": "person/cbcb82b3-4878-458d-b891-65b483bea3ce",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1380",
+      "name": "Ararat Mirzoyan",
+      "sort_name": "Ararat Mirzoyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1257"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1380"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/67a9f35c-4014-4c7d-8535-e92ae97c52bf",
+          "person_id": "person/cbcb82b3-4878-458d-b891-65b483bea3ce",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/97ff3743-5c79-49d6-8df3-214653b222b6",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1159",
-      "name": "Ara Babloyan",
-      "sort_name": "Ara Babloyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1159"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/97ff3743-5c79-49d6-8df3-214653b222b6",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/580f8873-f573-4302-a030-4dc3acbb6c19",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1220",
-      "name": "Araik Hovhannisyan",
-      "sort_name": "Araik Hovhannisyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1220"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/580f8873-f573-4302-a030-4dc3acbb6c19",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/9c226948-0802-48c9-a063-a236637e6dae",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1236",
-      "name": "Aram Harutyunyan",
-      "sort_name": "Aram Harutyunyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1236"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9c226948-0802-48c9-a063-a236637e6dae",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1737d71c-9b4e-4639-b44b-0900a50942fe",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1164",
-      "name": "Aram Sargsyan",
-      "sort_name": "Aram Sargsyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1164"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1737d71c-9b4e-4639-b44b-0900a50942fe",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "WO",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/a6b99e7c-fe74-468c-bea8-7b3d25ad9211",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1206",
-      "name": "Ararat Zourabyan",
-      "sort_name": "Ararat Zourabyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1206"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a6b99e7c-fe74-468c-bea8-7b3d25ad9211",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -236,8 +259,8 @@
           "person_id": "person/333d7011-aba0-4487-b428-6deb28253c77",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -245,23 +268,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ca764bf7-1f62-4f07-9817-812a31608b11",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1224",
-      "name": "Arayik Grigoryan",
-      "sort_name": "Arayik Grigoryan",
+      "id": "person/dba75251-396d-4145-949b-ed0307ab442a",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1410",
+      "name": "Aren Mkrtchyan",
+      "sort_name": "Aren Mkrtchyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1224"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1410"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ca764bf7-1f62-4f07-9817-812a31608b11",
+          "person_id": "person/dba75251-396d-4145-949b-ed0307ab442a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -269,22 +291,22 @@
       ]
     },
     {
-      "id": "person/adfab81e-14b4-4540-aae9-99be1741595e",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1254",
-      "name": "Argam Abrahamyan",
-      "sort_name": "Argam Abrahamyan",
+      "id": "person/efb66d57-ff9f-4e49-8ea9-3014f74ff63d",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1401",
+      "name": "Argishti Mekhakyan",
+      "sort_name": "Argishti Mekhakyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1254"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1401"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/adfab81e-14b4-4540-aae9-99be1741595e",
+          "person_id": "person/efb66d57-ff9f-4e49-8ea9-3014f74ff63d",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -292,23 +314,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/be58c3e5-2a44-459f-9550-f76563bbf00e",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1234",
-      "name": "Arkadi Hambardzoumyan",
-      "sort_name": "Arkadi Hambardzoumyan",
+      "email": "arkadi.khachatryan@parliament.am",
+      "id": "person/5c1b54fd-b323-423e-ab28-958d21937f3a",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1338",
+      "name": "Arkadi Khachatryan",
+      "sort_name": "Arkadi Khachatryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1234"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1338"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/be58c3e5-2a44-459f-9550-f76563bbf00e",
+          "person_id": "person/5c1b54fd-b323-423e-ab28-958d21937f3a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -316,23 +338,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/fc0e4c4a-f7b4-49b2-8d9c-ace65f53d395",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1187",
-      "name": "Arman Saghatelyan",
-      "sort_name": "Arman Saghatelyan",
+      "email": "arman.abovyan@parliament.am",
+      "id": "person/70d4222f-8374-483d-bcf6-83931f25e7ea",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1290",
+      "name": "Arman Abovyan",
+      "sort_name": "Arman Abovyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1187"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1290"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fc0e4c4a-f7b4-49b2-8d9c-ace65f53d395",
+          "person_id": "person/70d4222f-8374-483d-bcf6-83931f25e7ea",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -340,32 +362,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/32da8f70-b493-4ce5-aebd-3ad55584cef9",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1237",
-      "name": "Arman Sahakyan",
-      "sort_name": "Arman Sahakyan",
+      "email": "arman.babajanyan@parliament.am",
+      "id": "person/52932448-dc8e-4d8e-8552-ff5d0e2456e1",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1336",
+      "name": "Arman Babajanyan",
+      "sort_name": "Arman Babajanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1237"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1336"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/32da8f70-b493-4ce5-aebd-3ad55584cef9",
+          "person_id": "person/52932448-dc8e-4d8e-8552-ff5d0e2456e1",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-06-04",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/32da8f70-b493-4ce5-aebd-3ad55584cef9",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-06-04",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -373,23 +386,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/7d336a4a-fbbf-4b52-841f-fb9d51e4a4c8",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1160",
-      "name": "Armen Ashotyan",
-      "sort_name": "Armen Ashotyan",
+      "id": "person/533c3393-a48a-4327-827b-95c44676caef",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1308",
+      "name": "Arman Boshyan",
+      "sort_name": "Arman Boshyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1160"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1308"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/7d336a4a-fbbf-4b52-841f-fb9d51e4a4c8",
+          "person_id": "person/533c3393-a48a-4327-827b-95c44676caef",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -397,23 +409,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/5b214319-2d24-4bd8-948f-296c6f457ca2",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1183",
-      "name": "Armen Rustamyan",
-      "sort_name": "Armen Rustamyan",
+      "id": "person/893c19f1-9fca-4e48-a459-eb5742340881",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1309",
+      "name": "Arman Yeghoyan",
+      "sort_name": "Arman Yeghoyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1183"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1309"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5b214319-2d24-4bd8-948f-296c6f457ca2",
+          "person_id": "person/893c19f1-9fca-4e48-a459-eb5742340881",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -421,32 +432,22 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/3acc5b99-a5ba-409e-a21a-4d00ae76634f",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1188",
-      "name": "Armenuhi Kyureghyan",
-      "sort_name": "Armenuhi Kyureghyan",
+      "id": "person/930254f6-576f-4666-bf55-28f20ed66a80",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1388",
+      "name": "Armen Khachatryan",
+      "sort_name": "Armen Khachatryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1188"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1388"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/3acc5b99-a5ba-409e-a21a-4d00ae76634f",
+          "person_id": "person/930254f6-576f-4666-bf55-28f20ed66a80",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "end_date": "2018-05-04",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/3acc5b99-a5ba-409e-a21a-4d00ae76634f",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ARF",
-          "start_date": "2018-05-04",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -454,23 +455,93 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/2d37c704-76d7-40a7-a221-f308fbaf65c2",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1158",
-      "name": "Arpine Hovhannisyan",
-      "sort_name": "Arpine Hovhannisyan",
+      "email": "armen.pambukhchyan@parliament.am",
+      "id": "person/c811eb64-4988-4eb6-bd32-660e92401b2e",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1295",
+      "name": "Armen Pambukhchyan",
+      "sort_name": "Armen Pambukhchyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1158"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1295"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2d37c704-76d7-40a7-a221-f308fbaf65c2",
+          "person_id": "person/c811eb64-4988-4eb6-bd32-660e92401b2e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "armen.eghiazaryan@parliament.am",
+      "id": "person/d8052006-0d61-42f8-ae43-28c2f5a71082",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1343",
+      "name": "Armen Yeghiazaryan",
+      "sort_name": "Armen Yeghiazaryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1343"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8052006-0d61-42f8-ae43-28c2f5a71082",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/75fb9e30-d691-4189-81b8-657265ccde98",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1411",
+      "name": "Arpine Davoyan",
+      "sort_name": "Arpine Davoyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1411"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/75fb9e30-d691-4189-81b8-657265ccde98",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/beee6c03-a1f3-4e18-b830-fcdec514f7f4",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1319",
+      "name": "Arsen Julfalakyan",
+      "sort_name": "Arsen Julfalakyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1319"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/beee6c03-a1f3-4e18-b830-fcdec514f7f4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -494,8 +565,8 @@
           "person_id": "person/6f6a0df2-ac2a-40a6-85a3-adad8d0c8fde",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -503,32 +574,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/68ac542b-542d-445b-958c-bccb5af9e97c",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1216",
-      "name": "Artak Sargsyan",
-      "sort_name": "Artak Sargsyan",
+      "email": "artak.manukyan@parliament.am",
+      "id": "person/4c1a0ce6-8ec4-4907-82fb-7af3fd0d12d9",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1327",
+      "name": "Artak Manukyan",
+      "sort_name": "Artak Manukyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1216"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1327"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/68ac542b-542d-445b-958c-bccb5af9e97c",
+          "person_id": "person/4c1a0ce6-8ec4-4907-82fb-7af3fd0d12d9",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-05-05",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/68ac542b-542d-445b-958c-bccb5af9e97c",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-06-05",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -536,23 +598,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/4951ced9-b88a-46d3-8268-01fd6467942c",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1177",
-      "name": "Artashes Geghamyan",
-      "sort_name": "Artashes Geghamyan",
+      "id": "person/3b7fad49-76cd-4b82-aa10-8dbee2625700",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1412",
+      "name": "Artashes Petrosyan",
+      "sort_name": "Artashes Petrosyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1177"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1412"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4951ced9-b88a-46d3-8268-01fd6467942c",
+          "person_id": "person/3b7fad49-76cd-4b82-aa10-8dbee2625700",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -560,32 +621,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/f6cfec60-4be6-4e7a-be9f-f1d52f639097",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1218",
-      "name": "Artur Gevorgyan",
-      "sort_name": "Artur Gevorgyan",
+      "id": "person/e28bf181-d03f-4847-8216-eb92c52b581a",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1320",
+      "name": "Artur Dallakyan",
+      "sort_name": "Artur Dallakyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1218"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1320"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f6cfec60-4be6-4e7a-be9f-f1d52f639097",
+          "person_id": "person/e28bf181-d03f-4847-8216-eb92c52b581a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-06-04",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/f6cfec60-4be6-4e7a-be9f-f1d52f639097",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-06-04",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -593,22 +644,23 @@
       ]
     },
     {
-      "id": "person/bbe741ec-13ed-4f24-8459-edb557d456f9",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1209",
-      "name": "Artur Manukyan",
-      "sort_name": "Artur Manukyan",
+      "email": "artur.davtyan@parliament.am",
+      "id": "person/54c32e21-a43b-4432-8c97-0c8050bf4248",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1361",
+      "name": "Artur Davtyan",
+      "sort_name": "Artur Davtyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1209"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1361"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bbe741ec-13ed-4f24-8459-edb557d456f9",
+          "person_id": "person/54c32e21-a43b-4432-8c97-0c8050bf4248",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -616,32 +668,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ca409c45-69e8-43b8-9700-3743d7735830",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1239",
-      "name": "Ashot Arsenyan",
-      "sort_name": "Ashot Arsenyan",
+      "id": "person/97a242f1-4a37-49f5-a4ed-7322a3218282",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1288",
+      "name": "Artur Grigoryan",
+      "sort_name": "Artur Grigoryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1239"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1288"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ca409c45-69e8-43b8-9700-3743d7735830",
+          "person_id": "person/97a242f1-4a37-49f5-a4ed-7322a3218282",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-06-28",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/ca409c45-69e8-43b8-9700-3743d7735830",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-06-28",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -649,22 +691,23 @@
       ]
     },
     {
-      "id": "person/22257d47-21f4-41a2-b63e-76938e5dfd04",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1240",
-      "name": "Avet Sargsyan",
-      "sort_name": "Avet Sargsyan",
+      "email": "artyom.tsarukyan@parliament.am",
+      "id": "person/bd06477c-3571-4b48-9675-25caf933df8b",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1300",
+      "name": "Artyom Tsarukyan",
+      "sort_name": "Artyom Tsarukyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1240"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1300"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/22257d47-21f4-41a2-b63e-76938e5dfd04",
+          "person_id": "person/bd06477c-3571-4b48-9675-25caf933df8b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -672,23 +715,47 @@
       ]
     },
     {
-      "id": "person/c0187c58-ea7c-49e8-ad72-b5297f7ab68b",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1276",
-      "name": "Aytsemnik Ohanyan",
-      "sort_name": "Aytsemnik Ohanyan",
+      "email": "arusyak.julhakyan@parliament.am",
+      "id": "person/aa076e1d-eb31-4cbb-8d2d-3aaff997a943",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1363",
+      "name": "Arusyak Julhakyan",
+      "sort_name": "Arusyak Julhakyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1276"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1363"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c0187c58-ea7c-49e8-ad72-b5297f7ab68b",
+          "person_id": "person/aa076e1d-eb31-4cbb-8d2d-3aaff997a943",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "start_date": "2018-08-14",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "babken.tunyan@parliament.am",
+      "id": "person/44f8b077-b3c9-45bd-bf9d-4cbeace19443",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1342",
+      "name": "Babken Tunyan",
+      "sort_name": "Babken Tunyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1342"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/44f8b077-b3c9-45bd-bf9d-4cbeace19443",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -711,8 +778,32 @@
           "person_id": "person/74942bbf-3a83-49d9-814d-d7f913092749",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "edgar.arakelyan@parliament.am",
+      "id": "person/49745f53-98c2-4a07-9986-295b6f71b327",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1337",
+      "name": "Edgar Arakelyan",
+      "sort_name": "Edgar Arakelyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1337"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/49745f53-98c2-4a07-9986-295b6f71b327",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -736,8 +827,8 @@
           "person_id": "person/a59229b4-241e-4ce6-b3e0-f71e9df82df6",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -745,23 +836,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/886e22fb-f03f-4866-862b-974ad19fea26",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1162",
-      "name": "Eduard Sharmazanov",
-      "sort_name": "Eduard Sharmazanov",
+      "email": "eduard.babayan@parliament.am",
+      "id": "person/99633f25-1636-495b-a216-cf7656b455ce",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1323",
+      "name": "Eduard Babayan",
+      "sort_name": "Eduard Babayan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1162"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1323"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/886e22fb-f03f-4866-862b-974ad19fea26",
+          "person_id": "person/99633f25-1636-495b-a216-cf7656b455ce",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -769,47 +860,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/28e5596b-2495-4633-958d-a75338301842",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1191",
-      "name": "Gagik Melikyan",
-      "sort_name": "Gagik Melikyan",
+      "email": "edvard.andreasyan@parliament.am",
+      "id": "person/e8a44311-fc09-4515-b720-a73035a49402",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1356",
+      "name": "Edvard Andreasyan",
+      "sort_name": "Edvard Andreasyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1191"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1356"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/28e5596b-2495-4633-958d-a75338301842",
+          "person_id": "person/e8a44311-fc09-4515-b720-a73035a49402",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/c0890dc5-0088-4a1b-8703-a2ff407d1774",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1170",
-      "name": "Gagik Minasyan",
-      "sort_name": "Gagik Minasyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1170"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c0890dc5-0088-4a1b-8703-a2ff407d1774",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -833,8 +900,8 @@
           "person_id": "person/11889955-555a-442a-84ea-07014af5f893",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -842,23 +909,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/b5990dd4-9618-4caa-a6c4-9bf55d3f196d",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1168",
-      "name": "Galust Sahakyan",
-      "sort_name": "Galust Sahakyan",
+      "id": "person/818c2950-0c6a-4f16-8258-9bfa7bcae872",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1282",
+      "name": "Gayane Abrahamyan",
+      "sort_name": "Gayane Abrahamyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1168"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1282"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b5990dd4-9618-4caa-a6c4-9bf55d3f196d",
+          "person_id": "person/818c2950-0c6a-4f16-8258-9bfa7bcae872",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -882,8 +948,8 @@
           "person_id": "person/32810908-c991-477f-8d26-619860cc3ec0",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -891,23 +957,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ed94e43f-d4ae-42e3-a91f-1d58190dfff3",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1184",
-      "name": "Gevorg Kostanyan",
-      "sort_name": "Gevorg Kostanyan",
+      "id": "person/de7e6081-caf8-44aa-a450-a791e9efd16a",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1387",
+      "name": "Gevorg Papoyan",
+      "sort_name": "Gevorg Papoyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1184"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1387"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ed94e43f-d4ae-42e3-a91f-1d58190dfff3",
+          "person_id": "person/de7e6081-caf8-44aa-a450-a791e9efd16a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -931,9 +996,8 @@
           "person_id": "person/d3329923-e953-4dbe-9734-0c7df5bee45b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "start_date": "2017-05-30",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -941,23 +1005,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/bc87a6a2-690a-4efb-a17c-97212c4f0a76",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1222",
-      "name": "Hakob Beglaryan",
-      "sort_name": "Hakob Beglaryan",
+      "email": "gor.gevorgyan@parliament.am",
+      "id": "person/3f6fd976-d921-43b6-95df-45d5d17dcbec",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1340",
+      "name": "Gor Gevorgyan",
+      "sort_name": "Gor Gevorgyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1222"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1340"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bc87a6a2-690a-4efb-a17c-97212c4f0a76",
+          "person_id": "person/3f6fd976-d921-43b6-95df-45d5d17dcbec",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -965,24 +1029,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/38828ba8-60b2-4952-a644-d472aae0ae34",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1269",
-      "name": "Hakob G. Hakobyan",
-      "sort_name": "Hakob G. Hakobyan",
+      "email": "gurgen.baghdasaryan@parliament.am",
+      "id": "person/8cc33615-d856-450c-a897-029f680aacdb",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1352",
+      "name": "Gurgen Baghdasaryan",
+      "sort_name": "Gurgen Baghdasaryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1269"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1352"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/38828ba8-60b2-4952-a644-d472aae0ae34",
+          "person_id": "person/8cc33615-d856-450c-a897-029f680aacdb",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "start_date": "2018-05-16",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -990,23 +1053,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/1319494c-2483-49c1-83d8-568bf9937114",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1231",
-      "name": "Hakob Hakobyan",
-      "sort_name": "Hakob Hakobyan",
+      "id": "person/acc3de9c-9053-4803-91ed-72c0b6b84e63",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1391",
+      "name": "Hakob Simidyan",
+      "sort_name": "Hakob Simidyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1231"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1391"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1319494c-2483-49c1-83d8-568bf9937114",
+          "person_id": "person/acc3de9c-9053-4803-91ed-72c0b6b84e63",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1014,23 +1076,22 @@
       ]
     },
     {
-      "id": "person/db11668b-739f-4a06-aa5d-7d30f6ce4fa5",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1265",
-      "name": "Hakob Nazaryan",
-      "sort_name": "Hakob Nazaryan",
+      "id": "person/7c3628e9-5156-4a5c-afda-f94baf1bab2c",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1334",
+      "name": "Hamazasp Danielyan",
+      "sort_name": "Hamazasp Danielyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1265"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1334"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/db11668b-739f-4a06-aa5d-7d30f6ce4fa5",
+          "person_id": "person/7c3628e9-5156-4a5c-afda-f94baf1bab2c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "start_date": "2017-05-30",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1038,22 +1099,23 @@
       ]
     },
     {
-      "id": "person/b0363bb2-59ca-4158-9130-4229a7a48077",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1223",
-      "name": "Harutyun Karapoghosyan",
-      "sort_name": "Harutyun Karapoghosyan",
+      "email": "harutyun.babayan@parliament.am",
+      "id": "person/866b1d12-8600-4e1e-9bf0-238fa59dcfac",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1341",
+      "name": "Harutyun Babayan",
+      "sort_name": "Harutyun Babayan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1223"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1341"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b0363bb2-59ca-4158-9130-4229a7a48077",
+          "person_id": "person/866b1d12-8600-4e1e-9bf0-238fa59dcfac",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1061,23 +1123,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/6d9a02e9-ac09-4d11-ac3e-cf5a61f34234",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1180",
-      "name": "Hayk Babukhanyan",
-      "sort_name": "Hayk Babukhanyan",
+      "id": "person/9395345f-ae09-4acb-86fa-5b1fa397b53f",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1303",
+      "name": "Hayk Gevorgyan",
+      "sort_name": "Hayk Gevorgyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1180"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1303"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6d9a02e9-ac09-4d11-ac3e-cf5a61f34234",
+          "person_id": "person/9395345f-ae09-4acb-86fa-5b1fa397b53f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1101,9 +1162,8 @@
           "person_id": "person/818ea4d8-2be7-4086-bffe-5799452e74c5",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "start_date": "2018-05-16",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1111,23 +1171,93 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/57db030d-0dc9-438e-a53c-d96debda3c2c",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1169",
-      "name": "Hermine Naghdalyan",
-      "sort_name": "Hermine Naghdalyan",
+      "email": "hayk.sargsyan1@parliament.am",
+      "id": "person/1443d7cd-87c0-4ffe-81c3-fa9f2e03e733",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1407",
+      "name": "Hayk Sargsyan",
+      "sort_name": "Hayk Sargsyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1169"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1407"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/57db030d-0dc9-438e-a53c-d96debda3c2c",
+          "person_id": "person/1443d7cd-87c0-4ffe-81c3-fa9f2e03e733",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/3cd29420-77b3-4c8b-b416-943639f207e0",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1287",
+      "name": "Heriknaz Tigranyan",
+      "sort_name": "Heriknaz Tigranyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1287"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3cd29420-77b3-4c8b-b416-943639f207e0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/609b2076-ca87-49dd-9877-1a9d9eb60f5d",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1321",
+      "name": "Hovhannes Hovhannisyan",
+      "sort_name": "Hovhannes Hovhannisyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1321"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/609b2076-ca87-49dd-9877-1a9d9eb60f5d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/515d1da8-a9c2-4ca2-b3da-526eba794a97",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1305",
+      "name": "Hovhannes Igityan",
+      "sort_name": "Hovhannes Igityan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1305"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/515d1da8-a9c2-4ca2-b3da-526eba794a97",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1150,9 +1280,8 @@
           "person_id": "person/538a7d08-0cc7-4022-adf7-5320df87a507",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "start_date": "2018-05-16",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1175,9 +1304,8 @@
           "person_id": "person/9726d41d-06b3-4c1c-8f7f-07a024e24d7b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "start_date": "2018-05-16",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1185,24 +1313,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/2b031b31-73dd-4131-b45e-d2aae819e27e",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1275",
-      "name": "Hrant Davtyan",
-      "sort_name": "Hrant Davtyan",
+      "email": "hrant.ayvazyan@parliament.am",
+      "id": "person/1a488f27-6224-4b23-831f-7c77b5187760",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1359",
+      "name": "Hrant Ayvazyan",
+      "sort_name": "Hrant Ayvazyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1275"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1359"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2b031b31-73dd-4131-b45e-d2aae819e27e",
+          "person_id": "person/1a488f27-6224-4b23-831f-7c77b5187760",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "start_date": "2018-06-20",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1226,8 +1353,8 @@
           "person_id": "person/a5030402-948d-4aa3-a0a8-b4c2dfbd2791",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1235,23 +1362,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/d88ca4a4-d769-4391-9c0e-52bbd926533f",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1197",
-      "name": "Ishkhan Zakaryan",
-      "sort_name": "Ishkhan Zakaryan",
+      "id": "person/3b9f31cf-eb63-4296-af4d-f7582fe4479f",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1386",
+      "name": "Hripsime Grigoryan",
+      "sort_name": "Hripsime Grigoryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1197"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1386"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d88ca4a4-d769-4391-9c0e-52bbd926533f",
+          "person_id": "person/3b9f31cf-eb63-4296-af4d-f7582fe4479f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1275,8 +1401,8 @@
           "person_id": "person/4f441dff-a123-463e-9959-16df7e0f3c37",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1284,23 +1410,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/556390b0-47a1-4f70-bc5c-af68659c9c98",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1182",
-      "name": "Jemma Baghdasaryan",
-      "sort_name": "Jemma Baghdasaryan",
+      "id": "person/93e9bd34-8bdb-4240-8b9f-bd62e5c7148e",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1326",
+      "name": "Janibek Hayrapetyan",
+      "sort_name": "Janibek Hayrapetyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1182"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1326"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/556390b0-47a1-4f70-bc5c-af68659c9c98",
+          "person_id": "person/93e9bd34-8bdb-4240-8b9f-bd62e5c7148e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1308,23 +1433,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/0a1cae84-9ff4-46db-97a2-2a88905ee622",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1166",
-      "name": "Karen Avagyan",
-      "sort_name": "Karen Avagyan",
+      "id": "person/06e8b8ae-40cd-4f60-a58a-d32f1dce7324",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1310",
+      "name": "Kajik Gevorgyan",
+      "sort_name": "Kajik Gevorgyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1166"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1310"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0a1cae84-9ff4-46db-97a2-2a88905ee622",
+          "person_id": "person/06e8b8ae-40cd-4f60-a58a-d32f1dce7324",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1332,23 +1456,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/78347d1e-4428-4e43-8583-ca91959eddc2",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1192",
-      "name": "Karen Bekaryan",
-      "sort_name": "Karen Bekaryan",
+      "id": "person/957589f6-669f-4d26-b626-1c48fe48b2da",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1393",
+      "name": "Karen Hambardzumyan",
+      "sort_name": "Karen Hambardzumyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1192"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1393"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/78347d1e-4428-4e43-8583-ca91959eddc2",
+          "person_id": "person/957589f6-669f-4d26-b626-1c48fe48b2da",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1356,23 +1479,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/acc78292-d914-4177-b6f3-fe9395ffc4cb",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1232",
-      "name": "Karen Karapetyan",
-      "sort_name": "Karen Karapetyan",
+      "id": "person/5bf35630-1b9a-4a51-9eaa-aef3b04257a2",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1382",
+      "name": "Karen Sarukhanyan",
+      "sort_name": "Karen Sarukhanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1232"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1382"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/acc78292-d914-4177-b6f3-fe9395ffc4cb",
+          "person_id": "person/5bf35630-1b9a-4a51-9eaa-aef3b04257a2",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1380,23 +1502,22 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/eacc4b49-ff1c-49d2-890e-216df486890d",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1194",
-      "name": "Karine Atshemyan",
-      "sort_name": "Karine Atshemyan",
+      "id": "person/3b810e89-aa8e-4da4-b302-c89b4f6ecf2a",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1347",
+      "name": "Karen Simonyan",
+      "sort_name": "Karen Simonyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1194"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1347"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/eacc4b49-ff1c-49d2-890e-216df486890d",
+          "person_id": "person/3b810e89-aa8e-4da4-b302-c89b4f6ecf2a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1420,32 +1541,8 @@
           "person_id": "person/ac006fa8-4c32-4deb-b981-3d5f6dfe83fd",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/17e0112e-7b21-4bcf-9f24-eb0575400432",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1178",
-      "name": "Khosrov Harutyunyan",
-      "sort_name": "Khosrov Harutyunyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1178"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/17e0112e-7b21-4bcf-9f24-eb0575400432",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1469,8 +1566,8 @@
           "person_id": "person/9faaf4cd-82d9-4bba-a134-558e8b650551",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1478,23 +1575,45 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/43a24081-de1d-4a62-aa94-7ec4490b8eab",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1221",
-      "name": "Koryun Nahapetyan",
-      "sort_name": "Koryun Nahapetyan",
+      "id": "person/897b7e08-f1e1-4f98-92c1-d44f398ba761",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1324",
+      "name": "Koryun Mkrtchyan",
+      "sort_name": "Koryun Mkrtchyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1221"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1324"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/43a24081-de1d-4a62-aa94-7ec4490b8eab",
+          "person_id": "person/897b7e08-f1e1-4f98-92c1-d44f398ba761",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1a4f0225-252f-4fa9-9314-f26df4f3fcc0",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1313",
+      "name": "Kristine Poghosyan",
+      "sort_name": "Kristine Poghosyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1313"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1a4f0225-252f-4fa9-9314-f26df4f3fcc0",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1518,17 +1637,8 @@
           "person_id": "person/de74b202-6540-4dcf-a99a-aff1755c2be3",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "end_date": "2018-09-12",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/de74b202-6540-4dcf-a99a-aff1755c2be3",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "WO",
-          "start_date": "2018-09-12",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1536,22 +1646,23 @@
       ]
     },
     {
-      "id": "person/70b402c0-3e02-4959-8679-fca53cd8f720",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1210",
-      "name": "Luiza Sargsyan",
-      "sort_name": "Luiza Sargsyan",
+      "email": "lilit.makunts@parliament.am",
+      "id": "person/62258e0b-6fbc-4c9d-89c4-cb93ffbc4101",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1376",
+      "name": "Lilit Makunts",
+      "sort_name": "Lilit Makunts",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1210"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1376"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/70b402c0-3e02-4959-8679-fca53cd8f720",
+          "person_id": "person/62258e0b-6fbc-4c9d-89c4-cb93ffbc4101",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1559,23 +1670,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e003de68-f78d-4bbf-bd6e-f66c22c84dfc",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1176",
-      "name": "Manvel Grigoryan",
-      "sort_name": "Manvel Grigoryan",
+      "id": "person/4e7be0f9-0f83-4c55-80dd-4a4563b6f0d9",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1381",
+      "name": "Lilit Stepanyan",
+      "sort_name": "Lilit Stepanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1176"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1381"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e003de68-f78d-4bbf-bd6e-f66c22c84dfc",
+          "person_id": "person/4e7be0f9-0f83-4c55-80dd-4a4563b6f0d9",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1583,23 +1693,47 @@
       ]
     },
     {
+      "id": "person/86dc5294-1006-40eb-b9ed-711e571b93e9",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1283",
+      "name": "Lusine Badalyan",
+      "sort_name": "Lusine Badalyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1283"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/86dc5294-1006-40eb-b9ed-711e571b93e9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mane.tandilyan@parliament.am",
       "gender": "female",
-      "id": "person/0be8a2c5-bb90-47a7-99ed-8affa136f47d",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1163",
-      "name": "Margarit Yesayan",
-      "sort_name": "Margarit Yesayan",
+      "id": "person/d39064d3-3b0b-4ed8-a557-1f5b653df357",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1355",
+      "name": "Mane Tandilyan",
+      "sort_name": "Mane Tandilyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1163"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1355"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0be8a2c5-bb90-47a7-99ed-8affa136f47d",
+          "person_id": "person/d39064d3-3b0b-4ed8-a557-1f5b653df357",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1607,22 +1741,23 @@
       ]
     },
     {
-      "id": "person/fa2802f5-d9ba-48f2-92e1-43fecf981333",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1215",
-      "name": "Marina Margaryan",
-      "sort_name": "Marina Margaryan",
+      "email": "maria.karapetyan@parliament.am",
+      "id": "person/4316c7d0-1e9a-40f9-b640-e1fbd5e95476",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1280",
+      "name": "Maria Karapetyan",
+      "sort_name": "Maria Karapetyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1215"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1280"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/fa2802f5-d9ba-48f2-92e1-43fecf981333",
+          "person_id": "person/4316c7d0-1e9a-40f9-b640-e1fbd5e95476",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1630,24 +1765,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/956ee5c1-76a1-48d6-9e64-0bd61f2c7d11",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1277",
-      "name": "Martun Grigoryan",
-      "sort_name": "Martun Grigoryan",
+      "email": "mary.galstyan@parliament.am",
+      "id": "person/f467b93f-589b-4f27-91ab-0dcf5ae5e7d7",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1330",
+      "name": "Mary Galstyan",
+      "sort_name": "Mary Galstyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1277"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1330"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/956ee5c1-76a1-48d6-9e64-0bd61f2c7d11",
+          "person_id": "person/f467b93f-589b-4f27-91ab-0dcf5ae5e7d7",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "start_date": "2018-10-09",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1655,70 +1789,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/d2e9c36f-3dd9-4af7-a937-2639bf30621f",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1248",
-      "name": "Melik Manukyan",
-      "sort_name": "Melik Manukyan",
+      "email": "matevos.asatryan@parliament.am",
+      "id": "person/dfea123f-9225-4ec3-8b3e-1e6b1791e8be",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1404",
+      "name": "Matevos Asatryan",
+      "sort_name": "Matevos Asatryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1248"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1404"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d2e9c36f-3dd9-4af7-a937-2639bf30621f",
+          "person_id": "person/dfea123f-9225-4ec3-8b3e-1e6b1791e8be",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "id": "person/b7499278-f0d2-4eb0-a372-d49dbd6e3515",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1186",
-      "name": "Mihran Hakobyan",
-      "sort_name": "Mihran Hakobyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1186"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b7499278-f0d2-4eb0-a372-d49dbd6e3515",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/060957f4-cd4f-45d8-b4ea-a0e7a380b908",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1205",
-      "name": "Mihran Poghosyan",
-      "sort_name": "Mihran Poghosyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1205"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/060957f4-cd4f-45d8-b4ea-a0e7a380b908",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1742,8 +1829,8 @@
           "person_id": "person/d2765876-3ffc-4536-a3da-21d55aa88c7a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1751,23 +1838,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/7c7e02e7-f8c5-4675-96f8-e8ba77179cf7",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1225",
-      "name": "Murad Muradyan",
-      "sort_name": "Murad Muradyan",
+      "email": "mikayel.zolyan@parliament.am",
+      "id": "person/cc2dcbf3-8ac6-4c55-bbd4-4a88cb1e8ded",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1362",
+      "name": "Mikayel Zolyan",
+      "sort_name": "Mikayel Zolyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1225"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1362"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/7c7e02e7-f8c5-4675-96f8-e8ba77179cf7",
+          "person_id": "person/cc2dcbf3-8ac6-4c55-bbd4-4a88cb1e8ded",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1775,32 +1862,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ff1cb315-2582-473d-a2de-2b7471b1b290",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1227",
-      "name": "Nahapet Gevorgyan",
-      "sort_name": "Nahapet Gevorgyan",
+      "email": "mkhitar.hayrapetyan@parliament.am",
+      "id": "person/4faeb1b2-72e0-4c78-9304-058bc20e1d9d",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1370",
+      "name": "Mkhitar Hayrapetyan",
+      "sort_name": "Mkhitar Hayrapetyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1227"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1370"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ff1cb315-2582-473d-a2de-2b7471b1b290",
+          "person_id": "person/4faeb1b2-72e0-4c78-9304-058bc20e1d9d",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-07-10",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/ff1cb315-2582-473d-a2de-2b7471b1b290",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-07-10",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1824,8 +1902,8 @@
           "person_id": "person/edc77df4-93c3-48ba-a531-9e70c6a601f3",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1833,22 +1911,22 @@
       ]
     },
     {
-      "id": "person/69b6cf9b-bd94-48e0-a8d0-314f502d4b04",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1229",
-      "name": "Nairi Sahakyan",
-      "sort_name": "Nairi Sahakyan",
+      "id": "person/f29b17af-4bef-4020-85e6-7e0d24b13444",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1403",
+      "name": "Narek Mkrtchyan",
+      "sort_name": "Narek Mkrtchyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1229"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1403"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/69b6cf9b-bd94-48e0-a8d0-314f502d4b04",
+          "person_id": "person/f29b17af-4bef-4020-85e6-7e0d24b13444",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1856,23 +1934,92 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/f19b7a43-9981-4d50-83a7-2241e59b619b",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1253",
-      "name": "Napoleon Azizyan",
-      "sort_name": "Napoleon Azizyan",
+      "email": "narek.zeynalyan@parliament.am",
+      "id": "person/01a8047a-4708-4731-81e2-a1b3054a1852",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1332",
+      "name": "Narek Zeynalyan",
+      "sort_name": "Narek Zeynalyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1253"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1332"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f19b7a43-9981-4d50-83a7-2241e59b619b",
+          "person_id": "person/01a8047a-4708-4731-81e2-a1b3054a1852",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/d6978b82-9691-4ce3-82b6-ee2f9f8313e9",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1281",
+      "name": "Narine Khachaturyan",
+      "sort_name": "Narine Khachaturyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1281"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d6978b82-9691-4ce3-82b6-ee2f9f8313e9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/26c30891-5389-41ca-a6ec-55065b4fe3d9",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1385",
+      "name": "Nazeli Baghdasaryan",
+      "sort_name": "Nazeli Baghdasaryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1385"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/26c30891-5389-41ca-a6ec-55065b4fe3d9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a4ca3917-d4c6-4517-aaf1-504b7bc70883",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1374",
+      "name": "Nikolay Baghdasaryan",
+      "sort_name": "Nikolay Baghdasaryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1374"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a4ca3917-d4c6-4517-aaf1-504b7bc70883",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1896,9 +2043,8 @@
           "person_id": "person/0c9f2f03-5a84-4198-97b8-7c1998f0ba5e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "start_date": "2017-05-30",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1906,23 +2052,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ca7e3f49-433a-4c02-92b0-fc77dd4aaa40",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1230",
-      "name": "Rafik Grigoryan",
-      "sort_name": "Rafik Grigoryan",
+      "email": "ruben.rubinyan@parliament.am",
+      "id": "person/7ed3d560-6ade-4082-9385-06d9115de60f",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1279",
+      "name": "Ruben Rubinyan",
+      "sort_name": "Ruben Rubinyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1230"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1279"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ca7e3f49-433a-4c02-92b0-fc77dd4aaa40",
+          "person_id": "person/7ed3d560-6ade-4082-9385-06d9115de60f",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1930,23 +2076,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/28a9b59e-12aa-40d3-b6f9-a4a42d3eb2f5",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1202",
-      "name": "Robert Sargsyan",
-      "sort_name": "Robert Sargsyan",
+      "email": "rubik.stepanyan@parliament.am",
+      "id": "person/19d6bfcb-5310-4711-9a75-4176a4e91b7a",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1357",
+      "name": "Rubik Stepanyan",
+      "sort_name": "Rubik Stepanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1202"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1357"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/28a9b59e-12aa-40d3-b6f9-a4a42d3eb2f5",
+          "person_id": "person/19d6bfcb-5310-4711-9a75-4176a4e91b7a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1954,23 +2100,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/eaff0eb8-2e30-4d29-927f-92c1a537e0ab",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1261",
-      "name": "Romik Manukyan",
-      "sort_name": "Romik Manukyan",
+      "email": "rustam.bakoyan@parliament.am",
+      "id": "person/39adfff5-9eee-4d94-8801-e09d7185c013",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1365",
+      "name": "Rustam Bakoyan",
+      "sort_name": "Rustam Bakoyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1261"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1365"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/eaff0eb8-2e30-4d29-927f-92c1a537e0ab",
+          "person_id": "person/39adfff5-9eee-4d94-8801-e09d7185c013",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -1978,22 +2124,23 @@
       ]
     },
     {
-      "id": "person/4817d564-0f9b-4060-9c3e-eb9b33c16733",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1198",
-      "name": "Rustam Makhmudyan",
-      "sort_name": "Rustam Makhmudyan",
+      "email": "sargis.aleksanyan@parliament.am",
+      "id": "person/6d59eb18-cd06-4d4a-b175-927c2d24a26e",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1351",
+      "name": "Sargis Aleksanyan",
+      "sort_name": "Sargis Aleksanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1198"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1351"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4817d564-0f9b-4060-9c3e-eb9b33c16733",
+          "person_id": "person/6d59eb18-cd06-4d4a-b175-927c2d24a26e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2001,24 +2148,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/c08b1629-86ef-4f17-a6fa-a2b812b83a84",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1272",
-      "name": "Ruzanna Arakelyan",
-      "sort_name": "Ruzanna Arakelyan",
+      "email": "sargis.khandanyan@parliament.am",
+      "id": "person/02e15b16-0533-403c-ab16-0087653ab78b",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1364",
+      "name": "Sargis Khandanyan",
+      "sort_name": "Sargis Khandanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1272"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1364"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c08b1629-86ef-4f17-a6fa-a2b812b83a84",
+          "person_id": "person/02e15b16-0533-403c-ab16-0087653ab78b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "start_date": "2018-05-16",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2026,104 +2172,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/1fa4be47-d10e-4c79-a060-276662e9a017",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1189",
-      "name": "Ruzanna Muradyan",
-      "sort_name": "Ruzanna Muradyan",
+      "id": "person/cf248c1d-5069-4515-a3c8-007b11c8de01",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1360",
+      "name": "Sarik Minasyan",
+      "sort_name": "Sarik Minasyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1189"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1360"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1fa4be47-d10e-4c79-a060-276662e9a017",
+          "person_id": "person/cf248c1d-5069-4515-a3c8-007b11c8de01",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/f500708c-30eb-4fa1-8ec9-47f4a1c463bc",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1219",
-      "name": "Samvel Aleksanyan",
-      "sort_name": "Samvel Aleksanyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1219"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f500708c-30eb-4fa1-8ec9-47f4a1c463bc",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-06-06",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/f500708c-30eb-4fa1-8ec9-47f4a1c463bc",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-06-06",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/c63d2833-adac-4265-95e5-e9f4c877287d",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1165",
-      "name": "Samvel Farmanyan",
-      "sort_name": "Samvel Farmanyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1165"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c63d2833-adac-4265-95e5-e9f4c877287d",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/549fbf14-2169-4a91-b0d6-b141feb1c5d5",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1171",
-      "name": "Samvel Nikoyan",
-      "sort_name": "Samvel Nikoyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1171"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/549fbf14-2169-4a91-b0d6-b141feb1c5d5",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2147,8 +2211,8 @@
           "person_id": "person/ce243104-7c1b-409e-b1e8-9035cdbcf468",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "WO",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2156,23 +2220,46 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/87107b99-6ba5-4117-a16a-e9768cc4adbd",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1228",
-      "name": "Sedrak Saroyan",
-      "sort_name": "Sedrak Saroyan",
+      "id": "person/9d7494af-2921-4fe3-9eca-a797d10189c6",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1394",
+      "name": "Sedrak Tevonyan",
+      "sort_name": "Sedrak Tevonyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1228"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1394"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/87107b99-6ba5-4117-a16a-e9768cc4adbd",
+          "person_id": "person/9d7494af-2921-4fe3-9eca-a797d10189c6",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "sergey.atomyan@parliament.am",
+      "id": "person/054dd04b-61fb-4501-b345-f16421a6112c",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1398",
+      "name": "Sergey Atomyan",
+      "sort_name": "Sergey Atomyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1398"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/054dd04b-61fb-4501-b345-f16421a6112c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2196,8 +2283,31 @@
           "person_id": "person/207972e8-e1c5-4631-8b61-72dd4d48e5bf",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/45d31667-b4c7-4949-85e5-9917a9d9991d",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1405",
+      "name": "Sergey Movsisyan",
+      "sort_name": "Sergey Movsisyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1405"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/45d31667-b4c7-4949-85e5-9917a9d9991d",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2221,8 +2331,8 @@
           "person_id": "person/d6b74b6a-982a-4b68-b001-861b60870868",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2246,17 +2356,8 @@
           "person_id": "person/a3d991f4-0aaa-4e21-aaec-3512bfd8d35a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "end_date": "2018-05-29",
-          "legislative_period_id": "term/6"
-        },
-        {
-          "person_id": "person/a3d991f4-0aaa-4e21-aaec-3512bfd8d35a",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "_IND",
-          "start_date": "2018-05-29",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2264,23 +2365,22 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/78f30e5d-293f-4b12-83e8-1facc6e29d08",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1174",
-      "name": "Shushan Petrosyan",
-      "sort_name": "Shushan Petrosyan",
+      "id": "person/9291b872-f9dd-4758-9d56-22e52f32d851",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1399",
+      "name": "Sipan Pashinyan",
+      "sort_name": "Sipan Pashinyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1174"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1399"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/78f30e5d-293f-4b12-83e8-1facc6e29d08",
+          "person_id": "person/9291b872-f9dd-4758-9d56-22e52f32d851",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2288,22 +2388,23 @@
       ]
     },
     {
-      "id": "person/25ba38ca-52e4-46c8-a04e-6285feeeca24",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1179",
-      "name": "Shushan Sardaryan",
-      "sort_name": "Shushan Sardaryan",
+      "email": "sisak.gabrielyan@parliament.am",
+      "id": "person/de401db6-ea9a-4349-b429-f4760347cf6b",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1335",
+      "name": "Sisak Gabrielyan",
+      "sort_name": "Sisak Gabrielyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1179"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1335"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/25ba38ca-52e4-46c8-a04e-6285feeeca24",
+          "person_id": "person/de401db6-ea9a-4349-b429-f4760347cf6b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2311,24 +2412,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e65bf457-e3e4-4d90-9d7c-0f170339c5fa",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1274",
-      "name": "Spartak Seyranyan",
-      "sort_name": "Spartak Seyranyan",
+      "email": "soghomon.soghomonyan@parliament.am",
+      "id": "person/78625fbc-dc47-4c5e-9f8a-900bfaead961",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1302",
+      "name": "Soghomon Soghomonyan",
+      "sort_name": "Soghomon Soghomonyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1274"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1302"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e65bf457-e3e4-4d90-9d7c-0f170339c5fa",
+          "person_id": "person/78625fbc-dc47-4c5e-9f8a-900bfaead961",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "start_date": "2018-05-24",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2336,23 +2436,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/bf9a818b-a8b3-4f9e-b0f8-3490a39e2e0a",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1263",
-      "name": "Suren Manukyan",
-      "sort_name": "Suren Manukyan",
+      "id": "person/84ddd620-4650-4a05-9113-4dbd411cdc36",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1322",
+      "name": "Sona Ghazaryan",
+      "sort_name": "Sona Ghazaryan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1263"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1322"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/bf9a818b-a8b3-4f9e-b0f8-3490a39e2e0a",
+          "person_id": "person/84ddd620-4650-4a05-9113-4dbd411cdc36",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "ARF",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2360,24 +2459,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/f07edcaa-dc66-408f-8d1b-a784c01f0b95",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1267",
-      "name": "Tatshat Vardapetyan",
-      "sort_name": "Tatshat Vardapetyan",
+      "id": "person/5c7fa404-66f8-4857-b50e-d8854c658ac2",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1383",
+      "name": "Sophia Hovsepyan",
+      "sort_name": "Sophia Hovsepyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1267"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1383"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/f07edcaa-dc66-408f-8d1b-a784c01f0b95",
+          "person_id": "person/5c7fa404-66f8-4857-b50e-d8854c658ac2",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "start_date": "2018-03-02",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2385,23 +2482,210 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/a24342a1-67c0-46ea-98ca-37d05e68a33e",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1195",
-      "name": "Tatyana Mikaelyan",
-      "sort_name": "Tatyana Mikaelyan",
+      "email": "sos.avetisyan@parliament.am",
+      "id": "person/c6e613a1-cfa4-4f1d-a9e5-ace942da6fe0",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1346",
+      "name": "Sos Avetisyan",
+      "sort_name": "Sos Avetisyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1195"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1346"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a24342a1-67c0-46ea-98ca-37d05e68a33e",
+          "person_id": "person/c6e613a1-cfa4-4f1d-a9e5-ace942da6fe0",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "srbuhi.grigoryan@parliament.am",
+      "id": "person/827b7796-935e-4ba3-937b-5ec987df0de6",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1349",
+      "name": "Srbuhi Grigoryan",
+      "sort_name": "Srbuhi Grigoryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1349"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/827b7796-935e-4ba3-937b-5ec987df0de6",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/37f80acf-9432-4953-abd0-fcd8438e27ba",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1328",
+      "name": "Suren Grigoryan",
+      "sort_name": "Suren Grigoryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1328"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/37f80acf-9432-4953-abd0-fcd8438e27ba",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/f4c9ff40-31c2-4538-aefb-83454bf44ca3",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1318",
+      "name": "Tagouhi Ghazaryan",
+      "sort_name": "Tagouhi Ghazaryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1318"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f4c9ff40-31c2-4538-aefb-83454bf44ca3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/e47650f2-cd57-4b57-861e-9482a68bd578",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1409",
+      "name": "Taguhi Tovmasyan",
+      "sort_name": "Taguhi Tovmasyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1409"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e47650f2-cd57-4b57-861e-9482a68bd578",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "taron.simonyan@parliament.am",
+      "id": "person/d5c6311d-2452-428a-8fea-afd11fe690d4",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1358",
+      "name": "Taron Simonyan",
+      "sort_name": "Taron Simonyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1358"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d5c6311d-2452-428a-8fea-afd11fe690d4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "BA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/8d21f019-3f67-4e04-b70a-0e1f6015fbef",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1397",
+      "name": "Tatevik Gasparyan",
+      "sort_name": "Tatevik Gasparyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1397"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8d21f019-3f67-4e04-b70a-0e1f6015fbef",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "tatevik.hayrapetyan@parliament.am",
+      "id": "person/3a0c79cd-ff95-4f91-94f4-a5b29e9904a3",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1344",
+      "name": "Tatevik Hayrapetyan",
+      "sort_name": "Tatevik Hayrapetyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1344"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3a0c79cd-ff95-4f91-94f4-a5b29e9904a3",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9a87cecf-a800-429d-a9f2-25cf4cb900fd",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1395",
+      "name": "Tigran Karapetyan",
+      "sort_name": "Tigran Karapetyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1395"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9a87cecf-a800-429d-a9f2-25cf4cb900fd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2425,8 +2709,31 @@
           "person_id": "person/1300806a-301e-47a2-b13b-1dc84f808e66",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/652328f7-90f5-4e92-a690-9e2f77a95f32",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1317",
+      "name": "Tigran Ulikhanyan",
+      "sort_name": "Tigran Ulikhanyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1317"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/652328f7-90f5-4e92-a690-9e2f77a95f32",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2450,8 +2757,8 @@
           "person_id": "person/80b523a7-b60c-46ae-8e30-464887503154",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2459,22 +2766,22 @@
       ]
     },
     {
-      "id": "person/e486f407-0928-4afb-883a-ef9ed41977cf",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1181",
-      "name": "Vahan Harutyunyan",
-      "sort_name": "Vahan Harutyunyan",
+      "id": "person/d8d10c73-e7a9-4ce3-b6b0-c50a44b983c5",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1350",
+      "name": "Tsovinar Vardanyan",
+      "sort_name": "Tsovinar Vardanyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1181"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1350"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e486f407-0928-4afb-883a-ef9ed41977cf",
+          "person_id": "person/d8d10c73-e7a9-4ce3-b6b0-c50a44b983c5",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2482,23 +2789,69 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/8571f144-26be-4ce1-add2-62c1d067344e",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1245",
-      "name": "Vahan Karapetyan",
-      "sort_name": "Vahan Karapetyan",
+      "email": "vagharshak.hakobyan@parliament.am",
+      "id": "person/760174ea-8303-4a24-b8c0-18bf41bde53b",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1379",
+      "name": "Vagharshak Hakobyan",
+      "sort_name": "Vagharshak Hakobyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1245"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1379"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8571f144-26be-4ce1-add2-62c1d067344e",
+          "person_id": "person/760174ea-8303-4a24-b8c0-18bf41bde53b",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/492573c6-7521-486e-80ab-5874a646b7c9",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1378",
+      "name": "Vahagn Hovakimyan",
+      "sort_name": "Vahagn Hovakimyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1378"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/492573c6-7521-486e-80ab-5874a646b7c9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/1ba4d3af-de0e-413b-84a4-78b620f6cf7c",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1348",
+      "name": "Vahagn Tevosyan",
+      "sort_name": "Vahagn Tevosyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1348"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/1ba4d3af-de0e-413b-84a4-78b620f6cf7c",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2522,8 +2875,8 @@
           "person_id": "person/eb528b0e-e4f4-4277-9fcf-a69b89241abf",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2531,23 +2884,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/9b2d20f1-273f-4d4a-8c1b-0ddbf7a75738",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1233",
-      "name": "Vahram Baghdasaryan",
-      "sort_name": "Vahram Baghdasaryan",
+      "id": "person/517d954e-1d04-4a62-b226-bc30982fa3c3",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1396",
+      "name": "Vahe Ghalumyan",
+      "sort_name": "Vahe Ghalumyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1233"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1396"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/9b2d20f1-273f-4d4a-8c1b-0ddbf7a75738",
+          "person_id": "person/517d954e-1d04-4a62-b226-bc30982fa3c3",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "RPA",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2555,22 +2907,71 @@
       ]
     },
     {
-      "id": "person/0904cfd3-f8a7-48b7-b6ca-af3a9ad89ada",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1244",
-      "name": "Vanik Asatryan",
-      "sort_name": "Vanik Asatryan",
+      "email": "vahe.hovhannisyan1@parliament.am",
+      "id": "person/da0a2ee3-c924-4345-a22c-a2a586fec66c",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1377",
+      "name": "Vahe Hovhannisyan",
+      "sort_name": "Vahe Hovhannisyan",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1244"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1377"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0904cfd3-f8a7-48b7-b6ca-af3a9ad89ada",
+          "person_id": "person/da0a2ee3-c924-4345-a22c-a2a586fec66c",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "varazdat.karapetyan@parliament.am",
+      "id": "person/b6f061bd-c73f-4ecb-920b-16aa1ba3bbe5",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1406",
+      "name": "Varazdat Karapetyan",
+      "sort_name": "Varazdat Karapetyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1406"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b6f061bd-c73f-4ecb-920b-16aa1ba3bbe5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/a9f9f651-0bab-45d1-a317-51c2c7f312c5",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1413",
+      "name": "Vardan Atabekyan",
+      "sort_name": "Vardan Atabekyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1413"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9f9f651-0bab-45d1-a317-51c2c7f312c5",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "start_date": "2019-01-30",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2594,8 +2995,32 @@
           "person_id": "person/ac12bf07-c9ee-4a90-b905-c8cdc06b882e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "vardan.vardanyan@parliament.am",
+      "id": "person/b85986a9-f5a6-4847-95d5-5e314f800c7b",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1306",
+      "name": "Vardan Vardanyan",
+      "sort_name": "Vardan Vardanyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1306"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b85986a9-f5a6-4847-95d5-5e314f800c7b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
@@ -2619,8 +3044,102 @@
           "person_id": "person/eaabeece-19aa-4863-8b8f-5d0b05750e0a",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "TSAR",
-          "legislative_period_id": "term/6"
+          "on_behalf_of_id": "PA",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "viktor.yengibaryan@parliament.am",
+      "id": "person/539cec47-cfb8-4f9c-9d6b-19c8e3ee7967",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1402",
+      "name": "Viktor Yengibaryan",
+      "sort_name": "Viktor Yengibaryan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1402"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/539cec47-cfb8-4f9c-9d6b-19c8e3ee7967",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "vladimir.vardanyan@parliament.am",
+      "id": "person/9221a0a0-e196-4526-a76c-9393d4de43b4",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1315",
+      "name": "Vladimir Vardanyan",
+      "sort_name": "Vladimir Vardanyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1315"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9221a0a0-e196-4526-a76c-9393d4de43b4",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/aa25c974-8a72-47a6-a41c-17137a5d7b12",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1292",
+      "name": "Yeghishe Soghomonyan",
+      "sort_name": "Yeghishe Soghomonyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1292"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/aa25c974-8a72-47a6-a41c-17137a5d7b12",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/fef75fdb-d1dc-4c0c-80df-b66d53222f14",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1368",
+      "name": "Yerjanik Hakobyan",
+      "sort_name": "Yerjanik Hakobyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1368"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/fef75fdb-d1dc-4c0c-80df-b66d53222f14",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
         }
       ],
       "contact_details": [
