@@ -1,7 +1,7 @@
 {
-  "total": 301,
+  "total": 303,
   "page": 1,
-  "per_page": 301,
+  "per_page": 303,
   "has_more": false,
   "result": [
     {
@@ -687,6 +687,23 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "area_id": "camarines_sur,_1st_district",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/12f2bc56-c238-45e0-9fa7-dfc2269e7949",
+      "name": "Ang, Ronald S.",
+      "sort_name": "Ang, Ronald S.",
+      "memberships": [
+        {
+          "person_id": "person/12f2bc56-c238-45e0-9fa7-dfc2269e7949",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "ako_bicol",
           "legislative_period_id": "term/17"
         }
       ],
@@ -3201,6 +3218,23 @@
       ]
     },
     {
+      "id": "person/8d9b817b-9681-4f7c-94df-3bb853bb4e1f",
+      "name": "Garces, Ulysses G.",
+      "sort_name": "Garces, Ulysses G.",
+      "memberships": [
+        {
+          "person_id": "person/8d9b817b-9681-4f7c-94df-3bb853bb4e1f",
+          "organization_id": "chamber/house_of_representatives",
+          "role": "member",
+          "on_behalf_of_id": "abs",
+          "legislative_period_id": "term/17"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/d79ff7d2-fec3-4d17-8782-a4f24b4f8fff",
       "image": "http://www.congress.gov.ph/members/images/16th/garcia-g.jpg",
@@ -3647,8 +3681,14 @@
     {
       "gender": "male",
       "id": "person/e565a8af-0a10-4501-9ce6-4e6f9fff6c42",
+      "image": "http://www.congress.gov.ph/members/images/17th/hernandez-p.jpg",
       "name": "Hernandez, Paul P.",
       "sort_name": "Hernandez, Paul P.",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/hernandez-p.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/e565a8af-0a10-4501-9ce6-4e6f9fff6c42",
