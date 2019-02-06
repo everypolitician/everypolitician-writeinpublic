@@ -1,7 +1,7 @@
 {
-  "total": 123,
+  "total": 124,
   "page": 1,
-  "per_page": 123,
+  "per_page": 124,
   "has_more": false,
   "result": [
     {
@@ -37,6 +37,32 @@
           "area_id": "te_tai_hauāuru",
           "legislative_period_id": "term/52"
         }
+      ]
+    },
+    {
+      "email": "agnes.loheni@parliament.govt.nz",
+      "id": "person/6fcbee34-5709-41c0-ae5e-18a2ba579819",
+      "image": "https://www.parliament.nz/media/1319/national-simplified.DmxK8A.jpg",
+      "name": "Agnes Loheni",
+      "sort_name": "Loheni, Agnes",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/1319/national-simplified.DmxK8A.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/6fcbee34-5709-41c0-ae5e-18a2ba579819",
+          "organization_id": "chamber/new_zealand_parliament",
+          "role": "member",
+          "on_behalf_of_id": "national_party",
+          "area_id": "list",
+          "start_date": "2019-01-31",
+          "legislative_period_id": "term/52"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -643,7 +669,6 @@
       ]
     },
     {
-      "email": "christopher.finlayson@parliament.govt.nz",
       "gender": "male",
       "id": "person/8229de1c-2dd0-4b28-9792-fa4eb980db63",
       "image": "https://www.parliament.nz/media/1288/finlayson-chris5.DmxK6Q.jpg",
@@ -673,6 +698,7 @@
           "role": "member",
           "on_behalf_of_id": "national_party",
           "area_id": "list",
+          "end_date": "2019-01-31",
           "legislative_period_id": "term/52"
         }
       ]
