@@ -7,7 +7,7 @@
     {
       "gender": "male",
       "id": "person/5c2f1a6e-6cbb-4d1e-b83a-db4de124fddb",
-      "name": "M. ABIGUIME Petik-Abalo",
+      "name": "ABIGUIME Petik-Abalo",
       "sort_name": "ABIGUIME Petik-Abalo",
       "memberships": [
         {
@@ -26,7 +26,7 @@
     {
       "gender": "male",
       "id": "person/d576bee9-848b-4d6c-8048-79def0dffbc2",
-      "name": "M. ABOLU Yawo Afelete",
+      "name": "ABOLU Yawo Afelete",
       "sort_name": "ABOLU Yawo Afelete",
       "memberships": [
         {
@@ -43,9 +43,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/1dab4f34-7b73-4d7e-b516-c1a99e22552b",
+      "name": "ADJAMAGBO Ayélo Okpé",
+      "sort_name": "ADJAMAGBO Ayélo Okpé",
+      "memberships": [
+        {
+          "person_id": "person/1dab4f34-7b73-4d7e-b516-c1a99e22552b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "ogou-anie",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/33c2098b-0555-456a-9d00-6049b826d72c",
-      "name": "M. ADJOR Akofi",
+      "name": "ADJOR Akofi",
       "sort_name": "ADJOR Akofi",
       "memberships": [
         {
@@ -64,7 +83,7 @@
     {
       "gender": "male",
       "id": "person/128bff8a-6062-44f1-b754-1381c793e9c8",
-      "name": "M. AFO ALEDJOU Mawé",
+      "name": "AFO ALEDJOU Mawé",
       "sort_name": "AFO ALEDJOU Mawé",
       "memberships": [
         {
@@ -83,7 +102,7 @@
     {
       "gender": "male",
       "id": "person/aaeb0389-9058-4385-878f-0eb9d4d5c323",
-      "name": "M. AGBO KOMLAN",
+      "name": "AGBO KOMLAN",
       "sort_name": "AGBO KOMLAN",
       "memberships": [
         {
@@ -102,7 +121,7 @@
     {
       "gender": "male",
       "id": "person/cc828d68-466f-4c75-981c-ab2f4aed3293",
-      "name": "M. AGBO Kokou",
+      "name": "AGBO Kokou",
       "sort_name": "AGBO Kokou",
       "memberships": [
         {
@@ -119,9 +138,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/62712dce-cf36-408f-b4c2-d6a63adc72d7",
+      "name": "AGBOKOU Kossiwa M. F.",
+      "sort_name": "AGBOKOU Kossiwa M. F.",
+      "memberships": [
+        {
+          "person_id": "person/62712dce-cf36-408f-b4c2-d6a63adc72d7",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "anc",
+          "area_id": "grand_lome",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/8f5dc0e3-1ce2-4504-afcf-6497c287307e",
-      "name": "M. ALONOU Kokou",
+      "name": "ALONOU Kokou",
       "sort_name": "ALONOU Kokou",
       "memberships": [
         {
@@ -138,9 +176,66 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/9f72d8ee-5013-4b0c-bbbe-ac85acc98ffb",
+      "name": "AMEDJOGBE Akossiwa Olivia",
+      "sort_name": "AMEDJOGBE Akossiwa Olivia",
+      "memberships": [
+        {
+          "person_id": "person/9f72d8ee-5013-4b0c-bbbe-ac85acc98ffb",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "grand_lome",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/19ef806c-cdc4-420c-9204-f0bfc0e02721",
+      "name": "AMEGANVI M.Isabelle D.",
+      "sort_name": "AMEGANVI M.Isabelle D.",
+      "memberships": [
+        {
+          "person_id": "person/19ef806c-cdc4-420c-9204-f0bfc0e02721",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "anc",
+          "area_id": "kloto-kpele",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/cd393911-7fef-4a55-8dee-2c8ec502a755",
+      "name": "AMENYO Afi Ntifa",
+      "sort_name": "AMENYO Afi Ntifa",
+      "memberships": [
+        {
+          "person_id": "person/cd393911-7fef-4a55-8dee-2c8ec502a755",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "agou",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/3838748b-5733-4dc8-8f50-7ef0f9c942c0",
-      "name": "M. AMETODJI Yawovi",
+      "name": "AMETODJI Yawovi",
       "sort_name": "AMETODJI Yawovi",
       "memberships": [
         {
@@ -157,9 +252,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
+      "name": "AMOUZOU DJAKE Kossiwa",
+      "sort_name": "AMOUZOU DJAKE Kossiwa",
+      "memberships": [
+        {
+          "person_id": "person/0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "haho",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/1028b507-de09-424f-9649-e20df7609a7c",
-      "name": "M. AMOUZOU Kodjovi",
+      "name": "AMOUZOU Kodjovi",
       "sort_name": "AMOUZOU Kodjovi",
       "memberships": [
         {
@@ -178,7 +292,7 @@
     {
       "gender": "male",
       "id": "person/bdf4c911-99ee-4133-a1ce-722165a32987",
-      "name": "M. APEKEY Assewouwokan",
+      "name": "APEKEY Assewouwokan",
       "sort_name": "APEKEY Assewouwokan",
       "memberships": [
         {
@@ -197,7 +311,7 @@
     {
       "gender": "male",
       "id": "person/ea86e52d-9813-457c-af1d-b5aaeb07e066",
-      "name": "M. APEVON Kokou Dodji",
+      "name": "APEVON Kokou Dodji",
       "sort_name": "APEVON Kokou Dodji",
       "memberships": [
         {
@@ -216,7 +330,7 @@
     {
       "gender": "male",
       "id": "person/75020ea7-5b29-4ab2-a89e-4f8f72dfd66c",
-      "name": "M. APEZOUKE Jean-Marie",
+      "name": "APEZOUKE Jean-Marie",
       "sort_name": "APEZOUKE Jean-Marie",
       "memberships": [
         {
@@ -235,7 +349,7 @@
     {
       "gender": "male",
       "id": "person/861fce6b-bb23-47a6-8586-07b9e918bfac",
-      "name": "M. ARZOUMA Natchadja",
+      "name": "ARZOUMA Natchadja",
       "sort_name": "ARZOUMA Natchadja",
       "memberships": [
         {
@@ -252,9 +366,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/96131c37-f099-4b15-805b-c8a484abbbd1",
+      "name": "ARZOUMA Pomong Wuinekouma",
+      "sort_name": "ARZOUMA Pomong Wuinekouma",
+      "memberships": [
+        {
+          "person_id": "person/96131c37-f099-4b15-805b-c8a484abbbd1",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "tone-cinkasse",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/df1ad960-3443-41c3-98f5-cdc3051108b7",
-      "name": "M. ASSOUMA Derman",
+      "name": "ASSOUMA Derman",
       "sort_name": "ASSOUMA Derman",
       "memberships": [
         {
@@ -273,7 +406,7 @@
     {
       "gender": "male",
       "id": "person/771133f1-035b-4c31-981e-9e4c8f2aa156",
-      "name": "M. ATAKPAMEY Kodjo",
+      "name": "ATAKPAMEY Kodjo",
       "sort_name": "ATAKPAMEY Kodjo",
       "memberships": [
         {
@@ -292,7 +425,7 @@
     {
       "gender": "male",
       "id": "person/5f401570-c557-4a81-94ca-fd4d03f85382",
-      "name": "M. ATCHI N’Bouké Yao",
+      "name": "ATCHI N’Bouké Yao",
       "sort_name": "ATCHI N’Bouké Yao",
       "memberships": [
         {
@@ -311,7 +444,7 @@
     {
       "gender": "male",
       "id": "person/941781b1-9bc3-4a3c-bc49-933956bab7ce",
-      "name": "M. AWATE Simala",
+      "name": "AWATE Simala",
       "sort_name": "AWATE Simala",
       "memberships": [
         {
@@ -330,7 +463,7 @@
     {
       "gender": "male",
       "id": "person/9b6386e1-b52a-4fd4-88ca-ffc325030a07",
-      "name": "M. BANKATI Bolagbédé",
+      "name": "BANKATI Bolagbédé",
       "sort_name": "BANKATI Bolagbédé",
       "memberships": [
         {
@@ -349,7 +482,7 @@
     {
       "gender": "male",
       "id": "person/9a7b391f-ac27-442c-97ab-98f0f94ff04f",
-      "name": "M. BARITSE Dametoti",
+      "name": "BARITSE Dametoti",
       "sort_name": "BARITSE Dametoti",
       "memberships": [
         {
@@ -368,7 +501,7 @@
     {
       "gender": "male",
       "id": "person/2ed0112f-4b0d-4ed2-8e9d-1e56f7dcc7f2",
-      "name": "M. BEGUEM Nakodja",
+      "name": "BEGUEM Nakodja",
       "sort_name": "BEGUEM Nakodja",
       "memberships": [
         {
@@ -387,7 +520,7 @@
     {
       "gender": "male",
       "id": "person/50d12269-0fc1-46d4-8569-067596b72610",
-      "name": "M. BOINI Taaka",
+      "name": "BOINI Taaka",
       "sort_name": "BOINI Taaka",
       "memberships": [
         {
@@ -405,8 +538,27 @@
     },
     {
       "gender": "male",
+      "id": "person/51dc5fb9-0bd2-423d-aff6-640669111f80",
+      "name": "BOURAIMA-DIABACTE K. Hamadou Brim",
+      "sort_name": "BOURAIMA-DIABACTE K. Hamadou Brim",
+      "memberships": [
+        {
+          "person_id": "person/51dc5fb9-0bd2-423d-aff6-640669111f80",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "ufc",
+          "area_id": "oti",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
       "id": "person/e03e15c9-98f4-4850-b7c2-bb10c9649fb6",
-      "name": "M. BOUWASSI Kédessa Datcha",
+      "name": "BOUWASSI Kédessa Datcha",
       "sort_name": "BOUWASSI Kédessa Datcha",
       "memberships": [
         {
@@ -423,9 +575,47 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/8590d69d-8179-4257-b1cd-3cb2140ad7fa",
+      "name": "DAGBAN Ayawavi Djigbodi",
+      "sort_name": "DAGBAN Ayawavi Djigbodi",
+      "memberships": [
+        {
+          "person_id": "person/8590d69d-8179-4257-b1cd-3cb2140ad7fa",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "grand_lome",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/fcfe3bf8-441c-4e33-a5cb-9046e282b32e",
+      "name": "DJOBO Nassara Epse OURO BANGANA",
+      "sort_name": "DJOBO Nassara Epse OURO BANGANA",
+      "memberships": [
+        {
+          "person_id": "person/fcfe3bf8-441c-4e33-a5cb-9046e282b32e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "tchaoudjo",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/0b3d06f4-17ea-41a7-83b7-6b2ba1dfe72c",
-      "name": "M. DOBOU Kwadzo Sedem",
+      "name": "DOBOU Kwadzo Sedem",
       "sort_name": "DOBOU Kwadzo Sedem",
       "memberships": [
         {
@@ -444,7 +634,7 @@
     {
       "gender": "male",
       "id": "person/bd0f0b69-d966-49ec-9789-73c28d1bcf00",
-      "name": "M. DOE-BRUCE Adama Koffi",
+      "name": "DOE-BRUCE Adama Koffi",
       "sort_name": "DOE-BRUCE Adama Koffi",
       "memberships": [
         {
@@ -463,7 +653,7 @@
     {
       "gender": "male",
       "id": "person/4c40cf41-3d31-48bf-aa0a-27bb011c2dc6",
-      "name": "M. DRA Kossi Seveamenou",
+      "name": "DRA Kossi Seveamenou",
       "sort_name": "DRA Kossi Seveamenou",
       "memberships": [
         {
@@ -482,7 +672,7 @@
     {
       "gender": "male",
       "id": "person/f1b9a08f-9e19-468e-9fbe-e27ba0f01dd2",
-      "name": "M. DRAMANI Dama",
+      "name": "DRAMANI Dama",
       "sort_name": "DRAMANI Dama",
       "memberships": [
         {
@@ -501,7 +691,7 @@
     {
       "gender": "male",
       "id": "person/b6cfbedb-3712-4501-bd67-293a36cd7b82",
-      "name": "M. EWOVOR Kossi Messan W.",
+      "name": "EWOVOR Kossi Messan W.",
       "sort_name": "EWOVOR Kossi Messan W.",
       "memberships": [
         {
@@ -521,7 +711,7 @@
       "gender": "male",
       "id": "person/47cf2337-79e2-4e20-982e-12d91e75bd05",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/JeanPierreFabre.jpg",
-      "name": "M. FABRE Jean-Pierre",
+      "name": "FABRE Jean-Pierre",
       "sort_name": "FABRE Jean-Pierre",
       "contact_details": [
         {
@@ -548,7 +738,7 @@
     {
       "gender": "male",
       "id": "person/530805ca-f086-49c3-bc42-7fd44affd1ce",
-      "name": "M. FOFANA Soffoh",
+      "name": "FOFANA Soffoh",
       "sort_name": "FOFANA Soffoh",
       "memberships": [
         {
@@ -567,7 +757,7 @@
     {
       "gender": "male",
       "id": "person/c6147e30-3015-470c-bf2c-65436e513a8a",
-      "name": "M. GAGOU KOKOU",
+      "name": "GAGOU KOKOU",
       "sort_name": "GAGOU KOKOU",
       "memberships": [
         {
@@ -584,9 +774,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/2dde6827-704d-4055-8f14-03127d3aa105",
+      "name": "GNAKOUAFRE A. S. Suhn-Badu",
+      "sort_name": "GNAKOUAFRE A. S. Suhn-Badu",
+      "memberships": [
+        {
+          "person_id": "person/2dde6827-704d-4055-8f14-03127d3aa105",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "blitta",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/5d5f3203-3255-4067-afb6-e8b92b640de8",
-      "name": "M. GNATCHO Komla Mawuena",
+      "name": "GNATCHO Komla Mawuena",
       "sort_name": "GNATCHO Komla Mawuena",
       "memberships": [
         {
@@ -605,7 +814,7 @@
     {
       "gender": "male",
       "id": "person/0248fb7f-f799-4bb8-bfd8-5ffc7a16ac2a",
-      "name": "M. GNONGBO Tak Youssif",
+      "name": "GNONGBO Tak Youssif",
       "sort_name": "GNONGBO Tak Youssif",
       "memberships": [
         {
@@ -624,7 +833,7 @@
     {
       "gender": "male",
       "id": "person/72343d22-5d37-4208-be5f-1c18117d9013",
-      "name": "M. GOGUE Tchaboure",
+      "name": "GOGUE Tchaboure",
       "sort_name": "GOGUE Tchaboure",
       "memberships": [
         {
@@ -643,7 +852,7 @@
     {
       "gender": "male",
       "id": "person/6ed59da8-b6e4-4cbc-b0da-2b0356cd1636",
-      "name": "M. HODIN Eke Kokou",
+      "name": "HODIN Eke Kokou",
       "sort_name": "HODIN Eke Kokou",
       "memberships": [
         {
@@ -662,7 +871,7 @@
     {
       "gender": "male",
       "id": "person/41e9bced-d5ea-4d36-a9f0-9604daf430b0",
-      "name": "M. HOWANOU Edoh",
+      "name": "HOWANOU Edoh",
       "sort_name": "HOWANOU Edoh",
       "memberships": [
         {
@@ -679,9 +888,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/c6b3ca74-369f-4f0d-b996-e383fb0d82fd",
+      "name": "IBRAHIMA Memounatou",
+      "sort_name": "IBRAHIMA Memounatou",
+      "memberships": [
+        {
+          "person_id": "person/c6b3ca74-369f-4f0d-b996-e383fb0d82fd",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "dankpen",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/0e0d45d5-d5c0-4e5c-b83c-c1f176d99880",
-      "name": "M. JIMONGOU Sambiani Kpandou",
+      "name": "JIMONGOU Sambiani Kpandou",
       "sort_name": "JIMONGOU Sambiani Kpandou",
       "memberships": [
         {
@@ -700,7 +928,7 @@
     {
       "gender": "male",
       "id": "person/154d18bb-4496-43f1-bfef-1a2ba5cffe3f",
-      "name": "M. JONDOH Comlavi Dzigbodi",
+      "name": "JONDOH Comlavi Dzigbodi",
       "sort_name": "JONDOH Comlavi Dzigbodi",
       "memberships": [
         {
@@ -719,7 +947,7 @@
     {
       "gender": "male",
       "id": "person/e1c8700d-a0cc-4bc4-b8b1-228c2694c565",
-      "name": "M. KAMPATIBE Nagbandja",
+      "name": "KAMPATIBE Nagbandja",
       "sort_name": "KAMPATIBE Nagbandja",
       "memberships": [
         {
@@ -738,7 +966,7 @@
     {
       "gender": "male",
       "id": "person/cf0cdea2-7102-406a-ad73-3412e1537f73",
-      "name": "M. KATAGNA Essodina",
+      "name": "KATAGNA Essodina",
       "sort_name": "KATAGNA Essodina",
       "memberships": [
         {
@@ -757,7 +985,7 @@
     {
       "gender": "male",
       "id": "person/71848d0b-d804-46f7-b6a6-1989a08336c3",
-      "name": "M. KATIN Djagre",
+      "name": "KATIN Djagre",
       "sort_name": "KATIN Djagre",
       "memberships": [
         {
@@ -776,7 +1004,7 @@
     {
       "gender": "male",
       "id": "person/408d02ef-6c40-4ffd-9e66-bf019f8081ba",
-      "name": "M. KERTCHO Komina",
+      "name": "KERTCHO Komina",
       "sort_name": "KERTCHO Komina",
       "memberships": [
         {
@@ -795,7 +1023,7 @@
     {
       "gender": "male",
       "id": "person/164dd5d1-cc42-4de1-92d2-f47f75274f53",
-      "name": "M. KETOGLO Yao Victor",
+      "name": "KETOGLO Yao Victor",
       "sort_name": "KETOGLO Yao Victor",
       "memberships": [
         {
@@ -814,7 +1042,7 @@
     {
       "gender": "male",
       "id": "person/76a4e5eb-97a6-45b6-855b-cf83e0bd4903",
-      "name": "M. KISSI Kofi Hotounou",
+      "name": "KISSI Kofi Hotounou",
       "sort_name": "KISSI Kofi Hotounou",
       "memberships": [
         {
@@ -833,7 +1061,7 @@
     {
       "gender": "male",
       "id": "person/15d0cbc9-7e5b-4c1c-bfc7-5d5dd4e9ba96",
-      "name": "M. KOFFI Kossiko Kalenyo",
+      "name": "KOFFI Kossiko Kalenyo",
       "sort_name": "KOFFI Kossiko Kalenyo",
       "memberships": [
         {
@@ -850,9 +1078,66 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/4bc0beb8-1bfd-4c9f-9a23-fdcedd35a144",
+      "name": "KOLANI Yobate",
+      "sort_name": "KOLANI Yobate",
+      "memberships": [
+        {
+          "person_id": "person/4bc0beb8-1bfd-4c9f-9a23-fdcedd35a144",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "tandjouare",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
+      "name": "KOSSIGAN Kodjogan M.",
+      "sort_name": "KOSSIGAN Kodjogan M.",
+      "memberships": [
+        {
+          "person_id": "person/bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "haho",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/42efc60a-67a5-4e6d-9959-2eda7cbd1285",
+      "name": "KOUKPOKPA Issolemo Epse BAGNA",
+      "sort_name": "KOUKPOKPA Issolemo Epse BAGNA",
+      "memberships": [
+        {
+          "person_id": "person/42efc60a-67a5-4e6d-9959-2eda7cbd1285",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "indépendant_sursaut_national",
+          "area_id": "bassar",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/f8076dd9-a328-4262-aba2-7dc8226d4817",
-      "name": "M. KPADENOU Amoussouvi",
+      "name": "KPADENOU Amoussouvi",
       "sort_name": "KPADENOU Amoussouvi",
       "memberships": [
         {
@@ -871,7 +1156,7 @@
     {
       "gender": "male",
       "id": "person/6960079f-2697-4a90-96c7-3c1e0b7c680f",
-      "name": "M. KPATCHA Komi",
+      "name": "KPATCHA Komi",
       "sort_name": "KPATCHA Komi",
       "memberships": [
         {
@@ -890,7 +1175,7 @@
     {
       "gender": "male",
       "id": "person/d3f70de4-73d6-4fa0-97f0-70734a4ec7eb",
-      "name": "M. KPOGO Kodjo",
+      "name": "KPOGO Kodjo",
       "sort_name": "KPOGO Kodjo",
       "memberships": [
         {
@@ -909,7 +1194,7 @@
     {
       "gender": "male",
       "id": "person/f0301b4e-dd64-40e1-b729-18b3102f667b",
-      "name": "M. KPOHOU Sim",
+      "name": "KPOHOU Sim",
       "sort_name": "KPOHOU Sim",
       "memberships": [
         {
@@ -928,7 +1213,7 @@
     {
       "gender": "male",
       "id": "person/07ad05ae-1284-4da4-a0b2-81821406feba",
-      "name": "M. LABITOKO Kadjila",
+      "name": "LABITOKO Kadjila",
       "sort_name": "LABITOKO Kadjila",
       "memberships": [
         {
@@ -947,7 +1232,7 @@
     {
       "gender": "male",
       "id": "person/48d96724-0829-462a-a9ff-e52cc9e98b55",
-      "name": "M. LAWSON Latevi Calvin Georges",
+      "name": "LAWSON Latevi Calvin Georges",
       "sort_name": "LAWSON Latevi Calvin Georges",
       "memberships": [
         {
@@ -966,7 +1251,7 @@
     {
       "gender": "male",
       "id": "person/d021204e-864d-497b-bb51-9df1594d84ba",
-      "name": "M. LAWSON-Banku Boevi Patrick",
+      "name": "LAWSON-Banku Boevi Patrick",
       "sort_name": "LAWSON-Banku Boevi Patrick",
       "memberships": [
         {
@@ -985,7 +1270,7 @@
     {
       "gender": "male",
       "id": "person/6f66a6e2-eeb8-4310-8729-595e76059294",
-      "name": "M. MALLE Kayaba",
+      "name": "MALLE Kayaba",
       "sort_name": "MALLE Kayaba",
       "memberships": [
         {
@@ -1004,7 +1289,7 @@
     {
       "gender": "male",
       "id": "person/8f5495a4-d4a4-4986-890d-a9e1c9e35fb7",
-      "name": "M. NASSOU Alouadjou K.",
+      "name": "NASSOU Alouadjou K.",
       "sort_name": "NASSOU Alouadjou K.",
       "memberships": [
         {
@@ -1023,7 +1308,7 @@
     {
       "gender": "male",
       "id": "person/3c0d78f7-2902-44d5-aa0f-63157a341bea",
-      "name": "M. NAYO Koffi Bessewu",
+      "name": "NAYO Koffi Bessewu",
       "sort_name": "NAYO Koffi Bessewu",
       "memberships": [
         {
@@ -1042,7 +1327,7 @@
     {
       "gender": "male",
       "id": "person/8a9c4083-2194-4499-ab8b-ec8a1cbb8e3e",
-      "name": "M. NONON K. Diera-Bariga",
+      "name": "NONON K. Diera-Bariga",
       "sort_name": "NONON K. Diera-Bariga",
       "memberships": [
         {
@@ -1061,7 +1346,7 @@
     {
       "gender": "male",
       "id": "person/df6428b6-8787-4e32-a147-88eac720c40a",
-      "name": "M. OGBLOMESSE Koku M.",
+      "name": "OGBLOMESSE Koku M.",
       "sort_name": "OGBLOMESSE Koku M.",
       "memberships": [
         {
@@ -1080,7 +1365,7 @@
     {
       "gender": "male",
       "id": "person/b1ff66c6-1a6b-4a37-b67f-27c92b52e4d5",
-      "name": "M. ORE DJIMON",
+      "name": "ORE DJIMON",
       "sort_name": "ORE DJIMON",
       "memberships": [
         {
@@ -1099,7 +1384,7 @@
     {
       "gender": "male",
       "id": "person/7510eec8-6a4d-4215-9fcf-1500678788cc",
-      "name": "M. OSSEYI Yawovi",
+      "name": "OSSEYI Yawovi",
       "sort_name": "OSSEYI Yawovi",
       "memberships": [
         {
@@ -1118,7 +1403,7 @@
     {
       "gender": "male",
       "id": "person/7d3fa5eb-cc83-4d30-b039-687e6b6eb377",
-      "name": "M. OURO-AKPO Tchagnaou",
+      "name": "OURO-AKPO Tchagnaou",
       "sort_name": "OURO-AKPO Tchagnaou",
       "memberships": [
         {
@@ -1137,7 +1422,7 @@
     {
       "gender": "male",
       "id": "person/af7d2c5f-4301-4938-8371-0cc728c7713a",
-      "name": "M. PENN Lare Batouth",
+      "name": "PENN Lare Batouth",
       "sort_name": "PENN Lare Batouth",
       "memberships": [
         {
@@ -1156,7 +1441,7 @@
     {
       "gender": "male",
       "id": "person/fa1f3b9e-18e4-4da2-b6c2-1db64ba15123",
-      "name": "M. SAMBIANI Yentema A.",
+      "name": "SAMBIANI Yentema A.",
       "sort_name": "SAMBIANI Yentema A.",
       "memberships": [
         {
@@ -1175,7 +1460,7 @@
     {
       "gender": "male",
       "id": "person/a7e6d0df-3b18-4d56-a1e0-d0d129db2060",
-      "name": "M. SEGO Etse Franck",
+      "name": "SEGO Etse Franck",
       "sort_name": "SEGO Etse Franck",
       "memberships": [
         {
@@ -1194,7 +1479,7 @@
     {
       "gender": "male",
       "id": "person/ea64e669-982e-4aa6-8abf-415179e06171",
-      "name": "M. SENOU Komlan",
+      "name": "SENOU Komlan",
       "sort_name": "SENOU Komlan",
       "memberships": [
         {
@@ -1211,9 +1496,28 @@
       ]
     },
     {
+      "gender": "female",
+      "id": "person/9b5fde93-d987-4ef4-b343-69f9f4afbc97",
+      "name": "SEWOA Adjoa M. S.",
+      "sort_name": "SEWOA Adjoa M. S.",
+      "memberships": [
+        {
+          "person_id": "person/9b5fde93-d987-4ef4-b343-69f9f4afbc97",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "zio",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/cc05069b-2742-477b-8c3b-28223fac1893",
-      "name": "M. SOGOYOU Bekeyi E.",
+      "name": "SOGOYOU Bekeyi E.",
       "sort_name": "SOGOYOU Bekeyi E.",
       "memberships": [
         {
@@ -1232,7 +1536,7 @@
     {
       "gender": "male",
       "id": "person/c76781cb-b418-40e9-9632-3952fa6532ab",
-      "name": "M. TARGONE Sambiri N’wakin",
+      "name": "TARGONE Sambiri N’wakin",
       "sort_name": "TARGONE Sambiri N’wakin",
       "memberships": [
         {
@@ -1251,7 +1555,7 @@
     {
       "gender": "male",
       "id": "person/ccfb827f-c008-46ac-bc1c-77d57f0ab151",
-      "name": "M. TCHAMON Abalea",
+      "name": "TCHAMON Abalea",
       "sort_name": "TCHAMON Abalea",
       "memberships": [
         {
@@ -1270,7 +1574,7 @@
     {
       "gender": "male",
       "id": "person/f9dda63b-83d9-465d-bc55-752bb8155c5e",
-      "name": "M. TCHAO Padumhekou",
+      "name": "TCHAO Padumhekou",
       "sort_name": "TCHAO Padumhekou",
       "memberships": [
         {
@@ -1289,7 +1593,7 @@
     {
       "gender": "male",
       "id": "person/de665b53-e234-48bd-a500-19327fdee320",
-      "name": "M. TCHASSE Awedeou",
+      "name": "TCHASSE Awedeou",
       "sort_name": "TCHASSE Awedeou",
       "memberships": [
         {
@@ -1306,351 +1610,9 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/12a0cc3c-5de2-42d4-a79c-1dd490d16ff9",
-      "name": "M. TOUSSA Komi Gameli",
-      "sort_name": "TOUSSA Komi Gameli",
-      "memberships": [
-        {
-          "person_id": "person/12a0cc3c-5de2-42d4-a79c-1dd490d16ff9",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "kloto-kpele",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2986fb08-912a-4570-aff3-6ea7e38246f6",
-      "name": "M. VODIS Yawo",
-      "sort_name": "VODIS Yawo",
-      "memberships": [
-        {
-          "person_id": "person/2986fb08-912a-4570-aff3-6ea7e38246f6",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "anc",
-          "area_id": "zio",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d32515cb-889c-42c7-9da6-1e098e050e28",
-      "name": "M. YAKPO Kossi",
-      "sort_name": "YAKPO Kossi",
-      "memberships": [
-        {
-          "person_id": "person/d32515cb-889c-42c7-9da6-1e098e050e28",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "wawa-akebou",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/6099301a-1cf2-4309-aed3-75aa74c7a9cb",
-      "name": "M. YENTOUMI Kodjo Ikpaledou",
-      "sort_name": "YENTOUMI Kodjo Ikpaledou",
-      "memberships": [
-        {
-          "person_id": "person/6099301a-1cf2-4309-aed3-75aa74c7a9cb",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "wawa-akebou",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/51dc5fb9-0bd2-423d-aff6-640669111f80",
-      "name": "M.BOURAIMA-DIABACTE K. Hamadou Brim",
-      "sort_name": "BOURAIMA-DIABACTE K. Hamadou Brim",
-      "memberships": [
-        {
-          "person_id": "person/51dc5fb9-0bd2-423d-aff6-640669111f80",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "ufc",
-          "area_id": "oti",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
-      "name": "M.KOSSIGAN Kodjogan M.",
-      "sort_name": "KOSSIGAN Kodjogan M.",
-      "memberships": [
-        {
-          "person_id": "person/bb67e2c1-97e2-40b2-9efb-8cb5456a11ba",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "haho",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/9f72d8ee-5013-4b0c-bbbe-ac85acc98ffb",
-      "name": "Mme AMEDJOGBE Akossiwa Olivia",
-      "sort_name": "AMEDJOGBE Akossiwa Olivia",
-      "memberships": [
-        {
-          "person_id": "person/9f72d8ee-5013-4b0c-bbbe-ac85acc98ffb",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "grand_lome",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/19ef806c-cdc4-420c-9204-f0bfc0e02721",
-      "name": "Mme AMEGANVI M.Isabelle D.",
-      "sort_name": "AMEGANVI M.Isabelle D.",
-      "memberships": [
-        {
-          "person_id": "person/19ef806c-cdc4-420c-9204-f0bfc0e02721",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "anc",
-          "area_id": "kloto-kpele",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/cd393911-7fef-4a55-8dee-2c8ec502a755",
-      "name": "Mme AMENYO Afi Ntifa",
-      "sort_name": "AMENYO Afi Ntifa",
-      "memberships": [
-        {
-          "person_id": "person/cd393911-7fef-4a55-8dee-2c8ec502a755",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "agou",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
-      "name": "Mme AMOUZOU DJAKE Kossiwa",
-      "sort_name": "AMOUZOU DJAKE Kossiwa",
-      "memberships": [
-        {
-          "person_id": "person/0ad8a456-ee30-415b-87e1-8c2d6ca441a2",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "haho",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/96131c37-f099-4b15-805b-c8a484abbbd1",
-      "name": "Mme ARZOUMA Pomong Wuinekouma",
-      "sort_name": "ARZOUMA Pomong Wuinekouma",
-      "memberships": [
-        {
-          "person_id": "person/96131c37-f099-4b15-805b-c8a484abbbd1",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "tone-cinkasse",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/8590d69d-8179-4257-b1cd-3cb2140ad7fa",
-      "name": "Mme DAGBAN Ayawavi Djigbodi",
-      "sort_name": "DAGBAN Ayawavi Djigbodi",
-      "memberships": [
-        {
-          "person_id": "person/8590d69d-8179-4257-b1cd-3cb2140ad7fa",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "grand_lome",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/fcfe3bf8-441c-4e33-a5cb-9046e282b32e",
-      "name": "Mme DJOBO Nassara Epse OURO BANGANA",
-      "sort_name": "DJOBO Nassara Epse OURO BANGANA",
-      "memberships": [
-        {
-          "person_id": "person/fcfe3bf8-441c-4e33-a5cb-9046e282b32e",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "tchaoudjo",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/2dde6827-704d-4055-8f14-03127d3aa105",
-      "name": "Mme GNAKOUAFRE A. S. Suhn-Badu",
-      "sort_name": "GNAKOUAFRE A. S. Suhn-Badu",
-      "memberships": [
-        {
-          "person_id": "person/2dde6827-704d-4055-8f14-03127d3aa105",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "blitta",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/c6b3ca74-369f-4f0d-b996-e383fb0d82fd",
-      "name": "Mme IBRAHIMA Memounatou",
-      "sort_name": "IBRAHIMA Memounatou",
-      "memberships": [
-        {
-          "person_id": "person/c6b3ca74-369f-4f0d-b996-e383fb0d82fd",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "dankpen",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/4bc0beb8-1bfd-4c9f-9a23-fdcedd35a144",
-      "name": "Mme KOLANI Yobate",
-      "sort_name": "KOLANI Yobate",
-      "memberships": [
-        {
-          "person_id": "person/4bc0beb8-1bfd-4c9f-9a23-fdcedd35a144",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "tandjouare",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/42efc60a-67a5-4e6d-9959-2eda7cbd1285",
-      "name": "Mme KOUKPOKPA Issolemo Epse BAGNA",
-      "sort_name": "KOUKPOKPA Issolemo Epse BAGNA",
-      "memberships": [
-        {
-          "person_id": "person/42efc60a-67a5-4e6d-9959-2eda7cbd1285",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "indépendant_sursaut_national",
-          "area_id": "bassar",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/9b5fde93-d987-4ef4-b343-69f9f4afbc97",
-      "name": "Mme SEWOA Adjoa M. S.",
-      "sort_name": "SEWOA Adjoa M. S.",
-      "memberships": [
-        {
-          "person_id": "person/9b5fde93-d987-4ef4-b343-69f9f4afbc97",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "zio",
-          "legislative_period_id": "term/2013"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "gender": "female",
       "id": "person/13097aa9-c3c7-4cf5-9185-a17594cde69d",
-      "name": "Mme TELOU Mila – Belle",
+      "name": "TELOU Mila – Belle",
       "sort_name": "TELOU Mila – Belle",
       "memberships": [
         {
@@ -1669,7 +1631,7 @@
     {
       "gender": "female",
       "id": "person/00498db7-0a4b-47b7-ab65-bda13cfd51f7",
-      "name": "Mme TIGNOKPA Ayawovi D.",
+      "name": "TIGNOKPA Ayawovi D.",
       "sort_name": "TIGNOKPA Ayawovi D.",
       "memberships": [
         {
@@ -1686,9 +1648,28 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/12a0cc3c-5de2-42d4-a79c-1dd490d16ff9",
+      "name": "TOUSSA Komi Gameli",
+      "sort_name": "TOUSSA Komi Gameli",
+      "memberships": [
+        {
+          "person_id": "person/12a0cc3c-5de2-42d4-a79c-1dd490d16ff9",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "kloto-kpele",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "female",
       "id": "person/2900c960-d7e8-4612-8181-9a4da1014282",
-      "name": "Mme TSEGAN Yawa Djigbodi",
+      "name": "TSEGAN Yawa Djigbodi",
       "sort_name": "TSEGAN Yawa Djigbodi",
       "memberships": [
         {
@@ -1705,17 +1686,17 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/1dab4f34-7b73-4d7e-b516-c1a99e22552b",
-      "name": "Mme. ADJAMAGBO Ayélo Okpé",
-      "sort_name": "ADJAMAGBO Ayélo Okpé",
+      "gender": "male",
+      "id": "person/2986fb08-912a-4570-aff3-6ea7e38246f6",
+      "name": "VODIS Yawo",
+      "sort_name": "VODIS Yawo",
       "memberships": [
         {
-          "person_id": "person/1dab4f34-7b73-4d7e-b516-c1a99e22552b",
+          "person_id": "person/2986fb08-912a-4570-aff3-6ea7e38246f6",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "unir",
-          "area_id": "ogou-anie",
+          "on_behalf_of_id": "anc",
+          "area_id": "zio",
           "legislative_period_id": "term/2013"
         }
       ],
@@ -1724,17 +1705,36 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/62712dce-cf36-408f-b4c2-d6a63adc72d7",
-      "name": "Mme. AGBOKOU Kossiwa M. F.",
-      "sort_name": "AGBOKOU Kossiwa M. F.",
+      "gender": "male",
+      "id": "person/d32515cb-889c-42c7-9da6-1e098e050e28",
+      "name": "YAKPO Kossi",
+      "sort_name": "YAKPO Kossi",
       "memberships": [
         {
-          "person_id": "person/62712dce-cf36-408f-b4c2-d6a63adc72d7",
+          "person_id": "person/d32515cb-889c-42c7-9da6-1e098e050e28",
           "organization_id": "chamber/national_assembly",
           "role": "member",
-          "on_behalf_of_id": "anc",
-          "area_id": "grand_lome",
+          "on_behalf_of_id": "unir",
+          "area_id": "wawa-akebou",
+          "legislative_period_id": "term/2013"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/6099301a-1cf2-4309-aed3-75aa74c7a9cb",
+      "name": "YENTOUMI Kodjo Ikpaledou",
+      "sort_name": "YENTOUMI Kodjo Ikpaledou",
+      "memberships": [
+        {
+          "person_id": "person/6099301a-1cf2-4309-aed3-75aa74c7a9cb",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "unir",
+          "area_id": "wawa-akebou",
           "legislative_period_id": "term/2013"
         }
       ],
