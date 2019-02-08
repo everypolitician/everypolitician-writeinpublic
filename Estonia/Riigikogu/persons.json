@@ -1,7 +1,7 @@
 {
-  "total": 152,
+  "total": 153,
   "page": 1,
-  "per_page": 152,
+  "per_page": 153,
   "has_more": false,
   "result": [
     {
@@ -2557,6 +2557,7 @@
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
           "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
+          "end_date": "2019-02-05",
           "legislative_period_id": "term/13"
         }
       ]
@@ -3982,6 +3983,24 @@
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
           "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
           "end_date": "2018-05-06",
+          "legislative_period_id": "term/13"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/15e86b67-0bf2-4135-9077-bcf388cd0f1a",
+      "name": "Signe Kivi",
+      "sort_name": "Signe Kivi",
+      "memberships": [
+        {
+          "person_id": "person/15e86b67-0bf2-4135-9077-bcf388cd0f1a",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "start_date": "2019-02-05",
           "legislative_period_id": "term/13"
         }
       ],
