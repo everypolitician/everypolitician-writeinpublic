@@ -1613,6 +1613,15 @@
           "start_date": "2015-04-09",
           "end_date": "2015-07-15",
           "legislative_period_id": "term/13"
+        },
+        {
+          "person_id": "person/b0949091-91b4-4c3c-8cda-a1dcebc8dc85",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "unknown",
+          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
+          "start_date": "2019-02-07",
+          "legislative_period_id": "term/13"
         }
       ],
       "contact_details": [
@@ -2011,10 +2020,23 @@
       ]
     },
     {
+      "email": "jyri.saar@riigikogu.ee",
       "gender": "male",
       "id": "person/2c1c6807-225e-495e-813d-69096ed49615",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/441efcaf-840f-4e7d-9e21-ca48cb59150d.jpg",
       "name": "Jüri Saar",
       "sort_name": "Jüri Saar",
+      "links": [
+        {
+          "url": "juri.saar.14",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/441efcaf-840f-4e7d-9e21-ca48cb59150d.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/2c1c6807-225e-495e-813d-69096ed49615",
@@ -3991,9 +4013,16 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/15e86b67-0bf2-4135-9077-bcf388cd0f1a",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/default-user.jpg",
       "name": "Signe Kivi",
       "sort_name": "Signe Kivi",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/default-user.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/15e86b67-0bf2-4135-9077-bcf388cd0f1a",
@@ -4001,6 +4030,7 @@
           "role": "member",
           "on_behalf_of_id": "unknown",
           "start_date": "2019-02-05",
+          "end_date": "2019-02-06",
           "legislative_period_id": "term/13"
         }
       ],
