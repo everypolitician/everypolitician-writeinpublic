@@ -1,7 +1,7 @@
 {
-  "total": 62,
+  "total": 63,
   "page": 1,
-  "per_page": 62,
+  "per_page": 63,
   "has_more": false,
   "result": [
     {
@@ -942,6 +942,29 @@
       ]
     },
     {
+      "id": "person/f12ab879-545f-46b5-97e0-4bc6acc6830d",
+      "image": "https://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17025009_17000062_13GUIDIMICHELE.jpg",
+      "name": "Michele Guidi",
+      "sort_name": "Guidi, Michele",
+      "images": [
+        {
+          "url": "https://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17025009_17000062_13GUIDIMICHELE.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f12ab879-545f-46b5-97e0-4bc6acc6830d",
+          "organization_id": "chamber/grand_and_general_council",
+          "role": "member",
+          "on_behalf_of_id": "sinistra_socialista_democratica",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "id": "person/e5e9c135-b8d4-4992-b3b0-290072ccac5a",
       "image": "http://www.consigliograndeegenerale.sm/contents/instance18/files/photo/17019046_17000062_MuratoriMichele.jpg",
       "name": "Michele Muratori",
@@ -1286,6 +1309,7 @@
           "organization_id": "chamber/grand_and_general_council",
           "role": "member",
           "on_behalf_of_id": "sinistra_socialista_democratica",
+          "end_date": "2019-02-15",
           "legislative_period_id": "term/2016"
         }
       ],
