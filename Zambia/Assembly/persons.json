@@ -1,7 +1,7 @@
 {
-  "total": 169,
+  "total": 172,
   "page": 1,
-  "per_page": 169,
+  "per_page": 172,
   "has_more": false,
   "result": [
     {
@@ -1639,6 +1639,24 @@
       ]
     },
     {
+      "id": "person/ed14ed74-f734-413e-a8ac-89bf1ee280f2",
+      "name": "Goodwin Putu",
+      "sort_name": "Goodwin Putu",
+      "memberships": [
+        {
+          "person_id": "person/ed14ed74-f734-413e-a8ac-89bf1ee280f2",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PF",
+          "area_id": "mangango",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "hkalaba@parliament.gov.zm",
       "gender": "male",
       "id": "person/60ca9b3f-449e-4d1b-9d37-ef89af918126",
@@ -2646,31 +2664,6 @@
     },
     {
       "gender": "male",
-      "id": "person/42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
-      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/nkhuwa%25252C_matthew.jpg?itok=FYXW3nQ2",
-      "name": "Mathew Nkhuwa",
-      "sort_name": "Mathew Nkhuwa",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/nkhuwa%25252C_matthew.jpg?itok=FYXW3nQ2"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "PF",
-          "area_id": "chingola",
-          "legislative_period_id": "term/2016"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
       "id": "person/488abf46-111f-416d-a3e4-bfb0b89b1762",
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/jere%252C_mathews.jpg?itok=9M3SUXId",
       "name": "Mathews Jere",
@@ -2687,6 +2680,31 @@
           "role": "member",
           "on_behalf_of_id": "UPND",
           "area_id": "livingstone",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
+      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/nkhuwa%25252C_matthew.jpg?itok=FYXW3nQ2",
+      "name": "Matthew Nkhuwa",
+      "sort_name": "Matthew Nkhuwa",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/nkhuwa%25252C_matthew.jpg?itok=FYXW3nQ2"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "PF",
+          "area_id": "chingola",
           "legislative_period_id": "term/2016"
         }
       ],
@@ -3541,6 +3559,24 @@
       ]
     },
     {
+      "id": "person/0c33d800-55a8-4e40-bfd0-27cd290d5361",
+      "name": "Raphael Nakachinda",
+      "sort_name": "Raphael Nakachinda",
+      "memberships": [
+        {
+          "person_id": "person/0c33d800-55a8-4e40-bfd0-27cd290d5361",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MMD",
+          "area_id": "nominated",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/665b5687-f829-4a51-b869-7b6fc0eae878",
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/bulaya%252C_rasfold.jpg?itok=yXvaL_h6",
@@ -3687,6 +3723,24 @@
           "role": "member",
           "on_behalf_of_id": "PF",
           "area_id": "mwansabombwe",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/348c9d71-775a-4abb-9086-52a482d21f9b",
+      "name": "Romeo Kang'ombe",
+      "sort_name": "Romeo Kang'ombe",
+      "memberships": [
+        {
+          "person_id": "person/348c9d71-775a-4abb-9086-52a482d21f9b",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "UPND",
+          "area_id": "sesheke",
           "legislative_period_id": "term/2016"
         }
       ],
