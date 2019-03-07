@@ -64,6 +64,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/c4520ab6-dc17-4a3c-aacc-572d891d289e",
       "name": "C Anes",
       "sort_name": "C Anes",
@@ -296,6 +297,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/b896fc31-50ca-42e7-afff-eacfaccc4bc8",
       "name": "J J Netto",
       "sort_name": "Netto, James Joseph",
@@ -313,9 +315,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maurice_Xiberras_in_1981.jpg",
       "name": "M Xiberras",
       "sort_name": "M Xiberras",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maurice_Xiberras_in_1981.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
@@ -396,9 +405,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/6ffe17fb-24d1-4dc3-b44b-068e76baad64",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Robert_Peliza.jpg",
       "name": "R J Peliza",
       "sort_name": "R J Peliza",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Robert_Peliza.jpg"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/6ffe17fb-24d1-4dc3-b44b-068e76baad64",
@@ -461,6 +477,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/a547cb15-fdd3-4dbb-8e87-080cb6881905",
       "name": "S M Figueras",
       "sort_name": "Figueras, Selwyn Matthew",
