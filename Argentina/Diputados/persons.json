@@ -1007,8 +1007,26 @@
     {
       "gender": "female",
       "id": "person/9a022ac5-f226-4095-b1b3-b7d880309aec",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cecilia_Moreau.png",
       "name": "Cecilia Moreau",
       "sort_name": "Moreau, Cecilia",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CECILIAMOREAU"
+        }
+      ],
+      "links": [
+        {
+          "url": "ceciliamoreauok",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cecilia_Moreau.png"
+        }
+      ],
       "memberships": [
         {
           "person_id": "person/9a022ac5-f226-4095-b1b3-b7d880309aec",
@@ -1018,9 +1036,6 @@
           "area_id": "buenos_aires",
           "legislative_period_id": "term/135"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
