@@ -3025,6 +3025,7 @@
     },
     {
       "email": "juhasz.hajnalka@parlament.hu",
+      "gender": "female",
       "id": "person/0ace0884-dd60-49fa-ab9e-c7621d028849",
       "image": "http://www.parlament.hu/kepv/kepek/k155.jpg",
       "name": "Juhász, Hajnalka",
@@ -3652,6 +3653,18 @@
       "image": "http://www.parlament.hu/kepv/kepek/v064.jpg",
       "name": "Novák, Katalin",
       "sort_name": "Novák, Katalin",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KatalinNovakMP"
+        }
+      ],
+      "links": [
+        {
+          "url": "csaladesifjusag",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/v064.jpg"
@@ -3665,9 +3678,6 @@
           "on_behalf_of_id": "fidesz",
           "legislative_period_id": "term/41"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
