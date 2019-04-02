@@ -215,6 +215,12 @@
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=382&ImageWidth=140",
       "name": "Anton Hrnko",
       "sort_name": "Anton Hrnko",
+      "links": [
+        {
+          "url": "AntonHrnko4",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
           "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=382&ImageWidth=140"
@@ -288,6 +294,7 @@
     },
     {
       "email": "branislav_grohling@nrsr.sk",
+      "gender": "male",
       "id": "person/2dfab054-a039-4205-856b-3b3ae908e280",
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140",
       "name": "Branislav Gröhling",
@@ -2380,6 +2387,7 @@
     },
     {
       "email": "milan_krajniak@nrsr.sk",
+      "gender": "male",
       "id": "person/a52e74ec-7b32-4461-adb0-82c5bd490c46",
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=920&ImageWidth=140",
       "name": "Milan Krajniak",
