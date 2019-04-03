@@ -1,7 +1,7 @@
 {
-  "total": 92,
+  "total": 94,
   "page": 1,
-  "per_page": 92,
+  "per_page": 94,
   "has_more": false,
   "result": [
     {
@@ -584,6 +584,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_party",
           "area_id": "tasmania",
+          "end_date": "2019-01-21",
           "legislative_period_id": "term/45"
         }
       ]
@@ -621,7 +622,6 @@
       ]
     },
     {
-      "email": "senator.leyonhjelm@aph.gov.au",
       "gender": "male",
       "id": "person/08d1256c-cb2d-4115-bca3-88d19a2bb414",
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/111206/upload_ref_binary/111206.jpg",
@@ -651,6 +651,7 @@
           "role": "member",
           "on_behalf_of_id": "liberal_democratic_party",
           "area_id": "nsw",
+          "end_date": "2019-03-01",
           "legislative_period_id": "term/45"
         }
       ]
@@ -1107,6 +1108,7 @@
           "role": "member",
           "on_behalf_of_id": "australian_labor_party",
           "area_id": "victoria",
+          "end_date": "2019-02-15",
           "legislative_period_id": "term/45"
         }
       ],
@@ -2306,6 +2308,29 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "person/923a7f88-df09-4340-af90-ccf618fb7b77",
+      "name": "Raff Ciccone",
+      "sort_name": "Ciccone, Raff",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenRaffCiccone"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/923a7f88-df09-4340-af90-ccf618fb7b77",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "australian_labor_party",
+          "area_id": "victoria",
+          "start_date": "2019-03-06",
+          "legislative_period_id": "term/45"
+        }
+      ]
+    },
+    {
       "email": "senator.patrick@aph.gov.au",
       "gender": "male",
       "id": "person/cf381a3a-0ae9-4706-92cb-37b58195d325",
@@ -2848,6 +2873,26 @@
           "start_date": "2018-02-26",
           "legislative_period_id": "term/45"
         }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/66a4b6e7-494b-4b56-9da6-bd70861e837a",
+      "name": "Wendy Askew",
+      "sort_name": "Askew, Wendy",
+      "memberships": [
+        {
+          "person_id": "person/66a4b6e7-494b-4b56-9da6-bd70861e837a",
+          "organization_id": "chamber/senate",
+          "role": "member",
+          "on_behalf_of_id": "liberal_party",
+          "area_id": "tasmania",
+          "start_date": "2019-03-06",
+          "legislative_period_id": "term/45"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {

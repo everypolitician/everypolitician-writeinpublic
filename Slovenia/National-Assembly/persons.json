@@ -1,7 +1,7 @@
 {
-  "total": 96,
+  "total": 97,
   "page": 1,
-  "per_page": 96,
+  "per_page": 97,
   "has_more": false,
   "result": [
     {
@@ -1813,6 +1813,29 @@
           "organization_id": "chamber/državni_zbor",
           "role": "member",
           "on_behalf_of_id": "Levica",
+          "legislative_period_id": "term/8"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/b95262d9-ae1b-479c-aa5e-ec59ef1c2f34",
+      "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P358",
+      "name": "Nik Prebil",
+      "sort_name": "Prebil Nik",
+      "images": [
+        {
+          "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P358"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b95262d9-ae1b-479c-aa5e-ec59ef1c2f34",
+          "organization_id": "chamber/državni_zbor",
+          "role": "member",
+          "on_behalf_of_id": "LMŠ",
           "legislative_period_id": "term/8"
         }
       ],

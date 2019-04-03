@@ -1,7 +1,7 @@
 {
-  "total": 24,
+  "total": 25,
   "page": 1,
-  "per_page": 24,
+  "per_page": 25,
   "has_more": false,
   "result": [
     {
@@ -349,6 +349,24 @@
           "role": "member",
           "on_behalf_of_id": "cip",
           "area_id": "pukapuka-nassau",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/acd245fe-7512-472a-9806-51b445cd74fa",
+      "name": "Tetangi Matapo",
+      "sort_name": "Tetangi Matapo",
+      "memberships": [
+        {
+          "person_id": "person/acd245fe-7512-472a-9806-51b445cd74fa",
+          "organization_id": "chamber/parliament",
+          "role": "member",
+          "on_behalf_of_id": "dp",
+          "area_id": "tamarua",
           "legislative_period_id": "term/14"
         }
       ],

@@ -5,6 +5,30 @@
   "has_more": false,
   "result": [
     {
+      "email": "alexandr.avetisyan@parliament.am",
+      "id": "person/4438db64-283a-4a9f-b178-8afce1bd5e7e",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1311",
+      "name": "Aleksandr Avetisyan",
+      "sort_name": "Aleksandr Avetisyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1311"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4438db64-283a-4a9f-b178-8afce1bd5e7e",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "alexey.sandikov@parliament.am",
       "id": "person/7c0c8dab-397b-4d66-91c6-247a90814cb2",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1367",
@@ -42,30 +66,6 @@
       "memberships": [
         {
           "person_id": "person/c13a67ae-877a-44f1-b550-ea96f8afff1b",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "MS",
-          "legislative_period_id": "term/7"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "email": "alexandr.avetisyan@parliament.am",
-      "id": "person/4438db64-283a-4a9f-b178-8afce1bd5e7e",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1311",
-      "name": "Alexander Avetisyan",
-      "sort_name": "Alexander Avetisyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1311"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4438db64-283a-4a9f-b178-8afce1bd5e7e",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "MS",
@@ -293,6 +293,7 @@
       ]
     },
     {
+      "email": "argishti.mekhakyan@parliament.am",
       "id": "person/efb66d57-ff9f-4e49-8ea9-3014f74ff63d",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1401",
       "name": "Argishti Mekhakyan",
@@ -605,6 +606,7 @@
       ]
     },
     {
+      "email": "artashes.petrosyan@parliament.am",
       "id": "person/3b7fad49-76cd-4b82-aa10-8dbee2625700",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1412",
       "name": "Artashes Petrosyan",
@@ -676,6 +678,7 @@
       ]
     },
     {
+      "email": "artur.grigoryan@parliament.am",
       "id": "person/97a242f1-4a37-49f5-a4ed-7322a3218282",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1288",
       "name": "Artur Grigoryan",
@@ -1497,6 +1500,7 @@
       ]
     },
     {
+      "email": "karen.sarukhanyan@parliament.am",
       "id": "person/5bf35630-1b9a-4a51-9eaa-aef3b04257a2",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1382",
       "name": "Karen Sarukhanyan",
@@ -1520,6 +1524,7 @@
       ]
     },
     {
+      "email": "karen.simonyan@parliament.am",
       "id": "person/3b810e89-aa8e-4da4-b302-c89b4f6ecf2a",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1347",
       "name": "Karen Simonyan",
@@ -1786,30 +1791,6 @@
       ]
     },
     {
-      "email": "mary.galstyan@parliament.am",
-      "id": "person/f467b93f-589b-4f27-91ab-0dcf5ae5e7d7",
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1330",
-      "name": "Mary Galstyan",
-      "sort_name": "Mary Galstyan",
-      "images": [
-        {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1330"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f467b93f-589b-4f27-91ab-0dcf5ae5e7d7",
-          "organization_id": "chamber/national_assembly",
-          "role": "member",
-          "on_behalf_of_id": "MS",
-          "legislative_period_id": "term/7"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
       "email": "matevos.asatryan@parliament.am",
       "id": "person/dfea123f-9225-4ec3-8b3e-1e6b1791e8be",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1404",
@@ -1823,6 +1804,30 @@
       "memberships": [
         {
           "person_id": "person/dfea123f-9225-4ec3-8b3e-1e6b1791e8be",
+          "organization_id": "chamber/national_assembly",
+          "role": "member",
+          "on_behalf_of_id": "MS",
+          "legislative_period_id": "term/7"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "mary.galstyan@parliament.am",
+      "id": "person/f467b93f-589b-4f27-91ab-0dcf5ae5e7d7",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1330",
+      "name": "Meri Galstyan",
+      "sort_name": "Meri Galstyan",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1330"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f467b93f-589b-4f27-91ab-0dcf5ae5e7d7",
           "organization_id": "chamber/national_assembly",
           "role": "member",
           "on_behalf_of_id": "MS",
@@ -2558,6 +2563,7 @@
       ]
     },
     {
+      "email": "suren.grigoryan@parliament.am",
       "id": "person/37f80acf-9432-4953-abd0-fcd8438e27ba",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1328",
       "name": "Suren Grigoryan",
@@ -2605,6 +2611,7 @@
       ]
     },
     {
+      "email": "taguhi.tovmasyan@parliament.am",
       "id": "person/e47650f2-cd57-4b57-861e-9482a68bd578",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1409",
       "name": "Taguhi Tovmasyan",
@@ -3161,6 +3168,7 @@
       ]
     },
     {
+      "email": "yerjanik.hakobyan@parliament.am",
       "id": "person/fef75fdb-d1dc-4c0c-80df-b66d53222f14",
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1368",
       "name": "Yerjanik Hakobyan",

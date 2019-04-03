@@ -1,27 +1,28 @@
 {
-  "total": 92,
+  "total": 120,
   "page": 1,
-  "per_page": 92,
+  "per_page": 120,
   "has_more": false,
   "result": [
     {
+      "email": "a.gasi@sobranie.mk",
       "gender": "male",
-      "id": "person/dd11dc41-556c-4f00-8bcd-f0c23889c531",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg",
-      "name": "Aleksandar Nikoloski",
-      "sort_name": "Aleksandar Nikoloski",
+      "id": "person/f0ef674a-676c-4845-82e6-2dc6c0bd80ca",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Gasi-Afrim.jpg",
+      "name": "AFRIM GASI",
+      "sort_name": "AFRIM GASI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Gasi-Afrim.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/dd11dc41-556c-4f00-8bcd-f0c23889c531",
+          "person_id": "person/f0ef674a-676c-4845-82e6-2dc6c0bd80ca",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "movement_besa",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -29,23 +30,119 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/d8eca104-e8a1-487d-a734-1e0988b130ae",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg",
-      "name": "Aleksandar Stojkoski",
-      "sort_name": "Aleksandar Stojkoski",
+      "id": "person/13043e47-87f3-4fbb-9e02-9b4ab4aa2487",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Agim-Murtezanov.jpg",
+      "name": "AGIM MURTEZANOV",
+      "sort_name": "AGIM MURTEZANOV",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Agim-Murtezanov.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d8eca104-e8a1-487d-a734-1e0988b130ae",
+          "person_id": "person/13043e47-87f3-4fbb-9e02-9b4ab4aa2487",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "a.sakiri@sobranie.mk",
+      "gender": "male",
+      "id": "person/3eaee522-8cd0-4ffd-9061-1fe7b05aafcb",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Sakiri-Agim.jpg",
+      "name": "AGIM SAKIRI",
+      "sort_name": "AGIM SAKIRI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Sakiri-Agim.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/3eaee522-8cd0-4ffd-9061-1fe7b05aafcb",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "democratic_union_for_integration",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "a.kiracovski@sobranie.mk",
+      "gender": "male",
+      "id": "person/56022943-ee22-4cf3-aee8-6176dd73d400",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kiracovski-Aleksandar.jpg",
+      "name": "ALEKSANDAR KIRACOVSKI",
+      "sort_name": "ALEKSANDAR KIRACOVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kiracovski-Aleksandar.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/56022943-ee22-4cf3-aee8-6176dd73d400",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "a.kamberoski@sobranie.mk",
+      "id": "person/96667b41-1c00-4be0-8ada-56ae32bfc142",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kamberoski-Alija.jpg",
+      "name": "ALIJA KAMBEROSKI",
+      "sort_name": "ALIJA KAMBEROSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kamberoski-Alija.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/96667b41-1c00-4be0-8ada-56ae32bfc142",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "party_for_european_future",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9479135e-2655-4594-bd12-7d44cefb5742",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Aneta-Simeska-Dimoska.jpg",
+      "name": "ANETA SIMESKA-DIMOSKA",
+      "sort_name": "ANETA SIMESKA-DIMOSKA",
+      "images": [
+        {
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Aneta-Simeska-Dimoska.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9479135e-2655-4594-bd12-7d44cefb5742",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -70,31 +167,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/8756cf1a-8d61-4f38-8c55-384aa5946214",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg",
-      "name": "Alim Bilali",
-      "sort_name": "Alim Bilali",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8756cf1a-8d61-4f38-8c55-384aa5946214",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -118,32 +191,8 @@
           "person_id": "person/6316072d-5a99-4432-8ba0-568d84bb2c03",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "union_of_roma_of_macedonia",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b9f39c23-6276-45e5-8e1d-cbe1c3db44ce",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg",
-      "name": "Andon Cibisev",
-      "sort_name": "Andon Cibisev",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b9f39c23-6276-45e5-8e1d-cbe1c3db44ce",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "roma_alliance_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -168,7 +217,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -193,7 +242,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -218,7 +267,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -226,23 +275,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/a3143a3c-a022-43de-bb0c-5d2531184477",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg",
-      "name": "Avdija Pepik",
-      "sort_name": "Avdija Pepik",
+      "gender": "female",
+      "id": "person/8fcc700e-07d6-4f56-9f0d-d198ea04cb1f",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Beti-Rabadjievska-Naumovska.jpg",
+      "name": "BETI RABADZIEVSKA-NAUMOVSKA",
+      "sort_name": "BETI RABADZIEVSKA-NAUMOVSKA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Beti-Rabadjievska-Naumovska.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a3143a3c-a022-43de-bb0c-5d2531184477",
+          "person_id": "person/8fcc700e-07d6-4f56-9f0d-d198ea04cb1f",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "party_for_democratic_action_of_macedonia",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -250,23 +299,99 @@
       ]
     },
     {
+      "email": "b.kitev@sobranie.mk",
       "gender": "male",
-      "id": "person/2c112b5b-8b91-43dd-8ca5-aa8264a7059d",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Bekim-Fazliu.jpg",
-      "name": "Bekim Fazliu",
-      "sort_name": "Bekim Fazliu",
+      "id": "person/26e41fff-08eb-4c2c-ac86-899d50fe33bc",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kitev-Betian.jpg",
+      "name": "BETIAN KITEV",
+      "sort_name": "BETIAN KITEV",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Bekim-Fazliu.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kitev-Betian.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/2c112b5b-8b91-43dd-8ca5-aa8264a7059d",
+          "person_id": "person/26e41fff-08eb-4c2c-ac86-899d50fe33bc",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "b.trpevski@sobranie.mk",
+      "gender": "male",
+      "id": "person/570e2957-8a1e-4158-ab5a-8ec6c724e879",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Trpevski-Blagojce.jpg",
+      "name": "BLAGOJCHE TRPEVSKI",
+      "sort_name": "BLAGOJCHE TRPEVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Trpevski-Blagojce.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/570e2957-8a1e-4158-ab5a-8ec6c724e879",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "b.zmejkovski@sobranie.mk",
+      "gender": "male",
+      "id": "person/8ff22164-63c2-4804-91f6-b0804b1099fb",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Zmejkovski-Boris.jpg",
+      "name": "BORIS ZMEJKOVSKI",
+      "sort_name": "BORIS ZMEJKOVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Zmejkovski-Boris.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8ff22164-63c2-4804-91f6-b0804b1099fb",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "b.manoilovski@sobranie.mk",
+      "gender": "male",
+      "id": "person/4d83ef0b-2a0f-4ed0-9a3b-cb028efb53af",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Manojlovski-Branko.jpg",
+      "name": "BRANKO MANOILOVSKI",
+      "sort_name": "BRANKO MANOILOVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Manojlovski-Branko.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/4d83ef0b-2a0f-4ed0-9a3b-cb028efb53af",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "democratic_union_for_integration",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -291,7 +416,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -316,31 +441,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/4b1526a9-6d6c-4b39-b127-9debb8314f7c",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg",
-      "name": "Blagorodna Bojadzieva",
-      "sort_name": "Blagorodna Bojadzieva",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4b1526a9-6d6c-4b39-b127-9debb8314f7c",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -364,8 +465,82 @@
           "person_id": "person/b0ef4a95-79fb-4243-9beb-1367fd4f255b",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "grom",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "d.jovanoska-stojanoska@sobranie.mk",
+      "gender": "female",
+      "id": "person/89d34dde-2793-475b-8c8b-03dc17956b00",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Stojanovska-Dafina.jpg",
+      "name": "DAFINA STOJANOSKA",
+      "sort_name": "DAFINA STOJANOSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Stojanovska-Dafina.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/89d34dde-2793-475b-8c8b-03dc17956b00",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "d.bogdanovski@sobranie.mk",
+      "id": "person/d8e03961-cad8-48e0-9ae5-d460ff37b96d",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/DaliborBogdanovski.jpg",
+      "name": "DALIBOR BOGDANOVSKI",
+      "sort_name": "DALIBOR BOGDANOVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/DaliborBogdanovski.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d8e03961-cad8-48e0-9ae5-d460ff37b96d",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "d.velkovski@sobranie.mk",
+      "gender": "male",
+      "id": "person/f23b1bcd-d74b-41bc-bbd1-e5ee011f4373",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Velkovski-Dime.jpg",
+      "name": "DIME VELKOVSKI",
+      "sort_name": "DIME VELKOVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Velkovski-Dime.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f23b1bcd-d74b-41bc-bbd1-e5ee011f4373",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -390,7 +565,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -415,7 +590,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -440,7 +615,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -465,7 +640,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -473,23 +648,99 @@
       ]
     },
     {
+      "email": "e.alimi@sobranie.mk",
       "gender": "male",
-      "id": "person/0e0a1dd0-dd8a-4aad-8c9c-819d03bdae69",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg",
-      "name": "Ejup Rustemi",
-      "sort_name": "Ejup Rustemi",
+      "id": "person/3301fc73-a3ed-4d4f-b2fb-621052f5a637",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Aljimi-Ejup.jpg",
+      "name": "EJUP ALJIMI",
+      "sort_name": "EJUP ALJIMI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Aljimi-Ejup.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0e0a1dd0-dd8a-4aad-8c9c-819d03bdae69",
+          "person_id": "person/3301fc73-a3ed-4d4f-b2fb-621052f5a637",
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "e.kanceska-milevska@sobranie.mk",
+      "gender": "female",
+      "id": "person/f45ad50a-d7b1-470b-8402-cba5c1d0d1e5",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Elizabeta-Kamceska-Milevska.jpg",
+      "name": "ELIZABETA KANCHESKA-MILEVSKA",
+      "sort_name": "ELIZABETA KANCHESKA-MILEVSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Elizabeta-Kamceska-Milevska.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f45ad50a-d7b1-470b-8402-cba5c1d0d1e5",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "e.aleksandrova@sobranie.mk",
+      "gender": "female",
+      "id": "person/c0d84af3-8322-4431-a567-77984b35e6cf",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Aleksandrova-Emilija.jpg",
+      "name": "EMILIJA ALEKSANDROVA",
+      "sort_name": "EMILIJA ALEKSANDROVA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Aleksandrova-Emilija.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c0d84af3-8322-4431-a567-77984b35e6cf",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "e.ibrahim@sobranie.mk",
+      "gender": "male",
+      "id": "person/66f4b4cf-c8ee-4882-8532-5907a5aae2ee",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ibraimi-Enes.jpg",
+      "name": "ENES IBRAHIM",
+      "sort_name": "ENES IBRAHIM",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ibraimi-Enes.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/66f4b4cf-c8ee-4882-8532-5907a5aae2ee",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "party_for_movement_of_the_turks_in_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -520,8 +771,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "end_date": "2016-01-18",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -529,23 +779,74 @@
       ]
     },
     {
+      "email": "F.Zendeli@sobranie.mk",
+      "gender": "male",
+      "id": "person/0c006be9-fd64-482d-b5ad-f5c0966ba2ff",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Zendeli-Fadil.jpg",
+      "name": "FADIL ZENDELI",
+      "sort_name": "FADIL ZENDELI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Zendeli-Fadil.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0c006be9-fd64-482d-b5ad-f5c0966ba2ff",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "movement_besa",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "f.muhik@sobranie.mk",
+      "gender": "male",
+      "id": "person/37ac0a22-a73d-4654-92ae-e98f16987089",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Muhic-Ferid.jpg",
+      "name": "FERID MUHIK",
+      "sort_name": "FERID MUHIK",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Muhic-Ferid.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/37ac0a22-a73d-4654-92ae-e98f16987089",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "f.tasevska-remenski@sobranie.mk",
       "gender": "female",
-      "id": "person/71600864-6d7b-4faa-bd9a-faa89f06a4d8",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg",
-      "name": "Ermira Mehmeti",
-      "sort_name": "Ermira Mehmeti",
+      "id": "person/dd488b7b-b7dd-4db4-8144-53084bf40dfa",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Tasevska-Remenski-Frosina.jpg",
+      "name": "FROSINA TASEVSKA-REMENSKI",
+      "sort_name": "FROSINA TASEVSKA-REMENSKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Tasevska-Remenski-Frosina.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/71600864-6d7b-4faa-bd9a-faa89f06a4d8",
+          "person_id": "person/dd488b7b-b7dd-4db4-8144-53084bf40dfa",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -553,23 +854,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/a5b562ff-87c0-47f0-bcd4-a90cf91004df",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Ernad-Fejzula.jpg",
-      "name": "Ernad Fejzula",
-      "sort_name": "Ernad Fejzula",
+      "id": "person/454fe884-d866-4cdb-9d84-1fa91196d793",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/gjulumser-kasapi.jpg",
+      "name": "GJULUMSER KASAPI",
+      "sort_name": "GJULUMSER KASAPI",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Ernad-Fejzula.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/gjulumser-kasapi.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a5b562ff-87c0-47f0-bcd4-a90cf91004df",
+          "person_id": "person/454fe884-d866-4cdb-9d84-1fa91196d793",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -577,23 +877,49 @@
       ]
     },
     {
+      "email": "g.manojloski@sobranie.mk",
       "gender": "male",
-      "id": "person/64384263-11f6-4928-a7fa-a18a33b68b92",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg",
-      "name": "Fatmir Imeroski",
-      "sort_name": "Fatmir Imeroski",
+      "id": "person/9a0614cb-8cef-43d3-9467-cef25afab533",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Manojloski-Goran.jpg",
+      "name": "GORAN MANOJLOSKI",
+      "sort_name": "GORAN MANOJLOSKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Manojloski-Goran.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/64384263-11f6-4928-a7fa-a18a33b68b92",
+          "person_id": "person/9a0614cb-8cef-43d3-9467-cef25afab533",
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "g.milevski@sobranie.mk",
+      "gender": "male",
+      "id": "person/bbef20f6-fb42-42fb-b386-df701969afb1",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Milevski-Goran.jpg",
+      "name": "GORAN MILEVSKI",
+      "sort_name": "GORAN MILEVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Milevski-Goran.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bbef20f6-fb42-42fb-b386-df701969afb1",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "liberal_democratic_party",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -602,22 +928,22 @@
     },
     {
       "gender": "male",
-      "id": "person/1379e9f8-4f2e-46ca-8f84-6651087132ab",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg",
-      "name": "Gazmend Aliji",
-      "sort_name": "Gazmend Aliji",
+      "id": "person/6987153f-53ab-42e1-96ee-88fc487de75a",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Misoski-Goran.jpg",
+      "name": "GORAN MISOVSKI",
+      "sort_name": "GORAN MISOVSKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Misoski-Goran.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1379e9f8-4f2e-46ca-8f84-6651087132ab",
+          "person_id": "person/6987153f-53ab-42e1-96ee-88fc487de75a",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "new_social_democratic_party",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -625,23 +951,24 @@
       ]
     },
     {
+      "email": "h.lokvenec@sobranie.mk",
       "gender": "male",
-      "id": "person/e09704a6-4601-4898-b4c0-f991c79a4bcd",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg",
-      "name": "Gjoko Kamcev",
-      "sort_name": "Gjoko Kamcev",
+      "id": "person/deadb4be-da80-4401-b47d-0a442b232944",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Lokvenec-Hari-.jpg",
+      "name": "HARI LOKVENEC",
+      "sort_name": "HARI LOKVENEC",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Lokvenec-Hari-.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e09704a6-4601-4898-b4c0-f991c79a4bcd",
+          "person_id": "person/deadb4be-da80-4401-b47d-0a442b232944",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -649,23 +976,24 @@
       ]
     },
     {
+      "email": "l.nikolovski@sobranie.mk",
       "gender": "male",
-      "id": "person/69d80493-08f8-401c-af92-e5b18b0a3a18",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg",
-      "name": "Gjorgji Kodzabasiev",
-      "sort_name": "Gjorgji Kodzabasiev",
+      "id": "person/c98a2e72-07a5-4304-8415-598008f62e8b",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikolovsi-Ilija.jpg",
+      "name": "ILIJA NIKOLOVSKI",
+      "sort_name": "ILIJA NIKOLOVSKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikolovsi-Ilija.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/69d80493-08f8-401c-af92-e5b18b0a3a18",
+          "person_id": "person/c98a2e72-07a5-4304-8415-598008f62e8b",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "party_of_united_pensioners_and_citizens_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -673,23 +1001,49 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/945e9702-ce37-4f29-b59f-8181437f14ef",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg",
-      "name": "Hazbi LJika",
-      "sort_name": "Hazbi LJika",
+      "email": "i.stefoska@sobranie.mk",
+      "gender": "female",
+      "id": "person/dc8a7c3d-1e57-45e0-a4e6-479174541bd4",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Irena%20Stefoska.jpg",
+      "name": "IRENA STEFOSKA",
+      "sort_name": "IRENA STEFOSKA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Irena%20Stefoska.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/945e9702-ce37-4f29-b59f-8181437f14ef",
+          "person_id": "person/dc8a7c3d-1e57-45e0-a4e6-479174541bd4",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "i.tufegdzik@sobranie.mk",
+      "gender": "female",
+      "id": "person/a2274178-3bcd-42e9-9c1f-4d8d1918950a",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Tufefegdjik-Ivana.jpg",
+      "name": "IVANA TUFEGDZIK",
+      "sort_name": "IVANA TUFEGDZIK",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Tufefegdjik-Ivana.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a2274178-3bcd-42e9-9c1f-4d8d1918950a",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -714,31 +1068,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e09bc82f-a3a9-406e-bcaa-b996a00bb620",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Imer-Aliu.jpg",
-      "name": "Imer Aliu",
-      "sort_name": "Imer Aliu",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Imer-Aliu.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e09bc82f-a3a9-406e-bcaa-b996a00bb620",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -763,7 +1093,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -788,7 +1118,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_party_of_serbs_in_macedonia",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -796,23 +1126,24 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/1358ca20-9245-47ed-aa2a-6ef38acc56a2",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg",
-      "name": "Jamin Sinani",
-      "sort_name": "Jamin Sinani",
+      "email": "j.sahpaska@sobranie.mk",
+      "gender": "female",
+      "id": "person/118b200f-a1e8-4574-bef7-18d4f07b1478",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Sahpaska-Jagoda.jpg",
+      "name": "JAGODA SAHPASKA",
+      "sort_name": "JAGODA SAHPASKA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Sahpaska-Jagoda.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/1358ca20-9245-47ed-aa2a-6ef38acc56a2",
+          "person_id": "person/118b200f-a1e8-4574-bef7-18d4f07b1478",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -820,23 +1151,24 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/efa8539f-cb81-4188-a5c8-b68a2920fb6a",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg",
-      "name": "Jasminka Damceska",
-      "sort_name": "Jasminka Damceska",
+      "email": "J.Tarculovski@sobranie.mk",
+      "gender": "male",
+      "id": "person/832d1c3b-323d-484a-859d-c2138f13f7c3",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Tarculovski-Johan.jpg",
+      "name": "JOHAN TARCHULOVSKI",
+      "sort_name": "JOHAN TARCHULOVSKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Tarculovski-Johan.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/efa8539f-cb81-4188-a5c8-b68a2920fb6a",
+          "person_id": "person/832d1c3b-323d-484a-859d-c2138f13f7c3",
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -844,47 +1176,189 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/210aae99-bec4-4ab2-9a8d-a4722b22d8e6",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg",
-      "name": "Kaltrina Azizi",
-      "sort_name": "Kaltrina Azizi",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/210aae99-bec4-4ab2-9a8d-a4722b22d8e6",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
+      "email": "j.mitreski@sobranie.mk",
       "gender": "male",
-      "id": "person/b1b5ca60-2848-478e-8189-21ae7279f97b",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg",
-      "name": "Kenan Hasipi",
-      "sort_name": "Kenan Hasipi",
+      "id": "person/9cbd9442-dd99-4c6a-9061-ec8464fe8c14",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Mitreski-Jovan.jpg",
+      "name": "JOVAN MITRESKI",
+      "sort_name": "JOVAN MITRESKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Mitreski-Jovan.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/b1b5ca60-2848-478e-8189-21ae7279f97b",
+          "person_id": "person/9cbd9442-dd99-4c6a-9061-ec8464fe8c14",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_part_of_the_turks_in_macedonia",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.nikolova@sobranie.mk",
+      "gender": "female",
+      "id": "person/900e9af1-f7f0-4cc0-88e2-b6fd897cc52b",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikolova-Julijana.jpg",
+      "name": "JULIANA NIKOLOVA",
+      "sort_name": "JULIANA NIKOLOVA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikolova-Julijana.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/900e9af1-f7f0-4cc0-88e2-b6fd897cc52b",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "liberal_democratic_party",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "j.hasani@sobranie.mk",
+      "gender": "male",
+      "id": "person/b3f554bf-51bb-4315-9774-5fb8c179caf2",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/pratenik%20jusuf%20hasani.jpg",
+      "name": "JUSUF HASANI",
+      "sort_name": "JUSUF HASANI",
+      "images": [
+        {
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/pratenik%20jusuf%20hasani.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b3f554bf-51bb-4315-9774-5fb8c179caf2",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "democratic_party_of_turks_in_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "k.kuzmanovska@sobranie.mk",
+      "gender": "female",
+      "id": "person/f2c43197-15bc-43dc-84a3-b83a72ccbdac",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kuzmanovska-Katerina.jpg",
+      "name": "KATERINA KUZMANOVSKA",
+      "sort_name": "KATERINA KUZMANOVSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kuzmanovska-Katerina.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f2c43197-15bc-43dc-84a3-b83a72ccbdac",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "k.smileska@sobranie.mk",
+      "gender": "female",
+      "id": "person/48aeac25-e7d4-47be-b155-217b99070557",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Smileska-Keti.jpg",
+      "name": "KETI SMILESKA",
+      "sort_name": "KETI SMILESKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Smileska-Keti.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/48aeac25-e7d4-47be-b155-217b99070557",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/242b5f22-1e49-493c-8c85-d9cb9f3a121d",
+      "name": "KOSTADIN ACEVSKI",
+      "sort_name": "KOSTADIN ACEVSKI",
+      "memberships": [
+        {
+          "person_id": "person/242b5f22-1e49-493c-8c85-d9cb9f3a121d",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "id": "person/9156c5d4-b5c9-4836-a448-03183f382320",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kostadinov-Kostadin.jpg",
+      "name": "KOSTADIN KOSTADINOV",
+      "sort_name": "KOSTADIN KOSTADINOV",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kostadinov-Kostadin.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9156c5d4-b5c9-4836-a448-03183f382320",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "k.jovanovski@sobranie.mk",
+      "gender": "male",
+      "id": "person/862da078-a271-4a32-ac0b-5e82ddbc96c4",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Jovanovski-Krsto.jpg",
+      "name": "KRSTO JOVANOVSKI",
+      "sort_name": "KRSTO JOVANOVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Jovanovski-Krsto.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/862da078-a271-4a32-ac0b-5e82ddbc96c4",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -908,8 +1382,8 @@
           "person_id": "person/076b1abc-b09e-4331-b3fe-6c9605b9cbea",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -917,23 +1391,47 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/a89701d6-e9f8-4308-817e-cb7b5beaf574",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg",
-      "name": "LJubica Buralieva",
-      "sort_name": "LJubica Buralieva",
+      "id": "person/2f1dc4eb-7f29-4239-9e6d-b50b188669c3",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Lidija-Tasevska.jpg",
+      "name": "LIDIJA TASEVSKA",
+      "sort_name": "LIDIJA TASEVSKA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Lidija-Tasevska.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/a89701d6-e9f8-4308-817e-cb7b5beaf574",
+          "person_id": "person/2f1dc4eb-7f29-4239-9e6d-b50b188669c3",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "independent_members",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "l.arnaudov@sobranie.mk",
+      "gender": "male",
+      "id": "person/39294bc9-3dd7-4c41-9cf7-90895bf0532c",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Arnaudov-Ljuben.jpg",
+      "name": "LJUBEN ARNAUDOV",
+      "sort_name": "LJUBEN ARNAUDOV",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Arnaudov-Ljuben.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/39294bc9-3dd7-4c41-9cf7-90895bf0532c",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -958,7 +1456,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -983,7 +1481,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_renewal_of_macedonia",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1008,7 +1506,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1033,7 +1531,156 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_macedonia",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.moracanin@sobranie.mk",
+      "gender": "female",
+      "id": "person/d5d9220d-894e-430b-a66f-75a0718f567f",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Maja-Moracanin_1.jpg",
+      "name": "MAJA MORACHANIN",
+      "sort_name": "MAJA MORACHANIN",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Maja-Moracanin_1.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d5d9220d-894e-430b-a66f-75a0718f567f",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "democratic_renewal_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.lazarova@sobranie.mk",
+      "gender": "female",
+      "id": "person/a88695c6-f89e-4ce1-9e0d-b9d0e2b044c3",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Lazarova-Meri.jpg",
+      "name": "MERI LAZAROVA",
+      "sort_name": "MERI LAZAROVA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Lazarova-Meri.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a88695c6-f89e-4ce1-9e0d-b9d0e2b044c3",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.gjorgieva@sobranie.mk",
+      "gender": "female",
+      "id": "person/ac614d18-8be3-466d-9c21-a5ff5fbd84dc",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Gorgieva-Mileva.jpg",
+      "name": "MILEVA GORGIEVA",
+      "sort_name": "MILEVA GORGIEVA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Gorgieva-Mileva.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ac614d18-8be3-466d-9c21-a5ff5fbd84dc",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.stojcevska@sobranie.mk",
+      "gender": "female",
+      "id": "person/67ce3ec1-d605-4f0c-bf43-a2959007fb76",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Stojcevska-Mira.jpg",
+      "name": "MIRA STOJCHEVSKA",
+      "sort_name": "MIRA STOJCHEVSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Stojcevska-Mira.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/67ce3ec1-d605-4f0c-bf43-a2959007fb76",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/b37108ad-3500-40a5-b649-65e3a978d450",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Miroslav-Jovanovik.jpg",
+      "name": "MIROSLAV JOVANOVIC",
+      "sort_name": "MIROSLAV JOVANOVIC",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Miroslav-Jovanovik.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b37108ad-3500-40a5-b649-65e3a978d450",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "serbian_party_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "m.zekiri@sobranie.mk",
+      "gender": "male",
+      "id": "person/ab794d4b-6273-4e09-92a8-20d891f40b08",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Zekiri-Muhamed.jpg",
+      "name": "MUHAMED ZEKIRI",
+      "sort_name": "MUHAMED ZEKIRI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Zekiri-Muhamed.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/ab794d4b-6273-4e09-92a8-20d891f40b08",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1058,55 +1705,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/9db6b4d0-142c-47d0-8cf7-14fd5c152f25",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg",
-      "name": "Marija Angelova",
-      "sort_name": "Marija Angelova",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9db6b4d0-142c-47d0-8cf7-14fd5c152f25",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1d0e8635-544d-4bd5-91f1-ceee7737f380",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg",
-      "name": "Marjanco Kolevski",
-      "sort_name": "Marjanco Kolevski",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1d0e8635-544d-4bd5-91f1-ceee7737f380",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1131,7 +1730,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1155,31 +1754,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/71a34911-01f3-4073-a0d9-e64244e8e979",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg",
-      "name": "Mirjana Hadzievska",
-      "sort_name": "Mirjana Hadzievska",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/71a34911-01f3-4073-a0d9-e64244e8e979",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1204,7 +1779,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1212,23 +1787,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg",
-      "name": "Mirvan DZemailji",
-      "sort_name": "Mirvan DZemailji",
+      "id": "person/cfabfe76-26dd-4498-9ed9-ff3f99e1b878",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Nedjbedin-Karemani.jpg",
+      "name": "NEDZBEDIN KAREMANI",
+      "sort_name": "NEDZBEDIN KAREMANI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Nedjbedin-Karemani.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
+          "person_id": "person/cfabfe76-26dd-4498-9ed9-ff3f99e1b878",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "movement_besa",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1236,23 +1810,23 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/8272c80e-2691-4213-946d-ff6b365cf216",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg",
-      "name": "Momcilo Avramoski",
-      "sort_name": "Momcilo Avramoski",
+      "email": "n.stamenkovska@sobranie.mk",
+      "id": "person/e28d0166-f359-45e1-9574-e2feb1fcc44e",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nevenka-Stamenkovska.jpg",
+      "name": "NEVENKA STAMENKOVSKA",
+      "sort_name": "NEVENKA STAMENKOVSKA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nevenka-Stamenkovska.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8272c80e-2691-4213-946d-ff6b365cf216",
+          "person_id": "person/e28d0166-f359-45e1-9574-e2feb1fcc44e",
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1260,23 +1834,74 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/8eebda6d-6375-47b1-81ee-3ed9919cf826",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg",
-      "name": "Musa Ibraimi",
-      "sort_name": "Musa Ibraimi",
+      "email": "n.korubin@sobranie.mk",
+      "gender": "female",
+      "id": "person/e5f477c3-195a-4509-adbb-013fedb1e57d",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikica-Korubin.jpg",
+      "name": "NIKICA KORUBIN",
+      "sort_name": "NIKICA KORUBIN",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikica-Korubin.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8eebda6d-6375-47b1-81ee-3ed9919cf826",
+          "person_id": "person/e5f477c3-195a-4509-adbb-013fedb1e57d",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "n.gruevski@sobranie.mk",
+      "gender": "male",
+      "id": "person/24bcabec-5386-4264-86fc-d681218a7e78",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikola-Gruevski.jpg",
+      "name": "NIKOLA GRUEVSKI",
+      "sort_name": "NIKOLA GRUEVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikola-Gruevski.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/24bcabec-5386-4264-86fc-d681218a7e78",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "n.poposki@sobranie.mk",
+      "gender": "male",
+      "id": "person/d19bb47c-42de-4201-9177-0d9ea158bfa8",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikola-Popovski.jpg",
+      "name": "NIKOLA POPOSKI",
+      "sort_name": "NIKOLA POPOSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Nikola-Popovski.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d19bb47c-42de-4201-9177-0d9ea158bfa8",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1301,7 +1926,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1326,7 +1951,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1350,8 +1975,8 @@
           "person_id": "person/70bf998c-6362-449c-bd50-ac8b9e3cea44",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1359,47 +1984,98 @@
       ]
     },
     {
+      "email": "p.ivanov@sobranie.mk",
+      "gender": "male",
+      "id": "person/9c1df201-e48c-4335-92a5-e0a9216fe735",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ivanov-Pance.jpg",
+      "name": "PANCHE IVANOV",
+      "sort_name": "PANCHE IVANOV",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ivanov-Pance.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9c1df201-e48c-4335-92a5-e0a9216fe735",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "p.minov@sobranie.mk",
+      "id": "person/714e1fca-911f-49f3-a589-e901ad6af6da",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Panco-Minov.jpg",
+      "name": "PANCHO MINOV",
+      "sort_name": "PANCHO MINOV",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Panco-Minov.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/714e1fca-911f-49f3-a589-e901ad6af6da",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "party_of_justice,_civil_option_for_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "p.bogoevski@sobranie.mk",
+      "gender": "male",
+      "id": "person/90cbf9dc-5798-4032-a800-58095cb9a1e7",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Bogoevsi-Pavle.jpg",
+      "name": "PAVLE BOGOEVSKI",
+      "sort_name": "PAVLE BOGOEVSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Bogoevsi-Pavle.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/90cbf9dc-5798-4032-a800-58095cb9a1e7",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "p.cestojnova@sobranie.mk",
       "gender": "female",
-      "id": "person/d825ea85-2ce3-454c-b31e-a53417f6658b",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg",
-      "name": "Nora Aliti",
-      "sort_name": "Nora Aliti",
+      "id": "person/015ca6b1-70fb-45b0-bfa1-52914b1ed9b1",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Cestojnova-Pavlince.jpg",
+      "name": "PAVLINCHE CHESTOJNOVA",
+      "sort_name": "PAVLINCHE CHESTOJNOVA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Cestojnova-Pavlince.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d825ea85-2ce3-454c-b31e-a53417f6658b",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1a5135c6-98b2-4651-8ef0-6cfb3110f8ab",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg",
-      "name": "Olga Najdenovska",
-      "sort_name": "Olga Najdenovska",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1a5135c6-98b2-4651-8ef0-6cfb3110f8ab",
+          "person_id": "person/015ca6b1-70fb-45b0-bfa1-52914b1ed9b1",
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1407,23 +2083,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/505e9fd9-df84-4b3c-9ae3-64fb3cb7b35e",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Orhan-Ibraim.jpg",
-      "name": "Orhan Ibraim",
-      "sort_name": "Orhan Ibraim",
+      "id": "person/4dbb5455-4fc0-4cdf-9986-5bd998ae75db",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Redjep-Memedi.jpg",
+      "name": "REDZEP MEMEDI",
+      "sort_name": "REDZEP MEMEDI",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Orhan-Ibraim.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Redjep-Memedi.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/505e9fd9-df84-4b3c-9ae3-64fb3cb7b35e",
+          "person_id": "person/4dbb5455-4fc0-4cdf-9986-5bd998ae75db",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_party_of_albanians",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "movement_besa",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1431,23 +2106,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/4300a503-09ea-4153-aebf-d4a3a695e7ab",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Sazdov.jpg",
-      "name": "Pavle Sazdov",
-      "sort_name": "Pavle Sazdov",
+      "id": "person/c4e74b51-05a7-4a70-959b-7db55586b432",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Riste-Tashev.jpg",
+      "name": "RISTE TASHEV",
+      "sort_name": "RISTE TASHEV",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Sazdov.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Riste-Tashev.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4300a503-09ea-4153-aebf-d4a3a695e7ab",
+          "person_id": "person/c4e74b51-05a7-4a70-959b-7db55586b432",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1455,71 +2129,22 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/02df0c53-8b1f-4045-b46e-1a6845362508",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg",
-      "name": "Pavle Trajanov",
-      "sort_name": "Pavle Trajanov",
+      "id": "person/b57ceca5-3597-4428-939c-a25c0371e26f",
+      "image": "https://www.sobranie.mk/content/images/pratenici%2016-20/Zemon%2016%20ok.jpg",
+      "name": "RUBIN ZEMON",
+      "sort_name": "RUBIN ZEMON",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg"
+          "url": "https://www.sobranie.mk/content/images/pratenici%2016-20/Zemon%2016%20ok.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/02df0c53-8b1f-4045-b46e-1a6845362508",
+          "person_id": "person/b57ceca5-3597-4428-939c-a25c0371e26f",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "democratic_union",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg",
-      "name": "Rafis Aljiti",
-      "sort_name": "Rafis Aljiti",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7fe7e6fa-89f5-4755-92c3-be60eebed75d",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg",
-      "name": "Ramiz Merko",
-      "sort_name": "Ramiz Merko",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7fe7e6fa-89f5-4755-92c3-be60eebed75d",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "party_for_social_and_economic_progress",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1544,7 +2169,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1553,22 +2178,22 @@
     },
     {
       "gender": "male",
-      "id": "person/017a8605-ef8a-4bb1-abfa-8bd99565dcb0",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg",
-      "name": "Risto Mancev",
-      "sort_name": "Risto Mancev",
+      "id": "person/8d075d65-6487-42ae-acd6-8db864e8dece",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/SamkaIbraimoski.jpg",
+      "name": "SAMKA IBRAIMOSKI",
+      "sort_name": "SAMKA IBRAIMOSKI",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/SamkaIbraimoski.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/017a8605-ef8a-4bb1-abfa-8bd99565dcb0",
+          "person_id": "person/8d075d65-6487-42ae-acd6-8db864e8dece",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "party_for_the_total_emancipation_of_roma",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1577,23 +2202,47 @@
     },
     {
       "gender": "male",
-      "id": "person/85f3d047-8b8e-4f52-a724-0fb4f6365799",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg",
-      "name": "Romeo Trenov",
-      "sort_name": "Romeo Trenov",
+      "id": "person/3ab0f1c9-e56e-4220-86fc-e385c7710ff5",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Saso-Atanasov.jpg",
+      "name": "SASHKO ATANASOV",
+      "sort_name": "SASHKO ATANASOV",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Saso-Atanasov.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/85f3d047-8b8e-4f52-a724-0fb4f6365799",
+          "person_id": "person/3ab0f1c9-e56e-4220-86fc-e385c7710ff5",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "end_date": "2015-10-29",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "s.kostov@sobranie.mk",
+      "gender": "male",
+      "id": "person/893f4ed4-eaf9-4467-91fb-552336a4aa00",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kostov-Sasko.jpg",
+      "name": "SASKO KOSTOV",
+      "sort_name": "SASKO KOSTOV",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kostov-Sasko.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/893f4ed4-eaf9-4467-91fb-552336a4aa00",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1602,22 +2251,22 @@
     },
     {
       "gender": "female",
-      "id": "person/15914f41-dcd4-49b5-a5c6-e00d89f10f0e",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg",
-      "name": "Roza Topuzova-Karevska",
-      "sort_name": "Roza Topuzova-Karevska",
+      "id": "person/ec617b10-f545-4975-b488-904bb41972f0",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Slavica--Sumanska-Miteva.jpg",
+      "name": "SLAVICA SHUMANSKA - MITEVA",
+      "sort_name": "SLAVICA SHUMANSKA - MITEVA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Slavica--Sumanska-Miteva.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/15914f41-dcd4-49b5-a5c6-e00d89f10f0e",
+          "person_id": "person/ec617b10-f545-4975-b488-904bb41972f0",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "liberal_-_democratic_party",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1625,23 +2274,72 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/c3095de7-ad1b-4842-a4fa-119b9aff31ee",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg",
-      "name": "Saso Akimoski",
-      "sort_name": "Saso Akimoski",
+      "email": "S.KaleskaVanceva@sobranie.mk",
+      "id": "person/7031665c-f117-4585-8542-f089d0975ed4",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/snezana-kaleska-vanceva.jpg",
+      "name": "SNEZANA KALESKA-VANCHEVA",
+      "sort_name": "SNEZANA KALESKA-VANCHEVA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/snezana-kaleska-vanceva.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c3095de7-ad1b-4842-a4fa-119b9aff31ee",
+          "person_id": "person/7031665c-f117-4585-8542-f089d0975ed4",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "s.mirakovska@sobranie.mk",
+      "gender": "female",
+      "id": "person/bfa16d93-c70c-41f7-bca1-b34a0d8a29f5",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Mirakovska-Sonja.jpg",
+      "name": "SONJA MIRAKOVSKA",
+      "sort_name": "SONJA MIRAKOVSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Mirakovska-Sonja.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/bfa16d93-c70c-41f7-bca1-b34a0d8a29f5",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "new_social_democratic_party",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "S.Rasidi@sobranie.mk",
+      "id": "person/a9d7bcf2-852f-4158-8c0e-ee3351e04779",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Rasidi-Surija.jpg",
+      "name": "SURIJA RASIDI",
+      "sort_name": "SURIJA RASIDI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Rasidi-Surija.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a9d7bcf2-852f-4158-8c0e-ee3351e04779",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "“alliance_of_albanians”_coalition_(dr-adp,_uniteti,_ndp)",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1665,32 +2363,8 @@
           "person_id": "person/27d438a2-6559-4548-9813-4d8f65d65378",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/0adb2b9d-b081-4165-9435-2fcb05d04fe2",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg",
-      "name": "Selvije Saliu",
-      "sort_name": "Selvije Saliu",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0adb2b9d-b081-4165-9435-2fcb05d04fe2",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1715,32 +2389,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1e34432e-f161-4fc3-a7c4-6b157d99c9d6",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Silvana-Boneva.jpg",
-      "name": "Silvana Boneva",
-      "sort_name": "Silvana Boneva",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Silvana-Boneva.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1e34432e-f161-4fc3-a7c4-6b157d99c9d6",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "end_date": "2015-12-16",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1765,79 +2414,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/6c3cb61d-bab9-4638-a0fb-54e36576bb3c",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Slave-Gosev.jpg",
-      "name": "Slave Gosev",
-      "sort_name": "Slave Gosev",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Slave-Gosev.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6c3cb61d-bab9-4638-a0fb-54e36576bb3c",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/9cda2f5c-8720-4ff6-9d5d-9bbc6dd356b3",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg",
-      "name": "Solza Grceva",
-      "sort_name": "Solza Grceva",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9cda2f5c-8720-4ff6-9d5d-9bbc6dd356b3",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "independent_members",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/9d3eeea1-a116-4089-8034-c1809d4cd7a7",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Sonja-Talevska.jpg",
-      "name": "Sonja Talevska",
-      "sort_name": "Sonja Talevska",
-      "images": [
-        {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Sonja-Talevska.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9d3eeea1-a116-4089-8034-c1809d4cd7a7",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1862,7 +2439,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_macedonia",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1870,23 +2447,24 @@
       ]
     },
     {
+      "email": "t.kovacev@sobranie.mk",
       "gender": "female",
-      "id": "person/67b73831-ab21-41fc-9eee-173015df11a3",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Suzana-Sekulovska.jpg",
-      "name": "Suzana Sekulovska",
-      "sort_name": "Suzana Sekulovska",
+      "id": "person/521269b3-474e-4b4d-bf7c-b43250d003c6",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kovacev-Tanja.jpg",
+      "name": "TANJA KOVACHEV",
+      "sort_name": "TANJA KOVACHEV",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Suzana-Sekulovska.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Kovacev-Tanja.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/67b73831-ab21-41fc-9eee-173015df11a3",
+          "person_id": "person/521269b3-474e-4b4d-bf7c-b43250d003c6",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1894,23 +2472,22 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/d328fb5c-06b6-43f3-86f3-ab5c7412eecb",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg",
-      "name": "Svetlana Jakimovska",
-      "sort_name": "Svetlana Jakimovska",
+      "id": "person/d829f540-0d10-4680-8e22-f35f325ee5a3",
+      "image": "https://sobranie.mk/content/images/pratenici%2016-20/Tatijana-lalcevska.jpg",
+      "name": "TATIJANA LALCHEVSKA",
+      "sort_name": "TATIJANA LALCHEVSKA",
       "images": [
         {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg"
+          "url": "https://sobranie.mk/content/images/pratenici%2016-20/Tatijana-lalcevska.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d328fb5c-06b6-43f3-86f3-ab5c7412eecb",
+          "person_id": "person/d829f540-0d10-4680-8e22-f35f325ee5a3",
           "organization_id": "chamber/sobranie",
           "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1918,23 +2495,74 @@
       ]
     },
     {
+      "email": "tprentovik@sobranie.mk",
       "gender": "female",
-      "id": "person/5a8847f0-430c-4602-af38-466167a20c78",
-      "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Svetlana-Karapetrova.jpg",
-      "name": "Svetlana Karapetrova",
-      "sort_name": "Svetlana Karapetrova",
+      "id": "person/97f9fa92-657e-40e1-8c39-8d43b0d972cc",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/PrentovikTatjana.jpg",
+      "name": "TATJANA PRENTOVIK",
+      "sort_name": "TATJANA PRENTOVIK",
       "images": [
         {
-          "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Svetlana-Karapetrova.jpg"
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/PrentovikTatjana.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/5a8847f0-430c-4602-af38-466167a20c78",
+          "person_id": "person/97f9fa92-657e-40e1-8c39-8d43b0d972cc",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "t.bilali@sobranie.mk",
+      "gender": "female",
+      "id": "person/c8eff5b1-507c-4f95-b7f5-619cdbd548bc",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Biljalji-Teuta.jpg",
+      "name": "TEUTA BILJALI",
+      "sort_name": "TEUTA BILJALI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Biljalji-Teuta.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c8eff5b1-507c-4f95-b7f5-619cdbd548bc",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "movement_besa",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "T.Veljanoski@sobranie.mk",
+      "gender": "male",
+      "id": "person/933e6f58-2ab7-4ac5-b7de-8afa1db01f38",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Trajko-Veljanoski.jpg",
+      "name": "TRAJKO VELJANOSKI",
+      "sort_name": "TRAJKO VELJANOSKI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Trajko-Veljanoski.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/933e6f58-2ab7-4ac5-b7de-8afa1db01f38",
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1959,7 +2587,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -1984,7 +2612,57 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "v.mancev@sobranie.mk",
+      "gender": "male",
+      "id": "person/520edd60-8950-4736-ba09-7b22b9c08b35",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Mancev-Vankover.jpg",
+      "name": "VANKOVER MANCHEV",
+      "sort_name": "VANKOVER MANCHEV",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Mancev-Vankover.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/520edd60-8950-4736-ba09-7b22b9c08b35",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "v.memedi@sobranie.mk",
+      "gender": "male",
+      "id": "person/0421b7f0-248f-481a-8166-012432c116b0",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Memedi-Vesel.jpg",
+      "name": "VESEL MEMEDI",
+      "sort_name": "VESEL MEMEDI",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Memedi-Vesel.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0421b7f0-248f-481a-8166-012432c116b0",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "“alliance_of_albanians”_coalition_(dr-adp,_uniteti,_ndp)",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2009,31 +2687,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d924a60b-31c8-4a65-9a34-67bbb40febe1",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg",
-      "name": "Vasko Naumovski",
-      "sort_name": "Vasko Naumovski",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d924a60b-31c8-4a65-9a34-67bbb40febe1",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2058,7 +2712,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2083,31 +2737,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/1889ae1b-5584-44f9-b681-f2839095413a",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg",
-      "name": "Vjolca Mehmeti-Nuredini",
-      "sort_name": "Vjolca Mehmeti-Nuredini",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1889ae1b-5584-44f9-b681-f2839095413a",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2132,7 +2762,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "socialist_party_of_macedonia",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2157,7 +2787,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2182,7 +2812,107 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "democratic_union_for_integration",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "z.lazarevska@sobranie.mk",
+      "gender": "female",
+      "id": "person/8e924911-2f76-4124-9d07-5e8cb79b6d55",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Lazarevska-Zaklina.jpg",
+      "name": "ZAKLINA LAZAREVSKA",
+      "sort_name": "ZAKLINA LAZAREVSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Lazarevska-Zaklina.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8e924911-2f76-4124-9d07-5e8cb79b6d55",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "social_democratic_union_of_macedonia",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "z.pesevska@sobranie.mk",
+      "gender": "female",
+      "id": "person/34200e85-a51a-4c6e-97ff-c6323b97334b",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Pesevska-Zaklina.jpg",
+      "name": "ZAKLINA PESHEVSKA",
+      "sort_name": "ZAKLINA PESHEVSKA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Pesevska-Zaklina.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/34200e85-a51a-4c6e-97ff-c6323b97334b",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "vmro-dpmne",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "z.ramcilovik@sobranie.mk",
+      "gender": "male",
+      "id": "person/d714d31e-ba76-4ae5-b9a3-f3d4dfc8d8e3",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ramcilovik-Zekir.jpg",
+      "name": "ZEKIR RAMCHILOVIK",
+      "sort_name": "ZEKIR RAMCHILOVIK",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ramcilovik-Zekir.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d714d31e-ba76-4ae5-b9a3-f3d4dfc8d8e3",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "independent_mps",
+          "legislative_period_id": "term/2016"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "z.sela@sobranie.mk",
+      "gender": "male",
+      "id": "person/c5b80266-0e86-48df-acd1-f081a052d8b2",
+      "image": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ziadin-Sela.jpg",
+      "name": "ZIADIN SELA",
+      "sort_name": "ZIADIN SELA",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2016-20/Ziadin-Sela.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/c5b80266-0e86-48df-acd1-f081a052d8b2",
+          "organization_id": "chamber/sobranie",
+          "role": "member",
+          "on_behalf_of_id": "“alliance_of_albanians”_coalition_(dr-adp,_uniteti,_ndp)",
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2207,7 +2937,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [
@@ -2232,31 +2962,7 @@
           "organization_id": "chamber/sobranie",
           "role": "member",
           "on_behalf_of_id": "vmro-dpmne",
-          "legislative_period_id": "term/2014"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/ca823796-7651-4e64-b61f-c2326763e530",
-      "image": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zulfi--Adili.jpg",
-      "name": "Zulfi Adili",
-      "sort_name": "Zulfi Adili",
-      "images": [
-        {
-          "url": "https://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zulfi--Adili.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ca823796-7651-4e64-b61f-c2326763e530",
-          "organization_id": "chamber/sobranie",
-          "role": "member",
-          "on_behalf_of_id": "independent_members",
-          "legislative_period_id": "term/2014"
+          "legislative_period_id": "term/2016"
         }
       ],
       "contact_details": [

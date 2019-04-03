@@ -1,7 +1,7 @@
 {
-  "total": 199,
+  "total": 203,
   "page": 1,
-  "per_page": 199,
+  "per_page": 203,
   "has_more": false,
   "result": [
     {
@@ -304,6 +304,38 @@
       ]
     },
     {
+      "email": "bencsik.janos1985@parlament.hu",
+      "gender": "male",
+      "id": "person/cf940c53-edcf-4294-9e2f-8233663b11cd",
+      "image": "http://www.parlament.hu/kepv/kepek/b132.jpg",
+      "name": "Bencsik, János",
+      "sort_name": "Bencsik, János",
+      "links": [
+        {
+          "url": "bencsikjanos1985",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/b132.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/cf940c53-edcf-4294-9e2f-8233663b11cd",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "jobbik",
+          "start_date": "2019-02-18",
+          "legislative_period_id": "term/41"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "email": "bodo.sandor@parlament.hu",
       "gender": "male",
       "id": "person/a9007cdb-57e1-4c3f-ae1a-807a6cb0f839",
@@ -594,6 +626,31 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "fidesz",
+          "legislative_period_id": "term/41"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "csanyi.tamas@parlament.hu",
+      "id": "person/f7ca9f46-500d-46f1-8aa2-8d74902d22b3",
+      "image": "http://www.parlament.hu/kepv/kepek/c046.jpg",
+      "name": "Csányi, Tamás",
+      "sort_name": "Csányi, Tamás",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/c046.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f7ca9f46-500d-46f1-8aa2-8d74902d22b3",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "jobbik",
+          "start_date": "2019-02-18",
           "legislative_period_id": "term/41"
         }
       ],
@@ -992,6 +1049,31 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "mszp",
+          "legislative_period_id": "term/41"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/394cf04c-81b0-45af-ba75-6a6573231b21",
+      "image": "http://www.parlament.hu/kepv/kepek/g060.jpg",
+      "name": "Dr. Gyüre, Csaba",
+      "sort_name": "Dr. Gyüre, Csaba",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/g060.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/394cf04c-81b0-45af-ba75-6a6573231b21",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "jobbik",
+          "start_date": "2019-04-01",
           "legislative_period_id": "term/41"
         }
       ],
@@ -1717,7 +1799,6 @@
       ]
     },
     {
-      "email": "staudt.gabor@parlament.hu",
       "gender": "male",
       "id": "person/1d985468-1b5a-4e21-a80a-281be31bc1a4",
       "image": "http://www.parlament.hu/kepv/kepek/s109.jpg",
@@ -1734,6 +1815,7 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "jobbik",
+          "end_date": "2019-01-31",
           "legislative_period_id": "term/41"
         }
       ],
@@ -2725,7 +2807,6 @@
       ]
     },
     {
-      "email": "hegedus.lorantne@parlament.hu",
       "gender": "female",
       "id": "person/cf804e21-0dd0-46fb-b573-02c1c09ded9a",
       "image": "http://www.parlament.hu/kepv/kepek/h057.jpg",
@@ -2742,6 +2823,7 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "jobbik",
+          "end_date": "2019-02-26",
           "legislative_period_id": "term/41"
         }
       ],
@@ -2800,7 +2882,6 @@
       ]
     },
     {
-      "email": "ferenc.hirt@parlament.hu",
       "gender": "male",
       "id": "person/aa1c789d-1c91-4035-b670-dc38138bd7f5",
       "image": "http://www.parlament.hu/kepv/kepek/h038.jpg",
@@ -2817,6 +2898,7 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "fidesz",
+          "end_date": "2018-12-07",
           "legislative_period_id": "term/41"
         }
       ],
@@ -2868,6 +2950,31 @@
           "role": "member",
           "on_behalf_of_id": "lmp",
           "start_date": "2018-06-11",
+          "legislative_period_id": "term/41"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "person/79c62651-65b5-47a8-98ba-7c5b0a2efe1a",
+      "image": "http://www.parlament.hu/kepv/kepek/h078.jpg",
+      "name": "Hollik, István",
+      "sort_name": "Hollik, István",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/h078.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/79c62651-65b5-47a8-98ba-7c5b0a2efe1a",
+          "organization_id": "chamber/országgyűlés",
+          "role": "member",
+          "on_behalf_of_id": "kdnp",
+          "start_date": "2019-02-18",
           "legislative_period_id": "term/41"
         }
       ],
@@ -4418,7 +4525,6 @@
       ]
     },
     {
-      "email": "szavay.istvan@parlament.hu",
       "gender": "male",
       "id": "person/eb0a79ad-efe0-4814-984d-6e606802bab8",
       "image": "http://www.parlament.hu/kepv/kepek/s115.jpg",
@@ -4435,6 +4541,7 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "jobbik",
+          "end_date": "2019-01-31",
           "legislative_period_id": "term/41"
         }
       ],
@@ -4443,7 +4550,6 @@
       ]
     },
     {
-      "email": "szekely.sandor@parlament.hu",
       "id": "person/f0ea77e6-7547-4258-8f2f-2dd885a23f85",
       "image": "http://www.parlament.hu/kepv/kepek/s158.jpg",
       "name": "Székely, Sándor",
@@ -4459,6 +4565,7 @@
           "organization_id": "chamber/országgyűlés",
           "role": "member",
           "on_behalf_of_id": "dk",
+          "end_date": "2018-12-21",
           "legislative_period_id": "term/41"
         }
       ],
