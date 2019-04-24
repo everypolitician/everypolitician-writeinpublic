@@ -1,7 +1,7 @@
 {
-  "total": 652,
+  "total": 653,
   "page": 1,
-  "per_page": 652,
+  "per_page": 653,
   "has_more": false,
   "result": [
     {
@@ -15710,6 +15710,16 @@
           "role": "member",
           "on_behalf_of_id": "conservative",
           "area_id": "uk.org.publicwhip/cons/256",
+          "end_date": "2019-04-01",
+          "legislative_period_id": "term/57"
+        },
+        {
+          "person_id": "person/b33f2f01-02a8-4ef6-96fa-f1b19b1fd856",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "independent",
+          "area_id": "uk.org.publicwhip/cons/256",
+          "start_date": "2019-04-02",
           "legislative_period_id": "term/57"
         }
       ]
@@ -18906,6 +18916,35 @@
           "role": "member",
           "on_behalf_of_id": "labour",
           "area_id": "uk.org.publicwhip/cons/293",
+          "legislative_period_id": "term/57"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "person/08a5eaf5-f5e5-427c-a33d-f6e61c458b61",
+      "name": "Ruth Jones",
+      "sort_name": "Ruth Jones",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RuthNewportWest"
+        }
+      ],
+      "links": [
+        {
+          "url": "RuthNewportWest",
+          "note": "facebook"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/08a5eaf5-f5e5-427c-a33d-f6e61c458b61",
+          "organization_id": "chamber/house_of_commons",
+          "role": "member",
+          "on_behalf_of_id": "labour",
+          "area_id": "uk.org.publicwhip/cons/399",
+          "start_date": "2019-04-04",
           "legislative_period_id": "term/57"
         }
       ]

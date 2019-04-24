@@ -1,7 +1,7 @@
 {
-  "total": 154,
+  "total": 101,
   "page": 1,
-  "per_page": 154,
+  "per_page": 101,
   "has_more": false,
   "result": [
     {
@@ -28,59 +28,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/2ff6f13d-b5e0-4948-811a-b60281e6f653",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Maatee_Aet.IMG_2928.JPG",
-      "name": "Aet Maatee",
-      "sort_name": "Aet Maatee",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Maatee_Aet.IMG_2928.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2ff6f13d-b5e0-4948-811a-b60281e6f653",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "start_date": "2016-11-24",
-          "end_date": "2016-11-25",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d1fd1506-2e2b-4d0b-9cf2-875a9416b16a",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/RK_Ain_Lutsepp.jpg",
-      "name": "Ain Lutsepp",
-      "sort_name": "Ain Lutsepp",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/RK_Ain_Lutsepp.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d1fd1506-2e2b-4d0b-9cf2-875a9416b16a",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -111,28 +59,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/094c0c8c-f0c0-42dd-8361-dc8226e7d3dd",
-      "name": "Aivar Surva",
-      "sort_name": "Aivar Surva",
-      "memberships": [
-        {
-          "person_id": "person/094c0c8c-f0c0-42dd-8361-dc8226e7d3dd",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "start_date": "2018-08-01",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -163,8 +90,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -172,200 +98,34 @@
       ]
     },
     {
+      "email": "alar.laneman@riigikogu.ee",
       "gender": "male",
-      "id": "person/77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
-      "name": "Alar Nääme",
-      "sort_name": "Alar Nääme",
+      "id": "person/d3ba8219-7346-4276-aa59-a5f77f7b014c",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/1d5750fb-77cc-4bfa-a2ae-951895bedbe5.jpg",
+      "name": "Alar Laneman",
+      "sort_name": "Alar Laneman",
+      "links": [
+        {
+          "url": "alar.laneman.96",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/1d5750fb-77cc-4bfa-a2ae-951895bedbe5.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
+          "person_id": "person/d3ba8219-7346-4276-aa59-a5f77f7b014c",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "start_date": "2016-12-10",
-          "end_date": "2016-12-11",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/740550dd-b1e2-4797-9bdd-3e89773e99f6",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/RE_Andre_Sepp.jpg",
-      "name": "Andre Sepp",
-      "sort_name": "Andre Sepp",
-      "links": [
-        {
-          "url": "andre.sepp.9",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/RE_Andre_Sepp.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/740550dd-b1e2-4797-9bdd-3e89773e99f6",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2015-04-09",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/6958f660-ea79-4d10-9f9f-dc2cd9674149",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Novikov,_Andrei.IMG_2287.JPG",
-      "name": "Andrei Novikov",
-      "sort_name": "Andrei Novikov",
-      "links": [
-        {
-          "url": "andrei.novikov.7",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Novikov,_Andrei.IMG_2287.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/6958f660-ea79-4d10-9f9f-dc2cd9674149",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2017-11-10",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/feb5d651-7502-4a90-bd5b-bcc0b33c7d48",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/RK_Andres_Ammas.jpg",
-      "name": "Andres Ammas",
-      "sort_name": "Andres Ammas",
-      "links": [
-        {
-          "url": "andres.ammas",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/RK_Andres_Ammas.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/feb5d651-7502-4a90-bd5b-bcc0b33c7d48",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "end_date": "2018-04-04",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/e28a42b5-395d-4993-9025-f5b417edd583",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SDE_Andres_Anvelt.jpg",
-      "name": "Andres Anvelt",
-      "sort_name": "Andres Anvelt",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "andresanvelt"
-        }
-      ],
-      "links": [
-        {
-          "url": "100000095936669",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SDE_Andres_Anvelt.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/e28a42b5-395d-4993-9025-f5b417edd583",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/e28a42b5-395d-4993-9025-f5b417edd583",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2018-11-26",
-          "end_date": "2018-11-27",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/778bc451-73d2-40be-bc52-174b8c852907",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/IRL_Andres_Herkel.jpg",
-      "name": "Andres Herkel",
-      "sort_name": "Andres Herkel",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "andresherkel"
-        }
-      ],
-      "links": [
-        {
-          "url": "100000379332463",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/IRL_Andres_Herkel.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/778bc451-73d2-40be-bc52-174b8c852907",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "legislative_period_id": "term/13"
-        }
       ]
     },
     {
@@ -392,8 +152,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -401,37 +160,64 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/ca220e41-2833-436b-b94c-91273c29b73a",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Anne_Sulling_in_October_27,_2014.jpg",
-      "name": "Anne Sulling",
-      "sort_name": "Anne Sulling",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "annesulling"
-        }
-      ],
+      "email": "andres.sutt@riigikogu.ee",
+      "id": "person/932f185d-5e13-429d-a5ea-394d329c600f",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/b80409ca-6e64-46b3-9da4-1e22c7515bc5.jpg",
+      "name": "Andres Sutt",
+      "sort_name": "Andres Sutt",
       "links": [
         {
-          "url": "anne.sulling",
+          "url": "SuttAndres",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Anne_Sulling_in_October_27,_2014.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/b80409ca-6e64-46b3-9da4-1e22c7515bc5.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ca220e41-2833-436b-b94c-91273c29b73a",
+          "person_id": "person/932f185d-5e13-429d-a5ea-394d329c600f",
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "andrus.seeme@riigikogu.ee",
+      "gender": "male",
+      "id": "person/f826f4a8-63ce-4253-a2eb-5360f6076a7b",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/68aaedb0-0e12-40d9-8953-c8d915a4dc4e.jpg",
+      "name": "Andrus Seeme",
+      "sort_name": "Andrus Seeme",
+      "links": [
+        {
+          "url": "andrusseeme",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/68aaedb0-0e12-40d9-8953-c8d915a4dc4e.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f826f4a8-63ce-4253-a2eb-5360f6076a7b",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -458,9 +244,72 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "start_date": "2015-11-19",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "annely.akkermann@riigikogu.ee",
+      "gender": "female",
+      "id": "person/0aeb54ce-94ae-4c60-94bf-221862ffceef",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3cc38875-93fe-4007-acc8-1176c655f32f.jpg",
+      "name": "Annely Akkermann",
+      "sort_name": "Annely Akkermann",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AnnelyAkkerman"
+        }
+      ],
+      "links": [
+        {
+          "url": "akkermannannely",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3cc38875-93fe-4007-acc8-1176c655f32f.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/0aeb54ce-94ae-4c60-94bf-221862ffceef",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
+        }
+      ]
+    },
+    {
+      "email": "anti.poolamets@riigikogu.ee",
+      "gender": "male",
+      "id": "person/a546da9c-0ad2-4cff-a099-d1633345afff",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/f2dbfd2b-8ebe-4c31-8208-4f539d05b679.jpg",
+      "name": "Anti Poolamets",
+      "sort_name": "Anti Poolamets",
+      "links": [
+        {
+          "url": "Anti-Poolamets-poliitik-1532805486974348",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/f2dbfd2b-8ebe-4c31-8208-4f539d05b679.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/a546da9c-0ad2-4cff-a099-d1633345afff",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -485,33 +334,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/89a57076-c7b4-435e-a507-8eb70d840286",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/RK_Arno_Sild.jpg",
-      "name": "Arno Sild",
-      "sort_name": "Arno Sild",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RK_Arno_Sild.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/89a57076-c7b4-435e-a507-8eb70d840286",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -548,154 +371,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/4ab03025-d72c-4b06-94b9-e23ec9d32e3a",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1877c745-a825-44c4-8428-c073f4e113dd",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/RK_Artur_Talvik.jpg",
-      "name": "Artur Talvik",
-      "sort_name": "Artur Talvik",
-      "links": [
-        {
-          "url": "artur.talvik",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/RK_Artur_Talvik.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1877c745-a825-44c4-8428-c073f4e113dd",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/695cff26-9439-4391-bf17-f60856aa9331",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarapuu,_Arvo.IMG_5545.JPG",
-      "name": "Arvo Sarapuu",
-      "sort_name": "Arvo Sarapuu",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sarapuu,_Arvo.IMG_5545.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/695cff26-9439-4391-bf17-f60856aa9331",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "start_date": "2016-12-05",
-          "end_date": "2016-12-06",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/268_Barbi_volikogu_esindus_2016.jpg",
-      "name": "Barbi Pilvre",
-      "sort_name": "Barbi Pilvre",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "barbipilvre"
-        }
-      ],
-      "links": [
-        {
-          "url": "barbi.pilvre",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/268_Barbi_volikogu_esindus_2016.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2016-11-24",
-          "end_date": "2018-11-26",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2018-11-27",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1730cc02-ecc6-4d27-a5f7-d5178f6abbda",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/RK_Deniss_Boroditš.jpg",
-      "name": "Deniss Boroditš",
-      "sort_name": "Deniss Boroditš",
-      "links": [
-        {
-          "url": "deniss.borodits",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/RK_Deniss_Boroditš.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1730cc02-ecc6-4d27-a5f7-d5178f6abbda",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "end_date": "2018-08-01",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -722,40 +399,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/bfbf9f5e-8ccc-44f8-ac89-700922daa181",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/RK_Edgar_Savisaar.jpg",
-      "name": "Edgar Savisaar",
-      "sort_name": "Edgar Savisaar",
-      "links": [
-        {
-          "url": "edgar.savisaar.5",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/RK_Edgar_Savisaar.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/bfbf9f5e-8ccc-44f8-ac89-700922daa181",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "b17101c9-6e7b-4c8e-a34d-e7affd450ff3",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2015-08-05",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -792,108 +436,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "end_date": "2018-06-15",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
-      "name": "Eevi Paasmäe",
-      "sort_name": "Eevi Paasmäe",
-      "links": [
-        {
-          "url": "100008238098684",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "start_date": "2016-11-24",
-          "end_date": "2016-12-09",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "start_date": "2018-06-28",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/32f14e80-cf5b-407c-a6a6-95fbd7f2851c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/SDE_Eiki_Nestor.jpg",
-      "name": "Eiki Nestor",
-      "sort_name": "Eiki Nestor",
-      "links": [
-        {
-          "url": "100000658185044",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/SDE_Eiki_Nestor.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/32f14e80-cf5b-407c-a6a6-95fbd7f2851c",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d61c4d53-ffe4-4a5f-b974-a0dcb66b47f8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RK_Einar_Vallbaum.jpg",
-      "name": "Einar Vallbaum",
-      "sort_name": "Einar Vallbaum",
-      "links": [
-        {
-          "url": "einar.vallbaum",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/RK_Einar_Vallbaum.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d61c4d53-ffe4-4a5f-b974-a0dcb66b47f8",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "start_date": "2015-04-09",
-          "end_date": "2017-06-12",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -920,28 +464,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/41e6b373-ddea-47f8-bd29-7c8eb3e50002",
-      "name": "Enn Meri",
-      "sort_name": "Enn Meri",
-      "memberships": [
-        {
-          "person_id": "person/41e6b373-ddea-47f8-bd29-7c8eb3e50002",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "start_date": "2018-04-05",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -972,8 +495,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -981,66 +503,29 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/cac5bc14-504f-4e37-9ddf-c674c51b74bf",
-      "name": "Etti Kagarov",
-      "sort_name": "Etti Kagarov",
+      "email": "erkki.keldo@riigikogu.ee",
+      "id": "person/833165ea-60ad-4004-8497-1b7da140aa41",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/53098bb7-04a2-4458-b5c2-8aaf94e8459f.jpg",
+      "name": "Erkki Keldo",
+      "sort_name": "Erkki Keldo",
       "links": [
         {
-          "url": "etti.kagarov",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cac5bc14-504f-4e37-9ddf-c674c51b74bf",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "start_date": "2015-09-15",
-          "end_date": "2015-09-16",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/03d7b8ee-b3b7-4548-a696-fd243ef706d3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/RK_Hannes_Hanso.jpg",
-      "name": "Hannes Hanso",
-      "sort_name": "Hannes Hanso",
-      "links": [
-        {
-          "url": "hannes.hanso",
+          "url": "erkki.keldo",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/RK_Hannes_Hanso.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/53098bb7-04a2-4458-b5c2-8aaf94e8459f.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/03d7b8ee-b3b7-4548-a696-fd243ef706d3",
+          "person_id": "person/833165ea-60ad-4004-8497-1b7da140aa41",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "end_date": "2015-09-14",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/03d7b8ee-b3b7-4548-a696-fd243ef706d3",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1077,61 +562,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7d2af5ac-8100-4f0d-867d-787735a96723",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hardivolmerhirvepargis.jpg",
-      "name": "Hardi Volmer",
-      "sort_name": "Hardi Volmer",
-      "links": [
-        {
-          "url": "hardi.volmer",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hardivolmerhirvepargis.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7d2af5ac-8100-4f0d-867d-787735a96723",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2015-04-09",
-          "end_date": "2015-09-14",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/7d2af5ac-8100-4f0d-867d-787735a96723",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2016-11-24",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1164,36 +596,55 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
     {
+      "email": "heiki.kranich@riigikogu.ee",
       "gender": "male",
-      "id": "person/4ca4ef6a-7ed7-4632-85cb-68597f0b1c01",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/KE_Heimar_Lenk.jpg",
-      "name": "Heimar Lenk",
-      "sort_name": "Heimar Lenk",
-      "links": [
-        {
-          "url": "heimar.lenk",
-          "note": "facebook"
-        }
-      ],
+      "id": "person/44df83ea-89b2-4661-80a0-93733b57aa52",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/003afce7-861a-4ad0-b5a9-c630cd267d59.jpg",
+      "name": "Heiki Kranich",
+      "sort_name": "Heiki Kranich",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/KE_Heimar_Lenk.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/003afce7-861a-4ad0-b5a9-c630cd267d59.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/4ca4ef6a-7ed7-4632-85cb-68597f0b1c01",
+          "person_id": "person/44df83ea-89b2-4661-80a0-93733b57aa52",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "hele.everaus@riigikogu.ee",
+      "gender": "female",
+      "id": "person/d0f66384-8d3b-462f-b77b-716352fb14cb",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/164d7e9e-46c3-41b7-83f9-19f06fe3e56d.jpg",
+      "name": "Hele Everaus",
+      "sort_name": "Hele Everaus",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/164d7e9e-46c3-41b7-83f9-19f06fe3e56d.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/d0f66384-8d3b-462f-b77b-716352fb14cb",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1224,8 +675,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1256,8 +706,32 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "helle-moonika.helme@riigikogu.ee",
+      "gender": "female",
+      "id": "person/b43f6566-c9a9-4d02-aab4-6bbdd62db418",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3a36cd8c-bb41-435f-a3f6-7c3dec64902b.jpg",
+      "name": "Helle-Moonika Helme",
+      "sort_name": "Helle-Moonika Helme",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3a36cd8c-bb41-435f-a3f6-7c3dec64902b.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/b43f6566-c9a9-4d02-aab4-6bbdd62db418",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1288,34 +762,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/24974763-c61d-4a42-9da1-ac8beb834dfa",
-      "name": "Helmut Hallemaa",
-      "sort_name": "Helmut Hallemaa",
-      "links": [
-        {
-          "url": "helmut.hallemaa",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/24974763-c61d-4a42-9da1-ac8beb834dfa",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "start_date": "2016-11-24",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1346,40 +793,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/baf18a5d-4968-4676-b2cf-655d1ff4a17c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RE_Igor_Gräzin.jpg",
-      "name": "Igor Gräzin",
-      "sort_name": "Igor Gräzin",
-      "links": [
-        {
-          "url": "igor.grazin",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/RE_Igor_Gräzin.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/baf18a5d-4968-4676-b2cf-655d1ff4a17c",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "end_date": "2018-09-05",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1410,77 +824,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "start_date": "2016-12-06",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/dddd7e0d-18de-495e-a5b1-3355d86b3a54",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Imre_Sooäär_2012.jpg",
-      "name": "Imre Sooäär",
-      "sort_name": "Imre Sooäär",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "muhumees"
-        }
-      ],
-      "links": [
-        {
-          "url": "610813978",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Imre_Sooäär_2012.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dddd7e0d-18de-495e-a5b1-3355d86b3a54",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2015-04-09",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/be215647-b37d-439b-81fe-fd0f4f2c332c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/KE_Inara_Luigas.jpg",
-      "name": "Inara Luigas",
-      "sort_name": "Inara Luigas",
-      "links": [
-        {
-          "url": "Inara-Luigas",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/KE_Inara_Luigas.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/be215647-b37d-439b-81fe-fd0f4f2c332c",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "start_date": "2016-11-25",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1517,9 +861,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -1547,9 +889,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "end_date": "2017-11-07",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1557,74 +897,34 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/b0949091-91b4-4c3c-8cda-a1dcebc8dc85",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Eenmaa,_Ivi.IMG_0385.JPG",
-      "name": "Ivi Eenmaa",
-      "sort_name": "Ivi Eenmaa",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Eenmaa,_Ivi.IMG_0385.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b0949091-91b4-4c3c-8cda-a1dcebc8dc85",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2015-04-09",
-          "end_date": "2015-07-15",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/b0949091-91b4-4c3c-8cda-a1dcebc8dc85",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2019-02-07",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
+      "email": "jaak.aab@riigikogu.ee",
       "gender": "male",
-      "id": "person/dcab809b-7a75-4fe3-a4cf-488e510d07b9",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jaak_Aaviksoo,_2011.jpg",
-      "name": "Jaak Aaviksoo",
-      "sort_name": "Jaak Aaviksoo",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "jaakaaviksoo"
-        }
-      ],
+      "id": "person/eb85d3e6-b4cc-418e-b841-e8aba066b3e6",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/71e3f406-3253-443d-bb18-e7cc58f50f33.jpg",
+      "name": "Jaak Aab",
+      "sort_name": "Jaak Aab",
       "links": [
         {
-          "url": "jaak.aaviksoo",
+          "url": "aabjaak",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jaak_Aaviksoo,_2011.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/71e3f406-3253-443d-bb18-e7cc58f50f33.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/dcab809b-7a75-4fe3-a4cf-488e510d07b9",
+          "person_id": "person/eb85d3e6-b4cc-418e-b841-e8aba066b3e6",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "end_date": "2015-08-31",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "legislative_period_id": "term/14"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1657,9 +957,39 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
+      ]
+    },
+    {
+      "email": "jaak.valge@riigikogu.ee",
+      "gender": "male",
+      "id": "person/e4709b2f-f50c-4e2a-8b41-83902fc71cff",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/417a274f-246e-4548-a2a2-a6c521c8d45a.jpg",
+      "name": "Jaak Valge",
+      "sort_name": "Jaak Valge",
+      "links": [
+        {
+          "url": "ekrejaakvalge",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/417a274f-246e-4548-a2a2-a6c521c8d45a.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/e4709b2f-f50c-4e2a-8b41-83902fc71cff",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1692,41 +1022,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "start_date": "2015-04-27",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/3fad94a9-bdd1-4fd4-bcf8-30cdf745516c",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/RK_Jaanus_Marrandi.jpg",
-      "name": "Jaanus Marrandi",
-      "sort_name": "Jaanus Marrandi",
-      "links": [
-        {
-          "url": "100000899253355",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/RK_Jaanus_Marrandi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3fad94a9-bdd1-4fd4-bcf8-30cdf745516c",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -1759,18 +1056,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "end_date": "2015-09-14",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/fb7fe98f-f304-44d4-b055-24a94ba7b0c0",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "start_date": "2018-05-03",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -1798,47 +1084,11 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/8288a3ee-f554-42a8-b98d-8f0f1e11bd86",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Juhan-Parts.jpg",
-      "name": "Juhan Parts",
-      "sort_name": "Juhan Parts",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "JuhanParts"
-        }
-      ],
-      "links": [
-        {
-          "url": "juhan.parts.1",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Juhan-Parts.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/8288a3ee-f554-42a8-b98d-8f0f1e11bd86",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2016-12-15",
-          "legislative_period_id": "term/13"
-        }
       ]
     },
     {
@@ -1865,49 +1115,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/508adc11-672e-401d-bf60-7912e9ebf6fc",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/3fd0711e-db41-48c3-a04c-d3128ab80066",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jüri_Adams.jpg",
-      "name": "Jüri Adams",
-      "sort_name": "Jüri Adams",
-      "links": [
-        {
-          "url": "juri.adams",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jüri_Adams.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3fd0711e-db41-48c3-a04c-d3128ab80066",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -1944,9 +1152,39 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
+      ]
+    },
+    {
+      "email": "jyri.luik@riigikogu.ee",
+      "gender": "male",
+      "id": "person/36f4267f-faa4-45ca-b798-67382d552551",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/a7c2a8ca-8d53-4038-9803-a18982f036c8.jpg",
+      "name": "Jüri Luik",
+      "sort_name": "Jüri Luik",
+      "links": [
+        {
+          "url": "JyriLuik",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/a7c2a8ca-8d53-4038-9803-a18982f036c8.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/36f4267f-faa4-45ca-b798-67382d552551",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -1979,29 +1217,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/2c1c6807-225e-495e-813d-69096ed49615",
-      "name": "Jüri Saar",
-      "sort_name": "Jüri Saar",
-      "memberships": [
-        {
-          "person_id": "person/2c1c6807-225e-495e-813d-69096ed49615",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "start_date": "2019-01-11",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2034,9 +1251,69 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
+        }
+      ]
+    },
+    {
+      "email": "kaido.hoovelson@riigikogu.ee",
+      "gender": "male",
+      "id": "person/8e3b4b7f-6b4e-4345-bbd4-f47980256e53",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/1ac306f9-7448-43c7-96fe-01baf99d9fdc.jpg",
+      "name": "Kaido Höövelson",
+      "sort_name": "Kaido Höövelson",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Baruto_official"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/1ac306f9-7448-43c7-96fe-01baf99d9fdc.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/8e3b4b7f-6b4e-4345-bbd4-f47980256e53",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "legislative_period_id": "term/14"
+        }
+      ]
+    },
+    {
+      "email": "kaja.kallas@riigikogu.ee",
+      "gender": "female",
+      "id": "person/228ba218-43db-4b81-9a34-44ec36b98b24",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/1d830268-6b14-4974-b04a-0ba421b00b34.jpg",
+      "name": "Kaja Kallas",
+      "sort_name": "Kaja Kallas",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "kajakallas"
+        }
+      ],
+      "links": [
+        {
+          "url": "kallaskaja",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/1d830268-6b14-4974-b04a-0ba421b00b34.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/228ba218-43db-4b81-9a34-44ec36b98b24",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -2064,36 +1341,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2015-04-23",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/SDE_Kalev_Kotkas.jpg",
-      "name": "Kalev Kotkas",
-      "sort_name": "Kalev Kotkas",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/SDE_Kalev_Kotkas.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/957d15b1-a5c5-45a6-bf25-971b32ef9aa0",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "start_date": "2015-09-16",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2124,41 +1372,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/014f1aac-a694-4538-8b4f-a533233acb60",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Muuli,_Kalle._by_Ave_Maria_Mõistlik.IMG_7255.JPG",
-      "name": "Kalle Muuli",
-      "sort_name": "Kalle Muuli",
-      "links": [
-        {
-          "url": "kalle.muuli.3",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Muuli,_Kalle._by_Ave_Maria_Mõistlik.IMG_7255.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/014f1aac-a694-4538-8b4f-a533233acb60",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "start_date": "2015-04-09",
-          "end_date": "2017-06-12",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2195,8 +1409,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -2218,8 +1431,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2227,19 +1439,30 @@
       ]
     },
     {
+      "email": "katri.raik@riigikogu.ee",
       "gender": "female",
-      "id": "person/23ac2327-7658-4814-8b50-ffba9c518c73",
-      "name": "Karin Tammemägi",
-      "sort_name": "Karin Tammemägi",
+      "id": "person/48e72ba9-c97f-476c-8052-b82a6d652031",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/9c1020fc-e0e1-4e74-9ce1-f1aae6276f84.jpg",
+      "name": "Katri Raik",
+      "sort_name": "Katri Raik",
+      "links": [
+        {
+          "url": "katri.raik",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/9c1020fc-e0e1-4e74-9ce1-f1aae6276f84.jpg"
+        }
+      ],
       "memberships": [
         {
-          "person_id": "person/23ac2327-7658-4814-8b50-ffba9c518c73",
+          "person_id": "person/48e72ba9-c97f-476c-8052-b82a6d652031",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "start_date": "2017-11-10",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2276,51 +1499,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/ed651195-2f16-4074-86d0-ba81c2581f36",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2015-07-16",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/dd71454a-fb2f-4ec4-9c51-ef0956e0d39f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ken-Marti_Vaher,_2011.jpg",
-      "name": "Ken-Marti Vaher",
-      "sort_name": "Ken-Marti Vaher",
-      "links": [
-        {
-          "url": "vaher.kenmarti",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ken-Marti_Vaher,_2011.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/dd71454a-fb2f-4ec4-9c51-ef0956e0d39f",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2017-06-01",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -2347,8 +1527,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2356,30 +1535,29 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/c1855876-a288-4647-adfb-5d2905fb0cb0",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Krista_Aru.jpg",
-      "name": "Krista Aru",
-      "sort_name": "Krista Aru",
+      "email": "kert.kingo@riigikogu.ee",
+      "id": "person/d5bf3979-a8c9-406a-a99e-1670d591523e",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/056788b6-f072-4d52-868f-e1ba28551ce4.jpg",
+      "name": "Kert Kingo",
+      "sort_name": "Kert Kingo",
       "links": [
         {
-          "url": "kristaaru",
+          "url": "KertKingoEKRE",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Krista_Aru.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/056788b6-f072-4d52-868f-e1ba28551ce4.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/c1855876-a288-4647-adfb-5d2905fb0cb0",
+          "person_id": "person/d5bf3979-a8c9-406a-a99e-1670d591523e",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2410,18 +1588,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/e6279173-c122-46a0-a4e1-0155c8df817c",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2429,32 +1596,30 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/e2dec6f2-a33c-4cfe-a860-100e21bf6a62",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RK_Kristjan_Kõljalg.jpg",
-      "name": "Kristjan Kõljalg",
-      "sort_name": "Kristjan Kõljalg",
+      "email": "kristina.smigun-vahi@riigikogu.ee",
+      "gender": "female",
+      "id": "person/2c913599-12ac-4c1b-977d-04a39e63e3e4",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/ed6cb69f-e88a-4a2b-adc5-f58b0840d667.jpg",
+      "name": "Kristina Šmigun-Vähi",
+      "sort_name": "Kristina Šmigun-Vähi",
       "links": [
         {
-          "url": "kristjan.koljalg",
+          "url": "kristinasmigunvahi",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RK_Kristjan_Kõljalg.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/ed6cb69f-e88a-4a2b-adc5-f58b0840d667.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/e2dec6f2-a33c-4cfe-a860-100e21bf6a62",
+          "person_id": "person/2c913599-12ac-4c1b-977d-04a39e63e3e4",
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "start_date": "2015-04-09",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2462,136 +1627,34 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/ab60682f-3114-48f3-b1f8-7641daaa1761",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RK_Külliki_Kübarsepp.jpg",
-      "name": "Külliki Kübarsepp",
-      "sort_name": "Külliki Kübarsepp",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "kkybarsepp"
-        }
-      ],
-      "links": [
-        {
-          "url": "kyllikikybarsepp",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RK_Külliki_Kübarsepp.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/ab60682f-3114-48f3-b1f8-7641daaa1761",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2019-01-11",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/f04fbe53-d4e9-4fc2-b210-d181afcac9b7",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/RE_Laine_Randjärv.jpg",
-      "name": "Laine Randjärv",
-      "sort_name": "Laine Randjärv",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "lainerandjarv"
-        }
-      ],
-      "links": [
-        {
-          "url": "laine.randjarv",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/RE_Laine_Randjärv.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f04fbe53-d4e9-4fc2-b210-d181afcac9b7",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "end_date": "2019-02-05",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
+      "email": "leo.kunnas@riigikogu.ee",
       "gender": "male",
-      "id": "person/c2da6335-5e63-425f-a899-552afa0c8102",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/KE_Lauri_Laasi.jpg",
-      "name": "Lauri Laasi",
-      "sort_name": "Lauri Laasi",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "laurilaasi"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/KE_Lauri_Laasi.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/c2da6335-5e63-425f-a899-552afa0c8102",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2015-11-20",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/98334082-f509-4baa-ade3-77d67b124ff3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RE_Lauri_Luik.jpg",
-      "name": "Lauri Luik",
-      "sort_name": "Lauri Luik",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "lauriluik"
-        }
-      ],
+      "id": "person/a2957d40-8ad5-420a-9258-3f5f3d27cf38",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3be412af-4249-48f3-9d4d-ee9f616439f2.jpg",
+      "name": "Leo Kunnas",
+      "sort_name": "Leo Kunnas",
       "links": [
         {
-          "url": "669865682",
+          "url": "leo.kunnas.5",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RE_Lauri_Luik.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3be412af-4249-48f3-9d4d-ee9f616439f2.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/98334082-f509-4baa-ade3-77d67b124ff3",
+          "person_id": "person/a2957d40-8ad5-420a-9258-3f5f3d27cf38",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -2618,77 +1681,11 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
-      "name": "Liisa Oviir",
-      "sort_name": "Liisa Oviir",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "liisaoviir"
-        }
-      ],
-      "links": [
-        {
-          "url": "liisa.oviir",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2016-11-24",
-          "end_date": "2018-08-22",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/807c420d-6083-4839-98e5-932cf6bbf2b8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/IRL_Liisa-Ly_Pakosta.jpg",
-      "name": "Liisa Pakosta",
-      "sort_name": "Liisa Pakosta",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Liisapakosta"
-        }
-      ],
-      "links": [
-        {
-          "url": "liisa.pakosta",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/IRL_Liisa-Ly_Pakosta.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/807c420d-6083-4839-98e5-932cf6bbf2b8",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "start_date": "2017-06-01",
-          "end_date": "2017-06-02",
-          "legislative_period_id": "term/13"
-        }
       ]
     },
     {
@@ -2715,8 +1712,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2753,37 +1749,34 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
     {
-      "gender": "female",
-      "id": "person/8a7ff8dd-6d3b-4e60-aa25-6e7d760be077",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/RK_Maire_Aunaste.jpg",
-      "name": "Maire Aunaste",
-      "sort_name": "Maire Aunaste",
+      "email": "marek.jyrgenson@riigikogu.ee",
+      "id": "person/53d4abaf-fed5-43fb-b052-c8870ab15298",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/e18a73df-302b-457e-b62d-b47ae0891087.jpg",
+      "name": "Marek Jürgenson",
+      "sort_name": "Marek Jürgenson",
       "links": [
         {
-          "url": "100001914662665",
+          "url": "marek.jurgenson",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/RK_Maire_Aunaste.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/e18a73df-302b-457e-b62d-b47ae0891087.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/8a7ff8dd-6d3b-4e60-aa25-6e7d760be077",
+          "person_id": "person/53d4abaf-fed5-43fb-b052-c8870ab15298",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -2791,86 +1784,33 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/ac4cc87b-1de2-418e-b92d-799fce699e48",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/IRL_Margus_Tsahkna.jpg",
-      "name": "Margus Tsahkna",
-      "sort_name": "Margus Tsahkna",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "tsahkna"
-        }
-      ],
+      "email": "maria.jufereva-skuratovski@riigikogu.ee",
+      "id": "person/ad989522-1c0f-476f-ab18-a547204dc0a4",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/7f3f05b0-84e6-466d-a5a4-f2507e1ad9e3.jpg",
+      "name": "Maria Jufereva-Skuratovski",
+      "sort_name": "Maria Jufereva-Skuratovski",
       "links": [
         {
-          "url": "margus.tsahkna",
+          "url": "maria.jufereva",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/IRL_Margus_Tsahkna.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/7f3f05b0-84e6-466d-a5a4-f2507e1ad9e3.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/ac4cc87b-1de2-418e-b92d-799fce699e48",
+          "person_id": "person/ad989522-1c0f-476f-ab18-a547204dc0a4",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/ac4cc87b-1de2-418e-b92d-799fce699e48",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "start_date": "2017-06-12",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/d88222df-a90a-4cbe-ad0a-317c4556c07b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/SDE_Marianne_Mikko.jpg",
-      "name": "Marianne Mikko",
-      "sort_name": "Marianne Mikko",
+      ],
       "contact_details": [
-        {
-          "type": "twitter",
-          "value": "mariannemikko"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/SDE_Marianne_Mikko.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d88222df-a90a-4cbe-ad0a-317c4556c07b",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "start_date": "2015-04-09",
-          "end_date": "2015-09-14",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/d88222df-a90a-4cbe-ad0a-317c4556c07b",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "start_date": "2015-09-16",
-          "legislative_period_id": "term/13"
-        }
+
       ]
     },
     {
@@ -2897,12 +1837,45 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
 
+      ]
+    },
+    {
+      "email": "marina.kaljurand@riigikogu.ee",
+      "gender": "female",
+      "id": "person/9be09f05-0726-45b5-8d33-1e891279ab7f",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/db6c1fe8-12e9-4fa4-bfa9-9d6a30ea3589.jpg",
+      "name": "Marina Kaljurand",
+      "sort_name": "Marina Kaljurand",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarinaKaljurand"
+        }
+      ],
+      "links": [
+        {
+          "url": "marinakaljurand",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/db6c1fe8-12e9-4fa4-bfa9-9d6a30ea3589.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/9be09f05-0726-45b5-8d33-1e891279ab7f",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
+          "legislative_period_id": "term/14"
+        }
       ]
     },
     {
@@ -2935,46 +1908,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "end_date": "2016-09-12",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/e8cd9094-5cf9-4b4e-89bb-b1b60119cef3",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/70ee48b3-b9ad-444c-9947-3336f5b13964",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mark_Soosaar.JPG",
-      "name": "Mark-Toomas Soosaar",
-      "sort_name": "Mark-Toomas Soosaar",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mark_Soosaar.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/70ee48b3-b9ad-444c-9947-3336f5b13964",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "start_date": "2015-04-09",
-          "end_date": "2016-11-24",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3006,81 +1941,9 @@
           "person_id": "person/db580723-baf6-4843-9aa1-f30258890715",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0259486a-0410-49f3-aef9-8b79c15741a7",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/IRL_Marko_Pomerants.jpg",
-      "name": "Marko Pomerants",
-      "sort_name": "Marko Pomerants",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "MPomerants"
-        }
-      ],
-      "links": [
-        {
-          "url": "100000234181959",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/IRL_Marko_Pomerants.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/0259486a-0410-49f3-aef9-8b79c15741a7",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/0259486a-0410-49f3-aef9-8b79c15741a7",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "start_date": "2017-06-12",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7543bb1d-1f30-49dc-985e-de023d6235ca",
-      "name": "Marko Šorin",
-      "sort_name": "Marko Šorin",
-      "links": [
-        {
-          "url": "edukas.sindi",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7543bb1d-1f30-49dc-985e-de023d6235ca",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "start_date": "2016-11-24",
-          "end_date": "2017-06-12",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3107,47 +1970,11 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/58fb9435-5e48-4be6-bf1d-b4215f42fcec",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Nutt&Hääl.IMG_0229.JPG",
-      "name": "Mart Nutt",
-      "sort_name": "Mart Nutt",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "MartNutt"
-        }
-      ],
-      "links": [
-        {
-          "url": "martnutt",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Nutt&Hääl.IMG_0229.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/58fb9435-5e48-4be6-bf1d-b4215f42fcec",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "start_date": "2015-04-09",
-          "legislative_period_id": "term/13"
-        }
       ]
     },
     {
@@ -3180,35 +2007,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/4c8ebda3-8451-41ca-ab24-070ec29f1259",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/RK_Martin_Kukk.jpg",
-      "name": "Martin Kukk",
-      "sort_name": "Martin Kukk",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/RK_Martin_Kukk.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4c8ebda3-8451-41ca-ab24-070ec29f1259",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "end_date": "2016-07-06",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3235,19 +2035,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/1d3c8a79-3acc-438b-b4d4-cc1cb5f74408",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "start_date": "2016-12-10",
-          "end_date": "2018-06-26",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3255,72 +2043,30 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/24727280-679e-4ca3-ae34-15051aa40bcf",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/RE_Mati_Raidma.jpg",
-      "name": "Mati Raidma",
-      "sort_name": "Mati Raidma",
+      "email": "merry.aart@riigikogu.ee",
+      "gender": "female",
+      "id": "person/0ddf88b2-48f4-4371-8be7-7fbb0c6e97a5",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/919c896b-1d5c-46bf-afc0-3004776add96.jpg",
+      "name": "Merry Aart",
+      "sort_name": "Merry Aart",
       "links": [
         {
-          "url": "matiraidma",
+          "url": "merry.aart",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/RE_Mati_Raidma.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/919c896b-1d5c-46bf-afc0-3004776add96.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/24727280-679e-4ca3-ae34-15051aa40bcf",
+          "person_id": "person/0ddf88b2-48f4-4371-8be7-7fbb0c6e97a5",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "start_date": "2015-04-09",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/24727280-679e-4ca3-ae34-15051aa40bcf",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "start_date": "2018-09-05",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/290158a3-b940-4564-a970-2664f94bdfa2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/RE_Meelis_Mälberg.jpg",
-      "name": "Meelis Mälberg",
-      "sort_name": "Meelis Mälberg",
-      "links": [
-        {
-          "url": "meelis.malberg",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/RE_Meelis_Mälberg.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/290158a3-b940-4564-a970-2664f94bdfa2",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "start_date": "2015-04-09",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3351,18 +2097,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/a0870175-19a7-4f03-80a5-ca52b888880f",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2017-06-12",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3370,25 +2105,24 @@
       ]
     },
     {
+      "email": "mihhail.lotman@riigikogu.ee",
       "gender": "male",
-      "id": "person/04b0c38f-0cd8-4d0c-b276-f4aeb17bbefb",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mihhail-Kolvart.JPG",
-      "name": "Mihhail Kõlvart",
-      "sort_name": "Mihhail Kõlvart",
+      "id": "person/27d0adba-ae78-49f3-9348-24df60add19e",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/17553436-b25b-4019-907a-3a658f939fcd.jpg",
+      "name": "Mihhail Lotman",
+      "sort_name": "Mihhail Lotman",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mihhail-Kolvart.JPG"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/17553436-b25b-4019-907a-3a658f939fcd.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/04b0c38f-0cd8-4d0c-b276-f4aeb17bbefb",
+          "person_id": "person/27d0adba-ae78-49f3-9348-24df60add19e",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2015-03-27",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "b17101c9-6e7b-4c8e-a34d-e7affd450ff3",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3413,8 +2147,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3422,248 +2155,24 @@
       ]
     },
     {
+      "email": "paul.puustusmaa@riigikogu.ee",
       "gender": "male",
-      "id": "person/907f006e-cf58-4fc6-a255-d92b94028dc1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mihkel_Raud,_2007.jpg",
-      "name": "Mihkel Raud",
-      "sort_name": "Mihkel Raud",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "mihkelraud"
-        }
-      ],
+      "id": "person/043e83d9-0e5b-4702-ab04-2015ee88754c",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3412455d-0155-4d9f-ad43-3f8c1b80f8a7.jpg",
+      "name": "Paul Puustusmaa",
+      "sort_name": "Paul Puustusmaa",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mihkel_Raud,_2007.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/3412455d-0155-4d9f-ad43-3f8c1b80f8a7.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/907f006e-cf58-4fc6-a255-d92b94028dc1",
+          "person_id": "person/043e83d9-0e5b-4702-ab04-2015ee88754c",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "end_date": "2016-06-07",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/58dda1ce-1aab-4d11-8f36-d7d6a11ed362",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RK_Monika_Haukanõmm.jpg",
-      "name": "Monika Haukanõmm",
-      "sort_name": "Monika Haukanõmm",
-      "links": [
-        {
-          "url": "monika.haukanomm",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RK_Monika_Haukanõmm.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/58dda1ce-1aab-4d11-8f36-d7d6a11ed362",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "25f260dd-9766-4b70-9e77-8db32a92a801",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/b6f327cd-cfd0-4e3b-8104-1234a4fbf6d8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/RK_Märt_Sults.jpg",
-      "name": "Märt Sults",
-      "sort_name": "Märt Sults",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "martsults"
-        }
-      ],
-      "links": [
-        {
-          "url": "mart.sults",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/RK_Märt_Sults.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/b6f327cd-cfd0-4e3b-8104-1234a4fbf6d8",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/4976ec9e-f701-464d-9838-f5eb148e7510",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neeme_Suur,_2011.jpg",
-      "name": "Neeme Suur",
-      "sort_name": "Neeme Suur",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neeme_Suur,_2011.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4976ec9e-f701-464d-9838-f5eb148e7510",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "start_date": "2015-09-15",
-          "end_date": "2015-09-16",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/7a171a42-6763-494d-9a24-1a3852c45d6b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/RK_Olga_Ivanova.jpg",
-      "name": "Olga Ivanova",
-      "sort_name": "Olga Ivanova",
-      "links": [
-        {
-          "url": "olga.ivanova.125",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/RK_Olga_Ivanova.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7a171a42-6763-494d-9a24-1a3852c45d6b",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Loone,_Oudekki.IMG_5044.JPG",
-      "name": "Oudekki Loone",
-      "sort_name": "Oudekki Loone",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "oudekkiloone"
-        }
-      ],
-      "links": [
-        {
-          "url": "oudekki",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Loone,_Oudekki.IMG_5044.JPG"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/26932bb9-95d0-4259-9d5c-31c9ae3ac5af",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2015-11-21",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/4abfac12-b57f-40f8-831c-15f0786e0e03",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/RE_Paul-Eerik_Rummo.jpg",
-      "name": "Paul-Eerik Rummo",
-      "sort_name": "Paul-Eerik Rummo",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/RE_Paul-Eerik_Rummo.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/4abfac12-b57f-40f8-831c-15f0786e0e03",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "start_date": "2019-02-06",
-          "end_date": "2019-02-07",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5eb3f11c-99ad-4309-8d6b-be22118d88cc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/RE_Peep_Aru.jpg",
-      "name": "Peep Aru",
-      "sort_name": "Peep Aru",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/RE_Peep_Aru.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5eb3f11c-99ad-4309-8d6b-be22118d88cc",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "start_date": "2016-07-07",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/5eb3f11c-99ad-4309-8d6b-be22118d88cc",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "start_date": "2018-05-07",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3693,10 +2202,8 @@
           "person_id": "person/3cba65f8-efe3-470e-843a-c5b8a06dbc80",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2015-08-18",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3733,132 +2240,69 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
     {
+      "email": "raimond.kaljulaid@riigikogu.ee",
       "gender": "male",
-      "id": "person/1b9ec0aa-02bc-43ce-b047-fefc21b603c1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/KE_Priit_Toobal.jpg",
-      "name": "Priit Toobal",
-      "sort_name": "Priit Toobal",
+      "id": "person/127f18c1-86d8-4082-92c5-064c76dbcaeb",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/10f325a4-725c-467b-ac3c-30b49283364b.jpg",
+      "name": "Raimond Kaljulaid",
+      "sort_name": "Raimond Kaljulaid",
       "contact_details": [
         {
           "type": "twitter",
-          "value": "PriitToobal"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/KE_Priit_Toobal.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1b9ec0aa-02bc-43ce-b047-fefc21b603c1",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "9e438313-5ed3-4c94-968a-869b10c8ed66",
-          "end_date": "2015-11-18",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d28b6428-42e9-42c0-8384-ecca6c098a17",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/KE_Rainer_Vakra.jpg",
-      "name": "Rainer Vakra",
-      "sort_name": "Rainer Vakra",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "VakraRa"
+          "value": "PRB_Raimond"
         }
       ],
       "links": [
         {
-          "url": "rainer.vakra",
+          "url": "raimondkaljulaid1",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/KE_Rainer_Vakra.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/10f325a4-725c-467b-ac3c-30b49283364b.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/d28b6428-42e9-42c0-8384-ecca6c098a17",
+          "person_id": "person/127f18c1-86d8-4082-92c5-064c76dbcaeb",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "b17101c9-6e7b-4c8e-a34d-e7affd450ff3",
+          "legislative_period_id": "term/14"
         }
       ]
     },
     {
+      "email": "raivo.tamm@riigikogu.ee",
       "gender": "male",
-      "id": "person/0e2ae024-efe8-49ff-b627-fa4a9305c9b8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RE_Rait_Maruste.jpg",
-      "name": "Rait Maruste",
-      "sort_name": "Rait Maruste",
+      "id": "person/a860ead7-39d9-4a4b-a862-60ca521dfeb4",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/2f85175e-715c-43a9-9072-1edb5077e767.jpg",
+      "name": "Raivo Tamm",
+      "sort_name": "Raivo Tamm",
       "links": [
         {
-          "url": "100008839053633",
+          "url": "ongiraivoetamm",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/RE_Rait_Maruste.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/2f85175e-715c-43a9-9072-1edb5077e767.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0e2ae024-efe8-49ff-b627-fa4a9305c9b8",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "start_date": "2016-09-13",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/d59867cf-df19-470a-b596-00535de5df99",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/RK_Raivo_Aeg.jpg",
-      "name": "Raivo Aeg",
-      "sort_name": "Raivo Aeg",
-      "links": [
-        {
-          "url": "raivoaeg",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/RK_Raivo_Aeg.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/d59867cf-df19-470a-b596-00535de5df99",
+          "person_id": "person/a860ead7-39d9-4a4b-a862-60ca521dfeb4",
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3866,24 +2310,30 @@
       ]
     },
     {
+      "email": "rene.kokk@riigikogu.ee",
       "gender": "male",
-      "id": "person/6f0b22e7-e549-4043-ab0c-0d2e221fc2a8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RK_Raivo_Põldaru.jpg",
-      "name": "Raivo Põldaru",
-      "sort_name": "Raivo Põldaru",
+      "id": "person/a57cd5a2-40d2-4f10-801b-1d55873b0197",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/32e248c1-2ac4-45e5-b9e3-fb49e9d79bb5.jpg",
+      "name": "Rene Kokk",
+      "sort_name": "Rene Kokk",
+      "links": [
+        {
+          "url": "rene.kokk",
+          "note": "facebook"
+        }
+      ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RK_Raivo_Põldaru.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/32e248c1-2ac4-45e5-b9e3-fb49e9d79bb5.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/6f0b22e7-e549-4043-ab0c-0d2e221fc2a8",
+          "person_id": "person/a57cd5a2-40d2-4f10-801b-1d55873b0197",
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3891,31 +2341,60 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/acdfe7cf-1b7c-49c6-b3f2-46cacc8d1d24",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/SDE_Rein_Randver.jpg",
-      "name": "Rein Randver",
-      "sort_name": "Rein Randver",
+      "email": "riho.breivel@riigikogu.ee",
+      "id": "person/345bbf21-ee09-4f17-9b01-ee1bf05f04f3",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/cc2ce9b4-d793-4c28-9119-970ad06ee7df.jpg",
+      "name": "Riho Breivel",
+      "sort_name": "Riho Breivel",
       "links": [
         {
-          "url": "100008765507858",
+          "url": "riho.breivel",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/SDE_Rein_Randver.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/cc2ce9b4-d793-4c28-9119-970ad06ee7df.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/acdfe7cf-1b7c-49c6-b3f2-46cacc8d1d24",
+          "person_id": "person/345bbf21-ee09-4f17-9b01-ee1bf05f04f3",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "riina.sikkut@riigikogu.ee",
+      "gender": "female",
+      "id": "person/f363b381-b964-4258-99c2-650337c4f303",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/7628e425-6143-44cc-aaa6-efcf1defbd97.jpg",
+      "name": "Riina Sikkut",
+      "sort_name": "Riina Sikkut",
+      "links": [
+        {
+          "url": "riinasikkut.ee",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/7628e425-6143-44cc-aaa6-efcf1defbd97.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f363b381-b964-4258-99c2-650337c4f303",
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "start_date": "2017-11-08",
-          "end_date": "2018-05-02",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -3923,61 +2402,36 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "person/fd29d390-a353-49f5-906b-d38fe94ffa6f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/RK_Rein_Ratas.jpg",
-      "name": "Rein Ratas",
-      "sort_name": "Rein Ratas",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/RK_Rein_Ratas.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/fd29d390-a353-49f5-906b-d38fe94ffa6f",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "end_date": "2016-12-05",
-          "legislative_period_id": "term/13"
-        }
-      ],
+      "email": "ruuben.kaalep@riigikogu.ee",
+      "id": "person/7bbb9e44-faa6-4687-8b67-d932b0089517",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/b6f3dbe7-fd86-4401-ae8f-3151979314f0.jpg",
+      "name": "Ruuben Kaalep",
+      "sort_name": "Ruuben Kaalep",
       "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/0278761b-a076-4dd4-9d39-e80243f9950b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/RE_Remo_Holsmer.jpg",
-      "name": "Remo Holsmer",
-      "sort_name": "Remo Holsmer",
+        {
+          "type": "twitter",
+          "value": "RuubenKaalep"
+        }
+      ],
       "links": [
         {
-          "url": "remo.holsmer",
+          "url": "ruuben.kaalep",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/RE_Remo_Holsmer.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/b6f3dbe7-fd86-4401-ae8f-3151979314f0.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/0278761b-a076-4dd4-9d39-e80243f9950b",
+          "person_id": "person/7bbb9e44-faa6-4687-8b67-d932b0089517",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "end_date": "2018-05-06",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3998,9 +2452,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "start_date": "2019-02-05",
-          "end_date": "2019-02-06",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4008,32 +2460,61 @@
       ]
     },
     {
+      "email": "siim.kallas@riigikogu.ee",
       "gender": "male",
-      "id": "person/51ff72fb-c6e8-4200-984e-471441cdcc6b",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Siim-Valmar_Kiisler.jpg",
-      "name": "Siim-Valmar Kiisler",
-      "sort_name": "Siim-Valmar Kiisler",
+      "id": "person/62a9f86a-27f9-46b5-a4b4-898b1056d04d",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/8d077154-20f1-4e1d-a064-309f00febc6a.jpg",
+      "name": "Siim Kallas",
+      "sort_name": "Siim Kallas",
       "links": [
         {
-          "url": "siim.kiisler",
+          "url": "siim.kallas.94",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Siim-Valmar_Kiisler.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/8d077154-20f1-4e1d-a064-309f00febc6a.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/51ff72fb-c6e8-4200-984e-471441cdcc6b",
+          "person_id": "person/62a9f86a-27f9-46b5-a4b4-898b1056d04d",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "start_date": "2015-09-01",
-          "end_date": "2017-06-12",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
+      "email": "siim.pohlak@riigikogu.ee",
+      "gender": "male",
+      "id": "person/f6122087-e84a-494d-bede-fc620daf08ff",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/6330da8a-8069-401c-8140-a71206d50882.jpg",
+      "name": "Siim Pohlak",
+      "sort_name": "Siim Pohlak",
+      "links": [
+        {
+          "url": "siimpohlak",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/6330da8a-8069-401c-8140-a71206d50882.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f6122087-e84a-494d-bede-fc620daf08ff",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4064,8 +2545,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4102,19 +2582,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/fa8a4384-62a5-4d09-9b6e-1a93c6cc8ef0",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2015-09-15",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -4148,19 +2616,33 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
+          "legislative_period_id": "term/14"
+        }
+      ]
+    },
+    {
+      "email": "taavi.aas@riigikogu.ee",
+      "gender": "male",
+      "id": "person/f6c7fcb3-3589-4afb-ba2f-9218a25454bd",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/5ee89f5c-86fb-4fb1-a190-fc0f0b57a527.jpg",
+      "name": "Taavi Aas",
+      "sort_name": "Taavi Aas",
+      "images": [
         {
-          "person_id": "person/fadf4b85-2782-4159-8a94-457448957956",
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/5ee89f5c-86fb-4fb1-a190-fc0f0b57a527.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/f6c7fcb3-3589-4afb-ba2f-9218a25454bd",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "start_date": "2017-06-12",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+          "legislative_period_id": "term/14"
         }
+      ],
+      "contact_details": [
+
       ]
     },
     {
@@ -4193,50 +2675,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/6b71eefc-413d-4db6-88f0-d7ff845ebaf1",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/7f360147-9536-49b5-a0d1-d98199658215",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RK_Tanel_Talve.jpg",
-      "name": "Tanel Talve",
-      "sort_name": "Tanel Talve",
-      "links": [
-        {
-          "url": "tanel.talve",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RK_Tanel_Talve.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/7f360147-9536-49b5-a0d1-d98199658215",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4269,9 +2709,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "start_date": "2017-06-02",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -4305,125 +2743,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "end_date": "2016-12-10",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/f762351d-893e-4956-8715-779ed8fb2e70",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/RK_Terje_Trei.jpg",
-      "name": "Terje Trei",
-      "sort_name": "Terje Trei",
-      "links": [
-        {
-          "url": "terjetrei",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/RK_Terje_Trei.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/f762351d-893e-4956-8715-779ed8fb2e70",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/2ef163b7-4c24-4991-813f-9188119bd632",
-      "name": "Tiina Kangro",
-      "sort_name": "Tiina Kangro",
-      "links": [
-        {
-          "url": "tiina.kangro",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/2ef163b7-4c24-4991-813f-9188119bd632",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2016-12-16",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/71bd38d5-bc6d-4819-bcba-0234ab7f694f",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg",
-      "name": "Tiit Terik",
-      "sort_name": "Tiit Terik",
-      "links": [
-        {
-          "url": "terik.tiit",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/71bd38d5-bc6d-4819-bcba-0234ab7f694f",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "start_date": "2016-11-24",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
-      "name": "Toomas Jürgenstein",
-      "sort_name": "Toomas Jürgenstein",
-      "links": [
-        {
-          "url": "toomas.jyrgenstein",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/3f51d0d2-dde9-4ccb-b5fe-5226b51230d4",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "start_date": "2016-06-16",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4450,8 +2771,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "23422b41-11c4-4ee0-bd65-4594b1beffd8",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4459,76 +2779,30 @@
       ]
     },
     {
+      "email": "tonis.molder@riigikogu.ee",
       "gender": "male",
-      "id": "person/114fbc7c-a136-4547-bbc3-8a573c913724",
-      "name": "Toomas Paur",
-      "sort_name": "Toomas Paur",
+      "id": "person/4b077fdb-9c00-4644-a6d7-f681ce6501f7",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/6794825d-035f-493f-8bdb-513bc7624c3c.jpg",
+      "name": "Tõnis Mölder",
+      "sort_name": "Tõnis Mölder",
       "links": [
         {
-          "url": "toomas.paur",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/114fbc7c-a136-4547-bbc3-8a573c913724",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "start_date": "2016-12-11",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/22ffb687-195a-463a-a672-c96eeb7b0253",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/RK_Toomas_Vitsut.jpg",
-      "name": "Toomas Vitsut",
-      "sort_name": "Toomas Vitsut",
-      "links": [
-        {
-          "url": "toomas.vitsut",
+          "url": "molder.tonis",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/RK_Toomas_Vitsut.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/6794825d-035f-493f-8bdb-513bc7624c3c.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/22ffb687-195a-463a-a672-c96eeb7b0253",
+          "person_id": "person/4b077fdb-9c00-4644-a6d7-f681ce6501f7",
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/354ef3a8-150a-4226-9442-c8fcf780dfc0",
-      "name": "Toomas Väinaste",
-      "sort_name": "Toomas Väinaste",
-      "memberships": [
-        {
-          "person_id": "person/354ef3a8-150a-4226-9442-c8fcf780dfc0",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "start_date": "2016-11-24",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4559,34 +2833,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
-          "area_id": "05557089-8a7a-4382-b1e4-5ac4923c6ead",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/1a8c0540-64fd-4d50-b33b-a4c37ef596a3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RE_Urmas_Klaas.jpg",
-      "name": "Urmas Klaas",
-      "sort_name": "Urmas Klaas",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RE_Urmas_Klaas.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/1a8c0540-64fd-4d50-b33b-a4c37ef596a3",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "45a35b1d-9b7c-4a18-9364-3ba1000c1e50",
-          "end_date": "2015-03-27",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4623,53 +2870,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/173df2d0-3584-4a91-bd88-abd1799f83d6",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "06c87347-f5f9-4559-ac81-712851aa9f55",
-          "start_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/22d0ca41-c8a6-4475-9cad-6b932a909a48",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Urmas_Paet.jpg",
-      "name": "Urmas Paet",
-      "sort_name": "Urmas Paet",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "Urmaspaet"
-        }
-      ],
-      "links": [
-        {
-          "url": "urmas.paet",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Urmas_Paet.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/22d0ca41-c8a6-4475-9cad-6b932a909a48",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "end_date": "2015-03-27",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -4691,9 +2892,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4701,50 +2900,30 @@
       ]
     },
     {
-      "gender": "female",
-      "id": "person/cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/SDE_Urve_Palo.jpg",
-      "name": "Urve Palo",
-      "sort_name": "Urve Palo",
+      "email": "urmas.reitelmann@riigikogu.ee",
+      "gender": "male",
+      "id": "person/d970ad5a-fa98-4611-9cf8-d1e608a763a3",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/default-user.jpg",
+      "name": "Urmas Reitelmann",
+      "sort_name": "Urmas Reitelmann",
       "links": [
         {
-          "url": "Urve-Palo",
+          "url": "100005366295010",
           "note": "facebook"
         }
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/SDE_Urve_Palo.jpg"
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/default-user.jpg"
         }
       ],
       "memberships": [
         {
-          "person_id": "person/cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
+          "person_id": "person/d970ad5a-fa98-4611-9cf8-d1e608a763a3",
           "organization_id": "chamber/riigikogu",
           "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "end_date": "2015-04-08",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2015-09-15",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "start_date": "2018-08-22",
-          "legislative_period_id": "term/13"
+          "on_behalf_of_id": "9e085639-3f11-40cd-828e-e33f128cf1c0",
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4781,8 +2960,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "dc9d4a85-9eb1-43c4-b2f7-d48e83700f74",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ]
     },
@@ -4816,40 +2994,8 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "faf2f6db-0177-4fc3-b764-630feb1d627d",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/a579de1e-f1bd-40fa-8afa-08d392dcb7a0",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KE_Valeri_Korb.jpg",
-      "name": "Valeri Korb",
-      "sort_name": "Valeri Korb",
-      "links": [
-        {
-          "url": "korbvaleri",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KE_Valeri_Korb.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/a579de1e-f1bd-40fa-8afa-08d392dcb7a0",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -4876,8 +3022,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4908,8 +3053,7 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
-          "area_id": "b2aa7cf7-1495-473d-99fa-571824dfdd47",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
@@ -4940,114 +3084,11 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
-          "start_date": "2015-04-09",
-          "end_date": "2016-11-23",
-          "legislative_period_id": "term/13"
-        },
-        {
-          "person_id": "person/2cced9a3-4f1c-4266-af00-a73dd22a47f9",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "start_date": "2018-06-15",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
       ],
       "contact_details": [
 
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/5603c46f-d8f8-41d6-9957-472c68f34c27",
-      "name": "Vladimir Arhipov",
-      "sort_name": "Vladimir Arhipov",
-      "links": [
-        {
-          "url": "vladimir.arhipov.165",
-          "note": "facebook"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/5603c46f-d8f8-41d6-9957-472c68f34c27",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "start_date": "2016-11-23",
-          "end_date": "2016-11-24",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "person/9f7d1d83-7cbe-4b84-a6c1-d6ba6db50959",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/KE_Vladimir_Velman.jpg",
-      "name": "Vladimir Velman",
-      "sort_name": "Vladimir Velman",
-      "links": [
-        {
-          "url": "vladimir.velman",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/KE_Vladimir_Velman.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/9f7d1d83-7cbe-4b84-a6c1-d6ba6db50959",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
-        }
-      ],
-      "contact_details": [
-
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "person/77605932-0f05-461e-8a0d-a5618f0fe6b8",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/KE_Yana_Toom.jpg",
-      "name": "Yana Toom",
-      "sort_name": "Yana Toom",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "yanatoom"
-        }
-      ],
-      "links": [
-        {
-          "url": "yana.toom",
-          "note": "facebook"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/KE_Yana_Toom.jpg"
-        }
-      ],
-      "memberships": [
-        {
-          "person_id": "person/77605932-0f05-461e-8a0d-a5618f0fe6b8",
-          "organization_id": "chamber/riigikogu",
-          "role": "member",
-          "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
-          "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
-          "end_date": "2015-03-27",
-          "legislative_period_id": "term/13"
-        }
       ]
     },
     {
@@ -5080,9 +3121,39 @@
           "organization_id": "chamber/riigikogu",
           "role": "member",
           "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
-          "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-          "legislative_period_id": "term/13"
+          "legislative_period_id": "term/14"
         }
+      ]
+    },
+    {
+      "email": "yllar.saaremae@riigikogu.ee",
+      "gender": "male",
+      "id": "person/060a1ef9-4b60-43ff-971f-208c8756cc07",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/a361b42e-e551-4e84-84fd-d98ca6137031.jpg",
+      "name": "Üllar Saaremäe",
+      "sort_name": "Üllar Saaremäe",
+      "links": [
+        {
+          "url": "ullar.saaremae",
+          "note": "facebook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/temp/a361b42e-e551-4e84-84fd-d98ca6137031.jpg"
+        }
+      ],
+      "memberships": [
+        {
+          "person_id": "person/060a1ef9-4b60-43ff-971f-208c8756cc07",
+          "organization_id": "chamber/riigikogu",
+          "role": "member",
+          "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
+          "legislative_period_id": "term/14"
+        }
+      ],
+      "contact_details": [
+
       ]
     }
   ]
