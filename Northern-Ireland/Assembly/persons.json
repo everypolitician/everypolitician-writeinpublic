@@ -1,7 +1,7 @@
 {
-  "total": 96,
+  "total": 97,
   "page": 1,
-  "per_page": 96,
+  "per_page": 97,
   "has_more": false,
   "result": [
     {
@@ -862,6 +862,25 @@
       ]
     },
     {
+      "id": "person/f55d0084-5f09-429b-a16d-0e674ca2c179",
+      "name": "Emma Sheerin",
+      "sort_name": "Emma Sheerin",
+      "memberships": [
+        {
+          "person_id": "person/f55d0084-5f09-429b-a16d-0e674ca2c179",
+          "organization_id": "chamber/northern_ireland_assembly",
+          "role": "member",
+          "on_behalf_of_id": "fcfc4e3c-ae5b-4dd7-8818-a4cbe26372fa",
+          "area_id": "uk.org.publicwhip/cons/375-NI",
+          "start_date": "2018-12-04",
+          "legislative_period_id": "term/6"
+        }
+      ],
+      "contact_details": [
+
+      ]
+    },
+    {
       "gender": "male",
       "id": "person/2ea88561-5c1c-4905-8500-7afb3dc96e09",
       "image": "http://aims.niassembly.gov.uk/images/mla/138_s.jpg",
@@ -1063,6 +1082,7 @@
           "role": "member",
           "on_behalf_of_id": "fcfc4e3c-ae5b-4dd7-8818-a4cbe26372fa",
           "area_id": "uk.org.publicwhip/cons/375-NI",
+          "end_date": "2018-12-01",
           "legislative_period_id": "term/6"
         }
       ],
