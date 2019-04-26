@@ -862,6 +862,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/f55d0084-5f09-429b-a16d-0e674ca2c179",
       "name": "Emma Sheerin",
       "sort_name": "Emma Sheerin",
@@ -1070,6 +1071,12 @@
       "image": "http://aims.niassembly.gov.uk/images/mla/3083_s.jpg",
       "name": "Ian Milne",
       "sort_name": "Ian Milne",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ianmilnesf"
+        }
+      ],
       "images": [
         {
           "url": "http://aims.niassembly.gov.uk/images/mla/3083_s.jpg"
@@ -1085,9 +1092,6 @@
           "end_date": "2018-12-01",
           "legislative_period_id": "term/6"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
