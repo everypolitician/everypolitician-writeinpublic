@@ -1670,6 +1670,7 @@
       ]
     },
     {
+      "email": "Neil.McEvoy@assembly.wales",
       "gender": "male",
       "id": "person/6ea66d0e-77e6-42b0-9e22-f71d00ea9f44",
       "image": "http://senedd.assembly.wales/UserData/5/5/2/Info00000255/bigpic.jpg",
@@ -1694,6 +1695,15 @@
           "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
           "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
           "end_date": "2018-01-16",
+          "legislative_period_id": "term/5"
+        },
+        {
+          "person_id": "person/6ea66d0e-77e6-42b0-9e22-f71d00ea9f44",
+          "organization_id": "chamber/national_assembly_for_wales",
+          "role": "member",
+          "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
+          "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
+          "start_date": "2018-01-16",
           "legislative_period_id": "term/5"
         }
       ]
