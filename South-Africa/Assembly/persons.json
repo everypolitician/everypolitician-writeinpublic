@@ -212,6 +212,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "person/7f19a40a-0135-486c-8d94-15a40cb69273",
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
       "name": "Albert Mammoga Seabi",
@@ -1943,6 +1944,12 @@
       "image": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg",
       "name": "Cyril Ramaphosa",
       "sort_name": "Cyril Ramaphosa",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cyrilramaphosa"
+        }
+      ],
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/2f/d7/2fd743cf7a919b9cb1da83ce299cacbd.jpg"
@@ -1957,9 +1964,6 @@
           "end_date": "2018-02-15",
           "legislative_period_id": "term/26"
         }
-      ],
-      "contact_details": [
-
       ]
     },
     {
@@ -3554,6 +3558,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "person/aca0a5e7-519d-4aba-a789-10801d063968",
       "image": "https://www.pa.org.za/media_root/cache/e3/22/e3228ec8ab11bc5ead4501dc75d17957.jpg",
       "name": "Gloria Bukiwe Fanta",
@@ -8969,6 +8974,7 @@
     },
     {
       "email": "nshabalala@parliament.gov.za",
+      "gender": "female",
       "id": "person/f271f802-6eaa-43e4-acac-a81350c64209",
       "image": "https://www.pa.org.za/static/images/person-210x210.jpg",
       "name": "Nomvuzo Francisca Shabalala",
